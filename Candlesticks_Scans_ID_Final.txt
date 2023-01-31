@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-DIVISLAB		-0.62		3366.4		292175
-BRITANNIA		0.6		4406.75		218721
+ADANIPORTS		2.62		612.65		33272489
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ITC		-0.35		344.8		14092119
-KALYANKJIL		-5.41		105.0		3078982
-OLECTRA		-0.36		462.85		130844
-CLEAN		-2.24		1337.0		49276
+CSBBANK		2.05		248.35		735581
+TTKPRESTIG		-0.44		783.7		255560
+AAVAS		-2.74		1809.25		214587
+INDIGOPNTS		-1.92		1177.15		148562
