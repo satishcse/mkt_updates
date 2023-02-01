@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		0.5		172		6791149
+NTPC		0.5		172		6818991
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SBIN		0.09		554.0		9318740
-HAL		-0.16		2548.7		555445
-SWSOLAR		0.42		287.45		545608
-PRIVISCL		0.12		1001.15		10804
+SBIN		0.25		554.9		9397121
+HAL		-0.17		2548.5		560503
+SPARC		0.87		202.0		125996
+PRIVISCL		0.1		1001.0		10897
