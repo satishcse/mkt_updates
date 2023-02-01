@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HDFC		0.4		2633.4		3756560
-HAVELLS		-0.22		1179.2		584431
-CEATLTD		-3.93		1511.3		93928
-PGHH		-2.5		13818.1		15213
+GICRE		-15.72		155.2		3802637
+CAMS		-0.87		2259.95		61376
