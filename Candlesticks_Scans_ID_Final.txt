@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		-0.33		224.1		8625509
-NTPC		1.46		173.65		3239271
-HCLTECH		0.58		1128.75		566778
-DIVISLAB		2.62		3402.0		160387
+SBIN		0.58		556.7		4942554
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+GOCOLORS		0.06		1038.75		8872
