@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+HINDUNILVR		0.2		2581.9		1874292
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BHARATRAS		-0.61		9184.1		946
+RAYMOND		-10.7		1362.35		448166
