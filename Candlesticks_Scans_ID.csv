@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-TATAMOTORS,0.11,452.6,3649316
-DIVISLAB,2.74,3406.3,148852
+TATAMOTORS,0.09,452.5,3666685
+AXISBANK,0.89,879.35,1844708
+HCLTECH,0.64,1129.35,556318
+DIVISLAB,2.78,3407.3,150384
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
 nsecode,per_chg,close,volume
-ANURAS,0.08,594.1,16768
+TATACHEM,-0.15,971.95,219137
+ANURAS,0.1,594.2,16816
