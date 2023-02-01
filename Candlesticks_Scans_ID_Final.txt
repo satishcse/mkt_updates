@@ -1,13 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+NTPC		0.5		172		6791149
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.1		552.95		9213757
-COCHINSHIP		-1.16		506.0		483109
-KAJARIACER		0.61		1060.9		95995
-POLYPLEX		-0.05		1524.45		24781
-PRIVISCL		0.12		1001.15		10790
+SBIN		0.09		554.0		9318740
+HAL		-0.16		2548.7		555445
+SWSOLAR		0.42		287.45		545608
+PRIVISCL		0.12		1001.15		10804
