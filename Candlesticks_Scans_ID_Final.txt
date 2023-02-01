@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JBCHEPHARM		-1.15		2019.4		3738
-POWERINDIA		0.21		3110.3		1893
-PGHL		-0.22		4085.0		662
+POWERINDIA		0.21		3110.3		1894
+PGHL		-0.12		4088.95		677
