@@ -1,8 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+TATASTEEL		1.71		121.75		7124497
+INFY		0.08		1535.0		1029654
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+OBEROIRLTY		0.17		822.35		41378
+FLUOROCHEM		-1.05		2748.1		21828
+AMBER		-0.44		1903.75		7406
+SYMPHONY		-0.89		951.95		5255
+GRINDWELL		-0.59		1985.15		2402
