@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		1.45		561.55		14066775
-ULTRACEMCO		2.0		7227.0		384493
+SBIN		1.36		561		14108985
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-NAUKRI		-0.16		3665.15		102627
+INDIGO		-0.42		2115.3		287097
