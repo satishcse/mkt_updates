@@ -1,14 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-HDFCLIFE		-10.75		516.6		14894877
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HDFCAMC		-1.96		1853.3		148761
-CCL		-0.99		537.6		133947
-JKCEMENT		-1.32		2674.3		112626
-PFIZER		-0.88		3834.95		8263
-ZFCVINDIA		-0.97		9164.0		1005
+BAJFINANCE		-1.69		5786.95		2128910
+PAYTM		-1.13		524.9		1880838
+JUSTDIAL		-2.34		616.45		90219
+UTIAMC		-1.0		736.9		69486
+ZFCVINDIA		-0.98		9163.8		1010
