@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		2.84		855.5		7079502
+ICICIBANK		2.76		854.9		7130484
+GRASIM		0.49		1598.05		52911
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PGHL		-0.42		4076.75		637
+PGHL		-0.24		4084.05		647
