@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.07		145		2276359
+ONGC		0.07		145		2288033
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DELHIVERY		0.6		303.7		393000
-TATACOMM		0.54		1239.8		173744
-POLYPLEX		0.86		1538.25		15158
+DELHIVERY		0.43		303.2		395061
+TATACOMM		0.56		1240.1		174270
+POLYPLEX		0.89		1538.7		15159
