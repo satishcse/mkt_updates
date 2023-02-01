@@ -2,8 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.07		145.0		3744127
-BAJFINANCE		0.36		5907.85		826463
+ONGC		0.07		145		3818697
+BAJFINANCE		0.28		5903		831621
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
