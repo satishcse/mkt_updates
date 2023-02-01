@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		1.96		122.05		25492823
-M&M		-0.65		1369.85		1311256
-TATACONSUM		1.8		742.6		343153
+TATASTEEL		2.01		122.1		25770867
+M&M		-0.71		1369.0		1313612
+TATACONSUM		1.71		742.0		346904
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-RELIANCE		0.08		2355.75		3290878
+
