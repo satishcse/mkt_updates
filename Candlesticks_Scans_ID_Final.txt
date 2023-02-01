@@ -1,12 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-ADANIPORTS		2.62		612.65		33272489
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CSBBANK		2.05		248.35		735571
-TTKPRESTIG		-0.44		783.7		255551
-INDIGOPNTS		-1.92		1177.15		148541
+HINDZINC		1.29		337.15		215998
+EMAMILTD		-1.41		436.95		20622
+KIMS		-3.0		1462.0		15421
+FLUOROCHEM		-0.45		2765.0		15219
+DCMSHRIRAM		0.47		867.95		4531
+PGHH		-0.83		14054.25		675
+PGHL		0.14		4099.7		236
