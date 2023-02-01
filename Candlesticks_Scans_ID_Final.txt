@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-ITC		1.55		357.8		52678981
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+SBILIFE		-7.34		1130.0		4728087
+MFSL		-6.76		779.2		4199607
