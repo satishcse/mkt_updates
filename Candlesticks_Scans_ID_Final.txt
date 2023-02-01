@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.1		145.05		5160402
-BHARTIARTL		1.31		780.4		1579798
-EICHERMOT		2.44		3342.95		328995
+POWERGRID		1.04		218.9		9314628
+ONGC		0.1		145.05		5222569
+EICHERMOT		2.35		3340.0		332513
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
