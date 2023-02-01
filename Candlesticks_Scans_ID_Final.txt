@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		1.03		402.95		3271365
-HINDUNILVR		0.2		2581.9		1828164
+WIPRO		1.03		402.95		3285833
+HINDUNILVR		0.17		2581.05		1849008
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-RAYMOND		-9.87		1375.05		401981
-CAMPUS		-1.85		384.6		188480
-THYROCARE		-4.36		533.5		51689
-3MINDIA		-2.91		22649.85		2195
+CAMPUS		-2.04		383.85		191822
