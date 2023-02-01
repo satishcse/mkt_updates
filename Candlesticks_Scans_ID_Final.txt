@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-KOTAKBANK		0.86		1745.9		429030
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ADANIGREEN		-2.88		1188.6		1435469
-GNFC		1.73		559.9		328349
-SIEMENS		0.57		2943.2		45042
+LINDEINDIA		-0.45		3305.9		3817
