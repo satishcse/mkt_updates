@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		1.45		219.8		6176465
-BHARTIARTL		1.21		779.65		877284
-APOLLOHOSP		1.6		4323.95		118640
-MARUTI		0.21		8914.0		101481
+POWERGRID		1.5		219.9		6235582
+APOLLOHOSP		1.55		4322.0		118860
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
