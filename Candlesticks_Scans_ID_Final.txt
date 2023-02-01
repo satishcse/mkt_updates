@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		1.96		1634.9		6656446
-RELIANCE		-0.71		2337.15		5948317
+HDFCBANK		1.95		1634.75		6675524
+RELIANCE		-0.68		2337.9		5962580
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DEVYANI		-0.71		153.35		1303248
+DEVYANI		-0.71		153.35		1310741
+MAHLOG		1.59		477.45		108594
+AJANTPHARM		-2.18		1183.4		11649
+PAGEIND		0.21		40121.45		7933
