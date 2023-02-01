@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ASTERDM		-1.22		210.0		244879
-THYROCARE		-3.74		537.0		57946
-TCIEXP		-7.58		1589.4		51894
-3MINDIA		-2.75		22687.35		2323
+GLAND		-2.77		1264.95		491594
+THYROCARE		-3.76		536.85		58077
+TCIEXP		-7.26		1594.85		51989
+SIS		-1.44		368.45		45859
