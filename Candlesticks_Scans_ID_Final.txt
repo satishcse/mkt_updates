@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		2.51		122.7		26979638
+TATASTEEL		2.42		122.6		27037463
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-CAMPUS		0.84		395.15		94231
-PHOENIXLTD		1.19		1385.0		61816
+
