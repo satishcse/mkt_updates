@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+SBIN		1.64		562.55		13632790
+BAJFINANCE		1.2		5957.1		1440420
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-KALPATPOWR		-0.15		514.55		141995
+NAUKRI		-0.12		3666.65		97294
