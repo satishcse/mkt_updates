@@ -6,9 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DMART		-0.03		3501.15		214727
-FDC		-4.73		253.0		141911
-INDOCO		1.4		332.2		122620
-GMMPFAUDLR		-4.33		1571.7		97868
+DMART		-0.04		3501.0		214791
+FINEORG		-0.35		4976.15		22630
 BBTC		0.19		885.3		14420
-ZFCVINDIA		-0.97		9163.9		1017
