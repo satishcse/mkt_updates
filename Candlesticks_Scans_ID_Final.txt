@@ -2,8 +2,16 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-KOTAKBANK		1		1748.25		412021
+KOTAKBANK		1.07		1749.5		417762
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+AWL		2.14		476.45		4527849
+ADANIGREEN		-2.21		1196.85		1410304
+ADANITRANS		-2.05		1737.6		358413
+GNFC		1.43		558.25		302983
+HAL		0.48		2565.0		217598
+SIEMENS		0.6		2944.0		44919
+GRASIM		0.44		1597.2		44779
+JKCEMENT		-0.06		2708.6		17564
