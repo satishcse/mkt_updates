@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.1		145.05		5580908
+ONGC		0.1		145.05		5661988
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
+MFSL		-0.51		831.35		1204433
 SPARC		0.32		200.9		152488
