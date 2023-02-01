@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.66		143.95		7551115
+ONGC		-0.69		143.9		7576861
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+MAZDOCK		-5.5		749.65		1814018
+FLUOROCHEM		-2.52		2707.3		151389
+CAPLIPOINT		0.36		695.45		16462
