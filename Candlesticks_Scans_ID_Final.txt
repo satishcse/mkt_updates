@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.83		143.7		7700709
+ONGC		-0.79		143.75		7719292
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TITAN		-1.86		2332.85		1174129
-GLAND		-2.38		1270.0		318276
-TATAELXSI		-0.84		6577.15		152036
-JKCEMENT		-0.59		2694.25		107527
-CHEMPLASTS		-1.79		434.05		76017
-DCMSHRIRAM		-1.23		853.2		25990
+RELIANCE		-0.69		2337.7		6333407
+TITAN		-1.84		2333.3		1176177
+GLAND		-2.38		1270.0		323126
+ELGIEQUIP		-1.09		375.9		175057
+NAZARA		-2.21		578.15		157274
+HOMEFIRST		1.94		752.7		60112
+PRIVISCL		-0.48		995.15		33528
