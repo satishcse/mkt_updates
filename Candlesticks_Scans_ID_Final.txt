@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.09		452.5		3713814
-HCLTECH		0.57		1128.55		560671
-DIVISLAB		2.56		3400.25		155759
+TATAMOTORS		0.15		452.8		3735088
+HCLTECH		0.56		1128.45		565211
+DIVISLAB		2.5		3398.2		158262
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JBCHEPHARM		-1.5		2012.25		4370
+MAZDOCK		-0.17		791.9		558222
+JBCHEPHARM		-1.46		2013.1		4431
