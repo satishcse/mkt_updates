@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.45		551.0		9071358
-MAZDOCK		-0.99		785.4		876852
-VAIBHAVGBL		0.33		305.2		65252
-PRIVISCL		0.12		1001.15		10783
+SBIN		-0.1		552.95		9213757
+COCHINSHIP		-1.16		506.0		483109
+KAJARIACER		0.61		1060.9		95995
+POLYPLEX		-0.05		1524.45		24781
+PRIVISCL		0.12		1001.15		10790
