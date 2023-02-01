@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GLAND		-2.77		1264.95		491594
-THYROCARE		-3.76		536.85		58077
-TCIEXP		-7.26		1594.85		51989
-SIS		-1.44		368.45		45859
+RAYMOND		-10.85		1360.0		529670
+THYROCARE		-3.78		536.75		58432
+TCIEXP		-7.43		1592.0		52242
+PGHH		-2.27		13849.95		15772
