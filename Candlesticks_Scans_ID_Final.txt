@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+TATAMOTORS		0.15		452.8		3622813
+DIVISLAB		2.79		3407.75		148052
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-POWERINDIA		0.21		3110.3		1894
-PGHL		-0.12		4088.95		677
+
