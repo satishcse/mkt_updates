@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.1		145.05		2162061
-HEROMOTOCO		1.44		2803.0		136750
+ONGC		0.0		144.9		2227958
+HEROMOTOCO		1.4		2802.0		137519
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TATACOMM		0.54		1239.75		170763
+DELHIVERY		0.58		303.65		381523
+TATACOMM		0.54		1239.75		172007
