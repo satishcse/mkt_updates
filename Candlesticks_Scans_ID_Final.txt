@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-INFY		0.05		1534.45		1041647
+INFY		-0.01		1533.6		1050008
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DEEPAKFERT		1.81		659.0		133913
-CARBORUNIV		0.32		976.05		55137
-ICICIGI		0.31		1133.25		29167
-AMBER		-0.54		1902.0		8203
-GRINDWELL		-0.59		1985.15		2502
+ICICIGI		0.32		1133.4		30367
+AMBER		-0.4		1904.6		8219
