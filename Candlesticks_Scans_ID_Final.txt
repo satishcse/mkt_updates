@@ -1,8 +1,18 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+WIPRO		0.59		401.2		835574
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+IRB		-0.44		284.95		1122916
+TVSMOTOR		-0.91		1027.35		561166
+BAJAJFINSV		0.01		1342.65		560225
+SWSOLAR		1.03		289.2		434763
+NAUKRI		0.5		3689.4		53502
+MCX		-0.84		1501.95		53436
+MPHASIS		0.01		2073.0		48201
+HEG		1.25		1049.05		44844
+GODFRYPHLP		-1.86		1887.35		23848
