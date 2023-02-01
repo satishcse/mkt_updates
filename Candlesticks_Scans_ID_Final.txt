@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		1.38		474.85		2297686
-TCS		0.51		3375.8		745066
-TECHM		0.87		1023.8		623371
+HINDALCO		1.41		475.0		2355229
+TCS		0.5		3375.4		746961
+TECHM		0.93		1024.4		623632
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
