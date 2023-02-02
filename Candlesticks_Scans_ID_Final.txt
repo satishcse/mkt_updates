@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.35		1738.6		2715078
+KOTAKBANK		-0.23		1740.75		2731987
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-1.68		3747.25		209112
-FLUOROCHEM		-3.08		2650.05		80474
-GRINFRA		-2.94		1162.65		5885
-PGHH		0.14		13838.85		3264
+EICHERMOT		-3.24		3196.0		453608
+BAJAJ-AUTO		-1.67		3747.7		209679
+FLUOROCHEM		-3.08		2650.25		80672
