@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-2.35		166.0		11164432
-HINDALCO		0.07		468.2		2081537
-ULTRACEMCO		0.58		7182.85		395242
+NTPC		-2.35		166.0		11196183
+HINDALCO		0.04		468.05		2086768
+ULTRACEMCO		0.54		7180.25		396500
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-BASF		-0.05		2452.3		15515
+
