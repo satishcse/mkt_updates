@@ -1,13 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TATAMOTORS		-0.63		443.85		7818544
-HCLTECH		1.23		1146.0		1816498
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-AFFLE		-1.46		1054.95		98812
-CENTURYPLY		-1.68		494.1		53263
-MAPMYINDIA		-0.04		1120.55		49047
+
