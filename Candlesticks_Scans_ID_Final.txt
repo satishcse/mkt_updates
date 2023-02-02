@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-AXISBANK		0.13		858.35		6429301
-JSWSTEEL		0.01		729.75		1782727
+AXISBANK		0.22		859.15		6444977
+INFY		1.73		1577.95		4685311
+WIPRO		0.94		406.2		3312748
+JSWSTEEL		-0.02		729.55		1794169
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
