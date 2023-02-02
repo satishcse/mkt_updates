@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		0.8		405.6		2902461
-HCLTECH		1.23		1146.05		1751038
-BAJFINANCE		-2.64		5663.65		1546657
+WIPRO		0.78		405.55		2911565
+HCLTECH		1.27		1146.45		1753844
+BAJFINANCE		-2.64		5663.45		1548242
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
