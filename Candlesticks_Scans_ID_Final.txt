@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-CIPLA		-0.69		1024.95		403494
-MARUTI		1.74		8921.85		207475
+MARUTI		1.71		8918.75		208020
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-UFLEX		-0.3		536.95		30465
+TCIEXP		-2.53		1555.85		43858
+UFLEX		-0.3		536.95		30472
