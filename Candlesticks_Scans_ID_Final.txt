@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.55		444.2		9335911
-ASIANPAINT		-1.17		2711.7		952946
+NTPC		-2.12		166.4		14648929
+TATAMOTORS		-0.59		444.0		9351997
+BAJFINANCE		-2.3		5683.65		1668424
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-DIVISLAB		-2.8		3262.75		235701
+
