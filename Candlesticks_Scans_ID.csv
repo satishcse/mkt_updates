@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-CIPLA,-0.69,1024.9,393901
-ULTRACEMCO,0.96,7210.1,299227
-MARUTI,1.85,8931.25,201876
+BPCL,-0.93,331.6,1832314
+ULTRACEMCO,1.07,7217.6,304516
+MARUTI,1.9,8935.35,202513
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
 nsecode,per_chg,close,volume
-TCIEXP,-2.58,1555.1,43389
+JINDALSTEL,-5.62,574.05,2086608
+VBL,-3.48,1132.0,804357
+TCIEXP,-2.55,1555.5,43408
