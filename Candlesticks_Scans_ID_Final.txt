@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HCLTECH		1.23		1146.0		1784234
-BAJFINANCE		-2.45		5674.75		1553816
+HCLTECH		1.16		1145.2		1792658
+BAJFINANCE		-2.49		5672.1		1555782
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GODREJPROP		-0.38		1152.1		535832
-COLPAL		-0.12		1450.75		324028
-HOMEFIRST		-2.58		740.0		63376
-CENTURYPLY		-1.66		494.2		51416
+HOMEFIRST		-2.58		740.0		63611
+MAPMYINDIA		-0.03		1120.65		48364
