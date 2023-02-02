@@ -1,8 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+JSWSTEEL		0.53		733.55		1376241
+HEROMOTOCO		-2.94		2647.0		176585
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+VMART		-0.28		2753.45		3555
