@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		-0.66		332.5		3543286
-HDFC		-1.68		2617.1		2801322
-APOLLOHOSP		-0.51		4240.95		408854
+BPCL		-0.66		332.5		3556016
+HDFC		-1.65		2617.8		2823158
+APOLLOHOSP		-0.51		4241.0		409293
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+SAPPHIRE		-3.97		1191.55		914185
+SWSOLAR		-1.55		279.05		394554
