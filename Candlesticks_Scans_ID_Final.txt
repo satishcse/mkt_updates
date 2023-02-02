@@ -1,11 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TECHM		-0.71		1016.45		3360842
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-FDC		-1.13		254.65		76639
-ANURAS		0.01		579.75		28334
+
