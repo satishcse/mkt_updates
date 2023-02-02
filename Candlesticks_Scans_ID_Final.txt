@@ -1,7 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+SBILIFE		-0.05		1108.85		4104015
+BAJFINANCE		-2.55		5669.0		1290916
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
