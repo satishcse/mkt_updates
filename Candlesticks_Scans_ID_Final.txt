@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBILIFE		0.01		1109.55		4117070
-BAJFINANCE		-2.62		5665.0		1301643
-CIPLA		-0.75		1024.3		417229
+SBILIFE		0.0		1109.45		4123795
+BAJFINANCE		-2.58		5667.35		1303310
+CIPLA		-0.79		1023.85		419542
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
