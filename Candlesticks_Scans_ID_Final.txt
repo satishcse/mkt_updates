@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		-1.96		212.3		6223060
+WIPRO		0.86		405.85		2899494
+HCLTECH		1.31		1146.95		1743657
+BAJFINANCE		-2.46		5673.85		1544792
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-BERGEPAINT		-1.32		542.5		489982
+
