@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		-2.04		1594.4		5921440
-HDFC		-2.27		2601.2		2215768
-ULTRACEMCO		0.39		7169.4		475391
+HDFCBANK		-2.09		1593.6		5932512
+HDFC		-2.25		2601.75		2222220
+ULTRACEMCO		0.39		7169.35		475979
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PGHH		-0.05		13812.3		3339
+ADANIENT		-20.89		1689.35		23422128
+TCIEXP		-10.85		1423.0		138885
+PGHH		-0.06		13811.85		3337
