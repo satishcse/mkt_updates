@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-NTPC,-2.03,166.55,16153998
-BPCL,-0.75,332.2,3611997
-HDFC,-1.78,2614.25,2874883
-APOLLOHOSP,-0.52,4240.3,409700
+BPCL,-0.78,332.1,3613980
+HDFC,-1.88,2611.75,2891647
+APOLLOHOSP,-0.54,4239.5,411490
+DRREDDY,-0.02,4350.45,254304
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+SWSOLAR,-1.5,279.2,397473
