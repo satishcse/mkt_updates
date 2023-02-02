@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-UPL		-4.2		711		4178246
+UPL		-4.43		709.3		4208509
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BPCL		-1.17		330.8		1792693
-SHRIRAMFIN		-1.9		1272.75		216894
-TCIEXP		-2.47		1556.9		35840
+SHRIRAMFIN		-1.87		1273.1		216976
+TCIEXP		-2.44		1557.25		35874
