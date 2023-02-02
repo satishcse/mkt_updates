@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.99		2599.85		720603
-GRASIM		0.8		1600.5		245022
+ASIANPAINT		-0.7		2724.55		686716
+GRASIM		0.8		1600.45		245305
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+EICHERMOT		-2.69		3214.25		311447
+BASF		0.2		2458.4		14553
