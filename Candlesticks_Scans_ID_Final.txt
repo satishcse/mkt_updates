@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HCLTECH		1.24		1146.1		1852079
-NESTLEIND		-0.94		18910.0		42232
+HCLTECH		1.15		1145.15		1855809
+NESTLEIND		-0.94		18910.0		42285
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CAMS		-0.24		2253.65		24588
+CAMS		-0.24		2253.65		24687
