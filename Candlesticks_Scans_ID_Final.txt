@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		-1.75		212.75		9498878
-WIPRO		1.88		409.95		5314927
-TCS		1.58		3462.05		1793175
+POWERGRID		-1.73		212.8		9556960
+WIPRO		1.85		409.85		5347876
+TCS		1.52		3460.0		1802785
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SAPPHIRE		-4.49		1185.1		923995
-HEG		-0.72		1013.05		94389
-CARBORUNIV		0.76		982.8		81983
-ATUL		-0.09		7170.1		16066
-LUXIND		-1.79		1452.45		13134
+CARBORUNIV		0.57		981		82650
+CEATLTD		-0.13		1526		51745
