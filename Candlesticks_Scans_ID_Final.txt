@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+POWERGRID		-1.89		212.45		6216195
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BERGEPAINT		-1.23		543.0		488089
-JSWENERGY		-3.38		227.25		412827
+BERGEPAINT		-1.24		542.95		489646
