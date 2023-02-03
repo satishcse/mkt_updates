@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.33		120.35		46985481
+TATASTEEL		0.33		120.35		46985410
 ITC		0.54		380.65		22295321
-COALINDIA		0.57		218.9		8776629
-BPCL		-1.66		326.7		2827390
+COALINDIA		0.57		218.9		8776614
+BPCL		-1.66		326.7		2826909
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-EMAMILTD		-0.52		419.95		210431
+EMAMILTD		-0.52		419.95		210237
 GOCOLORS		-0.81		1060.0		29335
-SANOFI		-1.01		5353.6		12097
+SANOFI		-1.01		5353.6		12095
