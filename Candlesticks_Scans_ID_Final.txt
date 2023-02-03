@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-INFY		0.81		1596.5		3816854
-HDFC		2.19		2670.55		2559156
+INFY		0.85		1597.15		3826864
+HDFC		2.18		2670.15		2562968
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-COROMANDEL		-1.35		869.45		285467
+
