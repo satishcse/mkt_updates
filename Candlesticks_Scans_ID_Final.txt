@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.94		219.7		6748931
-HINDUNILVR		0.12		2637.95		1168838
-ASIANPAINT		1.54		2747.45		952885
+HINDUNILVR		0.12		2638		1170869
+ASIANPAINT		1.45		2745		955653
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BBTC		-1.92		924.65		74080
+COLPAL		-0.65		1452.0		265618
+ZYDUSWELL		-0.99		1395.8		9130
