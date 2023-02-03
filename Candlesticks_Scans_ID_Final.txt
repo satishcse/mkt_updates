@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-NATCOPHARM		0.03		525.9		73689
-METROBRAND		-0.75		743.8		28712
+NATCOPHARM		0.03		525.9		73702
 GRINFRA		-1.69		1138.95		3520
