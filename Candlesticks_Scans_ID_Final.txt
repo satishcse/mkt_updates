@@ -1,17 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-ONGC		-1.78		140.9		3175914
-TITAN		4.14		2403.7		1377310
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LICI		-1.35		591.0		922823
-NATCOPHARM		-0.04		525.55		73373
-SHILPAMED		-3.92		233.9		69877
-LODHA		-3.45		979.9		51936
-GESHIP		-0.31		636.95		38860
+NATCOPHARM		0.02		525.85		73396
 METROBRAND		-0.83		743.2		28686
-SANOFI		-0.43		5385.0		2843
+GRINFRA		-1.69		1139.0		3519
