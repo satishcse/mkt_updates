@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		-1.41		458.85		4057808
-BPCL		-1.43		327.45		2116258
-HINDUNILVR		0.18		2639.6		1208900
-ASIANPAINT		1.6		2748.9		976746
+HINDALCO		-1.39		458.95		4061563
+BPCL		-1.48		327.3		2118826
+ASIANPAINT		1.58		2748.5		979175
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-COLPAL		-0.64		1452.05		290073
+COLPAL		-0.64		1452.05		290276
 BBTC		-1.9		924.8		74439
-ZYDUSWELL		-1.03		1395.2		9370
