@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.83		118.95		33102040
-COALINDIA		0.34		218.4		6044613
-ONGC		-0.66		142.5		5271942
-KOTAKBANK		-0.3		1756.55		1414002
-GRASIM		0.02		1599.0		473436
+TATASTEEL		-0.79		119.0		33250056
+COALINDIA		0.34		218.4		6045823
+POWERGRID		0.09		212.9		5646580
+ONGC		-0.66		142.5		5275437
+GRASIM		0.01		1598.95		473830
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AFFLE		-0.73		1058.65		108853
+GLAND		-5.15		1210.35		213931
