@@ -28,19 +28,19 @@ Fundamental_Tenchnical_Swing
 ---------------------------- 
 nsecode		per_chg		close		volume
 CMSINFO		2.34		310.4		160850
-CGPOWER		1.03		309.25		3180093
-PERSISTENT		0.55		4851.0		330691
+CGPOWER		1.03		309.25		3179893
+PERSISTENT		0.55		4851.0		330668
 ITC		0.54		380.65		22295321
-ANANDRATHI		0.03		763.15		219677
+ANANDRATHI		0.03		763.15		219601
 GRAVITA		-2.74		500.65		271157
 
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
 NELCAST		0.0		99.7		655543
-IDFC		-0.39		88.55		22085317
-GICRE		-1.25		157.55		1772511
-UGARSUGAR		-1.68		87.65		630873
+IDFC		-0.39		88.55		22085417
+GICRE		-1.25		157.55		1773584
+UGARSUGAR		-1.68		87.65		630883
 
 FIPA_above_all_SMAs								 
 ------------------- 
