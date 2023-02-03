@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-1.57		141.2		3942286
+ONGC		-1.57		141.2		3956867
+LT		0.21		2149.5		976967
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-INDUSINDBK		1.31		1090.0		4912485
-AFFLE		-0.02		1066.2		83806
-JKCEMENT		-2.8		2603.25		69196
+JKCEMENT		-2.82		2602.85		69392
