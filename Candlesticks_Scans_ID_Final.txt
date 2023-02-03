@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.58		119.25		34087956
-COALINDIA		0.46		218.65		6134283
-POWERGRID		0.26		213.25		5832644
-BAJAJFINSV		3.31		1314.05		1896636
-APOLLOHOSP		-0.46		4212.1		322013
+TATASTEEL		-0.58		119.25		34110977
+NTPC		-1.35		164.65		7132818
+COALINDIA		0.46		218.65		6154100
+POWERGRID		0.26		213.25		5839568
+BAJAJFINSV		3.39		1315.0		1898365
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		0.78		1084.25		6601461
