@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBILIFE		1.43		1123.3		2638816
-APOLLOHOSP		-0.39		4214.9		307429
+TATAMOTORS		0.18		445.6		7978129
+APOLLOHOSP		-0.43		4213.4		307990
+DRREDDY		0.1		4374.65		261283
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JKLAKSHMI		-2.06		749.55		147667
+JKLAKSHMI		-2.21		748.4		147810
