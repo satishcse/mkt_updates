@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-1.74		164.0		3656402
-INFY		0.36		1589.5		2431694
-HDFCBANK		2.01		1635.55		2280208
+INFY		0.37		1589.6		2440460
+HDFCBANK		1.97		1635.0		2292322
+HCLTECH		-0.67		1141.9		455570
+BAJAJ-AUTO		-0.18		3784.0		49102
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+SWANENERGY		-7.51		272.3		428588
