@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+ITC		-0.99		374.85		12199334
+POWERGRID		0.31		213.35		4325476
+ONGC		-1.53		141.25		4040466
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-CROMPTON		-9.66		300.25		5650067
-HAVELLS		-0.98		1187.0		145212
-INDIAMART		0.37		4555.45		29798
-THYROCARE		-2.42		512.0		19356
+
