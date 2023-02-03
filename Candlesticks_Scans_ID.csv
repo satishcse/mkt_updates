@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-INFY,0.32,1588.75,2451648
-HDFCBANK,1.93,1634.3,2303330
-HCLTECH,-0.79,1140.5,457324
-BAJAJ-AUTO,-0.18,3784.0,49183
+INFY,0.21,1587.15,2460978
+HDFCBANK,1.91,1634.0,2312754
+HCLTECH,-0.84,1140.0,459585
+BAJAJ-AUTO,-0.24,3781.5,49400
+NESTLEIND,-0.08,18939.9,15692
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+BASF,-2.24,2375.4,7826
