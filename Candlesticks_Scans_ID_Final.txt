@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-1.5		141.3		3997426
+ONGC		-1.46		141.35		4000999
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-POONAWALLA		-2.46		284.0		790633
-INDIAMART		0.22		4548.6		28836
-THYROCARE		-2.5		511.6		18948
-SUNDRMFAST		-0.96		969.45		18861
+INDIAMART		0.24		4549.5		29113
+THYROCARE		-2.53		511.45		18994
+SUNDRMFAST		-0.93		969.65		18871
