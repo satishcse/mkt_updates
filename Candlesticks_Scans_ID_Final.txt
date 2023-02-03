@@ -1,15 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TITAN		4.13		2403.35		1328110
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ACC		-6.31		1725.0		1668476
-MAHINDCIE		-2.09		392.05		324256
-INDIGO		-1.22		2099.0		234803
-TANLA		-2.22		620.45		71747
-HEROMOTOCO		-1.26		2627.4		65629
-GALAXYSURF		-1.69		2373.3		6245
+SCI		-6.43		117.9		1162172
+LTIM		-1.09		4537.9		245314
+SHILPAMED		-3.92		233.9		69848
+BBTC		-1.77		926.05		34732
+MTARTECH		-0.77		1664.45		33797
