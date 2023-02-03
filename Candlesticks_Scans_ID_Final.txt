@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		-1.24		459.65		4293135
-BHARTIARTL		1.52		789.6		4018879
-LT		1.05		2167.45		1820393
+HINDALCO		-1.17		459.95		4340663
+BHARTIARTL		1.61		790.25		4025149
+LT		1.07		2167.8		1825787
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GALAXYSURF		-3.08		2339.85		12332
+TIINDIA		-1.78		2642		91509
