@@ -10,6 +10,6 @@ BPCL		-1.66		326.7		2827390
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-EMAMILTD		-0.52		419.95		210237
+EMAMILTD		-0.52		419.95		210431
 GOCOLORS		-0.81		1060.0		29335
-SANOFI		-1.01		5353.6		12095
+SANOFI		-1.01		5353.6		12097

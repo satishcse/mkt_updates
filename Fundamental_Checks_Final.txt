@@ -38,9 +38,9 @@ Zero_Debt_Momentum
 ------------------ 
 nsecode		per_chg		close		volume
 NELCAST		0.0		99.7		655543
-IDFC		-0.39		88.55		22085317
-GICRE		-1.25		157.55		1772511
-UGARSUGAR		-1.68		87.65		630873
+IDFC		-0.39		88.55		22085417
+GICRE		-1.25		157.55		1773584
+UGARSUGAR		-1.68		87.65		630883
 
 FIPA_above_all_SMAs								 
 ------------------- 
@@ -72,7 +72,7 @@ IIFL		-2.46		506.95		538939
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-ISMTLTD		10.78		70.4		3094343
-RAJESHEXPO		5.4		946.85		1047556
+ISMTLTD		10.78		70.4		3096365
+RAJESHEXPO		5.4		946.85		1047576
 MOLDTECH		4.81		188.5		2474930
 KABRAEXTRU		4.57		608.7		460546
