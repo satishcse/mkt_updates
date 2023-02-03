@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AMBUJACEM		-7.22		327.1		15732572
-JKCEMENT		-2.62		2608.05		45822
 JUBLPHARMA		-1.35		343.4		31671
-AMBER		0.35		1896.15		5442
+AMBER		0.3		1895.25		5505
