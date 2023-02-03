@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.16		2639.0		1158243
-ASIANPAINT		1.55		2747.6		949213
+HINDUNILVR		0.15		2638.9		1161953
+ASIANPAINT		1.57		2748.0		950345
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ZYDUSWELL		-0.99		1395.8		9112
