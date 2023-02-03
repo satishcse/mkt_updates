@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.16		218.0		4551635
-INFY		0.35		1589.35		2649245
-HINDALCO		-2.65		453.05		2569570
-CIPLA		-0.43		1020.85		599980
+COALINDIA		0.16		218.0		4560663
+INFY		0.39		1589.95		2655213
+HINDALCO		-2.72		452.75		2573372
+CIPLA		-0.46		1020.55		602852
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-SKFINDIA		-1.58		4405		2845
+
