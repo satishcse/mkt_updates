@@ -70,7 +70,7 @@ IIFL		-2.79		505.25		538936
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-ISMTLTD		9.52		69.6		3096046
+ISMTLTD		9.52		69.6		3094026
 MOLDTECH		7.12		192.65		2474892
 RAJESHEXPO		5.53		948.0		1036740
 KABRAEXTRU		5.14		612.0		460520
