@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-1.64		141.1		3917497
-TECHM		-0.9		1007.5		1307350
+ONGC		-1.6		141.15		3919499
+TECHM		-0.87		1007.85		1307949
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SKFINDIA		-1.58		4405		2896
+JKCEMENT		-3.26		2591.0		68715
+GESHIP		-0.63		634.9		47066
+SUNDRMFAST		-1.19		967.2		18082
+INDIGOPNTS		-1.42		1133.65		14260
+BLUEDART		-2.83		6042.6		7479
+SKFINDIA		-1.58		4405.0		2896
