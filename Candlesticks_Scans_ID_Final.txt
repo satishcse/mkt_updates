@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-AXISBANK		0.48		872.65		2074445
+AXISBANK		0.37		871.7		2079832
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-FACT		-2.95		269.85		192467
-CUMMINSIND		-0.98		1435.45		30906
-TIINDIA		-2.26		2629.05		21359
-PRIVISCL		-0.92		985.0		9415
+INDOCO		-1.07		333.95		37105
