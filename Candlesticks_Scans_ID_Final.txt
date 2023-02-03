@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TATACHEM		0.04		967.6		748341
-SAREGAMA		-0.03		341.75		23900
-AMBER		0.17		1892.8		5300
+AMBUJACEM		-7.57		325.85		15571328
+AMBER		0.29		1894.95		5302
