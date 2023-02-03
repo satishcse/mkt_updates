@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.38		854.65		8692236
-COALINDIA		0.25		218.2		5527012
-TITAN		4.84		2419.7		1974120
-APOLLOHOSP		-0.51		4209.85		300651
+ICICIBANK		-0.45		854.05		8719487
+COALINDIA		0.28		218.25		5550679
+TITAN		4.89		2421.0		1979701
+APOLLOHOSP		-0.43		4213.1		300904
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SUVENPHAR		-0.56		486		70489
+SUVENPHAR		-0.56		486		71457
