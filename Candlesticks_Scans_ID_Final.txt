@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-POWERGRID		-0.66		211.3		1674706
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-INDUSINDBK		3.42		1112.65		2636216
-BALKRISIND		-0.94		2256.4		35696
-SUPREMEIND		-0.71		2530.2		6305
+INDUSINDBK		3.25		1110.9		2661838
+BDL		-1.89		910.1		61889
+SUPREMEIND		-0.72		2529.95		6368
