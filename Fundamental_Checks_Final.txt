@@ -28,10 +28,10 @@ Fundamental_Tenchnical_Swing
 ---------------------------- 
 nsecode		per_chg		close		volume
 CMSINFO		2.34		310.4		160850
-CGPOWER		1.03		309.25		3180093
-PERSISTENT		0.55		4851.0		330691
+CGPOWER		1.03		309.25		3179893
+PERSISTENT		0.55		4851.0		330668
 ITC		0.54		380.65		22295321
-ANANDRATHI		0.03		763.15		219677
+ANANDRATHI		0.03		763.15		219601
 GRAVITA		-2.74		500.65		271157
 
 Zero_Debt_Momentum								 
@@ -72,7 +72,7 @@ IIFL		-2.46		506.95		538939
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-ISMTLTD		10.78		70.4		3094343
-RAJESHEXPO		5.4		946.85		1047556
+ISMTLTD		10.78		70.4		3096365
+RAJESHEXPO		5.4		946.85		1047576
 MOLDTECH		4.81		188.5		2474930
 KABRAEXTRU		4.57		608.7		460546
