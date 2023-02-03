@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-INFY		0.28		1588.15		2111953
-HINDALCO		-2.62		453.2		1884920
+INFY		0.39		1590.0		2121576
+HINDALCO		-2.59		453.35		1898289
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CYIENT		0.91		899.15		168575
-NAVINFLUOR		-0.19		3986.95		10564
+CYIENT		1.12		901.0		170742
+ICICIGI		-0.56		1124.0		49529
+SUNDRMFAST		-0.52		973.75		10278
