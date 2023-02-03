@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+UPL		2.1		711.05		1369337
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-INDUSINDBK		1.31		1089.95		5547201
-GALAXYSURF		-2.1		2363.4		7368
-TEAMLEASE		0.44		2258.65		5044
+CAPLIPOINT		0.11		699.95		13569
+GALAXYSURF		-2.1		2363.4		7370
+TEAMLEASE		0.43		2258.35		5062
