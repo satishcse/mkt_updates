@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-AXISBANK		0.67		874.25		2042243
+AXISBANK		0.55		873.2		2054585
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ALKEM		0.19		3081.85		11103
+ADANIENT		-21.23		1233.0		1994462
+BATAINDIA		-0.59		1522.2		34218
+ALKEM		0.19		3081.85		11227
