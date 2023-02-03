@@ -1,13 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+TITAN		4.15		2403.85		1362555
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SCI		-6.43		117.9		1162172
-LTIM		-1.09		4537.9		245314
-SHILPAMED		-3.92		233.9		69848
-BBTC		-1.77		926.05		34732
-MTARTECH		-0.77		1664.45		33797
+LICI		-1.36		590.95		913104
+NATCOPHARM		-0.07		525.4		72313
+SHILPAMED		-3.92		233.9		69849
+LODHA		-3.45		979.95		51867
+METROBRAND		-0.87		742.85		28492
+SANOFI		-0.43		5384.95		2835
