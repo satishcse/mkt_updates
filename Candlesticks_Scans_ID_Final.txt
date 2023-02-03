@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-INFY		0.27		1587.95		2480601
-HDFCBANK		1.86		1633.15		2328172
-HCLTECH		-0.82		1140.2		466379
-BAJAJ-AUTO		-0.28		3780.0		49817
-NESTLEIND		-0.2		18915.75		15797
+INFY		0.21		1587.0		2489664
+HDFCBANK		1.97		1635.0		2337099
+HCLTECH		-0.81		1140.25		468378
+BAJAJ-AUTO		-0.25		3781.4		50043
+NESTLEIND		-0.19		18917.7		15830
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
+TCIEXP		-0.94		1433.55		62930
 PRIVISCL		-1.96		974.6		11670
+SCHAEFFLER		-1.48		2618.15		10764
+BASF		-2.14		2377.95		8268
