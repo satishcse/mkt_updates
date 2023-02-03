@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-POWERGRID,-1.78,212.7,9615498
-WIPRO,1.75,409.45,5417730
-TCS,1.53,3460.4,1813847
-BAJAJ-AUTO,-0.54,3790.7,309024
+TCS,1.26,3504.0,64502
+WIPRO,0.76,412.55,41566
+POWERGRID,0.24,213.2,19433
+BAJAJ-AUTO,-0.15,3785.0,426
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-nsecode,per_chg,close,volume
-SHYAMMETL,-0.75,299.35,60851
-ATUL,-0.13,7167.1,16241
+
