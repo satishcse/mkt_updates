@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.93		165.35		9468798
+NTPC		-0.9		165.4		9483641
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PAYTM		-2.88		529.95		2719140
-SANOFI		-0.6		5375.85		7146
+SANOFI		-0.6		5376		7156
