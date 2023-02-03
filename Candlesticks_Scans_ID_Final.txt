@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.58		119.25		34004304
-HDFCLIFE		-1.75		484.1		7599893
-COALINDIA		0.48		218.7		6119544
-POWERGRID		0.24		213.2		5807540
+TATASTEEL		-0.54		119.3		34024292
+COALINDIA		0.48		218.7		6126001
+POWERGRID		0.24		213.2		5815318
+BAJAJFINSV		3.29		1313.7		1885266
+KOTAKBANK		-0.35		1755.65		1451654
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-FINEORG		-1.36		4851.6		10992
-DCMSHRIRAM		-1.4		853.6		4957
+DCMSHRIRAM		-1.4		853.6		4830
