@@ -5,4 +5,6 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+GODREJPROP		-1.23		1141.8		495661
+SANOFI		-0.44		5384.35		2603
