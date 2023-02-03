@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		-1.68		457.6		4556844
-BHARTIARTL		1.61		790.25		4054583
-LT		1.11		2168.7		1837704
+HINDALCO		-1.76		457.2		4595232
+BHARTIARTL		1.71		791.05		4063664
+LT		1.04		2167.1		1841434
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SUDARSCHEM		-1.97		369.05		77818
-GALAXYSURF		-3.08		2339.9		12441
-ASTRAZEN		-1.88		3304.2		4660
+SUDARSCHEM		-1.98		369.0		77838
+ASTRAZEN		-1.88		3304.25		4663
