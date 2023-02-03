@@ -6,8 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TATACHEM		0.08		968.0		735738
-SONACOMS		-0.14		450.45		222070
-CHEMPLASTS		-1.61		426.8		44162
-MTARTECH		-0.51		1668.85		29164
-CENTURYTEX		-1.74		688.8		13954
+JSWSTEEL		-0.66		722.6		1081164
