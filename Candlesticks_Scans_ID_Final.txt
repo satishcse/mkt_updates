@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.91		118.05		27382634
-KOTAKBANK		-1.7		1750.0		1736537
-TECHM		-0.47		1006.5		1264451
-HCLTECH		-0.57		1139.65		1076228
-CIPLA		-0.17		1020.6		606792
+SBIN		0.37		546.2		17159868
+ADANIENT		-1.55		1562.25		12703280
+HCLTECH		-0.58		1139.5		1077408
+CIPLA		-0.2		1020.25		607925
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
