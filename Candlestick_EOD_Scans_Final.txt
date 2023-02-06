@@ -13,13 +13,13 @@ Bullish_Hammer_Daily_N50
 ------------------------ 
 nsecode		per_chg		close		volume
 ADANIENT		-0.89		1572.7		19308603
-COALINDIA		0.32		219.6		5742980
+COALINDIA		0.32		219.6		5742881
 UPL		-0.16		714.55		1366976
 ASIANPAINT		-0.22		2754.2		1120284
-GRASIM		0.11		1618.1		497084
+GRASIM		0.11		1618.1		497083
 DRREDDY		-0.2		4349.55		303222
-MARUTI		-0.38		8908.0		205225
-NESTLEIND		0.09		19021.5		69135
+MARUTI		-0.38		8908.0		205161
+NESTLEIND		0.09		19021.5		69134
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ---------------------------------- 

@@ -77,7 +77,7 @@ HONAUT		-0.87		39525.0		2087
 High_Relative_Volume_Spurt_5m								 
 ----------------------------- 
 nsecode		per_chg		close		volume
-SYNGENE		-0.86		561.85		329764
+SYNGENE		-0.86		561.85		329753
 
 Open_High								 
 --------- 
@@ -99,6 +99,6 @@ nsecode		per_chg		close		volume
 IDEA		20.44		8.25		675108185
 AARTIIND		6.25		564.6		2714014
 COROMANDEL		2.2		892.8		341513
-BPCL		2.16		333.75		3305900
-SHRIRAMFIN		1.14		1293.65		417699
+BPCL		2.16		333.75		3305929
+SHRIRAMFIN		1.14		1293.65		417714
 FEDERALBNK		-0.37		132.9		7606254
