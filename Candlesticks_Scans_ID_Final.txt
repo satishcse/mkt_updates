@@ -2,7 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.78		786.7		1845598
+RELIANCE		-0.68		2313.1		5747109
+TATAMOTORS		-0.95		441.2		5507000
+POWERGRID		0.93		216.85		3946027
+TECHM		-0.54		1005.85		1647164
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
