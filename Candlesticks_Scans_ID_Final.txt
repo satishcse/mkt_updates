@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		0.18		165.85		6259055
-POWERGRID		0.67		216.3		4174825
-HDFC		-0.36		2684.9		2030970
-M&M		-1.01		1373.95		1324930
+TATASTEEL		-2.12		117.8		39174790
+NTPC		0.33		166.1		6556338
+HINDALCO		-2.58		447.8		3850566
+WIPRO		-0.94		404.05		2383405
+TECHM		-0.54		1005.85		1743228
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ITC		0.58		382.85		23129856
+
