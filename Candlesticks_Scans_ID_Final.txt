@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.05		219.0		2300211
-ICICIBANK		-0.27		861.5		1428557
+COALINDIA		0.05		219.0		2313602
+ICICIBANK		-0.43		860.05		1449547
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BAJAJFINSV		-0.86		1326		505591
