@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HCLTECH		-0.53		1140.05		1142254
-GRASIM		0.07		1617.55		372331
-EICHERMOT		-1.92		3252.9		234141
+HCLTECH		-0.54		1139.95		1143491
+GRASIM		0.09		1617.8		372527
+APOLLOHOSP		0.41		4268.9		135988
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
