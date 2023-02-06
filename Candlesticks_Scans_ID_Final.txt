@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.24		143.95		4032555
-APOLLOHOSP		0.41		4268.85		126391
+TATASTEEL		-1.91		118.05		27382634
+KOTAKBANK		-1.7		1750.0		1736537
+TECHM		-0.47		1006.5		1264451
+HCLTECH		-0.57		1139.65		1076228
+CIPLA		-0.17		1020.6		606792
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-HINDUNILVR		-1.69		2603.95		1074751
-LT		-0.67		2152.0		860399
-HONAUT		-0.68		39600.0		1046
+
