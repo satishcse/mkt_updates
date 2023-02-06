@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		1.21		330.65		1414347
-HCLTECH		-0.6		1139.3		1086223
-MARUTI		-0.97		8855.8		125468
+BPCL		1.21		330.65		1417936
+HCLTECH		-0.57		1139.65		1091147
+MARUTI		-0.9		8861.45		125809
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
