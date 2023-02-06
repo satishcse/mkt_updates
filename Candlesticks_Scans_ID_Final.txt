@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.32		542.45		12752701
-WIPRO		-1.18		403.1		1065439
-BAJAJ-AUTO		-0.21		3844.6		47537
+SBIN		-0.36		542.25		12765577
+WIPRO		-1.2		403.0		1071361
+BAJAJ-AUTO		-0.21		3844.4		47930
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ULTRACEMCO		-0.58		7147.45		63287
