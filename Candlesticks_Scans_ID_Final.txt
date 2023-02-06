@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HCLTECH		-0.55		1139.9		1144946
-GRASIM		0.1		1617.95		372822
-APOLLOHOSP		0.43		4269.95		136192
+HCLTECH		-0.51		1140.35		1146164
+GRASIM		0.05		1617.2		373032
+APOLLOHOSP		0.39		4268.3		136304
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-THYROCARE		-3.84		495.2		124036
+
