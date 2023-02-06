@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.48		541.6		12948273
-TATAMOTORS		-0.64		442.6		2641828
-ONGC		-0.52		143.55		2225701
-WIPRO		-1.2		403.0		1111047
-BAJAJ-AUTO		-0.72		3825.0		55009
+SBIN		-0.4		542.05		12967487
+TATAMOTORS		-0.55		443.0		2662078
+ONGC		-0.49		143.6		2256380
+WIPRO		-1.2		403.0		1119728
+BAJAJ-AUTO		-0.46		3835.0		55614
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
