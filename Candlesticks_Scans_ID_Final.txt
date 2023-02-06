@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		-0.79		2310.7		2798183
+RELIANCE		-0.72		2312.3		2812281
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BAYERCROP		0.07		4390.75		916
