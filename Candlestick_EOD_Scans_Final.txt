@@ -2,30 +2,30 @@
 Hanging_Man_N100								 
 ---------------- 
 nsecode		per_chg		close		volume
-NYKAA		-2.68		137.95		5863283
-M&M		-0.86		1376.0		1504382
-TCS		-0.64		3459.95		1138714
+NYKAA		-2.68		137.95		5863303
+M&M		-0.86		1376.0		1504630
+TCS		-0.64		3459.95		1138717
 EICHERMOT		-1.69		3260.7		346025
 DRREDDY		-0.2		4349.55		303222
-BOSCHLTD		0.2		17449.55		9895
+BOSCHLTD		0.2		17449.55		9900
 
 Bullish_Hammer_Daily_N50								 
 ------------------------ 
 nsecode		per_chg		close		volume
 ADANIENT		-0.89		1572.7		19308603
-COALINDIA		0.32		219.6		5742881
+COALINDIA		0.32		219.6		5742980
 UPL		-0.16		714.55		1366976
 ASIANPAINT		-0.22		2754.2		1120284
-GRASIM		0.11		1618.1		497083
+GRASIM		0.11		1618.1		497084
 DRREDDY		-0.2		4349.55		303222
-MARUTI		-0.38		8908.0		205161
-NESTLEIND		0.09		19021.5		69134
+MARUTI		-0.38		8908.0		205225
+NESTLEIND		0.09		19021.5		69135
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ---------------------------------- 
 nsecode		per_chg		close		volume
-WIPRO		-0.8		404.65		2979011
-MARUTI		-0.38		8908.0		205161
+WIPRO		-0.8		404.65		2979046
+MARUTI		-0.38		8908.0		205225
 
 Wekly_NCPR_KGS								 
 -------------- 
