@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.93		441.3		5525600
-POWERGRID		0.88		216.75		4013277
-DIVISLAB		-4.0		2769.05		1920527
-TECHM		-0.59		1005.35		1650087
+POWERGRID		0.88		216.75		4036118
+HDFC		-0.38		2684.3		1993285
+TECHM		-0.56		1005.65		1650920
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
