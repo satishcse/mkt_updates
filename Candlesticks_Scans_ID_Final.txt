@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFC		-0.33		2685.8		1651719
-TATACONSUM		0.47		730.0		562735
-GRASIM		0.06		1617.3		370361
-EICHERMOT		-1.91		3253.5		232596
+HDFC		-0.43		2683.0		1657253
+TATACONSUM		0.47		730.0		563961
+GRASIM		0.09		1617.75		370892
+EICHERMOT		-1.9		3253.8		233548
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-JBCHEPHARM		-1.2		2034.95		9387
+
