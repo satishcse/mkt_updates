@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.59		143.45		4533422
-BHARTIARTL		-0.96		785.3		1607086
-HCLTECH		-0.55		1139.9		1162814
-JSWSTEEL		-2.09		716.55		737847
+TATASTEEL		-1.79		118.2		29066243
+ITC		1.1		384.85		19450424
+HDFCLIFE		-1.84		479.9		5329644
+ONGC		-0.55		143.5		4544379
+BHARTIARTL		-0.99		785.05		1609906
+HCLTECH		-0.5		1140.45		1164113
+JSWSTEEL		-1.97		717.4		739315
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SANOFI		-0.93		5303.85		7386
+SANOFI		-0.95		5303		7435
