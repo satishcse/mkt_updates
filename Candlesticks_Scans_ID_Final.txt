@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		0.45		166.3		4288396
-TITAN		0.02		2463.7		577662
-GRASIM		-0.7		1605.0		288958
+KOTAKBANK		-1.71		1749.9		1648720
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GOCOLORS		-4.11		1015.6		56650
 SANOFI		-0.34		5335.4		4924
