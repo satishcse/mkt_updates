@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIPORTS		9.99		548.7		35851923
-TATACONSUM		0.52		730.4		771716
+ADANIPORTS		9.99		548.7		35905412
+TATACONSUM		0.48		730.1		776580
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ANGELONE		-1.2		1198.85		98318
+FINCABLES		-1.34		547.35		79487
+BAYERCROP		-0.14		4381.45		3448
