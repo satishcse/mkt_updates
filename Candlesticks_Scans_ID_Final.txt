@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.08		117.85		39744094
-HINDALCO		-2.75		447.0		3933389
+TATASTEEL		-2.08		117.85		39869610
+HINDALCO		-2.75		447.0		3945054
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SOBHA		-1.89		572		59505
+RHIM		-1.86		762.2		91692
+AETHER		0.53		875.8		12840
