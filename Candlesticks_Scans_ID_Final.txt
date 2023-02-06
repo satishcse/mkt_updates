@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		0.37		546.2		17159868
-ADANIENT		-1.55		1562.25		12703280
-HCLTECH		-0.58		1139.5		1077408
-CIPLA		-0.2		1020.25		607925
+HCLTECH		-0.61		1139.15		1080537
+CIPLA		-0.18		1020.5		609440
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
