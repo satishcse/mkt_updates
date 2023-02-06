@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-FACT		0.15		274.65		188971
-TVSMOTOR		-0.43		1031.1		139997
+FACT		-0.07		274.05		191482
+TVSMOTOR		-0.36		1031.85		142737
+JBMA		-0.8		509.6		17255
