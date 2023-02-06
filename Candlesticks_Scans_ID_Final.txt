@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIPORTS		9.19		544.7		37877650
-BAJFINANCE		1.55		6107.2		1063596
-TATACONSUM		0.33		729.0		836438
+ADANIPORTS		8.8		542.75		38128702
+BAJFINANCE		1.53		6106.0		1069929
+TATACONSUM		0.39		729.4		850155
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-RAJESHEXPO		-3.89		910.0		898240
-ENDURANCE		-1.06		1409.65		25842
-AETHER		0.32		873.9		15117
+RAJESHEXPO		-4.11		907.95		899898
+GLAND		-2.96		1175.5		494052
+SYNGENE		-0.83		562.0		328190
+AETHER		0.33		874.0		15149
