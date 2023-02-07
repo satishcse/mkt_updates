@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.65		1136.5		2774410
-UPL		-1.06		707.0		1019101
-BRITANNIA		0.09		4630.0		211179
+INDUSINDBK		0.59		1135.85		2780532
+UPL		-0.99		707.45		1022013
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BBTC		-0.63		909.1		17595
-BASF		-1.37		2284.1		15640
-TEAMLEASE		1.66		2420.0		11945
-ZYDUSWELL		-0.89		1452.1		8413
+BBTC		-0.63		909.1		17658
+BASF		-1.28		2286.3		15643
+TEAMLEASE		1.77		2422.8		12217
