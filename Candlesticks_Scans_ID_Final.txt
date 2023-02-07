@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.07		143.6		5468293
-HDFCLIFE		0.3		483.5		5346471
-BRITANNIA		0.07		4628.75		223892
-BAJAJ-AUTO		0.28		3859.9		109734
+ONGC		0.17		143.75		5493554
+HDFCLIFE		0.33		483.65		5352914
+BRITANNIA		0.07		4628.8		224161
+BAJAJ-AUTO		0.28		3859.9		112048
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BRITANNIA		0.07		4628.75		223892
+BRITANNIA		0.07		4628.8		224161
