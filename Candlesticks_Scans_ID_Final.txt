@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.24		143.85		4894363
-POWERGRID		-0.69		215.55		4637980
-BRITANNIA		0.09		4629.95		202708
+ONGC		0.28		143.9		4906742
+POWERGRID		-0.71		215.5		4647481
+BRITANNIA		0.09		4630.0		205051
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
