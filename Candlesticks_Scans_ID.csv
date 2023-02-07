@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-HDFCBANK,-0.9,1636.9,2673048
-APOLLOHOSP,0.41,4338.35,178784
+APOLLOHOSP,0.37,4336.9,178959
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+MAZDOCK,-0.37,741.4,748210
+BASF,-1.14,2289.35,13538
