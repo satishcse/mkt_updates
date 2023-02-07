@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		0.16		2315.25		2665756
+MARUTI		-1.16		8805.0		101214
+BASF		-0.68		2300.0		10995
+LUXIND		-0.12		1457.15		10122
