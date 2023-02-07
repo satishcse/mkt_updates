@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.12		852.7		2509688
-HCLTECH		-0.74		1137.25		777978
-BRITANNIA		0.26		4637.8		119153
+ICICIBANK		-0.13		852.6		2516011
+HCLTECH		-0.74		1137.2		778661
+BRITANNIA		0.19		4634.4		119739
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
