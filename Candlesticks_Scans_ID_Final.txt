@@ -6,9 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-VEDL		-0.34		305.2		1264260
-WIPRO		-0.12		404.15		138584
-MAHINDCIE		0.39		399.45		29347
-SIS		0.79		348.7		4877
-INDIGOPNTS		0.1		1146.2		1464
-ZFCVINDIA		0.28		9674.95		97
+HEROMOTOCO		-0.58		2679.3		25830
+RADICO		0.07		1180.0		24642
+PHOENIXLTD		-0.92		1397.5		5153
+CLEAN		-0.7		1473.0		2732
