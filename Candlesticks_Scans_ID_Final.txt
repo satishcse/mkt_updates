@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		0.09		2313.6		2874831
-BPCL		0.25		334.6		756448
-TATACONSUM		0.03		730.0		744346
+RELIANCE		0.13		2314.55		2879278
+BPCL		0.25		334.6		758495
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DALBHARAT		-1.64		1854.5		180793
-ULTRACEMCO		-0.11		7119.65		126132
-ESCORTS		-2.37		2013.0		110319
+SBICARD		-1.65		744.0		395078
+ESCORTS		-2.4		2012.35		110501
+PERSISTENT		-0.28		4825.45		90670
+GODFRYPHLP		-1.32		1778.2		34719
