@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		-0.54		2299		5257923
+ONGC		0.31		143.95		5641948
+JSWSTEEL		0.41		713.95		1595575
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-VMART		-2.16		2637.8		27359
+
