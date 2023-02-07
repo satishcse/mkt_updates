@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		0.18		1654.75		1355022
-TCS		0.63		3481.9		389209
+HDFCBANK		0.18		1654.65		1360131
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-JKPAPER		-0.71		406.35		1895389
-RAMCOCEM		-0.64		679.15		91746
-KEI		-0.47		1705.35		28655
+
