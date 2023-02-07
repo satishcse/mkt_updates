@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		0.14		1654		1370691
+HDFCBANK		0.14		1654.05		1375526
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JKPAPER		-0.68		406.45		1904458
-MTARTECH		0.44		1705.9		31027
-GODFRYPHLP		0.36		1808.3		18706
-RATNAMANI		-3.43		2228.5		13551
+GODFRYPHLP		0.26		1806.5		18793
