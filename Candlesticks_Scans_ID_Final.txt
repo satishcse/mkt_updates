@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-2.48		373.9		18002269
-WIPRO		-1.14		400.05		2471605
+TATASTEEL		-4.81		111.8		93369629
+COALINDIA		-0.14		219.3		3726240
+BPCL		-0.25		332.9		1168702
+TECHM		-0.3		1002.35		1165121
+HEROMOTOCO		-1.3		2659.95		349355
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
