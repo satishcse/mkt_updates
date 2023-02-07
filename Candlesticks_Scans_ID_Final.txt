@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		0.57		335.65		291182
-MARUTI		-0.8		8837.15		50988
+MARUTI		-0.78		8838.3		51429
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-POWERINDIA		-5.74		2930		38075
+POLYCAB		0		2965.6		33495
