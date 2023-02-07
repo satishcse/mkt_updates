@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.04		3259.45		160209
+EICHERMOT		-0.09		3257.7		161484
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CIPLA		-0.54		1024.2		215152
+TATACOMM		-1.09		1244.4		139760
+LTTS		-0.75		3433.35		29768
+ATUL		-2.61		7114.4		19185
