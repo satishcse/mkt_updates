@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BRITANNIA		0.23		4636.1		167333
+TECHM		-0.45		1000.8		759441
+BRITANNIA		0.22		4635.95		167581
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SHREECEM		-0.13		24089.85		23461
+CAMS		-0.05		2255		36399
