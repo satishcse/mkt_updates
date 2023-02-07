@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		-0.12		2308.75		4909120
+RELIANCE		-0.18		2307.25		4925828
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+VMART		-2.13		2638.65		27219
