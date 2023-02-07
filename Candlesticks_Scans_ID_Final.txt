@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-DIVISLAB		-1.12		2746.9		1012228
-BAJAJ-AUTO		-0.13		3844.15		62163
+DIVISLAB		-1.08		2747.9		1013548
+BRITANNIA		0.26		4637.8		165879
+BAJAJ-AUTO		-0.13		3844.15		62315
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-IIFL		-2.32		481.2		296937
-HEROMOTOCO		-2.14		2637.3		174838
-GODFRYPHLP		-0.84		1786.75		35929
+HINDUNILVR		-1.15		2607.2		569946
+IIFL		-2.31		481.25		298047
+HEROMOTOCO		-2.11		2638.2		175472
+CDSL		-0.65		1003.25		141929
+GODFRYPHLP		-0.75		1788.45		35949
