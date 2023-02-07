@@ -63,6 +63,6 @@ Outperforming_Nifty_1W_3M
 ------------------------- 
 nsecode		per_chg		close		volume
 APARINDS		15.24		2221.95		532800
-SKMEGGPROD		9.21		172.6		388327
-ACE		7.05		361.55		3346634
-UNIENTER		3.75		166.15		478263
+SKMEGGPROD		9.21		172.6		388326
+ACE		7.05		361.55		3346479
+UNIENTER		3.75		166.15		478153
