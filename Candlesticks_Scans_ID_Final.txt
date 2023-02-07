@@ -6,8 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TATAELXSI		-0.27		6651.0		37996
-ESCORTS		-1.24		2036.4		36134
-POWERINDIA		-5.48		2938.0		35289
-GMMPFAUDLR		-0.04		1539.9		7170
-CLEAN		-1.1		1467.0		4746
+TATAELXSI		-0.27		6651.25		38152
+ESCORTS		-0.97		2042.0		36481
+POWERINDIA		-5.48		2938.0		35351
