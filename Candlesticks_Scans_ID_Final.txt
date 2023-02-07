@@ -1,11 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-ADANIENT		10		1729.95		6069559
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ASTRAL		-1.15		2068.1		160864
-MASTEK		-0.35		1621.45		5523
+INDIGO		-2.13		2027.5		594526
+ASTRAL		-1.14		2068.35		161926
+ABB		-0.26		2924.45		55853
+APOLLOHOSP		-0.74		4288.8		51533
+ATUL		-1.93		7163.75		15191
+MASTEK		-0.24		1623.15		5659
