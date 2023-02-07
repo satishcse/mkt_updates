@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		-0.18		2307.25		4925828
+RELIANCE		-0.34		2303.6		4992579
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-VMART		-2.13		2638.65		27219
+VMART		-2.04		2640.95		27233
+ZYDUSWELL		-1.27		1446.55		9118
