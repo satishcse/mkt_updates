@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.06		853.15		1937439
-NTPC		0.27		166.5		1897752
-HDFCBANK		0.04		1652.4		1459785
-JSWSTEEL		0.22		712.6		783048
+ICICIBANK		-0.09		852.95		1956892
+NTPC		0.18		166.35		1940495
+HDFCBANK		0.03		1652.3		1483560
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
