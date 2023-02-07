@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.14		143.7		5405284
-HDFCLIFE		0.31		483.55		5291882
-SUNPHARMA		-1.67		1006.25		1474367
-BRITANNIA		0.08		4629.4		213815
+ONGC		0.17		143.75		5418636
+HDFCLIFE		0.3		483.5		5294821
+SUNPHARMA		-1.63		1006.65		1477046
+BRITANNIA		0.08		4629.3		213989
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
