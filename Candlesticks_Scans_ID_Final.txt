@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BRITANNIA		0.22		4636		169034
+BRITANNIA		0.2		4635		169162
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PIDILITIND		-0.7		2317		84202
+CAMS		-0.15		2252.7		43800
