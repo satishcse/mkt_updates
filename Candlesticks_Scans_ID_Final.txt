@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		15		1808.6		6624432
+ADANIENT		15.0		1808.6		6627871
+BHARTIARTL		0.51		793.3		1061416
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PNCINFRA		-1.81		333.3		80143
-MAPMYINDIA		-2.0		1050.55		20652
+FACT		-1.88		270.9		193358
+TATACOMM		-0.61		1250.4		115864
