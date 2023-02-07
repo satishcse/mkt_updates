@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-DIVISLAB		-0.79		2755.95		1346351
+DIVISLAB		-0.82		2755.3		1349322
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+TIINDIA		-2.82		2596.7		81846
