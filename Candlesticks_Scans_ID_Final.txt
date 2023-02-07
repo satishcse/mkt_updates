@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.15		1345.1		1170696
-BAJAJ-AUTO		0.33		3861.7		117594
+TATAMOTORS		-1.29		436.3		6191090
+TITAN		-0.42		2447.65		383597
+BAJAJ-AUTO		0.28		3860.05		119303
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
