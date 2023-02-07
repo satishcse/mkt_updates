@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		0.1		2313.7		2901639
-DIVISLAB		-1.07		2748.35		998879
-BPCL		0.24		334.55		766053
+RELIANCE		0.14		2314.75		2910710
+DIVISLAB		-1.1		2747.45		999588
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ESCORTS		-2.43		2011.85		112340
-GODFRYPHLP		-0.84		1786.75		35701
+HEROMOTOCO		-2.12		2637.9		173129
+ESCORTS		-2.4		2012.4		112346
+GODFRYPHLP		-0.83		1787.0		35818
