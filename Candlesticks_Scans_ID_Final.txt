@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BRITANNIA		0.2		4635		173392
+ONGC		0.17		143.75		4191746
+ASIANPAINT		0.36		2764.1		376370
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-SHREECEM		-0.09		24099.95		24288
+
