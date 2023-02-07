@@ -2,16 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.88		7190.15		59462
+ULTRACEMCO		0.81		7185.05		59830
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-INDIGO		-1.83		2033.65		607462
-ASTRAL		-0.91		2073.1		162763
-GODREJCP		-0.29		934.55		110288
-HEROMOTOCO		-1.88		2644.2		106990
-BHARATFORG		-0.57		870.85		95290
-ABB		-0.16		2927.45		56623
-APOLLOHOSP		-0.78		4286.85		51782
-ATUL		-1.78		7174.75		15336
+ASTRAL		-0.89		2073.45		163163
+BHARATFORG		-0.57		870.9		95905
+APOLLOHOSP		-0.78		4286.85		51792
+BASF		-0.16		2312.1		2536
+HONAUT		-0.66		39329.5		553
