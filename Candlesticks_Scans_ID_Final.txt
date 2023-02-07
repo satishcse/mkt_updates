@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		20.0		1887.2		6876562
-EICHERMOT		0.13		3265.1		155806
+ADANIENT		20.0		1887.2		6884582
+EICHERMOT		0.12		3264.5		157317
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MFSL		0.25		712.3		192808
-CARBORUNIV		0.5		1004.0		64027
-GUJALKALI		-0.8		672.75		37564
-SHILPAMED		-1.35		251.7		30417
+MFSL		0.25		712.25		193289
+CARBORUNIV		0.5		1004.0		64532
+GUJALKALI		-0.8		672.8		37749
