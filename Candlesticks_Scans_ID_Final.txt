@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-DIVISLAB		-0.96		2751.25		1370950
+DIVISLAB		-0.94		2751.8		1373459
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ESCORTS		-2.57		2009		189203
+KIMS		-0.79		1457.05		23417
+BHARATRAS		-0.36		8995.45		1017
