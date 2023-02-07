@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-KOTAKBANK		1.05		1765.35		1579953
-HDFCBANK		0.13		1653.85		1338947
-TCS		0.67		3483.2		376467
+HDFCBANK		0.08		1653.0		1344392
+TCS		0.58		3480.05		382378
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+RATNAMANI		-3.45		2228		13431
