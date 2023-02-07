@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-APOLLOHOSP		0.37		4336.9		178959
+M&M		-0.81		1364.9		829830
+APOLLOHOSP		0.4		4337.9		179150
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.37		741.4		748210
-BASF		-1.14		2289.35		13538
+MAZDOCK		-0.32		741.8		755999
+CYIENT		-2.48		899.7		118770
+BASF		-1.14		2289.35		13540
