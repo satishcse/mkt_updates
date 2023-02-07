@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		10		1729.95		6060897
+ADANIENT		10		1729.95		6069559
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ABB		-0.7		2911.55		54157
+ASTRAL		-1.15		2068.1		160864
+MASTEK		-0.35		1621.45		5523
