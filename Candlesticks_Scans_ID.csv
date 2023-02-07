@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-ADANIENT,20.0,1887.2,6895408
-EICHERMOT,0.07,3262.9,157851
+EICHERMOT,-0.05,3259,158538
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
 nsecode,per_chg,close,volume
-MFSL,0.25,712.25,195377
-CARBORUNIV,0.5,1004.0,64540
-HONAUT,-1.24,39100.0,879
+CARBORUNIV,0.7,1006.0,65079
+NATCOPHARM,0.24,530.35,38083
+HONAUT,-1.24,39100.0,882
