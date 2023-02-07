@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+INDIGO		-1.55		2039.35		443877
+POWERINDIA		-5.69		2931.55		40235
+ALKYLAMINE		-0.83		2632.0		2222
