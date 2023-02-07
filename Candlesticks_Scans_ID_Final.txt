@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-INDIGO		-1.47		2041.0		346833
-GMMPFAUDLR		-0.24		1536.8		6894
-ALKYLAMINE		-0.65		2636.8		1366
+GRASIM		-0.03		1617.55		99772
+HEROMOTOCO		-0.97		2668.8		44431
+CDSL		0.18		1011.7		32438
+ABBOTINDIA		-0.29		20810.0		1381
+ALKYLAMINE		-0.65		2636.8		1374
