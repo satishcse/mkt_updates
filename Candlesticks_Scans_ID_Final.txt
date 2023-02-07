@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-DIVISLAB		-1.07		2748.3		1113727
-BAJAJFINSV		-0.04		1342.45		940159
-DRREDDY		2.04		4438.35		439917
-ASIANPAINT		0.48		2767.35		419606
+DIVISLAB		-1.06		2748.65		1114974
+BAJAJFINSV		0.04		1343.65		941081
+DRREDDY		2.04		4438.35		440303
+ASIANPAINT		0.5		2768.0		420511
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+TATACOMM		-1.85		1234.8		242067
