@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-JSWSTEEL		2.28		730.4		919900
-KOTAKBANK		-0.5		1766.45		683729
-BPCL		0.14		332.6		659769
+NTPC		-0.24		164.85		5390356
+JSWSTEEL		2.29		730.45		922219
+KOTAKBANK		-0.43		1767.7		684818
+DRREDDY		0.99		4484.35		140060
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
