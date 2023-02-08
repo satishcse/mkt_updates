@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MCX		-0.8		1381.85		101094
-WHIRLPOOL		-0.53		1247.15		16259
+MCX		-0.76		1382.35		101651
