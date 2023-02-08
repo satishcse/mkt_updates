@@ -2,17 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		-0.66		329.95		237634
+EICHERMOT		-0.89		3245.55		96740
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TATACHEM		-1.45		1016.0		369051
-FACT		-1.83		260.0		189454
-CUMMINSIND		0.43		1452.8		116316
-JKCEMENT		0.95		2660.45		59796
-LODHA		0.03		993.95		11797
-CEATLTD		-0.49		1537.25		8561
-MRF		-0.78		91023.9		1879
+BAYERCROP		-1.02		4446.9		2948
 BOSCHLTD		-0.26		17370.15		1461
-SUNDARMFIN		-0.37		2313.0		896
