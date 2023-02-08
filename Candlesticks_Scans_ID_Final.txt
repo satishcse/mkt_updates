@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.16		373.85		5152086
-WIPRO		1.22		405.4		2385531
-JSWSTEEL		2.16		729.5		951819
+WIPRO		1.25		405.5		2387229
+JSWSTEEL		2.2		729.8		952558
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ENDURANCE		-1.14		1407.3		13340
+KEI		-2.18		1670.0		60274
+ENDURANCE		-1.08		1408.25		13390
