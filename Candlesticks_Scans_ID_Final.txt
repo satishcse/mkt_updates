@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIPORTS		6.98		591.75		19655490
-WIPRO		1.27		405.6		2389633
-JSWSTEEL		2.16		729.5		953734
+WIPRO		1.21		405.35		2397914
+JSWSTEEL		2.18		729.7		956889
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ENDURANCE		-0.74		1413.05		13480
+ENDURANCE		-0.39		1418.0		14603
+CRISIL		-0.98		3153.35		13973
 SFL		-0.54		1203.3		8689
+SKFINDIA		-0.99		4455.0		7001
