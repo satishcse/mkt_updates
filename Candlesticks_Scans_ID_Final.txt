@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.85		110.5		26279042
-TCS		1.74		3533.0		797548
-ULTRACEMCO		2.61		7256.45		218457
+TATASTEEL		-0.72		110.65		26368904
+TCS		1.72		3532.3		800604
+ULTRACEMCO		2.53		7250.95		219035
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LT		-1.04		2142.8		487625
-SUNDARMFIN		-0.5		2310.0		1727
+LT		-1.03		2142.95		490032
+AFFLE		-1.31		1049.8		74552
+SUNDARMFIN		-0.5		2310.0		1731
