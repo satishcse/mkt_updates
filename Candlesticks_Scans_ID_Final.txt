@@ -1,20 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+ADANIENT		10		1983.2		2792622
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CONCOR		-1.52		615.2		543715
-DLF		0.48		358.85		225245
-HINDUNILVR		-0.14		2597.55		99442
-VARROC		0.93		294.05		72551
-ASIANPAINT		0.17		2762.8		51996
-ANGELONE		0.09		1168.9		46082
-BIRLACORPN		0.69		908.85		16583
-UBL		0.25		1592.0		5301
-CRISIL		-0.1		3181.4		1205
-CAPLIPOINT		0.16		707.0		1141
-JBCHEPHARM		0.25		2019.6		461
-GRINFRA		0.16		1155.55		410
+BAJAJ-AUTO		-0.99		3841.15		22774
+GRINFRA		0.16		1155.5		418
+ASTRAZEN		0.0		3241.9		232
