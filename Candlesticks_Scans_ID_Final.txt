@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.67		112.2		7617518
-ADANIENT		10.0		1983.2		2834854
+TATASTEEL		0.63		112.15		7806603
+ADANIENT		10.0		1983.2		2842894
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SWANENERGY		0.34		268.25		81154
-OFSS		0.23		3178.55		12396
-BAJAJELEC		0.03		1176.4		4289
-CEATLTD		-0.28		1540.55		3510
-ALKYLAMINE		-0.61		2622.95		2009
+ALKYLAMINE		-0.59		2623.4		2055
