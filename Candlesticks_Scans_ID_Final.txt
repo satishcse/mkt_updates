@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		1		404.5		1622395
+WIPRO		1		404.5		1630780
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SBIN		0.3		548.75		7497575
-GRASIM		0.38		1622.4		169310
-GESHIP		-0.88		616.35		136552
-LINDEINDIA		-1.24		3331.15		6891
+GESHIP		-0.8		616.9		138399
+SHREECEM		0.18		24304.95		9849
+LINDEINDIA		-1.23		3331.45		6938
