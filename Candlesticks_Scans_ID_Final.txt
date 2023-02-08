@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		0.34		548.95		11958423
-BRITANNIA		-0.15		4600.0		199164
+SBIN		0.3		548.75		11995512
+NTPC		0.06		165.35		6810029
+KOTAKBANK		-0.45		1767.35		1036284
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+SUNDARMFIN		-0.72		2305		5125
