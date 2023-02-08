@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.48		143.95		7187498
-ICICIBANK		0.5		857.0		4687434
-INFY		2.4		1599.95		4291962
-BAJAJ-AUTO		-0.02		3878.7		193960
+ONGC		-0.52		143.9		7213058
+ICICIBANK		0.49		856.95		4704955
+INFY		2.4		1599.95		4317810
+HDFCBANK		0.24		1658.2		2619968
+BAJAJ-AUTO		-0.02		3878.6		195104
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+AMBER		-0.14		1878.05		10639
