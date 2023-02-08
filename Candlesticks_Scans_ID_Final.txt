@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-EICHERMOT		-1.06		3239.9		101546
+SUNPHARMA		-0.18		1004.55		393819
+EICHERMOT		-1.0		3242.0		103845
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+RAJESHEXPO		-3.38		821.5		210766
