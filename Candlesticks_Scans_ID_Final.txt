@@ -2,16 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TCS		1.59		3527.65		459286
+BPCL		-0.51		330.45		207585
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ZYDUSLIFE		-0.39		477.6		273366
-JKPAPER		0.15		396.4		230731
-IRCTC		0.35		638.7		210768
-RAYMOND		-0.65		1396.05		40340
-TEJASNET		-0.45		551.95		37322
-SYMPHONY		-0.32		962.15		18730
-CLEAN		0.09		1452.8		4992
-APLLTD		0.27		524.3		4708
+ECLERX		0.09		1513.85		18667
