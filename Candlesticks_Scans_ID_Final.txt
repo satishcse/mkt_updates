@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.24		164.85		5406529
-ITC		0.17		373.9		5072817
-JSWSTEEL		2.3		730.55		924243
+ITC		0.16		373.85		5081896
+JSWSTEEL		2.32		730.65		927130
+HEROMOTOCO		-1.93		2601.4		539836
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
