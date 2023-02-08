@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.69		723.2		238942
-EICHERMOT		-1.02		3241.2		101199
+EICHERMOT		-1.06		3239.9		101546
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-HLEGLAS		1.9		596.7		4817
+
