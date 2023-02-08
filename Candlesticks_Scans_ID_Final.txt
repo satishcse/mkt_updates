@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.72		110.65		27244897
-SBIN		0.48		549.7		8244905
-ICICIBANK		0.33		855.6		2753139
+SBIN		0.43		549.45		8261102
+ICICIBANK		0.28		855.1		2765006
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+NAVINFLUOR		-2.02		4194.9		505691
