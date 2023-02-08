@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PGHL		-0.76		4679.2		7546
+ATUL		-1.18		7077.9		10791
+PGHL		-0.74		4680.0		7557
+CRISIL		-1.31		3143.0		5916
