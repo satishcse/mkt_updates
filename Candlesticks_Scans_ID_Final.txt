@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.54		1765.85		647115
-TITAN		1.19		2476.0		327416
+KOTAKBANK		-0.45		1767.45		648976
+TITAN		1.23		2476.9		327814
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HLEGLAS		0.65		589.4		9521
+HLEGLAS		0.64		589.35		9531
