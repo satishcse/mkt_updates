@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		0.39		856.05		3948248
-SUNPHARMA		-0.14		1005.0		824348
-TATACONSUM		-0.93		721.45		755925
+ICICIBANK		0.41		856.25		3968055
+TATACONSUM		-0.92		721.5		769685
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
