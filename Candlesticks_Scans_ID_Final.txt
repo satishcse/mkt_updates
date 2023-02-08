@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.13		111.6		49691069
-POWERGRID		-2.03		212.45		6797174
-NTPC		-0.09		165.1		6325055
-INFY		2.33		1598.85		4731433
-WIPRO		1.24		405.45		2598451
-BRITANNIA		-0.15		4599.75		161823
+TATASTEEL		0.22		111.7		49779793
+POWERGRID		-1.98		212.55		6806442
+NTPC		-0.06		165.15		6400068
+INFY		2.28		1598.0		4747641
+WIPRO		1.27		405.6		2603983
+BRITANNIA		-0.17		4599.0		162440
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+INDIAMART		-0.16		4708		73137
