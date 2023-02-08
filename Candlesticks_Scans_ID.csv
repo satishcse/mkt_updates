@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-POWERGRID,-2.28,211.9,5961976
-TATAMOTORS,0.36,437.0,5027385
-INFY,2.3,1598.4,3934220
-TATACONSUM,-0.93,721.45,725527
+POWERGRID,-2.28,211.9,5987714
+NTPC,-0.09,165.1,5897535
+TATAMOTORS,0.29,436.7,5042803
+INFY,2.28,1598.0,3951187
+TATACONSUM,-0.92,721.5,730344
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+ECLERX,-0.39,1506.5,49898
