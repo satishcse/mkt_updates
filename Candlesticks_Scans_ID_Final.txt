@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TCS		1.43		3522.25		1025108
-UPL		1.15		717.4		526121
-DRREDDY		0.96		4483.0		135710
+TCS		1.43		3522.1		1027172
+UPL		1.2		717.75		527950
+DRREDDY		0.96		4483.0		136043
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-RELAXO		-0.57		787.75		45115
+RELAXO		-0.55		787.9		45201
