@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TCS		1.54		3526		411319
+HDFCLIFE		1.17		488.6		1817056
+TCS		1.57		3527.0		415008
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.72		999.2		260279
-NH		-0.83		725.05		18284
+NH		-0.84		725		19138
+SUNDRMFAST		0.54		975		2294
