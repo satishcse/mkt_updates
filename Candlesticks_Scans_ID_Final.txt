@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.15		165.0		4966024
-KOTAKBANK		-0.15		1772.65		598302
-SUNPHARMA		-0.38		1002.55		591218
-TATACONSUM		-0.85		722.0		533963
-DRREDDY		0.89		4479.7		130731
+NTPC		-0.15		165.0		4984602
+KOTAKBANK		-0.14		1772.9		598854
+SUNPHARMA		-0.34		1002.95		594385
+DRREDDY		0.89		4479.85		131263
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ALKYLAMINE		-0.84		2616.85		9979
