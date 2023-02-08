@@ -2,9 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		20		2163.5		18323469
+ADANIENT		20.0		2163.5		18378028
+WIPRO		1.57		406.8		3961056
+NESTLEIND		0.12		18999.95		22541
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-UTIAMC		-1.54		675.9		241820
+UTIAMC		-1.4		676.9		244096
+MTARTECH		0.47		1712.9		92784
+HEG		0.14		1006.9		88279
+JUBLPHARMA		-1.4		328.0		77250
