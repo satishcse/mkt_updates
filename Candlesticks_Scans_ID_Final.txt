@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		1.56		406.75		3191203
-BRITANNIA		-0.15		4600.0		204760
+WIPRO		1.5		406.5		3208924
+BRITANNIA		-0.15		4600.0		205260
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HONAUT		-0.56		39005.15		3256
+UTIAMC		-0.36		684.05		212124
+HONAUT		-0.25		39123.95		3307
