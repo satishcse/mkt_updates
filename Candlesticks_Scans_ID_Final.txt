@@ -1,10 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-SUNPHARMA		-0.32		1003.15		395894
-EICHERMOT		-0.92		3244.5		104678
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+POWERINDIA		-1.48		2957.9		5359
