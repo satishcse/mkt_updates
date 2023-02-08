@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		-0.92		329.1		230159
+BPCL		-0.83		329.4		231605
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+RADICO		0.11		1164.85		29872
+CEATLTD		-0.49		1537.25		8543
+POWERINDIA		-0.51		2987.15		3241
