@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.67		112.2		8647136
+TCS		1.65		3529.95		378602
+HEROMOTOCO		-1.48		2613.25		288021
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CAPLIPOINT		0.04		706.2		2181
-HONAUT		0.13		39275.8		916
+HONAUT		0.13		39275.8		921
