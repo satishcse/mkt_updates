@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TCS		1.35		3519.4		1073310
-UPL		1.08		716.9		541224
+KOTAKBANK		-0.44		1767.65		678691
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-RELAXO		-0.6		787.5		47290
+
