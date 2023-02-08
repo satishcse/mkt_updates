@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ANGELONE		0.18		1170.0		161299
-ALKYLAMINE		-0.67		2621.5		9058
+SANOFI		-0.83		5285		8747
