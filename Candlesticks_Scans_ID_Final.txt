@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFC		0.51		2692.9		1546253
-UPL		1.5		719.9		765162
-BRITANNIA		-0.15		4600.0		196911
-NESTLEIND		0.1		18997.5		13645
+HDFC		0.5		2692.5		1582849
+UPL		1.4		719.2		769133
+NESTLEIND		0.07		18991.4		13792
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
