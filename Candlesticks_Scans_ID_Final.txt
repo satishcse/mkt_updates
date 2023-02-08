@@ -2,19 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		0.45		549.55		14161157
-ONGC		-0.62		143.75		9564048
-ITC		0.59		375.45		9350480
-NTPC		0.15		165.5		8012410
-INDUSINDBK		0.14		1144.5		1540383
-KOTAKBANK		-0.64		1764.0		1281770
-ASIANPAINT		0.28		2765.75		756426
-BRITANNIA		-0.24		4595.7		234820
-NESTLEIND		0.06		18990.25		19947
+ADANIENT		20		2163.5		18309307
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TEJASNET		-1.52		546.0		175071
-RADICO		-0.68		1155.65		144405
-BAJAJHLDNG		0.08		6083.35		13075
+AVANTIFEED		0.74		388.45		91313
