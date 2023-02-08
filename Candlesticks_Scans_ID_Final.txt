@@ -2,14 +2,16 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TCS		1.59		3527.8		452406
+TCS		1.6		3527.95		455030
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.25		738.55		212788
-TATACOMM		0.0		1233.55		36636
-SYMPHONY		-0.33		962.05		18657
-IPCALAB		0.34		863.6		18414
-INOXLEISUR		-0.2		497.8		10123
-CLEAN		0.03		1451.95		4788
+MAZDOCK		-0.19		739.0		213791
+LUPIN		-0.83		745.1		120829
+SRF		0.11		2206.8		75099
+RAYMOND		-0.72		1395.0		39188
+SYMPHONY		-0.21		963.25		18724
+IPCALAB		0.35		863.65		18514
+CLEAN		0.1		1452.95		4873
+APLLTD		0.27		524.3		4704
