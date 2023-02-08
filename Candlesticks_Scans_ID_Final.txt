@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.15		165.0		4964423
-KOTAKBANK		-0.12		1773.2		596939
-SUNPHARMA		-0.35		1002.9		590285
-TATACONSUM		-0.85		722.0		532274
-DRREDDY		0.88		4479.5		130573
-BRITANNIA		0.07		4610.05		110909
+NTPC		-0.15		165.0		4966024
+KOTAKBANK		-0.15		1772.65		598302
+SUNPHARMA		-0.38		1002.55		591218
+TATACONSUM		-0.85		722.0		533963
+DRREDDY		0.89		4479.7		130731
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
