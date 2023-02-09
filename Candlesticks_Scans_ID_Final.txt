@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+ONGC		1.7		146.35		7803542
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PRINCEPIPE		-2.66		596.8		96645
-SUNDARMFIN		0.03		2324.05		3579
+PRINCEPIPE		-2.79		596.0		96988
+LUXIND		-1.72		1432.45		25451
+ABBOTINDIA		-1.96		20860.8		12437
