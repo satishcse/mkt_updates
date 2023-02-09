@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.63		144.8		6226301
-COALINDIA		-0.28		214.9		3590845
-HEROMOTOCO		-1.67		2571.0		943751
-CIPLA		-1.41		1024.4		916248
-NESTLEIND		0.03		19000.0		21357
+ONGC		0.66		144.85		6238943
+COALINDIA		-0.26		214.95		3599150
+HEROMOTOCO		-1.67		2571.0		951821
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
