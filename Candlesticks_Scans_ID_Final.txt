@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SRF		-0.3		2190.6		46321
-TITAN		-0.43		2456.05		41794
-BHARATRAS		0.86		9011.2		189
+MCX		-0.52		1395.75		41772
+POLYPLEX		-0.31		1524.9		5891
+BASF		-0.51		2342.95		1458
