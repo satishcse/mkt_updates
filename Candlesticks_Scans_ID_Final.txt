@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.28		144.3		2081585
-COALINDIA		0.05		215.6		1187244
-TECHM		-0.15		1009.5		604647
-UPL		-0.81		716.8		319821
+ONGC		0.35		144.4		2088541
+POWERGRID		0.68		213.45		1647531
+COALINDIA		0.02		215.55		1187841
+TECHM		-0.15		1009.55		605140
+UPL		-0.88		716.3		328836
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+PATANJALI		-2.15		934		120023
