@@ -31,7 +31,7 @@ nsecode		per_chg		close		volume
 WSTCSTPAPR		4.99		559.0		394162
 PERSISTENT		-0.01		4833.35		185464
 ITC		-0.23		374.7		11854111
-GRAVITA		-0.71		496.8		184598
+GRAVITA		-0.71		496.8		184468
 CGPOWER		-1.25		312.5		2589708
 
 Zero_Debt_Momentum								 
