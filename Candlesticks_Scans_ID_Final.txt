@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-GRASIM		0.7		1648		859088
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+KEI		-0.32		1647.45		190636
+LUXIND		-0.03		1457.0		10677
