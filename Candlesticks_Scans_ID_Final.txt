@@ -6,6 +6,10 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MCX		-0.52		1395.75		41772
-POLYPLEX		-0.31		1524.9		5891
+MAZDOCK		-0.38		731.4		119987
+GODREJPROP		-0.87		1173.9		44673
+CENTURYTEX		-0.97		646.8		6372
+GODFRYPHLP		-0.8		1838.0		4615
 BASF		-0.51		2342.95		1458
+GALAXYSURF		0.57		2339.3		729
+BLUEDART		-0.94		6469.85		647
