@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BHARTIARTL		-1.03		767.15		5479749
-BAJAJFINSV		2.27		1399.95		2415576
-LT		0.7		2145.7		1436392
-ULTRACEMCO		-1.07		7173.0		306328
+BHARTIARTL		-0.98		767.5		5521386
+BAJAJFINSV		2.26		1399.8		2435444
+LT		0.75		2146.85		1452005
+ULTRACEMCO		-1.05		7174.5		310084
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-TATACOMM		-0.62		1237.0		102376
-CCL		-1.11		542.9		39599
-GRINDWELL		-2.77		2081.9		28472
+
