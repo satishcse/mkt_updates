@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-NTPC,0.24,165.9,3670415
-POWERGRID,0.38,212.8,3335662
-HDFC,-0.98,2659.5,1006788
-HEROMOTOCO,-1.67,2571.0,727761
-NESTLEIND,-0.01,18993.0,15271
+POWERGRID,0.33,212.7,3345065
+HDFC,-0.98,2659.35,1010209
+HEROMOTOCO,-1.67,2571.0,730062
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
 nsecode,per_chg,close,volume
-ABBOTINDIA,-1.75,20905.25,9207
+ABBOTINDIA,-1.78,20900,9250
