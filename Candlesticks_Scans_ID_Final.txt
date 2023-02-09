@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-2.22		2556.65		314443
-CHOLAHLDNG		-1.42		635.8		5113
-GRINFRA		-0.69		1119.05		2653
+HEROMOTOCO		-2.21		2556.95		316025
+DABUR		0.18		534.9		240211
+BAJAJ-AUTO		-1.02		3840.85		57536
+GRINFRA		-0.46		1121.6		2656
