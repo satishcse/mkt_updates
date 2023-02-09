@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.54		110.85		28781923
-SBIN		-0.4		547.55		7246315
-WIPRO		-0.12		406.25		1165149
-TITAN		0.1		2469.25		228967
+TATASTEEL		-0.58		110.8		28869099
+SBIN		-0.42		547.45		7258406
+WIPRO		-0.12		406.25		1167396
+TITAN		0.07		2468.5		229873
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
