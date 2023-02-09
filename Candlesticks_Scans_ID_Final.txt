@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.5		547.0		7719343
-TITAN		-0.11		2464.05		246393
+SBIN		-0.5		547.0		7771211
+TITAN		-0.2		2461.8		249829
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAYERCROP		-1.12		4432.4		2760
+SUPRAJIT		-1.69		334		42531
