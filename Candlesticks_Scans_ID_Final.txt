@@ -1,15 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+AXISBANK		-0.41		868.2		853509
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-SRF		-0.34		2189.6		58542
-MPHASIS		-0.48		2116.55		20116
-UBL		-0.09		1580.65		9195
-CAMS		-0.19		2257.15		3395
-ENDURANCE		-1.42		1404.6		3139
-POWERINDIA		-0.66		2933.95		2926
-POLYMED		-1.0		881.8		1963
+
