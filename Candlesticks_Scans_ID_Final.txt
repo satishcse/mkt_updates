@@ -2,7 +2,7 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		1.46		146.0		8074263
+ONGC		1.46		146.0		8074423
 LT		0.83		2148.6		1563005
 
 Bullish_Hammer_15m_N500								 
@@ -10,4 +10,4 @@ Bullish_Hammer_15m_N500
 nsecode		per_chg		close		volume
 SHREECEM		-4.19		23225.0		72665
 AIAENG		-0.25		2769.9		27020
-KIMS		0.08		1464.8		12478
+KIMS		0.08		1464.8		11765
