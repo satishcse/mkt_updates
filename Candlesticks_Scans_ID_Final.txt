@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.07		375.8		7643954
-POWERGRID		0.45		212.95		3718313
-HDFC		-0.97		2659.75		1197227
-ASIANPAINT		1.44		2805.4		538307
-NESTLEIND		0.03		19000.0		16595
+ITC		0.07		375.8		7674661
+ONGC		0.52		144.65		5653010
+POWERGRID		0.5		213.05		3723695
+HDFC		-0.9		2661.5		1214773
+ASIANPAINT		1.44		2805.3		543077
+NESTLEIND		0.03		19000.0		16660
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
