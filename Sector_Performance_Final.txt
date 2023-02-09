@@ -2,7 +2,7 @@
 Sector_Performance								 
 ------------------ 
 nsecode		per_chg		close		volume
-CNXIT		0.7		30990.8		0
+CNXIT		0.7		30990.85		0
 NIFTYMEDIA		0.6		1874.85		0
 NIFTY50VALUE20		0.37		9544.25		0
 NIFTYMIDCAP50		0.21		8758.55		0
