@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ZENSARTECH		-0.1		252.0		527857
-INDIGOPNTS		-0.17		1160.65		21186
+INDIGOPNTS		-0.14		1161		21222
