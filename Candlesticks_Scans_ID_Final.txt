@@ -2,15 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BRITANNIA		-0.26		4594.8		252710
-NESTLEIND		0.09		18994.9		23267
+BRITANNIA		0.0		4594.85		117
+NESTLEIND		0.02		18999.0		38
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-UTIAMC		-1.33		677.4		247596
-TATAELXSI		0.08		6697.85		154384
-MTARTECH		0.44		1712.5		96656
-HEG		0.19		1007.35		91896
-CERA		-0.18		5770.75		20583
-TEAMLEASE		-0.45		2448.35		13610
+
