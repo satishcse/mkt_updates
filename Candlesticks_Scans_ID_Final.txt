@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BHARTIARTL		-1.39		764.35		4222834
-POWERGRID		0.45		212.95		2468729
-TECHM		0.28		1013.9		923180
+SBIN		-0.4		547.55		7542990
+POWERGRID		0.45		212.95		2473924
+TECHM		0.3		1014.1		924651
+HCLTECH		0.4		1149.55		672398
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-SHOPERSTOP		-0.18		662.15		15789
+
