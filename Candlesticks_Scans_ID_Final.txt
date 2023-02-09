@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		0.47		213.0		3067205
-TATACONSUM		-0.24		722.65		273282
+POWERGRID		0.47		213.0		3076345
+TATACONSUM		-0.28		722.35		274946
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+GOCOLORS		-2.7		1024.05		49852
