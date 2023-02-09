@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-ICICIBANK,-0.3,856.55,1649001
-BAJFINANCE,1.94,6475.0,919303
-TCS,0.34,3532.0,608193
+ICICIBANK,-0.26,856.9,1655195
+SBILIFE,1.13,1177.7,1086103
+BAJFINANCE,1.93,6474.5,922488
+TCS,0.34,3532.0,609360
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+GRINDWELL,-1.74,2103.9,13927
