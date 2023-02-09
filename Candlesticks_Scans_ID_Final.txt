@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		0.47		213.0		3767834
-LT		0.73		2146.3		1160067
-DIVISLAB		0.5		2813.15		607983
-TITAN		-0.04		2465.85		326306
-EICHERMOT		0.36		3239.5		199319
+POWERGRID		0.5		213.05		3774179
+TITAN		-0.01		2466.5		327715
+EICHERMOT		0.34		3238.85		200811
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
