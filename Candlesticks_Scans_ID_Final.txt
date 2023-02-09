@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		1.11		145.5		6579273
-POWERGRID		0.57		213.2		4242967
-NESTLEIND		-0.02		18990.4		22836
+POWERGRID		0.52		213.1		4264238
+NESTLEIND		-0.01		18992.95		22975
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
 360ONE		-0.61		1827.2		19134
-MASTEK		-1.6		1607.8		13844
-GALAXYSURF		-0.48		2314.85		7590
+GALAXYSURF		-0.45		2315.7		7592
