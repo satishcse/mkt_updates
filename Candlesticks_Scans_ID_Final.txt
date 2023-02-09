@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		1.7		146.35		7803542
+HDFCLIFE		2.14		519.45		9327455
+ONGC		1.67		146.3		7888976
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PRINCEPIPE		-2.79		596.0		96988
-LUXIND		-1.72		1432.45		25451
-ABBOTINDIA		-1.96		20860.8		12437
+MAHINDCIE		-4.62		390.15		764516
+PRINCEPIPE		-1.99		600.9		110421
+MEDPLUS		-2.79		660.85		44585
+AIAENG		-0.33		2767.7		26117
