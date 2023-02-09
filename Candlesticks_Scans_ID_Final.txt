@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.26		856.9		1655195
-SBILIFE		1.13		1177.7		1086103
-BAJFINANCE		1.93		6474.5		922488
-TCS		0.34		3532.0		609360
+SBIN		-0.21		548.6		6229507
+NTPC		0.3		166.0		2574709
+COALINDIA		-0.26		214.95		1568144
+BRITANNIA		0.81		4632.0		82725
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-GRINDWELL		-1.74		2103.9		13927
+
