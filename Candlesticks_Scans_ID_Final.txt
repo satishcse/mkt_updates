@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.28		856.7		1588804
-TCS		0.34		3532.0		598261
+ICICIBANK		-0.28		856.7		1606640
+BAJFINANCE		1.96		6476.3		910823
+TCS		0.34		3532.2		600684
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BAYERCROP		-1.09		4433.8		1880
