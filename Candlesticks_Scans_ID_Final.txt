@@ -8,5 +8,4 @@ Bullish_Hammer_15m_N500
 nsecode		per_chg		close		volume
 CHEMPLASTS		-0.05		434.0		5544
 ENDURANCE		-1.47		1403.95		3041
-POWERINDIA		-0.83		2929.0		2815
-BASF		-0.51		2342.9		1618
+POWERINDIA		-0.83		2929.0		2816
