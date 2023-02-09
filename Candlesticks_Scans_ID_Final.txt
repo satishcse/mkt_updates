@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-LT		0.71		2146.0		1149897
-ASIANPAINT		1.45		2805.8		553876
-TITAN		-0.07		2465.1		323461
+POWERGRID		0.5		213.05		3765477
+LT		0.73		2146.45		1158655
+DIVISLAB		0.59		2815.5		607545
+TITAN		-0.02		2466.25		325560
+EICHERMOT		0.36		3239.5		199246
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
