@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		0.54		213.15		1683796
-INDUSINDBK		0.29		1148.7		673874
-UPL		-0.92		716.0		350970
+TATASTEEL		-0.22		111.2		22717023
+TECHM		-0.01		1010.9		650651
+HDFC		-0.44		2674.05		567081
+ULTRACEMCO		-0.28		7229.9		118617
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-JSL		0.19		263.25		156948
+
