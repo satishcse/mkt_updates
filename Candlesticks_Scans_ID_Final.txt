@@ -1,10 +1,19 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-BRITANNIA		0.0		4594.85		117
-NESTLEIND		0.02		18999.0		38
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ESCORTS		-2.0		1942.8		48603
+NAVINFLUOR		1.19		4235.0		12012
+MGL		0.42		906.85		9013
+COFORGE		0.16		4336.45		8076
+DMART		0.41		3472.65		4707
+TTKPRESTIG		0.98		772.0		1106
+TATAINVEST		0.33		2235.2		769
+KANSAINER		-0.24		413.4		280
+IFBIND		-0.19		828.5		237
+LUXIND		0.06		1458.4		134
+GRINFRA		0.88		1136.75		126
