@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.09		375.9		7719754
-ONGC		0.52		144.65		5675631
-POWERGRID		0.5		213.05		3730122
-ASIANPAINT		1.42		2804.9		546559
+POWERGRID		0.5		213.05		3735024
+ASIANPAINT		1.42		2804.9		548643
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GLAXO		-0.94		1267		14497
+GRINFRA		-0.87		1117.0		7396
+ZYDUSWELL		-1.0		1416.65		7097
