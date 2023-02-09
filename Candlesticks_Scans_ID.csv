@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-POWERGRID,0.5,213.05,3735024
-ASIANPAINT,1.42,2804.9,548643
+SBIN,-0.14,549.0,9995568
+M&M,0.01,1373.15,1276496
+LT,0.64,2144.4,1145536
+TITAN,-0.01,2466.6,321178
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
 nsecode,per_chg,close,volume
-GRINFRA,-0.87,1117.0,7396
-ZYDUSWELL,-1.0,1416.65,7097
+GRINFRA,-0.87,1117,7854
