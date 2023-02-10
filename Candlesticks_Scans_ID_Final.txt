@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		0.81		555.25		6166942
-NTPC		-0.45		165.25		1886588
+ADANIENT		1.69		1958.15		7152936
+BAJAJFINSV		1.14		1416.25		1130462
+UPL		0.82		723.0		726485
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ASTRAZEN		0.16		3385		2520
+
