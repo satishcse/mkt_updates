@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.18		435.95		5115177
-ASIANPAINT		0.06		2816.25		399011
+ITC		-0.88		370.95		5637953
+HDFCBANK		0.04		1651.25		1832055
+SUNPHARMA		-0.37		1003.05		705178
+JSWSTEEL		-0.56		719.7		654182
+TCS		-0.18		3534.55		622228
+MARUTI		0.24		8822.0		168109
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-SKFINDIA		-0.37		4451		14879
+
