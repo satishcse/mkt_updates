@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-NTPC		-0.45		165.25		1424833
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ASTRAL		-3.78		1953.6		411138
+JINDALSTEL		-3.12		578.45		1318656
+HINDUNILVR		-0.77		2566.9		492800
+ASTRAL		-3.68		1955.45		423722
