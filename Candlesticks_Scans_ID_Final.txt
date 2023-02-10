@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BAJAJFINSV		1.1		1415.65		1165784
+ONGC		-0.38		145.65		3631053
+BAJAJFINSV		1.21		1417.15		1178703
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-INDUSINDBK		-1.02		1151.95		614583
-CENTURYTEX		0.33		655.0		33056
+CENTURYTEX		0.33		655		33611
