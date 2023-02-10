@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TATASTEEL		-1.75		109.3		21815581
-HCLTECH		-2.4		1118.8		1076136
-BAJAJFINSV		0.83		1411.9		826208
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ASTRAZEN		-0.39		3366.4		1048
+ASTRAZEN		-0.27		3370.45		1094
