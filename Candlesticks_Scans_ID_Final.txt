@@ -1,9 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+AXISBANK		-0.05		867.3		4013378
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-GODFRYPHLP		-0.98		1798.95		31389
+
