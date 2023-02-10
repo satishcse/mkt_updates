@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.03		146.15		4743754
-ULTRACEMCO		0.1		7186.8		297828
+ITC		-0.77		371.35		8033745
+COALINDIA		-1.14		212.1		2556913
+BRITANNIA		0.05		4639.8		162242
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-3MINDIA		-0.33		23449.85		1846
+
