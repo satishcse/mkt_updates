@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		1.69		1958.15		7152936
-BAJAJFINSV		1.14		1416.25		1130462
-UPL		0.82		723.0		726485
+BAJAJFINSV		1.1		1415.65		1165784
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		-1.02		1151.95		614583
+CENTURYTEX		0.33		655.0		33056
