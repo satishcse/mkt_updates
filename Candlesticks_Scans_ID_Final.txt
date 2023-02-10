@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-0.88		370.95		5637953
-HDFCBANK		0.04		1651.25		1832055
-SUNPHARMA		-0.37		1003.05		705178
-JSWSTEEL		-0.56		719.7		654182
-TCS		-0.18		3534.55		622228
-MARUTI		0.24		8822.0		168109
+ITC		-0.87		371.0		5725462
+POWERGRID		0.45		213.8		3829763
+HDFCBANK		0.02		1650.8		1849839
+COALINDIA		-0.93		212.55		1751432
+BHARTIARTL		0.11		767.5		1743952
+SUNPHARMA		-0.42		1002.6		711776
+TCS		-0.26		3531.6		627227
+GRASIM		-0.87		1629.1		148477
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+3MINDIA		0.33		23606.2		1312
