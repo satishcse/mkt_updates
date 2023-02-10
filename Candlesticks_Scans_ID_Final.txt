@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		0.23		1654.4		2536873
-COALINDIA		-1.05		212.3		2084096
-BAJAJFINSV		0.17		1402.6		1603677
-INDUSINDBK		0.06		1164.55		1228909
-HEROMOTOCO		0.83		2580.5		198435
+HDFCBANK		0.19		1653.65		2569655
+BAJAJFINSV		0.05		1401.0		1619457
+INDUSINDBK		0.05		1164.4		1264686
+HEROMOTOCO		0.74		2578.15		199059
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
