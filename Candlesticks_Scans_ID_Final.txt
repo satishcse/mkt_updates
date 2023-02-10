@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		-0.93		2334.05		2577709
-CIPLA		0.31		1024.7		353039
-NESTLEIND		-0.05		18989.95		7289
+RELIANCE		-1.24		2326.8		2675420
+CIPLA		0.19		1023.4		357703
+NESTLEIND		-0.13		18974.8		7429
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+SUPREMEIND		-0.41		2644.45		39747
