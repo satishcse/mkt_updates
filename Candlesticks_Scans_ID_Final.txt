@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIPORTS		1.01		588.2		10418304
-LT		0.37		2155.25		1018393
+ONGC		0.0		146.2		4693069
+ULTRACEMCO		0.1		7187.2		293202
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CDSL		0.22		1002.85		313041
+PIIND		-1.89		3133.9		55227
+3MINDIA		-0.33		23449.6		1841
