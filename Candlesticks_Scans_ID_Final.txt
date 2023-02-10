@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-0.77		371.35		8033745
-COALINDIA		-1.14		212.1		2556913
-BRITANNIA		0.05		4639.8		162242
+ITC		-0.8		371.25		8184183
+HINDUNILVR		-0.69		2568.95		1140907
+BRITANNIA		-0.03		4635.95		165646
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BASF		-0.36		2328.25		8779
+3MINDIA		-0.37		23442.15		1906
