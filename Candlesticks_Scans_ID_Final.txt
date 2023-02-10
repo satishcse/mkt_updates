@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+BAJFINANCE		0.45		6484		332560
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-UTIAMC		0.66		701.35		13437
-GARFIBRES		-4.43		2984.4		6364
-MASTEK		0.08		1602.35		5035
+
