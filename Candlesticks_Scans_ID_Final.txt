@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HCLTECH		-3.08		1111.05		1846944
-SUNPHARMA		-0.07		1006.05		874356
-HINDUNILVR		-0.82		2565.45		829405
-ULTRACEMCO		-0.14		7169.75		173810
+ONGC		-0.1		146.05		4131951
+HCLTECH		-3.21		1109.6		1873655
+HINDUNILVR		-0.86		2564.55		843251
+ULTRACEMCO		-0.21		7165.0		182752
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BAJFINANCE		-0.09		6449.0		891063
+CREDITACC		-0.76		952.5		67596
