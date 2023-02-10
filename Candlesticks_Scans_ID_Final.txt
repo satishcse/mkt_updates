@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.31		145.75		2040139
+AXISBANK		0.32		870.5		966715
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SRF		-0.49		2207.45		43866
-DEEPAKNTR		-0.05		1805.75		43581
+SRF		-0.35		2210.6		45210
+DEEPAKNTR		0.16		1809.55		45003
