@@ -2,14 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		0.16		334.55		878762
+NESTLEIND		-0.13		18999.25		10507
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AMBUJACEM		-5.85		339.7		14980924
-ADANIPORTS		-6.27		547.35		13250578
-GODREJPROP		-1.47		1191.0		423578
-GMMPFAUDLR		-1.33		1545.0		18627
-ABBOTINDIA		-3.62		19990.3		10246
-BLUEDART		-2.63		6253.5		6807
+AETHER		-2.11		879.9		11257
