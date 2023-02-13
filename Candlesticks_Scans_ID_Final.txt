@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		1.06		148.25		4357928
+ONGC		1.09		148.3		4367858
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PFIZER		-2		3892.85		7766
+LUPIN		-7.77		679.9		3573484
+PFIZER		-2.02		3892.0		7768
