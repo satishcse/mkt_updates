@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-3.1		535.9		8780650
-ONGC		0.44		147.35		2156885
-HDFCBANK		-0.31		1652.0		657056
-UPL		0.69		731.9		417259
+ONGC		0.44		147.35		2014718
+RELIANCE		-0.51		2324.65		1650448
+EICHERMOT		1.33		3254.95		223743
+NESTLEIND		-0.15		18995.6		6450
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BALKRISIND		-10.23		2072.15		1250897
+GARFIBRES		-2.81		2870.3		7407
