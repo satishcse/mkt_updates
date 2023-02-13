@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HCLTECH		-0.55		1109.55		396592
+HCLTECH		-0.52		1109.9		398873
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CIPLA		-0.4		1029.1		155286
-SUPREMEIND		-0.66		2645.95		7626
-VIJAYA		0.61		443.95		7026
+PERSISTENT		-3.35		4726.9		135566
+VIJAYA		0.62		444.0		7331
