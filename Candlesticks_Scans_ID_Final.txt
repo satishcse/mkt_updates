@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.95		441.6		6347365
+TATAMOTORS		-1		441.4		6361991
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CREDITACC		-3.91		912.3		120107
-BRITANNIA		-0.77		4587.0		90567
+RAJESHEXPO		-4.87		813.55		387687
+BRITANNIA		-0.77		4587.0		96613
