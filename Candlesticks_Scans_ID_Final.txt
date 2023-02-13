@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+HCLTECH		-0.46		1110.5		392748
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MGL		-1.59		887.0		97989
-VIJAYA		0.46		443.3		6832
+BAJAJELEC		-0.52		1185.4		31482
+VIJAYA		0.58		443.8		6986
