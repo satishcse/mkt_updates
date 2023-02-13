@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.81		778.2		1693603
-BAJFINANCE		-1.8		6319.9		467091
-MARUTI		0.14		8824.0		151273
-NESTLEIND		-0.13		18999.3		12562
+HDFCBANK		-0.17		1654.35		1804597
+BHARTIARTL		0.78		777.95		1587324
+BAJAJFINSV		-0.49		1394.85		926145
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
