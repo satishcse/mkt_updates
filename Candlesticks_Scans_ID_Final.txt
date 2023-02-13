@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		1.06		148.25		4419497
+ONGC		1.06		148.25		5743450
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GARFIBRES		-4.9		2808.5		16132
-PFIZER		-1.97		3894.0		7812
+JBCHEPHARM		-2.3		1941.65		15209
+PFIZER		-1.97		3894.0		7814
