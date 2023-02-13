@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.15		18995.1		12119
+BAJFINANCE		-1.87		6315.05		450262
+NESTLEIND		-0.17		18990.6		12154
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ABB		-3.0		3071.35		902292
-OBEROIRLTY		-0.29		856.55		479133
-RAJESHEXPO		-4.82		814.0		235517
+ABB		-2.64		3082.85		906762
 POWERINDIA		-0.14		3034.35		5240
