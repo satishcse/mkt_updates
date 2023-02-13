@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-POWERGRID,1.03,216.3,6548933
-WIPRO,-1.24,400.75,2134386
-EICHERMOT,1.35,3255.65,371042
+POWERGRID,0.89,216.0,5225582
+WIPRO,-1.32,400.45,1958055
+EICHERMOT,1.25,3252.55,364299
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+NAVINFLUOR,-1.91,4263,256793
