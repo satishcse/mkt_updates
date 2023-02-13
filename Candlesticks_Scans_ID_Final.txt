@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-2.6		538.65		8169214
-TATAMOTORS		-0.92		441.75		2951125
-BHARTIARTL		0.58		776.4		799842
+SBIN		-2.63		538.5		8187431
+NTPC		0.73		166.2		2074391
+BHARTIARTL		0.59		776.5		804089
+UPL		0.68		731.85		381736
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AMBER		-0.43		1898.95		24690
+AMBER		-0.42		1899.15		24798
