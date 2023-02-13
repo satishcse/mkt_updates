@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.82		442.2		6602771
+TATAMOTORS		-0.86		442		6629700
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+HDFCAMC		-1.74		1892.85		82267
+GRINFRA		2.62		1196.45		55798
