@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-0.09		371.0		3560893
-ONGC		0.44		147.35		2028280
-RELIANCE		-0.59		2322.95		1662405
-EICHERMOT		1.24		3252.05		225091
-NESTLEIND		-0.12		19001.2		6501
+ONGC		0.37		147.25		2047804
+RELIANCE		-0.66		2321.2		1681655
+EICHERMOT		1.23		3252.0		227093
+NESTLEIND		-0.11		19002.3		6616
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
