@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.65		373.75		5581021
-BAJFINANCE		-1.95		6310.0		459353
-NESTLEIND		-0.16		18993.85		12367
+BAJFINANCE		-1.97		6308.75		482892
+MARUTI		0.12		8821.65		134424
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ABB		-2.72		3080.25		920435
-TATAELXSI		-1.59		6577.3		49528
-BALAMINES		0.15		2172.55		35707
-AETHER		-2.14		879.6		14668
+ABB		-2.81		3077.2		929745
+OBEROIRLTY		0.06		859.55		494057
+GODREJPROP		-1.6		1189.35		436449
+TATAELXSI		-1.57		6578.85		44267
+BALAMINES		0.21		2173.85		29876
