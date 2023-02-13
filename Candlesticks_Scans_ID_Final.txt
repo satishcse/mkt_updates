@@ -2,16 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HCLTECH		-0.56		1109.4		440673
+HCLTECH		-0.6		1109		415424
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		-3.42		1783.7		3180887
-ABB		-1.59		3116.0		548140
-DIVISLAB		-0.98		2783.7		115633
-MGL		-1.62		886.75		100067
-DMART		-0.25		3490.0		33582
-IPCALAB		-0.87		867.0		21509
-APLLTD		-1.63		516.1		18119
-POLYMED		-0.17		900.4		4051
+ADANIENT		-3.73		1778.05		3194900
+DIVISLAB		-0.97		2783.95		118387
+SIEMENS		-1.25		3091.75		79029
+CARBORUNIV		-0.71		1004.6		42327
+SUNDRMFAST		0.46		1004.95		12516
