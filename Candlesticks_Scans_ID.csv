@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-SBIN,-2.72,538.0,7861672
-BHARTIARTL,0.45,775.45,829903
-HDFCBANK,-0.37,1651.05,543659
-KOTAKBANK,-0.06,1771.0,444712
-JSWSTEEL,0.2,720.4,388954
+COALINDIA,-0.05,211.4,2010891
+INDUSINDBK,-0.56,1154.65,676583
+BAJFINANCE,-1.15,6361.65,304165
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+PFIZER,-0.56,3950.2,1844
