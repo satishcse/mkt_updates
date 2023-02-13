@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-COROMANDEL		-0.85		917.05		101248
-UBL		-0.56		1472.4		77828
-GARFIBRES		-3.3		2855.7		10439
+ACC		-3.72		1810.5		641632
+ULTRACEMCO		-0.19		7192.05		121801
+UBL		-0.56		1472.5		78392
+TATACOMM		-0.24		1230.2		74222
+MUTHOOTFIN		-0.95		1004.35		67045
