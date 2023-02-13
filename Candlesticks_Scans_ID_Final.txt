@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		0.82		215.85		5240861
-WIPRO		-1.34		400.35		1976242
-EICHERMOT		1.24		3252.3		365127
+POWERGRID		0.84		215.9		5250609
+WIPRO		-1.27		400.65		1989169
+EICHERMOT		1.26		3252.7		366351
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-1.89		4264.05		257138
-3MINDIA		-1.61		23042.95		987
+NAVINFLUOR		-1.87		4264.9		257439
