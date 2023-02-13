@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-2.68		538.25		7983767
-BHARTIARTL		0.4		775.0		775702
-HDFCBANK		-0.37		1651.0		566115
-KOTAKBANK		-0.03		1771.6		451374
-TATACONSUM		-0.45		723.35		163453
+SBIN		-2.72		538.0		8043548
+BHARTIARTL		0.45		775.45		778296
+HDFCBANK		-0.37		1651.05		567445
+KOTAKBANK		-0.06		1771.0		453480
+TATACONSUM		-0.4		723.7		164400
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-APLAPOLLO		-0.26		1188.65		162220
+
