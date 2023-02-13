@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFC		0.29		2696.6		1574213
+HDFC		0.36		2698.35		1586062
+SUNPHARMA		0.34		1010.0		956598
+NESTLEIND		-0.13		18999.85		13095
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
