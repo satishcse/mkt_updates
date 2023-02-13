@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ABB		-0.9		3137.95		462740
-NAUKRI		-6.96		3548.25		447619
-INDIAMART		-0.83		4752.0		9174
+NAUKRI		-6.7		3558.1		458831
+OFSS		-1.06		3142.95		9802
+INDIAMART		-0.77		4755.05		9235
 GLAXO		-0.21		1250.0		7497
