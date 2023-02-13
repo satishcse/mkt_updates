@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ACC		-3.72		1810.5		641632
-ULTRACEMCO		-0.19		7192.05		121801
-UBL		-0.56		1472.5		78392
-TATACOMM		-0.24		1230.2		74222
-MUTHOOTFIN		-0.95		1004.35		67045
+NAUKRI		-10.18		3425.5		1263065
+ULTRACEMCO		-0.16		7194.85		120211
+UBL		-0.56		1472.45		77246
+TATACOMM		-0.21		1230.65		74986
