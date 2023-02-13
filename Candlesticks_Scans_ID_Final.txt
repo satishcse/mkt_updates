@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.09		108.9		36673790
-BHARTIARTL		0.76		777.8		1646076
-NESTLEIND		-0.2		18985.25		11437
+TATASTEEL		-0.05		108.75		37017965
+BHARTIARTL		0.74		777.7		1651819
+NESTLEIND		-0.19		18988.1		11478
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-COFORGE		-6.79		4040		7948202
+COFORGE		-6.77		4040.95		7950228
