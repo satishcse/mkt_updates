@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.01		441.35		5948765
+TATAMOTORS		-1.04		441.2		6286722
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-POWERINDIA		-0.75		3015.95		7685
+POWERINDIA		-0.75		3015.95		6081
