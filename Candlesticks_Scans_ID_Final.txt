@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-3.04		536.25		13906149
-NESTLEIND		-0.13		18999.7		12299
+SBIN		-3.04		536.25		13576593
+NESTLEIND		-0.19		18987.35		14351
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PGHH		-0.92		13704.95		501
+PGHH		-0.92		13704.95		623
