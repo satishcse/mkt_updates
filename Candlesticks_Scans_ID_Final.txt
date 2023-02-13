@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-INFY		-2.51		1568.15		2110595
-BPCL		0.09		334.3		866689
+INFY		-2.51		1568.15		2037413
+UPL		-0.03		726.65		655593
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.61		2567.6		178702
-BLUEDART		-2.84		6239.9		6740
+GODREJPROP		-1.68		1188.5		419732
+JKCEMENT		-1.89		2750.05		88319
+BLUEDART		-2.84		6239.9		7309
