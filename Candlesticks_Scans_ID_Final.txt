@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.0		211.5		2387324
-HDFCBANK		-0.25		1652.9		1102699
-HINDUNILVR		-0.14		2573.95		504946
+COALINDIA		0.0		211.5		2399786
+HINDUNILVR		-0.15		2573.75		505823
+GRASIM		-0.24		1631.4		114615
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GODFRYPHLP		-5.06		1698.7		67450
-SUNDRMFAST		0.56		1006.0		32352
-TEAMLEASE		-0.11		2487.65		2666
+SUNDRMFAST		0.83		1008.65		29108
+TEAMLEASE		-0.11		2487.65		2455
