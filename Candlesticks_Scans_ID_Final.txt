@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		1.06		148.25		4325278
+ONGC		1.02		148.2		4343039
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-1.15		4296.1		201354
-GODFRYPHLP		-5.32		1694.0		73331
-PFIZER		-2.17		3886.3		7762
+GODFRYPHLP		-5.33		1693.95		73332
+GARFIBRES		-4.79		2811.85		15747
+PFIZER		-2.17		3886.3		7764
