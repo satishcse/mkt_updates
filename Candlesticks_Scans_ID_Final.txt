@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CUB		-9.5		144.85		4126783
-ABB		-1.09		3131.65		468170
-INDIAMART		-0.81		4753.0		9308
+GLAXO		-0.28		1249.1		7506
