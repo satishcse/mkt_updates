@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		-0.09		211.3		1818601
-WIPRO		-1.02		401.65		651379
+COALINDIA		-0.05		211.4		1849102
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GODREJCP		-1.46		926.7		145736
+GODREJCP		-1.47		926.6		145843
+LTIM		-2.27		4585.0		79122
+BRITANNIA		-0.51		4598.95		34518
