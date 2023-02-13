@@ -1,7 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+TATASTEEL		0.37		109.2		29879145
+TITAN		1.93		2516.15		1004373
+HCLTECH		-0.36		1111.6		749788
+JSWSTEEL		0.42		722.0		511083
+ASIANPAINT		-0.49		2790.85		219178
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
