@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		0.15		334.5		876184
+BPCL		0.16		334.55		878762
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ADANIPORTS		-6.29		547.2		13092787
-ABBOTINDIA		-3.7		19974.5		10176
-BLUEDART		-2.75		6245.55		6805
+AMBUJACEM		-5.85		339.7		14980924
+ADANIPORTS		-6.27		547.35		13250578
+GODREJPROP		-1.47		1191.0		423578
+GMMPFAUDLR		-1.33		1545.0		18627
+ABBOTINDIA		-3.62		19990.3		10246
+BLUEDART		-2.63		6253.5		6807
