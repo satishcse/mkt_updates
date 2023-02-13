@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.68		147.7		3588601
-DIVISLAB		-1.86		2759.05		277559
-GRASIM		-0.44		1628.1		137219
+ONGC		0.68		147.7		3078899
+DIVISLAB		-1.84		2759.65		271813
+GRASIM		-0.4		1628.75		138677
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+AMARAJABAT		-1.05		600.15		358350
