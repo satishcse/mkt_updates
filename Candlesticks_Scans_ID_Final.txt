@@ -6,9 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ABB		-0.2		3160.05		338789
-PATANJALI		-1.08		943.0		8712
-VINATIORGA		-1.19		1915.9		3475
-SHREECEM		-0.25		23909.9		3458
-BAYERCROP		-0.27		4465.0		200
+BAYERCROP		-0.27		4465.0		229
+LAXMIMACH		0.34		11444.85		179
 PGHH		-0.21		13803.95		54
