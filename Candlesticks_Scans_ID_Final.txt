@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		0.96		216.15		5381734
-HDFCBANK		0.02		1657.35		2750886
-WIPRO		-1.27		400.65		2122720
-KOTAKBANK		0.09		1773.65		2063869
-EICHERMOT		1.24		3252.05		379367
+POWERGRID		0.96		216.15		6796570
+HDFCBANK		0.01		1657.25		2628940
+WIPRO		-1.31		400.5		2356602
+EICHERMOT		1.25		3252.5		389448
+GRASIM		-0.7		1623.8		209397
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-1.87		4265		275991
+NAVINFLUOR		-1.87		4265.0		278362
+SHYAMMETL		-0.96		293.75		90985
