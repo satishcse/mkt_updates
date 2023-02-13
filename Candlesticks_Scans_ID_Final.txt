@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.14		108.95		35079660
-HDFCLIFE		-1.54		514.5		2332058
-BHARTIARTL		0.78		777.95		1608492
-BAJAJFINSV		-0.51		1394.6		931852
-NESTLEIND		-0.13		18999.9		11232
+TATASTEEL		0.14		108.95		34918638
+HDFCLIFE		-1.54		514.5		2633538
+BHARTIARTL		0.78		777.95		1726225
+BAJAJFINSV		-0.51		1394.6		935377
+NESTLEIND		-0.13		18999.9		12797
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
