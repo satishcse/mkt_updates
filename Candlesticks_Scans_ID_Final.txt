@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		0.63		215.45		3301375
+SBIN		-2.96		536.7		10316577
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-PERSISTENT		-3.57		4715.95		234188
-ASIANPAINT		-0.62		2787.3		210945
-ULTRACEMCO		-0.19		7192.7		124277
-UBL		-0.56		1472.5		78267
-DALBHARAT		-0.85		1922.8		70417
+
