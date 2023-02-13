@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-DIVISLAB		-1.88		2758.45		273616
-GRASIM		-0.5		1627.05		142213
+DIVISLAB		-1.88		2758.45		274078
+GRASIM		-0.47		1627.55		142490
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-VARROC		-0.62		272.2		72357
-GODFRYPHLP		-5.21		1696.0		65393
-MEDPLUS		-2.96		645.2		16294
+GODFRYPHLP		-5.21		1696.0		72119
+MEDPLUS		-2.96		645.2		18832
