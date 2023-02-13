@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		1.06		148.25		4309883
-HDFC		0.36		2698.5		1602472
-NESTLEIND		-0.21		18984.1		13149
+ONGC		1.06		148.25		4325278
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PFIZER		-2.45		3875.0		7723
-3MINDIA		-1.24		23129.05		713
+NAVINFLUOR		-1.15		4296.1		201354
+GODFRYPHLP		-5.32		1694.0		73331
+PFIZER		-2.17		3886.3		7762
