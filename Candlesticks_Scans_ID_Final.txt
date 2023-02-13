@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SIEMENS		-1.14		3094.95		73604
-VIJAYA		0.56		443.7		6740
-SUNDARMFIN		-0.2		2319.55		668
+MGL		-1.59		887.0		97989
+VIJAYA		0.46		443.3		6832
