@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		1.12		166.85		6838455
-DIVISLAB		-1.81		2760.35		276613
-GRASIM		-0.52		1626.85		144906
+ONGC		0.68		147.7		3129151
+TCS		-1.6		3481.1		657593
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BBTC		-1.18		912.55		47672
-GMMPFAUDLR		-1.45		1543.0		20354
+BBTC		-1.18		912.55		44865
