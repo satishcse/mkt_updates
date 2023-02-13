@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-2.92		536.9		8451794
-UPL		0.61		731.3		387134
+SBIN		-2.92		536.9		8282183
+ONGC		0.44		147.35		2146747
+UPL		0.63		731.5		414724
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PVR		-0.51		1690.1		99488
-AMBER		-0.45		1898.55		26823
+PVR		-0.44		1691.2		99856
+BBTC		-0.8		916.05		39424
+AMBER		-0.43		1898.95		26880
