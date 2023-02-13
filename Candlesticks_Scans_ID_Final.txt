@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.44		147.35		2058960
-RELIANCE		-0.61		2322.35		1694284
+POWERGRID		0.58		215.35		2472118
+ONGC		0.44		147.35		2064087
+RELIANCE		-0.63		2322.0		1701764
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-GESHIP		-8.46		567.2		293672
-MAHLIFE		-0.9		396.4		70409
-PGHH		-0.6		13749.85		299
+
