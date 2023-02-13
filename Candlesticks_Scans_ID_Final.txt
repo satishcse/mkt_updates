@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.32		109.15		29900773
-TITAN		1.92		2515.95		1006425
-JSWSTEEL		0.36		721.55		511854
-ASIANPAINT		-0.53		2789.8		219613
+TATASTEEL		0.28		109.1		28981950
+TITAN		1.92		2515.95		982744
+JSWSTEEL		0.38		721.65		565385
+ASIANPAINT		-0.53		2789.8		217088
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
