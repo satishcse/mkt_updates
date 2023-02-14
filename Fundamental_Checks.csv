@@ -29,8 +29,8 @@ GRAVITA,-0.67,527.0,265359
 Zero_Debt_Momentum,,,, 
 ------------------ 
 nsecode,per_chg,close,volume
-UGARSUGAR,1.39,98.7,635309
-IDFC,-0.9,77.1,13065140
+UGARSUGAR,1.39,98.7,956240
+IDFC,-0.9,77.1,19682174
 
 FIPA_above_all_SMAs,,,, 
 ------------------- 
@@ -63,7 +63,8 @@ VBL,-1.95,1259.0,910530
 Outperforming_Nifty_1W_3M,,,, 
 ------------------------- 
 nsecode,per_chg,close,volume
-NUCLEUS,19.66,482.0,800964
-WONDERLA,6.3,428.0,779269
-OIL,6.08,255.65,12110649
-MOLDTECH,1.95,264.5,1081247
+NUCLEUS,19.66,482.0,1001532
+WONDERLA,6.3,428.0,1109973
+OIL,6.08,255.65,15814800
+MOLDTECH,1.95,264.5,1309191
+CIGNITITEC,1.94,711.8,362280
