@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFC		0.44		2711.65		1715791
-TCS		1.04		3518.6		965393
+HDFC		0.44		2711.65		1577470
+LT		-0.35		2195.5		1247863
+TCS		1.04		3518.6		1005877
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-SUNDRMFAST		-2.06		998.9		30936
-ALKYLAMINE		-1.21		2530.0		15365
-VMART		-0.86		2495.8		2533
+
