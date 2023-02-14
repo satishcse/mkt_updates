@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		-0.68		211.6		4968828
-HDFCLIFE		-0.36		512.65		1582151
-ASIANPAINT		-0.28		2783.05		318555
+WIPRO		1.21		405.45		1589001
+TATACONSUM		0.72		723.0		384831
+ASIANPAINT		-0.26		2783.55		319082
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MASTEK		-1.77		1547.1		20274
+MASTEK		-1.65		1548.95		20314
