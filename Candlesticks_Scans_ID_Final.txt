@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TATACHEM		-0.31		1014.1		93058
-GRASIM		-1.01		1605.9		77418
-JBMA		-0.44		513.9		52680
-JUBLPHARMA		-1.73		314.7		46611
-360ONE		0.28		1857.85		2308
+KOTAKBANK		-0.42		1766.35		199599
+GRASIM		-1.0		1606.0		59222
+JUBLPHARMA		-1.86		314.3		28197
+CERA		-1.05		6042.0		4593
