@@ -6,10 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.06		718.5		186362
-GLAND		-1.54		1344.0		104916
-THYROCARE		-0.23		487.35		14416
-CLEAN		-1.17		1428.0		6293
-AAVAS		-1.23		1990.45		4612
-KAJARIACER		-1.07		1084.85		4578
-SUNDARMFIN		-0.37		2321.6		3777
+THYROCARE		-0.23		487.35		8036
+CLEAN		-1.17		1427.95		4100
+KAJARIACER		-1.07		1084.85		3085
