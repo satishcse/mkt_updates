@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.04		2580		1814014
+HINDUNILVR		-0.04		2580		1803568
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CEATLTD		-1.01		1500.05		28685
+OLECTRA		-9.24		424.0		326877
+CEATLTD		-0.96		1500.9		28768
