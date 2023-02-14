@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BRITANNIA		0.69		4619.6		116883
+NTPC		-1.46		165.4		13087351
+BRITANNIA		0.69		4619.6		146837
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-JKCEMENT		-0.81		2740.7		63910
+
