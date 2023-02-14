@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.09		108.65		16120494
-BAJAJFINSV		0.68		1398.0		773585
+TATASTEEL		-0.14		108.6		16233645
+BAJAJFINSV		0.68		1398.05		777041
+CIPLA		0.43		1026.35		375202
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-LAXMIMACH		-0.29		11263.4		1636
+
