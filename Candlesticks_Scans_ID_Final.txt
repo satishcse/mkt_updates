@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.09		718.7		129745
-INOXLEISUR		-1.32		494.0		11229
-KAJARIACER		-1.07		1084.85		3085
+RHIM		-13.13		650.5		484552
+SAPPHIRE		-1.26		1166.1		2928
