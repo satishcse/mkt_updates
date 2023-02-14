@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.28		109.05		9969422
+CIPLA		0.78		1029.9		172681
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.3		7201.05		53082
-SOLARINDS		-1.74		3665.5		29385
-HONAUT		-1.29		38157.45		459
+SOLARINDS		-1.74		3665.5		29423
