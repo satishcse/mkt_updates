@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		1.72		865.25		13429966
-POWERGRID		-0.44		215.05		6777942
-HINDUNILVR		-0.12		2577.95		1858512
+HINDUNILVR		-0.08		2579		1870801
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TRIVENI		-1.21		276.6		766146
-WESTLIFE		-0.71		681.95		207965
-HLEGLAS		-1.88		547.9		43707
+TCS		0.49		3499.6		1523860
+TRIVENI		-1.16		276.75		531165
+UFLEX		-1.73		511.95		198493
