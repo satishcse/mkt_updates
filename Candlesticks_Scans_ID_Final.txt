@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-CIPLA		0.83		1030.4		611314
-NESTLEIND		0.35		19093.35		28400
+WIPRO		1.16		405.25		1796616
+HDFCLIFE		0.05		514.75		1736623
+CIPLA		0.79		1030.0		613218
+APOLLOHOSP		-1.62		4288.05		266817
+NESTLEIND		0.38		19099.85		28580
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-3MINDIA		-2.46		22391.95		2134
+
