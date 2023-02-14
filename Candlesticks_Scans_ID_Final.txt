@@ -6,10 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-NAUKRI		-0.36		3451.35		146676
-SBILIFE		-0.35		1175.0		80622
-BAJFINANCE		0.23		6360.0		54386
-JUBLINGREA		-0.42		465.5		41480
-JUSTDIAL		-0.31		640.3		18651
-CHOLAHLDNG		-0.15		614.95		1507
-360ONE		0.69		1865.45		882
+PVR		-1.48		1661.8		33056
+SUNDARMFIN		-0.62		2315.65		3009
