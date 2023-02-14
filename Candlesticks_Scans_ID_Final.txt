@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LUPIN		-1.88		662.45		531008
-RHIM		-12.25		657.15		524815
-CLEAN		-1.17		1427.95		4468
+RHIM		-12.25		657.15		627111
