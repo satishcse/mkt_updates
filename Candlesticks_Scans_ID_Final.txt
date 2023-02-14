@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		-2.69		1671.45		5078992
-BHARTIARTL		0.68		773.85		1672946
-DRREDDY		0.61		4552.15		109869
+ADANIENT		-2.88		1668.15		5089033
+BHARTIARTL		0.68		773.85		1674987
+DRREDDY		0.67		4554.9		110504
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+MAHLOG		-2.97		382.0		113401
+CGCL		-0.59		764.4		78576
