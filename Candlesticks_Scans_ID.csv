@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-TCS,1.11,3520.9,936690
-BAJFINANCE,1.58,6445.75,533502
-GRASIM,-0.62,1612.2,218675
+BHARTIARTL,0.74,774.25,1787801
+HDFC,0.57,2715.35,1662732
+TCS,1.08,3520.0,938939
+BAJFINANCE,1.61,6447.9,534326
+GRASIM,-0.61,1612.4,219391
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+BALAMINES,-1.32,2156.6,20321
