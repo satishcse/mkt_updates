@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.23		440.05		4714100
-HDFCLIFE		-0.15		513.75		1192281
-BPCL		-0.88		331.95		532360
+TATAMOTORS		-0.2		440.15		4724110
+HDFCLIFE		-0.18		513.55		1193495
+BPCL		-0.94		331.75		533549
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SANOFI		-0.23		5349.25		2193
+THYROCARE		-2		478.7		30899
