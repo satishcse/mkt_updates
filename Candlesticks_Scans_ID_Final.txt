@@ -2,14 +2,16 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-1.01		166.15		12000725
-HINDALCO		1.71		435.0		3508604
-HINDUNILVR		-0.04		2580.0		1740371
-GRASIM		-0.91		1607.5		941201
+NTPC		-1.07		166.05		12018914
+HINDALCO		1.71		435.0		3516367
+HINDUNILVR		-0.04		2580.0		1744853
+GRASIM		-0.91		1607.5		946731
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-NUVOCO		-1.93		360.85		53150
-SCHAEFFLER		-0.94		2689.45		19126
-360ONE		0.02		1853.1		16579
+TCS		0.57		3502.35		1366300
+NUVOCO		-1.85		361.15		53505
+SCHAEFFLER		-0.94		2689.35		19240
+360ONE		0.15		1855.5		16707
+BASF		-2.22		2249.0		11850
