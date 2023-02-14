@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+SBIN		-0.65		534.0		7284232
+EICHERMOT		-0.26		3244.1		173398
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-POLICYBZR		-1.68		517.3		888016
-CGCL		-0.66		763.9		76370
+
