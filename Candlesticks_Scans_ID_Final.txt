@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		0.44		1665.7		3867680
-HINDALCO		1.1		432.4		2700870
-NESTLEIND		0.86		19190.0		22466
+TATASTEEL		0.23		109.0		21444905
+NTPC		-1.43		165.45		9756624
+ICICIBANK		1.32		861.85		8897981
+TATAMOTORS		0.41		442.85		6416403
+INDUSINDBK		-0.24		1154.6		1476399
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ALKYLAMINE		-1.27		2528.45		18224
+
