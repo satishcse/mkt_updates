@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.23		109.0		25397581
-ICICIBANK		1.28		861.55		9212938
-TATAMOTORS		0.32		442.45		6076385
-HDFCLIFE		-0.44		512.25		2202217
+COALINDIA		-0.68		211.6		4968828
+HDFCLIFE		-0.36		512.65		1582151
+ASIANPAINT		-0.28		2783.05		318555
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
