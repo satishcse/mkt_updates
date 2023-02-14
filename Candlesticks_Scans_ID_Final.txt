@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		-2.98		1666.5		3804375
-ICICIBANK		0.78		857.3		2954655
-TATAMOTORS		-0.62		438.3		2603058
+ADANIENT		-3.11		1664.25		3826008
+ICICIBANK		0.76		857.1		2980736
+TATAMOTORS		-0.67		438.1		2608519
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ESCORTS		-1.57		2047.0		140780
-TIINDIA		-0.82		2506.35		99414
+ESCORTS		-1.41		2050.3		142153
