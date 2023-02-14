@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.75		774.35		1790416
-HDFC		0.57		2715.2		1666646
-TCS		1.08		3520.1		941828
-BAJFINANCE		1.62		6448.0		535489
-GRASIM		-0.57		1613.0		219961
+BHARTIARTL		0.72		774.15		1893540
+HDFC		0.58		2715.5		1549401
+TCS		1.11		3521.0		985822
+BAJFINANCE		1.61		6447.95		487130
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
