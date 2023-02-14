@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-1.49		165.35		9237948
-WIPRO		1.22		405.5		1473101
-BRITANNIA		0.73		4621.55		113696
+NTPC		-1.46		165.4		9252819
+BRITANNIA		0.71		4620.8		116495
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-VMART		-1.21		2487		33654
+
