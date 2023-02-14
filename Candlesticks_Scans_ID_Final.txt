@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.62		438.3		2734266
-ICICIBANK		0.75		857.0		2669454
-NTPC		-0.45		167.1		1792086
-TITAN		-1.2		2488.85		214869
+TATAMOTORS		-0.59		438.45		2751851
+ICICIBANK		0.75		857.0		2680792
+TITAN		-1.23		2488.15		215323
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ESCORTS		-1.25		2053.55		144481
