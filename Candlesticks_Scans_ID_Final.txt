@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		1.21		405.45		1593216
-TATACONSUM		0.7		722.85		386496
-ASIANPAINT		-0.28		2783.0		320236
+WIPRO		1.21		405.45		1599646
+TATACONSUM		0.72		722.95		387619
+ASIANPAINT		-0.27		2783.15		320694
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MASTEK		-1.58		1550		34042
+MASTEK		-1.58		1550.0		21290
+3MINDIA		-2.35		22417.6		1969
