@@ -20,17 +20,17 @@ COALINDIA,-0.68,211.6,6757794
 Fundamental_Tenchnical_Swing,,,, 
 ---------------------------- 
 nsecode,per_chg,close,volume
-ITC,3.14,385.95,29578265
-PERSISTENT,0.53,4747.0,340588
-CGPOWER,-0.01,334.4,4960283
-TITAN,-0.48,2507.05,838560
-GRAVITA,-0.67,527.0,419499
+ITC,3.14,385.95,29120892
+PERSISTENT,0.53,4747.0,325843
+CGPOWER,-0.01,334.4,3553329
+TITAN,-0.48,2507.05,843450
+GRAVITA,-0.67,527.0,265359
 
 Zero_Debt_Momentum,,,, 
 ------------------ 
 nsecode,per_chg,close,volume
-UGARSUGAR,1.39,98.7,956240
-IDFC,-0.9,77.1,19682174
+UGARSUGAR,1.39,98.7,635309
+IDFC,-0.9,77.1,13065140
 
 FIPA_above_all_SMAs,,,, 
 ------------------- 
@@ -63,7 +63,7 @@ VBL,-1.95,1259.0,910530
 Outperforming_Nifty_1W_3M,,,, 
 ------------------------- 
 nsecode,per_chg,close,volume
-NUCLEUS,19.66,482.0,800133
+NUCLEUS,19.66,482.0,800964
 WONDERLA,6.3,428.0,779269
 OIL,6.08,255.65,12110649
 MOLDTECH,1.95,264.5,1081247
