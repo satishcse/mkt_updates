@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.05		441.25		7166336
+TATAMOTORS		0.05		441.25		6824498
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BDL		-2.73		808.9		527458
-KIMS		-1.05		1442.1		20472
+BDL		-2.73		808.9		734931
+JUSTDIAL		-0.96		636.15		137477
