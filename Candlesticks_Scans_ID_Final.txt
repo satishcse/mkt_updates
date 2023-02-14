@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		1.76		865.65		12968334
-RELIANCE		2.36		2378.2		6258116
-HINDUNILVR		-0.04		2579.85		1847250
+ICICIBANK		1.75		865.5		13388920
+POWERGRID		-0.44		215.05		6755938
+HINDUNILVR		-0.14		2577.35		1852626
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CCL		-2		535.2		171215
+TCS		0.5		3499.65		1499239
+TRIVENI		-1.96		274.5		520356
+HLEGLAS		-1.89		547.85		30030
+TTKPRESTIG		-0.9		762.65		16363
