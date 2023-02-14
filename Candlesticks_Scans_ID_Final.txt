@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.24		442.1		7044154
-BPCL		-1.1		331.2		801906
+TATAMOTORS		0.18		441.85		7092443
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+JUSTDIAL		-0.97		636.05		136866
+HONAUT		-2.68		37619.3		4039
