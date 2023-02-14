@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.23		109.0		21444905
-NTPC		-1.43		165.45		9756624
-ICICIBANK		1.32		861.85		8897981
-TATAMOTORS		0.41		442.85		6416403
-INDUSINDBK		-0.24		1154.6		1476399
+TATASTEEL		0.23		109.0		21460442
+TATAMOTORS		0.35		442.6		6426229
+INDUSINDBK		-0.28		1154.1		1477718
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
