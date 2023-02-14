@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.65		534.0		7302015
-EICHERMOT		-0.26		3244.15		173723
+SBIN		-0.67		533.9		7331555
+RELIANCE		1.43		2356.5		2003536
+EICHERMOT		-0.23		3245.15		174580
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-COLPAL		-0.41		1447.9		46317
+LICI		-0.87		601.45		594666
+CGCL		-0.66		763.9		76398
