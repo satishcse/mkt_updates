@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.68		533.85		7147878
-EICHERMOT		-0.26		3244.1		180402
-DRREDDY		0.58		4550.95		105196
+SBIN		-0.68		533.85		7685107
+ONGC		0.0		148.15		3431247
+TATACONSUM		-0.01		717.75		222039
+EICHERMOT		-0.26		3244.05		179502
+DRREDDY		0.58		4550.8		98547
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
