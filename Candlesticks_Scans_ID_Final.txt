@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		0.59		1668.15		3775255
-NESTLEIND		0.96		19209.3		21345
+HDFCBANK		0.53		1667.2		3799431
+NESTLEIND		0.96		19209.2		21433
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+SANOFI		-0.26		5347.55		4342
