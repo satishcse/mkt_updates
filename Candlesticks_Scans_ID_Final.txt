@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.18		769.95		1161353
+BHARTIARTL		0.18		769.95		1161872
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CENTURYTEX		-0.66		645.2		9695
-SAPPHIRE		-1.91		1158.35		5321
+SUPREMEIND		-3.63		2558.0		52352
+SOLARINDS		-1.76		3664.8		45653
+SAPPHIRE		-1.91		1158.35		8992
+VMART		-0.47		2505.7		1629
