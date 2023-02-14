@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		-0.44		215.05		1527028
+TATASTEEL		0.28		109.05		9969422
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.31		7201.25		52000
-SOLARINDS		-1.75		3665.4		29319
-CENTURYTEX		-0.65		645.3		9824
+ULTRACEMCO		0.3		7201.05		53082
+SOLARINDS		-1.74		3665.5		29385
+HONAUT		-1.29		38157.45		459
