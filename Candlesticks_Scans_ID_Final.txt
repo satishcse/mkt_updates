@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.05		441.25		6824498
+CIPLA		0.83		1030.4		611314
+NESTLEIND		0.35		19093.35		28400
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BDL		-2.73		808.9		734931
-JUSTDIAL		-0.96		636.15		137477
+3MINDIA		-2.46		22391.95		2134
