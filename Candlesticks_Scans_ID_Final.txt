@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		-0.28		212.45		4186009
-INFY		1.7		1594.05		2812666
-BHARTIARTL		0.6		773.2		1706067
+COALINDIA		-0.26		212.5		4187497
+INFY		1.67		1593.55		2818824
+BHARTIARTL		0.65		773.6		1708685
+BPCL		-0.79		332.25		518517
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
