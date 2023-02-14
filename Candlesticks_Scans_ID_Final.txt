@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		-2.95		1667.05		5182237
-BHARTIARTL		0.65		773.6		1770724
-DRREDDY		0.6		4551.8		116373
+COALINDIA		-0.23		212.55		4129507
+BHARTIARTL		0.69		773.9		1687935
+CIPLA		0.54		1027.5		382473
+BAJAJ-AUTO		0.27		3893.95		119669
+DRREDDY		0.78		4560.0		115352
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-MAHLOG		-2.97		382		114069
+
