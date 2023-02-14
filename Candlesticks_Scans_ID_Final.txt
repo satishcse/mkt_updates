@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		-0.69		214.5		5921610
+HINDUNILVR		-0.07		2579.15		1630367
+HEROMOTOCO		-0.7		2543.55		298997
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ALKYLAMINE		-1.62		2519.55		21628
