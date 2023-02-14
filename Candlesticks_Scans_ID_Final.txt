@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		-2.6		1672.95		4986461
-ONGC		-0.03		148.1		3533007
-POWERGRID		-1.39		213.0		2363773
+ADANIENT		-2.6		1672.95		5088232
+POWERGRID		-1.39		213.0		3983990
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GESHIP		-2.49		555		275741
+GESHIP		-2.19		556.7		276026
