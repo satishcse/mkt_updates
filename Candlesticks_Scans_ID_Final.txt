@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		0.58		1668.05		3845820
-HINDALCO		1.1		432.4		2694497
-NESTLEIND		0.88		19194.9		22281
+HDFCBANK		0.44		1665.7		3867680
+HINDALCO		1.1		432.4		2700870
+NESTLEIND		0.86		19190.0		22466
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ALKYLAMINE		-1.29		2528		26006
+ALKYLAMINE		-1.27		2528.45		18224
