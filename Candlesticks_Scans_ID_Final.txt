@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BAJFINANCE		0.17		6470.0		423815
-DRREDDY		-0.44		4518.45		184793
+INDUSINDBK		-0.74		1148.3		1531185
+DRREDDY		-0.48		4516.55		184992
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-THERMAX		-1.93		2098		26127
+THERMAX		-1.89		2099		26409
