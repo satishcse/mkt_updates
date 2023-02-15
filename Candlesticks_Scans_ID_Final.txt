@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-DIVISLAB		0.57		2807.5		94987
+HDFCLIFE		0.62		515.25		1178601
+M&M		0.41		1368.8		551994
+TITAN		0.18		2511.35		228344
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-MASTEK		-0.4		1549.9		7983
+
