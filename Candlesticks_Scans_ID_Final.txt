@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-1.73		379.75		7084674
-HDFCLIFE		0.58		515.0		1554205
-SUNPHARMA		-0.81		998.6		1245329
-M&M		0.28		1366.95		1033377
+ITC		-1.69		379.9		7095947
+SUNPHARMA		-0.8		998.65		1252582
+M&M		0.29		1367.1		1034718
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TCI		-0.43		641.9		22115
+TCI		-0.43		641.9		22118
