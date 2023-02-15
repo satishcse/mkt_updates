@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.98		147.0		9428936
-BAJAJFINSV		1.03		1413.05		1023813
-HEROMOTOCO		0.47		2554.35		487577
-GRASIM		0.44		1611.7		468887
-BAJFINANCE		0.02		6460.0		391572
+BAJAJFINSV		1.04		1413.2		1024629
+HEROMOTOCO		0.4		2552.6		488110
+BAJFINANCE		0.05		6461.75		391783
+BRITANNIA		-0.71		4567.4		127184
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
