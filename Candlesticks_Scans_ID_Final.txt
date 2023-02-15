@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.62		515.25		1178601
-M&M		0.41		1368.8		551994
-TITAN		0.18		2511.35		228344
+HDFCLIFE		0.62		515.25		1184807
+M&M		0.4		1368.6		556933
+TITAN		0.18		2511.4		229184
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
