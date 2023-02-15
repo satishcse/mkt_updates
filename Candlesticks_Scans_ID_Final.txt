@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.16		863.9		2382270
-POWERGRID		-0.26		214.45		1637400
-HINDALCO		0.44		436.7		1055109
-HDFCLIFE		0.63		515.3		1009991
-TCS		-0.57		3480.15		321869
+ICICIBANK		-0.27		863.0		2404677
+POWERGRID		-0.26		214.45		1639692
+HINDALCO		0.39		436.5		1059241
+HDFCLIFE		0.6		515.1		1023250
+TCS		-0.57		3480.05		322524
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-METROPOLIS		-1.79		1305		43414
+METROPOLIS		-1.72		1305.95		43666
+GRINFRA		-0.9		1203.1		15693
