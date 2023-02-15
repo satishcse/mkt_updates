@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		-0.54		432.45		1836746
-UPL		0.55		765.8		1758855
-TATACONSUM		-0.06		720.55		347371
+ITC		-1.71		379.85		6753342
+HDFCBANK		-0.55		1664.45		3068030
+UPL		0.45		765.05		1763017
+TATACONSUM		-0.08		720.45		348744
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
