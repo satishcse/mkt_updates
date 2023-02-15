@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.22		539.65		7998792
-POWERGRID		-0.67		213.55		4123995
-BAJAJFINSV		0.99		1412.5		1018036
+SBIN		-0.23		539.6		8030766
+POWERGRID		-0.67		213.55		4126887
+BAJAJFINSV		0.98		1412.35		1019095
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BATAINDIA		-1.99		1472.05		1220578
-MAHLIFE		-0.74		382.9		66290
-CLEAN		-1.19		1438.5		21002
+MAHLIFE		-0.74		382.9		40501
+CLEAN		-1.18		1438.65		12555
