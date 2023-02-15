@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TECHM		2.8		1040.4		1717260
-HDFC		-1.08		2689.4		1638705
-CIPLA		-0.2		1026.3		323585
+TECHM		2.79		1040.3		1726300
+HDFC		-1.13		2688.0		1644642
+CIPLA		-0.21		1026.15		324101
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-EMAMILTD		-2.58		389.45		446865
+EMAMILTD		-2.58		389.45		589467
