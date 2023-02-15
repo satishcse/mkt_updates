@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.18		165.75		3139097
-KOTAKBANK		0.71		1782.9		898497
+COALINDIA		-0.35		211.0		5061995
+NTPC		-0.18		165.75		3144054
+HDFCLIFE		0.57		514.95		1306951
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
