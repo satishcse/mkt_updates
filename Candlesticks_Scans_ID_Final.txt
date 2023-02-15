@@ -5,14 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-INDUSTOWER		0.75		168.75		583285
-FACT		1.37		259.45		208553
-GODREJPROP		-0.69		1150.7		84515
-IRCTC		0.26		643.7		74760
-SHREECEM		-0.02		24630.0		5172
-SYMPHONY		-0.29		1052.2		4826
-NUVOCO		0.39		359.9		3208
-TCI		-0.41		642.05		1683
-TEAMLEASE		0.45		2485.0		514
-SANOFI		-0.06		5340.0		192
+
