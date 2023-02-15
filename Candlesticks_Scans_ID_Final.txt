@@ -5,4 +5,9 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+SBILIFE		-0.61		1154.65		121422
+CIPLA		-0.96		1018.5		121060
+RATNAMANI		0.42		2116.9		5054
+BASF		-0.23		2230.35		5052
+ZYDUSWELL		-0.38		1419.55		1784
