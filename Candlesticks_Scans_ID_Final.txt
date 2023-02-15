@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		-0.7		213.5		4265752
-JSWSTEEL		-0.36		721.25		541832
-BRITANNIA		-0.83		4561.45		130677
+POWERGRID		-0.79		213.3		4372186
+JSWSTEEL		-0.31		721.6		542528
+BRITANNIA		-0.84		4561.35		130883
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
