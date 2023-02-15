@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.98		147.0		9251844
-POWERGRID		-0.63		213.65		4024482
-JSWSTEEL		-0.28		721.8		507413
+ITC		-1.53		380.55		7715560
+HDFCLIFE		0.63		515.3		1651489
+TATACONSUM		-0.08		720.4		403508
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-HDFC		-1.15		2687.35		1740140
+
