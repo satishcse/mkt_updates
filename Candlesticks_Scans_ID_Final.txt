@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LT		-1.1		2167.45		396002
-SYMPHONY		-0.42		1050.85		8295
-GRINFRA		0.32		1217.95		5603
+LTIM		-1.01		4590.0		44389
 RATNAMANI		0.41		2116.7		2885
