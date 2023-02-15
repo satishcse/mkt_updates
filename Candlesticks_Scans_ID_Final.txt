@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SCHAEFFLER		0.37		2697.2		10251
+NATCOPHARM		1.52		537.0		121521
+SCHAEFFLER		0.39		2697.7		10259
