@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		-0.38		210.95		4417475
-NESTLEIND		-0.43		19000.0		8148
+COALINDIA		-0.38		210.95		6476444
+NESTLEIND		-0.44		18998.55		11254
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-SHOPERSTOP		-1.55		630.65		13230
+
