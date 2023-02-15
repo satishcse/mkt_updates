@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		-0.33		211.05		5076884
-M&M		0.32		1367.5		650307
-BPCL		-0.17		330.6		637934
-TITAN		0.12		2510.0		247803
-ULTRACEMCO		-0.5		7103.2		164045
+COALINDIA		-0.35		211.0		5085422
+NTPC		-0.18		165.75		3173995
+HDFCLIFE		0.57		514.95		1318906
+M&M		0.29		1367.1		659379
+TITAN		0.13		2510.1		248400
+ULTRACEMCO		-0.5		7103.2		164177
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+MASTEK		-0.67		1545.7		9521
