@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.62		515.25		1231289
-TITAN		0.14		2510.45		236319
-ULTRACEMCO		-0.48		7105.0		117649
+SBIN		0.55		543.8		3774843
+HDFCLIFE		0.62		515.25		1233779
+TITAN		0.15		2510.75		236542
+ULTRACEMCO		-0.48		7105.0		117844
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-RATNAMANI		0.22		2112.65		6534
+
