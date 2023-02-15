@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.81		147.25		10332413
+ONGC		-0.77		147.3		10403385
+BHARTIARTL		0.72		780.8		2568826
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AAVAS		-2.51		1932.4		210258
-NAVINFLUOR		-0.43		4072.55		176818
+AAVAS		-2.53		1932.15		249764
+NAVINFLUOR		-0.29		4077.9		197666
