@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-1.77		379.6		6813770
-HDFCBANK		-0.61		1663.45		3090832
-UPL		0.45		765.05		1768105
-TATACONSUM		-0.1		720.25		351975
+ITC		-1.75		379.7		7460963
+HDFCBANK		-0.64		1662.95		3242410
+UPL		0.45		765.05		2297128
+TATACONSUM		-0.06		720.55		547181
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ECLERX		-4.35		1410.1		40599
