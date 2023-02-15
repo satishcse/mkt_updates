@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		0.32		542.6		2949108
+SBIN		0.26		542.25		2966518
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-NATCOPHARM		1.7		537.95		189708
+NATCOPHARM		1.71		538		189780
