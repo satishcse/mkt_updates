@@ -2,13 +2,17 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		-0.18		434.0		4308783
-INFY		0.25		1597.25		3166271
+HINDALCO		-0.2		433.95		3521482
+INDUSINDBK		-0.59		1150.0		1974377
+HCLTECH		0.8		1134.45		1594454
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-INDIANB		-0.62		288.1		562036
-GLAND		-1.75		1338.0		239851
-CENTURYPLY		0.59		514.35		71940
-SUDARSCHEM		-0.97		360.7		40187
+NYKAA		-0.59		142.25		5351664
+INDIANB		-0.76		287.7		565136
+GLAND		-1.48		1341.7		245907
+RAYMOND		-0.82		1274.75		135013
+CENTURYPLY		1.35		518.25		74382
+TCI		-0.4		642.15		23882
+POLYMED		-0.37		881.6		6062
