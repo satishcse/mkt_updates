@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-SBIN,-0.21,539.7,8425892
+SBIN,-0.21,539.7,7848511
+POWERGRID,-0.65,213.6,4102878
+TITAN,0.66,2523.35,477569
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
 nsecode,per_chg,close,volume
-SAPPHIRE,-2.15,1151.05,34346
-PRIVISCL,-2.23,954.65,32737
+SAPPHIRE,-2.14,1151.2,34391
+CLEAN,-1.26,1437.55,12290
