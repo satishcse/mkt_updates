@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.19		539.8		8388618
+SBIN		-0.21		539.7		8425892
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PRIVISCL		-2.23		954.65		58156
+SAPPHIRE		-2.15		1151.05		34346
+PRIVISCL		-2.23		954.65		32737
