@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		0.39		436.5		1048247
-HDFCLIFE		0.67		515.5		1004229
+HINDALCO		0.39		436.5		1050551
+HDFCLIFE		0.67		515.5		1007124
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-METROPOLIS		-2.1		1300.85		53371
+METROPOLIS		-2.07		1301.25		53633
+ENDURANCE		-0.8		1343.95		11258
