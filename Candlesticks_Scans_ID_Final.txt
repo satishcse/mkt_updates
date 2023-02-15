@@ -1,13 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+RELIANCE		1.07		2403.45		2617741
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SBILIFE		-0.61		1154.65		121422
-CIPLA		-0.96		1018.5		121060
-RATNAMANI		0.42		2116.9		5054
-BASF		-0.23		2230.35		5052
-ZYDUSWELL		-0.38		1419.55		1784
+DRREDDY		-0.48		4516.55		45402
+SUNDARMFIN		0.48		2355.0		33507
+SYMPHONY		-0.5		1049.95		14413
+BASF		-0.23		2230.3		5534
+RATNAMANI		0.42		2116.75		5107
