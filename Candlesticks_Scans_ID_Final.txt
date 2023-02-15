@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		0.31		542.5		11912535
+HINDALCO		-0.05		434.6		3354673
+UPL		1.08		769.8		2681139
+BAJFINANCE		0.54		6493.85		578389
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-EMAMILTD		-2.69		389.0		563525
-CAMPUS		-4.5		387.25		449212
-SUDARSCHEM		-0.91		360.95		39659
+INDIANB		-0.64		288.05		560526
+CENTURYPLY		0.66		514.7		71638
+SUDARSCHEM		-0.95		360.8		39772
