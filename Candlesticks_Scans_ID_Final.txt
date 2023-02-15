@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.91		147.1		9214346
-TATAMOTORS		-0.31		439.2		5575599
-POWERGRID		-0.65		213.6		4006225
-JSWSTEEL		-0.29		721.75		505775
+ONGC		-0.94		147.05		9222731
+TATAMOTORS		-0.34		439.05		5586115
+POWERGRID		-0.67		213.55		4011335
+JSWSTEEL		-0.26		721.95		506412
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ENDURANCE		-1.32		1336.95		13067
+
