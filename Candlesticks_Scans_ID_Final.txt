@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-LT		0.32		2181.95		2237366
-HEROMOTOCO		-0.54		2558.2		372310
+LT		0.3		2181.55		2246054
+HEROMOTOCO		-0.5		2559.15		374478
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DMART		-0.03		3544.55		243487
+DMART		-0.02		3544.8		248590
+BAJAJHLDNG		-0.16		6001.2		5831
