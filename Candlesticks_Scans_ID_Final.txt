@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.86		111.25		17323531
-ONGC		4.0		153.4		16662462
-DRREDDY		0.01		4520.35		150871
-BRITANNIA		0.28		4601.4		103410
+TATASTEEL		0.86		111.25		22356545
+ONGC		4.0		153.4		18031552
+DRREDDY		0.01		4520.35		159035
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AETHER		0.21		862.65		12285
+AETHER		0.21		862.65		22049
