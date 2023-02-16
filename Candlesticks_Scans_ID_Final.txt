@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIPORTS		1.64		578.4		6768314
-ITC		0.69		384.85		4663882
-BPCL		-1.03		327.75		1393697
-BRITANNIA		-0.03		4587.0		46770
+ADANIPORTS		1.48		577.5		6572588
+BPCL		-1.01		327.8		1124886
+M&M		0.7		1389.0		1096286
+HDFC		0.52		2717.85		946614
+JSWSTEEL		0.39		729.95		195942
+BRITANNIA		-0.03		4587.0		35056
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-THERMAX		-1.12		2088.45		10809
+DCMSHRIRAM		0.02		862.95		4111
