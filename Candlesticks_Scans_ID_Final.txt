@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.77		111.15		17473631
-DRREDDY		-0.08		4516.05		153027
-BRITANNIA		0.27		4601.0		104132
+TATASTEEL		0.77		111.15		17488478
+HINDUNILVR		-0.7		2530.5		842619
+DRREDDY		-0.1		4515.3		153525
+BRITANNIA		0.25		4600.0		104215
+BAJAJ-AUTO		-0.14		3899.95		95824
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AETHER		0.25		863		12323
+AETHER		0.25		863		12303
