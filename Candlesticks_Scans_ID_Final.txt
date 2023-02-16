@@ -2,8 +2,23 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		0.68		436.9		8794
+HDFCLIFE		-0.09		518.65		108466
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ALLCARGO		0.23		355.5		211646
+BAJAJFINSV		0.79		1432.0		147492
+MCDOWELL-N		0.53		792.05		53456
+MFSL		0.13		746.25		53099
+TITAN		0.18		2528.85		46627
+RHIM		1.07		663.6		40652
+DEEPAKFERT		0.64		617.7		24246
+SUNDRMFAST		0.61		996.15		3317
+GMMPFAUDLR		0.14		1561.4		2554
+VMART		0.75		2458.0		2313
+AETHER		0.44		864.65		1051
+HOMEFIRST		-0.19		746.6		726
+GARFIBRES		-0.09		2850.0		448
+PFIZER		0.03		3846.0		188
+ABBOTINDIA		0.36		20472.05		164
