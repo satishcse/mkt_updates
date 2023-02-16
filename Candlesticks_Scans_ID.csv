@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-HINDALCO,0.39,435.65,1655111
-SUNPHARMA,0.9,1004.4,388625
+HINDALCO,0.33,435.4,1665531
+SUNPHARMA,0.9,1004.35,391181
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
 nsecode,per_chg,close,volume
-HDFCAMC,0.08,1904.75,23455
-NESTLEIND,-0.17,19227.6,12920
+SUMICHEM,-0.19,439.75,55807
+NESTLEIND,0.19,19298.0,13656
+TIMKEN,-0.83,2998.85,7319
