@@ -1,8 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+HDFC		0.5		2717.55		859350
+BAJAJ-AUTO		0.31		3917.55		53004
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+NUVOCO		-0.17		356.45		13686
