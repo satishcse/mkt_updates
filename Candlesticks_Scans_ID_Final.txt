@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		1.08		215.2		11981978
-TITAN		0.62		2539.9		360417
+COALINDIA		1.06		215.15		9049607
+TITAN		0.59		2539.15		308086
+BAJAJ-AUTO		0.23		3914.3		64927
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
