@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.07		541.85		6625395
-HCLTECH		0.9		1143.05		1157965
-TCS		1.12		3560.0		897007
+TECHM		5.65		1131.95		10442477
+SBIN		-0.03		542.1		6759271
+HCLTECH		0.9		1143.15		1242798
+TCS		1.12		3560.0		934029
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ALKEM		-0.49		3297.5		42854
+FLUOROCHEM		-1.09		2827.9		370493
