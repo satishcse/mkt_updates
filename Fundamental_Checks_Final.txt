@@ -87,7 +87,7 @@ M&M		-0.96		1366.1		2645984
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-NUCLEUS		14.21		543.0		2021985
-APLAPOLLO		7.2		1320.0		2000251
-OIL		4.98		260.25		7663193
-PENIND		4.24		73.7		2713417
+NUCLEUS		14.21		543.0		2455626
+APLAPOLLO		7.2		1320.0		2313576
+OIL		4.98		260.25		10856328
+PENIND		4.24		73.7		4354738
