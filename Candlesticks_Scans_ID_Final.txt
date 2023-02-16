@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		0.25		872.95		4638066
-HDFC		0.46		2716.3		934042
-EICHERMOT		0.6		3330.9		269459
-CIPLA		0.07		1031.5		199467
+ADANIPORTS		1.63		578.3		6533128
+BPCL		-1.07		327.6		1113227
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
