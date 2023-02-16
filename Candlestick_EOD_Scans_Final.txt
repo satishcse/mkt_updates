@@ -2,12 +2,12 @@
 Hanging_Man_N100								 
 ---------------- 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.11		727.95		942550
+JSWSTEEL		0.11		727.95		943585
 
 Bullish_Hammer_Daily_N50								 
 ------------------------ 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.28		7171.75		264069
+ULTRACEMCO		0.28		7171.75		277316
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ---------------------------------- 
