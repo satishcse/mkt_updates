@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		0.28		1674.95		1475345
-SUNPHARMA		0.86		1004.0		380450
-TITAN		0.58		2539.0		245098
+HINDALCO		0.38		435.6		1278177
+SUNPHARMA		0.87		1004.1		373518
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BBTC		-0.17		917		22178
+BBTC		-0.07		918.0		22467
+NESTLEIND		-0.24		19214.95		12734
+TIMKEN		-1.15		2989.0		6987
