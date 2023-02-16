@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		0.6		436.55		792023
-WIPRO		0.65		410.05		788112
+WIPRO		0.61		409.9		804179
+HINDALCO		0.65		436.75		801267
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BLUEDART		-0.26		6188.9		1869
+UNOMINDA		-1.95		499.0		176467
+GOCOLORS		-0.08		988.45		5730
