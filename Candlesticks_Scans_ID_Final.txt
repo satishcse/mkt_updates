@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.86		111.25		19744173
+TATASTEEL		0.91		111.3		19770496
+POWERGRID		0.19		214.9		1914103
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		0.12		2434.9		6407463
-BALKRISIND		-0.23		2015.0		161173
-THERMAX		-1.29		2084.9		47283
+RELIANCE		0.08		2433.95		6345637
+BALKRISIND		-0.23		2015.0		154769
+THERMAX		-1.28		2085.0		29240
