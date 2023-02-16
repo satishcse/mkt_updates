@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.36		442.55		6040023
-AXISBANK		-0.29		865.75		4392390
-BAJFINANCE		-0.87		6433.2		423864
+TATAMOTORS		-0.32		442.75		6242516
+AXISBANK		-0.3		865.7		4545536
+HINDALCO		0.3		435.25		3890981
+BAJFINANCE		-0.91		6431.15		434745
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
