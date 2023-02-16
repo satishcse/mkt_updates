@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		0.56		436.4		973503
-WIPRO		0.64		410.0		881911
+WIPRO		0.7		410.25		888261
+HINDALCO		0.6		436.55		818068
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		0.45		874.7		2607984
-BAJAJFINSV		-0.07		1419.75		473634
-UNOMINDA		-1.95		499.0		111334
-GOCOLORS		-0.05		988.7		3346
+BAJAJFINSV		0.11		1422.35		494328
+GALAXYSURF		-0.94		2425.05		5716
