@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		0.54		436.3		1003182
+HINDALCO		0.59		436.5		860806
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ADANIGREEN		3.52		642.85		4652187
-UNOMINDA		-1.94		499.05		134628
-BRITANNIA		0.06		4591.0		12342
-GALAXYSURF		-0.92		2425.55		6416
-TTKPRESTIG		-0.83		763.35		4353
+BRITANNIA		0.01		4589.1		12371
+JKLAKSHMI		-0.3		756.0		11153
+GALAXYSURF		-0.9		2425.95		6436
+TTKPRESTIG		-0.79		763.65		4366
