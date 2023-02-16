@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.82		111.2		18169704
-UPL		0.26		771.35		1061106
-TITAN		0.66		2540.85		370888
-JSWSTEEL		0.34		729.65		355563
-BAJAJ-AUTO		0.21		3913.65		76198
+TATASTEEL		0.86		111.25		14486870
+UPL		0.21		770.95		767387
+TITAN		0.62		2539.95		315912
+JSWSTEEL		0.29		729.25		250882
+BAJAJ-AUTO		0.16		3911.5		65981
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+NIITLTD		-1.64		362.1		500894
