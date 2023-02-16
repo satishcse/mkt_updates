@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ----------------- 
 nsecode		per_chg		close		volume
-NESTLEIND		1.76		19600		174007
+NESTLEIND		1.76		19600		177939
 
 BN_1Hr_OBV_DIV								 
 -------------- 
@@ -79,15 +79,15 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 --------- 
 nsecode		per_chg		close		volume
-POWERGRID		0.05		214.6		2972349
-MCDOWELL-N		-0.15		786.65		461936
+POWERGRID		0.05		214.6		2972337
+MCDOWELL-N		-0.15		786.65		461831
 SBIN		-0.4		540.1		12767016
-MARUTI		-0.46		8805.1		247516
+MARUTI		-0.46		8805.1		247514
 SBILIFE		-0.53		1174.1		356754
-HEROMOTOCO		-0.59		2556.7		433094
+HEROMOTOCO		-0.59		2556.7		433077
 COLPAL		-0.64		1449.3		90494
-IDFCFIRSTB		-0.87		57.0		16901819
-CONCOR		-1.28		613.3		1066854
+IDFCFIRSTB		-0.87		57.0		16901793
+CONCOR		-1.28		613.3		1066829
 
 Open_Low								 
 -------- 
