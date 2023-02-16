@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		1.02		411.55		3945116
-AXISBANK		-0.22		866.4		3789480
-DRREDDY		0.0		4520.05		159501
-BAJAJ-AUTO		-0.14		3900.0		101582
+COALINDIA		0.94		214.9		16200522
+POWERGRID		0.12		214.75		2643719
+BRITANNIA		0.27		4600.65		120562
+BAJAJ-AUTO		-0.14		3900.0		112898
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
