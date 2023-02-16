@@ -34,13 +34,11 @@ HCLTECH		-0.42		1128.15		2369377
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
 nsecode		per_chg		close		volume
-PERSISTENT		2.25		4939.75		499575
-CGPOWER		0.94		323.75		5054124
-ITC		0.09		382.55		12405511
-RSYSTEMS		0.08		255.7		126637
-TITAN		-0.08		2522.4		758359
-GRAVITA		-0.1		508.4		275900
-ANANDRATHI		-1.87		779.4		106557
+PERSISTENT		2.25		4939.75		476664
+CGPOWER		0.94		323.75		4072105
+ITC		0.09		382.55		9775280
+TITAN		-0.08		2522.4		704947
+GRAVITA		-0.1		508.4		176266
 
 Zero_Debt_Momentum								 
 ------------------ 
@@ -93,7 +91,7 @@ M&M		-0.81		1368.15		2646306
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-NUCLEUS		14.38		543.8		2457659
+NUCLEUS		14.38		543.8		2457694
 APLAPOLLO		7.29		1321.15		2313588
 OIL		5.04		260.4		10859140
 PENIND		4.03		73.55		4357177
