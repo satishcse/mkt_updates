@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.94		214.9		16200522
-POWERGRID		0.12		214.75		2643719
-BRITANNIA		0.27		4600.65		120562
-BAJAJ-AUTO		-0.14		3900.0		112898
+BRITANNIA		0.29		4601.7		106932
+BAJAJ-AUTO		-0.14		3900.0		102715
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
