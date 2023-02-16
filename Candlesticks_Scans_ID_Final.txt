@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.65		384.7		4906890
-POWERGRID		0.09		214.7		1302463
-TCS		1.2		3562.75		806254
+ITC		0.67		384.75		4936885
+TCS		1.13		3560.6		809108
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-METROBRAND		0.42		841.1		35378
+METROBRAND		0.42		841.1		35676
+NUVOCO		-0.13		356.6		21109
