@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ----------------- 
 nsecode		per_chg		close		volume
-NESTLEIND		1.76		19600		177939
+NESTLEIND		1.76		19600		174007
 
 BN_1Hr_OBV_DIV								 
 -------------- 
@@ -13,7 +13,7 @@ Intraday_Buy_PSAR
 nsecode		per_chg		close		volume
 HAL		7.37		2665.4		3258911
 NMDC		2.79		121.55		12001417
-ATUL		2.74		7385.25		43882
+ATUL		2.74		7385.25		43886
 JINDALSTEL		2.39		601.65		2065346
 PERSISTENT		2.25		4939.75		499575
 BIOCON		1.99		242.85		5114277
