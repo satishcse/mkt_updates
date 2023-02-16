@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-AXISBANK		0.25		870.5		1198541
-KOTAKBANK		0.67		1797.5		522086
+TATASTEEL		0.73		111.1		11073280
+TATAMOTORS		0.12		444.7		2404747
+POWERGRID		-0.14		214.2		803362
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
