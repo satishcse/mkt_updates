@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-AXISBANK		-0.32		865.5		4364310
-BHARTIARTL		-0.09		784.7		2526409
-BAJFINANCE		-0.85		6434.85		417408
+TATAMOTORS		-0.28		442.9		6006377
+AXISBANK		-0.27		865.95		4380046
+BHARTIARTL		-0.1		784.6		2534323
+BAJFINANCE		-0.86		6434.45		422384
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
