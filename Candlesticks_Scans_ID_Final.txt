@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		0.97		411.35		3099392
-POWERGRID		0.0		214.5		1196721
-ASIANPAINT		1.45		2826.45		317430
+WIPRO		0.96		411.3		3165125
+POWERGRID		0.02		214.55		1750566
+ASIANPAINT		1.43		2825.9		339024
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-FINEORG		-0.29		4761.75		23003
+
