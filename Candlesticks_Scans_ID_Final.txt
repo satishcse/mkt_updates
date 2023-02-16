@@ -1,20 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-HDFCLIFE		-0.13		518.45		142694
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-AWL		4.31		414.7		2126058
-CUMMINSIND		0.38		1634.95		136858
-TITAN		0.35		2533.05		81502
-RHIM		1.59		667.0		78983
-BERGEPAINT		0.09		559.15		38655
-DIXON		0.4		2712.3		23565
-MARUTI		0.22		8864.55		23562
-ALKEM		0.43		3328.1		10962
-COLPAL		0.09		1460.0		4849
-GLAXO		0.4		1254.75		3364
-VMART		0.85		2460.4		2756
+
