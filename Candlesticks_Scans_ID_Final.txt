@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HOMEFIRST		-1.72		735.15		67868
-TEAMLEASE		-0.37		2525.0		6569
+BAJAJELEC		-0.66		1131.55		167449
+HOMEFIRST		-1.72		735.15		38587
+TEAMLEASE		-0.37		2525.0		3925
