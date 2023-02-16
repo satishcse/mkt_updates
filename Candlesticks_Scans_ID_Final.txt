@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TATACONSUM		0.58		732.35		761469
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAJAJELEC		-0.36		1135		162963
+HCLTECH		-0.53		1126.85		2279071
+BAJAJELEC		0.25		1142.0		165000
+AJANTPHARM		-1.58		1202.75		45898
