@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.18		783.95		1076953
-CIPLA		0.16		1032.5		164315
+BHARTIARTL		-0.13		784.35		1078554
+POWERGRID		0.0		214.5		968770
+CIPLA		0.16		1032.45		164976
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SWANENERGY		0.64		274.9		99061
+BAJFINANCE		-0.39		6464.4		226813
+SWANENERGY		0.66		274.95		61021
+ALKEM		0.29		3323.35		28121
+TATAINVEST		-0.93		2222.65		13190
