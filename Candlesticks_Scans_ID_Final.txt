@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TITAN		0.54		2538.0		309179
-BAJAJ-AUTO		0.2		3913.25		65017
+NTPC		0.54		166.7		3604252
+TITAN		0.62		2539.9		312944
+BAJAJ-AUTO		0.25		3915.0		65531
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ADANIENT		1.15		1799.5		4000281
+CHAMBLFERT		-0.99		300.7		958400
+GODFRYPHLP		-0.56		1753.0		108181
