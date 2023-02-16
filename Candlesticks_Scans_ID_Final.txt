@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.77		111.15		14163244
+TATASTEEL		0.73		111.1		14188022
 COALINDIA		0.61		214.2		8413609
 HDFC		0.43		2715.55		881617
 LT		0.56		2187.3		580976
-SUNPHARMA		0.66		1001.95		489841
+SUNPHARMA		0.65		1001.9		490821
 BAJAJ-AUTO		0.28		3916.35		62022
 
 Bullish_Hammer_15m_N500								 
