@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.67		384.75		5669622
-TCS		1.13		3560.6		835360
+ITC		0.65		384.7		4957446
+TCS		1.09		3559.1		812220
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-METROBRAND		0.41		841		35892
+METROBRAND		0.47		841.5		65563
