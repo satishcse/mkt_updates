@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.85		1003.85		367472
-TITAN		0.59		2539.1		206443
-GRASIM		0.12		1628.1		86076
+HDFCBANK		0.28		1674.95		1393052
+SUNPHARMA		0.86		1004.0		367523
+TITAN		0.58		2539.0		207121
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ABB		-0.02		3148.9		90785
+HDFCAMC		0.06		1904.4		22550
+BBTC		-0.18		916.95		22084
