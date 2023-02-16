@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-AXISBANK		-0.29		865.75		4346742
+AXISBANK		-0.3		865.7		4354393
+JSWSTEEL		0.09		727.8		481109
+SBILIFE		-0.5		1174.4		273546
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
+CRISIL		-0.88		3127.8		16583
 TEAMLEASE		-0.57		2519.9		3076
