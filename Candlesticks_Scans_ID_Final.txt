@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		0.29		435.2		1068831
-TATACONSUM		0.45		731.35		198154
-BAJAJ-AUTO		0.16		3911.5		41628
+HINDALCO		0.28		435.15		1348200
+TATACONSUM		0.46		731.45		240652
+BAJAJ-AUTO		0.16		3911.65		47592
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-HOMEFIRST		-0.45		744.65		11716
+
