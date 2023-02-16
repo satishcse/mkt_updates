@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-LT		0.21		2179.7		2259396
-INDUSINDBK		0.03		1150.0		1661583
+LT		0.12		2177.75		2267254
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-VBL		0.29		1282.6		706901
-DMART		0.03		3546.8		411872
-IFBIND		-0.41		830.85		17617
-BAJAJHLDNG		-0.1		6004.65		8377
+BAJAJHLDNG		-0.1		6004.7		5972
