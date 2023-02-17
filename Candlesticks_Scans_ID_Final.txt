@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-CIPLA		-0.93		1025.85		1223364
+CIPLA		-0.91		1026.05		1226157
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-APLAPOLLO		-3.2		1278.85		470952
+APLAPOLLO		-3.15		1279.5		472225
+LAXMIMACH		-1.66		11245.0		1533
