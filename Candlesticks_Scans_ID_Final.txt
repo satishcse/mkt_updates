@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.99		4597.25		284124
+APOLLOHOSP		-0.99		4597.25		284214
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TVSMOTOR		-1.6		1105.95		675863
-HDFCAMC		-0.83		1879.35		82489
+TVSMOTOR		-1.61		1105.8		677675
