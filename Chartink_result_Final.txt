@@ -10,13 +10,13 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-SAIL		1.17		86.8		17255002
-GRASIM		0.94		1644.9		753109
-PAGEIND		0.22		38814.2		12980
-VEDL		0.06		315.05		3329152
-GAIL		0.05		96.0		16332587
-POLYCAB		0.0		3046.05		945215
-LALPATHLAB		-1.09		1969.55		220489
+SAIL		1.17		86.8		22938417
+GRASIM		0.93		1644.85		754065
+PAGEIND		0.21		38810.05		17434
+VEDL		0.06		315.05		4940852
+POLYCAB		0.03		3047.0		951483
+GAIL		-0.05		95.9		23671666
+LALPATHLAB		-1.1		1969.4		233769
 
 Intraday_Volume_Shocker								 
 ----------------------- 
@@ -41,8 +41,11 @@ WHIRLPOOL		-1.2		1292.6		64706
 High_Relative_Volume_Spurt_5m								 
 ----------------------------- 
 nsecode		per_chg		close		volume
-DELTACORP		-0.68		203		1299674
-TCS		-1.46		3506		810778
+ABCAPITAL		-1.6		144.1		1139356
+DELTACORP		-0.68		203.0		853002
+TCS		-1.46		3506.0		803793
+GODREJPROP		-1.93		1163.25		391775
+SUNTV		-0.46		454.8		275386
 
 Open_High								 
 --------- 
