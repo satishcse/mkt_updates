@@ -6,8 +6,8 @@ Hanging_Man_N100
 Bullish_Hammer_Daily_N50								 
 ------------------------ 
 nsecode		per_chg		close		volume
-HDFC		-0.26		2693.6		2274612
-EICHERMOT		-0.12		3285.0		512936
+HDFC		-0.26		2693.6		2245686
+EICHERMOT		-0.12		3285.0		489040
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ---------------------------------- 
