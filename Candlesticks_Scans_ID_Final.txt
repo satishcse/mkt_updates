@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.82		535.65		2958797
-UPL		0.75		776.1		1031791
-NESTLEIND		-2.67		19104.05		90376
-MARUTI		0.33		8834.0		62192
+SBIN		-1.07		534.3		3225229
+UPL		0.75		776.15		1034225
+NESTLEIND		-2.75		19090.0		90797
+MARUTI		0.32		8833.0		62289
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-2.68		4186.1		59028
+NAVINFLUOR		-2.71		4185		59353
