@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.71		112.8		17748843
+TATASTEEL		0.71		112.8		22112336
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-OLECTRA		-1.42		427.45		88495
-BLUEDART		-0.66		6133.4		4519
+ROSSARI		0.05		694.75		129742
+OLECTRA		-1.42		427.45		88508
+BLUEDART		-0.69		6131.55		4534
