@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BRITANNIA		-0.84		4533.65		178560
-NESTLEIND		-3.01		19038.05		166588
+BRITANNIA		-0.81		4535.0		179677
+NESTLEIND		-2.98		19044.2		167482
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+APLAPOLLO		-2.76		1284.7		511330
