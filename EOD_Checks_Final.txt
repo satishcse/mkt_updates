@@ -2,9 +2,9 @@
 Volume_Shocker_Daily								 
 -------------------- 
 nsecode		per_chg		close		volume
-SHILPAMED		15.52		298.15		7611379
-TCNSBRANDS		11.94		494.55		1241586
-JBMA		5.43		554.85		960201
+SHILPAMED		15.52		298.15		8390326
+TCNSBRANDS		11.94		494.55		1506382
+JBMA		5.43		554.85		1369426
 
 BN_NR7								 
 ------ 
@@ -52,8 +52,8 @@ AUBANK		-1.92		614.45		1682850
 OBV_RSI_Buy_Daily								 
 ----------------- 
 nsecode		per_chg		close		volume
-UPL		0.27		772.45		2458173
-TECHM		-0.16		1128.4		5370472
+UPL		0.27		772.45		2372375
+TECHM		-0.16		1128.4		5327213
 
 Strong_Stocks_Daily								 
 ------------------- 
@@ -65,7 +65,7 @@ SUPREMEIND		1.31		2745.0		143288
 PNBHOUSING		0.72		590.5		2104571
 FINCABLES		0.66		675.0		1979561
 NYKAA		0.47		139.65		4258918
-GODFRYPHLP		0.22		1756.0		49676
+GODFRYPHLP		0.22		1756.0		49675
 OIL		0.1		260.65		3291757
 MAHINDCIE		0.03		390.0		320886
 
