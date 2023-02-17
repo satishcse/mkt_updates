@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.74		217.05		5905258
-UPL		-0.4		767.25		1717370
-SUNPHARMA		-0.67		988.45		1102227
-GRASIM		0.87		1643.85		636270
+COALINDIA		0.72		217.0		5917314
+UPL		-0.4		767.25		1721398
+SUNPHARMA		-0.69		988.3		1104683
+JSWSTEEL		0.13		728.9		864838
+GRASIM		0.82		1643.0		636369
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
