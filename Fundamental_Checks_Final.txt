@@ -33,7 +33,7 @@ CGPOWER		-1.78		318.0		2425881
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
-TDPOWERSYS		4.29		138.7		805924
+TDPOWERSYS		4.29		138.7		805904
 LIKHITHA		0.89		253.7		501053
 UGARSUGAR		-0.79		99.95		803869
 
