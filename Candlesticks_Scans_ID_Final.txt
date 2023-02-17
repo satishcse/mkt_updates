@@ -2,16 +2,16 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.22		112.25		34083352
+TATASTEEL		0.22		112.25		34087552
 BPCL		1.84		331.7		3349942
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SAPPHIRE		-1.32		1169.7		658823
-AFFLE		0.0		1023.45		249825
-JUBLINGREA		-0.65		458.4		213227
-ROSSARI		-0.68		689.7		170984
-SIS		-0.56		361.0		89187
-CLEAN		-1.78		1439.05		40540
-VIJAYA		-0.4		413.9		38158
+SAPPHIRE		-1.32		1169.7		463663
+AFFLE		0.0		1023.45		166139
+ROSSARI		-0.68		689.7		146253
+JUBLINGREA		-0.65		458.4		135254
+SIS		-0.56		361.0		54137
+VIJAYA		-0.4		413.9		27459
+CLEAN		-1.78		1439.05		26380
