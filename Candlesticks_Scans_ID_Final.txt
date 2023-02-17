@@ -2,8 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.0		112		34067438
-BPCL		1.93		332		3349418
+TATASTEEL		0.22		112.25		34074943
+BPCL		1.84		331.7		3349464
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
@@ -14,4 +14,4 @@ JUBLINGREA		-0.73		458.05		213201
 ROSSARI		-0.68		689.7		170984
 SIS		-1.12		359.0		89180
 CLEAN		-1.52		1442.9		40536
-VIJAYA		-0.46		413.65		38116
+VIJAYA		-0.4		413.9		38123
