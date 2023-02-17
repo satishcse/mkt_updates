@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+HDFCBANK		-0.81		1650.75		3994686
+HDFCLIFE		-1.58		506.45		3382002
+APOLLOHOSP		-0.56		4617.05		346506
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-GLAND		-1.25		1311.15		120659
+
