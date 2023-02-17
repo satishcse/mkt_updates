@@ -66,9 +66,9 @@ HONAUT		-0.29		37246.75		9406
 High_Relative_Volume_Spurt_5m								 
 ----------------------------- 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.87		726.25		624210
-MPHASIS		-1.15		2236.55		523083
-BATAINDIA		-0.69		1440.05		417814
+TATACONSUM		-0.87		726.25		624215
+MPHASIS		-1.15		2236.55		523102
+BATAINDIA		-0.69		1440.05		417819
 
 Open_High								 
 --------- 
