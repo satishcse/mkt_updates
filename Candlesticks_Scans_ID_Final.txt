@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.85		112.95		17200212
+TATASTEEL		0.8		112.9		17280182
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ADANIENT		-3.27		1737.8		2688541
-PGHL		-1.03		4619.5		1078
+
