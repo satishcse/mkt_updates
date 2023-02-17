@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.86		217.3		5553151
-HDFC		-1.05		2672.1		1188407
-JSWSTEEL		0.03		728.15		850183
-GRASIM		0.75		1641.9		627415
+COALINDIA		0.95		217.5		5641226
+HDFC		-1.06		2672.0		1198194
+JSWSTEEL		0.03		728.15		851714
+GRASIM		0.73		1641.6		628553
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-INDUSINDBK		-3.08		1113		2015692
+RAJESHEXPO		-1.8		749.95		106984
+360ONE		-0.43		1814.9		15431
