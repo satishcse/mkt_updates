@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.76		112.85		21888367
+TATASTEEL		0.76		112.85		17648606
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SBILIFE		-2.65		1143.0		472559
-BLUEDART		-0.63		6135.05		4461
+PVR		-1.28		1689.15		113647
+ATUL		-1.83		7250.0		19482
+BLUEDART		-0.69		6131.55		4493
