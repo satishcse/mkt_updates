@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NESTLEIND		-3.01		19038.75		171650
+BPCL		1.9		331.9		3161123
+APOLLOHOSP		-0.66		4612.45		378374
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-UTIAMC		-2.9		688.85		297797
+
