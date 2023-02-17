@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.81		217.2		5930493
-UPL		-0.39		767.35		1726282
-SUNPHARMA		-0.64		988.75		1106637
+COALINDIA		0.84		217.25		6784399
+HDFCLIFE		-2.0		504.3		4153143
+UPL		-0.39		767.35		1769898
+JSWSTEEL		0.14		728.95		1211613
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
