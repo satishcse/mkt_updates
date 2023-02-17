@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.58		112.65		22174617
-HDFC		-0.99		2673.65		1152522
-JSWSTEEL		0.16		729.1		839954
-GRASIM		0.83		1643.2		622471
+TATASTEEL		0.45		112.5		22490699
+HDFC		-1.07		2671.5		1161185
+JSWSTEEL		0.02		728.1		844679
+GRASIM		0.76		1642.05		624870
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
