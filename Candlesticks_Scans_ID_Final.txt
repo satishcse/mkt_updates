@@ -1,11 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-ONGC		0.45		156.6		19643690
-SUNPHARMA		-0.74		987.75		1155642
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-GALAXYSURF		-1.7		2403.35		16419
+
