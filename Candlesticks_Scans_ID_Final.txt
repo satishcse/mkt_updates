@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.48		156.65		17447172
-CIPLA		-0.95		1025.65		1265456
+BRITANNIA		-0.9		4530.85		174238
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-1.9		1234.8		337535
-SUNDRMFAST		-0.53		992.95		48088
+PVR		-2.74		1664.15		187686
