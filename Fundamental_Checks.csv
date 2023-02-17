@@ -33,10 +33,9 @@ CGPOWER,-1.78,318.0,2425881
 Zero_Debt_Momentum,,,, 
 ------------------ 
 nsecode,per_chg,close,volume
-TDPOWERSYS,4.29,138.7,1316089
-TECHNOE,0.89,361.0,523799
-LIKHITHA,0.89,253.7,818644
-UGARSUGAR,-0.79,99.95,1357277
+TDPOWERSYS,4.29,138.7,805904
+LIKHITHA,0.89,253.7,501053
+UGARSUGAR,-0.79,99.95,803869
 
 FIPA_above_all_SMAs,,,, 
 ------------------- 
@@ -76,4 +75,4 @@ PIIND,-2.58,3290.0,716400
 Outperforming_Nifty_1W_3M,,,, 
 ------------------------- 
 nsecode,per_chg,close,volume
-SURYAROSNI,7.37,696.7,1234199
+SURYAROSNI,7.37,696.7,913503
