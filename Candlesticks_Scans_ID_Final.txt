@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		-2.76		1746.95		2475954
-WIPRO		-1.24		404.8		1377532
-UPL		0.43		773.65		1200205
+ADANIENT		-2.82		1746.0		2477844
+WIPRO		-1.27		404.7		1383791
+UPL		0.31		772.75		1211842
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-0.74		1298.7		42549
+SUNDRMFAST		0.16		999.8		34944
