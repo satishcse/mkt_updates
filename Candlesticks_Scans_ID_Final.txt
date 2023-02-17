@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		1.9		331.9		3161123
-APOLLOHOSP		-0.66		4612.45		378374
+TATASTEEL		0.4		112.45		31466643
+BPCL		1.86		331.75		3185868
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+VIJAYA		-0.35		414.1		34212
