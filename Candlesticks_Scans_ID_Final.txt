@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.69		4611.1		353301
+APOLLOHOSP		-0.67		4612.1		351427
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ADANIGREEN		1.07		622.9		3172293
-TATACHEM		-0.59		1018.9		402890
+ADANIGREEN		1.07		622.9		3281547
+TATACHEM		-0.59		1018.9		494117
