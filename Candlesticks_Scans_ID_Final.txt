@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.29		157.05		1959076
+HINDALCO		0.61		432.1		958157
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-POLYPLEX		0.26		1482.7		11863
-GARFIBRES		-0.84		2910.9		608
+BAJAJHLDNG		-0.22		6000.15		3340
