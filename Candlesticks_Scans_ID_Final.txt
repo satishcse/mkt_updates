@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		-1.6		326.4		1521420
+TATAMOTORS		0.82		443.5		8575441
+BPCL		-1.57		326.5		1509969
+ASIANPAINT		-0.27		2826.0		496703
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-IRB		-2.13		282.6		1585696
-UBL		-1.28		1457.05		340864
-CHALET		0.07		363.0		81424
-ALKYLAMINE		-0.51		2525.8		13747
+GARFIBRES		-0.87		2909.95		14400
