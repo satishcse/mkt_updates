@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.12		167.85		7218414
-TECHM		1.36		1144.6		4437295
-HDFCBANK		-0.9		1640.95		3928162
-INFY		0.57		1592.9		2316942
-TCS		-0.42		3486.45		1233113
+TATASTEEL		0.18		112.45		20565008
+NTPC		-0.09		167.9		7328876
+HDFCBANK		-0.85		1641.85		3956373
+INFY		0.6		1593.35		2339703
+TCS		-0.44		3485.7		1249545
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MFSL		-0.16		718.45		844344
-TEAMLEASE		-0.02		2517.2		4251
+MFSL		-0.09		718.95		875713
+360ONE		0.92		1829.95		50799
+TEAMLEASE		0.01		2517.95		4271
