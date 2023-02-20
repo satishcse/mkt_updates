@@ -25,14 +25,14 @@ Fundamental_Tenchnical_Swing
 ---------------------------- 
 nsecode		per_chg		close		volume
 PERSISTENT		3.09		5062.25		698645
-ITC		0.13		383.9		7803989
-CGPOWER		-1.61		315.0		7741352
-GRAVITA		-2.3		487.0		256988
+ITC		0.13		383.9		8152153
+CGPOWER		-1.61		315.0		7814984
+GRAVITA		-2.3		487.0		315802
 
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
-UGARSUGAR		-2.3		97.9		537493
+UGARSUGAR		-2.3		97.9		689910
 
 FIPA_above_all_SMAs								 
 ------------------- 
@@ -72,8 +72,8 @@ KPITTECH		-2.93		831.0		1032456
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-PENIND		9.8		80.7		6047234
-SONATSOFTW		7.35		730.0		4343491
-ZENTEC		7.22		252.5		3399416
-KIRLFER		4.06		418.7		318568
-NUCLEUS		3.89		578.15		679470
+PENIND		9.8		80.7		6830442
+SONATSOFTW		7.35		730.0		4415467
+ZENTEC		7.22		252.5		3868834
+KIRLFER		4.06		418.7		381628
+NUCLEUS		3.89		578.15		814799
