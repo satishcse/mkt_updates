@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.18		112.05		15421903
-HINDALCO		0.66		432.35		2600873
-BAJAJ-AUTO		0.62		3918.6		133775
-DRREDDY		-0.35		4494.55		121479
+TATASTEEL		-0.22		112.0		15475492
+NTPC		0.0		168.05		4820815
+BAJAJ-AUTO		0.66		3919.85		134040
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-GRINDWELL		-1.61		1943.95		34603
+
