@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.44		218.45		7138126
-HDFCBANK		-0.41		1649.1		2621182
-BAJAJ-AUTO		0.81		3925.95		115897
+NTPC		0.27		168.5		4974713
+WIPRO		0.09		406.65		2102356
+ASIANPAINT		-0.4		2822.4		367818
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
