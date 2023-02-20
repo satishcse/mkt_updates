@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		1.31		216.6		2115592
-COALINDIA		0.37		218.3		1344213
-HINDALCO		0.36		431.05		1016577
+POWERGRID		1.24		216.45		2163774
+COALINDIA		0.39		218.35		1352723
+HINDALCO		0.47		431.5		1018032
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAJAJHLDNG		-0.21		6000.9		5064
+GODREJCP		0.47		946.5		343869
+LICI		-0.67		598.6		266325
+BAJAJHLDNG		-0.22		6000.0		6561
