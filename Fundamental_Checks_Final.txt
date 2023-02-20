@@ -21,10 +21,10 @@ DABUR		0.09		535.0		1462642
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
 nsecode		per_chg		close		volume
-PERSISTENT		3.09		5062.05		698798
-ITC		0.17		384.05		7805240
-CGPOWER		-0.98		317.0		7743203
-GRAVITA		-2.41		486.45		257108
+PERSISTENT		3.09		5062.05		698793
+ITC		0.17		384.05		8153404
+CGPOWER		-0.98		317.0		7816835
+GRAVITA		-2.41		486.45		315922
 
 Zero_Debt_Momentum								 
 ------------------ 
