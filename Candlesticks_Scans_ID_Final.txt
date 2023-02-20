@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		1.08		434.15		1594822
-BHARTIARTL		1.94		791.9		1445307
-HCLTECH		1.53		1126.55		912469
+HINDALCO		1.05		434.0		1601351
+HCLTECH		1.6		1127.3		912918
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
