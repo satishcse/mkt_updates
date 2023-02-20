@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SUNDARMFIN		-0.17		2349.3		497
+BATAINDIA		-0.63		1431.0		39447
+AIAENG		-1.7		2729.9		4400
+PFIZER		-0.14		3854.95		871
