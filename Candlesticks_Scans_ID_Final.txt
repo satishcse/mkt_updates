@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		-1.69		326.1		1482925
+BPCL		-1.69		326.1		1509000
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SHILPAMED		-8.13		271.9		2430259
-UBL		-1.29		1456.95		335958
-SIEMENS		0.06		3197.0		289842
+RELIANCE		-0.87		2418.9		3590227
+IRB		-2.27		282.2		1280968
+SIEMENS		0.06		3197.0		290067
+PVR		0.34		1661.0		278432
+ROSSARI		-1.31		679.75		23862
