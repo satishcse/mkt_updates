@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-ONGC,-0.19,156.3,3522218
-COALINDIA,0.53,218.65,2308761
-DRREDDY,0.07,4513.65,63544
+ONGC,-0.22,156.25,3527460
+COALINDIA,0.53,218.65,2316233
+DRREDDY,-0.14,4504.2,65491
+BRITANNIA,-0.76,4498.8,65050
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+GRINDWELL,-0.01,1975.45,18450
