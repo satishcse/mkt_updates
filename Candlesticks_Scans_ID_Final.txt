@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TECHM		1.75		1149		3287443
+TECHM		1.69		1148.25		3290384
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ATUL		-2.4		7115.85		16430
