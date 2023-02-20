@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HCLTECH		1.48		1126.0		872136
-TATACONSUM		-0.5		722.65		598215
-SBILIFE		0.6		1156.55		122747
+HCLTECH		1.42		1125.3		877992
+SBILIFE		0.54		1155.9		123449
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
