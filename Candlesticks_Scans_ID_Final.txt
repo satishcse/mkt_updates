@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.09		112.35		10662547
-ITC		0.17		384.05		3305116
-POWERGRID		1.15		216.25		3086843
-BAJFINANCE		-0.23		6402.0		212332
-BRITANNIA		-0.8		4497.2		70864
+TATASTEEL		0.18		112.45		10728672
+ITC		0.29		384.5		3353520
+POWERGRID		1.05		216.05		3103064
+BAJFINANCE		-0.24		6401.25		214460
+BRITANNIA		-0.75		4499.45		71686
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
