@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		-1.64		326.25		1491258
+BPCL		-1.61		326.35		1492878
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-IRB		-2.11		282.65		1469688
-UPL		-1.5		758.6		993796
-SIEMENS		0.06		3197.0		290940
-PVR		0.33		1660.9		286316
-CHALET		0.11		363.15		80422
-ALKYLAMINE		-0.54		2524.95		13703
+IRB		-1.99		283.0		1573495
+UBL		-1.27		1457.2		339955
+CHALET		0.07		363.0		81424
+ALKYLAMINE		-0.54		2525.0		13740
