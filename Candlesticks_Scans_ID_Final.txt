@@ -1,14 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TATASTEEL		0.13		112.4		19708743
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MFSL		-0.11		718.8		903630
-GODREJCP		-1.62		926.8		806499
-ROUTE		-0.14		1327.0		259484
-CDSL		-1.26		994.6		208679
-CHEMPLASTS		-2.32		406.3		92430
+MFSL		-0.17		718.35		905831
+ZYDUSLIFE		-0.83		466.75		738617
+ROUTE		0.09		1330.0		260488
+JKLAKSHMI		0.65		750.0		251851
+AVANTIFEED		-1.32		381.95		107653
+HGS		0.32		1304.7		63387
