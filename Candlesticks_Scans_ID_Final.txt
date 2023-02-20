@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.26		981.95		1734089
-ASIANPAINT		-0.41		2822.0		482272
+ASIANPAINT		-0.46		2820.5		483109
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+HDFC		-1.47		2654.0		1359670
+SIEMENS		0.0		3195.05		288352
+CHALET		0.15		363.3		59567
