@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.51		155.8		4336903
-POWERGRID		0.84		215.6		3355665
-BPCL		-0.93		328.6		957700
-BAJAJFINSV		0.28		1418.0		568016
+ONGC		-0.64		155.6		4367665
+POWERGRID		0.82		215.55		3366033
+BPCL		-0.9		328.7		958964
+BAJAJFINSV		0.13		1415.85		572486
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PFIZER		-0.85		3827.75		3394
-HONAUT		-0.54		37045.85		2122
+HONAUT		-0.65		37003.45		2187
