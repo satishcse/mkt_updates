@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.42		155.95		4299467
-POWERGRID		0.91		215.75		3337076
-M&M		0.65		1350.2		666708
-BAJAJFINSV		0.28		1418.0		565083
+ONGC		-0.45		155.9		4302726
+POWERGRID		0.89		215.7		3342088
+M&M		0.66		1350.3		668747
+BAJAJFINSV		0.35		1418.95		566394
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HONAUT		-0.6		37023		2112
+HLEGLAS		-1.38		555.5		13007
+HONAUT		-0.66		37000.7		2116
