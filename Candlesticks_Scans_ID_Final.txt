@@ -1,8 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+UPL		0.21		759.55		175882
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+PIDILITIND		-0.09		2318.0		19468
+PATANJALI		0.54		944.9		19268
+MEDPLUS		-1.76		618.0		7308
+SUNDARMFIN		-0.22		2322.6		716
+HONAUT		-0.17		36695.2		401
+BAYERCROP		0.02		4476.85		312
