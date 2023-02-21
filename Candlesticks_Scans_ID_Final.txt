@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-GRASIM		0.8		1645.05		230684
-BAJFINANCE		0.45		6396.15		200716
+ITC		0.26		385.05		2520463
+BPCL		0.57		328.0		543446
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+APOLLOHOSP		-1.1		4560		161265
