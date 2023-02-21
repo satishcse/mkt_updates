@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		-0.21		433.35		2377877
-JSWSTEEL		0.14		724.35		953826
-UPL		-0.56		753.7		809030
+HINDALCO		-0.21		433.35		2655116
+JSWSTEEL		0.14		724.35		1018509
+UPL		-0.55		753.8		999567
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-OFSS		-0.75		3214.7		26139
+ABBOTINDIA		-0.51		19959.75		4295
