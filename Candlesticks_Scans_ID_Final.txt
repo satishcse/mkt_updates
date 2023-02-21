@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.19		724.75		956746
-UPL		-0.55		753.75		811563
+TATASTEEL		1.2		113.7		18736527
+JSWSTEEL		0.18		724.65		959240
+UPL		-0.55		753.75		815684
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PRINCEPIPE		-0.17		574.75		23340
-HLEGLAS		0.48		552.85		8164
-ABBOTINDIA		-0.52		19958.65		4300
+HLEGLAS		0.49		552.9		8166
