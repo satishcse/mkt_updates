@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		0.51		327.8		510968
-GRASIM		0.83		1645.6		228609
-BAJFINANCE		0.46		6396.4		197562
+GRASIM		0.9		1646.7		229533
+BAJFINANCE		0.43		6395.0		198522
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DEEPAKFERT		0.03		641		81733
+DEEPAKFERT		-0.04		640.55		58024
