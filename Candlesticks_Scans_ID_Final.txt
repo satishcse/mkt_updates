@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-NTPC		3.19		173.25		22928467
-AXISBANK		-0.77		840.25		8177790
-HDFCBANK		0.36		1646.2		5633565
-COALINDIA		-1.44		215.15		3189898
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BATAINDIA		-0.98		1420.0		341677
+TANLA		-1.86		652.85		174287
