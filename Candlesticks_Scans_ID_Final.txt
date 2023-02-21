@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-AXISBANK		-0.28		844.35		9326362
+AXISBANK		-0.22		844.85		9462770
+BAJFINANCE		0.17		6378.35		434440
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ANGELONE		-1.42		1074.8		386911
-JKCEMENT		-1.53		2875.8		172391
-BLUESTARCO		-0.19		1416.5		43573
-BAYERCROP		-0.84		4438.2		4823
+CAMS		-0.05		2298.25		24373
+BAYERCROP		-0.84		4438.55		4865
