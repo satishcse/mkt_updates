@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.12		384.5		5251529
-HEROMOTOCO		-0.14		2524.0		138027
+ITC		0.13		384.55		5333781
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ABBOTINDIA		-0.54		19955		5185
+SWANENERGY		-1.18		266.95		168167
