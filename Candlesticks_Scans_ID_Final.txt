@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.17		384.7		1879807
-BPCL		0.34		327.25		457237
-HEROMOTOCO		0.19		2532.25		67778
+ITC		0.25		385.0		1956003
+BPCL		0.35		327.3		457809
+HEROMOTOCO		0.17		2531.8		68054
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SKFINDIA		-1.11		4421.95		11357
+GOCOLORS		-0.04		998.9		28919
+SKFINDIA		-1.09		4422.85		11608
