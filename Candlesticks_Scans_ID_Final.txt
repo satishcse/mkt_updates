@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.05		1736.5		1524263
+KOTAKBANK		0.2		1740.85		1545711
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SANOFI		-0.25		5393		4711
+TATAELXSI		0.11		6674.05		34251
+SANOFI		-0.17		5397.25		2934
