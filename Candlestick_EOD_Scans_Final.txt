@@ -2,8 +2,8 @@
 Hanging_Man_N100								 
 ---------------- 
 nsecode		per_chg		close		volume
-BERGEPAINT		0.11		571.0		627125
-BAJAJHLDNG		0.72		6094.9		27262
+BERGEPAINT		0.11		571.0		653939
+BAJAJHLDNG		0.72		6094.9		34962
 
 Bullish_Hammer_Daily_N50								 
 ------------------------ 
@@ -108,5 +108,5 @@ NESTLEIND		0.18		18856.0		44953
 PAGEIND		-0.06		38550.0		14890
 ABBOTINDIA		-0.01		20060.8		7853
 MRF		0.88		89969.95		6802
-NIFTY		-0.01		17842.7		0
-BANKNIFTY		0.0		40701.1		0
+NIFTY		-0.1		17826.7		0
+BANKNIFTY		-0.07		40673.6		0
