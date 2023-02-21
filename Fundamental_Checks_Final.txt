@@ -2,18 +2,18 @@
 FII_Shareholding_Increased								 
 -------------------------- 
 nsecode		per_chg		close		volume
-POLYCAB		1.4		3044.7		211914
-SAIL		1.22		87.1		16109908
-LALPATHLAB		0.62		1976.7		314489
-MGL		0.52		894.25		248845
-HINDUNILVR		0.22		2517.0		868229
-DABUR		0.16		535.85		2769569
+POLYCAB		1.4		3044.7		211348
+SAIL		1.22		87.1		14067304
+LALPATHLAB		0.62		1976.7		313356
+MGL		0.52		894.25		233962
+HINDUNILVR		0.22		2517.0		862542
+DABUR		0.16		535.85		2460219
 SHREECEM		0.14		26550.0		127987
-IGL		0.0		436.2		3211878
-LTTS		-0.07		3744.0		200575
-ABB		-0.07		3172.0		319906
-LTIM		-0.1		4882.0		412651
-HINDALCO		-0.52		432.0		4048210
+IGL		0.0		436.2		3079875
+LTTS		-0.07		3744.0		194391
+ABB		-0.07		3172.0		314427
+LTIM		-0.1		4882.0		410712
+HINDALCO		-0.52		432.0		3761012
 
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
@@ -27,8 +27,7 @@ Zero_Debt_Momentum
 ------------------ 
 nsecode		per_chg		close		volume
 SIEMENS		3.1		3295.95		1330628
-LIKHITHA		1.24		260.7		763899
-UGARSUGAR		0.1		97.95		577442
+LIKHITHA		1.24		260.7		519487
 
 FIPA_above_all_SMAs								 
 ------------------- 
