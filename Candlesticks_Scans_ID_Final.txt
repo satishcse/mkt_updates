@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.06		154.95		4564084
+ONGC		0.06		154.95		3609898
+UPL		-0.41		754.85		614216
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+CEATLTD		-0.53		1505		18293
