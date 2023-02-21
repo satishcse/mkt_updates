@@ -18,16 +18,17 @@ HINDALCO		-0.52		432.0		3761012
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
 nsecode		per_chg		close		volume
-GRAVITA		2.17		497.0		393510
-CGPOWER		0.63		319.0		3230355
-ITC		-0.29		382.95		8257421
+GRAVITA		2.17		497.0		484107
+CGPOWER		0.63		319.0		3375309
+ITC		-0.29		382.95		9844323
 PERSISTENT		-1.52		4985.0		406519
 
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
 SIEMENS		3.1		3295.95		1330628
-LIKHITHA		1.24		260.7		519487
+LIKHITHA		1.24		260.7		763899
+UGARSUGAR		0.1		97.95		577442
 
 FIPA_above_all_SMAs								 
 ------------------- 
@@ -65,6 +66,6 @@ KALYANKJIL		-1.9		116.4		3401871
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-ZENSARTECH		6.93		290		8427191
-UNIVCABLES		5.97		385		332106
-ZENTEC		2.65		258		3274263
+ZENSARTECH		6.93		290		8674010
+UNIVCABLES		5.97		385		399127
+ZENTEC		2.65		258		3904596
