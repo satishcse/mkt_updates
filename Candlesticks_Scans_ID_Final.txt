@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIPORTS		1.66		589.35		4285682
-ITC		0.22		384.9		2954259
-WIPRO		-0.63		404.5		1053952
-BHARTIARTL		0.63		784.05		933021
-EICHERMOT		-0.28		3281.3		139733
+ITC		0.23		384.95		2255467
+TECHM		-0.32		1140.55		1547564
+BHARTIARTL		0.71		784.7		933748
+EICHERMOT		-0.2		3284.0		130879
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
