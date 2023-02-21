@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.36		781.95		1532367
-UPL		-0.53		753.9		966658
+UPL		-0.53		753.95		969381
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-1.71		3837.0		102670
-DMART		-0.65		3529.9		97767
-TIMKEN		-1.84		3089.2		13755
+BAJAJ-AUTO		-1.72		3836.75		106438
