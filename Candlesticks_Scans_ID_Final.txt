@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.23		384.95		2309524
-BHARTIARTL		0.69		784.55		953976
-EICHERMOT		-0.32		3280.0		135991
+BPCL		0.49		327.75		504745
+GRASIM		0.89		1646.55		227167
+BAJFINANCE		0.46		6397.0		190262
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-PGHH		-0.57		13604.8		462
+
