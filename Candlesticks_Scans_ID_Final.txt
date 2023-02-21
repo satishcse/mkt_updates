@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-UPL		-0.53		753.95		969381
+ADANIPORTS		0.91		584.95		5501402
+HINDALCO		-0.22		433.3		2370635
+JSWSTEEL		0.11		724.15		951605
+UPL		-0.54		753.85		806887
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-1.72		3836.75		106438
+OFSS		-0.75		3214.75		26039
