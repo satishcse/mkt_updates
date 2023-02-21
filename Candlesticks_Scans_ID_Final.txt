@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.31		781.6		1493848
-UPL		-0.57		753.65		766187
+BHARTIARTL		0.32		781.65		1509963
+UPL		-0.57		753.6		768579
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DALBHARAT		-1.63		1904.0		196567
-JKLAKSHMI		0.18		751.95		154017
+DMART		-0.64		3530		96577
