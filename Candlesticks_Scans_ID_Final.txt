@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		1.29		113.8		20161817
-UPL		-0.56		753.7		877681
-TATACONSUM		0.9		728.3		385758
-HEROMOTOCO		-0.17		2523.25		132321
+TATASTEEL		1.29		113.8		20192205
+POWERGRID		0.79		217.5		3245768
+UPL		-0.6		753.4		883884
+HEROMOTOCO		-0.18		2523.0		133065
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ULTRACEMCO		-0.48		7391		304191
+
