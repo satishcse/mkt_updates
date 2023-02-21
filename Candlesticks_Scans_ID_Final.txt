@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		-0.21		433.35		2655116
-JSWSTEEL		0.14		724.35		1018509
-UPL		-0.55		753.8		999567
+JSWSTEEL		0.19		724.75		956746
+UPL		-0.55		753.75		811563
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ABBOTINDIA		-0.51		19959.75		4295
+PRINCEPIPE		-0.17		574.75		23340
+HLEGLAS		0.48		552.85		8164
+ABBOTINDIA		-0.52		19958.65		4300
