@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		1.34		113.85		12286643
-AXISBANK		-0.21		845.0		2045151
-HCLTECH		-0.42		1111.0		381062
+TATASTEEL		1.34		113.85		12329815
+AXISBANK		-0.21		845.0		2097554
+HCLTECH		-0.38		1111.5		395558
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+MCDOWELL-N		-0.45		762.3		122800
