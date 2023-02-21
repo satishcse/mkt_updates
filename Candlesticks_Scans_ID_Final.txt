@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-VAIBHAVGBL		-2.09		328.6		288088
-KEI		-1.77		1671.75		60456
-OFSS		-1.16		3201.65		40267
-ASAHIINDIA		-3.0		498.8		34316
+ASAHIINDIA		-3		498.8		51051
