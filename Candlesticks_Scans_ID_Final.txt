@@ -1,18 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-POWERGRID		0.39		216.65		747672
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-UFLEX		-2.76		472.7		412105
-TITAN		-0.58		2459.75		151166
-TEJASNET		-1.64		592.1		140297
-PERSISTENT		-0.24		5049.95		139015
-TANLA		-0.68		660.65		59290
-IIFL		0.07		452.25		29809
-BLUESTARCO		0.47		1425.95		7567
-BAJAJELEC		-0.09		1126.2		1584
-PAGEIND		-0.36		38433.65		1162
+
