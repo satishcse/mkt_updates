@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		0.46		216.8		967649
+POWERGRID		0.42		216.7		714949
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BLUESTARCO		0.48		1426		6798
+AAVAS		-0.75		1896.95		12856
