@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBILIFE		-1.76		1130.05		709142
+SUNPHARMA		-0.01		971.5		1957136
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TEJASNET		-1.15		595.95		884768
-GODFRYPHLP		-1.76		1673.3		39839
+HAL		-2.89		2546.45		922030
+INDIGO		-1.64		1822.8		885423
+JKCEMENT		-3.19		2777.85		160355
+3MINDIA		-1.83		21806.55		1774
