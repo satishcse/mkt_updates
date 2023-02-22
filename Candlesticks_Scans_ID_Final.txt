@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.49		430.0		6346700
-WIPRO		-1.92		395.0		3023911
-HDFC		-1.91		2615.5		2502316
+TATAMOTORS		-1.48		430.05		6395646
+WIPRO		-1.96		394.85		3039521
+HDFC		-1.91		2615.5		2521300
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-DELHIVERY		-3.54		336.55		15881139
+
