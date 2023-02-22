@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-LT		-0.53		2217.6		892175
-APOLLOHOSP		-0.7		4470.55		163124
-BRITANNIA		0.15		4510.0		107185
-DRREDDY		0.19		4494.55		71848
+WIPRO		-1.29		397.55		1479335
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-TATACHEM		-3.15		968.7		589316
+
