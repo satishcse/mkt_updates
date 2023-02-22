@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-M&M		-1.34		1333.75		1196429
-JSWSTEEL		-2.76		700.25		891358
+TATACONSUM		-0.55		722.2		1260798
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-PATANJALI		-0.24		943.95		300387
+
