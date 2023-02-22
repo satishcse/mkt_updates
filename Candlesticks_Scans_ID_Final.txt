@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		-1.17		214.65		5210576
-SUNPHARMA		0.05		972.05		2026870
-BAJAJFINSV		-2.34		1361.7		1199567
+POWERGRID		-1.24		214.5		5986775
+SUNPHARMA		0.06		972.15		2029647
+BAJAJFINSV		-2.29		1362.4		1201157
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ZYDUSWELL		-1.45		1441.15		45481
+360ONE		-1.28		1789.8		80982
+ZYDUSWELL		-1.45		1441.15		30974
