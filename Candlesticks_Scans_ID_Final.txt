@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-2.34		1361.7		1330036
+BAJAJFINSV		-2.38		1361.1		1341066
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GARFIBRES		-1.32		2906.55		11957
+PNCINFRA		-1.6		303.75		168987
+GMMPFAUDLR		-0.8		1563.2		55225
