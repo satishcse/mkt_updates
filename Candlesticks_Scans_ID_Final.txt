@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-M&M		-1.14		1336.4		1189131
-JSWSTEEL		-2.71		700.6		889589
+M&M		-1.26		1334.8		1193700
+JSWSTEEL		-2.78		700.1		890451
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JKPAPER		-1.69		387.7		271801
+JKPAPER		-1.67		387.75		272855
