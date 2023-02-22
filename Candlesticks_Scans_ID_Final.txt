@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.97		496.2		1381701
+HDFCLIFE		-1.01		496		1383794
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MAZDOCK		-3.0		722.7		471776
-LAXMIMACH		-1.12		11171.35		765
+MAZDOCK		-3		722.7		471826
