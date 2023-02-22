@@ -2,21 +2,20 @@
 Volume_Shocker_Daily,,,, 
 -------------------- 
 nsecode,per_chg,close,volume
-THERMAX,7.04,2141.0,197306
-JUSTDIAL,-5.06,592.0,331968
-UFLEX,-6.74,445.5,1020000
-IRB,-88.89,33.05,118982303
+THERMAX,7.04,2141.0,178921
+UFLEX,-6.74,445.5,834242
+IRB,-88.89,33.05,101913103
 
 BN_NR7,,,, 
 ------ 
 nsecode,per_chg,close,volume
-BANDHANBNK,-0.78,228,4446016
+BANDHANBNK,-0.78,228,4210533
 
 BN_NCPR,,,, 
 ------- 
 nsecode,per_chg,close,volume
 SBIN,-1.28,516.75,14760173
-AUBANK,-1.42,596.5,1077293
+AUBANK,-1.42,596.5,1089487
 
 NCPR_KGS,,,, 
 -------- 
