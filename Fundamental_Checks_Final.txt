@@ -2,29 +2,27 @@
 FII_Shareholding_Increased								 
 -------------------------- 
 nsecode		per_chg		close		volume
-ITC		0.42		383.85		8960805
-ABB		0.11		3172.8		218426
-COLPAL		-0.04		1457.55		229297
+ITC		0.42		383.85		8960785
+ABB		0.11		3172.8		218407
+COLPAL		-0.04		1457.55		229296
 IGL		-0.1		436.6		1117905
-HINDALCO		-0.42		429.7		5277399
-LTTS		-1.13		3711.65		244743
-SHREECEM		-1.19		26214.9		93477
+HINDALCO		-0.42		429.7		5276955
+LTTS		-1.13		3711.65		244718
+SHREECEM		-1.19		26214.9		93471
 
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
 nsecode		per_chg		close		volume
-PERSISTENT		1.44		5039.5		386046
-ITC		0.42		383.85		9472065
-ANANDRATHI		-1.37		774.0		104204
-CGPOWER		-1.72		314.4		2989535
-GRAVITA		-4.38		477.4		531798
+PERSISTENT		1.44		5039.5		386159
+ITC		0.42		383.85		8960805
+CGPOWER		-1.72		314.4		2923099
+GRAVITA		-4.38		477.4		453047
 
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
-SIEMENS		-1.3		3251.5		517911
-UGARSUGAR		-4.15		92.45		912589
-LIKHITHA		-6.99		242.05		566640
+SIEMENS		-1.3		3251.5		514762
+UGARSUGAR		-4.15		92.45		709250
 
 FIPA_above_all_SMAs								 
 ------------------- 
