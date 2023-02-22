@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-1.56		515.3		5995110
-AXISBANK		-1.15		834.35		3605288
+SBIN		-1.53		515.45		6006642
+DIVISLAB		0.55		2934.75		261878
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BRIGADE		-0.65		478.7		23330
