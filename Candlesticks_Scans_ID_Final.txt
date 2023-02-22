@@ -1,8 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+HDFCBANK		-0.57		1637.1		612555
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+RAYMOND		-2.43		1259.0		129203
+DALBHARAT		-1.96		1871.55		80182
+JKCEMENT		-2.25		2804.85		63244
+TATAELXSI		-1.44		6565.9		34731
+GODFRYPHLP		-1.11		1684.25		27176
