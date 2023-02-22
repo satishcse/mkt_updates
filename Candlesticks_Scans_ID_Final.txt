@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-2.34		169.2		6806947
-HDFCLIFE		-1.01		496.0		1372465
-UPL		-1.05		739.3		1052694
+NTPC		-2.28		169.3		6896071
+HDFCLIFE		-0.95		496.3		1374449
+UPL		-1.06		739.2		1055567
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-OFSS		-1.63		3148.45		32086
-LAXMIMACH		-1.15		11168.75		774
+OFSS		-1.63		3148.45		34814
+LAXMIMACH		-1.12		11172.15		832
