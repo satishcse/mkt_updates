@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.75		2796.05		219633
+ASIANPAINT		-0.74		2796.15		219785
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-KOTAKBANK		-1.5		1704.2		1293654
-AMARAJABAT		-3.32		566.15		239355
-TATACOMM		-0.97		1218.55		85840
+KOTAKBANK		-1.48		1704.6		1295931
+JKCEMENT		-3.15		2778.9		96487
+TATACOMM		-0.96		1218.6		85886
+WHIRLPOOL		-1.32		1280.85		42833
