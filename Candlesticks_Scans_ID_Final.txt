@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.58		1637		665955
+HDFCBANK		-0.62		1636.35		673504
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-INDUSINDBK		-1.69		1083.15		460796
-RAYMOND		-1.97		1264.85		112043
-GODFRYPHLP		-0.97		1686.75		23200
-CEATLTD		-0.64		1489.3		5803
+RELIANCE		-1.7		2392.8		1773581
+INDUSINDBK		-1.68		1083.2		470476
+GODREJPROP		-2.53		1114.2		237948
+AFFLE		-0.6		1025.5		25136
+GODFRYPHLP		-1.01		1685.95		23320
+CEATLTD		-0.64		1489.2		5807
+PAGEIND		-1.46		38085.45		5408
