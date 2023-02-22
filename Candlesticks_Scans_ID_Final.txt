@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TITAN		-1.24		2432.95		295241
+TITAN		-1.25		2432.9		299158
+PIIND		-1.56		3218.0		166778
