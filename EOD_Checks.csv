@@ -9,7 +9,7 @@ IRB,-88.55,34.05,101931451
 BN_NR7,,,, 
 ------ 
 nsecode,per_chg,close,volume
-BANDHANBNK,-0.78,228,4211893
+BANDHANBNK,-0.78,228,4447275
 
 BN_NCPR,,,, 
 ------- 
@@ -46,8 +46,8 @@ Strong_Stocks_Daily,,,,
 ------------------- 
 nsecode,per_chg,close,volume
 ALOKINDS,4.72,11.1,4156899
-PNBHOUSING,2.37,584.2,1036608
-PERSISTENT,1.44,5039.5,386159
+PNBHOUSING,2.37,584.2,1036474
+PERSISTENT,1.44,5039.5,386048
 
 Bullish_Harami_N100,,,, 
 ------------------- 
