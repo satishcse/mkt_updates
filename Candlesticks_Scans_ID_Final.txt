@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-2.37		169.15		8794341
-BPCL		-1.14		319.55		2954890
-TATACONSUM		-0.3		724.05		1405809
-BRITANNIA		-0.27		4491.0		189502
+NTPC		-2.37		169.15		8834395
+BPCL		-1.38		318.8		2987108
+TATACONSUM		-0.35		723.65		1407603
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-LT		-1.56		2194.65		1628622
+
