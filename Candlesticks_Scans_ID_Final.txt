@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.76		1634.0		759901
-HCLTECH		-0.21		1102.85		632123
-ASIANPAINT		-0.98		2789.4		150123
-DRREDDY		0.25		4497.4		65195
+COALINDIA		-0.14		213.75		2329568
+HDFCBANK		-0.89		1631.9		799021
+HCLTECH		-0.22		1102.75		694514
+DRREDDY		0.26		4497.75		67150
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CLEAN		-1.42		1411.5		7766
+CLEAN		-1.46		1411		7857
