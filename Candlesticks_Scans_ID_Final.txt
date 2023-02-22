@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-DRREDDY		0.28		4498.85		70400
+WIPRO		-1.38		397.2		1423526
+BRITANNIA		0.1		4507.9		106604
+DRREDDY		0.22		4496.2		71352
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-VAIBHAVGBL		-1.16		324.65		142881
-QUESS		-1.96		374.3		34366
-CAMS		-0.77		2279.45		11284
+
