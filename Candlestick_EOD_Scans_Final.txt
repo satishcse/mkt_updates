@@ -6,8 +6,8 @@ Hanging_Man_N100
 Bullish_Hammer_Daily_N50								 
 ------------------------ 
 nsecode		per_chg		close		volume
-ONGC		-0.19		153.8		9596559
-BPCL		-0.36		322.1		4092738
+ONGC		-0.19		153.8		10691299
+BPCL		-0.36		322.1		4104136
 INDUSINDBK		-0.85		1092.4		1982904
 EICHERMOT		-0.59		3254.9		570378
 
