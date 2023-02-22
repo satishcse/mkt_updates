@@ -14,16 +14,16 @@ Fundamental_Tenchnical_Swing
 ---------------------------- 
 nsecode		per_chg		close		volume
 PERSISTENT		1.09		5022.0		385926
-ITC		0.5		384.15		8958967
-CGPOWER		-2.16		313.0		2921329
-GRAVITA		-4.49		476.85		452945
+ITC		0.5		384.15		9470247
+ANANDRATHI		-1.37		774.0		104204
+CGPOWER		-2.16		313.0		2988930
+GRAVITA		-4.49		476.85		531696
 
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
-SIEMENS		-1.4		3248		517814
-UGARSUGAR		-4.61		92		910954
-LIKHITHA		-7.4		241		566611
+SIEMENS		-1.4		3248		514659
+UGARSUGAR		-4.61		92		708040
 
 FIPA_above_all_SMAs								 
 ------------------- 
