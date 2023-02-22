@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-1.53		515.45		6006642
-DIVISLAB		0.55		2934.75		261878
+SBIN		-1.49		515.65		6034560
+ONGC		-0.91		152.7		4559177
+SUNPHARMA		-0.04		971.2		1104266
+DIVISLAB		0.54		2934.45		262365
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BRIGADE		-0.65		478.7		23330
+BRIGADE		-0.66		478.65		23375
