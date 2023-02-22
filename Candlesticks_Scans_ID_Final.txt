@@ -2,12 +2,17 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.74		2796.15		220288
+ONGC		-0.88		152.75		4498679
+ASIANPAINT		-0.72		2796.95		221376
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CHEMPLASTS		-0.65		398.45		206946
-JKCEMENT		-3.15		2778.9		105320
-TATACOMM		-1.01		1218.0		100940
-WHIRLPOOL		-1.32		1280.85		48601
+HDFCBANK		-1.06		1629.1		1784069
+LAURUSLABS		-1.32		322.55		506049
+CHEMPLASTS		-0.62		398.55		198245
+TATACOMM		-1.01		1218.0		88466
+RAJESHEXPO		-1.72		707.3		78853
+AIAENG		-1.4		2690.0		9438
+AETHER		-2.25		881.55		9250
+HLEGLAS		-1.15		545.75		6783
