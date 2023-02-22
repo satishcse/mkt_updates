@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+SBILIFE		-1.77		1130		698987
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HAL		-2.99		2543.9		905408
-TITAN		-1.78		2419.7		450895
+HAL		-2.97		2544.25		909820
+JBMA		-2.88		558.9		210522
