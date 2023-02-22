@@ -2,15 +2,14 @@
 Volume_Shocker_Daily								 
 -------------------- 
 nsecode		per_chg		close		volume
-THERMAX		6.36		2127.25		197445
-JUSTDIAL		-5.29		590.55		331997
-UFLEX		-6.79		445.25		1020975
-IRB		-88.55		34.05		119000651
+THERMAX		6.36		2127.25		179060
+UFLEX		-6.79		445.25		835217
+IRB		-88.55		34.05		101931451
 
 BN_NR7								 
 ------ 
 nsecode		per_chg		close		volume
-BANDHANBNK		-0.78		228		4211893
+BANDHANBNK		-0.78		228		4211792
 
 BN_NCPR								 
 ------- 
