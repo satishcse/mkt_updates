@@ -10,7 +10,7 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-MARICO		0.67		503.75		1633278
+MARICO		0.67		503.75		1412899
 
 Intraday_Volume_Shocker								 
 ----------------------- 
@@ -90,7 +90,7 @@ CONCOR		-1.24		588.45		4553488
 LTIM		-1.31		4815.0		412568
 PIDILITIND		-1.6		2294.65		339083
 CANBK		-1.72		274.15		9361658
-ICICIPRULI		-1.79		410.95		1032887
+ICICIPRULI		-1.79		410.95		1028950
 NAUKRI		-2.0		3503.05		328103
 PFC		-2.17		146.35		6443255
 GNFC		-2.62		533.9		671970
