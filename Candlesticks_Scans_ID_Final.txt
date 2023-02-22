@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.07		214.2		3604663
-TITAN		-1.09		2436.85		281783
-DIVISLAB		0.46		2932.1		281137
+COALINDIA		0.02		214.1		3297454
+DIVISLAB		0.38		2929.65		279377
+TITAN		-1.09		2436.85		268489
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-OFSS		-1.55		3151.1		31230
+
