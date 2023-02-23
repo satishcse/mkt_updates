@@ -1,13 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+ONGC		0.78		154.8		3932895
+WIPRO		0.63		397.65		610153
+MARUTI		0.19		8675.5		72941
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TEJASNET		-3.02		579.45		259152
-RAJESHEXPO		-1.93		692.05		66350
 CARBORUNIV		0.96		990.5		22211
-ABBOTINDIA		-0.55		20105.95		1532
 ZFCVINDIA		-1.29		10090.0		1033
