@@ -4,21 +4,21 @@ FII_Shareholding_Increased
 nsecode		per_chg		close		volume
 INDIAMART		2.11		4818.9		117840
 POLYCAB		1.87		3069.65		364258
-HINDALCO		1.57		436.45		5037774
+HINDALCO		1.57		436.45		5037794
 PETRONET		1.24		219.65		1889544
-DABUR		1.23		539.75		2804003
-ITC		0.98		387.6		18830592
+DABUR		1.23		539.75		2804045
+ITC		0.98		387.6		18830777
 LTTS		-0.14		3706.5		208388
-IGL		-0.68		433.2		2101830
+IGL		-0.68		433.2		2102227
 ABB		-1.09		3138.35		155736
 
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
 nsecode		per_chg		close		volume
-ITC		0.98		387.6		18830592
+ITC		0.98		387.6		18830777
 GRAVITA		0.9		481.7		277979
-CGPOWER		-0.06		314.2		3645864
-PERSISTENT		-1.36		4971.0		322054
+CGPOWER		-0.06		314.2		3645869
+PERSISTENT		-1.36		4971.0		322055
 
 Zero_Debt_Momentum								 
 ------------------ 
@@ -55,4 +55,4 @@ OIL		-1.17		245.8		2430913
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-EQUITASBNK		8.84		69.55		18138789
+EQUITASBNK		8.84		69.55		20087896
