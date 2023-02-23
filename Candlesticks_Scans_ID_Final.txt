@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-LT		-0.77		2177.95		1427628
-TCS		0.62		3422.55		978528
+LT		-0.73		2178.65		1431368
+TCS		0.69		3424.95		982815
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PHOENIXLTD		0.15		1303.35		433429
+LODHA		-3		823.5		172553
