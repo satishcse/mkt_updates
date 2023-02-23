@@ -15,9 +15,9 @@ IGL,-0.36,434.6,2101421
 Fundamental_Tenchnical_Swing,,,, 
 ---------------------------- 
 nsecode,per_chg,close,volume
-GRAVITA,1.8,486.0,348442
-ITC,0.92,387.4,19343117
-CGPOWER,-0.46,312.95,3686182
+GRAVITA,1.8,486.0,277925
+ITC,0.92,387.4,18822411
+CGPOWER,-0.46,312.95,3645499
 PERSISTENT,-1.42,4968.0,321944
 
 Zero_Debt_Momentum,,,, 
@@ -56,5 +56,5 @@ OIL,-1.49,245.0,1957123
 Outperforming_Nifty_1W_3M,,,, 
 ------------------------- 
 nsecode,per_chg,close,volume
-EQUITASBNK,10.72,70.75,20084641
-NUCLEUS,7.61,633.0,662714
+EQUITASBNK,10.72,70.75,18135534
+NUCLEUS,7.61,633.0,584925
