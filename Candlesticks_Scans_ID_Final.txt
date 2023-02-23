@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		0.3		215.3		1668091
-WIPRO		0.38		396.65		904133
-APOLLOHOSP		0.85		4487.0		147373
+WIPRO		0.33		396.45		906581
+APOLLOHOSP		0.83		4486.0		147902
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
