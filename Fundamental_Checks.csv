@@ -15,15 +15,14 @@ ABB,-1.09,3138.35,155736
 Fundamental_Tenchnical_Swing,,,, 
 ---------------------------- 
 nsecode,per_chg,close,volume
-ITC,0.98,387.6,18830592
-GRAVITA,0.9,481.7,277979
-CGPOWER,-0.06,314.2,3645864
-PERSISTENT,-1.36,4971.0,322054
+ITC,0.98,387.6,19351298
+GRAVITA,0.9,481.7,348496
+CGPOWER,-0.06,314.2,3686547
+PERSISTENT,-1.36,4971.0,322005
 
 Zero_Debt_Momentum,,,, 
 ------------------ 
-nsecode,per_chg,close,volume
-UGARSUGAR,-0.27,92.2,627295
+
 
 FIPA_above_all_SMAs,,,, 
 ------------------- 
@@ -56,4 +55,4 @@ OIL,-1.17,245.8,1957325
 Outperforming_Nifty_1W_3M,,,, 
 ------------------------- 
 nsecode,per_chg,close,volume
-EQUITASBNK,8.84,69.55,20087896
+EQUITASBNK,8.84,69.55,18138789
