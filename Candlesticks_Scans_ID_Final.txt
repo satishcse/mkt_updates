@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+TATASTEEL		0.85		112.1		29320396
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SFL		-2.15		1124.75		9118
+HATSUN		1.35		905.0		57200
+GRINDWELL		-1.68		1916.7		22584
+SFL		-2.1		1125.4		6567
