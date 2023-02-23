@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.68		154.65		3982225
-TATAMOTORS		0.22		430.4		1882890
-NTPC		-0.06		170.4		1435870
+ONGC		0.68		154.65		4505636
+HDFCLIFE		-0.11		493.9		630872
+KOTAKBANK		0.34		1706.25		444620
+GRASIM		0.68		1584.85		100919
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ZFCVINDIA		-1.29		10090		1033
+
