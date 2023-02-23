@@ -1,14 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-SBIN		1.06		521.8		15032915
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-EPL		-1.58		161.8		473464
-HDFCAMC		-2.04		1781.65		399233
-COCHINSHIP		-1.86		461.15		392718
-SYMPHONY		-1.51		1117.55		150123
-SOLARINDS		-2.59		3856.1		49490
+ASIANPAINT		-3.25		2705.1		1745209
+COCHINSHIP		-1.85		461.2		365219
+BORORENEW		1.03		455.85		85436
+HATSUN		1.39		905.4		58578
+SOLARINDS		-2.56		3857.0		42861
