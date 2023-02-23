@@ -6,8 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SUMICHEM		-0.35		460.4		82131
-SRF		-1.19		2247.25		30234
-DMART		-1.21		3457.85		19157
-KEI		-1.2		1634.5		10065
-MANYAVAR		-1.79		1133.8		5782
+GESHIP		-0.73		565.4		20811
+RATNAMANI		-1.65		2237.15		11687
+PGHH		-0.5		13460.0		377
