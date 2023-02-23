@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		0.24		396.1		1123552
-TCS		1.27		3444.9		624851
-BRITANNIA		-0.59		4458.25		55208
+WIPRO		0.18		395.85		1130864
+TCS		1.28		3445.25		628829
+BRITANNIA		-0.55		4460.0		55618
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
