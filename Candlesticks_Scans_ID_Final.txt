@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		1.62		112.95		7471691
-ONGC		0.65		154.6		3970355
-NTPC		-0.12		170.3		1427655
-WIPRO		0.63		397.65		619930
-NESTLEIND		-0.32		18613.65		6291
+ONGC		0.68		154.65		3982225
+TATAMOTORS		0.22		430.4		1882890
+NTPC		-0.06		170.4		1435870
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
