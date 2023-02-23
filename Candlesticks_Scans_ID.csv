@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-ITC,2.24,392.45,12412202
-NTPC,-0.26,170.05,6552150
-POWERGRID,-0.49,213.6,4002263
-ASIANPAINT,-2.31,2731.3,953949
-BAJAJ-AUTO,-0.46,3822.95,198144
+ITC,2.24,392.45,12454542
+NTPC,-0.29,170.0,6600392
+POWERGRID,-0.44,213.7,4020093
+ASIANPAINT,-2.32,2731.05,961786
+BAJAJ-AUTO,-0.45,3823.6,198516
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+SIEMENS,-0.32,3241.25,193637
