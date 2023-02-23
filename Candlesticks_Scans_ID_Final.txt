@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BRITANNIA		-0.87		4445.55		161702
+TATASTEEL		0.54		111.75		25384184
+BRITANNIA		-0.86		4446.15		162182
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BLUESTARCO		-1		1436.95		134588
