@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.81		154.85		9538410
-ADANIPORTS		-0.3		545.45		6684340
-HDFC		-0.66		2600.0		2018548
-JSWSTEEL		0.47		703.25		1171477
+ONGC		0.85		154.9		9568086
+ADANIPORTS		-0.36		545.15		6688960
+HDFC		-0.66		2600.05		2022601
+JSWSTEEL		0.44		703.05		1172365
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
