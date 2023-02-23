@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SYMPHONY		-1.37		1119.15		118133
+SYMPHONY		-1.38		1119.0		119085
+OFSS		-0.35		3153.85		51803
