@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CGCL		-0.07		699.95		92343
-IFBIND		-0.97		842.7		8691
+CGCL		-0.07		699.95		119725
