@@ -11,7 +11,7 @@ Intraday_Buy_PSAR
 ----------------- 
 nsecode		per_chg		close		volume
 COFORGE		1.8		4420.9		459676
-DABUR		1.23		539.75		2804003
+DABUR		1.23		539.75		2804045
 
 Intraday_Volume_Shocker								 
 ----------------------- 
@@ -69,18 +69,18 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 --------- 
 nsecode		per_chg		close		volume
-LICHSGFIN		-0.25		352.35		1265101
+LICHSGFIN		-0.25		352.35		1265096
 INFY		-0.71		1550.7		4766854
-MGL		-0.87		875.4		254434
+MGL		-0.87		875.4		254430
 CHAMBLFERT		-0.88		277.4		888817
 SRF		-1.39		2242.7		301133
-BHARATFORG		-1.4		830.15		2341980
-TITAN		-1.52		2394.5		1602095
+BHARATFORG		-1.4		830.15		2341872
+TITAN		-1.52		2394.5		1602083
 TRENT		-1.54		1323.2		347591
-GODREJPROP		-1.58		1089.15		1479388
-ESCORTS		-2.22		2041.6		264805
-GMRINFRA		-2.6		37.5		8954037
-IRCTC		-2.75		602.3		1905926
+GODREJPROP		-1.58		1089.15		1479369
+ESCORTS		-2.22		2041.6		264800
+GMRINFRA		-2.6		37.5		8954034
+IRCTC		-2.75		602.3		1905844
 
 Open_Low								 
 -------- 
