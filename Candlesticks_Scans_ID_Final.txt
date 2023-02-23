@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.54		111.75		25505339
+TATASTEEL		0.54		111.75		28100741
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-HDFCAMC		-1.75		1786.9		330085
-BLUESTARCO		-0.98		1437.25		146126
+
