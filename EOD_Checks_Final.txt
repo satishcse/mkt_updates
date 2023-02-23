@@ -15,12 +15,12 @@ IRB		-12.78		29.7		39426029
 BN_NR7								 
 ------ 
 nsecode		per_chg		close		volume
-ICICIBANK		0.06		839.75		11743574
+ICICIBANK		0.06		839.75		11743584
 
 BN_NCPR								 
 ------- 
 nsecode		per_chg		close		volume
-ICICIBANK		0.06		839.75		11743584
+ICICIBANK		0.06		839.75		11743574
 HDFCBANK		-0.68		1603.25		13941005
 
 NCPR_KGS								 
@@ -58,7 +58,7 @@ LALPATHLAB		-1.63		1908.1		295802
 OBV_RSI_Buy_Daily								 
 ----------------- 
 nsecode		per_chg		close		volume
-INDUSTOWER		4.59		173		12361420
+INDUSTOWER		4.59		173		11586403
 
 Strong_Stocks_Daily								 
 ------------------- 
