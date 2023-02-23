@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.36		111.55		25055389
-MARUTI		0.8		8728.6		244950
+TATASTEEL		0.4		111.6		25120681
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-GRINDWELL		-1.58		1918.65		19165
+
