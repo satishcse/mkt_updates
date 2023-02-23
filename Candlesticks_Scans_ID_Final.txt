@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.62		154.55		4695406
-COALINDIA		1.77		215.6		1900719
-HDFCLIFE		-0.17		493.6		650118
-GRASIM		0.74		1585.75		103531
+ONGC		0.62		154.55		4143593
+COALINDIA		1.75		215.55		1865578
+HDFCLIFE		-0.18		493.55		660145
+GRASIM		0.69		1585.0		105373
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
