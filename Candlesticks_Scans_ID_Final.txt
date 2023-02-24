@@ -1,15 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+WIPRO		0.6		396.3		268966
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LT		0.3		2165.6		130519
-INDIGOPNTS		0.67		1039.4		8021
-POLYPLEX		-0.48		1437.0		7677
 SIS		0.47		362.7		1998
-BAJAJHLDNG		0.63		6057.95		1033
-ENDURANCE		0.37		1323.85		612
-3MINDIA		0.76		22260.0		247
