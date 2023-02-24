@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-1.38		382.25		8382234
-NESTLEIND		0.09		18665.45		23026
+AXISBANK		0.64		849.75		4203454
+NESTLEIND		0.06		18660.05		23066
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HDFC		-0.97		2575.15		2032188
-PNBHOUSING		-1.11		583.85		360337
-JKCEMENT		-0.26		2804.0		81868
-BBTC		-0.41		882.7		6685
+GODREJPROP		-0.84		1079.95		463955
+JKCEMENT		-0.29		2803.15		81876
+BBTC		-0.41		882.7		6687
