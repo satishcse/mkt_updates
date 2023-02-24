@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.63		7222.1		48041
+POWERGRID		0.28		213.85		1000821
+ULTRACEMCO		0.6		7219.95		48479
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+EICHERMOT		-2.17		3171.6		259244
+BAYERCROP		0.02		4387.85		3057
