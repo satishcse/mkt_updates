@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TATACOMM		-0.17		1203.4		94724
-ATUL		0.14		7167.55		25121
+TRENT		-1.65		1306.25		266598
+ICICIGI		-0.52		1088.45		170451
+ATUL		0.22		7173.5		24204
+ALKYLAMINE		-0.62		2513.9		10380
