@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.38		110.5		14498174
+TATASTEEL		-1.38		110.5		14614326
 ICICIBANK		0.0		839.75		2606243
 BRITANNIA		0.18		4459.6		65593
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TORNTPHARM		0.5		1488.85		193944
-MOTILALOFS		-0.7		619.4		42386
+MOTILALOFS		-0.56		620.25		38999
+BASF		0.07		2327.2		12948
