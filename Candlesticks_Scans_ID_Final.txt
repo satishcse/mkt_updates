@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.78		1357.4		1038749
-EICHERMOT		-1.12		3205.65		512567
+POWERGRID		0.14		213.55		5606343
+INFY		-0.05		1549.9		1858450
+BAJAJFINSV		0.78		1357.4		1039951
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
