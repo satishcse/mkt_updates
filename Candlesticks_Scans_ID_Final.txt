@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-AXISBANK		0.63		849.7		4213296
-NESTLEIND		0.08		18662.15		23515
+NESTLEIND		0.11		18669.35		23208
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MUTHOOTFIN		0.38		960.65		113421
-JKCEMENT		-0.12		2807.9		82446
-SHREECEM		-0.95		25390.0		19737
+JKCEMENT		-0.2		2805.85		82561
+CENTURYTEX		-0.36		611.8		48407
