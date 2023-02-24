@@ -5,12 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-SHILPAMED		0.36		279.6		4485208
-IRCTC		-2.75		602.3		1905454
-ASIANPAINT		-3.22		2705.95		1790570
-HAPPSTMNDS		-1.04		867.15		232452
-SYMPHONY		-1.74		1115.0		132263
-INDOCO		0.04		362.45		72849
-HATSUN		1.28		904.35		60542
-TIMKEN		-1.27		2987.9		22802
+
