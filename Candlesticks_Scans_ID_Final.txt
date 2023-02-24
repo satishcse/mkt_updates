@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-0.55		385.45		2932271
-POWERGRID		0.28		213.85		1085314
-ULTRACEMCO		0.48		7211.05		49313
+ULTRACEMCO		0.61		7220.7		50095
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ABSLAMC		-0.19		389.55		24641
+ABSLAMC		-0.19		389.55		24954
