@@ -1,9 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+BPCL		-0.97		317.45		1161075
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ECLERX		-1.73		1458.7		52557
+
