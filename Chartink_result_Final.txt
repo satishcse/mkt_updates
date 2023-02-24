@@ -10,10 +10,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-DIXON		4.05		2796.95		542378
-WHIRLPOOL		4.05		1321.0		311844
-COLPAL		0.72		1464.55		331264
-INDIAMART		-0.8		4750.1		61154
+DIXON		4.05		2796.95		539204
+WHIRLPOOL		4.05		1321.0		297349
+COLPAL		0.72		1464.55		322003
+INDIAMART		-0.8		4750.1		59908
 
 Intraday_Volume_Shocker								 
 ----------------------- 
@@ -66,7 +66,7 @@ ABBOTINDIA		-1.17		20250.0		12180
 High_Relative_Volume_Spurt_5m								 
 ----------------------------- 
 nsecode		per_chg		close		volume
-SUNTV		-1.14		433.1		392913
+SUNTV		-1.14		433.1		390505
 
 Open_High								 
 --------- 
