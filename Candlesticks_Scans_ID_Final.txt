@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		0.07		840.3		4105067
+ICICIBANK		0.13		840.8		4123680
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-RAYMOND		-1.24		1302.1		173380
-JUBLPHARMA		0.02		318.5		44578
-PAGEIND		-0.03		38050.0		3737
+RAYMOND		-1.24		1302.1		173408
+BHARATRAS		-0.56		9024.3		452
