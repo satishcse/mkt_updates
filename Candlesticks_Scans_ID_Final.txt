@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NESTLEIND		0.09		18665.05		23301
+NESTLEIND		0.1		18666.45		23374
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HDFC		-1.06		2573.05		1987347
-TVSMOTOR		-0.9		1107.25		694222
-LTTS		0.15		3712.0		80251
-BBTC		-0.41		882.7		8616
+HDFC		-0.97		2575.25		2013134
+LTTS		0.17		3712.85		82446
+BBTC		-0.41		882.7		6685
