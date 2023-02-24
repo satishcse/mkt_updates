@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		-4.65		416.15		6839300
-KOTAKBANK		0.18		1710.25		851966
-BAJAJ-AUTO		0.46		3849.6		105890
-NESTLEIND		0.63		18765.15		18503
+NTPC		0.8		170.95		4064115
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-SYMPHONY		0.09		1116		48124
+
