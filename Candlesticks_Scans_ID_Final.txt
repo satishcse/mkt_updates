@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-0.92		384.05		11453354
-NTPC		0.8		170.95		7284996
-ULTRACEMCO		0.32		7200.0		158147
+ITC		-0.95		383.9		11463445
+NTPC		0.74		170.85		7313105
+ULTRACEMCO		0.25		7194.95		170218
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CYIENT		-0.67		972.0		175146
-MASTEK		-1.24		1663.7		34131
-LAXMIMACH		-0.73		10755.25		2060
+CYIENT		-0.64		972.25		175593
+MASTEK		-1.26		1663.35		34157
