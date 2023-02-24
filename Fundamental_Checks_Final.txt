@@ -2,23 +2,23 @@
 FII_Shareholding_Increased								 
 -------------------------- 
 nsecode		per_chg		close		volume
-DIXON		4.05		2796.95		539204
+DIXON		4.05		2796.95		539202
 IGL		1.17		438.25		1677981
-PETRONET		0.93		221.7		2114540
-COLPAL		0.72		1464.55		322003
+PETRONET		0.93		221.7		2114528
+COLPAL		0.72		1464.55		321998
 ABB		0.12		3142.0		141718
-POLYCAB		0.1		3072.85		460258
+POLYCAB		0.1		3072.85		460091
 LTTS		0.05		3708.3		117248
-ITC		-0.64		385.1		12910227
+ITC		-0.64		385.1		12910220
 DABUR		-0.9		534.9		1375098
 
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
 nsecode		per_chg		close		volume
-CGPOWER		0.21		314.85		3877334
-ITC		-0.64		385.1		12910227
-GRAVITA		-1.46		474.65		605010
-PERSISTENT		-1.53		4895.0		307502
+CGPOWER		0.21		314.85		3942622
+ITC		-0.64		385.1		13321195
+GRAVITA		-1.46		474.65		644004
+PERSISTENT		-1.53		4895.0		307475
 
 Zero_Debt_Momentum								 
 ------------------ 
@@ -54,5 +54,5 @@ SONATSOFTW		-2.9		706.0		702234
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-MAHINDCIE		15.75		448.6		10041015
-ZENTEC		13.74		266.95		4978794
+MAHINDCIE		15.75		448.6		10006084
+ZENTEC		13.74		266.95		4883950
