@@ -6,8 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.95		557.1		2604073
-PIIND		0.01		3161.0		64851
-BOSCHLTD		-0.38		18243.55		5226
-VMART		-1.03		2449.0		1917
-BASF		0.14		2328.85		646
+BASF		0.14		2328.85		524
