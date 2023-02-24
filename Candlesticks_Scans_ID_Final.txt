@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.78		110.05		28193229
-EICHERMOT		-1.14		3204.9		580144
-ULTRACEMCO		0.33		7200.9		151777
+ITC		-0.97		383.85		11199491
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-SUNDRMFAST		-1.38		976.8		526161
+
