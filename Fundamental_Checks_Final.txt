@@ -15,15 +15,15 @@ DABUR		-0.9		534.9		1375098
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
 nsecode		per_chg		close		volume
-CGPOWER		0.21		314.85		3942622
-ITC		-0.64		385.1		13321195
-GRAVITA		-1.46		474.65		644004
-PERSISTENT		-1.53		4895.0		307475
+CGPOWER		0.21		314.85		3877334
+ITC		-0.64		385.1		12910227
+GRAVITA		-1.46		474.65		605010
+PERSISTENT		-1.53		4895.0		307502
 
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
-TDPOWERSYS		6.07		140.75		770643
+TDPOWERSYS		6.07		140.75		770652
 
 FIPA_above_all_SMAs								 
 ------------------- 
@@ -54,5 +54,5 @@ SONATSOFTW		-2.9		706.0		702234
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-MAHINDCIE		15.75		448.6		10005892
+MAHINDCIE		15.75		448.6		10006084
 ZENTEC		13.74		266.95		4883950
