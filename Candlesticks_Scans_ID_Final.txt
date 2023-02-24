@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		0.55		396.1		297539
+WIPRO		0.51		395.95		303775
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AAVAS		-2.06		1870.5		20711
+PAYTM		0.24		608.0		681060
+CHALET		-0.29		363.5		15802
