@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.12		110.8		14021085
-BRITANNIA		0.17		4458.85		64598
+TATASTEEL		-1.12		110.8		14048087
+BRITANNIA		0.19		4459.95		64655
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		-4.38		1322.1		3202887
-HDFCBANK		-0.51		1595.0		2088276
-AWL		-2.16		366.2		2073816
-HDFC		-0.53		2586.6		1123153
-MOTILALOFS		-0.76		619.0		40618
+ADANIENT		-3.88		1329.0		3234234
+MOTILALOFS		-0.9		618.15		35749
+ZYDUSWELL		-1.51		1424.95		3452
