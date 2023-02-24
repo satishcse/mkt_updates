@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		-4.64		416.2		6751733
-KOTAKBANK		0.26		1711.55		832164
-BAJAJ-AUTO		0.47		3850.0		105796
-NESTLEIND		0.63		18765.25		18195
+HINDALCO		-4.65		416.15		6839300
+KOTAKBANK		0.18		1710.25		851966
+BAJAJ-AUTO		0.46		3849.6		105890
+NESTLEIND		0.63		18765.15		18503
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TVSMOTOR		-0.67		1109.85		612664
+SYMPHONY		0.09		1116		48124
