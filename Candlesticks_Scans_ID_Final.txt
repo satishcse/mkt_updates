@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.81		482.9		2269743
-BPCL		-0.87		317.75		1634978
+POWERGRID		0.96		215.3		6992187
+HDFCLIFE		-0.82		482.85		2285771
+BPCL		-0.87		317.75		1647544
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PRINCEPIPE		-1.1		558.05		54199
-AVANTIFEED		-0.19		373.8		31059
+EIDPARRY		-0.11		499.6		76097
+3MINDIA		-1.41		21778.75		4625
