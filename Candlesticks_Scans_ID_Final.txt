@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.96		109.85		29938140
+TATASTEEL		-1.92		109.9		29989205
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+TRITURBINE		-1.72		292.15		763724
+ZYDUSWELL		-2.62		1408.9		11279
