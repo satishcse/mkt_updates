@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.96		109.85		30189570
+TATASTEEL		-1.96		109.85		30807600
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TRITURBINE		-1.67		292.3		773972
-IPCALAB		-1.58		806.95		565435
-HOMEFIRST		0.02		754.95		44038
+IPCALAB		-1.62		806.6		566112
+HOMEFIRST		0.08		755.4		44341
+OFSS		-0.16		3148.25		30986
