@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-1.52		110.35		19127648
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MASTEK		0.02		1685		24200
+DRREDDY		-0.04		4447.95		191604
