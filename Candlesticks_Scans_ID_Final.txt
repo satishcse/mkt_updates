@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-1.92		109.9		29473328
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-M&M		-2.45		1281.7		2399064
-IPCALAB		-1.87		804.6		554293
-CUMMINSIND		-2.01		1564.55		496544
+OFSS		-0.23		3145.9		28922
