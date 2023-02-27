@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-2.91		415.3		7336960
-BRITANNIA		-1.25		4386.85		77901
+TATAMOTORS		-2.95		415.15		7347946
+BRITANNIA		-1.38		4381.35		78678
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-HOMEFIRST		-1.33		741.9		24308
+
