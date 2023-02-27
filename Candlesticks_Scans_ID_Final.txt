@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.16		155.25		11904713
+ONGC		0.16		155.25		12142517
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ALKEM		-0.83		3270		55423
-PGHL		-0.08		4675		9834
+ALKEM		-0.83		3270		53732
+PGHL		-0.08		4675		8986
