@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+BPCL		-0.52		315.9		1185438
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GARFIBRES		-0.96		2941.75		8380
+HINDUNILVR		-0.85		2463.05		443134
+GARFIBRES		-0.88		2944.2		8401
