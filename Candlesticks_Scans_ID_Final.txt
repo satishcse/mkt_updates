@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.13		155.2		5224548
-DIVISLAB		-1.44		2873.15		96392
+ONGC		-0.26		154.6		5332856
+DIVISLAB		-1.45		2873.0		96477
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-GESHIP		-3.42		554.2		87618
+
