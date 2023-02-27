@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-SUNPHARMA		-0.08		969.75		717807
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MPHASIS		-7.36		2036.15		906852
+MPHASIS		-7.37		2035.95		907936
+ANGELONE		-2.38		1033.9		164690
+GUJALKALI		-3.08		619.5		52530
