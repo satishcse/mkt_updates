@@ -7,5 +7,5 @@ ONGC		0.16		155.25		11904749
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ALKEM		-0.75		3272.6		53733
-PGHL		-0.08		4675.0		8986
+ALKEM		-0.75		3272.6		55424
+PGHL		-0.08		4675.0		9834
