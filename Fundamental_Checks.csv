@@ -4,9 +4,9 @@ FII_Shareholding_Increased,,,,
 nsecode,per_chg,close,volume
 HAL,1.67,2576.05,736367
 SHREECEM,1.29,25740.9,38184
-PETRONET,1.04,224.0,1509412
-COROMANDEL,0.5,892.7,337232
-SAIL,0.18,83.1,17790303
+PETRONET,1.04,224.0,1457707
+COROMANDEL,0.5,892.7,336393
+SAIL,0.18,83.1,16860647
 TITAN,0.15,2402.6,862590
 
 Fundamental_Tenchnical_Swing,,,, 
@@ -20,7 +20,7 @@ CGPOWER,-1.73,309.4,3504792
 Zero_Debt_Momentum,,,, 
 ------------------ 
 nsecode,per_chg,close,volume
-TDPOWERSYS,2.17,143.8,1228501
+TDPOWERSYS,2.17,143.8,1426941
 
 FIPA_above_all_SMAs,,,, 
 ------------------- 
