@@ -2,14 +2,14 @@
 Hanging_Man_N100								 
 ---------------- 
 nsecode		per_chg		close		volume
-ZOMATO		-0.83		54.0		40741230
-TATAPOWER		-1.16		199.95		13123727
+ZOMATO		-0.83		54.0		38733582
+TATAPOWER		-1.16		199.95		12383891
 VEDL		-2.26		287.8		10611516
 LT		-1.03		2112.0		1397478
 TATACONSUM		-0.6		711.85		1064077
-HAVELLS		-0.92		1170.0		388147
 HDFCAMC		-0.45		1807.0		387219
-PGHH		-0.35		13672.7		12235
+HAVELLS		-0.92		1170.0		384730
+PGHH		-0.35		13672.7		10763
 
 Bullish_Hammer_Daily_N50								 
 ------------------------ 
