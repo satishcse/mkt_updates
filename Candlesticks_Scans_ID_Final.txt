@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-0.9		381.65		7056097
+ITC		-0.88		381.7		7110275
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-METROPOLIS		-2.36		1305.9		134912
-TCI		-1.36		641.9		23643
-TCIEXP		-1.19		1579.3		6576
+METROPOLIS		-2.3		1306.7		135335
+MOTILALOFS		-1.75		609.45		58117
+TCI		-1.34		642.0		24033
+TCIEXP		-0.7		1587.15		6671
