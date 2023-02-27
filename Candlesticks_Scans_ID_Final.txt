@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-INDUSINDBK		-0.79		1070.65		364177
-KPITTECH		-2.34		814.2		323324
-SONACOMS		-2.96		447.25		178717
+
