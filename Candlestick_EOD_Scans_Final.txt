@@ -2,25 +2,25 @@
 Hanging_Man_N100								 
 ---------------- 
 nsecode		per_chg		close		volume
-ZOMATO		-0.83		54.0		40741230
-TATAPOWER		-1.16		199.95		13123727
+ZOMATO		-0.83		54.0		38733582
+TATAPOWER		-1.16		199.95		12383891
 VEDL		-2.26		287.8		10611516
 LT		-1.03		2112.0		1397478
 TATACONSUM		-0.6		711.85		1064077
-HAVELLS		-0.92		1170.0		388147
 HDFCAMC		-0.45		1807.0		387219
-PGHH		-0.35		13672.7		12235
+HAVELLS		-0.92		1170.0		384730
+PGHH		-0.35		13672.7		10757
 
 Bullish_Hammer_Daily_N50								 
 ------------------------ 
 nsecode		per_chg		close		volume
 HINDALCO		-0.78		412.0		8300400
 BHARTIARTL		-0.48		753.5		6718829
-WIPRO		-0.61		390.9		2776677
+WIPRO		-0.61		390.9		2846418
 JSWSTEEL		-0.88		678.95		1813361
-GRASIM		0.17		1577.95		395925
+GRASIM		0.17		1577.95		396234
 ULTRACEMCO		-0.02		7214.9		295082
-MARUTI		-0.23		8640.25		220126
+MARUTI		-0.23		8640.25		221916
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ---------------------------------- 
