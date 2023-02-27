@@ -2,16 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-2.27		418.05		4570206
+BAJAJ-AUTO		-3.94		3698.1		363491
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JSWSTEEL		-2.23		669.7		779266
-FINCABLES		-3.61		694.75		466345
-ABB		-2.0		3079.15		90651
-APOLLOHOSP		-1.05		4423.6		90099
-JKCEMENT		-1.09		2756.15		28533
-SCHAEFFLER		0.1		2936.0		18557
-GRINDWELL		-1.79		1870.15		13666
-HONAUT		-1.75		35516.5		958
+GALAXYSURF		-0.38		2387.7		2214
