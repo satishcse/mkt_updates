@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		-1.11		388.95		2255763
-BAJAJFINSV		-0.29		1355.0		787402
+WIPRO		-1.09		389		2220033
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-PATANJALI		-0.33		902.9		209397
+
