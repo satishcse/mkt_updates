@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-0.91		381.6		6736627
-INFY		-2.89		1505.8		3989613
-HCLTECH		-1.22		1081.5		1470022
-TITAN		0.37		2408.0		712495
+ONGC		-0.52		154.2		9167448
+ITC		-0.93		381.5		6774614
+INFY		-2.91		1505.55		3994582
+TITAN		0.41		2409.0		714225
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GARFIBRES		-1.7		2920		10846
+GARFIBRES		-1.7		2920		11187
