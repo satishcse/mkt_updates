@@ -6,9 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SONATSOFTW		1.39		715.8		26281
-SHRIRAMFIN		0.09		1219.5		5660
-GODFRYPHLP		-0.49		1721.65		3606
-POWERINDIA		0.86		3302.35		2827
-GRINDWELL		-0.83		1888.4		1490
-HONAUT		-0.22		36069.05		70
+VIPIND		-0.64		646.65		2343
