@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		1.02		172.75		6814515
-BHARTIARTL		-1.58		745.1		3402200
-AXISBANK		-0.12		850.4		3271819
-BPCL		0.49		319.1		721069
+BHARTIARTL		-1.6		745.0		3432991
+BPCL		0.44		318.95		726109
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-GARFIBRES		-0.85		2945.15		6275
+
