@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		0.85		172.45		5225258
-TECHM		-1.38		1103.6		752477
+NTPC		0.91		172.55		4939001
+TECHM		-1.64		1100.65		754968
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-2.1		418.75		3981533
-GARFIBRES		-0.72		2948.9		4948
-MRF		-1.27		85700.0		2136
+TATAMOTORS		-2.12		418.7		4158348
+GLAXO		-1.28		1295.6		4057
