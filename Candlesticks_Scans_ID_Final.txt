@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-1.71		378.5		4599326
-BPCL		-0.44		316.15		1193841
-DIVISLAB		-1.79		2863.0		112991
+ITC		-1.71		378.5		4611196
+BPCL		-0.44		316.15		1194211
+DIVISLAB		-1.79		2863.1		113162
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PATANJALI		-0.1		905		158190
-GARFIBRES		-0.92		2943		8471
+PATANJALI		-0.1		905.0		158298
+GARFIBRES		-0.9		2943.65		8482
