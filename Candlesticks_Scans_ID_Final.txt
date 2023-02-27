@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-3.14		106.3		55547690
-ONGC		0.19		155.3		11734232
+ONGC		0.23		155.35		11772271
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ELGIEQUIP		-2.92		431.0		170125
-CAMS		-1.36		2261.85		103756
-GUJALKALI		-4.08		613.1		82357
+CAMS		-1.21		2265.15		108533
+MTARTECH		-1.71		1656.5		63432
