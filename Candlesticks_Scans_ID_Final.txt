@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		-4.0		1263.0		2306289
-SONACOMS		-2.87		447.65		214672
-TRENT		-2.03		1279.0		126005
+SONACOMS		-3.08		446.7		218485
+TRENT		-1.85		1281.45		126825
