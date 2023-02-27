@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TATAMOTORS		-3.21		414.0		7545753
-BRITANNIA		-1.45		4378.1		80420
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ALKEM		-0.53		3279.85		32903
+KEI		-2.68		1613.4		244272
+ABB		-2.42		3066.0		143216
