@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.6		106.9		19448720
+BHARTIARTL		-1.49		745.85		3384735
+AXISBANK		-0.14		850.25		3235501
+BPCL		0.47		319.05		711644
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MOTILALOFS		-0.75		615.65		25593
-GARFIBRES		-0.81		2946.3		6046
+CIPLA		-0.27		959.2		534037
