@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BHARTIARTL		-1.62		744.85		3493215
-BPCL		0.46		319.0		733033
+BHARTIARTL		-1.66		744.55		3582814
+BPCL		0.25		318.35		739548
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-GARFIBRES		-0.76		2947.85		6631
+
