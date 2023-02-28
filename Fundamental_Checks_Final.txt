@@ -20,8 +20,8 @@ PETRONET		-0.18		222.95		2820740
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
 nsecode		per_chg		close		volume
-TIINDIA		4.19		2772.0		714014
-RSYSTEMS		1.3		250.0		351167
+TIINDIA		4.19		2772.0		707307
+RSYSTEMS		1.3		250.0		220487
 PERSISTENT		-0.96		4775.0		236409
 ITC		-1.49		376.5		16363188
 CGPOWER		-2.57		302.9		78487967
