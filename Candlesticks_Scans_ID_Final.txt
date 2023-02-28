@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		-1.71		213.25		2948635
-EICHERMOT		-0.04		3129.65		295298
+NTPC		-0.84		170.95		7668600
+COALINDIA		-1.71		213.25		2951432
+EICHERMOT		-0.06		3129.3		295771
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-HOMEFIRST		-0.75		734.4		75110
+
