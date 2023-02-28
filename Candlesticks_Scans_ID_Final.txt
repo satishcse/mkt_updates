@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.84		170.95		5746949
-SBIN		-0.46		525.25		4582790
-ONGC		-0.74		154.1		4510236
-HDFCLIFE		0.35		490.4		1324312
-TITAN		0.65		2416.7		448141
+NTPC		-0.87		170.9		5764335
+SBIN		-0.45		525.3		4587157
+ONGC		-0.74		154.1		4537625
+HDFCLIFE		0.29		490.1		1326025
+TITAN		0.67		2417.1		448596
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PAYTM		-8.1		583.65		4750180
-NH		-1.29		740.0		90941
+PAYTM		-8.06		583.9		4782580
+RAYMOND		-0.24		1252.5		106435
