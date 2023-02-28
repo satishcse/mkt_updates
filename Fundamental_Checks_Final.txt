@@ -29,7 +29,8 @@ CGPOWER		-2.57		302.9		78487967
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
-TECHNOE		-0.66		322.85		1283100
+TECHNOE		-0.66		322.85		1335603
+TDPOWERSYS		-2.7		140.7		543324
 
 FIPA_above_all_SMAs								 
 ------------------- 
