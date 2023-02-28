@@ -5,4 +5,5 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+CGPOWER		0.27		311.75		19218501
