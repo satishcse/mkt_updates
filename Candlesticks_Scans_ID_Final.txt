@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-UPL		-1.04		700.9		1290009
+UPL		-1.07		700.7		1292193
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CUMMINSIND		-0.49		1560.7		338570
-SANOFI		-0.8		5817.05		48971
+BAJAJFINSV		-0.85		1345.9		803353
+SANOFI		-0.8		5817.05		48976
