@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		-0.23		216.45		5099555
-TATACONSUM		0.73		715.5		1858439
+COALINDIA		-0.62		215.6		5295517
+TATACONSUM		0.73		715.45		1907129
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MASTEK		0.03		1635.95		85335
+360ONE		-3.25		1721.9		71695
+HONAUT		-1.48		34471.45		5235
