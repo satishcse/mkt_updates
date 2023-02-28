@@ -10,16 +10,16 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-ABCAPITAL		2.75		145.65		2328356
-BERGEPAINT		2.74		572.2		545879
-ASIANPAINT		2.71		2824.55		1036834
-INDIAMART		1.6		4821.25		55494
-FEDERALBNK		0.0		128.65		5492926
+BERGEPAINT		2.72		572.1		547710
+ABCAPITAL		2.68		145.55		2331675
+ASIANPAINT		2.67		2823.25		1039242
+INDIAMART		1.54		4818.2		55506
+FEDERALBNK		-0.12		128.5		5511733
 
 Intraday_Volume_Shocker								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CANFINHOME		0		570.2		276196
+CANFINHOME		0		570.2		278241
 
 High_Relative_Volume_Spurt_5m								 
 ----------------------------- 
@@ -28,17 +28,17 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 --------- 
 nsecode		per_chg		close		volume
-DRREDDY		-1.43		4358.0		189060
-JSWSTEEL		-1.43		670.8		1016766
-ALKEM		-3.49		3158.4		59124
-CIPLA		-3.57		916.25		2847963
+DRREDDY		-1.45		4357.0		189769
+JSWSTEEL		-1.48		670.4		1019021
+ALKEM		-3.51		3157.85		59433
+CIPLA		-3.58		916.2		2857491
 
 Open_Low								 
 -------- 
 nsecode		per_chg		close		volume
 BHEL		3.43		69.4		12449039
-MOTHERSON		2.29		80.25		7454259
+MOTHERSON		2.29		80.25		7951397
 TATAMOTORS		0.78		421.2		6653441
 HDFC		0.15		2596.05		3111248
-METROPOLIS		0.08		1309.75		63443
-IPCALAB		-0.12		810.4		76058
+METROPOLIS		0.08		1309.75		64956
+IPCALAB		-0.12		810.4		77638
