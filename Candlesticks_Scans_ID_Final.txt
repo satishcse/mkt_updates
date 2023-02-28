@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TECHM		0.72		1122		897238
+TECHM		0.74		1122.15		899909
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
 APOLLOHOSP		-0.39		4422.5		60261
-OFSS		-0.01		3159.1		16019
+HLEGLAS		0.32		525.95		19821
+OFSS		-0.01		3159.1		16632
