@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-0.55		524.8		3714764
+SBIN		-0.54		524.85		3724342
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.31		4425.95		76474
+APOLLOHOSP		-0.33		4425.2		76503
+PRIVISCL		-2.57		907.05		6987
