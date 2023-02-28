@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-SBILIFE		-0.12		1127.75		479529
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LT		-0.11		2111.3		746761
-MPHASIS		0.05		2040.95		377437
-GMMPFAUDLR		-1.27		1551.9		21140
+MPHASIS		0.25		2045.0		377814
+GMMPFAUDLR		-1.25		1552.2		21145
+NESTLEIND		-0.5		18530.0		19738
