@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-MARUTI		0.09		8639.95		263547
+MARUTI		0.06		8637.2		265078
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+HLEGLAS		-1.15		518.2		46278
+ALKYLAMINE		-0.69		2504.6		7041
