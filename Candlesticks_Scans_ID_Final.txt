@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-1.02		170.65		6919639
-ULTRACEMCO		0.9		7251.3		189034
-HEROMOTOCO		0.34		2445.75		144576
+NTPC		-1.02		170.65		6934981
+ULTRACEMCO		0.92		7253.0		189547
+HEROMOTOCO		0.29		2444.7		145330
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
