@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-1.58		376.15		6868038
-ONGC		-0.68		154.2		5631667
-HDFC		0.42		2603.0		2715907
-SUNPHARMA		0.47		969.55		1325804
-BAJAJ-AUTO		0.72		3666.2		374440
+ONGC		-0.87		153.9		6046853
+HDFC		0.4		2602.6		2719011
+SUNPHARMA		0.41		969.0		1328963
+BAJAJ-AUTO		0.72		3665.9		375230
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ALKYLAMINE		-0.71		2504.25		5322
