@@ -1,15 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TECHM		0.71		1121.9		912454
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-VEDL		-7.45		265.95		21877673
-JINDALSTEL		-0.74		549.15		701405
-HEROMOTOCO		-0.21		2432.45		84789
-APOLLOHOSP		-0.25		4428.7		62819
-BOSCHLTD		0.12		17899.0		11443
-LINDEINDIA		-0.99		3762.95		10476
+
