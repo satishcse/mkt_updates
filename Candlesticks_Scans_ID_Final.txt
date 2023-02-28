@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-UPL		-1.1		700.5		1296065
+ASIANPAINT		2.89		2829.5		1025817
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+HONAUT		-1.16		34581.5		3070
