@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		1.09		221.6		14452819
-NTPC		-0.81		171.0		5684466
+POWERGRID		1.12		221.65		14471004
+NTPC		-0.84		170.95		5710467
+RELIANCE		-1.13		2341.0		3227736
+HDFCLIFE		0.41		490.7		1319369
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
