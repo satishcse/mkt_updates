@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.71		105.35		12370259
-NTPC		0.09		172.55		1597338
-BRITANNIA		1.02		4433.2		34335
+TATASTEEL		-0.52		105.55		12709517
+NTPC		0.09		172.55		1642275
+BRITANNIA		0.86		4425.85		35262
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-VIPIND		-1.5		646.15		22018
+
