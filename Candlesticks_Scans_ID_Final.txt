@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.87		170.9		6974448
-HDFCLIFE		0.51		491.2		1534472
-SUNPHARMA		0.51		969.95		1328676
-HEROMOTOCO		0.33		2445.6		146417
+ITC		-1.58		376.15		6868038
+ONGC		-0.68		154.2		5631667
+HDFC		0.42		2603.0		2715907
+SUNPHARMA		0.47		969.55		1325804
+BAJAJ-AUTO		0.72		3666.2		374440
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
