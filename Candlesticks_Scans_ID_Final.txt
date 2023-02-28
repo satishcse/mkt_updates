@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-GRASIM		-0.46		1564.3		147122
+BPCL		-1.62		315.25		1185050
+BRITANNIA		0.95		4430.0		69011
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LUXIND		-1.5		1286.0		17857
-TCIEXP		-0.71		1574.2		9107
+TCIEXP		-0.71		1574.2		8627
