@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.03		172.35		1443713
-BRITANNIA		1.07		4435.0		31487
+NTPC		-0.03		172.35		1484210
+BRITANNIA		1.05		4434.4		31689
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.06		4437		38482
+APOLLOHOSP		0.09		4443.95		39421
