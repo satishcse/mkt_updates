@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-NTPC,-0.93,170.8,7203315
-ONGC,-0.81,154.0,6246204
+NTPC,-0.93,170.8,7252429
+ONGC,-0.81,154.0,6496858
 HDFC,0.41,2602.75,2743767
-SUNPHARMA,0.3,967.95,1345299
+SUNPHARMA,0.3,967.95,1352038
 BAJAJ-AUTO,0.62,3662.4,381100
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+CUMMINSIND,-0.13,1566.25,284800
