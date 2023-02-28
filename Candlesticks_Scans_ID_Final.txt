@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ASIANPAINT		2.67		2823.25		1039242
+ASIANPAINT		2.65		2822.85		1046815
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PERSISTENT		-1.33		4757.55		160229
+TANLA		-0.84		670.95		341842
