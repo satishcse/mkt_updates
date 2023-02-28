@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.38		4422.85		76860
-POLYPLEX		-2.23		1376.75		54412
-PRIVISCL		-2.5		907.7		8297
+BLUEDART		-1.43		6201		7959
