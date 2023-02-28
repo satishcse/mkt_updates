@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		-1.64		213.4		2900195
-UPL		-1.19		699.9		1155204
+NTPC		-0.84		170.95		7329561
+COALINDIA		-1.66		213.35		2904455
+HDFC		0.48		2604.6		2755743
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+HOMEFIRST		-0.73		734.55		74631
+FINEORG		-1.77		4624.15		20906
