@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-COALINDIA,-1.59,213.5,2651815
-WIPRO,0.12,390.8,1980666
-JSWSTEEL,-0.67,675.95,790909
-SBILIFE,-0.1,1128.0,605828
+WIPRO,0.01,390.4,1752416
+JSWSTEEL,-0.74,675.45,793571
+SBILIFE,-0.11,1127.95,606903
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+POLICYBZR,0.01,549.45,1059955
+ENDURANCE,-3.44,1226.95,102316
