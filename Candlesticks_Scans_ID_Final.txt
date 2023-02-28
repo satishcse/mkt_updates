@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		-2.17		402.85		4486316
-SBILIFE		-0.19		1127.05		476383
+SBILIFE		-0.12		1127.75		479529
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BLUEDART		-1.42		6202		8049
+LT		-0.11		2111.3		746761
+MPHASIS		0.05		2040.95		377437
+GMMPFAUDLR		-1.27		1551.9		21140
