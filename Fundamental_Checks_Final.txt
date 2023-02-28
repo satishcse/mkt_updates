@@ -21,7 +21,7 @@ Fundamental_Tenchnical_Swing
 ---------------------------- 
 nsecode		per_chg		close		volume
 TIINDIA		4.19		2772.0		707307
-RSYSTEMS		1.3		250.0		220487
+RSYSTEMS		1.3		250.0		220136
 PERSISTENT		-0.96		4775.0		236409
 ITC		-1.49		376.5		16363188
 CGPOWER		-2.57		302.9		78487967
@@ -59,4 +59,4 @@ ONGC		-2.09		152.0		17597475
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-EQUITASBNK		5.11		73		17802690
+EQUITASBNK		5.11		73		17365098
