@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		0.33		318.4		1375269
-ASIANPAINT		0.22		2835.0		366993
+WIPRO		0.88		390.45		1187836
+ASIANPAINT		0.25		2835.95		369604
+TITAN		0.51		2385.0		237802
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BAJAJHLDNG		0.38		6278		13269
