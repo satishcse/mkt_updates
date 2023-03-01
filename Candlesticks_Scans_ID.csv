@@ -2,8 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-HDFCBANK,0.09,1601,5837675
+HINDALCO,3.63,413.7,6887414
+INFY,0.69,1497.8,4266094
+COALINDIA,1.51,218.65,3663012
+HINDUNILVR,0.24,2466.65,704057
+SBILIFE,-0.42,1116.25,492403
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+CAMS,-0.25,2254.5,39157
