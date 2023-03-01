@@ -37,9 +37,9 @@ TIINDIA		0.31		2780.35		234831
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
-TDPOWERSYS		4.29		146		842718
-CCL		2.75		562		597448
-JTLIND		1.17		319		883690
+TDPOWERSYS		4.29		146		780548
+CCL		2.75		562		593079
+JTLIND		1.17		319		859829
 
 FIPA_above_all_SMAs								 
 ------------------- 
