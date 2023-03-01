@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.22		425.85		3299472
-ASIANPAINT		0.22		2835.15		373087
-TITAN		0.51		2385.0		239595
+TITAN		0.51		2385.0		241355
+APOLLOHOSP		0.26		4413.15		141683
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
