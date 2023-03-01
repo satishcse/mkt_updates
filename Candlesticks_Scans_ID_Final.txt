@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+BAJAJFINSV		0.85		1346.2		1107749
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-RELAXO		-0.12		777.0		67105
-SFL		-2.24		1146.55		18489
+RELAXO		-0.12		777.0		68372
+CHALET		-0.53		364.75		58705
