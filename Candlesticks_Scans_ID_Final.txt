@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		2.46		535.65		9583853
-EICHERMOT		0.74		3128.85		388656
-TITAN		0.45		2383.45		363482
+EICHERMOT		0.71		3128.0		390775
+TITAN		0.46		2383.75		364079
+DRREDDY		0.64		4344.1		142751
+NESTLEIND		0.13		18695.1		36147
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-INDIGO		-0.6		1845.15		287200
+
