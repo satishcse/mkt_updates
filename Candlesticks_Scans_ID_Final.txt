@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+BPCL		0.39		318.6		1351485
+JSWSTEEL		1.04		674.15		795421
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAJAJHLDNG		0.34		6275.5		12389
+BALAMINES		-0.26		2192.95		9967
