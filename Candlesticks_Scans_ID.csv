@@ -1,8 +1,12 @@
 
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
-
+nsecode,per_chg,close,volume
+SBIN,2.46,535.65,9583853
+EICHERMOT,0.74,3128.85,388656
+TITAN,0.45,2383.45,363482
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+INDIGO,-0.6,1845.15,287200
