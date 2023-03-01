@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-EICHERMOT		0.73		3128.45		403676
-DRREDDY		0.63		4343.65		145438
+ITC		0.44		378.35		6287421
+HDFCBANK		0.15		1602.05		5736290
+SUNPHARMA		0.75		963.75		1266103
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-BRITANNIA		-2.21		4362.95		240440
+
