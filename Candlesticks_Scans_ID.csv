@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-EICHERMOT,0.61,3125,396871
-DRREDDY,0.61,4343,143800
+EICHERMOT,0.71,3127.8,399387
+DRREDDY,0.61,4343.0,144227
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+TIMKEN,-0.65,2930.05,252031
