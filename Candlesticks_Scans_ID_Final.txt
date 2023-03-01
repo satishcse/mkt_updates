@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-GRASIM		0.28		1582.95		40487
+BAJAJ-AUTO		0.57		3682.15		85340
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ALKYLAMINE		0.61		2516.95		2309
+ALKYLAMINE		0.59		2516.45		2748
