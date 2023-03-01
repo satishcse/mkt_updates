@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-EICHERMOT		0.71		3127.85		401982
-BAJAJ-AUTO		2.15		3739.9		346216
-DRREDDY		0.61		4342.95		144933
-DIVISLAB		0.6		2842.45		120721
+EICHERMOT		0.73		3128.45		403676
+DRREDDY		0.63		4343.65		145438
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TIMKEN		-0.59		2931.8		252735
+BRITANNIA		-2.21		4362.95		240440
