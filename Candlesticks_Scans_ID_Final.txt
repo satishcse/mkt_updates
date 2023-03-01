@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LINDEINDIA		-0.15		3716.15		7189
+PNBHOUSING		0.59		600.7		184035
+MAHLIFE		0.44		374.0		11681
