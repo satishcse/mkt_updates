@@ -7,8 +7,4 @@ UPL		2.75		713.3		1727332
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-VMART		0.41		2418.55		96266
-GRINDWELL		1.0		1822.7		34487
-RATNAMANI		-1.28		2159.0		22031
-BHARATRAS		-1.58		8669.2		949
+
