@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-HINDALCO,3.66,413.8,6938964
-INFY,0.67,1497.5,4285047
-COALINDIA,1.49,218.6,3686142
-SBILIFE,-0.47,1115.7,497565
+HINDALCO,3.62,413.65,6969883
+INFY,0.65,1497.25,4298524
+COALINDIA,1.35,218.3,3714712
+SBILIFE,-0.53,1115.05,500691
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
 nsecode,per_chg,close,volume
-ALKEM,-1.31,3133.25,79749
+ALKEM,-1.31,3133.4,79894
+CAMS,-0.13,2257.05,40064
