@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		3.57		413.45		7083933
-INFY		0.55		1495.8		4393582
-COALINDIA		1.53		218.7		3786008
-SBILIFE		-0.46		1115.8		519105
+WIPRO		0.99		390.9		1935351
+UPL		2.82		713.8		1674355
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+WHIRLPOOL		-0.02		1303.95		37928
