@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-AXISBANK		2.42		864.55		8351199
-NTPC		0.67		171.65		6679179
-HINDALCO		3.12		411.65		5903341
-TECHM		2.54		1128.15		1392789
+NTPC		0.67		171.65		6723505
+HINDALCO		3.19		411.95		5912763
+TECHM		2.54		1128.2		1396271
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ALKEM		-1.26		3134.95		29398
+ALKEM		-1.26		3135		30501
