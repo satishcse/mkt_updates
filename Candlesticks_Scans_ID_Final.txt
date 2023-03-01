@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+SBIN		1.15		528.8		2722218
+ONGC		0.36		152.6		1851994
+WIPRO		0.76		390.0		694414
+TITAN		0.72		2390.0		163073
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-RELIANCE		0.37		2331.2		1598849
+
