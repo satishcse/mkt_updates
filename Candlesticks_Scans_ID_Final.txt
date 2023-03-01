@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		-1.82		218.2		7589189
-TECHM		2.28		1125.35		1457841
-SBILIFE		-0.62		1114.05		400485
-HEROMOTOCO		0.07		2420.85		175369
+POWERGRID		-1.82		218.2		7669968
+TECHM		2.36		1126.2		1463644
+TATACONSUM		-0.01		715.2		630081
+SBILIFE		-0.62		1114.0		400848
+HEROMOTOCO		0.09		2421.2		176345
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ALKEM		-1.32		3132.95		34022
+
