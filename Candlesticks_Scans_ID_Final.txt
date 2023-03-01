@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.7		216.9		1920776
-TCS		1.84		3373.7		989451
-HDFCLIFE		-0.16		488.0		940088
-TATACONSUM		-0.06		714.85		571040
+WIPRO		0.99		390.9		1430130
+HDFCLIFE		-0.18		487.9		940494
+TATACONSUM		-0.07		714.8		572120
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ATUL		0.26		7051.15		13618
+ATUL		0.26		7051.15		13672
