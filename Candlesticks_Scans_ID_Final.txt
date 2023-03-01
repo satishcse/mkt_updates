@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.19		425.7		2308394
-NTPC		0.15		170.75		1599875
-WIPRO		0.71		389.8		719597
-BAJAJ-AUTO		1.59		3719.45		152833
+TATAMOTORS		1.19		425.7		2313871
+NTPC		0.09		170.65		1617793
+WIPRO		0.72		389.85		735818
+BAJAJ-AUTO		1.55		3718.0		154248
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-POLYCAB		0.22		3088		192879
+POLYCAB		0.22		3088.15		195610
