@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBILIFE		-0.9		1108.05		207595
+SBILIFE		-0.9		1108.05		212091
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BATAINDIA		-1.6		1396.5		130373
