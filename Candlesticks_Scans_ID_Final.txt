@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-ASIANPAINT		-0.23		2834.3		546906
-BAJFINANCE		-1.11		6086.7		528462
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BOSCHLTD		-0.4		18229.9		15644
-IFBIND		0.21		829.05		7582
+SPARC		-1.91		189.8		540052
+SANOFI		0.06		5816.1		18713
