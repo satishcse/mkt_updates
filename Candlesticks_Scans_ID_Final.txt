@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		1.36		320.2		1836161
-HDFCLIFE		-0.89		485.4		1197101
-TCS		-1.45		3336.5		649660
+BPCL		1.36		320.2		1847620
+TCS		-1.46		3336.1		652632
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-CGCL		-0.46		677.95		111447
+
