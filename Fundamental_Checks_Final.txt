@@ -33,7 +33,7 @@ PERSISTENT		-0.97		4860.35		172339
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
-SIEMENS		-3.84		3132.05		565809
+SIEMENS		-3.84		3132.05		565789
 
 FIPA_above_all_SMAs								 
 ------------------- 
