@@ -1,8 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+HDFCLIFE		-1.27		483.55		2209851
+ASIANPAINT		-0.22		2834.6		522451
+BAJFINANCE		-0.97		6094.95		516267
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BOSCHLTD		-0.42		18224.95		15265
