@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.33		105.15		25218903
-ITC		-0.69		376.1		2232539
-TATAMOTORS		-0.93		422.05		2065617
-NESTLEIND		-0.62		18662.0		12114
+AXISBANK		-1.66		850.8		6088829
+HDFCLIFE		-0.88		485.45		1169158
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-BAJAJFINSV		0.23		1346.95		2029351
-KEI		-2.9		1623.8		59549
+
