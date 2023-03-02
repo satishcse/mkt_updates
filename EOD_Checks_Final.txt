@@ -11,14 +11,14 @@ ANGELONE		5.77		1060.7		1557552
 BN_NR7								 
 ------ 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.15		1102.05		3831094
+INDUSINDBK		0.15		1102.05		3831099
 BANKBARODA		0.15		164.65		16266106
-PNB		-0.8		49.75		39689768
+PNB		-0.8		49.75		39689778
 
 BN_NCPR								 
 ------- 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.15		1102.05		3831099
+INDUSINDBK		0.15		1102.05		3831094
 
 NCPR_KGS								 
 -------- 
@@ -43,11 +43,11 @@ SHRIRAMFIN		-0.99		1209.6		544128
 OBV_RSI_Buy_Daily								 
 ----------------- 
 nsecode		per_chg		close		volume
-BHEL		2.75		74.8		33846182
+BHEL		2.75		74.8		33846032
 VOLTAS		2.19		918.8		3006307
-COALINDIA		1.87		222.85		11355026
-TORNTPOWER		1.79		515.6		818797
-COLPAL		1.02		1497.65		304177
+COALINDIA		1.87		222.85		11354940
+TORNTPOWER		1.79		515.6		830624
+COLPAL		1.02		1497.65		311347
 
 Strong_Stocks_Daily								 
 ------------------- 
