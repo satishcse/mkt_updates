@@ -6,10 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AWL		3.66		393.6		2374212
-ADANIPORTS		-0.18		601.0		2327165
-AMBUJACEM		0.41		355.05		1571515
-VBL		0.45		1349.95		129275
-STARHEALTH		-1.09		555.05		46674
-BRIGADE		0.09		476.35		4911
-SANOFI		0.19		5823.9		1093
+NESTLEIND		-0.46		18692.5		3461
