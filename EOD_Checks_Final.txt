@@ -2,11 +2,11 @@
 Volume_Shocker_Daily								 
 -------------------- 
 nsecode		per_chg		close		volume
-LODHA		18.06		997.35		6834683
-RVNL		12.22		65.65		89927442
-NBCC		6.94		36.2		16720557
-ANGELONE		5.77		1060.7		1557547
-360ONE		-75.13		441.05		215421
+LODHA		18.06		997.35		6844016
+RVNL		12.22		65.65		90838693
+NBCC		6.94		36.2		16821484
+ANGELONE		5.77		1060.7		1557755
+360ONE		-75.13		441.05		218945
 
 BN_NR7								 
 ------ 
@@ -18,7 +18,7 @@ PNB		-0.8		49.75		39689778
 BN_NCPR								 
 ------- 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.15		1102.05		3831094
+INDUSINDBK		0.15		1102.05		3831099
 
 NCPR_KGS								 
 -------- 
