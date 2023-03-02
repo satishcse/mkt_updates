@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-LT		-0.31		2108.8		1248916
+TCS		-1.51		3334.5		826470
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TITAN		-0.88		2361.55		273559
-ZFCVINDIA		-0.58		10395.45		1660
+ZFCVINDIA		-0.58		10395.45		1682
