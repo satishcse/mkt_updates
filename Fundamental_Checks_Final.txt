@@ -27,13 +27,13 @@ Fundamental_Tenchnical_Swing
 ---------------------------- 
 nsecode		per_chg		close		volume
 TIINDIA		1.03		2811.6		152875
-ITC		-0.83		375.55		5023444
-PERSISTENT		-0.97		4860.35		172380
+ITC		-0.83		375.55		5021844
+PERSISTENT		-0.97		4860.35		172339
 
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
-SIEMENS		-3.84		3132.05		565789
+SIEMENS		-3.84		3132.05		565809
 
 FIPA_above_all_SMAs								 
 ------------------- 
