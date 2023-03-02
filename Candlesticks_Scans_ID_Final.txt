@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-NTPC		-0.58		171.25		782376
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.94		2814.25		149273
-NESTLEIND		-0.8		18628.1		7540
+MARUTI		-1.41		8640.35		143546
