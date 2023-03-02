@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.71		104.75		39404782
-M&M		-1.06		1258.65		959030
+TATASTEEL		-0.66		104.8		40023676
+M&M		-1.12		1257.85		964478
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-POLYCAB		-1.27		3076.35		148476
-VIPIND		-2.49		624.0		65161
-VMART		0.37		2409.45		4529
+POLYCAB		-1.24		3077.2		149563
