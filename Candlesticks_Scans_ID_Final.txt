@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		1.9		222.9		5899129
-SBIN		0.15		537.5		4555664
-TECHM		-1.26		1112.65		737491
-DIVISLAB		-0.15		2840.95		62127
+COALINDIA		1.87		222.85		5947411
+SBIN		0.04		536.9		4678605
+TECHM		-1.32		1112.0		740750
+DIVISLAB		-0.12		2841.9		62482
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MHRIL		1.24		276.9		44082
-PFIZER		-0.18		3804.3		949
+BAJAJ-AUTO		-1.19		3687.15		88406
+MHRIL		1.26		276.95		44979
+PFIZER		-0.17		3804.6		1134
