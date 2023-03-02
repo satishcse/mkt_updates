@@ -1,14 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.66		104.8		40541411
-M&M		-1.2		1256.9		968810
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.27		1097.5		3291406
-APLAPOLLO		-0.5		1254.15		200512
-BORORENEW		-0.84		470.8		58646
-INDIAMART		-1.46		4879.1		47975
+CDSL		0.5		997.8		201490
+ABBOTINDIA		-1.47		20160.05		3577
