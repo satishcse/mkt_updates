@@ -2,15 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		1.53		381.3		2575577
-TATAMOTORS		1.18		425.4		2511049
-BPCL		0.09		321.35		820568
-WIPRO		0.63		390.5		793081
-HDFCLIFE		0.88		487.05		752933
+ULTRACEMCO		-0.81		7230		160939
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MHRIL		-0.72		277.6		56883
-LINDEINDIA		0.11		3736.9		5506
-BASF		0.06		2302.45		1901
+BAYERCROP		-0.46		4219.9		4258
