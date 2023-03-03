@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ADANIPORTS		9.74		683.6		32641012
-ADANIENT		15.0		1848.3		18225060
-ITC		2.12		383.5		5720259
-TECHM		-1.96		1088.0		1874789
-BAJFINANCE		0.63		6121.6		549563
-GRASIM		0.22		1602.0		449510
+ADANIPORTS		9.82		684.05		32964862
+SBIN		5.38		562.45		23493944
+ADANIENT		15.0		1848.3		18236853
+HDFCLIFE		1.81		491.55		2267368
+TECHM		-1.99		1087.75		1891048
+WIPRO		0.67		390.65		1672423
+UPL		0.67		710.6		899238
+BAJFINANCE		0.67		6123.5		553569
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-VMART		-0.27		2401.1		7892
+
