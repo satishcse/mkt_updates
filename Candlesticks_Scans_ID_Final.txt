@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		3.48		552.3		7212143
+SBIN		3.45		552.15		7239705
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SYNGENE		0.21		577.75		51252
-JKCEMENT		-0.3		2862.35		13595
-SANOFI		-1.05		5748.0		8126
+SANOFI		-1.08		5746.4		8271
