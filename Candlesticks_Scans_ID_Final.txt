@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		1.43		223.5		5423759
-BPCL		0.2		321.7		1371393
-M&M		1.38		1268.85		1008401
-TATACONSUM		-0.08		706.75		466005
+POWERGRID		1.41		223.45		5436535
+WIPRO		0.55		390.2		1411824
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
