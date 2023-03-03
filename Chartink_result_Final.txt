@@ -100,7 +100,7 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 --------- 
 nsecode		per_chg		close		volume
-M&MFIN		0.63		254.15		3045538
+M&MFIN		0.63		254.15		3113278
 TORNTPHARM		-0.55		1492.0		277742
 BHARATFORG		-1.0		825.0		1474747
 
