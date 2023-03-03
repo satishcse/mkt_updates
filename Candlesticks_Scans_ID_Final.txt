@@ -5,4 +5,8 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ESCORTS		0.82		2029.7		64263
+PRIVISCL		0.33		921.55		1818
+SUNDARMFIN		-0.17		2325.05		316
+PGHH		-0.14		13856.0		153
