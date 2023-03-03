@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		1.74		382.1		3940852
-ASIANPAINT		-0.14		2830.0		318545
+ITC		1.74		382.1		3951047
+ASIANPAINT		-0.18		2828.85		320537
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ATGL		4.82		779.95		1892958
+
