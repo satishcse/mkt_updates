@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		5.25		561.75		23938656
-HDFCLIFE		1.69		490.95		2343868
-BAJFINANCE		0.63		6121.5		566560
+SBIN		5.24		561.7		23963382
+HDFCLIFE		1.69		490.95		2355358
+BAJFINANCE		0.58		6118.0		567429
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TCIEXP		-1.02		1563		14657
+TCIEXP		-1.08		1561.95		14703
