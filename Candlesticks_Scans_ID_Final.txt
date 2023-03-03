@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.39		154.65		2342502
-LT		1.48		2152.95		507875
+COALINDIA		0.43		223.8		1842363
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SYMPHONY		-0.41		1168.0		20662
-PAGEIND		-0.24		37328.45		4124
+SHREECEM		-3.3		25698.6		43524
+THERMAX		-1.35		2196.65		14032
+PAGEIND		-0.06		37394.95		4204
