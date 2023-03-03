@@ -5,9 +5,9 @@ nsecode		per_chg		close		volume
 ITC		1.49		381.15		2527842
 TATAMOTORS		1.2		425.5		2460521
 BPCL		0.17		321.6		813802
-WIPRO		0.57		390.25		762819
+WIPRO		0.57		390.25		779445
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-METROPOLIS		-0.05		1316.75		17522
+METROPOLIS		-0.14		1315.55		17917
