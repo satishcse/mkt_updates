@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		3.6		552.95		6969171
+SBIN		3.54		552.65		7050304
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-APLAPOLLO		0.95		1257.6		86029
+BOSCHLTD		0.23		18222.5		4183
+BAYERCROP		0.29		4251.9		1109
