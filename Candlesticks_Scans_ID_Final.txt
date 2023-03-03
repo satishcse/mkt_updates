@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		1.23		223.05		5665751
-TECHM		-2.23		1085.0		1797544
+NTPC		1.26		172.95		10206857
+ITC		2.08		383.35		5534710
+KOTAKBANK		1.85		1753.55		3012414
+HDFC		1.9		2652.45		2279917
+SUNPHARMA		-0.47		960.75		1495805
+SBILIFE		2.65		1129.35		652674
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
