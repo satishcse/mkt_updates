@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-UPL		0.2		707.3		746159
-BAJAJFINSV		0.75		1353.6		713986
-TATACONSUM		-0.03		707.15		417215
+UPL		0.22		707.45		746419
+BAJAJFINSV		0.77		1353.85		715217
+TATACONSUM		-0.01		707.25		417899
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-UTIAMC		-2.58		654.2		60931
+
