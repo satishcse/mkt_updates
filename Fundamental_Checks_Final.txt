@@ -77,6 +77,6 @@ GSPL		-1.96		277.35		624743
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-IMAGICAA		19.54		49.25		13690282
-ISMTLTD		10.96		75.4		6268600
-TDPOWERSYS		8.04		154.5		2446179
+IMAGICAA		19.54		49.25		13736492
+ISMTLTD		10.96		75.4		6357964
+TDPOWERSYS		8.04		154.5		2469838
