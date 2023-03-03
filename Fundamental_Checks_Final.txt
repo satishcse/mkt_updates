@@ -31,10 +31,10 @@ SHREECEM		-2.85		25820.5		93961
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
 nsecode		per_chg		close		volume
-GRAVITA		5.73		474.55		486816
-ITC		2.6		385.3		8170539
+GRAVITA		5.73		474.55		470836
+ITC		2.56		385.15		8170539
 PERSISTENT		0.14		4867.0		189020
-TIINDIA		-4.29		2691.0		179705
+TIINDIA		-4.29		2691.0		179365
 
 Zero_Debt_Momentum								 
 ------------------ 
