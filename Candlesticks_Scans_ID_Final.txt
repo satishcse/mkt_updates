@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-M&M		1.1		1265.35		676437
+POWERGRID		1.88		224.5		4294915
+RELIANCE		1.55		2362.2		3997367
+M&M		1.14		1265.8		677707
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-EICHERMOT		0.13		3129.55		151088
-PERSISTENT		0.32		4875.8		110511
-UTIAMC		-0.55		667.85		24637
+
