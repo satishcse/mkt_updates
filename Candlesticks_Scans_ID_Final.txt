@@ -5,11 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-KOTAKBANK		0.55		1731.25		149825
-BAJFINANCE		0.49		6113.1		107879
-SIS		0.2		355.5		6856
-POLYPLEX		0.31		1388.4		2760
-BALAMINES		0.55		2204.2		2482
-ROSSARI		0.83		616.9		2369
-PFIZER		-0.02		3785.05		267
+
