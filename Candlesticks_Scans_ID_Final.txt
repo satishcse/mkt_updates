@@ -6,8 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.21		3707.4		62727
-TATAELXSI		0.43		6177.0		19379
-TTKPRESTIG		-0.56		768.45		6493
-BALAMINES		0.13		2195.0		5124
-PRIVISCL		-0.57		913.3		4791
+OLECTRA		0.14		522.85		306548
+TATAELXSI		0.55		6184.5		19531
+BALAMINES		0.13		2195.0		5159
