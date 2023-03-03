@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-POWERGRID,1.43,223.5,5378930
-BPCL,0.19,321.65,1355780
-UPL,0.25,707.65,770651
+ITC,1.88,382.6,4557064
+BPCL,0.23,321.8,1359837
+UPL,0.21,707.4,774538
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
 nsecode,per_chg,close,volume
-BOSCHLTD,-1.03,17993.2,14060
+PERSISTENT,-0.13,4854.0,135257
+BOSCHLTD,-1.02,17994.9,14539
