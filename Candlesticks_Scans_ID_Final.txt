@@ -1,15 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-ONGC		0.68		155.1		1925561
-TATAMOTORS		0.76		423.65		958515
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CONCOR		1.03		600.45		658620
-JINDALSTEL		0.36		578.6		452448
-ABB		0.68		3345.85		81194
-JKLAKSHMI		0.75		702.85		27130
-METROPOLIS		0.65		1325.95		9158
+ULTRACEMCO		-0.32		7265.65		65332
+SHREECEM		-1.87		26080.4		21211
