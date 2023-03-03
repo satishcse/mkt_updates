@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JBMA		-0.93		574.05		159123
-BAJAJ-AUTO		-0.18		3708.5		56072
-POLYMED		-1.22		963.3		14658
-BASF		0.44		2311.15		937
+OBEROIRLTY		0.61		877.2		80787
+FINEORG		-0.25		4530.0		8732
+PRIVISCL		-0.57		913.3		4791
