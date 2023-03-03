@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		0.02		321.1		1254467
+BPCL		0.02		321.1		1255860
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BALKRISIND		0.06		2056		81669
+BALKRISIND		0.06		2056.0		83566
+TCNSBRANDS		0.1		460.95		21705
+GARFIBRES		-0.12		2948.0		7847
