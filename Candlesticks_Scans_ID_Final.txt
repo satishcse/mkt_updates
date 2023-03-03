@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		0.49		154.8		1423573
-TATAMOTORS		0.86		424.05		899448
+ONGC		0.42		154.7		1468664
+TATAMOTORS		0.89		424.2		907658
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AMBUJACEM		2.72		380.8		6642050
-SIEMENS		0.35		3143.0		60154
-SCHAEFFLER		-0.51		3048.75		10078
+ALKEM		0.13		3130.7		4572
+SFL		0.5		1144.7		3706
+PGHH		-0.14		13856.35		163
