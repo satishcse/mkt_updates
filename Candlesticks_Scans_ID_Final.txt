@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TITAN		0.46		2407.15		372618
-NESTLEIND		0.37		18517.85		32033
+TATACONSUM		0.98		716.8		486552
+TITAN		0.39		2405.4		374072
+NESTLEIND		0.33		18510.55		32134
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ASTRAZEN		-0.66		3328.7		4389
+TCNSBRANDS		0.08		458.1		17148
