@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-AXISBANK		0.7		858.65		5991932
-HINDUNILVR		0.64		2486.9		489247
+ITC		1.25		389.75		5769459
+HINDUNILVR		0.69		2488.0		503297
+ASIANPAINT		1.91		2882.75		490363
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAYERCROP		-0.2		4209		9475
+BAYERCROP		-0.2		4209.0		7835
+BHARATRAS		-0.45		8677.95		1002
