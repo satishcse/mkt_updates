@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.4		105.5		69393086
-UPL		0.28		712.0		661098
+ONGC		2.56		158.2		8319728
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-TCIEXP		-0.78		1544.95		5083
+
