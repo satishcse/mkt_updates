@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		1.22		389.65		5816951
-HINDUNILVR		0.69		2487.95		507054
+SBIN		0.08		561.65		10622242
+ICICIBANK		-0.01		868.5		9920382
+POWERGRID		2.72		228.15		7438929
+ONGC		2.4		157.95		6462827
+COALINDIA		0.9		224.95		2594796
+WIPRO		1.55		396.5		2058049
+ASIANPAINT		1.94		2883.7		512404
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAYERCROP		-0.2		4209		7891
+AETHER		-0.45		883.35		19595
