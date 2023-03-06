@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		1.43		2419.4		3206374
+UPL		0.42		713		674100
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-FINEORG		0.33		4520.5		93500
-INDIAMART		0.48		4938.65		56048
+DIVISLAB		-0.05		2848.85		127159
