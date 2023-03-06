@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0		107		12677023
+ONGC		0.71		155.35		1446376
+TECHM		0.54		1091.05		497552
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PERSISTENT		0.84		4906.95		55700
+KPITTECH		0.18		838.95		196709
+SOLARINDS		-0.9		3767.6		8234
