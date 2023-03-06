@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.57		387.15		3288314
-POWERGRID		2.05		226.65		3017083
-WIPRO		1.1		394.75		1106268
-BAJAJFINSV		2.18		1384.85		681266
+ITC		0.6		387.25		3317050
+POWERGRID		1.98		226.5		3050822
+WIPRO		1.02		394.45		1121721
+BAJAJFINSV		2.17		1384.8		690124
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DMART		-0.15		3458.2		44107
+DMART		-0.1		3459.65		45178
+ULTRACEMCO		-0.01		7215.0		41033
