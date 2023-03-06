@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.17		968.5		1116639
+TITAN		0.46		2407.15		372618
+NESTLEIND		0.37		18517.85		32033
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ASTRAZEN		-0.66		3328.7		4389
