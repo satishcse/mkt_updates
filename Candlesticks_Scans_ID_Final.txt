@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		1.5		396.3		1770107
-HINDUNILVR		0.68		2487.8		480382
+AXISBANK		0.7		858.65		5991932
+HINDUNILVR		0.64		2486.9		489247
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+BAYERCROP		-0.2		4209		9475
