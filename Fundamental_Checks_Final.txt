@@ -31,17 +31,17 @@ LALPATHLAB		0.01		1958.95		114101
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
 nsecode		per_chg		close		volume
-INGERRAND		7.35		2459.75		197089
-CIGNITITEC		3.99		778.95		458505
-TIINDIA		2.09		2763.6		152276
-GRAVITA		0.87		476.05		239515
-ITC		0.83		388.15		10714339
+INGERRAND		7.35		2459.75		197114
+CIGNITITEC		3.99		778.95		458515
+TIINDIA		2.09		2763.6		152292
+GRAVITA		0.87		476.05		239617
+ITC		0.83		388.15		10714439
 PERSISTENT		0.24		4878.0		206848
 
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
-TDPOWERSYS		-1.29		152.5		996290
+TDPOWERSYS		-1.29		152.5		949623
 
 FIPA_above_all_SMAs								 
 ------------------- 
@@ -84,9 +84,9 @@ BDL		-0.66		941.4		553660
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-JSL		7.08		299.35		2978385
-CLSEL		6.38		179.25		875579
-PFC		4.25		161.75		12206188
-CIGNITITEC		3.99		778.95		467154
-JSLHISAR		3.88		541.05		440742
-SONATSOFTW		3.7		823.55		840921
+JSL		7.08		299.35		2871348
+CLSEL		6.38		179.25		854459
+PFC		4.25		161.75		11990721
+CIGNITITEC		3.99		778.95		458505
+JSLHISAR		3.88		541.05		425175
+SONATSOFTW		3.7		823.55		812266
