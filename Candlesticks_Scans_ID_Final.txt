@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.61		387.3		3377444
-BHARTIARTL		1.41		775.15		1548986
-BPCL		0.5		323.0		555028
-M&M		1.04		1281.85		417994
+ITC		0.65		387.45		3397493
+BHARTIARTL		1.3		774.35		1569040
+WIPRO		1.11		394.8		1160118
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
