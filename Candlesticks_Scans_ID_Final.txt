@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		1.29		389.9		7737889
+ITC		1.49		390.7		7866251
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MEDPLUS		-1.54		688		72169
+LT		-0.01		2151.75		1168377
+MEDPLUS		-1.26		689.95		73068
+TTKPRESTIG		-2.31		764.0		47026
+TCIEXP		-0.77		1545.0		5079
