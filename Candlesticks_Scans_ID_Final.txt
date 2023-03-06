@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-CIPLA		0.17		880.15		2752107
+ITC		1.27		389.85		5095218
+CIPLA		0.17		880.1		2767496
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-DELHIVERY		-0.47		339.45		400992
+
