@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDALCO		0.83		420.35		2130463
-RELIANCE		1.11		2411.85		1700734
-TCS		1.39		3388.5		439401
-ASIANPAINT		1.42		2868.9		323264
+HINDALCO		0.79		420.2		2145592
+RELIANCE		1.03		2409.95		1722430
+TCS		1.43		3389.9		447440
+ASIANPAINT		1.36		2867.4		327680
+APOLLOHOSP		0.78		4442.55		63822
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+GOCOLORS		0.31		958.85		35901
+TCIEXP		-0.45		1550.0		3070
