@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.44		863.95		10934222
-HCLTECH		-0.45		1121.6		2116136
-CIPLA		-0.57		875.85		1690172
-BRITANNIA		0.34		4334.75		151313
+HCLTECH		-0.44		1121.7		2120923
+JSWSTEEL		-0.27		672.4		983617
+BRITANNIA		0.31		4333.35		151596
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+VIPIND		-0.57		604.9		419406
+MANYAVAR		-0.76		1181.8		17526
+SKFINDIA		-0.9		4466.85		6866
