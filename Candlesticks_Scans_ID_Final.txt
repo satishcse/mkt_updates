@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.61		2847		196613
+ASIANPAINT		-0.58		2847.85		199584
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+SUNPHARMA		-1.45		951.25		1298491
+LODHA		-5.76		934.0		268553
