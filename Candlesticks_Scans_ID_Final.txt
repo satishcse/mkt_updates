@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+EICHERMOT		0.77		3190.65		236821
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SCHAEFFLER		-1.1		2974.9		14358
+INDIAMART		-0.76		4916.6		13738
