@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LODHA		-3.41		957.25		89087
-DMART		-0.14		3432.25		26941
-HONAUT		-0.46		35297.75		581
-3MINDIA		-0.33		23330.0		181
+LODHA		-2.83		963		94267
+APOLLOHOSP		-0.55		4397		60389
+HONAUT		-0.39		35320		609
+3MINDIA		-0.2		23360		194
