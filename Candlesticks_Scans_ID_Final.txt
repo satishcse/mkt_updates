@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		-0.8		223.1		2476352
-TECHM		-0.86		1080.7		1404114
-M&M		0.46		1276.35		1149361
-BRITANNIA		0.35		4335.0		147612
+POWERGRID		-0.33		226.4		5544983
+TECHM		-0.89		1080.35		1405488
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
