@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+TATASTEEL		0.43		106.1		17711461
+UPL		0.08		711.65		276620
+BRITANNIA		0.81		4355.0		80858
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-TVSMOTOR		-0.37		1094.4		134900
-CYIENT		-0.76		947.85		46179
-NUVOCO		-0.6		349.1		29773
+
