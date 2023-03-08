@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.8		106.5		31749736
-UPL		0.16		712.2		531951
-NESTLEIND		-0.13		18490.6		22736
+TATASTEEL		0.85		106.55		31990365
+UPL		0.11		711.85		533346
+BRITANNIA		0.35		4335.0		146766
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-BLUEDART		-2.17		6103.65		22139
+
