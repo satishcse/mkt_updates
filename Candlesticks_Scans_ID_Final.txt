@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.8		106.5		31559637
-ICICIBANK		-0.44		863.9		10142303
-UPL		0.16		712.2		526269
+TATASTEEL		0.8		106.5		31696950
+TCS		-0.32		3361.15		1094042
+UPL		0.1		711.75		528948
+NESTLEIND		-0.11		18493.8		22695
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
