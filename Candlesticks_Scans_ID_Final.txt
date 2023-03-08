@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SUNPHARMA		-1.35		952.25		3452758
-TECHM		-0.55		1084.1		1467951
-TITAN		-0.98		2379.9		587189
+TATASTEEL		0.8		106.5		33533568
+SUNPHARMA		-1.37		952.0		3482689
+INFY		-1.24		1488.7		2234512
+TITAN		-1.04		2378.4		591169
+DRREDDY		-0.21		4429.7		165904
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
