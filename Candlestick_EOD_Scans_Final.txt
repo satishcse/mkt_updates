@@ -6,11 +6,11 @@ Hanging_Man_N100
 Bullish_Hammer_Daily_N50								 
 ------------------------ 
 nsecode		per_chg		close		volume
-RELIANCE		0.36		2417.35		7283695
+RELIANCE		0.36		2417.35		7283694
 HINDALCO		-1.63		407.75		7044653
-COALINDIA		-0.02		224.85		4272645
+COALINDIA		-0.02		224.85		4271464
 TITAN		-0.26		2397.1		858496
-ASIANPAINT		-0.17		2859.55		580332
+ASIANPAINT		-0.17		2859.55		580276
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ---------------------------------- 
