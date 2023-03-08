@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.8		106.5		32170203
-TECHM		-0.93		1079.95		1400755
-UPL		0.07		711.55		537331
-BRITANNIA		0.35		4335.0		147501
+COALINDIA		-0.8		223.1		2476352
+TECHM		-0.86		1080.7		1404114
+M&M		0.46		1276.35		1149361
+BRITANNIA		0.35		4335.0		147612
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
