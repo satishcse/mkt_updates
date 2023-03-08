@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-POWERGRID		0.18		227.55		3016662
-UPL		0.06		711.5		297068
+TATASTEEL		0.62		106.3		19379223
+POWERGRID		0.18		227.55		3045378
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ATUL		-1.12		6959.25		7840
-GLAXO		-0.65		1287.05		6576
-VINATIORGA		0.1		1871.15		4500
+BLUEDART		-1.48		6146.9		4392
