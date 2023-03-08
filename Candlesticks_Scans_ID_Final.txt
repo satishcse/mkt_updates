@@ -2,10 +2,7 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BPCL		0.26		325.4		1860460
-JSWSTEEL		-0.19		673.0		1096519
-HINDUNILVR		0.04		2485.75		1041325
-BRITANNIA		0.27		4331.6		169392
+BPCL		0.18		325.15		1908121
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
