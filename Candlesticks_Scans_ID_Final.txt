@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HCLTECH		-0.53		1120.7		2153119
-BRITANNIA		0.32		4333.5		153068
+SUNPHARMA		-1.35		952.25		3452758
+TECHM		-0.55		1084.1		1467951
+TITAN		-0.98		2379.9		587189
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-SKFINDIA		-0.91		4466.55		7143
+
