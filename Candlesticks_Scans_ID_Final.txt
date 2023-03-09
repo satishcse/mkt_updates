@@ -1,11 +1,18 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+ONGC		-0.57		157.35		2745197
+SUNPHARMA		-0.72		950.6		1728875
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-INFY		-0.57		1484.2		2898491
-HEROMOTOCO		-1.01		2452.95		139062
-PIDILITIND		-0.99		2324.85		139023
+TCS		-0.99		3356.75		938072
+MAZDOCK		-0.1		740.55		387392
+HEROMOTOCO		-1.01		2453.0		140006
+PIDILITIND		-0.98		2325.0		139634
+DEEPAKNTR		0.06		1820.95		134865
+CLEAN		-0.1		1467.0		35805
+FINEORG		-0.15		4508.6		9616
+BAJAJHLDNG		-0.68		6312.35		6581
