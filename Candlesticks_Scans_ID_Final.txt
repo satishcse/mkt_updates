@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DRREDDY		-1.04		4380.0		165164
-EIDPARRY		-1.7		529.1		146714
+DRREDDY		-1.04		4380.0		167861
+CLEAN		-0.85		1456.05		45327
+BHARATRAS		0.27		8675.0		660
