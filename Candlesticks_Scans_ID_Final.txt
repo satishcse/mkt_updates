@@ -1,12 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-LT		0.77		2187.5		1240519
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-1.28		2446.4		180240
-ULTRACEMCO		-0.73		7213.95		93419
-TORNTPHARM		-0.21		1510.5		69815
+ULTRACEMCO		-0.73		7214.35		94960
+POLYMED		-1.6		959.8		79701
+TCI		-0.61		630.25		33634
+TEAMLEASE		-0.25		2519.55		1722
