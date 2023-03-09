@@ -1,13 +1,18 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+INFY		-0.81		1480.55		4991460
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-OBEROIRLTY		-1.61		889.9		213352
-MPHASIS		-1.88		2104.5		129783
-AJANTPHARM		0.08		1227.5		97617
-HLEGLAS		-1.9		525.6		26022
-BAJAJHLDNG		-1.35		6270.25		10477
+MAHINDCIE		-2.66		396.85		608542
+KPITTECH		0.36		825.15		602116
+PIDILITIND		-1.67		2308.8		283060
+DIVISLAB		-0.81		2811.55		281691
+CDSL		-1.9		994.0		275504
+BRITANNIA		-1.15		4289.95		229448
+SUMICHEM		-1.75		447.4		88499
+SHREECEM		-1.76		25556.3		43887
+SOLARINDS		-0.97		3785.2		21797
