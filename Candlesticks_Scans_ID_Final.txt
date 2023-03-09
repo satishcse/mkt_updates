@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+TATAMOTORS		-0.77		435.9		2352494
+M&M		-2.21		1261.5		960902
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MEDPLUS		-2.51		688.3		373444
+SUNDRMFAST		-0.53		986.95		7170
