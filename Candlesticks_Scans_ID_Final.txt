@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		1.69		108.3		36156319
+TATASTEEL		1.69		108.3		36256534
+BAJAJ-AUTO		0.42		3827.15		188262
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-BAJFINANCE		-0.85		5946.05		538579
-MRF		-1.01		85876.3		3204
+
