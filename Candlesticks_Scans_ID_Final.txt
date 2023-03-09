@@ -6,5 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LTTS		0.29		3686		78670
-ULTRACEMCO		-0.6		7224		63233
+PERSISTENT		-0.53		4865.85		48829
+SHREECEM		-0.7		25831.3		24274
