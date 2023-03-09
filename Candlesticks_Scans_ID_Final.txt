@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+DRREDDY		-1.04		4380		173953
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DRREDDY		-1.04		4380.0		167861
-CLEAN		-0.85		1456.05		45327
-BHARATRAS		0.27		8675.0		660
+BDL		-0.45		939.55		396950
+MCX		-0.03		1477.2		281232
+SYMPHONY		-0.95		1161.25		44506
