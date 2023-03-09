@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		1.71		181.9		11680889
+NTPC		1.71		181.9		11910676
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TORNTPHARM		-0.18		1510.85		45437
-ALKYLAMINE		0.08		2513.4		9137
+MPHASIS		-0.44		2135.45		52278
