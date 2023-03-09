@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-LT		0.74		2186.9		1238187
+LT		0.77		2187.5		1240519
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PVR		-1.44		1544.7		291145
-MASTEK		-3.47		1670.0		33817
+HEROMOTOCO		-1.28		2446.4		180240
+ULTRACEMCO		-0.73		7213.95		93419
+TORNTPHARM		-0.21		1510.5		69815
