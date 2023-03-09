@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.78		950.0		1876679
-LT		0.7		2186.0		1074474
-HDFC		0.37		2689.4		1060539
-ASIANPAINT		0.25		2866.65		443314
-TITAN		-0.88		2375.9		371968
-MARUTI		-0.85		8620.1		234562
+SUNPHARMA		-0.88		949.05		1913248
+LT		0.66		2185.15		1119380
+HDFC		0.32		2688.1		1072574
+ASIANPAINT		0.12		2863.0		449714
+TITAN		-0.97		2373.85		392551
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
