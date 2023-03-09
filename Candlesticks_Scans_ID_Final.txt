@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-HCLTECH		-0.14		1119.1		803895
-EICHERMOT		-0.82		3178.2		135109
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DIXON		-1.65		2869.15		101135
+ALKEM		0.11		3145		5690
