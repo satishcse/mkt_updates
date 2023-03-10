@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		-2.13		547.0		7883676
-WIPRO		-0.42		388.45		1586762
+SBIN		-2.07		547.35		7938343
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HIKAL		-1.95		299		82891
+FACT		-1.79		231		300797
+HIKAL		-1.95		299		74267
