@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-SHREECEM		2.43		26181.75		67359
-GRASIM		-0.33		1595.9		456813
+SHREECEM		2.43		26181.75		67356
+GRASIM		-0.33		1595.9		456782
 
 Intraday_Volume_Shocker								 
 ----------------------- 
