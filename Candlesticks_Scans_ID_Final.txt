@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.58		434.7		8849421
-HDFC		-2.47		2601.1		3939821
-LT		-1.66		2156.9		1691988
+ICICIBANK		-1.7		841.4		16203447
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-CYIENT		-1.44		942.8		128771
+
