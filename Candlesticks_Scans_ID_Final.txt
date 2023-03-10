@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ONGC		-0.26		155.9		3275970
-BHARTIARTL		-0.18		772.0		2671322
-CIPLA		-0.37		878.45		773799
-NESTLEIND		-0.19		18500.0		9946
+ONGC		-0.19		156.0		3285040
+BHARTIARTL		-0.33		770.85		2698277
+CIPLA		-0.4		878.2		777916
+NESTLEIND		-0.19		18500.05		9998
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
