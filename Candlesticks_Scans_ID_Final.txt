@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+SBIN		-2.09		547.2		7708070
+LT		-1.57		2158.8		1453358
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-VEDL		-3.22		276.3		8432352
-OBEROIRLTY		-1.32		877.65		132491
+
