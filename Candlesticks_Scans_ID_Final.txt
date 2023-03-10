@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-0.09		387.15		1596049
-TCS		-0.66		3314.7		310347
+TATAMOTORS		0.88		436		4998628
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ECLERX		-1.43		1377.65		29912
