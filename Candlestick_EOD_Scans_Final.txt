@@ -7,7 +7,7 @@ Bullish_Hammer_Daily_N50
 ------------------------ 
 nsecode		per_chg		close		volume
 BAJFINANCE		-0.55		5869.0		770730
-NIFTY		-0.97		17418.75		0
+NIFTY		-1.0		17412.9		0
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ---------------------------------- 

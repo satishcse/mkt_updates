@@ -23,9 +23,9 @@ HONAUT,-1.18,35421.0,3844
 Fundamental_Tenchnical_Swing,,,, 
 ---------------------------- 
 nsecode,per_chg,close,volume
-CIGNITITEC,1.06,778.0,173664
-ITC,0.18,388.2,8361578
-GRAVITA,-0.41,473.0,120780
+CIGNITITEC,1.06,778.0,175416
+ITC,0.18,388.2,8416013
+GRAVITA,-0.41,473.0,121853
 PERSISTENT,-1.36,4752.0,396433
 TIINDIA,-1.78,2699.8,101691
 
@@ -33,7 +33,7 @@ Zero_Debt_Momentum,,,,
 ------------------ 
 nsecode,per_chg,close,volume
 TDPOWERSYS,2.71,162.8,1538501
-UGARSUGAR,1.3,97.45,1048034
+UGARSUGAR,1.3,97.45,1048053
 
 FIPA_above_all_SMAs,,,, 
 ------------------- 
@@ -72,4 +72,4 @@ Outperforming_Nifty_1W_3M,,,,
 ------------------------- 
 nsecode,per_chg,close,volume
 JBMA,3.54,647.65,4318563
-TWL,3.13,255.7,2129130
+TWL,3.13,255.7,2132691
