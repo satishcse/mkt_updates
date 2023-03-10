@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.64		434.95		8763995
-HDFC		-2.39		2603.4		3894849
-LT		-1.59		2158.35		1679557
-SUNPHARMA		0.08		953.45		1536171
-HEROMOTOCO		-0.44		2433.1		162878
+TATAMOTORS		0.56		434.6		8796074
+HDFC		-2.43		2602.3		3910569
+LT		-1.62		2157.65		1683687
+SUNPHARMA		0.04		953.05		1544286
+HEROMOTOCO		-0.4		2434.0		165989
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+SUNDRMFAST		-2.02		968.9		89310
