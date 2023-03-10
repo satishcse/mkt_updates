@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.23		107.95		25517525
+TATASTEEL		-0.28		107.9		25619786
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ICICIGI		-0.79		1075.5		131344
-BASF		-1.88		2365.0		5804
+
