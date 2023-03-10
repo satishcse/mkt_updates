@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.09		387.85		7921116
+ITC		0.13		388		7996145
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SONATSOFTW		-4.66		780.15		376090
+PNBHOUSING		-3.7		608.6		748372
+BAJAJHLDNG		-3.11		6060.0		24730
