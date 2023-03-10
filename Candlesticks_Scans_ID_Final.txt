@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.13		388		7996145
+ITC		0.13		388		8111899
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PNBHOUSING		-3.7		608.6		748372
-BAJAJHLDNG		-3.11		6060.0		24730
+PNBHOUSING		-3.67		608.8		756443
+GLAND		-4.09		1186.1		594031
+VTL		-1.05		314.4		300771
+BAJAJHLDNG		-2.9		6073.0		25208
+VMART		-0.71		2382.45		7266
