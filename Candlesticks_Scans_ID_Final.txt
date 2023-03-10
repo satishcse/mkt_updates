@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PNBHOUSING		-3.9		607.35		775779
-GLAND		-3.81		1189.55		606667
-KPRMILL		-1.07		575.65		83091
-BAJAJELEC		-0.92		1086.0		46185
+PNBHOUSING		-3.9		607.35		775889
+GLAND		-3.81		1189.55		604853
+KPRMILL		-1.07		575.65		81107
+BAJAJELEC		-0.92		1086.0		45830
