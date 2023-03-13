@@ -5,9 +5,9 @@ nsecode		per_chg		close		volume
 MGL		0.72		993.45		1303897
 DIXON		0.66		2906.0		483553
 LALPATHLAB		0.46		1839.0		332691
-COLPAL		0.39		1503.0		213506
-BRITANNIA		0.26		4322.2		282666
-NMDC		0.09		114.6		9812380
+COLPAL		0.39		1503.0		211896
+BRITANNIA		0.09		4315.0		281463
+NMDC		0.09		114.6		9811849
 
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
