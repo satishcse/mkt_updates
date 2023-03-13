@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.14		107.95		13279228
-TECHM		8.03		1146.5		8750542
-POWERGRID		0.9		228.6		3972941
-WIPRO		-0.36		387.7		1113688
-UPL		-0.13		710.75		534665
+TATASTEEL		-0.14		107.95		13315121
+POWERGRID		0.9		228.6		3987012
+WIPRO		-0.36		387.7		1115060
+UPL		-0.14		710.65		534987
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SIEMENS		-0.91		3279.0		58082
-PGHL		0.13		5119.95		5059
+GRASIM		0.13		1597.9		363693
+BALAMINES		-2.25		2210.0		22148
