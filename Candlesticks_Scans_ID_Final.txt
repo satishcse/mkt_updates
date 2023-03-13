@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-BAJFINANCE		0.69		5914.95		158251
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BHARATRAS		-0.26		8543		70
+MPHASIS		-1.05		2017.45		67596
+BHARATRAS		-0.26		8543.0		81
