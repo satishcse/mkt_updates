@@ -1,11 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+KOTAKBANK		0.4		1706.15		1698900
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ACC		-1.93		1811.3		205672
-MCX		-0.74		1468.1		38442
-WHIRLPOOL		-1.37		1335.8		15808
+GESHIP		-3.02		588.1		96456
+BALKRISIND		-1.93		1986.55		43279
+THERMAX		-0.3		2174.95		8554
+MRF		-0.57		84623.25		1483
