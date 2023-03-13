@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.75		2809		415539
+ITC		-0.84		384.75		3430074
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PAGEIND		-2.1		36250.0		10209
-GARFIBRES		-0.33		2893.6		1274
+PFIZER		-0.04		3712.85		7086
