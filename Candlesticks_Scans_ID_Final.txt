@@ -6,9 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.41		5850.0		590911
-KPITTECH		-2.32		804.0		565573
-CDSL		-2.17		981.0		283500
-GODFRYPHLP		-3.52		1848.0		56366
-CERA		-1.62		6195.0		19235
-SFL		-2.14		1122.05		14106
+SRF		-0.15		2289.15		385777
+MARUTI		-1.24		8495.25		374390
+VIPIND		-4.67		573.9		289299
+MTARTECH		-1.79		1666.95		48092
