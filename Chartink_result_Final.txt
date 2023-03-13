@@ -10,17 +10,15 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-TECHM		6.92		1134.65		11830270
-ICICIGI		0.48		1080.3		701149
-HDFCLIFE		-2.23		479.3		2323679
+TECHM		6.9		1134.45		11900472
+ICICIGI		0.56		1081.15		712681
+HDFCLIFE		-2.16		479.65		2337886
 
 Intraday_Volume_Shocker								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CIPLA		-0.85		873.75		1224154
-CANFINHOME		-3.07		540.0		787202
-BANKNIFTY		-1.99		39680.2		0
-NIFTY		-1.41		17167.4		0
+CUB		-2.86		134.1		5921405
+BRITANNIA		-0.04		4309.25		209215
 
 High_Relative_Volume_Spurt_5m								 
 ----------------------------- 
@@ -29,19 +27,19 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 --------- 
 nsecode		per_chg		close		volume
-SYNGENE		-0.77		576.7		360484
-ABBOTINDIA		-1.73		20199.95		8610
-ATUL		-2.12		6845.8		30628
-PVR		-2.21		1485.55		361427
-IDEA		-2.22		6.6		39196660
-HEROMOTOCO		-2.29		2384.35		172303
-ZYDUSLIFE		-2.3		464.0		612649
-BALKRISIND		-2.31		1978.95		145518
-CUB		-2.5		134.6		5634472
+SYNGENE		-0.83		576.35		367130
+ABBOTINDIA		-1.8		20185.0		8621
+ZYDUSLIFE		-2.12		464.85		620696
+ATUL		-2.14		6844.35		30942
+PVR		-2.18		1485.95		367248
+IDEA		-2.22		6.6		39714556
+HEROMOTOCO		-2.36		2382.75		173627
+BALKRISIND		-2.39		1977.2		145955
+CUB		-2.86		134.1		5921405
 
 Open_Low								 
 -------- 
 nsecode		per_chg		close		volume
-TECHM		6.92		1134.65		11830270
-ICICIGI		0.48		1080.3		701149
-LTTS		-0.92		3629.55		132203
+TECHM		6.86		1134.1		11917024
+ICICIGI		0.66		1082.25		715059
+LTTS		-0.93		3629.25		133121
