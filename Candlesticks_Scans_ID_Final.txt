@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.25		180.3		9554038
-TATAMOTORS		-2.63		424.4		5524523
-TATACONSUM		-1.24		695.7		776046
+NTPC		-0.25		180.3		9728307
+TATAMOTORS		-2.95		423.0		5746397
+TATACONSUM		-1.13		696.45		787386
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-PIIND		-1.86		3050.0		156477
-FLUOROCHEM		-0.27		3223.9		113488
+
