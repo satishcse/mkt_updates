@@ -1,14 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TATAMOTORS		-2.2		426.25		4618395
-CIPLA		-0.37		877.9		727415
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-CENTURYTEX		-3.97		614.8		117083
-VTL		-0.21		313.1		52063
-MEDPLUS		-2.4		675.8		30768
-ZYDUSWELL		-1.24		1495.95		23063
+
