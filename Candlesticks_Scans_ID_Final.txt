@@ -2,19 +2,19 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.53		179.8		13668271
+NTPC		-0.58		179.7		13669393
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MRPL		-3.65		56.7		9232719
-CUMMINSIND		-0.35		1675.0		639156
-RITES		-4.45		349.85		531160
+MRPL		-3.57		56.75		9232720
+CUMMINSIND		-0.76		1668.1		639290
+RITES		-4.9		348.2		531294
 QUESS		-0.33		360.85		325888
-JYOTHYLAB		-2.74		188.1		240537
+JYOTHYLAB		-4.01		185.65		240540
 ROSSARI		-2.27		600.0		84996
 LUXIND		-1.98		1296.75		23703
-DCMSHRIRAM		-2.83		829.1		23007
+DCMSHRIRAM		-3.06		827.1		23030
 CRISIL		-1.67		3254.25		15530
 BASF		-1.33		2309.7		9084
 HONAUT		-1.75		34950.0		3115
