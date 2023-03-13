@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.19		107.9		12452315
+NTPC		0.11		180.95		3784305
+BPCL		-0.57		324.2		587212
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-M&M		-1.39		1209.7		1032287
-DMART		-0.59		3371.9		58867
+PVR		-1.14		1501.7		179342
+RAMCOCEM		-2.41		711.95		137653
+INDIGO		-0.95		1871.9		56655
+SKFINDIA		-0.38		4407.9		9077
+SUNDARMFIN		-0.43		2278.5		1077
+GARFIBRES		-0.6		2885.6		783
