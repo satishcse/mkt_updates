@@ -10,7 +10,7 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-MCDOWELL-N		1.14		763		244734
+MCDOWELL-N		1.33		764.45		278355
 
 Intraday_Volume_Shocker								 
 ----------------------- 
@@ -63,10 +63,10 @@ COFORGE		-2.37		3987.7		55912
 Open_Low								 
 -------- 
 nsecode		per_chg		close		volume
-AUROPHARMA		1.93		457.3		435490
-CUB		1.53		136.4		286530
-BHARTIARTL		1.19		774.4		365913
-M&MFIN		0.94		240.75		218222
-OFSS		0.82		3209.15		8438
-NTPC		0.64		180.85		1120729
-LTIM		-0.13		4609.95		29886
+CUB		1.82		136.8		335303
+AUROPHARMA		1.63		455.95		456578
+BHARTIARTL		1.23		774.7		396800
+M&MFIN		1.09		241.1		233394
+OFSS		0.7		3205.15		8827
+NTPC		0.58		180.75		1164402
+LTIM		-0.15		4609.0		31641
