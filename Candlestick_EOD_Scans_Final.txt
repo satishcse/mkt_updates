@@ -7,7 +7,7 @@ Bullish_Hammer_Daily_N50
 ------------------------ 
 nsecode		per_chg		close		volume
 GRASIM		-0.05		1561.2		505806
-MARUTI		-0.07		8512.15		349511
+MARUTI		-0.07		8512.15		349510
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ---------------------------------- 
