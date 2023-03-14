@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBILIFE		0.83		1081.45		439251
+SBILIFE		0.86		1081.75		439819
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-INDIANB		-5.31		267.4		686943
-ZFCVINDIA		-1.01		10063.9		875
+
