@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-COFORGE		-3.88		3926.25		172391
-TATAELXSI		-1.79		6020.9		47555
-HGS		-0.95		1097.0		17558
-SUPREMEIND		-0.99		2640.15		10233
+JBMA		-0.88		605.9		123010
+CAMPUS		-0.2		390.05		67069
+DIXON		-0.93		2858.8		47392
+HGS		-0.96		1096.95		17941
+LINDEINDIA		-1.41		3825.0		8710
