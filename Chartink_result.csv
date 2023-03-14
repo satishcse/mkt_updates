@@ -10,17 +10,26 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ----------------- 
 nsecode,per_chg,close,volume
-MCDOWELL-N,1.41,765.0,965407
-TITAN,0.15,2335.6,832288
+MCDOWELL-N,1.74,767.5,1007480
+TITAN,0.32,2339.4,834248
 
 Intraday_Volume_Shocker,,,, 
 ----------------------- 
 nsecode,per_chg,close,volume
-ALKEM,-0.17,3061.55,15405
+SAIL,-0.17,86.8,5326526
+INDUSINDBK,0.39,1064.2,2374601
+POWERGRID,0.44,227.1,2173138
+MCDOWELL-N,1.74,767.5,1007480
+DABUR,-0.01,523.5,275143
+MCX,-0.47,1472.8,118825
+SUNTV,-0.31,428.0,102549
+APOLLOHOSP,-0.74,4312.85,81552
+RAMCOCEM,-1.0,708.95,61242
 
 High_Relative_Volume_Spurt_5m,,,, 
 ----------------------------- 
-
+nsecode,per_chg,close,volume
+INDUSINDBK,0.39,1064.2,2374601
 
 Open_High,,,, 
 --------- 
