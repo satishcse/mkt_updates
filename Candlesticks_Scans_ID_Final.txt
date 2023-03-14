@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-1.0		177.9		9217542
-TECHM		-1.63		1115.3		4325522
+NTPC		-1.0		177.9		9217554
+TECHM		-1.63		1115.3		4325573
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PRESTIGE		-0.22		394.35		766711
-KALPATPOWR		-1.48		570.8		263386
-APLLTD		-1.16		482.7		130503
-INDIGOPNTS		-0.44		1011.05		65401
-PGHH		0.19		13629.95		2323
+PRESTIGE		-0.22		394.35		769249
+KALPATPOWR		-1.48		570.8		267475
+APLLTD		-1.16		482.7		130518
+INDIGOPNTS		-0.44		1011.05		67803
+PGHH		0.19		13629.95		2650
