@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LTIM		-2.43		4504.0		106499
-BRITANNIA		-0.18		4300.0		65220
-GOCOLORS		-0.93		930.05		7394
+LUPIN		0.28		656.15		459929
+GOCOLORS		-1.01		929.3		7418
