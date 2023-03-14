@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PNBHOUSING		-7.31		542.35		1325635
-PHOENIXLTD		-2.73		1288.85		43688
-PGHL		-3.83		4888.0		8444
-TCIEXP		-1.75		1514.95		8279
+RELIANCE		-0.02		2284.1		4858429
+PNBHOUSING		-7.2		542.95		1338276
+COFORGE		-5.41		3863.8		579950
+TCIEXP		-1.77		1514.65		8649
+BAYERCROP		-0.21		4099.0		6736
