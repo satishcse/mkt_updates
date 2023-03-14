@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-MCDOWELL-N		1.31		764.3		1598068
-TITAN		0.94		2354.0		1124407
+MCDOWELL-N		1.29		764.1		1598542
+TITAN		0.93		2353.75		1127416
 
 Intraday_Volume_Shocker								 
 ----------------------- 
@@ -26,7 +26,7 @@ JKCEMENT		-0.4		2791.45		34190
 High_Relative_Volume_Spurt_5m								 
 ----------------------------- 
 nsecode		per_chg		close		volume
-DRREDDY		-1.32		4312.9		241268
+DRREDDY		-1.19		4318.5		242650
 
 Open_High								 
 --------- 
@@ -50,5 +50,5 @@ COFORGE		-4.88		3885.15		600334
 Open_Low								 
 -------- 
 nsecode		per_chg		close		volume
-M&MFIN		2.01		243.3		2413107
-BHARTIARTL		0.46		768.85		2163956
+M&MFIN		2.03		243.35		2413649
+BHARTIARTL		0.48		768.95		2170442
