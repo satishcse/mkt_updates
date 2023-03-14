@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFC		-0.7		2557.1		1519470
-BRITANNIA		-0.25		4296.9		93854
+HDFC		-0.63		2559.05		1528542
+BRITANNIA		-0.26		4296.35		93970
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-2.09		1297.35		23699
-BAYERCROP		-0.19		4100.0		4184
+PHOENIXLTD		-2.14		1296.7		23976
