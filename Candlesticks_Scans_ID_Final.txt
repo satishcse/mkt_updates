@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		1.26		108.15		23213804
-NTPC		0.08		179.85		4402300
+TATASTEEL		1.26		108.15		23302631
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ADANIENT		-7.97		1725		7097477
-AETHER		0.87		867		8146
-ABBOTINDIA		-1.2		20020		3366
+POLYPLEX		-1.43		1332.7		34742
+AETHER		0.87		867.0		8146
+KIMS		-2.25		1368.45		5947
+ABBOTINDIA		-1.2		20020.0		3397
