@@ -5,4 +5,6 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+AIAENG		-1.1		2765.35		28874
+PFIZER		-0.31		3693.9		5100
