@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-BRITANNIA		-0.15		4301.2		109331
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AETHER		0.87		867		8218
-ABBOTINDIA		-1.2		20020		3440
+AETHER		0.99		868.0		8220
+ABBOTINDIA		-1.2		20020.05		3434
