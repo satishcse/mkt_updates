@@ -1,14 +1,18 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+HINDUNILVR		0.57		2469		309214
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-COFORGE		-4.55		3899.0		279080
-CYIENT		-1.75		914.45		39521
-EMAMILTD		-1.76		378.7		29449
-POLYMED		0.23		960.75		26824
-FINEORG		-2.35		4226.2		15385
-HONAUT		-0.88		34600.0		1144
+AMBUJACEM		-3.0		356.95		5183615
+DELHIVERY		-2.49		323.65		345266
+VOLTAS		-1.27		872.7		306212
+COFORGE		-4.54		3899.1		283943
+DEEPAKFERT		-1.03		611.8		121045
+DIXON		-1.95		2829.35		70387
+CYIENT		-1.7		914.9		39817
+BIRLACORPN		-1.45		855.25		19993
+FINEORG		-2.2		4232.55		15793
