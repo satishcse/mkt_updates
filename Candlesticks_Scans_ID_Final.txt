@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-M&M		-2.85		1159.45		4769200
+M&M		-2.64		1162		4850583
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BALKRISIND		-0.57		1963.0		187843
-SUPREMEIND		-4.01		2559.7		76195
-POWERINDIA		-6.19		3267.2		25257
+NUVOCO		-2.02		333.85		66493
