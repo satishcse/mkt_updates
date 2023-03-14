@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-1.03		177.85		8895634
-ONGC		-1.51		153.45		7017675
-TECHM		-1.6		1115.7		4290863
-WIPRO		-1.53		379.55		3973400
-JSWSTEEL		-0.34		673.3		1533110
+NTPC		-0.95		178.0		8970049
+ONGC		-1.57		153.35		7081185
+TECHM		-1.55		1116.25		4298558
+WIPRO		-1.53		379.55		3987384
+JSWSTEEL		-0.33		673.4		1536260
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-APLLTD		-1.22		482.4		126747
-INDIGOPNTS		-0.45		1011.0		64146
+STARHEALTH		-4.18		539.65		514589
+INDIGOPNTS		-0.21		1013.4		64254
+PGHH		-0.03		13600.0		2302
