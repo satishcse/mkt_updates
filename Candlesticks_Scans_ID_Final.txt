@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		-1.47		379.8		1867981
+WIPRO		-1.45		379.85		1929306
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JKLAKSHMI		-3.69		663.05		176504
-BALKRISIND		-0.15		1971.15		90530
+SUNDRMFAST		-1.11		967.0		229249
+BALKRISIND		-0.15		1971.2		90886
