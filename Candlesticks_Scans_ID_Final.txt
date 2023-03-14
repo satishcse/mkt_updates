@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		-0.24		2279.05		4804712
-ULTRACEMCO		-1.06		7000.65		127381
+PNBHOUSING		-7.31		542.35		1325635
+PHOENIXLTD		-2.73		1288.85		43688
+PGHL		-3.83		4888.0		8444
+TCIEXP		-1.75		1514.95		8279
