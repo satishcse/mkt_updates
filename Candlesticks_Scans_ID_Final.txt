@@ -1,10 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+WIPRO		-1.48		379.75		1983102
+HINDUNILVR		-0.05		2453.9		496578
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PRIVISCL		-0.57		1079.55		106882
-BALKRISIND		-0.01		1974.0		104266
+PRIVISCL		-0.71		1078.0		108302
+BALKRISIND		-0.02		1973.9		104657
+TEAMLEASE		-2.95		2429.8		5774
