@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBILIFE		0.86		1081.75		439819
+SBILIFE		0.83		1081.4		440240
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+OFSS		-0.63		3163.0		26993
+CEATLTD		-3.0		1385.85		14449
