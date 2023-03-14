@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+TATAMOTORS		-0.17		421.7		2289899
+NTPC		0.61		180.8		1888387
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-JBMA		-0.88		605.9		123010
-CAMPUS		-0.2		390.05		67069
-DIXON		-0.93		2858.8		47392
-HGS		-0.96		1096.95		17941
-LINDEINDIA		-1.41		3825.0		8710
+
