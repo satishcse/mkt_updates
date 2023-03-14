@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-SUNPHARMA		0.19		955.9		281582
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HLEGLAS		-1.36		508.5		6100
+EMAMILTD		-1.76		378.7		28237
+MOTILALOFS		-1.24		576.5		19146
