@@ -10,20 +10,27 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-MCDOWELL-N		1.42		765.15		923480
-TITAN		0.44		2342.15		798371
+MCDOWELL-N		1.44		765.25		924079
+TITAN		0.25		2337.9		807054
 
 Intraday_Volume_Shocker								 
 ----------------------- 
 nsecode		per_chg		close		volume
-IGL		-2.26		426.0		695316
-MGL		-0.23		988.05		364769
-ESCORTS		-1.54		1896.3		81893
+HDFCBANK		-0.32		1563.55		6318706
+HINDALCO		-0.12		401.75		2380498
+IGL		-2.4		425.4		708137
+RAIN		-0.89		156.1		598411
+MGL		-0.38		986.6		374281
+INTELLECT		-2.73		411.55		341189
+SRF		0.11		2284.0		339284
+GUJGASLTD		-0.24		506.4		239821
+ESCORTS		-1.47		1897.7		82347
+NIFTY		-0.59		17052.85		0
 
 High_Relative_Volume_Spurt_5m								 
 ----------------------------- 
 nsecode		per_chg		close		volume
-RAIN		-0.32		157		522142
+RAIN		-0.54		156.65		551855
 
 Open_High								 
 --------- 
