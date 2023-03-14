@@ -10,12 +10,14 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ----------------- 
 nsecode,per_chg,close,volume
-MCDOWELL-N,1.14,763,1348511
-TITAN,0.77,2350,1043654
+MCDOWELL-N,1.16,763.15,1350123
+TITAN,0.78,2350.25,1044882
 
 Intraday_Volume_Shocker,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+SHRIRAMFIN,-2.07,1232.0,313007
+NIFTY,-0.42,17081.45,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ----------------------------- 
@@ -43,6 +45,6 @@ COFORGE,-5.16,3873.95,495018
 Open_Low,,,, 
 -------- 
 nsecode,per_chg,close,volume
-M&MFIN,2.08,243.45,2119150
-BHARTIARTL,0.63,770.15,1772603
-NTPC,-0.36,179.05,4958480
+M&MFIN,1.82,242.85,2132285
+BHARTIARTL,0.52,769.25,1805078
+NTPC,-0.5,178.8,5005430
