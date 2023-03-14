@@ -1,10 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-SUNPHARMA		0.79		961.65		1327438
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SOLARINDS		-1.4		3737.9		21507
+BALRAMCHIN		-2.77		390.0		1469727
+MGL		-0.71		983.35		626735
+CANFINHOME		-1.88		529.85		499352
+CERA		-2.15		6042.4		16181
+TEAMLEASE		-4.64		2387.6		9468
