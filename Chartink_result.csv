@@ -10,19 +10,18 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ----------------- 
 nsecode,per_chg,close,volume
-MCDOWELL-N,1.17,763.2,1450347
-TITAN,0.77,2350.05,1071483
+MCDOWELL-N,1.21,763.5,1451300
+TITAN,0.84,2351.6,1073998
 
 Intraday_Volume_Shocker,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+AUROPHARMA,-0.1,448.2,1310426
+DEEPAKNTR,0.28,1813.75,171414
 
 High_Relative_Volume_Spurt_5m,,,, 
 ----------------------------- 
-nsecode,per_chg,close,volume
-BEL,-0.32,92.05,9174194
-TATAMOTORS,-1.72,415.15,6305403
-TATACHEM,0.66,971.5,415854
+
 
 Open_High,,,, 
 --------- 
@@ -46,5 +45,5 @@ COFORGE,-5.23,3871.05,533799
 Open_Low,,,, 
 -------- 
 nsecode,per_chg,close,volume
-M&MFIN,1.61,242.35,2222780
-BHARTIARTL,0.25,767.2,1924331
+M&MFIN,1.55,242.2,2227157
+BHARTIARTL,0.28,767.45,1934151
