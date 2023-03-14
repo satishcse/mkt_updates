@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.17		421.7		2289899
-NTPC		0.61		180.8		1888387
+TATAMOTORS		-0.09		422.0		2318812
+NTPC		0.58		180.75		1925419
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+SKFINDIA		-0.57		4400.9		7685
+GARFIBRES		-0.77		2879.8		399
