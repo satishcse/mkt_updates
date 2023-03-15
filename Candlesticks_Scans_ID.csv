@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-POWERGRID,1,227.45,2850269
+POWERGRID,0.98,227.4,2912568
+COALINDIA,0.36,221.85,838184
+DIVISLAB,1.43,2796.6,91702
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+MTARTECH,0.26,1650.5,30028
+GALAXYSURF,-0.54,2382.95,3055
