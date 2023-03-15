@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-NTPC		0.87		179.45		37273
-TECHM		0.86		1124.9		5085
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+GREENPANEL		-1.09		280.3		197559
+GRINFRA		2.3		1018.9		3461
+PGHH		-0.1		13587.4		287
+SUNDARMFIN		0.03		2250.0		116
