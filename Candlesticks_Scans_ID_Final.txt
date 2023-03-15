@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ASIANPAINT		3.2		2833.35		679491
+ASIANPAINT		3.11		2830.9		696546
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ASTRAL		-1.88		1364		152465
-ROSSARI		-0.99		570		23263
+DEEPAKNTR		-0.24		1826.95		77777
+MAPMYINDIA		-0.41		1115.85		10016
+SFL		0.03		1117.0		1368
