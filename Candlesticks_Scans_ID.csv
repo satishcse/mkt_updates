@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-TECHM,0.53,1121.25,1048043
+TECHM,0.43,1120.05,1060318
+HCLTECH,0.11,1085.25,536743
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+CAPLIPOINT,0.15,637.95,14215
