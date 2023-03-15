@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		0.37		178.55		3158237
-BAJFINANCE		0.87		5781.25		412261
+CIPLA		0.46		876.1		840160
+BAJFINANCE		0.84		5779.75		416398
+BAJAJ-AUTO		-0.08		3749.8		201505
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MTARTECH		-0.1		1644.45		43989
-KIMS		-0.48		1369.15		4459
-GLAXO		-0.58		1284.65		4316
+KIMS		-0.48		1369.15		4451
