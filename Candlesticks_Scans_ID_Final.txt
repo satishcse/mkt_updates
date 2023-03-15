@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.14		417.25		3840321
-INFY		0.38		1425.45		3116537
-WIPRO		-0.26		378.45		1768884
+TATAMOTORS		0.13		417.2		3853925
+INFY		0.43		1426.15		3128620
+WIPRO		-0.29		378.35		1779934
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-LAXMIMACH		-1.62		9954.25		4507
+LAXMIMACH		-1.66		9949.95		4597
