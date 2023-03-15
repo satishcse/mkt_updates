@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+SUNPHARMA		-0.06		956.6		194446
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.95		678.45		99184
-ROSSARI		1.77		585.9		2772
-HATSUN		0.48		850.35		1719
+TIINDIA		-0.98		2679.7		12107
