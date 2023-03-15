@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ICICIBANK		1.02		838.85		1697738
-WIPRO		0.24		380.35		825770
+WIPRO		0.25		380.4		840997
+COALINDIA		0.41		221.95		638224
+TCS		0.91		3244.35		388576
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-ATUL		0.02		6822		3981
+
