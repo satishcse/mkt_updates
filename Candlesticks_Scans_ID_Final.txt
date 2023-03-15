@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-CIPLA		0.75		878.6		715078
-HCLTECH		-0.37		1080.0		675143
-APOLLOHOSP		1.22		4351.9		174440
-BRITANNIA		-0.86		4256.1		123363
+TATASTEEL		2.11		108.65		20992302
+CIPLA		0.73		878.4		780198
+HCLTECH		-0.47		1079.0		682561
+APOLLOHOSP		1.15		4349.15		175355
+BRITANNIA		-0.93		4253.0		123880
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
