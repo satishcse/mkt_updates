@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-CIPLA		0.46		876.1		840160
-BAJFINANCE		0.84		5779.75		416398
-BAJAJ-AUTO		-0.08		3749.8		201505
+WIPRO		-0.63		377.05		2229857
+CIPLA		0.49		876.35		842746
+BAJFINANCE		0.96		5786.65		419100
+BAJAJ-AUTO		-0.14		3747.5		202665
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-KIMS		-0.48		1369.15		4451
+KIMS		-0.48		1369.15		4882
+MRF		0.16		82624.95		2509
