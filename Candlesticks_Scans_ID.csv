@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-CIPLA,0.42,875.7,853463
-BAJAJ-AUTO,-0.13,3748.0,203909
+CIPLA,0.41,875.65,857205
+BAJAJ-AUTO,-0.08,3749.95,204850
+APOLLOHOSP,1.38,4358.9,190084
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
-
+nsecode,per_chg,close,volume
+LUXIND,-0.28,1279.95,11500
