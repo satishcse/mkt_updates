@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BAJFINANCE		0.91		5783.75		406224
+HINDUNILVR		-1.27		2411.35		985079
+BAJFINANCE		0.89		5782.75		408297
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PERSISTENT		-0.14		4526.65		138524
-AFFLE		-1.32		951.35		103048
-FINEORG		0.91		4283.9		17432
+HDFC		-0.41		2546.95		895658
+SHRIRAMFIN		-0.16		1237.0		172028
+PERSISTENT		-0.17		4525.5		140376
+MTARTECH		-0.14		1643.9		43835
