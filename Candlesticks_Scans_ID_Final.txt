@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		1.83		108.35		24041511
-NTPC		0.59		178.95		3421241
-TCS		0.11		3218.5		1111651
-BAJAJ-AUTO		-0.08		3750.0		204944
-ULTRACEMCO		1.08		7140.35		131156
+WIPRO		-0.62		377.1		2330439
+DIVISLAB		0.73		2777.05		169191
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+KIMS		-0.65		1366.85		4659
