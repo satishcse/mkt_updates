@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBIN		0.58		528.45		3960431
-UPL		1.39		707.35		707931
+SBIN		0.53		528.2		3992997
+UPL		1.36		707.15		710032
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CUMMINSIND		0.12		1684.8		443919
-BAJAJ-AUTO		0.05		3754.95		98021
-MTARTECH		0.23		1650.0		34669
+CUMMINSIND		0.12		1684.95		448176
+MTARTECH		0.29		1650.95		35130
