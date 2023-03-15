@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-DIVISLAB		1.45		2797		92016
+ULTRACEMCO		1.2		7149		59916
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-COLPAL		-1.02		1485.15		104820
-CRISIL		-1.54		3199.95		7448
+SHRIRAMFIN		0.09		1240.1		110492
+THYROCARE		-0.83		468.25		15605
