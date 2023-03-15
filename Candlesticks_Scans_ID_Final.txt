@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-SUNPHARMA		-0.06		956.6		194446
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TIINDIA		-0.98		2679.7		12107
+RAMCOCEM		0.49		715.0		32589
+CARBORUNIV		0.78		980.0		6276
+KAJARIACER		-0.54		1064.8		4169
+AIAENG		-0.61		2757.45		3160
