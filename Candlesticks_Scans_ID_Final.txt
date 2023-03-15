@@ -1,10 +1,20 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-ITC		-0.12		379.25		7806942
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-GARFIBRES		-0.75		2857.2		15533
+RBLBANK		-2.84		141.85		11094804
+INDUSINDBK		-1.97		1043.05		4053880
+NYKAA		-2.65		136.1		3466291
+POONAWALLA		-1.29		279.05		849343
+TRENT		-0.96		1324.95		306244
+SUNTV		-1.39		424.6		255368
+MUTHOOTFIN		-0.8		916.75		235673
+CAMPUS		0.13		391.7		170657
+RAYMOND		-2.2		1250.4		164880
+TANLA		-0.85		603.65		152180
+TATAINVEST		1.05		1980.05		11438
+HONAUT		0.23		34853.35		3153
