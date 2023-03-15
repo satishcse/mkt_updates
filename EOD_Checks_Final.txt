@@ -2,11 +2,11 @@
 Volume_Shocker_Daily								 
 -------------------- 
 nsecode		per_chg		close		volume
-KPITTECH		8.84		847.3		5697031
-VARROC		6.36		272.45		1632680
-ALOKINDS		5.37		12.75		26273898
-SPARC		-5.47		169.35		1711163
-SWANENERGY		-12.07		245.6		4875339
+KPITTECH		8.84		847.3		5697022
+VARROC		6.36		272.45		1649378
+ALOKINDS		5.37		12.75		26356015
+SPARC		-5.47		169.35		1727296
+SWANENERGY		-12.07		245.6		4896481
 
 BN_NR7								 
 ------ 
@@ -38,8 +38,8 @@ BALRAMCHIN		-0.56		388.6		940800
 OBV_RSI_Buy_Daily								 
 ----------------- 
 nsecode		per_chg		close		volume
-IEX		4.23		151.45		24742947
-TORNTPOWER		1.92		538.05		512886
+IEX		4.23		151.45		24769344
+TORNTPOWER		1.92		538.05		516106
 
 Strong_Stocks_Daily								 
 ------------------- 
