@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		0.57		381.85		1616194
+ITC		0.58		381.9		1669939
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DMART		-0.53		3333.3		39497
+JBMA		0.66		608.3		255872
+EICHERMOT		0.31		3026.35		60636
+MAPMYINDIA		0.01		1120.5		6066
