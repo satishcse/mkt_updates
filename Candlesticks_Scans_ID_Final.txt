@@ -2,14 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		2.3		108.85		30849106
-TITAN		1.84		2398.85		1366615
+TATASTEEL		2.26		108.8		31274695
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JBMA		-1.52		595.1		571029
-BAJFINANCE		0.6		5766.0		546844
-SHRIRAMFIN		-0.38		1234.3		266878
-MAPMYINDIA		-1.64		1102.0		28540
-BAYERCROP		0.56		4078.9		7440
+BOSCHLTD		0.52		18095.75		9316
