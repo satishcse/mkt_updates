@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ULTRACEMCO		1.2		7149		59916
+INFY		0.38		1425.35		2232295
+NTPC		0.59		178.95		1738304
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		0.09		1240.1		110492
-THYROCARE		-0.83		468.25		15605
+ASTRAL		-2.09		1361.1		180488
