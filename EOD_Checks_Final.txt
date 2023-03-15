@@ -38,8 +38,8 @@ BALRAMCHIN		-0.56		388.6		940795
 OBV_RSI_Buy_Daily								 
 ----------------- 
 nsecode		per_chg		close		volume
-IEX		4.23		151.45		24742947
-TORNTPOWER		1.92		538.05		512886
+IEX		4.23		151.45		24769344
+TORNTPOWER		1.92		538.05		516106
 
 Strong_Stocks_Daily								 
 ------------------- 
