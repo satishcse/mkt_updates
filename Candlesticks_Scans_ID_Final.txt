@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-CIPLA		0.41		875.65		857205
-BAJAJ-AUTO		-0.08		3749.95		204850
-APOLLOHOSP		1.38		4358.9		190084
+TATASTEEL		1.83		108.35		24041511
+NTPC		0.59		178.95		3421241
+TCS		0.11		3218.5		1111651
+BAJAJ-AUTO		-0.08		3750.0		204944
+ULTRACEMCO		1.08		7140.35		131156
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-LUXIND		-0.28		1279.95		11500
+
