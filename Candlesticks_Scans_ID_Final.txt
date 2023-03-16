@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.95		105.45		68080776
+ADANIENT		0.26		1843.8		6509495
+DRREDDY		-0.24		4383.75		276928
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+AARTIDRUGS		-1.41		322.65		83963
+ECLERX		-1.7		1388.2		30441
+3MINDIA		-1.66		22982.45		2827
