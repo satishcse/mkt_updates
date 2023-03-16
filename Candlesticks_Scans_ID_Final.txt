@@ -1,18 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TATAMOTORS		-0.57		409		1206877
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-VARROC		-1.98		267.05		55236
-NH		0.02		801.95		25498
-ROUTE		-1.16		1268.85		23641
-DALBHARAT		0.14		1788.05		22094
-POLYCAB		-0.58		2911.2		18382
-JKLAKSHMI		0.35		664.65		16201
-COROMANDEL		-0.33		869.85		10111
-ABBOTINDIA		0.08		20383.6		599
-ASTRAZEN		-0.32		3250.0		254
+VOLTAS		-0.83		866.55		102907
+SYMPHONY		-2.0		1092.7		8195
+MAPMYINDIA		-1.13		1084.1		4286
+SOLARINDS		-1.35		3750.0		3858
+SANOFI		-0.27		5732.95		1096
