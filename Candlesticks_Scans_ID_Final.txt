@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.31		2466.95		438725
+HINDUNILVR		0.27		2466		440434
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-VINATIORGA		-0.21		1768.15		23101
+ANGELONE		1.02		1055.9		136770
 BAYERCROP		-0.13		4026.2		2082
