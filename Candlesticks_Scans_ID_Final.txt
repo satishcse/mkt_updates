@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-2.23		372.95		30289341
-DRREDDY		0.48		4404.7		392827
+ITC		-2.22		373		30497852
+DRREDDY		0.48		4405		393388
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+HDFCAMC		0.06		1683.6		509188
+FLUOROCHEM		-1.32		3020.0		70931
