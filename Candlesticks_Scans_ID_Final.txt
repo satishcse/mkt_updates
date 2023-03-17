@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.28		179.1		17051558
-POWERGRID		0.47		233.25		9802368
-NESTLEIND		1.94		18808.1		77796
+NTPC		-0.17		179.3		17209277
+SBIN		-0.4		522.4		6818994
+NESTLEIND		1.96		18812.5		78022
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BALAMINES		0.64		2016.55		22295
-ECLERX		-1.35		1369.5		11955
+TIMKEN		-1.45		2804.85		15747
