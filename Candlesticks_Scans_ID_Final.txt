@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-DIVISLAB		0.52		2816.2		30018
+DIVISLAB		0.51		2816		30432
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AWL		1.28		426.05		1046923
-FLUOROCHEM		-0.03		3059.45		19669
+AWL		1.27		426.0		1056578
+INDIGOPNTS		-0.28		1051.95		10443
