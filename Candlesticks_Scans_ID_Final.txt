@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.4		2469.2		431351
+HINDUNILVR		0.4		2469.15		432212
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AEGISCHEM		-0.12		374.3		84049
-JKCEMENT		-0.41		2773.55		11589
+JKCEMENT		-0.41		2773.55		11592
+BOSCHLTD		0.13		18141.8		5408
