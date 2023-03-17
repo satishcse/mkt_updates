@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-AXISBANK		-0.52		826.25		2422868
-WIPRO		0.78		375.75		1334900
+AXISBANK		-0.55		826.0		2432764
+WIPRO		0.72		375.55		1340203
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TIMKEN		-0.37		2835.8		11844
+TIMKEN		-0.37		2835.7		11893
