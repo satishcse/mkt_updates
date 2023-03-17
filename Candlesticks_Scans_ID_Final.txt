@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-AETHER		0.84		869.95		9292
+ATUL		0.28		6964.85		20699
+AETHER		0.84		869.95		9396
