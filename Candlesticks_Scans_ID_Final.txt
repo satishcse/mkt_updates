@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-SBILIFE		2.07		1084.6		121522
+M&M		0.75		1175.8		355348
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PGHL		-0.5		4827.35		1176
-PFIZER		-0.22		3592.95		1125
+LODHA		-0.47		852.05		93427
+PRIVISCL		0.71		1086.55		9080
+PGHL		-0.37		4833.5		1230
+PFIZER		-0.21		3593.2		1134
