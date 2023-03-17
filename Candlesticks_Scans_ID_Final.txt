@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.99		1007.75		2973172
-WIPRO		0.39		374.3		1777814
-NESTLEIND		1.91		18802.45		78400
+TATASTEEL		0.14		105.2		21517904
+INDUSINDBK		-0.82		1009.45		2988219
+WIPRO		0.36		374.2		1787498
+NESTLEIND		1.91		18802.2		78532
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+ATUL		0.2		6959		21075
