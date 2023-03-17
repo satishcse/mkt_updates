@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BAJAJHLDNG		0.27		6130		1952
+HAL		2.44		2789.25		1202360
+BAJAJHLDNG		0.27		6130.0		1967
