@@ -5,11 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-LODHA		1.94		872.7		30777
-HAPPSTMNDS		1.82		827.0		21939
-INDIGOPNTS		0.29		1057.95		6610
-FINEORG		0.43		4219.55		4238
-VINATIORGA		0.34		1777.8		1966
-AMBER		0.85		1941.65		1574
-TCIEXP		0.0		1528.0		419
+
