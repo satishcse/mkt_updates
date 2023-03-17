@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+HDFCBANK		1.57		1576.25		10371917
+AXISBANK		0.92		838.2		6917457
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-GRINFRA		-1.05		1018.75		42021
-POLYMED		-0.72		961.55		36392
+
