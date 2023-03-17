@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.36		178.95		16221419
-POWERGRID		0.54		233.4		9272014
+NTPC		-0.47		178.75		16406142
+POWERGRID		0.56		233.45		9373056
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-
+nsecode		per_chg		close		volume
+TIMKEN		-1.52		2803.05		15233
