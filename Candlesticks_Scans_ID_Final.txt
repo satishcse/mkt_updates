@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-WIPRO		0.39		374.3		1855774
-NESTLEIND		1.9		18801.9		79217
+ASIANPAINT		-0.59		2876.1		1205135
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HAVELLS		-0.16		1183.15		233407
 KAJARIACER		-0.51		1069.4		11350
-TEAMLEASE		-1.29		2398.15		3378
