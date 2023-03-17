@@ -1,13 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-BRITANNIA		0.28		4323.25		44024
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		0.34		2233.4		1698420
-AWL		1.38		426.45		1020980
+RELIANCE		0.34		2233.4		1707949
+AWL		1.32		426.2		1027091
 CERA		-0.71		5902.15		4297
-BBTC		0.19		866.05		2263
