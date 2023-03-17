@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.42		178.85		19088801
+NTPC		-0.45		178.8		19170286
+ASIANPAINT		-0.56		2877.1		1240028
+HEROMOTOCO		-1.05		2345.95		326914
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
