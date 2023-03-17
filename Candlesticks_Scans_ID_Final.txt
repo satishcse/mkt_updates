@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-BIRLACORPN		0.08		863.05		14577
-SCHAEFFLER		0.62		2817.6		10905
-RATNAMANI		-1.04		2065.45		6900
+SCHAEFFLER		0.57		2816.1		10927
