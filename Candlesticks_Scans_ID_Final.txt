@@ -1,12 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-BAJAJFINSV		0.72		1302.9		1282509
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-JSWENERGY		-1.37		251.15		1389392
-AJANTPHARM		-2.37		1168.25		85493
-BAJAJELEC		-0.13		1075.6		41456
+JSWENERGY		-1.43		251.0		1400901
+TCI		1.62		632.25		200130
+AJANTPHARM		-2.22		1169.95		90769
+BAJAJELEC		-0.02		1076.7		42371
+ZFCVINDIA		0.0		10192.5		4614
