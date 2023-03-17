@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-ONGC		0.66		153.2		13754966
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-HDFCAMC		-0.08		1681.35		712536
-KAJARIACER		-1.33		1060.6		39110
-MASTEK		-0.62		1645.05		33714
-BAJAJHLDNG		-1.69		6010.0		27112
+GRINFRA		-1.05		1018.75		42021
+POLYMED		-0.72		961.55		36392
