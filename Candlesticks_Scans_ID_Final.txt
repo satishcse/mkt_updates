@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.39		2469		424081
+HINDUNILVR		0.43		2470		428548
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-SHREECEM		-0.54		25335		13141
+ANGELONE		0.99		1055.65		131954
+BOSCHLTD		0.11		18138.75		5393
