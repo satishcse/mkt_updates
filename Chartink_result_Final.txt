@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ----------------- 
 nsecode		per_chg		close		volume
-BPCL		1.12		355.35		2345791
+BPCL		1.07		355.15		2351373
 
 BN_1Hr_OBV_DIV								 
 -------------- 
@@ -11,9 +11,9 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-MANAPPURAM		1.2		113.95		3957743
-INDIAMART		-0.51		4868.55		9254
-SUNTV		-1.27		426.15		51431
+MANAPPURAM		1.2		113.95		3964782
+INDIAMART		-0.54		4867.3		9263
+SUNTV		-1.3		426.05		51569
 
 Intraday_Volume_Shocker								 
 ----------------------- 
@@ -26,7 +26,7 @@ BANKNIFTY		-1.33		39073.1		0
 High_Relative_Volume_Spurt_5m								 
 ----------------------------- 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-1.47		7182.95		104069
+ULTRACEMCO		-1.43		7185.65		104605
 
 Open_High								 
 --------- 
@@ -83,18 +83,18 @@ NATIONALUM		-4.51		79.35		9768474
 Open_Low								 
 -------- 
 nsecode		per_chg		close		volume
-DRREDDY		0.7		4467.35		229688
-COLPAL		0.35		1493.0		88784
-ABBOTINDIA		-0.14		20900.0		1746
-DIXON		-0.32		2877.7		44970
-ICICIGI		-0.56		1065.05		46818
-SIEMENS		-0.59		3271.0		43796
-LTIM		-0.72		4640.1		86413
-IGL		-0.82		428.65		95768
-POWERGRID		-1.02		227.35		1485231
-MCDOWELL-N		-1.19		761.5		145383
-GRASIM		-1.31		1564.5		148377
-PVR		-1.5		1551.8		164721
-TATACONSUM		-1.6		694.9		235106
-TVSMOTOR		-2.01		1025.85		121079
-NAUKRI		-2.56		3401.0		71425
+DRREDDY		0.64		4464.65		230381
+COLPAL		0.35		1493.0		88892
+ABBOTINDIA		-0.14		20900.0		1757
+DIXON		-0.38		2875.75		45180
+ICICIGI		-0.58		1064.85		47084
+SIEMENS		-0.61		3270.35		44350
+LTIM		-0.72		4640.2		88773
+IGL		-0.82		428.65		96307
+POWERGRID		-0.94		227.55		1491300
+MCDOWELL-N		-1.14		761.85		146857
+GRASIM		-1.29		1564.85		150129
+PVR		-1.34		1554.3		166927
+TATACONSUM		-1.47		695.85		236348
+TVSMOTOR		-2.0		1025.95		121400
+NAUKRI		-2.51		3402.75		71513
