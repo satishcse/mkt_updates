@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 --------------------- 
 nsecode,per_chg,close,volume
-NTPC,-0.06,176.85,1116303
-GRASIM,-0.37,1579.35,48210
+NTPC,-0.06,176.85,1121738
+POWERGRID,-0.72,228.05,955284
+GRASIM,-0.34,1579.8,49806
 
 Bullish_Hammer_15m_N500,,,, 
 ----------------------- 
 nsecode,per_chg,close,volume
-WESTLIFE,-1.53,677.2,7591
-PFIZER,-0.47,3543.0,988
-ZFCVINDIA,-0.76,10100.95,228
+BIOCON,0.12,202.55,4815671
+KEI,-1.17,1600.95,40478
+ZFCVINDIA,-0.72,10104.9,258
