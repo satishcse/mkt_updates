@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ----------------- 
 nsecode		per_chg		close		volume
-BPCL		1.02		355		1294540
+BPCL		1.28		355.9		1375080
 
 BN_1Hr_OBV_DIV								 
 -------------- 
@@ -11,15 +11,15 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-MANAPPURAM		2.09		114.95		2411847
-INDIAMART		-0.02		4892.45		6890
-SUNTV		-1.1		426.9		33661
-PEL		-2.25		673.35		221832
+MANAPPURAM		2.13		115.0		2552974
+INDIAMART		-0.01		4893.05		6996
+SUNTV		-0.96		427.5		35763
+PEL		-2.19		673.75		227155
 
 Intraday_Volume_Shocker								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DRREDDY		0.93		4477.35		148341
+DRREDDY		0.74		4469.15		154184
 
 High_Relative_Volume_Spurt_5m								 
 ----------------------------- 
