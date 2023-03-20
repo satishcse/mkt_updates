@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.97		410.75		10074877
-ONGC		-0.56		152.3		8749329
-KOTAKBANK		0.39		1699.65		4463982
+TATAMOTORS		-1.97		410.75		10075723
+ONGC		-0.56		152.3		8928487
+KOTAKBANK		0.39		1699.65		4464212
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ZYDUSWELL		0.21		1475.65		21874
-PGHH		-1.47		13569.55		2835
+ZYDUSWELL		0.21		1475.65		19609
+PGHH		-1.47		13569.55		2666
