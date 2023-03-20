@@ -1,11 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+NTPC		-0.06		176.85		1116303
+GRASIM		-0.37		1579.35		48210
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.98		7218.8		41024
-POLYCAB		-0.46		2871.0		20169
-PFIZER		-0.39		3545.95		986
+WESTLIFE		-1.53		677.2		7591
+PFIZER		-0.47		3543.0		988
+ZFCVINDIA		-0.76		10100.95		228
