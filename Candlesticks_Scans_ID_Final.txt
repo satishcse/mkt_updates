@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-0.31		374.4		1027981
+ITC		-0.32		374.35		1040424
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PNBHOUSING		-2.84		493.9		245320
-GUJGASLTD		-0.52		499.6		84205
-ASTRAL		-2.43		1304.95		79363
-HEG		-0.77		958.5		19880
-VINATIORGA		-2.71		1714.0		12731
-CAMS		-0.18		2155.65		6608
+PNBHOUSING		-2.42		496.05		250943
+MPHASIS		-2.92		1831.4		122619
+HDFCAMC		-0.68		1666.8		78254
+HEG		-0.77		958.5		19881
