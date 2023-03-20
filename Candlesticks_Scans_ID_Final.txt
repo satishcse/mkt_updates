@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-UPL		-1.59		704.25		251214
+UPL		-1.57		704.45		253999
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
 LODHA		-3.63		860.0		59175
-SANOFI		-0.44		5713.65		3091
+SANOFI		-0.44		5713.65		3150
 BAJAJELEC		-1.11		1064.75		2808
