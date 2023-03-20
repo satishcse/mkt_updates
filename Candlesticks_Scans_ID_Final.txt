@@ -2,16 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-ITC		-0.31		374.4		968720
+ITC		-0.29		374.45		1002525
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CHOLAFIN		-1.74		750.4		257863
-MPHASIS		-3.06		1828.7		116421
-HDFCAMC		-0.7		1666.4		76401
-DALBHARAT		-1.29		1784.9		21677
-VINATIORGA		-2.72		1713.75		12160
-CAMS		-0.18		2155.6		6276
-THYROCARE		-0.75		456.55		5120
-GOCOLORS		-1.15		938.5		3221
+CHOLAFIN		-1.73		750.5		259735
+VOLTAS		-1.71		865.45		227116
+MPHASIS		-3.09		1828.15		117058
+ASTRAL		-2.38		1305.7		77064
+LALPATHLAB		-2.61		1780.55		59262
+HONAUT		-1.08		34640.75		715
