@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-NTPC		-0.31		176.4		1166807
-POWERGRID		-0.94		227.55		1049831
+NTPC		-0.34		176.35		1173490
+POWERGRID		-1.0		227.4		1086241
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-KEI		-1.15		1601.25		42231
-FLUOROCHEM		-2.56		2958.1		22071
-THERMAX		-2.24		2258.95		9270
+KEI		-1.15		1601.35		42549
+FLUOROCHEM		-2.37		2964.0		23100
+MTARTECH		-0.56		1626.3		18478
+THERMAX		-2.1		2262.25		9406

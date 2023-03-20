@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ----------------- 
 nsecode		per_chg		close		volume
-BPCL		1.22		355.7		1807170
+BPCL		1.52		356.75		1842412
 
 BN_1Hr_OBV_DIV								 
 -------------- 
@@ -11,22 +11,35 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ----------------- 
 nsecode		per_chg		close		volume
-MANAPPURAM		2.26		115.15		3001847
-INDIAMART		-0.28		4880.0		7412
-SUNTV		-1.02		427.25		39160
-PEL		-2.36		672.6		281224
+MANAPPURAM		2.09		114.95		3087647
+INDIAMART		-0.19		4884.4		7525
+SUNTV		-1.04		427.15		39249
+PEL		-2.45		671.95		288127
 
 Intraday_Volume_Shocker								 
 ----------------------- 
 nsecode		per_chg		close		volume
-RELIANCE		-1.4		2191.9		2505186
-GRASIM		-0.74		1573.5		81963
-BANKNIFTY		-1.1		39162.2		0
-NIFTY		-1.05		16919.85		0
+MOTHERSON		-3.76		65.25		5455248
+RELIANCE		-1.39		2192.15		2542879
+TATAMOTORS		-2.23		409.65		2049678
+L&TFH		-1.63		84.7		656999
+CANFINHOME		-2.18		518.6		364149
+MUTHOOTFIN		2.02		947.35		340116
+VOLTAS		-1.54		866.95		191813
+APOLLOHOSP		-3.08		4212.6		152276
+CUMMINSIND		-1.65		1651.5		87006
+GRASIM		-0.77		1573.0		85591
+ASTRAL		-2.24		1307.55		57720
+BALKRISIND		-0.13		1960.05		16311
+ATUL		-1.0		6917.5		3013
+BANKNIFTY		-1.12		39155.6		0
+NIFTY		-1.09		16913.55		0
 
 High_Relative_Volume_Spurt_5m								 
 ----------------------------- 
-
+nsecode		per_chg		close		volume
+RELIANCE		-1.39		2192.15		2542879
+VOLTAS		-1.54		866.95		191813
 
 Open_High								 
 --------- 
