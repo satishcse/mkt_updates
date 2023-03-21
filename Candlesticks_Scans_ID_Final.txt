@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		0.05		217.15		3314704
-BAJAJFINSV		1.89		1269.0		2165814
-BAJFINANCE		2.94		5713.9		1018764
+BAJAJFINSV		1.86		1268.55		2169280
+KOTAKBANK		0.6		1709.85		1687760
+BAJFINANCE		2.95		5714.6		1021611
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
