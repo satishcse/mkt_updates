@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCLIFE		3.77		482.8		4270290
+HDFCLIFE		3.75		482.7		4309185
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-MPHASIS		-1.72		1792.0		586359
-MARUTI		0.13		8229.95		279811
-CHEMPLASTS		-1.14		354.85		180626
-SOBHA		-2.0		519.5		140733
+TCS		-1.14		3107.55		1781562
+ASIANPAINT		-0.58		2838.6		688359
+DRREDDY		-0.49		4417.75		392758
+CHEMPLASTS		-1.14		354.85		181577
+SOBHA		-2.19		518.5		142156
+SUPREMEIND		-0.59		2573.95		34603
