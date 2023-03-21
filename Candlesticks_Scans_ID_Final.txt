@@ -1,23 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+COALINDIA		-0.02		217		1433609
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-HINDPETRO		-0.46		246.45		291518
-CHOLAFIN		0.42		749.1		73078
-LATENTVIEW		0.82		349.9		42413
-MOIL		-0.54		147.8		32071
-BERGEPAINT		-0.03		596.1		29715
-ACC		0.91		1710.95		29103
-TRIVENI		0.64		273.5		14534
-SRF		0.31		2310.55		10460
-NOCIL		0.51		207.7		9935
-HAPPSTMNDS		0.59		810.7		9887
-WHIRLPOOL		-0.69		1333.25		9649
-WESTLIFE		-0.34		685.45		8105
-BAJAJHLDNG		0.93		5989.0		2923
-ATUL		0.53		7035.1		1374
-GMMPFAUDLR		-0.05		1536.65		826
+
