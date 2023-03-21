@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCLIFE		3.75		482.7		4309185
+HDFCLIFE		3.79		482.9		4354909
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
 TCS		-1.14		3107.55		1781562
 ASIANPAINT		-0.58		2838.6		688359
-DRREDDY		-0.49		4417.75		392758
-CHEMPLASTS		-1.14		354.85		181577
-SOBHA		-2.19		518.5		142156
-SUPREMEIND		-0.59		2573.95		34603
+DRREDDY		-0.49		4417.75		396697
+CHEMPLASTS		-1.14		354.85		182148
+LODHA		-1.01		853.5		149724
+MASTEK		-1.06		1607.75		34387
+TEAMLEASE		-3.94		2277.0		26597
