@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.48		105.0		22020421
-TATAMOTORS		0.51		412.85		6225008
-HDFC		0.83		2576.0		2596406
-KOTAKBANK		0.46		1707.5		1540247
-BAJFINANCE		2.71		5701.2		944743
-DRREDDY		-0.01		4438.95		315048
+TATASTEEL		0.48		105.0		22088958
+TATAMOTORS		0.47		412.7		6238216
+HDFC		0.95		2578.95		2601091
+KOTAKBANK		0.44		1707.05		1546246
+BAJFINANCE		2.66		5698.7		947220
+DRREDDY		-0.06		4436.9		317028
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-PGHL		-1.22		4856.7		3334
+PGHL		-1.22		4856.7		3358
