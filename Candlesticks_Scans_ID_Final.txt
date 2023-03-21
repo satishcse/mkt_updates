@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-TATASTEEL		0.57		105.1		22517136
-HDFCLIFE		3.86		483.2		3593437
-KOTAKBANK		0.49		1708.0		1564079
-DRREDDY		-0.34		4424.5		321511
+TATASTEEL		0.48		105.0		22582370
+HDFCLIFE		3.79		482.9		3598868
+DRREDDY		-0.38		4422.5		322780
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-EIDPARRY		-0.35		489.7		70839
-TCIEXP		-1.3		1472.95		7348
+EIDPARRY		-0.17		490.55		71927
