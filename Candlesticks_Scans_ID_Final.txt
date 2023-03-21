@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-BAJAJFINSV		1.88		1268.8		2176401
-KOTAKBANK		0.53		1708.7		1690336
-BAJFINANCE		2.91		5712.55		1024224
+BAJAJFINSV		1.81		1267.95		2180467
+KOTAKBANK		0.54		1708.85		1694610
+BAJFINANCE		2.93		5713.55		1029168
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-DRREDDY		-0.44		4420.0		355351
-METROPOLIS		-2.33		1240.9		52075
+DRREDDY		-0.44		4420		357175
