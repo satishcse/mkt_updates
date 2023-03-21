@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-HDFCLIFE		3.84		483.1		4212785
+HDFCLIFE		3.82		483		4221692
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-METROBRAND		-1.56		767.65		220122
-SUMICHEM		-1.28		429.7		182507
-SOBHA		-2.15		518.7		138398
+METROBRAND		-1.51		768.0		221117
+MEDPLUS		0.46		758.1		173920
+SOBHA		-1.96		519.7		139092
+TEAMLEASE		-4.24		2269.95		25596
+GRINDWELL		-1.59		1785.1		22319
