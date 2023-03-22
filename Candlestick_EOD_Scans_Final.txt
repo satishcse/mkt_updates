@@ -2,7 +2,7 @@
 Hanging_Man_N100								 
 ---------------- 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.23		1575.8		7088662
+HDFCBANK		-0.23		1575.8		7088715
 
 Bullish_Hammer_Daily_N50								 
 ------------------------ 
@@ -28,7 +28,7 @@ ONGC		0.0		151.55		4329777
 DLF		0.35		368.75		4140977
 KOTAKBANK		-0.1		1705.15		3326099
 ADANIENT		-0.49		1815.4		3248149
-MFSL		2.65		646.4		3116950
+MFSL		2.65		646.4		3116775
 INDUSTOWER		-0.63		150.9		2840383
 BHARTIARTL		-0.03		756.7		2680659
 M&M		0.33		1164.1		2212620
