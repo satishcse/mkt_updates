@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-nsecode		per_chg		close		volume
-TATAMOTORS		0.67		418.9		1241434
+
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-CENTURYTEX		-1.1		638.75		19301
-LAXMIMACH		-0.98		10466.9		98
+TITAN		-0.17		2503.95		51608
+LAXMIMACH		-0.98		10466.85		99
