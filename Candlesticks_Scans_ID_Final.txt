@@ -2,17 +2,10 @@
 Tweezer_top_15m_Nifty								 
 --------------------- 
 nsecode		per_chg		close		volume
-LT		-0.33		2206.65		2455799
-TECHM		-0.01		1099.45		1720354
-EICHERMOT		-0.64		2927.7		379191
+TECHM		0.5		1105		2491
+LT		-0.03		2206		1841
+EICHERMOT		-0.09		2925		359
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
-nsecode		per_chg		close		volume
-MAZDOCK		-1.85		659.55		431814
-TANLA		-1.85		556.55		232696
-DEEPAKFERT		-1.74		560.35		222490
-AFFLE		-1.76		973.2		72113
-GODFRYPHLP		-1.93		1841.4		29807
-TATAINVEST		-0.7		1934.55		17562
-ALKYLAMINE		-0.38		2303.75		12816
+
