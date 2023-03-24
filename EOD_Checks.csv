@@ -2,10 +2,10 @@
 Volume_Shocker_Daily,,,, 
 -------------------- 
 nsecode,per_chg,close,volume
-ITI,12.04,98.2,16645377
-CYIENT,6.05,1001.2,1935292
-WOCKPHARMA,-5.79,161.05,1790440
-CAMPUS,-8.57,338.55,35487308
+ITI,12.04,98.2,16645375
+CYIENT,6.05,1001.2,1935259
+WOCKPHARMA,-5.79,161.05,1786727
+CAMPUS,-8.57,338.55,35487232
 
 BN_NR7,,,, 
 ------ 
@@ -16,8 +16,8 @@ ICICIBANK,-0.36,852.4,17295780
 BN_NCPR,,,, 
 ------- 
 nsecode,per_chg,close,volume
-KOTAKBANK,0.74,1692.15,5480637
-AUBANK,-1.71,559.9,2178614
+KOTAKBANK,0.74,1692.15,5480636
+AUBANK,-1.71,559.9,2178563
 
 NCPR_KGS,,,, 
 -------- 
@@ -46,7 +46,7 @@ MCX,-1.99,1475.25,315007
 OBV_RSI_Buy_Daily,,,, 
 ----------------- 
 nsecode,per_chg,close,volume
-AUROPHARMA,2.94,500.45,4123319
+AUROPHARMA,2.94,500.45,4123365
 
 Strong_Stocks_Daily,,,, 
 ------------------- 
