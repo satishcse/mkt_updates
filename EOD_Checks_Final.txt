@@ -10,13 +10,13 @@ CAMPUS		-8.57		338.55		35487232
 BN_NR7								 
 ------ 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.16		1560.65		15738888
-ICICIBANK		-0.36		852.4		17295780
+HDFCBANK		-0.16		1560.65		15740597
+ICICIBANK		-0.36		852.4		17295817
 
 BN_NCPR								 
 ------- 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.74		1692.15		5480636
+KOTAKBANK		0.74		1692.15		5480609
 AUBANK		-1.71		559.9		2178563
 
 NCPR_KGS								 
@@ -46,7 +46,7 @@ MCX		-1.99		1475.25		315007
 OBV_RSI_Buy_Daily								 
 ----------------- 
 nsecode		per_chg		close		volume
-AUROPHARMA		2.94		500.45		4123365
+AUROPHARMA		2.94		500.45		4123319
 
 Strong_Stocks_Daily								 
 ------------------- 
