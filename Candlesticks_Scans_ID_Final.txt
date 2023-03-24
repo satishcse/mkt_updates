@@ -1,14 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 --------------------- 
-
+nsecode		per_chg		close		volume
+WIPRO		0.77		364.3		1203446
+NTPC		-0.06		174.5		677239
+M&M		-0.72		1156.6		324048
 
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-TCS		0.8		3149.8		250507
-M&M		-0.93		1154.15		224143
-GODREJPROP		-0.58		1060.75		63826
-LALPATHLAB		-0.61		1818.15		17901
-JKCEMENT		-1.39		2798.4		16448
-SIS		-0.95		349.0		6839
+ESCORTS		-0.79		1842		28025
+SANOFI		-0.19		5670		2048
