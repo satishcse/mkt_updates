@@ -6,8 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ----------------------- 
 nsecode		per_chg		close		volume
-VEDL		1.35		274.9		5942478
-RELIANCE		-0.77		2230.6		721323
-ABB		0.21		3367.45		29501
-DMART		-0.48		3357.3		16421
-FINEORG		-1.72		4425.0		9842
+TCS		0.8		3149.8		250507
+M&M		-0.93		1154.15		224143
+GODREJPROP		-0.58		1060.75		63826
+LALPATHLAB		-0.61		1818.15		17901
+JKCEMENT		-1.39		2798.4		16448
+SIS		-0.95		349.0		6839
