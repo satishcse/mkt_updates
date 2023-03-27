@@ -21,15 +21,15 @@ TITAN,0.04,2494.4,728732
 Fundamental_Tenchnical_Swing,,,, 
 ---------------------------- 
 nsecode,per_chg,close,volume
-ITC,0.4,380.2,10817869
-TITAN,0.04,2494.4,728736
-CIGNITITEC,-4.24,732.85,180558
+ITC,0.4,380.2,10816356
+TITAN,0.04,2494.4,728732
+CIGNITITEC,-4.24,732.85,176695
 
 Zero_Debt_Momentum,,,, 
 ------------------ 
 nsecode,per_chg,close,volume
-IZMO,15.1,121.2,3467868
-TDPOWERSYS,-3.83,163.05,588839
+IZMO,15.1,121.2,3469222
+TDPOWERSYS,-3.83,163.05,588889
 
 FIPA_above_all_SMAs,,,, 
 ------------------- 
