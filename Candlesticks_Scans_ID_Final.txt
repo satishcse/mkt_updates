@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.24		3129.7		388265
+TCS		0.28		3131		389227
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPORTS		-7.13		584.25		8808634
-SUPREMEIND		-0.47		2449.4		19586
-HATSUN		-1.81		819.7		4186
+BASF		-1.22		2237.8		4365
