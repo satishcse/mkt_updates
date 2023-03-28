@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+JSWSTEEL		0.13		659.7		172276
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAELXSI		-0.59		5921.2		21331
+ELGIEQUIP		-0.66		443.35		40647
+TATAELXSI		-0.59		5921.5		21471
+ALKYLAMINE		-1.03		2202.0		7810
