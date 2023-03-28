@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		-0.29		379.1		3469873
+TCS		0.31		3131.9		378251
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MARUTI		-1.49		8155.0		147897
-CLEAN		-0.04		1283.85		42047
-SYMPHONY		-0.71		1076.45		29024
-3MINDIA		-1.98		22301.45		794
+
