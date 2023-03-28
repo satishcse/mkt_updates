@@ -1,7 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ASIANPAINT		-1.1		2773		197276
 
 Bullish_Hammer_15m_N500								 
 ======================= 
@@ -13,7 +14,7 @@ EICHERMOT		-0.45		2872.65		255011
 JSL		-5.85		274.6		208392
 PVR		-1.05		1490.75		111086
 CLEAN		0.44		1290.0		33000
-ALKYLAMINE		-1.39		2194.0		12820
+ALKYLAMINE		-1.39		2194.0		12904
 OFSS		-0.22		3212.15		11095
-BASF		-1.3		2235.9		2557
-BLUEDART		-0.98		6010.6		1864
+BASF		-1.3		2235.9		2728
+BLUEDART		-0.98		6010.6		1888
