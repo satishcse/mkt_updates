@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INFY		-0.18		1386.5		1184990
-BIOCON		-2.56		201.35		1490004
+INFY		-0.18		1386.5		1195791
+BIOCON		-2.59		201.3		1493761
 
 Intraday_Volume_Shocker								 
 ======================= 
