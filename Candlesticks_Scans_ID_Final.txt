@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-1		5537		794401
+BAJFINANCE		-1.02		5535.75		802687
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-THYROCARE		-1.16		420.5		114909
+THYROCARE		-1.16		420.5		118569
