@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.53		147.95		4298092
+ONGC		-1.46		148.05		4303205
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINFRA		-4.53		940		38236
+GRINFRA		-4.52		940.1		38283
