@@ -1,14 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		0.23		171.65		2599374
-COALINDIA		0.96		210.4		1831433
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-1.01		2132.3		354622
-MARUTI		-1.48		8155.65		143784
-TEJASNET		0.46		569.85		92862
-BIRLACORPN		-1.92		883.95		15893
+MARUTI		-1.47		8157.0		144871
+BAJAJ-AUTO		-0.46		3789.9		44887
+BIRLACORPN		-1.92		883.95		15894
