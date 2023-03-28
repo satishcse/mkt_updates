@@ -10,24 +10,27 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-GLENMARK		1.97		448.0		1479483
-INFY		-0.68		1379.5		4829461
-BIOCON		-2.13		202.25		3558386
+GLENMARK		1.96		447.95		1481586
+INFY		-0.64		1380.0		4839338
+BIOCON		-2.15		202.2		3567081
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MPHASIS		-3.18		1669.85		576273
+ABB		0.34		3336.0		155811
+WHIRLPOOL		-0.62		1321.9		72547
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-SUNTV		-2.72		398.4		1856203
+SUNTV		-2.61		398.85		1862708
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
 FEDERALBNK		-0.2		125.2		7314352
-OFSS		-0.28		3210.0		32737
+OFSS		-0.28		3210.0		32746
 AXISBANK		-0.41		829.9		9005450
 BRITANNIA		-0.42		4197.0		171892
 BHARATFORG		-0.43		753.9		498755
@@ -47,7 +50,7 @@ BANDHANBNK		-5.46		187.0		23116813
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-CHOLAFIN		2.07		730.65		1161379
-JKCEMENT		0.28		2847.25		72089
-NAUKRI		0.17		3571.75		289045
-TATACONSUM		-0.43		696.35		900100
+CHOLAFIN		2.1		730.9		1162849
+JKCEMENT		0.25		2846.25		72140
+NAUKRI		0.17		3571.5		289110
+TATACONSUM		-0.42		696.4		905504
