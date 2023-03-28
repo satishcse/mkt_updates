@@ -2,14 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-2.03		147.2		8873399
-CIPLA		0.07		889.95		3598792
-UPL		2.01		714.7		2611113
-APOLLOHOSP		0.39		4334.75		341875
-BRITANNIA		-0.35		4200.1		221876
+TATASTEEL		0.29		102.6		18594256
+ONGC		-2.06		147.15		8908082
+CIPLA		0.11		890.25		3619675
+UPL		2.01		714.7		2617092
+LT		-0.84		2135.9		1621826
+APOLLOHOSP		0.31		4331.5		343222
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FSL		-3.16		107.3		2981370
-VMART		-2.84		2144.0		40591
+MAHINDCIE		-1.23		336.95		693456
+POLYPLEX		-3.16		1124.75		208818
+FINEORG		-0.71		4174.95		31350
+IFBIND		-3.72		728.55		20085
