@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-2.2		146.95		6253536
-JSWSTEEL		-0.27		657.1		750736
-TATACONSUM		-0.44		696.25		745772
+TATASTEEL		0.44		102.75		12985716
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.72		1692.95		1832721
-ECLERX		-3.11		1299.0		26316
+ECLERX		-3.11		1299.0		26103
+GARFIBRES		-1.53		2663.2		4274
