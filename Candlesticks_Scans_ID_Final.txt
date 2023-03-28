@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.73		147.65		4813163
-BHARTIARTL		-1.64		749.25		2047807
+KOTAKBANK		-0.54		1695.95		1311029
+SUNPHARMA		-0.2		981.5		818618
+BAJAJ-AUTO		-0.23		3798.65		61170
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BLUEDART		-1.14		6001		3398
+
