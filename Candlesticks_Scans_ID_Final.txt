@@ -1,8 +1,22 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBILIFE		0.48		1104.55		4804
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PAYTM		2.32		635.8		270744
+GUJGASLTD		0.1		480.1		18369
+TECHM		-0.14		1101.5		18297
+TANLA		0.09		510.25		15598
+HEROMOTOCO		-0.13		2305.55		6965
+COFORGE		0.31		3647.1		2474
+NAVINFLUOR		-0.09		4178.45		692
+360ONE		-0.44		426.75		658
+TIINDIA		-0.26		2488.95		456
+LINDEINDIA		-0.01		3934.75		435
+NH		-0.17		743.0		382
+SKFINDIA		0.47		4080.5		121
+ATUL		0.22		6989.75		81
