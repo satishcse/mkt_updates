@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-1.23		1223.85		969734
-JSWSTEEL		-0.27		657.05		766414
+BAJAJFINSV		-1.54		1220.05		1000548
+JSWSTEEL		-0.33		656.65		767476
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TEAMLEASE		-3.98		2198.55		18248
-BAYERCROP		-0.69		3956.6		7197
+
