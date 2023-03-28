@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.96		147.3		8688862
-UPL		2.03		714.9		2580165
-HDFCLIFE		-0.7		489.5		2388096
-APOLLOHOSP		0.39		4334.85		336828
-BRITANNIA		-0.35		4200.05		215806
+ONGC		-1.93		147.35		8734845
+CIPLA		0.16		890.75		3560401
+HDFCLIFE		-0.69		489.55		2418922
+TECHM		-2.83		1071.75		2379491
+APOLLOHOSP		0.42		4336.35		338719
+BRITANNIA		-0.34		4200.45		217578
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VMART		-2.92		2142.35		39957
-GALAXYSURF		-2.78		2248.5		12665
-MRF		-1.59		82376.0		4095
+ALKYLAMINE		-3.1		2156		34257
