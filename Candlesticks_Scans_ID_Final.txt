@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.44		102.75		12985716
+ICICIBANK		0.48		852.8		16972454
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-3.11		1299.0		26103
-GARFIBRES		-1.53		2663.2		4274
+GARFIBRES		-1.56		2662.35		4326
