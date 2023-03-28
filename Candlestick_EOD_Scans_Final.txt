@@ -6,8 +6,8 @@ Hanging_Man_N100
 Bullish_Hammer_Daily_N50								 
 ======================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.95		222.2		6061256
-APOLLOHOSP		0.31		4331.6		331982
+POWERGRID		0.98		222.25		6081746
+APOLLOHOSP		0.23		4328.1		333939
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
@@ -96,9 +96,9 @@ JKCEMENT		0.07		2841.1		81443
 INDIAMART		-0.54		5009.7		71928
 PAGEIND		1.0		37868.75		53583
 BOSCHLTD		1.08		18540.0		39293
-OFSS		-0.28		3209.95		38299
+OFSS		-0.28		3209.95		38308
 NESTLEIND		0.34		18955.25		33424
 ATUL		0.29		6995.05		15876
-HONAUT		0.48		35700.0		5719
+HONAUT		0.48		35700.0		5720
 NIFTY		-0.19		16953.35		0
 BANKNIFTY		0.39		39585.5		0
