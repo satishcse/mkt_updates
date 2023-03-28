@@ -6,9 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-1.8		618.75		237321
-CLEAN		0.51		1290.85		31133
-ALKYLAMINE		-1.4		2193.9		12465
-OFSS		-0.3		3209.6		10701
-PFIZER		-0.56		3466.7		2505
-ZFCVINDIA		0.0		10000.0		988
+BAJAJ-AUTO		0.09		3811.15		29814
+PFIZER		-0.33		3474.65		2614
+ZFCVINDIA		0.0		10000.0		994

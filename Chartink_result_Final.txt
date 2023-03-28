@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INFY		-0.28		1385.05		1569973
-BIOCON		-2.64		201.2		1757828
+INFY		-0.28		1385.05		1590096
+BIOCON		-2.64		201.2		1771773
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -22,7 +22,7 @@ METROPOLIS		-1.41		1215.65		42681
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-ITC		-0.01		380.15		2719297
+ITC		0		380.2		2725736
 
 Open_High								 
 ========= 
@@ -52,11 +52,11 @@ BANDHANBNK		-5.89		186.15		9494954
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-HINDALCO		1.42		395.5		2750412
-CHOLAFIN		1.01		723.05		382217
-JKCEMENT		0.41		2850.9		23327
-NAUKRI		0.28		3575.65		127877
-HDFC		0.24		2568.15		441086
-OBEROIRLTY		0.11		825.65		80842
-APOLLOTYRE		-0.03		307.0		203739
-TATACONSUM		-0.37		696.75		362682
+HINDALCO		1.47		395.7		2755678
+CHOLAFIN		0.96		722.7		386493
+JKCEMENT		0.42		2851.0		23352
+NAUKRI		0.37		3578.9		129068
+HDFC		0.26		2568.65		443101
+OBEROIRLTY		0.11		825.65		81019
+APOLLOTYRE		-0.07		306.9		204359
+TATACONSUM		-0.42		696.4		363101
