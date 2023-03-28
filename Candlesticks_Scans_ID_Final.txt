@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.8		147.55		4796264
-BHARTIARTL		-1.63		749.3		2038170
+ONGC		-1.73		147.65		4799694
+BHARTIARTL		-1.65		749.15		2042538
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-2.32		1204.5		123574
+ECLERX		-1.7		1317.9		14893
