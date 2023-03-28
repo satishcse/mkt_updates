@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.02		658.75		300307
+JSWSTEEL		-0.05		658.5		301313
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PIIND		-1.12		2892.55		48739
-SANOFI		-0.62		5610.95		3360
+
