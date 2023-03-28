@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.59		102.9		9722572
+TATASTEEL		0.59		102.9		9749853
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-1.45		1309.15		180337
-CLEAN		-0.03		1284.0		49066
-WHIRLPOOL		-1.64		1308.4		37834
+TRENT		-1.46		1309.0		180545
+CLEAN		-0.03		1284.0		49236
+CAMS		-1.9		2021.7		41506
+WHIRLPOOL		-1.64		1308.45		37853
