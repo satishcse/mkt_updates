@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.61		172.3		5603353
-TATACONSUM		-0.44		696.3		734376
-JSWSTEEL		-0.13		658.0		616286
+ONGC		-2.03		147.2		6025975
+TATACONSUM		-0.44		696.25		735923
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		0.22		3129.3		784909
-VINATIORGA		-1.25		1709.95		19455
+TCS		0.41		3134.95		823698
+VINATIORGA		-1.2		1710.9		19458
