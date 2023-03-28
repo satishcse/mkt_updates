@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.42		852.25		17246023
-BAJAJFINSV		-0.99		1226.8		953396
-JSWSTEEL		-0.15		657.85		758576
+ICICIBANK		0.48		852.75		17309578
+BAJAJFINSV		-1.03		1226.35		956346
+JSWSTEEL		-0.11		658.15		758924
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GARFIBRES		-1.43		2666		4420
