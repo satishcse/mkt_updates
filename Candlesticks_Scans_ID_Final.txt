@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-1.86		618.35		226390
-HAPPSTMNDS		-1.77		770.0		81514
-ALKYLAMINE		-1.03		2201.95		9785
+LT		-0.7		2138.85		256954
+HAPPSTMNDS		-1.77		770.0		81828
+BAJAJ-AUTO		-0.04		3806.1		29297
+ALKYLAMINE		-1.32		2195.5		12269
+ZFCVINDIA		0.0		10000.0		974
