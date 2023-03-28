@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.1		658.2		610614
+JSWSTEEL		-0.13		658		611613
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-2.23		2257.15		290237
-BBTC		-2.78		787.95		51494
-GMMPFAUDLR		-2.23		1458.0		45505
+GMMPFAUDLR		-2.23		1458		45505
+ECLERX		-2.96		1301		23621
