@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SFL		-1.44		985		9412
+CLEAN		-0.04		1283.85		41891
+SFL		-1.4		985.4		9430
+SKFINDIA		-1.88		3984.85		7442
+3MINDIA		-1.98		22301.45		794
