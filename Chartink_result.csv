@@ -10,13 +10,15 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-GLENMARK,1.98,448.05,1452553
-INFY,-0.66,1379.8,4661397
-BIOCON,-2.37,201.75,3432080
+GLENMARK,1.97,448.0,1464868
+INFY,-0.61,1380.45,4682257
+BIOCON,-2.37,201.75,3435418
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ICICIGI,-0.95,1064.0,165503
+ABB,0.13,3329.05,152118
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -25,7 +27,7 @@ High_Relative_Volume_Spurt_5m,,,,
 Open_High,,,, 
 ========= 
 nsecode,per_chg,close,volume
-OFSS,-0.24,3211.25,31893
+OFSS,-0.24,3211.25,31902
 FEDERALBNK,-0.24,125.15,7171573
 BRITANNIA,-0.34,4200.4,169706
 AXISBANK,-0.46,829.5,8915655
@@ -47,8 +49,8 @@ BANDHANBNK,-5.43,187.05,22650977
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-CHOLAFIN,2.21,731.7,1142984
-JKCEMENT,0.35,2849.05,71070
-NAUKRI,0.03,3566.5,281617
-TATACONSUM,-0.46,696.15,889394
-OBEROIRLTY,-0.83,817.9,184503
+CHOLAFIN,2.21,731.65,1144869
+JKCEMENT,0.42,2851.0,71077
+NAUKRI,-0.01,3565.05,282930
+TATACONSUM,-0.46,696.15,890455
+OBEROIRLTY,-0.92,817.2,184598
