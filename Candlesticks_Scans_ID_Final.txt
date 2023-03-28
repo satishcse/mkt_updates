@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		0.34		102.65		4794649
-SBILIFE		0.21		1101.65		209001
-TITAN		0.24		2500.5		145841
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		0.69		307.0		96458
-RHIM		-1.2		582.7		36072
+TIMKEN		-0.55		2744.95		6350
+VINATIORGA		-0.38		1725.05		4696
