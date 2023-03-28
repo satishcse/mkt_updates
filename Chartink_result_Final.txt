@@ -10,13 +10,18 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INFY		-0.19		1386.3		1225103
-BIOCON		-2.35		201.8		1567088
+INFY		-0.33		1384.3		1258025
+BIOCON		-2.2		202.1		1582536
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-1.15		1218.9		36885
+BHARTIARTL		-1.21		752.5		487830
+TCS		0.25		3130.0		235965
+TECHM		-1.04		1091.55		206696
+CONCOR		-1.27		571.7		115545
+METROPOLIS		-1.19		1218.35		37085
+WHIRLPOOL		-0.29		1326.3		14869
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
