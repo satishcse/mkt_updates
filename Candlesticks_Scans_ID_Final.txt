@@ -1,14 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SBILIFE		0.15		1101		41061
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AVANTIFEED		0.23		330.75		8541
-360ONE		-0.61		426.05		6367
-POLYMED		-1.11		958.25		2887
-SANOFI		-0.24		5632.5		701
-PGHL		0.0		4873.7		90
+PIIND		-1.01		2895.7		15155
+TATAELXSI		-0.09		5950.8		8537
+GMMPFAUDLR		-1.09		1475.0		3663
