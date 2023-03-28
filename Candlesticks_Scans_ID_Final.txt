@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+AXISBANK		-0.22		831.55		4629084
+NTPC		0.53		172.15		2846260
+COALINDIA		1.13		210.75		2136177
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ICICIGI		-0.25		1071.6		70160
-BALAMINES		-1.19		1960.95		20942
+
