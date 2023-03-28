@@ -2,16 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.02		1099.5		39602
+SBILIFE		0.1		1100.4		40360
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AXISBANK		0.2		835.0		584044
-INDUSINDBK		0.29		1015.75		236800
-ALLCARGO		1.82		352.75		93997
-CCL		0.8		553.55		12191
 AVANTIFEED		0.23		330.75		8541
-TIMKEN		-0.02		2759.55		2341
-ZYDUSWELL		0.55		1487.35		896
-SANOFI		-0.24		5632.35		691
+360ONE		-0.61		426.05		6367
+POLYMED		-1.11		958.25		2887
+SANOFI		-0.24		5632.5		701
+PGHL		0.0		4873.7		90
