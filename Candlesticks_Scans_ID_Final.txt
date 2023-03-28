@@ -5,11 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PIIND		-0.3		2925.25		97383
-PRINCEPIPE		-2.43		550.2		74842
-MAPMYINDIA		-2.85		1026.95		43299
-TCI		-0.53		603.55		33341
-VINATIORGA		-2.06		1731.6		24232
-GARFIBRES		-1.39		2704.6		6170
-LAXMIMACH		-2.55		10018.0		3943
+
