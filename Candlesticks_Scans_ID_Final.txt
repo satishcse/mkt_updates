@@ -6,9 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-1.16		622.8		131577
-MPHASIS		-1.86		1692.6		113471
-ABB		0.91		3355.0		52819
-TATAELXSI		-0.07		5952.15		12627
-ALKYLAMINE		-0.45		2215.0		5018
+GOCOLORS		-0.52		941.25		2552
 BHARATRAS		-0.87		9347.6		103
