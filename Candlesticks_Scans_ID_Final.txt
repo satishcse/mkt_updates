@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.15		1101		36477
+SBILIFE		0.27		1102.3		38177
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.15		1014.35		187104
-360ONE		-0.44		426.75		3221
-CERA		0.78		6193.1		1229
-SHOPERSTOP		0.09		636.45		1087
-SANOFI		-0.36		5625.55		614
+ALLCARGO		1.54		351.8		80245
+SUPRAJIT		-0.53		334.95		12621
+CCL		0.48		551.8		10259
+360ONE		-0.44		426.75		3244
+TIMKEN		-0.01		2760.0		2259
+CERA		0.66		6185.6		1286
+ECLERX		0.06		1341.45		799
+SANOFI		-0.29		5629.5		619
