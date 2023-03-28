@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.49		102.8		5151478
-COALINDIA		0.96		210.4		1420958
+TATASTEEL		0.44		102.75		5161887
+COALINDIA		0.98		210.45		1424197
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SYMPHONY		-0.3		1081		19587
+
