@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.39		102.7		7759328
-TCS		0.33		3132.45		383944
+TATASTEEL		0.39		102.7		7791202
+LT		-0.97		2133.05		393414
+TCS		0.26		3130.35		385620
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-THYROCARE		-0.51		423.3		82668
+THYROCARE		-0.47		423.45		82691
+SUNDARMFIN		-1.06		2232.95		1610
