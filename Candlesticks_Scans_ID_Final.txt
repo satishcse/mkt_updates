@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-2.09		1300.65		360072
-HEROMOTOCO		-2.54		2250.0		339157
+TRENT		-2.14		1300.0		362167
+HEROMOTOCO		-2.54		2249.95		342363
+HGS		-0.59		1017.95		31445
