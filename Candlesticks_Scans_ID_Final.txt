@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.25		981.0		825886
-EICHERMOT		-0.04		2884.35		741016
-BAJAJ-AUTO		-0.36		3794.0		61606
+SUNPHARMA		-0.28		980.65		827124
+BAJAJ-AUTO		-0.33		3795.0		61844
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ELGIEQUIP		-3.66		429.95		152735
