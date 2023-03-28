@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.76		392.9		5247072
-BPCL		-1.49		339.7		2906672
-BAJFINANCE		-0.89		5543.55		683484
+HINDALCO		0.69		392.65		5268284
+BPCL		-1.52		339.6		2908464
+BAJFINANCE		-1.13		5530.0		689100
 
 Bullish_Hammer_15m_N500								 
 ======================= 
