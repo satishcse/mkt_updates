@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,-2.0,147.25,5992898
-NTPC,0.61,172.3,5600760
-TATACONSUM,-0.36,696.8,726958
+NTPC,0.61,172.3,5601711
+HINDALCO,0.77,392.95,4708242
+TATACONSUM,-0.39,696.65,727343
+JSWSTEEL,-0.12,658.05,616115
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-ECLERX,-2.96,1301,23947
+KOTAKBANK,-0.68,1693.55,1753795
+ECLERX,-2.96,1301.0,23857
