@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.25		211.0		3102336
-M&M		-0.52		1132.0		972582
-HEROMOTOCO		-2.15		2258.85		248835
+COALINDIA		1.2		210.9		3110541
+M&M		-0.65		1130.5		974410
+HEROMOTOCO		-2.13		2259.35		248982
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MRF		-1.33		82598.45		2423
