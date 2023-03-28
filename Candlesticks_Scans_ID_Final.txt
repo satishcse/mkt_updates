@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNTV		-2.38		399.8		423151
-ICICIGI		-0.2		1072.05		69886
-LALPATHLAB		-0.9		1811.2		55834
-TEAMLEASE		-3.48		2209.95		9435
+SUNTV		-2.15		400.75		430501
+FINCABLES		-0.3		792.85		235801
+ICICIGI		-0.24		1071.65		69887
+LALPATHLAB		-0.93		1810.65		56023
+BALAMINES		-1.19		1960.95		20745
