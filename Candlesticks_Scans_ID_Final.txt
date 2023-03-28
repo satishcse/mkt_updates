@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.76		489.2		1987627
-HDFC		0.67		2579.15		1782751
-EICHERMOT		-1.33		2847.05		989489
+HDFCLIFE		-0.73		489.35		1999371
+EICHERMOT		-1.34		2846.85		992189
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.52		2486.05		1062612
-ELGIEQUIP		-3.88		429.0		190524
-ISEC		-0.39		421.6		183212
+HINDUNILVR		-0.52		2486.0		1066774
+TRENT		-2.57		1294.35		404691
