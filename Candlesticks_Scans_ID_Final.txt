@@ -3,13 +3,13 @@ Tweezer_top_15m_Nifty
 ===================== 
 nsecode		per_chg		close		volume
 BHARTIARTL		-0.59		744.05		4890742
-HCLTECH		2.71		1069.35		2477648
+HCLTECH		2.54		1067.5		2477758
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AARTIDRUGS		-3.2		337.5		1131200
+AARTIDRUGS		-3.2		337.5		1131240
 ISEC		-0.2		422.0		159307
-MAPMYINDIA		0.03		995.35		109467
-BBTC		2.15		803.0		79893
-ABBOTINDIA		0.81		21770.05		9818
+MAPMYINDIA		0.03		995.35		109622
+BBTC		1.23		795.75		80157
+ABBOTINDIA		0.81		21770.05		9819
