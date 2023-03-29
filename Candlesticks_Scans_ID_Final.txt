@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.09		221.9		2515992
-HINDUNILVR		0.61		2498.0		985769
-HDFCLIFE		-0.2		488.7		892694
-KOTAKBANK		0.45		1706.5		643956
+POWERGRID		-0.16		221.75		2527710
+HINDUNILVR		0.62		2498.3		988297
+HDFCLIFE		-0.25		488.5		894594
+KOTAKBANK		0.52		1707.65		649292
 
 Bullish_Hammer_15m_N500								 
 ======================= 
