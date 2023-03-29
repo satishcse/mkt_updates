@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.01		339.9		2754398
+BPCL		-0.04		339.7		2803692
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BERGEPAINT		-0.47		571.3		830188
-GRINFRA		2.75		968.6		274422
-MAPMYINDIA		0.12		996.25		105700
-RATNAMANI		-3.04		1932.25		81243
-BAJAJELEC		0.54		1107.05		24670
+GRINFRA		2.75		968.6		274490
+MAPMYINDIA		0.16		996.6		105863
+RATNAMANI		-2.95		1934.0		81658
+HLEGLAS		-1.35		468.0		80539
+POLYMED		-2.6		946.5		72075
