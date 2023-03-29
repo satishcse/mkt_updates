@@ -10,9 +10,9 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-PEL		3.2		654.95		1428681
-TORNTPOWER		2.51		524.2		1348780
-AUBANK		2.32		576.6		688229
+PEL		3.11		654.4		1430636
+TORNTPOWER		2.43		523.8		1364927
+AUBANK		2.26		576.3		690765
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -23,7 +23,7 @@ INDUSINDBK		0.56		1042.0		1595357
 RECLTD		1.01		115.25		1421730
 TORNTPOWER		2.51		524.2		1348780
 INDHOTEL		0.19		312.7		1104674
-FSL		-0.23		107.05		952153
+FSL		-0.23		107.05		952221
 AARTIIND		4.96		515.6		698525
 SUNPHARMA		0.56		989.75		592221
 ACC		0.87		1628.0		431176
@@ -46,18 +46,13 @@ BANKNIFTY		0.57		39792.05		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-ZEEL		1.41		211.75		3370862
-EXIDEIND		1.36		175.5		933188
-SBICARD		1.38		720.9		359579
-INDIGO		0.02		1825.6		191092
-UBL		-0.12		1405.0		131235
+
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-WIPRO		-0.04		356.05		1737428
-BALKRISIND		-0.15		1963.9		96853
+WIPRO		-0.1		355.85		1750166
+BALKRISIND		-0.14		1964.0		96883
 
 Open_Low								 
 ======== 
