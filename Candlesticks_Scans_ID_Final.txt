@@ -2,17 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.2		102.5		18703734
-ONGC		-2.03		147.2		8964539
-CIPLA		0.02		889.5		3623017
-UPL		2.0		714.65		2618934
-LT		-0.95		2133.6		1627243
-APOLLOHOSP		0.36		4333.6		343628
+TATASTEEL		0.0		102.5		56482
+ONGC		0.03		147.25		12841
+UPL		-0.01		714.6		4683
+CIPLA		0.5		893.95		2550
+LT		0.19		2137.65		2259
+APOLLOHOSP		0.0		4333.6		314
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TCS		-0.2		3115.9		1303530
-PRINCEPIPE		-2.39		537.05		59140
-LINDEINDIA		-2.03		3855.2		27735
-PGHH		-0.56		13663.3		1390
+
