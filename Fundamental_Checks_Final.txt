@@ -44,12 +44,12 @@ ITC		0.87		383.05		10151868
 Zero_Debt_Momentum								 
 ================== 
 nsecode		per_chg		close		volume
-IZMO		-6.97		110.8		866439
+IZMO		-6.97		110.8		861339
 
 FIPA_above_all_SMAs								 
 =================== 
 nsecode		per_chg		close		volume
-IIFL		7.53		468.9		743775
+IIFL		7.53		468.9		743897
 BDL		4.74		955.0		775953
 ABCAPITAL		4.46		153.35		6063432
 OIL		2.54		264.0		3820712
@@ -58,7 +58,7 @@ NTPC		1.89		175.25		20264637
 GAIL		1.87		106.1		10700708
 VBL		1.65		1377.15		3373564
 RVNL		1.44		67.15		8245904
-ASTERDM		1.39		240.0		717117
+ASTERDM		1.39		240.0		717857
 KPITTECH		1.02		898.0		1564923
 ZYDUSLIFE		1.0		489.6		1273346
 TITAN		0.99		2524.95		710066
