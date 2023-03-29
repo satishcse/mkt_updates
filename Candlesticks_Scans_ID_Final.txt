@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.67		2499.4		1065235
+HINDUNILVR		0.64		2498.75		1069219
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VARROC		0.48		242.55		72406
+VARROC		0.5		242.6		67877
