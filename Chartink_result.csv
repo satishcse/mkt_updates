@@ -17,9 +17,12 @@ AUBANK,1.93,574.45,442093
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-EXIDEIND,0.81,174.55,254750
-OBEROIRLTY,1.41,829.9,73312
-NIFTY,0.55,17044.8,0
+JSWSTEEL,1.0,666.6,560347
+EXIDEIND,0.9,174.7,313872
+GNFC,0.8,494.4,244974
+OBEROIRLTY,1.34,829.4,73913
+BATAINDIA,0.06,1395.45,59816
+PERSISTENT,-0.32,4411.05,41686
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -28,9 +31,9 @@ High_Relative_Volume_Spurt_5m,,,,
 Open_High,,,, 
 ========= 
 nsecode,per_chg,close,volume
-HDFCAMC,0.23,1689.15,68803
-WIPRO,0.0,356.2,1035341
-BALKRISIND,-0.01,1966.65,55434
+HDFCAMC,0.23,1689.1,69129
+BALKRISIND,-0.02,1966.5,55541
+WIPRO,-0.04,356.05,1048438
 
 Open_Low,,,, 
 ======== 
