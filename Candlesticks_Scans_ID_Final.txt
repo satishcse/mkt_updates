@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.05		1035.65		908029
-HEROMOTOCO		1.93		2293.0		171434
+INDUSINDBK		-0.02		1035.95		910905
+HEROMOTOCO		1.93		2292.85		172219
+ULTRACEMCO		1.12		7486.0		98297
 
 Bullish_Hammer_15m_N500								 
 ======================= 
