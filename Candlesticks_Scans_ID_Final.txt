@@ -9,7 +9,4 @@ KOTAKBANK		0.54		1708.0		655185
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BHARTIARTL		-0.33		745.95		1117972
-SONATSOFTW		-2.82		741.4		275722
-INDIAMART		-0.64		4979.25		61669
+
