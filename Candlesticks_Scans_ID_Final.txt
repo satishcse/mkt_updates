@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.03		1596.5		4592234
-RELIANCE		-0.72		2231.9		2025848
-APOLLOHOSP		0.24		4343.9		69757
+ICICIBANK		0.61		860.0		6663450
+RELIANCE		-0.73		2231.65		2048536
+APOLLOHOSP		0.24		4343.9		69888
 
 Bullish_Hammer_15m_N500								 
 ======================= 
