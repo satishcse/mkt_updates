@@ -10,19 +10,24 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-TORNTPOWER		4.42		533.95		954759
-PEL		3.98		659.9		1188743
-AUBANK		1.5		572.0		489963
+TORNTPOWER		4.43		534.0		960031
+PEL		3.89		659.35		1192900
+AUBANK		1.53		572.2		490794
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ASHOKLEY		0.78		135.7		1299070
-EXIDEIND		1.65		176.0		512444
+ZEEL		1.72		212.4		2177145
+ASHOKLEY		0.78		135.7		1303930
+EXIDEIND		1.7		176.1		519977
+MARICO		-0.93		474.85		343206
+MFSL		2.72		625.5		245349
+BERGEPAINT		0.24		575.4		173296
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+BHARATFORG		0.11		751		463697
 
 Open_High								 
 ========= 
