@@ -10,29 +10,19 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-PEL		3.49		656.8		972723
-TORNTPOWER		3.41		528.8		672433
-AUBANK		1.36		571.2		375210
+PEL		3.52		657.0		976141
+TORNTPOWER		3.42		528.85		675076
+AUBANK		1.3		570.9		378032
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPORTS		4.63		620.9		5217999
-ADANIENT		5.35		1686.5		2688612
-RECLTD		0.66		114.85		727895
-CANFINHOME		-0.12		518.25		251984
-TECHM		0.47		1075.3		230750
-CROMPTON		0.32		296.0		148655
-LTIM		0.49		4577.0		60321
-DIVISLAB		0.31		2815.1		56302
-CUMMINSIND		0.61		1622.1		48997
-JKCEMENT		1.3		2881.95		28206
-BALKRISIND		-0.01		1966.7		23876
+CUMMINSIND		0.71		1623.7		55818
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-ONGC		0.99		148.65		3139517
+ONGC		0.99		148.65		3149222
 
 Open_High								 
 ========= 
