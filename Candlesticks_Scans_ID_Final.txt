@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-1.92		700.9		1430545
-JSWSTEEL		1.46		669.65		869894
-BAJFINANCE		1.4		5612.0		453549
-EICHERMOT		2.29		2917.6		392176
-ULTRACEMCO		1.13		7486.6		152817
+BAJFINANCE		1.4		5612.05		455777
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KIMS		-0.22		1347.55		8036
+
