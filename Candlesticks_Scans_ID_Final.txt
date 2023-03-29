@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.68		2499.75		1116067
-JSWSTEEL		1.27		668.4		903471
-BAJFINANCE		1.13		5597.0		486115
+ITC		-0.2		379.0		3569380
+HINDUNILVR		0.67		2499.35		1129637
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAYERCROP		-0.23		3973.5		4391
+BAYERCROP		-0.23		3973.5		6482

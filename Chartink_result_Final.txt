@@ -10,15 +10,21 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-PEL		2.8		652.45		1607454
-TORNTPOWER		2.48		524.05		1506187
-AUBANK		2.32		576.65		815896
+PEL		2.88		652.9		1608265
+AUBANK		2.28		576.4		820346
+TORNTPOWER		2.22		522.7		1508300
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-1.41		1304.35		24061
-NIFTY		0.02		16955.5		0
+BHEL		-0.21		69.95		6646857
+HINDCOPPER		1.22		95.8		1522090
+JUBLFOOD		1.01		435.35		748677
+AUROPHARMA		-0.8		507.35		710242
+TATACONSUM		0.57		700.0		443181
+GUJGASLTD		0.36		472.05		263112
+COFORGE		1.87		3665.3		220387
+DALBHARAT		3.23		1903.9		166535
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
