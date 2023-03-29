@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		1.34		668.85		885832
-BAJFINANCE		1.15		5598.2		465186
+JSWSTEEL		1.31		668.65		886798
+BAJFINANCE		1.12		5596.4		467225
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		-0.13		9950		2403
+LAXMIMACH		-0.13		9950		2425
