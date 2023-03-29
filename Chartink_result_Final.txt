@@ -10,14 +10,14 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-PEL		3.27		655.4		1412636
-TORNTPOWER		3.06		527.0		1274616
-AUBANK		1.95		574.55		653719
+PEL		3.26		655.35		1413317
+TORNTPOWER		3.07		527.05		1277149
+AUBANK		1.86		574.05		656744
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-FSL		0.05		107.35		916697
+FSL		0.05		107.35		916765
 CIPLA		-0.15		888.2		873283
 BALRAMCHIN		3.1		370.3		774497
 AARTIIND		3.84		510.1		607157
@@ -31,13 +31,13 @@ NIFTY		0.15		16977.5		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-CIPLA		-0.15		888.2		873283
+CIPLA		-0.15		888.2		875947
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-WIPRO		0.03		356.3		1696276
-BALKRISIND		-0.06		1965.55		95353
+WIPRO		-0.03		356.1		1708328
+BALKRISIND		-0.09		1965.0		95608
 
 Open_Low								 
 ======== 
