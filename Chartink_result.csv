@@ -10,14 +10,15 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-TORNTPOWER,2.94,526.4,427376
-PEL,2.89,653.0,649267
-AUBANK,1.68,573.0,277082
+TORNTPOWER,2.86,525.95,443459
+PEL,2.72,651.9,666415
+AUBANK,1.7,573.15,282275
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-DALBHARAT,2.47,1890,52820
+DALBHARAT,2.46,1889.75,56710
+NIFTY,0.42,17023.45,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -26,10 +27,10 @@ High_Relative_Volume_Spurt_5m,,,,
 Open_High,,,, 
 ========= 
 nsecode,per_chg,close,volume
-TCS,0.32,3126.0,232401
-WIPRO,0.22,357.0,609638
-HDFCAMC,0.03,1685.8,37468
-BALKRISIND,-0.7,1953.05,12551
+TCS,0.28,3124.5,245237
+WIPRO,0.25,357.1,621774
+HDFCAMC,0.13,1687.4,38530
+BALKRISIND,-0.69,1953.2,13311
 
 Open_Low,,,, 
 ======== 
