@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.35		357.45		805125
-APOLLOHOSP		0.25		4344.5		53697
+WIPRO		0.27		357.15		815151
+APOLLOHOSP		0.25		4344.25		54203
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AARTIDRUGS		-3.08		337.9		341838
-GMMPFAUDLR		-0.97		1438.95		11401
+
