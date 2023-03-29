@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.61		220.75		3409464
+POWERGRID		-0.63		220.7		3416689
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+AAVAS		-0.9		1604.0		48204
 HONAUT		-1.16		35262.75		2614
