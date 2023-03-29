@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		1.08		7483.15		103608
+ULTRACEMCO		1.11		7485		104087
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		-1.01		4057.4		2987
+INFY		-0.41		1372.0		2242954
+TECHM		-0.03		1070.0		377743
+ASIANPAINT		-0.45		2771.95		220182
+SKFINDIA		-0.9		4061.6		3058
