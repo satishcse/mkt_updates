@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.84		742.15		2154351
-GRASIM		1.08		1628.5		247814
+TATASTEEL		-0.05		102.45		23271430
+COALINDIA		0.77		210.5		4156331
+INDUSINDBK		1.51		1051.75		3347530
+HDFC		0.77		2599.95		2414724
+HCLTECH		1.9		1060.9		1541010
+SUNPHARMA		-0.2		982.2		1182347
 
 Bullish_Hammer_15m_N500								 
 ======================= 
