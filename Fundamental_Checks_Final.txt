@@ -42,7 +42,7 @@ TITAN		0.59		2515.05		710603
 Zero_Debt_Momentum								 
 ================== 
 nsecode		per_chg		close		volume
-IZMO		-6.97		110.8		875804
+IZMO		-6.97		110.8		866439
 
 FIPA_above_all_SMAs								 
 =================== 
@@ -52,7 +52,7 @@ BDL		4.73		954.9		777801
 ABCAPITAL		4.29		153.1		6065238
 OIL		2.14		262.95		3822337
 CHOLAFIN		2.14		747.85		1144708
-ASTERDM		1.92		241.25		718109
+ASTERDM		1.92		241.25		718059
 ABB		1.58		3391.45		1031256
 GAIL		1.3		105.5		10766488
 RVNL		1.28		67.05		8265387
