@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.16		339.3		2856804
+BHARTIARTL		-0.55		744.35		4866105
+BPCL		0.06		340.05		2971967
+HCLTECH		2.59		1068.05		2472763
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KANSAINER		-0.8		382.65		89785
-HLEGLAS		-1.35		468.0		84174
+CHOLAHLDNG		1.04		526.45		552524
+MAPMYINDIA		0.29		997.9		109060
+ABBOTINDIA		0.8		21766.75		9688
