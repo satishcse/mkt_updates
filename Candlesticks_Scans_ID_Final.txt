@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.21		356.95		863371
-APOLLOHOSP		-0.18		4325.95		61159
+WIPRO		0.22		357.0		880673
+APOLLOHOSP		0.06		4336.05		64514
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELAXO		-0.12		814.1		12358
-SCHAEFFLER		-0.63		2813.3		6784
-SKFINDIA		-0.85		4063.95		1930
-SUNDARMFIN		-0.52		2245.0		1350
+NAZARA		-0.06		501.15		79146
+COROMANDEL		-0.96		859.95		62457
+DIXON		-0.05		2821.3		61946
+SCHAEFFLER		-0.63		2813.2		6802
+IFBIND		-0.84		721.6		5406
+TCIEXP		-1.21		1436.95		1503
+HONAUT		-0.21		35602.0		686
