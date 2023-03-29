@@ -17,11 +17,15 @@ AUBANK,1.76,573.45,738173
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-ICICIBANK,0.78,861.4,13291867
-POWERGRID,-0.5,221.0,2702561
-HDFCLIFE,-0.01,489.65,940317
-LTIM,1.06,4603.0,129299
-NIFTY,0.16,16978.95,0
+POWERGRID,-0.43,221.15,2738967
+HINDCOPPER,1.74,96.3,1427129
+HDFCLIFE,-0.03,489.55,946446
+JSWSTEEL,1.52,670.0,848167
+IPCALAB,-0.42,788.25,203675
+NAUKRI,1.2,3616.5,134650
+LTIM,1.06,4603.25,130212
+COLPAL,0.35,1503.2,84900
+NIFTY,0.15,16977.0,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -30,8 +34,8 @@ High_Relative_Volume_Spurt_5m,,,,
 Open_High,,,, 
 ========= 
 nsecode,per_chg,close,volume
-WIPRO,-0.13,355.75,1840444
-BALKRISIND,-0.39,1959.05,100000
+WIPRO,-0.06,356.0,1848767
+BALKRISIND,-0.33,1960.4,100590
 
 Open_Low,,,, 
 ======== 
