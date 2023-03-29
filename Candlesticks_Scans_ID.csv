@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-COALINDIA,0.79,210.55,4167049
-HCLTECH,1.84,1060.3,1545950
-SUNPHARMA,-0.19,982.35,1184267
+ONGC,0.37,147.75,7121462
+COALINDIA,0.79,210.55,4186659
+HCLTECH,1.84,1060.25,1549772
+SUNPHARMA,-0.19,982.35,1194365
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TATAELXSI,-0.4,5902.4,57780
