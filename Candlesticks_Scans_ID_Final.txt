@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.54		220.9		3327290
-BAJAJ-AUTO		1.53		3849.8		173927
+POWERGRID		-0.54		220.9		3335341
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HONAUT		-1.15		35269		2571
+
