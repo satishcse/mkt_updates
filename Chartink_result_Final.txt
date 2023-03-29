@@ -10,29 +10,38 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-PEL		2.87		652.85		1624733
-TORNTPOWER		2.4		523.6		1527351
-AUBANK		1.92		574.35		853525
-PERSISTENT		1.81		4505.15		243013
+PEL		2.88		652.9		1625464
+TORNTPOWER		2.41		523.65		1528601
+AUBANK		2.0		574.8		855872
+PERSISTENT		1.72		4501.3		244811
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-AUROPHARMA		-0.93		506.7		753526
-BATAINDIA		0.48		1401.35		146789
+IDFCFIRSTB		0.95		53.25		9011483
+ZEEL		2.97		215.0		4315155
+ABFRL		-0.26		208.05		911180
+AUROPHARMA		-0.94		506.65		756377
+GODREJCP		0.37		962.15		314472
+MCX		2.77		1512.0		150308
+BATAINDIA		0.51		1401.7		149259
+ESCORTS		-0.79		1871.35		101006
+PAGEIND		0.87		38217.35		24522
+BOSCHLTD		0.26		18580.0		23953
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-ZEEL		2.97		215.0		4315155
-BATAINDIA		0.51		1401.7		149259
-ESCORTS		-0.79		1871.35		101006
+ZEEL		3.3		215.7		4851474
+PVR		1.13		1512.1		206312
+BATAINDIA		0.53		1402.0		149428
+ESCORTS		-0.68		1873.35		101226
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-WIPRO		-0.29		355.15		2098206
-BALKRISIND		-0.75		1952.05		109101
+WIPRO		-0.29		355.15		2108178
+BALKRISIND		-0.69		1953.15		109587
 
 Open_Low								 
 ======== 
