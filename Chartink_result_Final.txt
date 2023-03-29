@@ -10,9 +10,9 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-PEL		3.51		656.9		930903
-TORNTPOWER		3.26		528.0		655232
-AUBANK		1.4		571.45		363850
+PEL		3.52		657.0		937036
+TORNTPOWER		3.3		528.2		655980
+AUBANK		1.4		571.45		364636
 
 Intraday_Volume_Shocker								 
 ======================= 
