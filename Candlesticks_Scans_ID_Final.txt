@@ -7,4 +7,5 @@ HINDUNILVR		0.66		2499.25		1141113
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CLEAN		-0.29		1250.7		36394
