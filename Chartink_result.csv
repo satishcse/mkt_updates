@@ -10,26 +10,29 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-PEL,2.89,653,494241
+PEL,2.87,652.85,509109
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ABFRL,0.17,208.95,409498
+INDIACEM,1.69,171.25,359946
+NIFTY,0.33,17007.1,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-MARICO,-0.07,478.95,215839
+MARICO,-0.11,478.75,219502
 
 Open_High,,,, 
 ========= 
 nsecode,per_chg,close,volume
-WIPRO,0.28,357.2,461577
-TCS,0.24,3123.25,163693
-PVR,0.15,1497.55,61741
-HDFCAMC,0.04,1685.9,32069
-LICHSGFIN,-0.24,317.9,155409
-BALKRISIND,-0.7,1953.0,8536
+WIPRO,0.22,357.0,481218
+TCS,0.2,3122.25,168662
+PVR,0.14,1497.35,62053
+HDFCAMC,0.04,1685.9,32250
+LICHSGFIN,-0.14,318.2,156983
+BALKRISIND,-0.55,1955.95,9065
 
 Open_Low,,,, 
 ======== 
