@@ -14,7 +14,12 @@ Intraday_Buy_PSAR
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-CANFINHOME		-0.6		515.75		21698
+TATASTEEL		-0.63		101.85		1957594
+M&MFIN		2.15		226.15		353248
+HINDUNILVR		0.89		2505.0		230113
+DLF		-0.33		347.5		185981
+BHARATFORG		-0.22		748.55		40037
+CANFINHOME		-0.46		516.45		23862
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
