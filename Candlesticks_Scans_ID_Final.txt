@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CENTURYTEX		-0.04		645.25		12999
-GRINDWELL		-1.06		1794.45		2879
-BLUEDART		-0.73		6036.0		1617
+
