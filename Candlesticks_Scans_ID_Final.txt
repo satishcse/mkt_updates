@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		2.28		418.55		7481796
-INDUSINDBK		1.36		1071.5		1509579
-CIPLA		1.07		897.2		1197168
+TATAMOTORS		2.27		418.5		7495199
+CIPLA		1.06		897.15		1198684
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-STARHEALTH		-0.02		526.9		130070
+STARHEALTH		-0.02		526.9		133000
 MANYAVAR		0.83		1113.55		48579
