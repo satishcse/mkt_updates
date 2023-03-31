@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.35		105.0		22717733
-NTPC		1.35		176.35		4826345
-POWERGRID		1.48		225.75		4335892
-BAJFINANCE		0.16		5634.0		915458
-APOLLOHOSP		-0.47		4342.5		285299
+TATASTEEL		1.35		105.0		23044477
+NTPC		1.29		176.25		4860422
+POWERGRID		1.35		225.45		4344113
 
 Bullish_Hammer_15m_N500								 
 ======================= 
