@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GESHIP		0.32		652.3		154866
-JSL		0.98		282.0		68045
-CENTURYTEX		0.36		647.85		13306
-CERA		-0.88		6406.95		3518
+JSL		1.02		282.1		69042
+PHOENIXLTD		-1.78		1316.9		22940
+CENTURYTEX		0.36		647.8		15567
