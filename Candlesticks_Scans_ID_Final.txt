@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.45		105.1		15021362
+TATASTEEL		1.45		105.1		15065241
+GRASIM		0.66		1642.4		235751
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAPLIPOINT		0.48		595.35		79641
+CAPLIPOINT		0.3		594.3		79093
