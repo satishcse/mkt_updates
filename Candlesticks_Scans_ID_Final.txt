@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		4.32		2331.3		7939007
-ONGC		1.24		151.2		3766328
-BAJFINANCE		-0.2		5613.95		822863
+TATASTEEL		1.25		104.9		21573623
+TATAMOTORS		2.33		418.75		7429282
+BAJFINANCE		-0.18		5615.0		830055
+HINDUNILVR		0.22		2536.45		795137
 
 Bullish_Hammer_15m_N500								 
 ======================= 
