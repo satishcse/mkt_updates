@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.79		1408.25		2953227
-WIPRO		1.25		363.55		1841300
-TECHM		1.51		1097.45		1301510
-TCS		1.29		3179.5		931874
-SUNPHARMA		-0.57		986.25		769173
+INFY		1.87		1409.4		2962678
+WIPRO		1.28		363.65		1847065
+TECHM		1.58		1098.2		1303574
+TCS		1.3		3179.7		936509
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINFRA		3.85		1009.9		127565
-BALKRISIND		0.2		1968.75		49815
-AMBER		-1.68		1793.0		27321
+GRINFRA		3.85		1009.9		127567
+BALKRISIND		0.23		1969.35		49874
+AMBER		-1.64		1793.7		27322
