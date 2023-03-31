@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAND		-0.41		1252.6		169908
-AMARAJABAT		0.53		573.85		129088
-ASAHIINDIA		0.86		459.2		33994
+ASAHIINDIA		0.86		459.2		34094
