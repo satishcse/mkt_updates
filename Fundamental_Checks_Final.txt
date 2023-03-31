@@ -47,7 +47,7 @@ CGPOWER		-1.64		300.05		2761619
 Zero_Debt_Momentum								 
 ================== 
 nsecode		per_chg		close		volume
-IZMO		9.96		122		600838
+IZMO		9.28		121.25		586772
 
 FIPA_above_all_SMAs								 
 =================== 
