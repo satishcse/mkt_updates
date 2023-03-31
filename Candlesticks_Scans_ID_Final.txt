@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.3		225.35		1766104
+POWERGRID		1.28		225.3		1771987
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANITRANS		1.88		1022.35		351150
-OLECTRA		1.49		634.0		163812
-APOLLOHOSP		-0.53		4339.95		104266
-SIEMENS		0.12		3329.85		34914
-CLEAN		1.55		1257.95		29866
-BALKRISIND		0.37		1972.0		27269
-TIMKEN		-2.76		2693.2		22197
+ADANITRANS		1.85		1022.0		354119
+ULTRACEMCO		-0.13		7560.7		80615
+AFFLE		1.06		970.6		38191
+CLEAN		1.42		1256.45		30219
+TIMKEN		-2.74		2693.6		22712
