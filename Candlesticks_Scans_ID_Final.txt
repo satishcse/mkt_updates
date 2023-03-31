@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.82		1256.3		1213573
-SBILIFE		0.57		1105.0		539607
+BAJAJFINSV		0.76		1255.5		1216039
+SBILIFE		0.57		1105.0		540174
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CERA		-1.36		6375.9		13291
+CENTURYTEX		-1.01		638.95		225887
