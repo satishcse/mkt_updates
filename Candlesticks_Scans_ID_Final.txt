@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.89		1409.65		2937455
-WIPRO		1.31		363.75		1824533
-TECHM		1.6		1098.35		1296916
-TCS		1.28		3179.15		923754
+INFY		1.84		1409.0		2945990
+WIPRO		1.31		363.75		1832614
+TECHM		1.54		1097.7		1299155
+TCS		1.31		3180.0		930054
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 PERSISTENT		0.27		4554.25		363904
 BALKRISIND		0.17		1968.1		49660
-AMBER		-1.67		1793.1		27113
+AMBER		-1.67		1793.1		27229
