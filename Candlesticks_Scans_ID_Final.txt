@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.4		105.05		10042089
-ULTRACEMCO		0.08		7576.6		97470
+TATASTEEL		1.5		105.15		10068211
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		0.33		3027.4		11889
+HDFC		0.01		2603.3		1573388
+FLUOROCHEM		0.33		3027.4		11919
