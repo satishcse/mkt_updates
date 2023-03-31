@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.07		1604.85		13504218
+M&M		0.61		1151.3		1132210
+BAJFINANCE		0.05		5628.0		870234
+SBILIFE		0.75		1106.9		483896
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-STARHEALTH		0.03		527.15		130728
+
