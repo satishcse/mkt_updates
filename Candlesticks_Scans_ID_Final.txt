@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.72		405.9		6164755
+HINDALCO		1.77		406.1		6186002
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		0.33		1013.5		44939
-GALAXYSURF		-1.15		2318.55		9632
-3MINDIA		-0.44		22994.0		2370
+3MINDIA		-0.44		22994		2297
