@@ -47,7 +47,7 @@ CGPOWER		-1.64		300.05		2772988
 Zero_Debt_Momentum								 
 ------------------ 
 nsecode		per_chg		close		volume
-IZMO		9.96		122		586797
+IZMO		9.96		122		593167
 
 FIPA_above_all_SMAs								 
 ------------------- 
@@ -83,5 +83,5 @@ SUNPHARMA		-0.89		983.1		1822735
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-SDBL		9.81		153.9		2472851
-BHARATWIRE		8.0		155.2		1970543
+SDBL		9.81		153.9		2471019
+BHARATWIRE		8.0		155.2		1968543
