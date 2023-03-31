@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.9		1602.15		10881504
-POWERGRID		0.85		224.35		3711412
-TATACONSUM		1.56		708.4		431427
+HDFCBANK		0.89		1601.9		10886899
+POWERGRID		0.85		224.35		3715788
+TATACONSUM		1.55		708.35		433094
 
 Bullish_Hammer_15m_N500								 
 ======================= 
