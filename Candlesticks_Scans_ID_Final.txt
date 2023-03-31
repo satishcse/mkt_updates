@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.35		105.0		23336044
-NTPC		1.15		176.0		5099589
-POWERGRID		1.19		225.1		4408633
-BAJFINANCE		0.14		5633.0		933628
+NTPC		1.26		176.2		5121120
+POWERGRID		1.15		225.0		4412829
+BAJFINANCE		0.14		5633.0		935800
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKYLAMINE		-0.38		2163.95		28591
+ALKYLAMINE		-0.38		2163.95		28643
