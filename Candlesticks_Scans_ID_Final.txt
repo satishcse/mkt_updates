@@ -1,10 +1,21 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BHARTIARTL		1.15		752.15		31358
-HCLTECH		1.49		1083.4		29049
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JSWSTEEL		0.48		682.15		68891
+METROPOLIS		-0.35		1197.35		17061
+MFSL		0.88		633.0		15349
+ABB		-0.08		3388.65		6750
+POLYCAB		0.64		2874.8		5002
+LUXIND		0.7		1136.8		3464
+POLYMED		0.34		945.05		2695
+KAJARIACER		0.01		1033.75		1278
+SUPREMEIND		-0.39		2515.5		1200
+CEATLTD		0.89		1452.85		1128
+ALKYLAMINE		0.64		2186.25		911
+LINDEINDIA		1.18		3949.9		702
+BAJAJELEC		0.25		1101.65		147
