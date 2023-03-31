@@ -38,11 +38,11 @@ SUNPHARMA		-0.89		983.1		1842520
 Fundamental_Tenchnical_Swing								 
 ---------------------------- 
 nsecode		per_chg		close		volume
-GRAVITA		1.84		484.65		194516
+GRAVITA		1.84		484.65		185351
 PERSISTENT		1.49		4609.5		591127
-ITC		0.2		383.5		9470915
-TITAN		-0.01		2514.9		841473
-CGPOWER		-1.64		300.05		2781429
+ITC		0.2		383.5		9511251
+TITAN		-0.01		2514.9		848510
+CGPOWER		-1.64		300.05		2772988
 
 Zero_Debt_Momentum								 
 ------------------ 
