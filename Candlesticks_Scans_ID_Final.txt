@@ -6,8 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSL		0.88		281.7		64964
-MARUTI		0.45		8332.55		61381
-AIAENG		0.36		2915.85		3381
-CERA		-0.91		6404.85		3335
-BLUEDART		-0.92		6025.0		1529
+CENTURYTEX		-0.04		645.25		12999
+GRINDWELL		-1.06		1794.45		2879
+BLUEDART		-0.73		6036.0		1617
