@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.7		984.95		623466
+SUNPHARMA		-0.7		984.95		624519
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-0.26		1339.25		222380
+SRF		0.22		2404.3		351522
+AAVAS		0.53		1614.85		37737
+ASAHIINDIA		0.71		458.55		33988
