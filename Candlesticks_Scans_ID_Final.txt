@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.47		5598.9		517726
-DIVISLAB		0.13		2824.0		124721
+SBIN		1.0		521.65		6812314
+BAJFINANCE		-0.53		5595.35		521920
+DIVISLAB		0.12		2823.6		124764
 
 Bullish_Hammer_15m_N500								 
 ======================= 
