@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.46		225.7		1698212
+POWERGRID		1.24		225.2		1728256
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		1.19		632.15		153952
-BALKRISIND		0.37		1972.0		26540
-GMMPFAUDLR		-0.15		1456.85		14356
+OLECTRA		1.55		634.4		161058
+AFFLE		1.05		970.5		37524
+CLEAN		1.45		1256.8		28807
