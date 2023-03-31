@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-CIPLA		1.15		897.95		802429
+CIPLA		1.09		897.4		807109
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -63,18 +63,19 @@ NAVINFLUOR		0.99		4239.35		25650
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+CONCOR		2.32		582.9		277177
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-TCS		1.33		3180.5		938272
-BPCL		1.28		344.2		1177662
-MGL		-0.24		982.45		163793
-BAJFINANCE		-0.52		5596.15		605351
-SUNPHARMA		-0.53		986.6		773475
-TORNTPOWER		-1.07		524.55		214771
-ZEEL		-1.34		213.15		3284832
+TCS		1.31		3180.1		939235
+BPCL		1.27		344.15		1178552
+MGL		-0.23		982.5		163818
+SUNPHARMA		-0.49		987.05		781361
+BAJFINANCE		-0.51		5596.45		611724
+ZEEL		-1.2		213.45		3300122
+TORNTPOWER		-1.88		520.3		228996
 
 Open_Low								 
 ======== 
