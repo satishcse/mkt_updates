@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ----------------- 
 nsecode		per_chg		close		volume
-CIPLA		1.44		900.5		2324243
+CIPLA		1.44		900.5		2347782
 
 BN_1Hr_OBV_DIV								 
 -------------- 
@@ -115,11 +115,11 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 --------- 
 nsecode		per_chg		close		volume
-MGL		-0.14		983.45		422523
-BAJFINANCE		-0.15		5616.75		1272538
-SUNPHARMA		-0.89		983.1		1822735
-ZEEL		-1.76		212.25		6250236
-TORNTPOWER		-3.74		510.4		755667
+MGL		-0.14		983.45		422525
+BAJFINANCE		-0.15		5616.75		1263752
+SUNPHARMA		-0.89		983.1		1842520
+ZEEL		-1.76		212.25		6228215
+TORNTPOWER		-3.74		510.4		775981
 
 Open_Low								 
 -------- 
