@@ -2,15 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		2.71		420.3		9094482
-UPL		1.66		719.15		1006307
-BAJFINANCE		0.07		5629.3		972989
-TATACONSUM		1.53		708.2		559818
-MARUTI		0.13		8306.35		314842
-BRITANNIA		0.82		4311.15		163618
+BAJAJFINSV		0.87		1256.9		1204125
+SBILIFE		0.71		1106.45		533391
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANITRANS		-0.44		999.05		878342
-ROSSARI		-0.29		590.4		33075
+
