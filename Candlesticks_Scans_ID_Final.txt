@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.28		225.3		1771987
+POWERGRID		1.39		225.55		1797587
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AFFLE		1.04		970.4		38986
-CLEAN		1.55		1258.0		30906
-TIMKEN		-2.71		2694.55		23015
+BALKRISIND		0.4		1972.7		28265
+TIMKEN		-2.66		2696.0		23235
