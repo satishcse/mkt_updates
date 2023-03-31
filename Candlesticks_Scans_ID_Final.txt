@@ -7,4 +7,6 @@ HINDALCO		1.72		405.9		6164755
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-3MINDIA		-0.23		23042.9		2447
+INDIGOPNTS		0.33		1013.5		44939
+GALAXYSURF		-1.15		2318.55		9632
+3MINDIA		-0.44		22994.0		2370
