@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		4.3		2330.9		7884337
-ONGC		1.24		151.2		3754296
-COALINDIA		0.0		212.95		3397572
-BAJFINANCE		-0.18		5614.9		820001
+RELIANCE		4.25		2329.65		7912870
+ONGC		1.24		151.2		3760222
+BAJFINANCE		-0.19		5614.35		821415
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HGS		0.55		1009.95		34475
+
