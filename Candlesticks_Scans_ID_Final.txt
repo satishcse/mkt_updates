@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		2.33		418.75		7457060
-CIPLA		1.05		897.05		1188150
+TATAMOTORS		2.37		418.9		7467729
+NTPC		1.29		176.25		4293894
+CIPLA		1.05		897.05		1189781
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		0.16		1537.9		30935
+ZYDUSWELL		0.16		1537.9		31906
