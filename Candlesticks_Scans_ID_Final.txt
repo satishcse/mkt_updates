@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		1.62		226.05		1586865
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSL		1.02		282.1		69042
-PHOENIXLTD		-1.78		1316.9		22940
-CENTURYTEX		0.36		647.8		15567
+TIMKEN		-2.87		2690		17744
