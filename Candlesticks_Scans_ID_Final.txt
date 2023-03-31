@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.88		850.05		5488912
+AXISBANK		0.78		849.2		5643453
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		0.4		3029.7		15308
+FLUOROCHEM		0.45		3031		15448
