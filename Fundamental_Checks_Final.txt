@@ -41,8 +41,8 @@ nsecode		per_chg		close		volume
 GRAVITA		2.02		485.5		185164
 PERSISTENT		1.37		4604.0		591126
 ITC		0.12		383.2		9480431
-TITAN		-0.01		2514.9		848373
-CGPOWER		-1.82		299.5		2772553
+TITAN		-0.01		2514.9		848386
+CGPOWER		-1.64		300.05		2772554
 
 Zero_Debt_Momentum								 
 ------------------ 
@@ -83,5 +83,5 @@ CUMMINSIND		-0.77		1627.3		550792
 Outperforming_Nifty_1W_3M								 
 ------------------------- 
 nsecode		per_chg		close		volume
-SDBL		9.17		153		2471871
+SDBL		9.17		153		2470304
 BHARATWIRE		7.17		154		1966444
