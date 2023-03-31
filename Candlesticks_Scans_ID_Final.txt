@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		3.02		421.55		8788848
-UPL		1.76		719.85		988893
-BAJFINANCE		0.11		5631.6		944593
-MARUTI		0.26		8316.55		303097
+TATAMOTORS		2.94		421.25		8852468
+LT		1.28		2174.95		1104899
+UPL		1.76		719.85		992108
+BAJFINANCE		0.14		5633.15		948497
+TATACONSUM		1.57		708.5		548951
+MARUTI		0.33		8323.0		305322
+BRITANNIA		0.95		4316.75		160649
 
 Bullish_Hammer_15m_N500								 
 ======================= 
