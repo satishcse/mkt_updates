@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		-0.74		3340.35		256104
+HAL		-0.41		2720		635465
+RAYMOND		-2.21		1195		144050
