@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.95		401.5		5087304
-BAJAJ-AUTO		2.84		3994.9		487760
-BRITANNIA		-0.05		4320.0		360368
+HINDALCO		-0.86		401.85		5099845
+M&M		0.98		1170.0		2495713
+BRITANNIA		0.07		4325.0		360993
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LODHA		-1.61		915.3		686167
-SUMICHEM		-0.21		425.2		265423
-RAYMOND		-2.24		1194.65		202396
+RAYMOND		-2.27		1194.35		203067
+ELGIEQUIP		-0.73		434.95		181463
+POWERINDIA		-1.6		3290.05		14935
