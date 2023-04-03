@@ -27,8 +27,8 @@ JINDALSTEL		0.02		546.3		1181914
 Fundamental_Tenchnical_Swing								 
 ============================ 
 nsecode		per_chg		close		volume
-CIGNITITEC		7.37		801.0		286224
-WSTCSTPAPR		2.9		546.0		199298
+CIGNITITEC		7.37		801.0		286387
+WSTCSTPAPR		2.9		546.0		199589
 GRAVITA		2.45		496.5		203399
 TITAN		0.84		2536.0		701606
 ITC		-1.12		379.2		7057654
@@ -36,7 +36,7 @@ ITC		-1.12		379.2		7057654
 Zero_Debt_Momentum								 
 ================== 
 nsecode		per_chg		close		volume
-IZMO		9.98		133.35		930626
+IZMO		9.98		133.35		929116
 
 FIPA_above_all_SMAs								 
 =================== 
