@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-DIVISLAB		0.89		2848.35		66892
+DIVISLAB		0.83		2846.9		66971
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -40,16 +40,21 @@ MGL		-6.39		920.65		959179
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BANKBARODA		0.33		169.4		8458872
-AUROPHARMA		1.5		525.85		1077590
-ULTRACEMCO		0.36		7649.95		175923
-CANFINHOME		1.93		539.4		142747
-BANKNIFTY		0.1		40648.45		0
+BANKBARODA		0.24		169.25		8522053
+SAIL		0.97		83.5		3016026
+FEDERALBNK		1.25		133.95		2071439
+AUROPHARMA		1.52		526.0		1091504
+LICHSGFIN		0.84		331.5		285953
+ULTRACEMCO		0.36		7649.8		176172
+INDIGO		-1.16		1888.45		173331
+CANFINHOME		1.7		538.2		145130
+LALPATHLAB		0.57		1838.5		35848
+BANKNIFTY		0.09		40646.55		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-ABB		0.53		3382.9		173682
+ABB		0.53		3382.85		174558
 
 Open_High								 
 ========= 
@@ -91,6 +96,6 @@ MGL		-6.39		920.65		959179
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-CHOLAFIN		1.07		769.45		427453
-SHRIRAMFIN		0.95		1271.35		125382
-WHIRLPOOL		0.79		1325.5		123849
+CHOLAFIN		1.13		769.9		429179
+SHRIRAMFIN		1.02		1272.25		125843
+WHIRLPOOL		0.76		1325.05		124029
