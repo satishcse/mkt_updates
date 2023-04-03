@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRASIM		-0.66		1621.95		211613
+GRASIM		-0.65		1622.15		211766
+ASTRAL		-0.09		1335.8		100788
