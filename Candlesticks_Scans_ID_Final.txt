@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.54		177.8		7954569
-COALINDIA		2.62		219.25		6384730
-BAJAJFINSV		1.14		1280.9		1175403
-TITAN		0.93		2538.25		587221
+NTPC		1.54		177.8		7964622
+COALINDIA		2.67		219.35		6396525
+BAJAJFINSV		1.1		1280.45		1178181
+TITAN		0.94		2538.5		588689
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		-1.37		3297.5		12834
-ZYDUSWELL		-0.55		1541.8		7936
+POWERINDIA		-1.37		3297.5		13780
+ZYDUSWELL		-0.55		1541.8		8200
