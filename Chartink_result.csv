@@ -35,7 +35,11 @@ MGL,-4.84,935.85,338568
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GMRINFRA,4.19,42.25,3545314
+WHIRLPOOL,1.14,1330.0,92439
+POLYCAB,1.6,2926.0,79466
+BAJAJ-AUTO,1.99,3962.0,78351
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
