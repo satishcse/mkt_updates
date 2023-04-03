@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.39		422.45		3470244
-BAJFINANCE		0.84		5664.0		296874
-APOLLOHOSP		-0.6		4285.0		196094
+TATAMOTORS		0.44		422.65		3485422
+BAJFINANCE		0.86		5665.0		298161
+APOLLOHOSP		-0.6		4285.15		196888
 
 Bullish_Hammer_15m_N500								 
 ======================= 
