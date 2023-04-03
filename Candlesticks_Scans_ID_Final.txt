@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		1.04		4670.8		69298
+DRREDDY		1		4669		71260
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAMCOCEM		-0.3		754.4		40117
+IGL		-3.86		412.15		1135418
+HAVELLS		0.27		1191.65		135824
+QUESS		0.73		372.35		42232
