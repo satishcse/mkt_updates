@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.24		525		3478109
+SBIN		0.15		524.55		3536942
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MGL		-5.24		931.95		642417
-POLICYBZR		-2.36		623.8		622431
-ZFCVINDIA		-0.56		10350.95		554
+
