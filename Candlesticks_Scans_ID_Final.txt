@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.43		422.6		3444725
-COALINDIA		1.8		217.5		3223916
-SUNPHARMA		-0.52		977.95		451210
-BAJFINANCE		0.86		5665.0		294882
+TATAMOTORS		0.4		422.5		3464118
+SUNPHARMA		-0.53		977.85		451480
+BAJFINANCE		0.84		5664.0		295735
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.0		7621.8		197763
-HGS		-0.79		1021.6		17636
+ULTRACEMCO		0		7621.95		198144
