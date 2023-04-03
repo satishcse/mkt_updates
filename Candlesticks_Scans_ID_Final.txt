@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.48		104.0		16372912
-TCS		-0.3		3196.15		1100250
-TITAN		0.92		2538.0		577879
-MARUTI		2.49		8498.3		525343
-APOLLOHOSP		-1.88		4230.0		411451
-DIVISLAB		1.15		2855.7		134372
+TATASTEEL		-0.48		104.0		17383222
+BAJAJFINSV		1.11		1280.5		1151907
+TITAN		0.92		2538.15		578835
 
 Bullish_Hammer_15m_N500								 
 ======================= 
