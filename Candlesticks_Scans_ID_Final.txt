@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.18		2326.85		2713722
-SUNPHARMA		-0.32		979.95		575579
-HINDUNILVR		-1.26		2528.1		507252
-TATACONSUM		0.77		714.3		440141
+RELIANCE		-0.22		2325.85		2723365
+SUNPHARMA		-0.32		979.95		578640
+HINDUNILVR		-1.19		2529.95		509184
 
 Bullish_Hammer_15m_N500								 
 ======================= 
