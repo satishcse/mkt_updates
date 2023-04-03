@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-1.91		4228.4		365970
-BAJAJ-AUTO		1.93		3959.75		319570
-BRITANNIA		-0.33		4308.0		271228
+ONGC		1.95		154.0		16411854
+BAJAJ-AUTO		1.95		3960.4		320290
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUBANK		-2.69		563.6		1177260
-HATSUN		-2.49		821.4		13948
+HATSUN		-2.49		821.45		13776
