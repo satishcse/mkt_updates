@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		2.82		3994.4		479462
-BRITANNIA		0.03		4323.4		357222
+BAJAJ-AUTO		2.83		3994.55		481427
+BRITANNIA		0.18		4330.0		357814
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SUMICHEM		-0.2		425.25		263845
+CERA		1.17		6478.05		13275
