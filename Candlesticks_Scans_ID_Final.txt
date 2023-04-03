@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.22		226.2		923802
-EICHERMOT		2.36		3018.4		541046
+POWERGRID		0.24		226.25		924759
+EICHERMOT		2.26		3015.6		544521
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBCHEPHARM		-1.12		1954.15		4269
+BDL		-0.94		979.45		177412
+BLUEDART		-1.56		6115.75		2984
