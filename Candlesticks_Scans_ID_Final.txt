@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BPCL		-3.34		332.8		5129669
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 EICHERMOT		1.49		2992.7		883327
-POWERINDIA		-0.81		3316.25		10407
+POWERINDIA		-0.81		3316.25		11021
