@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,2.15,154.3,16040462
-TATASTEEL,-0.33,104.15,13624286
-JSWSTEEL,-0.93,681.7,1074451
-TECHM,-0.66,1094.6,1060722
+ONGC,2.05,154.15,16060286
+TATASTEEL,-0.29,104.2,13713686
+JSWSTEEL,-0.92,681.75,1077830
+TECHM,-0.67,1094.5,1075360
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GODFRYPHLP,-2.22,1779.4,51850
