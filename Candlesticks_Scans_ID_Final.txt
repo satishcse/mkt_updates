@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.29		104.2		11117797
-COALINDIA		2.27		218.5		4119534
-WIPRO		0.59		367.4		1204760
-EICHERMOT		1.78		3001.3		800659
-MARUTI		2.51		8500.25		419052
+TATASTEEL		-0.29		104.2		11159807
+SUNPHARMA		-0.32		980.0		572360
+HINDUNILVR		-1.25		2528.4		504974
+TATACONSUM		0.75		714.15		439182
 
 Bullish_Hammer_15m_N500								 
 ======================= 
