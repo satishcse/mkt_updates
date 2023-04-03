@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.29		104.2		13447439
-JSWSTEEL		-0.9		681.9		1064813
-HEROMOTOCO		3.26		2423.95		537626
+TATASTEEL		-0.33		104.15		13480258
+ITC		-0.91		380.0		3780179
+JSWSTEEL		-0.9		681.9		1066522
+HEROMOTOCO		3.3		2424.85		538604
 
 Bullish_Hammer_15m_N500								 
 ======================= 
