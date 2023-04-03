@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-DIVISLAB,0.79,2845.55,47092
+DIVISLAB,0.77,2845,47279
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
@@ -39,7 +39,9 @@ MGL,-5.51,929.25,553056
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-HDFCAMC,1.24,1729,92158
+AARTIIND,1.66,526.75,140906
+HDFCAMC,1.38,1731.45,93314
+BANKNIFTY,0.17,40677.15,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -88,6 +90,6 @@ MGL,-5.51,929.25,553056
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-SHRIRAMFIN,1.47,1277.9,66512
-CHOLAFIN,1.4,771.95,314683
-WHIRLPOOL,1.0,1328.2,104325
+SHRIRAMFIN,1.59,1279.45,68104
+CHOLAFIN,1.2,770.45,316507
+WHIRLPOOL,0.99,1328.05,104387
