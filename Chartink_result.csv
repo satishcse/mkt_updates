@@ -38,18 +38,11 @@ MGL,-5.68,927.6,588861
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
-nsecode,per_chg,close,volume
-MANAPPURAM,1.86,126.0,1792267
-MGL,-5.68,927.6,588861
-INDIACEM,0.86,186.65,523868
-LAURUSLABS,2.78,301.1,474452
-AARTIIND,1.41,525.45,163338
-HDFCAMC,1.27,1729.6,97199
+
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
-nsecode,per_chg,close,volume
-TATACHEM,0.59,978.2,116648
+
 
 Open_High,,,, 
 ========= 
@@ -94,6 +87,6 @@ MGL,-5.68,927.6,588861
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-SHRIRAMFIN,1.59,1279.45,68104
-CHOLAFIN,1.2,770.45,316507
-WHIRLPOOL,0.99,1328.05,104387
+SHRIRAMFIN,1.37,1276.6,69756
+CHOLAFIN,1.33,771.45,323641
+WHIRLPOOL,0.74,1324.75,104973
