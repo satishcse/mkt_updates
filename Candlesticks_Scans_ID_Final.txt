@@ -7,5 +7,5 @@ BPCL		-3.34		332.8		5129669
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		1.56		2994.95		881851
-POWERINDIA		-0.77		3317.75		10395
+EICHERMOT		1.49		2992.7		883327
+POWERINDIA		-0.81		3316.25		10407
