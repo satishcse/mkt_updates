@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.29		104.2		10041836
-WIPRO		0.47		366.95		1100813
-BHARTIARTL		1.15		757.65		939717
-HCLTECH		0.94		1095.4		607484
-SUNPHARMA		-0.42		979.0		471516
+TATASTEEL		-0.29		104.2		10059978
+TATAMOTORS		0.49		422.85		3498446
+WIPRO		0.45		366.9		1105019
+JSWSTEEL		-1.38		678.6		640088
+HCLTECH		0.93		1095.3		608713
+SUNPHARMA		-0.42		979.0		472380
 
 Bullish_Hammer_15m_N500								 
 ======================= 
