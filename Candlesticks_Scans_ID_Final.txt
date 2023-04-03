@@ -7,4 +7,5 @@ MARUTI		2.55		8503.85		408663
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CREDITACC		-0.01		915.1		33906
