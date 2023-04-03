@@ -27,8 +27,8 @@ JINDALSTEL		0.02		546.3		1181914
 Fundamental_Tenchnical_Swing								 
 ============================ 
 nsecode		per_chg		close		volume
-CIGNITITEC		7.37		801.0		286387
-WSTCSTPAPR		2.9		546.0		199589
+CIGNITITEC		7.37		801.0		286224
+WSTCSTPAPR		2.9		546.0		199298
 GRAVITA		2.45		496.5		203399
 TITAN		0.84		2536.0		701606
 ITC		-1.12		379.2		7057654
@@ -36,7 +36,7 @@ ITC		-1.12		379.2		7057654
 Zero_Debt_Momentum								 
 ================== 
 nsecode		per_chg		close		volume
-IZMO		9.98		133.35		929116
+IZMO		9.98		133.35		930626
 
 FIPA_above_all_SMAs								 
 =================== 
@@ -64,15 +64,15 @@ ZYDUSLIFE		0.08		491.95		708417
 GODREJCP		-0.33		965.0		839394
 POWERGRID		-0.53		224.5		5732118
 BEL		-0.56		97.0		24151371
-TRITURBINE		-1.85		327.0		1321612
+TRITURBINE		-1.85		327.0		1317644
 
 Outperforming_Nifty_1W_3M								 
 ========================= 
 nsecode		per_chg		close		volume
-TTKHLTCARE		20.0		1245.6		316527
+TTKHLTCARE		20.0		1245.6		316204
 JBMA		9.72		706.6		3207623
 TWL		6.1		278.4		1859873
-PRICOLLTD		5.07		217.75		1703930
-KIRLOSBROS		4.63		429.25		459468
+PRICOLLTD		5.07		217.75		1701914
+KIRLOSBROS		4.63		429.25		456466
 ZENTEC		3.46		339.5		2010085
-BHARATWIRE		1.35		157.3		865197
+BHARATWIRE		1.35		157.3		850804
