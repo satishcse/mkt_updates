@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATAMOTORS,0.4,422.5,3467454
-BAJFINANCE,0.84,5664.0,296431
-APOLLOHOSP,-0.59,4285.5,195650
+TATAMOTORS,0.39,422.45,3470244
+BAJFINANCE,0.84,5664.0,296874
+APOLLOHOSP,-0.6,4285.0,196094
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PGHH,-0.54,13267.3,1192
