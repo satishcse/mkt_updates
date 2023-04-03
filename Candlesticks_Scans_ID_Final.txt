@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		2.6		219.2		6199969
-JSWSTEEL		-0.99		681.3		1182410
-MARUTI		2.43		8494.0		519300
+TATASTEEL		-0.48		104.0		16182450
+COALINDIA		2.64		219.3		6208244
+RELIANCE		-0.26		2325.0		3765405
+JSWSTEEL		-0.99		681.3		1182729
+MARUTI		2.45		8495.0		519861
 
 Bullish_Hammer_15m_N500								 
 ======================= 
