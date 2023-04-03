@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-3.35		332.75		4965847
-RELIANCE		-0.28		2324.5		2773044
-GRASIM		-0.47		1625.0		199842
+GRASIM		-0.48		1624.85		200225
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		-0.7		3320		9886
-3MINDIA		-1.15		22700		1391
+POWERINDIA		-0.66		3321.5		9572
