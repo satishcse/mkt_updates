@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.92		153.95		16463622
-HINDALCO		-0.59		402.95		3935820
-HCLTECH		0.82		1094.15		1075001
-ULTRACEMCO		-0.07		7616.45		277193
+ONGC		1.95		154.0		16497627
+ULTRACEMCO		-0.02		7620.35		278210
 
 Bullish_Hammer_15m_N500								 
 ======================= 
