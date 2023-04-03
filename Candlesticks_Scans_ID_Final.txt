@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		1.1		1280.4		1165359
-TITAN		0.92		2538.0		583466
+NTPC		1.6		177.9		7930632
+COALINDIA		2.67		219.35		6365869
+BAJAJFINSV		1.13		1280.8		1169261
+TITAN		0.93		2538.2		584665
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RHIM		-0.22		628.9		102952
-POWERINDIA		-1.4		3296.6		12810
+POWERINDIA		-1.4		3296.65		12817
