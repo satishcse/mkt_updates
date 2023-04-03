@@ -2,14 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		1.01		4669.3		67294
-BAJAJ-AUTO		1.39		3938.6		54714
+DRREDDY		1.04		4670.8		69298
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.79		626.9		1640618
-ULTRACEMCO		0.82		7685.0		107791
-JUBLPHARMA		3.6		288.9		45365
-QUESS		0.77		372.5		40206
-BATAINDIA		0.27		1422.2		26723
+RAMCOCEM		-0.3		754.4		40117
