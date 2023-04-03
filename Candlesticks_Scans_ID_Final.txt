@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.29		104.2		10111855
-JSWSTEEL		-1.4		678.5		641446
-HCLTECH		0.89		1094.95		611890
-SUNPHARMA		-0.42		979.0		473887
+JSWSTEEL		-1.36		678.75		690034
+TCS		-0.63		3185.65		624923
+HCLTECH		0.86		1094.55		614141
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GODFRYPHLP		-2.06		1782.2		41126
+
