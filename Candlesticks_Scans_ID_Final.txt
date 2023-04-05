@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.05		884.25		19219028
-NTPC		-1.15		175.75		9023744
-ADANIPORTS		1.03		634.25		5680402
-BAJFINANCE		1.14		5779.95		2255683
-CIPLA		0.16		892.85		1358370
+SUNPHARMA		1.55		994.25		1307236
+DIVISLAB		0.53		2889.85		199680
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PHOENIXLTD		-1.63		1299.15		103950
+
