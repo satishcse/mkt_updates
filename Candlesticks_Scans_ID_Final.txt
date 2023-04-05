@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.85		522.25		10463638
-NTPC		-1.12		175.8		8339081
-ADANIPORTS		0.98		633.95		5468053
-HEROMOTOCO		0.01		2431.35		245664
+SBIN		-0.87		522.15		10493910
+NTPC		-1.12		175.8		8373252
+ADANIPORTS		1.03		634.25		5478872
+HEROMOTOCO		-0.04		2430.2		247144
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		-1.97		3227.8		15249
+POWERINDIA		-1.97		3227.8		15196
