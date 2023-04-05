@@ -7,4 +7,5 @@ HINDALCO		-1.18		397.8		1861948
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIVISLAB		0.27		2882.35		84288
