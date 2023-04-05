@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.56		1163.3		1046147
-NESTLEIND		-0.19		19668.1		28333
+NTPC		-1.01		176.0		6268669
+COALINDIA		1.23		222.85		4194214
+BHARTIARTL		0.35		763.2		2520352
+KOTAKBANK		0.63		1756.75		1589965
+UPL		0.19		731.0		1098912
 
 Bullish_Hammer_15m_N500								 
 ======================= 
