@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.57		1418.85		1402778
-TATACONSUM		0.5		720.65		194526
+INFY		0.5		1417.9		1411593
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GARFIBRES		-1.99		2864.25		6316
+GARFIBRES		-1.99		2864.25		6326
