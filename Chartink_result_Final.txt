@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-HDFC		2.31		2689.8		1734548
+HDFC		2.32		2689.95		1739381
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,16 +11,16 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		2.75		5872.15		1222629
-LT		2.32		2220.55		544295
-SUNTV		0.91		422.7		102868
-GODREJPROP		0.76		1053.45		92665
-MARICO		0.73		483.2		886183
-BHARTIARTL		-0.07		760.0		936532
-RECLTD		-0.51		116.5		1632323
-METROPOLIS		-0.66		1247.75		80736
-RAIN		-1.08		151.2		407024
-IDFCFIRSTB		-1.17		54.9		5068656
+BAJFINANCE		2.82		5876.1		1230078
+LT		2.32		2220.5		548832
+SUNTV		0.93		422.8		103293
+MARICO		0.74		483.25		887683
+GODREJPROP		0.72		1053.0		93169
+BHARTIARTL		-0.05		760.15		941013
+RECLTD		-0.47		116.55		1640162
+METROPOLIS		-0.64		1248.0		80993
+RAIN		-1.14		151.1		407162
+IDFCFIRSTB		-1.17		54.9		5076871
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -49,8 +49,7 @@ NIFTY		0.64		17508.6		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-BEL		0.47		97.05		4904280
+
 
 Open_High								 
 ========= 
@@ -85,11 +84,11 @@ FEDERALBNK		-3.45		128.55		7065132
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-HDFC		2.32		2689.95		1739381
-ITC		1.62		385.05		3517642
-TCS		1.38		3244.0		508276
-INFY		1.0		1425.0		1741759
-HDFCLIFE		0.54		506.4		948369
-COALINDIA		0.48		221.2		2206635
-BEL		0.47		97.05		4904280
-ULTRACEMCO		0.3		7663.2		96757
+HDFC		2.36		2691.1		1744193
+ITC		1.65		385.15		3538146
+TCS		1.46		3246.7		517468
+INFY		1.07		1425.9		1762292
+HDFCLIFE		0.5		506.2		951541
+COALINDIA		0.45		221.15		2215885
+BEL		0.41		97.0		5030306
+ULTRACEMCO		0.35		7667.0		97462
