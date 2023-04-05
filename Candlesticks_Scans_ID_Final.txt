@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INFY		0.57		1418.85		1402778
+TATACONSUM		0.5		720.65		194526
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		-0.04		1943.0		13909
-POLYMED		0.47		943.55		6643
+GARFIBRES		-1.99		2864.25		6316
