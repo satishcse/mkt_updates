@@ -11,4 +11,5 @@ SBILIFE		0.53		1109.6		247647
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		-3.14		955.25		328293
+BDL		-3.11		955.6		330779
+HATSUN		-0.61		823.8		5645
