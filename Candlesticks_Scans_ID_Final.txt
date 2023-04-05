@@ -10,4 +10,5 @@ UPL		0.19		731.0		1098912
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LAXMIMACH		-0.03		9994.35		3209
