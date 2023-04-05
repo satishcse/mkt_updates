@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.41		861.05		9530408
-POWERGRID		0.11		224.85		7058121
-HDFC		2.48		2694.25		4975066
-SUNPHARMA		1.42		992.95		1152205
-NESTLEIND		0.25		19755.5		33057
+AXISBANK		-0.38		861.3		9537352
+POWERGRID		0.13		224.9		7082301
+HDFC		2.5		2694.75		4983864
+NESTLEIND		0.3		19765.0		33269
 
 Bullish_Hammer_15m_N500								 
 ======================= 
