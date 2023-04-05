@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-1.31		1064.65		1353063
-TCS		1.41		3245.15		1291750
-TITAN		1.28		2570.0		1068832
-TECHM		0.44		1108.05		934504
+TCS		1.42		3245.3		1297879
+TITAN		1.31		2570.7		1070906
+TECHM		0.44		1108.0		936077
 
 Bullish_Hammer_15m_N500								 
 ======================= 
