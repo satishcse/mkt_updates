@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.01		176.0		6579448
-POWERGRID		0.16		224.95		5999473
-COALINDIA		1.2		222.8		4286925
-KOTAKBANK		0.59		1755.95		1620953
-UPL		0.21		731.2		1101744
+NTPC		-1.04		175.95		6599090
+COALINDIA		1.27		222.95		4291704
+KOTAKBANK		0.57		1755.65		1624689
+UPL		0.23		731.3		1111692
+TATACONSUM		1.04		724.5		657159
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 CARBORUNIV		-1.28		984.95		24175
-LAXMIMACH		-0.01		9996.2		3220
+LAXMIMACH		-0.01		9996.2		3244
