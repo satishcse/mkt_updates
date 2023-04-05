@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.76		522.75		8212320
-DRREDDY		0.3		4670.3		144955
+SBIN		-0.79		522.6		8222226
+DRREDDY		0.31		4671.15		145512
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PAGEIND		-0.9		37450.15		6777
