@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		1.62		994.95		1317247
+BPCL		-0.76		327.45		3345765
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-1.64		1298.95		107939
+PHOENIXLTD		-1.64		1298.95		108198
