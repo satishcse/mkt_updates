@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.2		885.55		19146390
-BAJFINANCE		1.14		5779.95		2247967
-KOTAKBANK		0.4		1752.65		2164640
-BAJAJ-AUTO		0.58		4017.0		533724
+ICICIBANK		0.15		885.1		19172569
+NTPC		-1.07		175.9		8686478
+BAJFINANCE		1.15		5780.95		2249578
+KOTAKBANK		0.38		1752.35		2168133
+BAJAJ-AUTO		0.63		4018.85		534244
 
 Bullish_Hammer_15m_N500								 
 ======================= 
