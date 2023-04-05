@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ACC		-1.85		1677.35		252148
-ASTRAL		0.27		1339.85		155009
-PVR		-0.56		1505.5		147422
-TCI		0.54		626.75		21077
+ASTRAL		0.29		1340.1		156135
+MUTHOOTFIN		0.04		981.55		113997
+TCI		0.61		627.2		21092
