@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.29		104.4		12622024
-ICICIBANK		-0.45		879.85		11995155
-AXISBANK		-0.54		859.95		7978673
-COALINDIA		1.14		222.65		3265467
-HINDUNILVR		0.47		2548.05		606624
+TATASTEEL		0.29		104.4		12635505
+ICICIBANK		-0.44		879.9		11997879
+AXISBANK		-0.54		859.9		7984113
+HINDUNILVR		0.59		2551.0		611077
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LUXIND		-0.11		1213.25		17283
+ASTRAL		0.13		1338.0		211989
+RHIM		-1.32		618.9		67710
