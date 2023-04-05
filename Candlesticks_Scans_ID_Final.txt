@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.48		103.6		6080630
-HINDUNILVR		-0.1		2533.45		297991
+TATASTEEL		-0.53		103.55		6137833
+HINDUNILVR		-0.12		2533.0		299117
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		-2.25		964.1		206905
 KIMS		-0.06		1392.35		2530
