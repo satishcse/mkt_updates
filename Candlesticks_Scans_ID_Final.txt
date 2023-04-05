@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.53		2549.5		685202
+HINDUNILVR		0.51		2549.15		686219
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HAL		-1.29		2677.5		700021
-AFFLE		-0.95		979.7		86770
+
