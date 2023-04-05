@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-HDFC,1.69,2673.25,596176
+HDFC,1.72,2674.25,598858
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
@@ -11,18 +11,22 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-BAJFINANCE,3.69,5926.0,602754
-MARICO,0.72,483.15,243927
-BHARTIARTL,-0.16,759.35,542494
-RECLTD,-0.51,116.5,469306
-METROPOLIS,-0.54,1249.3,13369
-IDFCFIRSTB,-0.54,55.25,1902067
-RAIN,-1.44,150.65,190312
+BAJFINANCE,3.51,5915.8,621857
+MARICO,0.67,482.9,247194
+BHARTIARTL,-0.11,759.7,557004
+METROPOLIS,-0.21,1253.5,13964
+IDFCFIRSTB,-0.45,55.3,1914234
+RECLTD,-0.56,116.45,475259
+RAIN,-1.44,150.65,192055
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-TVSMOTOR,0.55,1090.7,171091
+SBIN,-0.62,523.5,1617195
+TVSMOTOR,0.69,1092.25,178569
+ACC,-0.97,1692.4,63870
+TRENT,0.68,1366.6,28387
+DIXON,0.55,2908.95,14674
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
