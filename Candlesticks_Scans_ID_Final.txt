@@ -1,8 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NTPC		-0.9		176.2		3338121
+M&M		-0.17		1167.9		552565
+EICHERMOT		-1.64		2955.05		467035
+SBILIFE		0.56		1110.0		231248
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ATGL		-3.89		812.45		553835
