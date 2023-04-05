@@ -7,8 +7,4 @@ INDUSINDBK		-1.37		1064.0		1153860
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ACC		-1.82		1677.95		261970
-BALKRISIND		-0.04		1943.0		173748
-MUTHOOTFIN		0.21		983.25		116464
-TCI		0.43		626.1		21233
+
