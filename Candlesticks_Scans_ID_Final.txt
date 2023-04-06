@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.06		176.0		2279830
-UPL		-0.76		726.7		578594
-EICHERMOT		0.49		2948.1		320689
+NTPC		0.06		176.0		2290560
+COALINDIA		-0.56		221.25		2071614
+UPL		-0.74		726.9		580724
+EICHERMOT		0.49		2948.0		321013
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JBCHEPHARM		0.05		1956.55		8270
+
