@@ -10,15 +10,15 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IGL		1.05		448.25		1252378
-VOLTAS		0.37		821.2		123082
-BANDHANBNK		-0.65		205.35		1022616
+IGL		1.01		448.1		1272323
+VOLTAS		0.35		821.0		123543
+BANDHANBNK		-0.65		205.35		1027588
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-GLENMARK		0.22		480.95		330277
-OFSS		-0.43		3252.0		5753
+GLENMARK		0.23		481.0		333902
+HAL		1.63		2766.05		230421
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -31,7 +31,7 @@ ASHOKLEY		1.04		136.15		2568998
 L&TFH		0.24		84.0		305838
 CHAMBLFERT		0.2		273.15		84003
 CUB		0.16		125.2		220672
-HONAUT		-0.12		36866.2		349
+HONAUT		-0.12		36866.2		350
 LALPATHLAB		-0.16		1850.5		8514
 GMRINFRA		-0.23		43.6		1615645
 BRITANNIA		-0.25		4316.7		15448
