@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.06		176.0		2133414
-EICHERMOT		0.49		2948.05		313386
+NTPC		0.06		176.0		2156529
+EICHERMOT		0.55		2949.85		313723
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DMART		-3.67		3520.7		394035
-UBL		-0.94		1408.9		46141
+
