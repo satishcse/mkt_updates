@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		-0.59		3220.65		1179352
-RADICO		-0.66		1157.95		127061
-PAGEIND		-2.4		36478.1		16143
+RADICO		-0.67		1157.85		127190
+BBTC		-1.08		866.8		24998
+PAGEIND		-2.39		36480.0		16252
