@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.54		2338.45		2679904
-EICHERMOT		0.46		2947.35		292806
+RELIANCE		0.55		2338.65		2690219
+SBILIFE		0.58		1112.0		369618
+EICHERMOT		0.43		2946.5		293408
 
 Bullish_Hammer_15m_N500								 
 ======================= 
