@@ -10,17 +10,26 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IGL		0.6		446.25		770139
-VOLTAS		0.46		821.95		22737
-BANDHANBNK		-1.04		204.55		409493
+IGL		0.55		446.05		836167
+VOLTAS		0.51		822.3		43522
+BANDHANBNK		-0.75		205.15		527615
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		1.18		2284.35		263949
-INDUSTOWER		-1.01		141.75		258477
-HINDPETRO		0.51		226.8		201095
-ASTRAL		1.62		1352.0		45506
+IEX		1.83		139.0		819701
+RELIANCE		0.31		2333.1		366024
+LT		0.91		2278.35		306640
+DELTACORP		0.18		191.0		149873
+GUJGASLTD		-0.58		459.55		84802
+LAURUSLABS		0.23		306.5		64414
+ASTRAL		1.35		1348.45		51067
+BAJAJ-AUTO		0.89		4058.9		44299
+LUPIN		0.58		662.7		41658
+ABB		1.16		3413.35		28653
+SIEMENS		-0.65		3329.5		22880
+DEEPAKNTR		0.47		1814.45		14835
+ATUL		0.34		6964.4		1364
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
