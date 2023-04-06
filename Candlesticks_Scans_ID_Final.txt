@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.05		104.8		9263328
-RELIANCE		0.55		2338.55		2736780
-EICHERMOT		0.39		2945.1		299346
+TATASTEEL		-0.05		104.8		9274598
+RELIANCE		0.6		2339.7		2779404
+EICHERMOT		0.39		2945.05		299993
 
 Bullish_Hammer_15m_N500								 
 ======================= 
