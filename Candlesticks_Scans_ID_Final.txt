@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.92		876.45		20552906
-TATASTEEL		-0.38		104.45		17140978
-WIPRO		-0.74		367.0		2375199
+ICICIBANK		-1.02		875.6		20569186
+TATASTEEL		-0.38		104.45		17170962
+WIPRO		-0.74		367.0		2379472
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+VGUARD		-0.28		251.9		36237
