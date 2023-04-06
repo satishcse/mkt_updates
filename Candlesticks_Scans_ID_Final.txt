@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.43		104.4		5694090
-AXISBANK		-0.98		852.05		2710638
-COALINDIA		-0.58		221.2		569216
-TCS		0.1		3243.0		191831
+TATASTEEL		-0.33		104.5		5726276
+AXISBANK		-1.01		851.8		2720094
+COALINDIA		-0.45		221.5		586181
+TCS		0.12		3243.75		193803
 
 Bullish_Hammer_15m_N500								 
 ======================= 
