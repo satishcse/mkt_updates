@@ -10,19 +10,20 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IEX		9.71		149.75		28125048
-IGL		3.7		460.0		4503289
-ABFRL		3.46		214.05		9018208
-ADANIPORTS		1.2		644.4		5394343
-BANDHANBNK		0.77		208.3		5231890
-VOLTAS		0.56		822.75		543743
-TATAPOWER		0.08		194.75		6931030
+IEX		9.78		149.85		28367942
+IGL		3.7		460.0		4535141
+ABFRL		3.38		213.9		9030769
+ADANIPORTS		1.3		645.0		5410308
+BANDHANBNK		0.77		208.3		5276585
+VOLTAS		0.62		823.25		544742
+TATAPOWER		0.18		194.95		6957375
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BANKNIFTY		-0.06		40973.45		0
-NIFTY		0.07		17569.8		0
+AUROPHARMA		1.92		531.5		1373365
+BHARATFORG		-0.28		756.2		776012
+METROPOLIS		-0.92		1240.45		144349
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -31,13 +32,13 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-UPL		-0.23		730.6		855898
-JSWSTEEL		-0.42		683.65		550748
-MARICO		-0.57		479.65		407971
-BRITANNIA		-0.64		4299.95		141822
-UBL		-0.97		1408.55		71152
-LTIM		-1.57		4757.4		141323
-HCLTECH		-1.93		1089.7		1650354
+UPL		-0.12		731.45		861382
+JSWSTEEL		-0.31		684.4		551375
+MARICO		-0.57		479.65		411296
+BRITANNIA		-0.64		4300.0		142011
+UBL		-0.91		1409.3		71317
+LTIM		-1.58		4757.1		141650
+HCLTECH		-1.93		1089.8		1653934
 
 Open_Low								 
 ======== 
