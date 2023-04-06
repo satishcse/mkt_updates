@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.93		512.45		1268629
-TITAN		-0.54		2558.75		590669
-GRASIM		0.35		1665.0		172206
-DIVISLAB		0.87		2915.0		157452
-BRITANNIA		-0.64		4299.8		54920
+TITAN		-0.54		2558.7		592041
+HINDUNILVR		0.01		2583.0		215100
+DIVISLAB		0.79		2912.6		158241
+BRITANNIA		-0.64		4299.95		55104
 
 Bullish_Hammer_15m_N500								 
 ======================= 
