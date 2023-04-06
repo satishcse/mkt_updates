@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.05		104.9		13537963
-NTPC		-0.03		175.85		4083935
-HINDALCO		0.66		405.95		2714760
+TATASTEEL		0.05		104.9		13547342
+NTPC		-0.03		175.85		4088982
+HINDALCO		0.66		405.95		2718012
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZFCVINDIA		-0.66		10102.7		2355
-BAYERCROP		-0.58		4105.0		1767
+ZFCVINDIA		-0.8		10088.8		2434
+BAYERCROP		-0.58		4104.85		1780
