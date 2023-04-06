@@ -10,25 +10,17 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IGL		1.08		448.4		1341195
-VOLTAS		0.2		819.8		127336
-BANDHANBNK		-0.53		205.6		1137677
+IGL		1.04		448.2		1348242
+VOLTAS		0.2		819.75		130027
+BANDHANBNK		-0.53		205.6		1145065
 
 Intraday_Volume_Shocker								 
 ======================= 
-nsecode		per_chg		close		volume
-ABFRL		0.19		207.3		4707366
-RELIANCE		0.38		2334.6		1799025
-GODREJCP		-0.58		963.9		459427
-DEEPAKNTR		-0.44		1798.0		52740
-HAVELLS		-1.39		1184.2		47984
-PAGEIND		-1.12		36954.15		2929
-NIFTY		-0.25		17513.45		0
+
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-ABFRL		0.19		207.3		4707366
+
 
 Open_High								 
 ========= 
@@ -65,8 +57,8 @@ HCLTECH		-1.64		1093.0		448840
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-CHOLAFIN		4.44		814.45		2822475
-ASTRAL		2.74		1367.0		198899
-RELIANCE		0.38		2334.6		1799025
-IDFC		0.19		78.8		398043
-ALKEM		-0.08		3406.0		11247
+CHOLAFIN		4.57		815.5		2837083
+ASTRAL		2.89		1368.95		205800
+RELIANCE		0.46		2336.5		1813889
+IDFC		0.19		78.8		398543
+ALKEM		-0.23		3400.9		11560
