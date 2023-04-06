@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.06		176.0		2295557
-EICHERMOT		0.48		2947.7		321708
-APOLLOHOSP		-0.01		4200.4		162144
+NTPC		0.06		176.0		2299101
+EICHERMOT		0.55		2949.95		322083
+APOLLOHOSP		0.02		4202.0		162275
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JBCHEPHARM		0.17		1958.85		8449
