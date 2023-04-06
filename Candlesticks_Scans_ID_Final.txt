@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.0		104.85		9286351
-NTPC		0.06		176.0		1744598
-SUNPHARMA		0.69		1004.0		377747
+RELIANCE		0.58		2339.4		2902353
+NTPC		0.06		176.0		1890628
+TITAN		-0.51		2559.55		570057
+SUNPHARMA		0.65		1003.6		379911
 
 Bullish_Hammer_15m_N500								 
 ======================= 
