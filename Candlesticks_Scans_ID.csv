@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,-0.05,104.8,13162241
-HINDALCO,0.55,405.5,2507204
+TATASTEEL,0.0,104.85,13175417
+HINDALCO,0.58,405.65,2520122
+JSWSTEEL,0.12,687.4,499622
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+THERMAX,-0.73,2308.05,11973
