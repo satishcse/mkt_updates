@@ -11,7 +11,7 @@ Intraday_Buy_PSAR
 ================= 
 nsecode		per_chg		close		volume
 IEX		10.51		150.85		44168980
-FSL		5.56		112.0		2307243
+FSL		5.56		112.0		2307143
 ABFRL		4.78		216.8		10495604
 IGL		4.37		463.0		6413082
 VOLTAS		1.62		831.4		838373
