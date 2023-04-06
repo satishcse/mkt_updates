@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.4		1110		242373
+SBILIFE		0.4		1109.95		286194
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		0.24		464.25		398399
-TITAN		-0.58		2557.85		194992
-AJANTPHARM		-0.81		1252.9		3660
+ADANIENT		-0.1		1696.3		582578
+PNBHOUSING		0.33		464.7		406913
+TITAN		-0.43		2561.65		316978
+COCHINSHIP		-1.14		485.9		87459
