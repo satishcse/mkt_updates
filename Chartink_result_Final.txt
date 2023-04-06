@@ -10,9 +10,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IGL		1.65		450.9		1691498
-BANDHANBNK		0.19		207.1		2382472
-VOLTAS		0.17		819.5		320428
+IEX		4.21		142.25		4847907
+IGL		1.78		451.5		1723668
+BANDHANBNK		0.15		207.0		2391966
+VOLTAS		0.14		819.3		324739
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -22,12 +23,13 @@ INDIACEM		0.4		188.2		419009
 CANFINHOME		0.33		546.0		49550
 SHRIRAMFIN		0.16		1291.15		44960
 TATACOMM		-0.15		1269.0		42979
-HONAUT		-0.21		36833.4		622
+HONAUT		-0.21		36833.4		623
 NIFTY		0.22		17594.95		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+HDFCLIFE		0.37		509.65		748260
 
 Open_High								 
 ========= 
