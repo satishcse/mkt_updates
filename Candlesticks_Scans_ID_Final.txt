@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		1.88		1087.25		1091411
-TITAN		-0.53		2559.0		596900
-EICHERMOT		0.53		2949.4		311627
-DIVISLAB		0.8		2913.0		159278
+NTPC		0.06		176.0		2099202
+INDUSINDBK		1.94		1087.95		1093460
+EICHERMOT		0.46		2947.3		312002
+DIVISLAB		0.84		2914.2		159484
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-1.84		1427.2		654014
+TECHM		-1.16		1090.65		460402
+LTIM		-1.4		4765.95		111932
+UBL		-0.99		1408.2		44717
+PGHL		-0.25		4762.85		2708
