@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-INDUSINDBK,1.93,1087.8,1087818
-TITAN,-0.53,2559.0,596414
-GRASIM,0.35,1665.0,174295
-DIVISLAB,0.86,2914.7,159040
+INDUSINDBK,1.88,1087.25,1091411
+TITAN,-0.53,2559.0,596900
+EICHERMOT,0.53,2949.4,311627
+DIVISLAB,0.8,2913.0,159278
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+VBL,-1.84,1427.2,654014
