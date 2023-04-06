@@ -10,13 +10,14 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IEX		9.38		149.3		35101749
-IGL		4.09		461.75		4994194
-ABFRL		3.0		213.1		9415746
-ADANIPORTS		1.04		643.35		6063319
-BANDHANBNK		0.87		208.5		5663805
-VOLTAS		0.76		824.4		577939
-TATAPOWER		0.18		194.95		7501601
+IEX		9.49		149.45		35217386
+IGL		4.24		462.4		5042641
+ABFRL		3.07		213.25		9421747
+GUJGASLTD		1.43		468.85		489792
+ADANIPORTS		1.02		643.25		6071580
+BANDHANBNK		0.9		208.55		5670360
+VOLTAS		0.8		824.7		580715
+TATAPOWER		0.21		195.0		7504005
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -27,9 +28,7 @@ HAL		1.44		2761.0		1231724
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-KOTAKBANK		0.29		1757.0		1257226
-DALBHARAT		1.03		2000.05		172313
+
 
 Open_High								 
 ========= 
