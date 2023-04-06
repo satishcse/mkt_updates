@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.1		104.75		13807118
-BAJAJ-AUTO		0.42		4039.95		256432
+TITAN		-0.5		2559.8		793302
+SUNPHARMA		1.4		1011.1		786671
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKCEMENT		-0.38		2940		33322
+JKCEMENT		-0.38		2940		33659
