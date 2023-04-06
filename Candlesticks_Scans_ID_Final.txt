@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.43		384.75		3386866
-ONGC		-1.34		150.85		3374342
-INFY		0.06		1424.35		838011
-HCLTECH		-0.97		1100.4		788810
+ONGC		-1.37		150.8		3508095
+ITC		-0.47		384.6		3402520
+HCLTECH		-0.93		1100.9		879024
+INFY		0.1		1425.0		843906
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BRITANNIA		-0.67		4298.4		39532
+
