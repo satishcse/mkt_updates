@@ -8,6 +8,5 @@ EICHERMOT		0.49		2948.05		313386
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEJASNET		-0.55		619.75		168507
-LTIM		-1.44		4763.95		112495
-UBL		-0.96		1408.65		45422
+DMART		-3.67		3520.7		394035
+UBL		-0.94		1408.9		46141
