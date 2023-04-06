@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		0.42		2946.2		312369
-DIVISLAB		0.94		2916.95		160827
+EICHERMOT		0.5		2948.3		312812
+DIVISLAB		0.91		2916.0		161006
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-1.2		1090.3		464431
-LTIM		-1.45		4763.25		112274
-UBL		-0.96		1408.6		44778
+TECHM		-1.17		1090.6		466055
+ESCORTS		-0.48		1834.0		59714
+UBL		-0.97		1408.5		45242
