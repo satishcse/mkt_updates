@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.16		513.85		980937
+HDFCLIFE		-0.25		513.35		991978
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GMMPFAUDLR		-0.9		1479.9		9228
+TANLA		-2.3		567.0		84183
+NAUKRI		-0.25		3734.3		42135
