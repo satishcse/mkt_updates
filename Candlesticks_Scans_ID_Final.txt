@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		-0.17		2724.75		518619
+HDFC		-0.19		2724		563482
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AXISBANK		-0.38		848.7		3173210
-PRINCEPIPE		-1.03		560.45		11462
-JBCHEPHARM		-1.23		2010.0		2199
+HDFC		-0.19		2724.0		563482
+PRINCEPIPE		-1.11		560.0		11616
+KSB		-2.16		2190.15		10860
