@@ -1,7 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		0.52		389.35		3341752
+HDFC		0.29		2737.1		1255105
+BAJFINANCE		-1.56		5839.85		545352
+TATACONSUM		-1.16		722.0		335123
 
 Bullish_Hammer_15m_N500								 
 ======================= 
