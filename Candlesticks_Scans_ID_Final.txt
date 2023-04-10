@@ -10,6 +10,4 @@ NESTLEIND		-1.16		19546.95		17154
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NESTLEIND		-1.16		19546.95		17154
-BAJAJHLDNG		-0.31		5915.9		10948
+
