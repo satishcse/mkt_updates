@@ -1,11 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BHARTIARTL		0.78		771.95		489444
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		-0.19		1803.95		64609
-TIINDIA		-0.29		2590.45		16259
-TTKPRESTIG		-0.69		724.05		12991
+DEEPAKNTR		-0.2		1803.65		64754
+MTARTECH		-0.01		1625.0		21445
+TIINDIA		-0.24		2591.7		16291
+MAPMYINDIA		-0.41		1002.95		13258
