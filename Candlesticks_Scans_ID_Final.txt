@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		4.15		156.85		13710517
-BHARTIARTL		0.76		771.75		1471287
-BAJAJ-AUTO		0.78		4064.95		173093
-NESTLEIND		-1.15		19550.0		16818
+TATASTEEL		0.81		105.2		17225565
+ONGC		4.15		156.85		13723953
+BHARTIARTL		0.78		771.95		1473850
+MARUTI		0.11		8526.15		261997
+ULTRACEMCO		-0.02		7700.0		180866
+BAJAJ-AUTO		0.78		4064.75		173400
+NESTLEIND		-1.15		19549.1		16886
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NESTLEIND		-1.15		19549.1		16886
