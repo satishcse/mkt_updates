@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		1.65		1783.0		1118280
-HDFC		-0.29		2721.35		587486
+ADANIENT		1.56		1781.5		1134716
+HDFC		-0.48		2716.1		626607
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		-0.18		839.9		823204
-PRINCEPIPE		-1.14		559.85		12527
-MAPMYINDIA		0.29		1010.0		7290
-CLEAN		-0.75		1384.3		6736
+PRINCEPIPE		-1.13		559.9		12620
+KSB		-1.97		2194.35		11117
