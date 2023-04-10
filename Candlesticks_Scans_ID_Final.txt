@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.85		1072.8		831460
-SUNPHARMA		-0.07		1011.4		661653
-DRREDDY		0.65		4730.0		90848
+INDUSINDBK		-0.84		1072.9		833455
+SUNPHARMA		-0.04		1011.7		662788
+DRREDDY		0.65		4729.95		91116
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PGHH		-0.57		14007.05		1819
