@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.91		408.95		1958691
-HDFCLIFE		-0.23		513.45		1020389
-LT		1.66		2312.0		840592
-TATACONSUM		-1.15		722.1		264362
-TECHM		0.6		1099.35		234660
+HINDALCO		0.91		408.95		1964458
+HDFCLIFE		-0.17		513.75		1021498
+LT		1.63		2311.25		842925
+TATACONSUM		-1.25		721.4		273574
+TECHM		0.68		1100.2		238344
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MTARTECH		0.04		1625.8		20367
