@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.88		1072.5		838894
-SUNPHARMA		-0.04		1011.7		673847
-DRREDDY		0.64		4729.35		94210
+ADANIENT		2.43		1796.7		2775709
+M&M		1.04		1183.45		1331003
+SUNPHARMA		-0.09		1011.15		676204
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-2.26		1723.0		72081
 PGHH		-0.28		14048.8		1860
