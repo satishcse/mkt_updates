@@ -1,8 +1,7 @@
 
 Nifty_1Hr_OBV_DIV								 
 ================= 
-nsecode		per_chg		close		volume
-M&M		0.78		1180.4		472450
+
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,24 +10,27 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-MGL		2.18		1004.5		940864
-BHEL		2.05		72.05		9923973
-JINDALSTEL		2.0		555.2		2246072
-ACC		1.52		1738.0		134460
-LUPIN		0.32		666.25		73371
-GUJGASLTD		0.09		466.75		392198
-IDEA		-1.6		6.15		14797532
+MGL		2.09		1003.65		947524
+JINDALSTEL		1.98		555.1		2248100
+BHEL		1.91		71.95		10026858
+ACC		1.52		1738.0		134697
+LUPIN		0.3		666.1		75906
+GUJGASLTD		0.13		466.95		395480
+IDEA		-1.6		6.15		14805217
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		1.03		2949.35		135596
-NAUKRI		-0.53		3723.6		37128
+BANDHANBNK		-0.17		207.8		1669944
+LICHSGFIN		-1.11		332.95		239148
+POLYCAB		1.05		2949.95		140285
+BANKNIFTY		-0.3		40917.85		0
+NIFTY		0.15		17625.55		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-CUB		0.48		125.55		354841
+CUB		0.6		125.7		357152
 
 Open_High								 
 ========= 
@@ -56,10 +58,10 @@ ASIANPAINT		-1.69		2762.3		444701
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-IRCTC		1.21		576.8		469170
-GNFC		1.15		535.8		226284
-M&M		0.78		1180.4		472450
-MRF		0.61		84210.0		584
-TATASTEEL		0.43		104.8		6272236
-INTELLECT		0.08		430.65		83809
-TATACOMM		0.07		1260.75		41933
+IRCTC		1.29		577.25		473574
+GNFC		1.16		535.85		227027
+M&M		0.69		1179.35		476989
+MRF		0.66		84249.95		590
+TATASTEEL		0.43		104.8		6300549
+TATACOMM		0.18		1262.15		41995
+INTELLECT		0.07		430.6		84479
