@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.67		105.05		9391287
-BAJFINANCE		-1.83		5823.75		500667
-EICHERMOT		0.44		2974.85		100469
+TATASTEEL		0.72		105.1		9407231
+BAJFINANCE		-1.9		5819.4		502436
+CIPLA		0.79		900.45		269081
+EICHERMOT		0.44		2974.8		100951
 
 Bullish_Hammer_15m_N500								 
 ======================= 
