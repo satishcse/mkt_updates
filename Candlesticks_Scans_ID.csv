@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.83,176.65,5222904
-POWERGRID,1.2,227.95,1524699
-WIPRO,1.13,370.8,1495958
-MARUTI,-0.25,8495.0,162163
+POWERGRID,1.2,227.95,1527021
+WIPRO,1.1,370.7,1507665
+TATACONSUM,-1.16,722.0,356662
+MARUTI,-0.27,8494.0,162538
+BAJAJ-AUTO,0.78,4064.6,128730
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ESCORTS,-0.73,1857.75,149569
+3MINDIA,-1.2,23048.15,1359
