@@ -2,15 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		1.48		651.1		3386856
-WIPRO		1.32		371.5		1916054
-ASIANPAINT		-1.19		2776.55		995800
-SUNPHARMA		-0.21		1010.0		801077
-HINDUNILVR		-0.67		2548.1		571445
+TITAN		1.45		2585.35		1205266
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HOMEFIRST		-1.61		693.65		161775
-SUMICHEM		-2.22		431.9		125550
-KENNAMET		-1.23		2149.15		1955
+
