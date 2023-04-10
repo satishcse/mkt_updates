@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.24		371.2		1750463
-BAJAJFINSV		0.61		1311.95		921670
+WIPRO		1.23		371.15		1754137
+BAJAJFINSV		0.62		1312.05		923039
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKYLAMINE		0.04		2255.0		18715
-TCIEXP		-0.15		1487.75		6594
+DIVISLAB		-0.09		2918.85		121335
