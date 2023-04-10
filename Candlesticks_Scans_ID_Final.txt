@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.18		227.9		1602025
-SUNPHARMA		-0.08		1011.3		650979
-BAJAJ-AUTO		0.63		4058.6		133098
+POWERGRID		1.18		227.9		1604567
+SUNPHARMA		-0.07		1011.35		652309
+BAJAJ-AUTO		0.61		4058.0		133345
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SKFINDIA		-1.24		4324.8		3301
