@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.16		1424.15		4387744
-MARUTI		0.11		8526.0		252410
+INFY		0.15		1424.0		4392124
+MARUTI		0.09		8524.55		252709
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFL		-1.27		962.6		26923
-SHREECEM		-0.54		26022.55		25417
-POWERINDIA		-1.21		3165.15		14570
+INDIGOPNTS		-1.62		1069.1		35771
+SHREECEM		-0.56		26018.85		25418
+POWERINDIA		-1.19		3165.8		14571
