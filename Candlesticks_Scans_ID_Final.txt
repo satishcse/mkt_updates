@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.59		869.8		22695076
-HINDALCO		1.88		412.85		3754794
+ICICIBANK		-0.62		869.6		22707626
+TATASTEEL		1.01		105.4		15574985
+HINDALCO		1.86		412.8		3761903
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODFRYPHLP		-1.56		1730.4		34382
+GODFRYPHLP		-1.56		1730.4		34384
