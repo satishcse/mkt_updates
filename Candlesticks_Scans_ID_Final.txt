@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VOLTAS		-0.82		823.85		561629
+VOLTAS		-0.86		823.55		568285
+GMMPFAUDLR		-1.03		1478.0		9119
