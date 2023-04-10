@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.68		369.15		660930
-POWERGRID		1.31		228.2		623045
+KOTAKBANK		0.09		1758.7		228147
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ZFCVINDIA		-0.47		10097.7		377
+
