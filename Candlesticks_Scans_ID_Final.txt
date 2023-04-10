@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		-1.48		2768.2		775743
-TATACONSUM		-1.17		721.95		343320
+ASIANPAINT		-1.47		2768.5		776250
+TATACONSUM		-1.18		721.9		343985
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CREDITACC		1.69		969.95		528803
