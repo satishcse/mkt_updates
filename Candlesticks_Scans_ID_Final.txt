@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.2		336		2258118
+ICICIBANK		-0.71		868.8		29773247
+BPCL		1.19		335.95		2286832
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ALKYLAMINE		-0.62		2239.95		29759
+CARBORUNIV		-1.89		985.0		27733
