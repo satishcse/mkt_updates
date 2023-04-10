@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		3.29		155.55		7651658
-RELIANCE		0.1		2343.7		2743155
-COALINDIA		0.7		223.25		1899151
-WIPRO		1.02		370.4		1422137
-TATACONSUM		-1.16		722.0		342873
+ASIANPAINT		-1.48		2768.25		774453
+TATACONSUM		-1.16		722.0		342945
 
 Bullish_Hammer_15m_N500								 
 ======================= 
