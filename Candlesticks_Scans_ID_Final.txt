@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.48		1428.7		2538671
-HDFC		-0.14		2725.5		1100010
-BAJAJ-AUTO		0.77		4064.35		100388
+INFY		0.51		1429.2		2565201
+HDFC		-0.1		2726.6		1103555
+BAJAJ-AUTO		0.78		4064.95		100554
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IGL		-0.57		459.8		2856205
-VOLTAS		-1.17		820.95		711028
-ESCORTS		-0.13		1869.0		111351
-PATANJALI		-0.65		959.95		14229
+ESCORTS		-0.2		1867.7		112398
+PATANJALI		-0.65		959.95		14240
+GLAXO		-0.46		1294.1		5940
