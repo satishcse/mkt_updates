@@ -10,12 +10,12 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-MGL		3.98		1022.2		723569
-JINDALSTEL		1.78		554.0		1928442
-ACC		1.22		1732.85		84852
-GUJGASLTD		0.47		468.55		332790
-LUPIN		-0.05		663.8		56111
-IDEA		-2.4		6.1		13856039
+MGL		3.57		1018.2		731115
+JINDALSTEL		1.66		553.35		1982800
+ACC		1.17		1732.0		85729
+GUJGASLTD		0.28		467.65		339000
+LUPIN		-0.04		663.85		57227
+IDEA		-1.6		6.15		13889369
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -36,8 +36,7 @@ NIFTY		0.17		17628.85		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-JINDALSTEL		1.97		555		1759967
+
 
 Open_High								 
 ========= 
@@ -69,11 +68,11 @@ BHARATFORG		-1.77		748.9		471102
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-GNFC		1.33		536.75		174937
-IRCTC		1.29		577.25		359752
-MRF		0.83		84395.05		447
-INTELLECT		0.72		433.4		70806
-M&M		0.71		1179.55		405533
-TATACOMM		0.57		1267.0		35566
-TATASTEEL		0.48		104.85		4746258
-GRANULES		0.47		300.15		591864
+GNFC		1.37		536.95		175278
+IRCTC		1.21		576.8		365144
+MRF		0.77		84347.25		452
+M&M		0.69		1179.35		407681
+INTELLECT		0.62		432.95		70929
+TATASTEEL		0.48		104.85		4804796
+TATACOMM		0.44		1265.45		35805
+GRANULES		0.4		299.95		593429
