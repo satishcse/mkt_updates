@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.77		868.3		28716693
-ULTRACEMCO		-0.12		7692.9		191309
+ICICIBANK		-0.72		868.7		29033805
+ULTRACEMCO		-0.17		7688.85		194254
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODFRYPHLP		-1.87		1724.9		42247
+GODFRYPHLP		-1.87		1724.9		42249
