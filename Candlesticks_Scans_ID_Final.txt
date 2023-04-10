@@ -2,15 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.81		105.2		11614905
-POWERGRID		1.2		227.95		1529442
-WIPRO		1.16		370.9		1515703
-TATACONSUM		-1.16		722.0		356782
-MARUTI		-0.25		8495.4		162951
-BAJAJ-AUTO		0.69		4061.1		129088
+POWERGRID		1.22		228.0		1535129
+WIPRO		1.16		370.9		1518963
+MARUTI		-0.28		8493.0		163100
+BAJAJ-AUTO		0.65		4059.65		129519
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ESCORTS		-0.73		1857.75		149938
-3MINDIA		-1.26		23034.65		1410
+
