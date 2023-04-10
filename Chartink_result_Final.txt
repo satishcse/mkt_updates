@@ -2,8 +2,8 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-M&M		1.2		1185.3		1165402
-HEROMOTOCO		1.09		2452.9		102085
+HEROMOTOCO		1.17		2454.8		102478
+M&M		1.17		1185.0		1166265
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -12,14 +12,14 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-JINDALSTEL		2.2		556.25		2580324
-ACC		1.66		1740.4		228856
-BHEL		1.13		71.4		13353048
-MGL		0.57		988.75		1169095
-BALKRISIND		0.5		1979.55		67444
-LUPIN		0.12		664.9		138811
-GUJGASLTD		-0.61		463.5		555965
-IDEA		-2.4		6.1		21989976
+JINDALSTEL		2.2		556.25		2581248
+ACC		1.64		1740.0		229015
+BHEL		1.13		71.4		13364029
+MGL		0.48		987.8		1172598
+BALKRISIND		0.42		1978.1		67888
+LUPIN		0.12		664.9		138999
+GUJGASLTD		-0.6		463.55		556610
+IDEA		-2.4		6.1		22003203
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -37,7 +37,7 @@ MARUTI		-0.31		8490.1		152809
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		0.42		1814.95		246928
+DEEPAKNTR		0.27		1812.15		248630
 
 Open_High								 
 ========= 
@@ -62,10 +62,10 @@ IDFC		-3.65		76.65		3633134
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-IRCTC		1.43		578.05		655900
-M&M		1.2		1185.35		1163877
-GNFC		1.09		535.5		301738
-TATASTEEL		0.67		105.05		10292107
-TATACOMM		0.61		1267.5		71492
-MRF		0.53		84146.55		1251
-INTELLECT		0.44		432.2		166209
+IRCTC		1.44		578.1		657194
+GNFC		1.18		535.95		302455
+M&M		1.17		1185.0		1166265
+TATACOMM		0.62		1267.7		72147
+TATASTEEL		0.62		105.0		10352131
+MRF		0.56		84172.55		1252
+INTELLECT		0.48		432.35		166560
