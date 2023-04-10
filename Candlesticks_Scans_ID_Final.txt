@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		-0.24		2722.65		577302
+HDFC		-0.27		2722.05		584344
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFC		-0.24		2722.65		577302
-BOSCHLTD		0.02		18798.0		3169
+HDFC		-0.27		2722.05		584344
+CANFINHOME		0.87		572.1		173377
+KSB		-2.14		2190.5		10918
+BOSCHLTD		-0.01		18794.0		3199
