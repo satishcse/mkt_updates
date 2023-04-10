@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		2.86		154.9		5943110
+TATASTEEL		0.53		104.9		7950163
+INFY		0.5		1428.95		1984012
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		-0.15		2338.0		2211329
-APLLTD		-0.85		504.2		18724
-CARBORUNIV		-1.18		992.2		5069
+
