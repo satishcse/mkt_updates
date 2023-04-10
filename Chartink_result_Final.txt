@@ -2,9 +2,9 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		1.07		2452.35		116431
-TATASTEEL		1.05		105.45		12384244
-M&M		0.91		1181.95		1279471
+TATASTEEL		1.1		105.5		12440123
+HEROMOTOCO		1.07		2452.5		116866
+M&M		0.93		1182.15		1280801
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -25,14 +25,20 @@ IDEA		-1.6		6.15		22449341
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-MARUTI		0.0		8517.0		168948
-ICICIGI		0.56		1094.7		159820
-RAMCOCEM		0.49		758.8		131519
+TATASTEEL		1.1		105.5		12440123
+NATIONALUM		1.32		80.3		2515417
+LAURUSLABS		-1.13		301.1		576517
+ACC		1.49		1737.5		238817
+MARUTI		-0.02		8515.3		172191
+ICICIGI		0.61		1095.3		159834
+RAMCOCEM		0.45		758.5		131582
+PIIND		1.01		3058.8		81596
+MCX		0.67		1504.8		66380
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-ICICIGI		0.56		1094.7		159820
+ICICIGI		0.61		1095.3		159834
 
 Open_High								 
 ========= 
@@ -56,10 +62,10 @@ IDFC		-3.58		76.7		3900624
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-IRCTC		2.05		581.6		809798
-GNFC		1.13		535.7		315543
-TATASTEEL		1.05		105.45		12384244
-M&M		0.91		1181.95		1279471
-MRF		0.57		84173.0		1467
-INTELLECT		0.51		432.5		176958
-TATACOMM		0.39		1264.8		79792
+IRCTC		2.02		581.4		811561
+GNFC		1.13		535.7		315614
+TATASTEEL		1.1		105.5		12440123
+M&M		0.93		1182.15		1280801
+MRF		0.56		84171.65		1469
+INTELLECT		0.52		432.55		177243
+TATACOMM		0.39		1264.8		79815
