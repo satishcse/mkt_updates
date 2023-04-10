@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.57		1099.0		187515
-SUNPHARMA		-0.04		1011.65		181652
-BRITANNIA		-0.25		4289.15		71868
+BRITANNIA		-0.23		4289.9		73167
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAUKRI		-0.37		3729.75		37415
-AIAENG		-0.78		2910.95		8193
+NAUKRI		-0.36		3730		37471
