@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.68		412.05		2843799
-POWERGRID		1.15		227.85		1544293
-WIPRO		1.13		370.8		1520854
-MARUTI		-0.29		8492.0		163305
-BAJAJ-AUTO		0.65		4059.45		129984
+HINDALCO		1.64		411.9		2849212
+POWERGRID		1.18		227.9		1552068
+WIPRO		1.15		370.85		1522320
+MARUTI		-0.3		8491.05		163462
+BAJAJ-AUTO		0.64		4059.05		130665
 
 Bullish_Hammer_15m_N500								 
 ======================= 
