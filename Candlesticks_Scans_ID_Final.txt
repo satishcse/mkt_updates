@@ -1,14 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCLIFE		-0.2		513.6		993631
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-2.27		567.15		84884
-NAUKRI		-0.27		3733.3		42556
-BLUESTARCO		-0.48		1441.05		16618
-LINDEINDIA		-0.86		4112.4		12069
 CARBORUNIV		-1.04		993.55		3955
