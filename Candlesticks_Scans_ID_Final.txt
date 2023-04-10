@@ -2,19 +2,19 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.75		868.45		30905885
-BPCL		1.14		335.8		2465342
+ICICIBANK		-0.75		868.45		30905897
+BPCL		1.14		335.8		2465343
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINCABLES		-1.15		853.6		1182086
+FINCABLES		-1.15		853.6		1182088
 TANLA		-2.46		566.1		213251
 SUMICHEM		-3.5		426.25		200392
 KEI		-3.0		1709.95		157924
 HIKAL		-0.8		292.9		113383
 ACI		-1.56		610.35		77202
-RELAXO		-1.19		822.95		42107
-ALKYLAMINE		-0.7		2238.3		30886
+RELAXO		-1.19		822.95		42113
+ALKYLAMINE		-0.7		2238.3		30889
 AIAENG		-1.3		2895.85		22404
 PFIZER		-1.05		3613.0		6286
