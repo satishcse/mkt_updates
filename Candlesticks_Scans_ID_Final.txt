@@ -2,15 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.53		368.6		241896
+WIPRO		0.46		368.35		255765
+BPCL		0.74		334.45		168547
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		0.2		4782.8		17243
-SRF		0.0		2369.2		12081
-PHOENIXLTD		0.11		1283.0		7087
-LINDEINDIA		-0.31		4134.85		6222
+TRENT		-0.15		1365.25		38804
+LTTS		0.16		3603.0		20332
+LALPATHLAB		0.69		1848.7		18131
+JKCEMENT		-0.66		2901.75		5842
+INDIAMART		-0.76		4962.5		4765
 PFIZER		0.0		3651.35		462
-BAYERCROP		0.43		4097.25		415
-3MINDIA		-0.58		23193.15		166
+BAYERCROP		0.45		4098.0		419
