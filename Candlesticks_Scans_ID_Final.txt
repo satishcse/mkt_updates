@@ -7,8 +7,4 @@ HDFC		-0.15		2725.3		1107195
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ESCORTS		-0.13		1869.0		112900
-MCX		-0.21		1491.55		52242
-MAPMYINDIA		-0.4		1003.0		14468
-PATANJALI		-0.66		959.85		14273
+
