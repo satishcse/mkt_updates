@@ -7,4 +7,5 @@ NTPC		0.99		179.35		1762171
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ROUTE		-1.32		1240.95		99017
