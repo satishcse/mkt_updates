@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.53		1113.15		125064
+TECHM		0.61		1113.95		127863
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ORIENTELEC		1.01		229.95		114859
-METROPOLIS		-0.62		1242.1		38990
-APARINDS		-0.4		2684.55		16182
-MFL		0.36		968.45		3289
-JBCHEPHARM		0.2		2054.0		3280
-BAJAJELEC		0.34		1056.0		2625
+ROSSARI		-5.69		698.8		853842
+M&M		0.37		1193.0		334969
+METROPOLIS		-0.58		1242.65		39042
