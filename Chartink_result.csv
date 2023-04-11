@@ -10,11 +10,11 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-CONCOR,3.03,594.5,3515684
-IRCTC,0.12,582.0,776376
-MRF,0.09,84611.4,1837
-SAIL,-0.49,82.05,7503254
-PIDILITIND,-0.86,2335.5,92724
+CONCOR,3.03,594.5,3523598
+IRCTC,0.12,582.0,777218
+MRF,0.08,84608.85,1838
+SAIL,-0.49,82.05,7579747
+PIDILITIND,-0.87,2335.15,92954
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -46,7 +46,10 @@ BANKNIFTY,1.04,41259.6,0
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-INDIACEM,1.28,189.35,973739
+INDIACEM,1.28,189.35,975163
+ASIANPAINT,-0.83,2753.3,926678
+TITAN,0.25,2590.05,509974
+BHARATFORG,0.47,760.0,266065
 
 Open_High,,,, 
 ========= 
