@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0		847.35		5755788
+JSWSTEEL		1.29		697.4		699905
+HINDUNILVR		0.77		2551.75		177358
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DABUR		-0.29		521.7		1204350
-MCDOWELL-N		0.12		751.8		120227
-FIVESTAR		0.0		540.0		3906
+
