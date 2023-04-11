@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.1		2534.65		307032
+BAJAJFINSV		0.51		1311.7		574240
+HINDUNILVR		0.07		2534.0		308445
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-WHIRLPOOL		-0.89		1315		33635
-AJANTPHARM		-1.17		1268		17231
+
