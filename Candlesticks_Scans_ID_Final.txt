@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.83		414.85		1885217
-TITAN		0.08		2585.65		242488
+AXISBANK		0.06		847.85		9086139
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BIRLACORPN		-0.17		918.0		12394
-GOCOLORS		0.42		997.15		8149
-POWERINDIA		-0.37		3150.0		5518
+
