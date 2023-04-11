@@ -8,4 +8,6 @@ POWERGRID		0.31		229.75		1698137
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JKCEMENT		-0.36		2924.55		19465
+MFL		-0.36		961.5		13732
