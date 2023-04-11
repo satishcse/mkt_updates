@@ -8,6 +8,4 @@ SUNPHARMA		0.93		1018.0		712879
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		-0.58		3364.0		64194
-SHREECEM		0.27		26071.05		6018
-ECLERX		0.06		1348.95		3329
+SHREECEM		0.36		26094.95		6061
