@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.47		417.5		3578955
-HCLTECH		-1.28		1088.95		1078905
+HINDALCO		1.42		417.3		3592688
+HCLTECH		-1.28		1089.0		1080561
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LODHA		-1.05		932.9		440863
-GARFIBRES		-0.88		2887.95		7639
+GARFIBRES		-0.67		2894.2		7664
