@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.21		159.05		11645331
-HDFCLIFE		0.03		513.85		3207442
-LT		-0.48		2298.5		1127713
+BHARTIARTL		0.5		773.6		2970627
+LT		-0.44		2299.55		1131931
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BLUESTARCO		-0.29		1415.9		25526
+
