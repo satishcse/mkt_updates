@@ -7,6 +7,4 @@ LT		-0.42		2299.95		1154612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TITAN		0.04		2584.65		710135
-THERMAX		-2.13		2266.75		16021
+
