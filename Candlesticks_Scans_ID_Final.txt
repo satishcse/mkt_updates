@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.37		417.1		4189591
-SUNPHARMA		0.11		1009.75		1538956
-BPCL		0.95		339.0		1097974
-HINDUNILVR		0.51		2545.0		738714
-EICHERMOT		2.58		3047.1		525239
+HINDALCO		1.45		417.4		4202002
+SUNPHARMA		0.08		1009.45		1541934
+BPCL		0.88		338.75		1101266
+HINDUNILVR		0.43		2543.0		741187
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RITES		-0.73		347.55		76477
+RITES		-0.71		347.6		78352
+GARFIBRES		-1.03		2883.7		8136
