@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		4.87		1845.0		7164193
-POWERGRID		0.37		229.9		2517865
-UPL		0.3		740.0		463438
+KOTAKBANK		4.87		1844.9		7174026
+COALINDIA		0.56		223.3		2569105
+POWERGRID		0.41		230.0		2520121
+UPL		0.3		740.0		463678
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MCX		-2.84		1472.55		149640
