@@ -35,10 +35,10 @@ BANKNIFTY		1.24		41340.0		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.83		517.95		1602741
-CHOLAFIN		-0.43		825.65		1087079
-CANFINHOME		-0.42		579.7		373830
-AARTIIND		0.72		540.85		100088
+HDFCLIFE		0.87		518.15		1606229
+CHOLAFIN		-0.39		826.0		1090122
+CANFINHOME		-0.15		581.3		387529
+AARTIIND		0.85		541.55		103544
 
 Open_High								 
 ========= 
