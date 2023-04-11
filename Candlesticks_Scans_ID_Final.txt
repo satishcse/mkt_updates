@@ -6,4 +6,6 @@ HINDUNILVR		0.07		2534		299153
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TEAMLEASE		-1.0		2171.0		48380
+VINATIORGA		-0.27		1868.75		9643
