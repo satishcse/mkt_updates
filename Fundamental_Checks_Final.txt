@@ -31,10 +31,10 @@ Fundamental_Tenchnical_Swing
 ============================ 
 nsecode		per_chg		close		volume
 CIGNITITEC		5.8		825.6		245953
-WSTCSTPAPR		3.85		540.1		206855
-GRAVITA		2.92		514.0		234299
+WSTCSTPAPR		3.85		540.1		206864
+GRAVITA		2.92		514.0		234498
 ITC		1.92		396.0		18235060
-RSYSTEMS		-0.16		256.15		142310
+RSYSTEMS		-0.16		256.15		142813
 TITAN		-0.26		2577.1		820540
 
 Zero_Debt_Momentum								 
