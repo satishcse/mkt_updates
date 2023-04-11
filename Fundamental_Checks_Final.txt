@@ -40,8 +40,8 @@ RSYSTEMS		-0.18		256.1		142311
 Zero_Debt_Momentum								 
 ================== 
 nsecode		per_chg		close		volume
-UGARSUGAR		3.12		100.75		913506
-IZMO		0.11		137.2		772986
+UGARSUGAR		3.12		100.75		910800
+IZMO		0.11		137.2		768803
 
 FIPA_above_all_SMAs								 
 =================== 
@@ -88,8 +88,8 @@ Outperforming_Nifty_1W_3M
 ========================= 
 nsecode		per_chg		close		volume
 DATAPATTNS		6.39		1575.3		822681
-REFEX		6.06		306.35		1034711
-MOLDTECH		4.16		286.95		529216
-PENINLAND		3.4		15.2		951575
-PRICOLLTD		2.35		234.95		1519097
-APTECHT		0.77		418.2		359584
+REFEX		6.06		306.35		1034961
+MOLDTECH		4.16		286.95		530139
+PENINLAND		3.4		15.2		987393
+PRICOLLTD		2.35		234.95		1519846
+APTECHT		0.77		418.2		360925
