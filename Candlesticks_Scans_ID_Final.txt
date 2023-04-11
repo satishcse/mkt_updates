@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.3		1309.0		584487
-HINDUNILVR		0.11		2534.9		314885
-TATACONSUM		-0.33		718.3		249048
+BAJAJFINSV		0.43		1310.6		587591
+HINDUNILVR		0.11		2534.85		315172
+TATACONSUM		-0.32		718.35		250118
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-UBL		-1.48		1377.35		131562
+
