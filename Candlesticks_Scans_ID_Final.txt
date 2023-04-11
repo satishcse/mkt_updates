@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.04		461.5		3261926
-TITAN		0.51		2596.9		161883
-ULTRACEMCO		0.85		7761.35		35826
+TATAMOTORS		-0.05		461.05		3310881
+TITAN		0.52		2597.2		163403
+ULTRACEMCO		0.84		7760.85		36109
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AUBANK		-0.36		563.2		423728
