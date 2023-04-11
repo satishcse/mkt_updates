@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.06		847.85		9086139
+AXISBANK		-0.02		847.2		9145878
+RELIANCE		0.48		2335.9		2497284
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ZFCVINDIA		-1.41		10088.4		656
