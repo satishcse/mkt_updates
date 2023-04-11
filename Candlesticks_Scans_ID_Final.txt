@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.04		770.05		739635
-SUNPHARMA		1.23		1021.05		564760
+AXISBANK		0.16		848.7		6640030
+HINDALCO		0.91		415.2		1396019
+BHARTIARTL		0.1		770.55		742424
+SUNPHARMA		1.15		1020.15		570795
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHRIRAMFIN		-0.78		1294.6		81989
