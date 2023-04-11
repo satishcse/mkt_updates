@@ -7,5 +7,4 @@ SBIN		1.44		533.9		14187274
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGO		-0.79		1887.15		161205
-OFSS		-1.09		3267.95		36506
+OFSS		-1.09		3267.95		36543
