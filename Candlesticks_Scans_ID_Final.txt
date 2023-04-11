@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.64		158.15		6289388
+ONGC		0.6		158.1		6307483
+HEROMOTOCO		0.15		2464.45		253621
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BASF		-0.24		2317.85		1890
+DIXON		-1.99		2917.9		174513
