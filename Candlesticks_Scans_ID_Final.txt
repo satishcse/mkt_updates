@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.27		2331.2		3004765
+RELIANCE		0.26		2331.0		3012635
+SUNPHARMA		0.12		1009.85		1203697
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAINBOW		-0.93		732.1		334447
-GLAND		-0.08		1260.0		83290
+RAINBOW		-0.88		732.45		334625
+GLAND		-0.08		1260.0		83741
