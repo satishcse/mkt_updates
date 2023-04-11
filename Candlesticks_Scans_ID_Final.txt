@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ROUTE		-1.31		1241.0		101727
-CREDITACC		-1.41		945.85		101610
+360ONE		-1.24		426.85		200177
+HEROMOTOCO		-0.2		2455.7		114420
+ROUTE		-1.31		1241.0		101962
+CREDITACC		-1.37		946.25		101630
 ZFCVINDIA		-0.89		10141.3		322
