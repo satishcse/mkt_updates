@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		0.6		158.1		4524083
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ROUTE		-1.31		1241.0		99696
+ROUTE		-1.31		1241.0		99842
 BAYERCROP		-0.02		4124.25		1076
