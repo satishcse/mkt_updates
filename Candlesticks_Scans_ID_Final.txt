@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.06		2533.65		298968
+HINDUNILVR		0.07		2534		299153
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DIXON		-1.96		2918.6		174768
-INGERRAND		-1.98		2567.75		14768
+
