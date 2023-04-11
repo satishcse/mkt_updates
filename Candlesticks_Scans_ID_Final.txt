@@ -10,7 +10,4 @@ SUNPHARMA		1.12		1019.9		582499
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		-1.69		1092.4		118993
-JBCHEPHARM		0.0		2050.1		8928
-HONAUT		-0.3		36720.85		731
-BAYERCROP		0.16		4131.4		497
+JBCHEPHARM		0.03		2050.65		9082
