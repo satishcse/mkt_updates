@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.25		532.9		14972488
-TATAMOTORS		-0.9		457.15		10475811
-KOTAKBANK		4.81		1843.95		7255242
+SBIN		1.25		532.9		15002576
+TATAMOTORS		-0.92		457.05		10482323
+KOTAKBANK		4.84		1844.4		7267828
+HCLTECH		-1.2		1089.9		1054764
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		-1.94		1259.2		9411
+ENDURANCE		-1.99		1258.6		9417
