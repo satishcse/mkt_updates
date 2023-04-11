@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.85		457.4		10362737
-KOTAKBANK		4.86		1844.8		7187695
-HDFCLIFE		0.78		517.7		2527358
-UPL		0.28		739.85		465632
+TATAMOTORS		-0.8		457.6		10372902
+KOTAKBANK		4.85		1844.65		7193689
+UPL		0.27		739.75		466251
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MCX		-2.84		1472.5		151509
