@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.38		393.9		10225926
-EICHERMOT		2.42		3042.2		453416
+ITC		1.36		393.85		10267476
+EICHERMOT		2.46		3043.4		454290
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LTIM		-1.42		4729.05		114218
