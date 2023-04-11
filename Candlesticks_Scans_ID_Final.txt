@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.59		458.6		13295952
-LT		-0.42		2299.9		1143784
+TATAMOTORS		-0.6		458.55		13341448
+LT		-0.42		2299.95		1154612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TITAN		0.01		2583.9		707833
+TITAN		0.04		2584.65		710135
+THERMAX		-2.13		2266.75		16021
