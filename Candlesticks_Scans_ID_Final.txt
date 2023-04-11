@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.35		740.3		362747
+UPL		0.41		740.8		363451
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		-1.13		3226.55		995853
-INDIGO		-0.19		1898.45		105948
+INFY		-1.3		1409.0		2837113
+TCS		-1.11		3227.2		999963
+FINEORG		-1.1		4319.85		11479
+MASTEK		0.22		1568.5		7055
