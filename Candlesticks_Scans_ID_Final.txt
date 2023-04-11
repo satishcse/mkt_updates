@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		5.02		1847.55		8203704
-HINDALCO		1.39		417.15		4103553
-SUNPHARMA		0.13		1009.95		1513634
-BAJAJFINSV		1.29		1321.95		986366
-HINDUNILVR		0.54		2545.9		725409
-DIVISLAB		0.37		2920.55		105853
+HINDALCO		1.4		417.2		4107931
+SUNPHARMA		0.13		1009.95		1515533
+HINDUNILVR		0.5		2544.75		726932
+DIVISLAB		0.38		2920.65		106080
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LODHA		-2.5		919.2		547990
