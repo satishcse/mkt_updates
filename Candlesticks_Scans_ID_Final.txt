@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.26		462.5		3123980
-DIVISLAB		0.86		2934.75		23607
+TATAMOTORS		0.12		461.85		3159834
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINEORG		-0.26		4356.55		3532
+SCHAEFFLER		-2.27		3028.9		16685
+ENDURANCE		-0.63		1276.0		1753
