@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.88		457.25		10493666
-KOTAKBANK		4.86		1844.75		7276004
-HCLTECH		-1.25		1089.35		1056291
-HEROMOTOCO		0.49		2472.75		357312
+TATAMOTORS		-0.88		457.25		10520556
+KOTAKBANK		4.9		1845.5		7288620
+HCLTECH		-1.22		1089.65		1058444
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-2.84		1472.45		157446
+TIINDIA		-0.7		2557.85		317858
+BASF		-0.8		2305.0		3894
