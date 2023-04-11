@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.89		415.1		2893529
+JSWSTEEL		3.3		711.25		2918346
+GRASIM		0.29		1709.95		242018
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		-1.53		4499.9		110319
+PERSISTENT		-1.53		4500.0		110389
+COFORGE		-1.51		3999.8		91140
