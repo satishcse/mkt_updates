@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.62		458.45		13445378
-LT		-0.43		2299.7		1179410
+TATAMOTORS		-0.64		458.35		13465313
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LODHA		-2.91		915.4		609316
