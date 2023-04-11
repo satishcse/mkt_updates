@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.38		105.35		7984043
-HINDALCO		0.77		414.6		1456296
-BHARTIARTL		0.06		770.25		786589
-SUNPHARMA		1.12		1019.9		583707
+TATASTEEL		0.43		105.4		8023479
+HINDALCO		0.81		414.8		1462758
+BHARTIARTL		0.06		770.25		790966
+SUNPHARMA		1.13		1020.0		584038
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBCHEPHARM		0.03		2050.65		9082
+VIJAYA		0.56		392.95		30974
+MASTEK		0.21		1568.3		5096
