@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.16		5819.4		451908
-NESTLEIND		-0.21		19558.0		21549
+BAJFINANCE		-0.16		5819.4		452486
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+APARINDS		-2.46		2629		70851
