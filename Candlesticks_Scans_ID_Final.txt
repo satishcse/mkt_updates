@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.16		222.4		1902371
-ADANIENT		0.15		1799.9		1751880
-POWERGRID		0.31		229.75		1698137
+COALINDIA		0.2		222.5		1903844
+POWERGRID		0.26		229.65		1700544
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 JKCEMENT		-0.36		2924.55		19465
-MFL		-0.36		961.5		13732
+MFL		-0.36		961.5		13963
