@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.85		414.95		2885000
+HINDALCO		0.89		415.1		2893529
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		-1.53		4499.9		109993
 BASF		-0.57		2310.2		3182
