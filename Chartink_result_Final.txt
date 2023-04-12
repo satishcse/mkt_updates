@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-GRASIM		0.62		1721.75		310726
+GRASIM		0.64		1722		311142
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,10 +11,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INDIAMART		3.07		5294.0		91861
-ESCORTS		1.4		1921.55		131615
-BHARATFORG		1.11		772.5		504637
-SRF		0.02		2399.1		103526
+INDIAMART		3.24		5302.4		94571
+ESCORTS		1.54		1924.25		132191
+BHARATFORG		1.02		771.8		507101
+SRF		0.06		2400.05		105296
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -30,7 +30,9 @@ NIFTY		0.09		17737.5		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-CIPLA		0.9		915.3		2152149
+CIPLA		0.88		915.15		2152619
+ABFRL		0.16		222.55		339536
+MCX		1.42		1485.35		113149
 
 Open_High								 
 ========= 
@@ -52,10 +54,10 @@ TORNTPOWER		-2.85		529.6		193185
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-DIVISLAB		5.05		3075.1		930725
-BOSCHLTD		1.43		18869.95		13704
-DELTACORP		1.4		191.65		4663134
-EICHERMOT		0.84		3080.0		222012
-VOLTAS		0.37		816.7		229078
-FEDERALBNK		0.23		128.6		2121708
-HAVELLS		0.17		1175.0		143226
+DIVISLAB		5.15		3078.1		944065
+BOSCHLTD		1.47		18878.95		13720
+DELTACORP		1.24		191.35		4696256
+EICHERMOT		0.89		3081.4		223104
+VOLTAS		0.34		816.45		230132
+FEDERALBNK		0.27		128.65		2130789
+HAVELLS		0.26		1176.0		143606
