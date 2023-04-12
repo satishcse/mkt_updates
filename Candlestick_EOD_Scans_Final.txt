@@ -6,13 +6,14 @@ Hanging_Man_N100
 Bullish_Hammer_Daily_N50								 
 ======================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.03		1074.5		2900979
-SUNPHARMA		0.68		1016.15		2849133
+BHARTIARTL		-0.32		771.7		3612808
+INDUSINDBK		0.02		1074.4		2928426
+SUNPHARMA		0.54		1014.75		2866801
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
 nsecode		per_chg		close		volume
-TRENT		0.8		1364.95		170070
+TRENT		0.87		1365.9		170691
 
 Wekly_NCPR_KGS								 
 ============== 
@@ -95,6 +96,6 @@ NESTLEIND		-1.3		19419.4		53184
 BOSCHLTD		0.87		18767.45		41180
 ATUL		0.62		7063.55		40090
 SHREECEM		-0.6		26051.9		23046
-HONAUT		-0.37		36744.35		5833
+HONAUT		-0.37		36744.35		5834
 MRF		0.83		85319.1		4386
 NIFTY		0.54		17818.15		0
