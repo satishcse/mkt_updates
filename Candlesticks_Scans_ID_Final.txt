@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.31		158.55		5367125
-JSWSTEEL		0.5		717.2		1464840
+JSWSTEEL		0.52		717.3		1465672
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		-1.4		19399		34694
+NESTLEIND		-1.4		19398.95		34898
