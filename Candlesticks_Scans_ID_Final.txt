@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		1.15		917.6		2547488
+ICICIBANK		0.44		885.75		15099784
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RUSTOMJEE		-0.66		452.9		184465
-NESTLEIND		-1.19		19440.0		26794
+RUSTOMJEE		-0.66		452.9		184259
