@@ -19,8 +19,13 @@ AUBANK		0.75		580.5		1242463
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-LUPIN		3.45		683.05		1733419
-RAIN		1.22		157.55		495313
+BALRAMCHIN		-0.84		411.8		4285999
+ADANIENT		2.77		1853.05		3704462
+LUPIN		3.53		683.55		1765891
+BPCL		-0.88		336.1		1404789
+RAIN		1.25		157.6		495867
+POLYCAB		0.26		3053.3		120431
+BANKNIFTY		0.34		41505.75		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
