@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		-1.17		19445		29297
+NESTLEIND		-1.18		19442		29416
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 ULTRACEMCO		-0.54		7699.35		154713
-LAXMIMACH		-0.83		10889.8		5865
+LAXMIMACH		-0.83		10889.8		5876
