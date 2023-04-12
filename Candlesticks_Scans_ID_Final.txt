@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.51		848.95		9469346
-NESTLEIND		-1.17		19445.0		29567
+AXISBANK		-0.49		849.1		9477338
+BAJAJFINSV		-0.05		1322.6		732631
+NESTLEIND		-1.17		19445.0		29575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
