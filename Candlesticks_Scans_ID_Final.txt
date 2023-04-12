@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.34		530.3		10776960
-BHARTIARTL		-0.86		767.5		1840595
-WIPRO		0.53		372.2		877741
-TATACONSUM		0.17		718.5		426279
+BHARTIARTL		-0.83		767.7		1841783
+WIPRO		0.54		372.25		883020
+TATACONSUM		0.22		718.85		426386
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+3MINDIA		-1.04		23040.05		558
