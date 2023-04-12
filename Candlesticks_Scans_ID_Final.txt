@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.52		393.95		6050070
-COALINDIA		1.68		227.4		3813254
-TATACONSUM		0.21		718.8		543642
-ULTRACEMCO		-0.57		7697.0		159527
+ITC		-0.52		393.95		6091680
+COALINDIA		1.56		227.15		3858517
+ULTRACEMCO		-0.69		7688.2		161996
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TITAN		-0.4		2569.8		290212
-DMART		0.28		3464.0		124884
-RAINBOW		0.66		736.9		33539
-LAXMIMACH		-1.24		10844.9		6240
+DMART		0.34		3465.9		125499
+LAXMIMACH		-1.12		10858.35		6242
