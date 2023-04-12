@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.6		158.1		4817948
-NESTLEIND		-1.17		19444.85		29946
+TATACONSUM		0.18		718.6		538040
+ULTRACEMCO		-0.56		7698.35		158676
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ABB		-2.17		3206.2		293884
+
