@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.84		176.6		4351740
-M&M		0.74		1210.55		1920163
+NTPC		-0.9		176.5		4377151
+M&M		0.73		1210.5		1927730
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHREECEM		-0.52		26075		18210
+GLAXO		-0.89		1270.05		26989
+SHREECEM		-0.52		26074.95		18224
