@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.98		1679.55		7777782
-BHARTIARTL		-0.91		767.1		1844593
-WIPRO		0.57		372.35		889294
-TATACONSUM		0.15		718.4		427620
+HDFCBANK		0.98		1679.55		7809584
+BHARTIARTL		-0.86		767.5		1847599
+TATACONSUM		0.19		718.65		428377
 
 Bullish_Hammer_15m_N500								 
 ======================= 
