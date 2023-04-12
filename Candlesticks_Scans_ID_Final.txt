@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.35		530.25		10744146
-WIPRO		0.57		372.35		864850
+SBIN		-0.37		530.15		10753111
+WIPRO		0.57		372.35		869991
+TATACONSUM		0.21		718.8		425418
 
 Bullish_Hammer_15m_N500								 
 ======================= 
