@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.41		511.45		330879
-TECHM		0.41		1102.8		217395
+TECHM		0.36		1102.2		217954
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KENNAMET		0.91		2219.95		891
+
