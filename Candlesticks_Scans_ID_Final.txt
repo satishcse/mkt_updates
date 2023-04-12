@@ -7,6 +7,4 @@ NESTLEIND		-0.87		19504.2		18517
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DIXON		-0.96		2940		214905
-ULTRACEMCO		0.11		7750		75425
+
