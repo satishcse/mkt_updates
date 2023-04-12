@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.42		1102.9		219098
-SUNPHARMA		0.23		1011.55		182588
+TECHM		0.43		1102.95		220860
+SUNPHARMA		0.25		1011.8		184880
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+BEML		-0.24		1263.7		6011
 SKFINDIA		-0.19		4298.9		575
