@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.05		1847.5		1199879
-TCS		0.38		3226.0		646179
+ULTRACEMCO		0.07		7747		52321
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		0.74		3166.35		3594
+POWERINDIA		0.74		3166.35		3915
