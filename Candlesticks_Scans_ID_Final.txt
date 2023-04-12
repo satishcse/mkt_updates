@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.51		394.0		6143740
-COALINDIA		1.61		227.25		3888920
-BPCL		-0.77		336.5		1478159
-ULTRACEMCO		-0.77		7681.5		167790
+TATASTEEL		0.42		108.0		18495469
+SBIN		-0.6		528.9		15981223
+AXISBANK		-0.43		849.65		10362039
+TCS		0.63		3233.95		1201478
+TITAN		-0.41		2569.6		293250
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAINBOW		0.8		737.95		36107
-LAXMIMACH		-1.06		10865.0		6282
+LAXMIMACH		-1.06		10865		6282
