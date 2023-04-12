@@ -7,4 +7,5 @@ NESTLEIND		-1.2		19438.15		29891
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PRINCEPIPE		1.16		593.8		1361053
