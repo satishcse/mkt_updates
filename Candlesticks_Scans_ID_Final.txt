@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.08		654.45		2519179
-HCLTECH		0.57		1093.2		1581666
+NTPC		-0.93		176.45		2663836
+HCLTECH		0.58		1093.35		1585224
+BAJAJFINSV		0.1		1324.55		507722
 
 Bullish_Hammer_15m_N500								 
 ======================= 
