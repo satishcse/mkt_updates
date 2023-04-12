@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.5		717.2		1466415
-TITAN		-0.41		2569.5		304461
+JSWSTEEL		0.48		717.0		1467133
+TITAN		-0.41		2569.5		304719
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+OLECTRA		-1.15		642.6		487594
+NESTLEIND		-1.4		19398.95		35146
