@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.59		848.25		7871901
-ITC		-0.88		392.5		4358013
-BRITANNIA		-0.02		4276.35		103582
+AXISBANK		-0.58		848.35		7874856
+ITC		-0.9		392.45		4365188
+INDUSINDBK		-0.95		1063.95		1634928
+BRITANNIA		0.02		4278.0		103806
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIPIND		0.13		596.7		46131
-IFBIND		0.92		770.0		5581
+VIPIND		0.13		596.7		45706
