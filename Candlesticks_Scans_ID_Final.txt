@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.37		107.95		19287254
-SBIN		-0.88		527.4		16695802
-AXISBANK		-0.47		849.3		10934915
-TATAMOTORS		1.43		465.25		10553058
-TITAN		-0.39		2569.95		300993
-ULTRACEMCO		-0.56		7698.0		177266
+SBIN		-0.79		527.9		16792856
+AXISBANK		-0.36		850.2		10999837
+TATAMOTORS		1.45		465.35		10572382
+TITAN		-0.39		2569.95		301256
+ULTRACEMCO		-0.56		7698.0		177484
 
 Bullish_Hammer_15m_N500								 
 ======================= 
