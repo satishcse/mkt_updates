@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.93		176.45		2691208
+NTPC		-0.95		176.4		2695019
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-0.59		4451.2		170956
+DALBHARAT		0.06		2004.25		264075
+IFBIND		0.69		768.25		1832
