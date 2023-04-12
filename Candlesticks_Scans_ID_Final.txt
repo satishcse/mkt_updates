@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.82		1676.95		5057526
-TATACONSUM		-0.04		717.0		252617
+HDFCBANK		0.82		1676.95		5104280
+TATACONSUM		0.01		717.4		258696
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 NAVINFLUOR		-0.02		4476.9		143755
 CENTURYTEX		-0.12		680.7		26741
-FIVESTAR		-0.58		535.4		7623
+FIVESTAR		-0.58		535.4		9036
 ABBOTINDIA		-0.19		22774.6		4194
