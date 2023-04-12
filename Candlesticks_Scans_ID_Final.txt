@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.05		107.6		24350237
-AXISBANK		-0.34		850.4		12831584
-WIPRO		0.54		372.25		2462360
-BRITANNIA		-0.29		4265.1		267363
+AXISBANK		-0.33		850.45		12887538
+WIPRO		0.54		372.25		2479845
+TCS		0.92		3243.3		2144366
+BRITANNIA		-0.08		4273.75		269844
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BRITANNIA		-0.08		4273.75		269844
+MAHLOG		-0.93		376.45		31504
