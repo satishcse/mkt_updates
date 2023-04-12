@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABBOTINDIA		-0.07		22799.95		3772
-3MINDIA		-0.64		23132.7		410
+PAYTM		-0.94		651.55		719090
+HOMEFIRST		-0.16		711.1		14092
+AMBER		-0.69		1872.0		5102
+ABBOTINDIA		-0.07		22799.95		3776
+3MINDIA		-0.54		23156.45		387
