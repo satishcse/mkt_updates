@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.07		1075.0		2674113
-LT		-0.5		2289.9		943716
-TATACONSUM		0.1		718.0		585822
-GRASIM		0.41		1718.1		524310
-TITAN		-0.32		2571.8		367643
+INDUSINDBK		0.07		1075.0		2677723
+LT		-0.51		2289.8		945173
+GRASIM		0.44		1718.6		524692
 
 Bullish_Hammer_15m_N500								 
 ======================= 
