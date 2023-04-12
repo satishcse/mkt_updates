@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.8		336.4		1317993
-BRITANNIA		-0.17		4270.0		131422
-NESTLEIND		-1.17		19444.0		28147
+BPCL		-0.81		336.35		1321466
+BRITANNIA		-0.17		4270.0		131958
+NESTLEIND		-1.17		19445.0		28236
 
 Bullish_Hammer_15m_N500								 
 ======================= 
