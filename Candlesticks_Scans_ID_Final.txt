@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-0.7		6076.8		5147
-ABBOTINDIA		0.0		22600.0		1593
+PERSISTENT		-1.9		4457.15		158864
+BIRLACORPN		-0.58		926.45		20284
+LINDEINDIA		0.13		4122.95		7440
