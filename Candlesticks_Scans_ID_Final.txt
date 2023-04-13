@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.53		395.65		5620065
+ITC		0.51		395.55		5693667
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKLAKSHMI		-1.41		788.25		356527
+JKLAKSHMI		-1.44		788.05		358731
+JUBLPHARMA		-1.94		303.5		105515
