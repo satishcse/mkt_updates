@@ -2,17 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-2.77		1388.8		7620383
-NTPC		-1.62		172.95		3981976
-BPCL		-1.38		332.65		2735624
-BHARTIARTL		-0.21		769.45		2418248
-WIPRO		-1.45		366.75		1786645
-SBILIFE		0.17		1128.8		1046309
-UPL		-0.57		735.7		532722
-TATACONSUM		0.19		719.75		291525
-NESTLEIND		0.26		19490.0		26327
+TATASTEEL		-0.98		106.55		21664709
+BPCL		-1.42		332.5		2743080
+BHARTIARTL		-0.26		769.1		2432360
+WIPRO		-1.41		366.9		1798790
+NESTLEIND		0.22		19482.15		26405
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ULTRACEMCO		-0.58		7638.05		177803
+
