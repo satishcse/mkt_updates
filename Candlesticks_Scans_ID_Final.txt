@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.46		107.1		25985535
-HINDALCO		0.87		421.3		3984553
-UPL		-0.58		735.6		678873
-BRITANNIA		0.13		4276.95		356756
-BAJAJ-AUTO		0.09		4290.0		280297
+UPL		-0.59		735.5		680238
+BRITANNIA		0.11		4276.15		357014
+BAJAJ-AUTO		0.08		4289.3		280624
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GARFIBRES		-0.44		2907.1		3113
-LAXMIMACH		-0.98		10897.9		1505
+SHREECEM		-0.98		25860		13450
