@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-2.07		1071.85		3071240
+HCLTECH		-2.07		1071.85		3071241
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SRF		0.61		2439.25		864699
+SRF		0.61		2439.25		864709
 GODREJCP		-0.69		963.2		778428
 RELAXO		0.14		815.05		36412
 HOMEFIRST		-0.05		716.4		29338
