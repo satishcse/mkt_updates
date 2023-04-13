@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.54		332.1		3469628
-COALINDIA		-0.97		225.5		2877027
+BPCL		-1.48		332.3		3478721
+COALINDIA		-0.97		225.5		2878633
+BAJAJ-AUTO		0.08		4289.55		315524
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYPLEX		-0.96		1258		37929
+ROSSARI		-1.02		677.0		191925
+POLYPLEX		-0.9		1258.75		38009
