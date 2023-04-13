@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		2.58		530.4		3548462
-COALINDIA		-0.81		225.85		2849429
-BAJAJ-AUTO		0.06		4288.45		307175
+HDFCLIFE		2.58		530.4		3561202
+COALINDIA		-0.92		225.6		2863541
+BAJAJ-AUTO		0.06		4288.55		310356
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHREECEM		-1.15		25817.5		23537
+
