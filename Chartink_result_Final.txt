@@ -10,10 +10,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		2.29		4419.15		735808
-PAGEIND		0.7		38065.35		5887
-ASIANPAINT		0.62		2804.0		182167
-IOC		-0.96		77.25		2215640
+APOLLOHOSP		2.38		4423.0		736744
+PAGEIND		0.68		38056.0		5915
+ASIANPAINT		0.62		2804.1		184867
+IOC		-0.9		77.3		2223491
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -50,7 +50,7 @@ BANKNIFTY		0.14		41617.3		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-DIXON		2.22		2991.5		297249
+DIXON		2.23		2991.55		298283
 
 Open_High								 
 ========= 
@@ -79,10 +79,10 @@ LTIM		-4.0		4634.75		362322
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-ESCORTS		1.39		1947.95		463532
-FSL		0.44		114.35		722168
-TATACOMM		0.38		1267.6		53977
-HINDUNILVR		0.28		2536.1		437785
-IGL		0.18		484.75		741493
-MARICO		0.16		478.05		452497
-IRCTC		0.1		585.0		252159
+ESCORTS		1.4		1948.0		464085
+TATACOMM		0.56		1269.8		54444
+FSL		0.44		114.35		744402
+HINDUNILVR		0.24		2535.05		442938
+MARICO		0.2		478.25		454149
+IGL		0.18		484.75		745208
+IRCTC		0.15		585.3		252724
