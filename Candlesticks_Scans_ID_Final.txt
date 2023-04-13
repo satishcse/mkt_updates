@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.02		106.5		11402371
-TECHM		-2.27		1084.75		946318
+TATASTEEL		-0.98		106.55		11430875
+TECHM		-2.3		1084.35		948075
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.17		7696		52600
+ULTRACEMCO		0.15		7694.5		52646
