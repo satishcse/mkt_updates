@@ -10,5 +10,5 @@ Bullish_Hammer_15m_N500
 nsecode		per_chg		close		volume
 TRENT		-0.01		1363.05		145442
 METROPOLIS		-0.46		1288.85		124794
-IPCALAB		-1.17		817.2		95397
+IPCALAB		-1.17		817.2		95518
 KIMS		-0.75		1475.0		6978
