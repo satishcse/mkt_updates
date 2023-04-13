@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.22		523.35		1144149
-KOTAKBANK		-0.15		1841.25		475928
-CIPLA		-0.33		914.95		179766
-NESTLEIND		0.91		19617.9		10041
+AXISBANK		0.21		852.8		6185270
+CIPLA		-0.32		915.0		180618
+NESTLEIND		0.91		19618.05		10305
 
 Bullish_Hammer_15m_N500								 
 ======================= 
