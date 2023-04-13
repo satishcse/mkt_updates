@@ -10,10 +10,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		3.54		4473.0		562965
-PAGEIND		0.86		38122.5		4538
-ASIANPAINT		0.26		2794.0		145033
-IOC		-0.96		77.25		1855304
+APOLLOHOSP		3.58		4474.9		565313
+PAGEIND		0.86		38125.7		4555
+ASIANPAINT		0.32		2795.8		145699
+IOC		-0.96		77.25		1858343
 
 Intraday_Volume_Shocker								 
 ======================= 
