@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.14		107.45		31297818
-SBIN		0.77		532.25		26115825
+TATASTEEL		-0.19		107.4		31431860
+SBIN		0.78		532.3		26266789
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NAZARA		-1.8		538.85		139907
+
