@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.98		106.55		21694645
-BPCL		-1.39		332.6		2747218
-BHARTIARTL		-0.27		769.0		2440010
-WIPRO		-1.45		366.75		1801418
-NESTLEIND		0.25		19488.9		26431
+TATASTEEL		-0.98		106.55		21719251
+BPCL		-1.54		332.1		2755681
+BHARTIARTL		-0.27		769.05		2446938
+WIPRO		-1.46		366.7		1806307
+NESTLEIND		0.18		19475.0		26491
 
 Bullish_Hammer_15m_N500								 
 ======================= 
