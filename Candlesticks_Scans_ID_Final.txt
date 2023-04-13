@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-1.24		1004.1		954813
-TITAN		-0.01		2587.6		227839
+SUNPHARMA		-1.26		1003.85		955587
+TITAN		0.0		2587.95		228019
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		-0.73		10926.05		1205
+LAXMIMACH		-0.73		10926.05		1167
