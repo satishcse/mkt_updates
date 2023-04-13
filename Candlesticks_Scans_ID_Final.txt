@@ -5,12 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CUMMINSIND		-1.13		1559.5		941159
-BSE		-0.19		462.3		608237
-LODHA		0.21		915.15		240055
-CEATLTD		0.72		1440.35		96776
-POLYMED		-0.51		937.0		35177
-LUXIND		-0.32		1215.1		17679
-SKFINDIA		-0.72		4276.15		5524
-CERA		-0.37		6304.85		4646
+
