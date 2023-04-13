@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.21		852.8		6185270
-CIPLA		-0.32		915.0		180618
-NESTLEIND		0.91		19618.05		10305
+AXISBANK		0.22		852.9		6238927
+CIPLA		-0.35		914.7		184395
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		0.11		1364.8		130541
-MANYAVAR		0.63		1221.85		44292
+LTIM		-2.96		4685.0		257997
+TRENT		0.09		1364.45		131149
+TORNTPOWER		0.36		537.5		118043
+ZFCVINDIA		-0.89		10000.45		307
