@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.51		395.55		5743697
+ITC		0.51		395.55		5796895
+HCLTECH		-1.96		1073.0		2967089
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAJESHEXPO		-2.4		586.75		287276
-ROSSARI		-1.41		674.3		223950
-MEDPLUS		-2.2		715.05		173479
-JUBLPHARMA		-1.92		303.55		105438
-SUNDRMFAST		-1.65		993.45		86269
-CRAFTSMAN		0.26		3095.3		13235
-MRF		0.34		85588.9		2347
+ROSSARI		-1.48		673.85		225076
+LODHA		-0.07		914.5		197806
+MEDPLUS		-2.19		715.15		176040
+BAJAJHLDNG		-1.49		5949.85		27336
+GOCOLORS		-0.08		1010.0		10716
