@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-2.49		1082.3		1372602
+TECHM		-2.56		1081.45		1374955
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FIVESTAR		0.05		525.0		510477
-ULTRACEMCO		-0.3		7659.95		90702
+GARFIBRES		0.04		2921.15		1901
