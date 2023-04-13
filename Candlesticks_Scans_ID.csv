@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCLIFE,1.21,523.3,1131796
-KOTAKBANK,-0.11,1842.0,458758
-CIPLA,-0.39,914.4,176713
+HDFCLIFE,1.22,523.35,1137245
+KOTAKBANK,-0.14,1841.5,462213
+CIPLA,-0.32,915.0,177984
+NESTLEIND,0.94,19623.05,9987
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-M&M,-0.17,1205.3,961343
+TRENT,0.13,1365.0,130400
+TCIEXP,0.53,1499.95,2185
+BAYERCROP,-0.41,4104.0,1446
