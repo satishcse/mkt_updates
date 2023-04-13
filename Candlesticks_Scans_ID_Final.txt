@@ -2,15 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.56		895.15		26357176
-ITC		0.58		395.85		4862998
-RELIANCE		0.05		2347.75		4665492
-BRITANNIA		0.15		4277.7		367716
-BAJAJ-AUTO		0.09		4290.0		296245
+ICICIBANK		0.51		894.65		26562040
+ITC		0.57		395.8		4870984
+RELIANCE		0.02		2347.2		4670478
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONATSOFTW		-3.35		847.8		465658
-ALKEM		0.25		3348.9		214473
-GARFIBRES		-0.41		2908.0		4006
+GARFIBRES		-0.46		2906.55		4007
