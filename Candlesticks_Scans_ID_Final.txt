@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.1		528.75		11109483
-HEROMOTOCO		-0.98		2453.0		94977
+ONGC		0.73		158.8		5540922
+TITAN		0.24		2594.0		129981
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-0.02		1362.95		146561
 IPCALAB		-1.18		817.15		95675
-GLAND		-0.22		1263.9		64082
-JUSTDIAL		-1.55		620.15		60075
