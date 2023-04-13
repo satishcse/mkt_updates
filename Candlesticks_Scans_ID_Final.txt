@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.81		225.85		2830701
-BAJAJ-AUTO		0.08		4289.35		302676
-TITAN		0.16		2592.0		290516
+TATASTEEL		-0.23		107.35		28374713
+COALINDIA		-0.86		225.75		2838604
+ASIANPAINT		0.76		2807.95		474383
+BAJAJ-AUTO		0.08		4289.5		303265
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POLYPLEX		-0.96		1258.0		37458
+BEML		-0.63		1219.2		36505
