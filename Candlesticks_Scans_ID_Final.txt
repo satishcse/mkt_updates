@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-2.56		1081.45		1374955
+TATASTEEL		-1.16		106.35		16027199
+TECHM		-2.55		1081.6		1376977
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GARFIBRES		0.04		2921.15		1912
+HGS		-1.09		1058.6		7764
+GARFIBRES		0.19		2925.45		1904
