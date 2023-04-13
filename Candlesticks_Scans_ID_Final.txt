@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.16		106.35		15875248
-HDFCLIFE		1.58		525.2		1710091
-TECHM		-2.51		1082.0		1368422
+TATASTEEL		-1.16		106.35		15891316
+ONGC		0.7		158.75		5908840
+TECHM		-2.52		1081.9		1370229
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GARFIBRES		0.0		2919.95		1862
+GARFIBRES		0.0		2919.95		1873
 3MINDIA		-0.15		22970.0		547
