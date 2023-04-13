@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.53		395.65		5831769
-HCLTECH		-1.97		1072.95		3000599
+ITC		0.43		395.25		5998215
+HCLTECH		-2.03		1072.3		3055931
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 ROSSARI		-1.46		673.95		226793
 LODHA		-0.06		914.6		199511
-JUBLPHARMA		-1.78		304.0		108534
+JUBLPHARMA		-1.78		304.0		108866
