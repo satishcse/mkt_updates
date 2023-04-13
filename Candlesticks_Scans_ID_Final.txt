@@ -1,15 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		0.79		229.1		1292500
-NTPC		-0.48		174.95		1222378
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LT		-0.78		2270.65		301517
-LTIM		-2.94		4686.0		233847
-JBMA		-0.13		744.0		74136
-DMART		0.17		3479.0		24627
-JBCHEPHARM		-0.27		2069.95		5213
+
