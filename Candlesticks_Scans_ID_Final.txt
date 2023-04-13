@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.3		655.8		1575467
-TITAN		0.12		2590.95		179903
+ADANIPORTS		-0.3		655.75		1576700
+TITAN		0.14		2591.5		180074
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CEATLTD		-0.7		1430.25		71653
+HEROMOTOCO		-1.46		2441.2		184576
+KEI		-0.07		1752.0		44774
+PFIZER		0.27		3741.25		7686
