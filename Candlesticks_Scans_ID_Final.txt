@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.54		158.5		7200593
-RELIANCE		0.09		2348.75		3757508
-HDFCLIFE		2.26		528.75		3034773
-SUNPHARMA		-1.25		1004.0		945054
-EICHERMOT		3.18		3227.9		943270
-TITAN		-0.03		2587.05		222707
+RELIANCE		0.12		2349.45		3762082
+SUNPHARMA		-1.22		1004.3		946559
+TITAN		-0.07		2586.2		224242
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GLAND		-1.08		1253		107440
+
