@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.47		332.35		2775662
-BHARTIARTL		-0.27		769.0		2478752
-WIPRO		-1.52		366.5		1826286
-NESTLEIND		0.23		19485.0		26627
+BPCL		-1.54		332.1		2788869
+BHARTIARTL		-0.27		769.05		2513039
+WIPRO		-1.53		366.45		1835284
+NESTLEIND		0.23		19484.8		26706
 
 Bullish_Hammer_15m_N500								 
 ======================= 
