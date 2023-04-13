@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.73		158.8		8146588
-NTPC		-1.93		172.4		5165794
-HCLTECH		-2.15		1071.0		2229488
-TECHM		-2.27		1084.7		2017335
-BRITANNIA		0.15		4277.6		351079
-HEROMOTOCO		-1.15		2448.75		302301
-NESTLEIND		0.3		19497.85		29140
+ONGC		0.67		158.7		8182296
+HCLTECH		-2.1		1071.5		2233047
+BRITANNIA		0.11		4275.8		351643
+BAJAJ-AUTO		0.09		4290.0		273144
+NESTLEIND		0.29		19496.0		29161
 
 Bullish_Hammer_15m_N500								 
 ======================= 
