@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.86		159.0		7688446
-TCS		-1.58		3190.5		3288218
-M&M		-0.16		1205.4		3106129
-BAJAJ-AUTO		0.09		4289.9		265103
+TATASTEEL		-0.7		106.85		23892636
+ONGC		0.86		159.0		7697791
+TCS		-1.63		3188.7		3290021
+M&M		-0.17		1205.25		3113731
+BAJAJ-AUTO		0.09		4290.0		265672
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-0.61		1334.35		55367
+ECLERX		-0.55		1335.15		55461
