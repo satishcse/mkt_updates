@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.73		158.8		6076247
-SUNPHARMA		-0.82		1008.35		512975
-JSWSTEEL		-0.23		716.6		346846
-HEROMOTOCO		-1.11		2449.9		145697
+ONGC		0.73		158.8		6080324
+HEROMOTOCO		-1.11		2449.9		146604
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-0.29		36592.05		1886
+HONAUT		-0.29		36593.85		1907
