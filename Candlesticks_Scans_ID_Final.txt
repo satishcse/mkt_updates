@@ -2,12 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.63		158.65		6323370
-BPCL		-1.69		331.6		2150452
-WIPRO		-1.6		366.2		1537088
-CIPLA		-0.19		916.25		364475
-TATACONSUM		0.33		720.75		243290
-HEROMOTOCO		-1.11		2449.9		152543
+HEROMOTOCO		-1.1		2450		152977
 
 Bullish_Hammer_15m_N500								 
 ======================= 
