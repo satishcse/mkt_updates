@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.73		228.95		2754455
-BAJAJFINSV		0.56		1328.95		469698
-TITAN		0.24		2594.0		144179
-MARUTI		0.29		8645.7		130961
+TATASTEEL		-1.21		106.3		14743854
+ONGC		0.73		158.8		5765889
+POWERGRID		0.73		228.95		2757883
+BAJAJFINSV		0.56		1328.95		470327
+MARUTI		0.33		8649.2		131182
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		0.14		1997.95		127985
-TATAELXSI		-1.01		6312.8		35303
-SHREECEM		-0.3		26037.75		5711
+MTARTECH		-1.63		1687.6		26111
+SHREECEM		-0.3		26037.9		5713
