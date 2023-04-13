@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.82		158.95		7668999
-TCS		-1.56		3190.95		3286049
-M&M		-0.13		1205.8		3090126
-BAJAJ-AUTO		0.09		4290.0		264372
+ONGC		0.86		159.0		7688446
+TCS		-1.58		3190.5		3288218
+M&M		-0.16		1205.4		3106129
+BAJAJ-AUTO		0.09		4289.9		265103
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-0.19		1584.6		362782
+ECLERX		-0.61		1334.35		55367
