@@ -1,8 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		-0.45		1069.9		2327678
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MPHASIS		-2.75		1770.45		158622
+ULTRACEMCO		-0.22		7666.3		75936
+TATAELXSI		-1.08		6308.3		34511
+FINEORG		-0.72		4461.95		14054
