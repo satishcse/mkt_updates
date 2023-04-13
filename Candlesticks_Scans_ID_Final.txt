@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		0.11		4275.95		327545
-BAJAJ-AUTO		-0.03		4284.65		242798
-TITAN		0.12		2591.1		191522
+BRITANNIA		0.15		4277.5		327698
+BAJAJ-AUTO		0.03		4287.35		243105
+TITAN		0.13		2591.2		192399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-3.89		4640.0		572265
-RITES		0.32		347.4		294729
+LTIM		-3.85		4642		573394
