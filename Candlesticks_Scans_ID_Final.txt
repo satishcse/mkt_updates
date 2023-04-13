@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.43		1079.35		3565213
-SUNPHARMA		-1.24		1004.1		956815
+ONGC		0.86		159.0		7640378
+TCS		-1.54		3191.8		3283189
+HDFCLIFE		2.41		529.5		3079150
+M&M		-0.19		1205.0		3072371
+BAJAJ-AUTO		0.09		4290.0		263542
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 ABBOTINDIA		-0.44		22500.0		6354
-LAXMIMACH		-0.73		10926.05		1172
+LAXMIMACH		-0.73		10926.05		1262
