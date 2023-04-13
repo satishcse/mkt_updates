@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.07		528.55		11045661
-HEROMOTOCO		-1.0		2452.55		93260
+SBIN		0.11		528.8		11056183
+HEROMOTOCO		-0.92		2454.4		93781
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		0.34		1593.05		178431
-IPCALAB		-1.2		817.0		95250
+TRENT		-0.01		1363.05		145442
+METROPOLIS		-0.46		1288.85		124794
+IPCALAB		-1.17		817.2		95397
+KIMS		-0.75		1475.0		6978
