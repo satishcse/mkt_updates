@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.63		895.75		26991931
-RELIANCE		0.03		2347.35		4681289
-BRITANNIA		0.11		4276.0		369069
+TATASTEEL		-0.23		107.35		28160932
+ADANIPORTS		0.66		662.1		2662238
+JSWSTEEL		0.06		718.7		611721
+ASIANPAINT		0.73		2807.05		471418
+BAJAJ-AUTO		0.04		4287.75		299506
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 ALKEM		0.22		3348.0		216079
-GARFIBRES		-0.46		2906.55		4007
+GARFIBRES		-0.46		2906.55		4024
