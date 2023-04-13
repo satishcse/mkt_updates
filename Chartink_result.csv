@@ -10,22 +10,26 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-APOLLOHOSP,2.89,4444.9,253048
-ASIANPAINT,0.75,2807.7,64258
-IOC,-0.32,77.75,675307
+APOLLOHOSP,2.96,4448.0,255979
+ASIANPAINT,0.75,2807.55,65538
+IOC,-0.32,77.75,681453
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-ICICIGI,0.4,1095.2,158385
-LTIM,-1.54,4753.2,85530
-BANKNIFTY,0.4,41725.8,0
-NIFTY,0.06,17822.35,0
+PNB,0.74,47.4,4948925
+CANBK,0.79,288.35,587935
+ICICIGI,0.43,1095.55,158942
+EICHERMOT,1.19,3165.7,143699
+ABFRL,0.31,223.5,123662
+LTIM,-1.59,4750.9,93507
+INDIAMART,3.82,5535.0,81186
+BANKNIFTY,0.44,41740.1,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-ICICIGI,0.4,1095.2,158385
+ICICIGI,0.43,1095.55,158942
 
 Open_High,,,, 
 ========= 
