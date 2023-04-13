@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-M&M,-0.19,1205.0,2502468
-BRITANNIA,0.11,4276.1,325641
-BAJAJ-AUTO,0.03,4287.1,240933
-TITAN,0.16,2592.0,185081
-NESTLEIND,0.24,19487.8,25660
+M&M,-0.16,1205.45,2508815
+BRITANNIA,0.05,4273.55,326012
+BAJAJ-AUTO,-0.01,4285.5,241396
+TITAN,0.17,2592.2,185882
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+RITES,0.26,347.2,286407
+RATNAMANI,-1.34,2067.25,44303
