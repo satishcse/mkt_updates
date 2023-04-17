@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.6		106.85		17147466
-TECHM		-5.17		1030.7		3521789
-HINDUNILVR		0.59		2551.25		852969
+TATASTEEL		-0.56		106.9		17198223
+POWERGRID		2.29		236.5		13450294
+TECHM		-5.15		1030.85		3525436
+HINDUNILVR		0.62		2552.0		875619
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABBOTINDIA		0.06		22512.75		7897
+ABBOTINDIA		0.07		22515.05		7903
