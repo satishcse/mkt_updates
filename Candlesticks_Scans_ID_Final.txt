@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-3.27		1036.85		4848844
-ULTRACEMCO		1.86		7797.9		250033
+ADANIENT		-0.3		1865.2		940800
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GODREJPROP		-0.64		1274.85		441643
-ABB		0.55		3247.9		97106
-CENTURYPLY		0.0		504.0		72201
+
