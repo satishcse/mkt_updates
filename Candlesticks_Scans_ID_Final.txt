@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACHEM		-3.45		990.75		564321
-DEEPAKNTR		-1.02		1852.5		311469
-NAZARA		-2.56		524.35		254018
-LUXIND		-1.01		1200.8		24837
-CERA		-0.88		6440.0		6501
+PNBHOUSING		-2.59		412.5		1224917
+TATACHEM		-3.46		990.65		569104
+NAZARA		-2.55		524.4		254412
+LUXIND		-1.09		1199.9		24843
