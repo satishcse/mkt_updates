@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.22		900.95		19611973
-TATASTEEL		-0.47		107.0		15594079
-BRITANNIA		1.66		4335.0		417384
+ICICIBANK		0.12		900.05		19638386
+TATASTEEL		-0.51		106.95		15748330
+BPCL		0.66		334.45		897871
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHREECEM		-1.08		25528.65		14613
+DRREDDY		-0.52		4827.85		197577
+SHREECEM		-1.08		25528.55		14629
