@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.06		1205.3		1151625
+M&M		0.12		1205.95		1155309
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SWSOLAR		-1.47		294.2		154254
+
