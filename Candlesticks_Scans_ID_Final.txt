@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.69		227.05		525755
+COALINDIA		0.6		226.85		536212
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		-4.5		830		814164
-PFIZER		-0.67		3725		2000
+MEDPLUS		0.13		716.85		13925
+GALAXYSURF		-0.21		2484.7		2158
+PFIZER		-0.67		3725.0		2075
+CERA		-1.01		6431.9		1243
