@@ -25,7 +25,8 @@ NAVINFLUOR		-0.51		4503.7		32296
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+ESCORTS		0.87		1978.95		113519
 
 Open_High								 
 ========= 
@@ -63,10 +64,10 @@ INFY		-10.83		1238.7		37796160
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-SBIN		1.44		540.65		15971388
-MGL		1.16		1002.6		340517
-ITC		1.11		400.0		5569377
-GRASIM		0.82		1715.0		391095
-ESCORTS		0.66		1974.9		109903
-JSWSTEEL		0.05		721.0		735759
-BATAINDIA		-0.04		1399.95		125323
+SBIN		1.53		541.1		16008547
+MGL		1.24		1003.4		340729
+ITC		1.11		400.0		5584802
+ESCORTS		0.82		1978.1		111552
+GRASIM		0.81		1714.9		391147
+JSWSTEEL		0.03		720.85		738885
+BATAINDIA		-0.03		1400.0		126517
