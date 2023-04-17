@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-3.16		1038		4781919
+HCLTECH		-3.16		1037.95		4802558
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		0.36		3241.65		91704
+ABB		0.47		3245.15		94398
