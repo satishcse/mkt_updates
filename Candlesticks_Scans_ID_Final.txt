@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.7		170.1		12983048
-HDFCBANK		-1.51		1666.95		12530929
-COALINDIA		1.0		227.75		2720241
-HINDUNILVR		0.66		2552.95		830014
-TATACONSUM		-0.68		714.7		566380
+POWERGRID		2.29		236.5		13333061
+COALINDIA		0.98		227.7		2722287
+HINDUNILVR		0.63		2552.3		831459
 
 Bullish_Hammer_15m_N500								 
 ======================= 
