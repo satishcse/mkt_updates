@@ -1,13 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-RELIANCE		0.51		2367.5		8049891
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		-2.66		412.2		1206506
-TATACHEM		-3.47		990.5		562221
-NAZARA		-2.57		524.25		253589
-CERA		-0.9		6438.65		6490
+TATACHEM		-3.45		990.75		564321
+DEEPAKNTR		-1.02		1852.5		311469
+NAZARA		-2.56		524.35		254018
+LUXIND		-1.01		1200.8		24837
+CERA		-0.88		6440.0		6501
