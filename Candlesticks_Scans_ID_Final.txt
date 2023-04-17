@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBIN		2.05		543.85		30149860
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CEATLTD		-1.97		1404.15		77632
-GODFRYPHLP		-1.59		1761.45		26960
+GODFRYPHLP		-1.67		1760.15		26970
