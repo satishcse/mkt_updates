@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCLIFE		-0.16		531		1150649
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.18		2814.9		257069
-RADICO		0.54		1109.05		60742
+ASIANPAINT		0.16		2814.3		257972
+RADICO		0.57		1109.35		60969
