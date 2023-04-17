@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.03		899.3		19776267
-TATASTEEL		-0.47		107.0		15912872
-TECHM		-5.28		1029.5		3357317
-BPCL		0.66		334.45		902878
-SUNPHARMA		-0.55		998.0		876788
+ICICIBANK		0.02		899.2		19806363
+TECHM		-5.26		1029.65		3361159
+BPCL		0.65		334.4		905608
+SUNPHARMA		-0.56		997.9		886556
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DRREDDY		-0.51		4828.25		201801
