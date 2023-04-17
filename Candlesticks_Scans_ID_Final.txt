@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.11		228.0		2557974
-BPCL		0.65		334.4		890968
+ICICIBANK		0.33		902.0		19577627
+TATASTEEL		-0.51		106.95		15434496
+BRITANNIA		1.66		4335.0		416719
 
 Bullish_Hammer_15m_N500								 
 ======================= 
