@@ -1,12 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ASIANPAINT		1.25		2844.75		743222
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		-2.59		412.5		1224917
-TATACHEM		-3.46		990.65		569104
-NAZARA		-2.55		524.4		254412
-LUXIND		-1.09		1199.9		24843
+PNBHOUSING		-2.62		412.35		1230496
+TATACHEM		-3.48		990.45		573610
+DEEPAKNTR		-1.02		1852.5		313097
