@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.45		2366		8005086
+RELIANCE		0.48		2366.75		8023735
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VINATIORGA		-2.11		1984.05		38379
+
