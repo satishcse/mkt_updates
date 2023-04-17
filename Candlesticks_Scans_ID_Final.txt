@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.79		169.95		14336929
-TECHM		-5.01		1032.45		3617764
-NESTLEIND		4.38		20318.8		155420
+NTPC		-1.91		169.75		14376422
+TECHM		-5.03		1032.2		3631980
+NESTLEIND		4.51		20343.85		157000
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POWERINDIA		-1.35		3089.8		7921
+
