@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-MARUTI		0.51		8715.05		373264
+MARUTI		0.51		8715.25		374592
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -21,15 +21,21 @@ TITAN		0.58		2600.7		839424
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BEL		0.5		101.4		5977712
-INDIGO		3.22		1939.85		572890
-LUPIN		-2.11		657.2		418802
-MRF		-0.43		85229.25		1753
+BEL		0.5		101.4		6028329
+HDFCLIFE		0.16		532.7		2804675
+IDFC		1.03		78.35		2625304
+AARTIIND		2.24		559.5		736262
+LTTS		-3.59		3403.0		414980
+GNFC		0.01		545.95		405658
+MUTHOOTFIN		1.42		1048.0		371000
+TATACHEM		-2.65		998.95		358962
+WHIRLPOOL		-0.79		1326.6		74985
+MRF		-0.46		85200.0		1773
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.08		532.3		2801370
+HDFCLIFE		0.16		532.7		2804675
 
 Open_High								 
 ========= 
@@ -60,10 +66,10 @@ COFORGE		-4.15		3861.7		585917
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-MGL		2.16		1012.6		543986
-SBIN		2.1		544.15		27882333
-GRASIM		1.29		1723.1		576151
-ITC		1.19		400.3		9487990
-ESCORTS		1.12		1983.9		213063
-BATAINDIA		0.32		1405.0		338659
-JSWSTEEL		0.03		720.9		961595
+MGL		2.12		1012.15		544279
+SBIN		2.08		544.05		27916804
+GRASIM		1.33		1723.75		577107
+ITC		1.18		400.25		9504847
+ESCORTS		1.17		1984.9		213798
+BATAINDIA		0.36		1405.5		339491
+JSWSTEEL		0.02		720.8		961851
