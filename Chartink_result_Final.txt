@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-EICHERMOT		1.03		3262.25		215337
+EICHERMOT		1		3261.3		217055
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,24 +11,24 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-JUBLFOOD		2.65		442.4		2122386
-RAMCOCEM		0.02		763.15		37882
-VOLTAS		-0.2		833.6		353173
+JUBLFOOD		2.59		442.15		2133764
+RAMCOCEM		0.0		763.0		39057
+VOLTAS		-0.05		834.9		354077
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-IDFC		1.08		79.25		1019754
-HDFCLIFE		0.39		535.5		819253
-ADANIENT		-0.45		1870.35		748411
-GUJGASLTD		0.93		474.25		204008
-AARTIIND		-1.5		549.0		156234
-ULTRACEMCO		-0.29		7719.95		92490
-GRANULES		0.19		295.1		90930
-BALKRISIND		1.31		2110.8		42769
-MCX		-0.18		1470.75		42369
-SHREECEM		-0.28		25460.05		12752
-NIFTY		-0.28		17657.5		0
+PFC		0.42		166.1		1837277
+IDFC		1.08		79.25		1031490
+HDFCLIFE		0.4		535.55		835593
+GUJGASLTD		0.84		473.85		206032
+AARTIIND		-1.42		549.45		157660
+ULTRACEMCO		-0.37		7713.5		93663
+GRANULES		0.25		295.3		92218
+MCX		-0.18		1470.8		42384
+TORNTPHARM		0.65		1590.3		26255
+SHREECEM		-0.24		25470.1		12854
+NIFTY		-0.29		17655.05		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
