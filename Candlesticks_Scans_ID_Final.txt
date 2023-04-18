@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.39		897.8		21557613
-HCLTECH		1.71		1060.0		3040379
-TCS		-0.46		3125.0		1661362
-SBILIFE		-0.28		1142.2		407332
+TATASTEEL		0.37		107.55		20594019
+ADANIPORTS		-0.96		658.35		2426999
+TECHM		-0.82		1021.5		2337039
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LODHA		-0.65		937.35		376005
-SIEMENS		-0.5		3323.1		145388
-HONAUT		-0.31		35926.85		9231
+
