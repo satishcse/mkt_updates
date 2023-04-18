@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ICICIBANK,0.04,901.65,14783932
-TATASTEEL,0.28,107.45,14638633
-TITAN,-1.42,2568.6,397784
+ICICIBANK,0.0,901.3,14811269
+TATASTEEL,0.28,107.45,14677181
+SUNPHARMA,0.19,1000.55,792421
+TITAN,-1.37,2569.95,402471
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SCHAEFFLER,-2.34,2960,82725
