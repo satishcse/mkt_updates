@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.52		906.0		2818026
-NTPC		0.29		170.1		1162035
-COALINDIA		0.91		231.7		1012124
+NTPC		0.21		169.95		1183930
+COALINDIA		1.02		231.95		1049905
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		-0.68		1276.7		25657
+ENDURANCE		-0.69		1276.6		25676
+SUPREMEIND		-0.82		2634.7		15180
