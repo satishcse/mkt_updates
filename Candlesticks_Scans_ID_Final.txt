@@ -2,12 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.12		159.95		2104848
-TATACONSUM		0.5		716.8		188612
-APOLLOHOSP		-1.66		4313.9		163926
+ONGC		-0.16		159.9		2129372
+TATACONSUM		0.47		716.55		188913
+APOLLOHOSP		-1.67		4313.4		164543
+DRREDDY		0.35		4869.05		36017
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-1.44		2333.45		1531176
-SIEMENS		-0.12		3335.8		25989
+RELIANCE		-1.45		2333.05		1543219
+ADANIGREEN		0.04		962.9		591233
+RAYMOND		0.42		1391.0		222073
+BAJFINANCE		-0.7		5919.55		203682
+AARTIIND		-1.26		550.3		162728
