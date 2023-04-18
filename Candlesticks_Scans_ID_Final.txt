@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.09		160.0		3368999
-UPL		0.58		741.4		603002
+UPL		0.58		741.4		604419
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANURAS		-4.37		1012.0		302676
 CERA		-1.03		6375.55		14620
