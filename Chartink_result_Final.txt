@@ -10,16 +10,20 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IDFC		3.0		80.75		8901743
-JUBLFOOD		2.15		440.25		3426175
-VOLTAS		-0.42		831.75		951117
-BPCL		-0.6		333.7		2430465
+IDFC		2.74		80.55		8916372
+JUBLFOOD		2.19		440.45		3438568
+VOLTAS		-0.42		831.75		951659
+BPCL		-0.63		333.6		2435301
 RAMCOCEM		-0.83		756.65		177568
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-COROMANDEL		0.3		926.85		140515
+INDHOTEL		-0.84		329.6		2163254
+EXIDEIND		-0.56		187.05		1727446
+IRCTC		0.83		601.6		922207
+TATACONSUM		-0.88		706.95		863813
+TORNTPOWER		1.37		527.05		190283
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
