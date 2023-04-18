@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUPREMEIND		-2.32		2594.75		29588
-AIAENG		-0.79		2896.95		6870
-HONAUT		0.34		36160.4		413
+LTIM		-0.61		4306.0		153373
+GUJALKALI		-0.97		649.35		18257
+PAGEIND		-0.22		38152.5		1354
+CERA		-0.38		6417.7		669
+HONAUT		0.4		36181.0		415
