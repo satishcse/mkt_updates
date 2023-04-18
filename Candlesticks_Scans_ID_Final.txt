@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.19		106.95		6831445
-SBIN		0.11		544.6		6663363
-ASIANPAINT		0.1		2846.0		196309
-TATACONSUM		0.58		717.35		193504
+TATASTEEL		-0.14		107.0		6862219
+ASIANPAINT		0.05		2844.45		197084
+TATACONSUM		0.58		717.35		193813
 
 Bullish_Hammer_15m_N500								 
 ======================= 
