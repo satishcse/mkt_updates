@@ -1,11 +1,20 @@
 
 Tweezer_top_15m_Nifty								 
-===================== 
+--------------------- 
 nsecode		per_chg		close		volume
-COALINDIA		1.05		232.0		6847262
-JSWSTEEL		-0.33		718.8		688483
+TATASTEEL		0.42		107.6		25476339
+COALINDIA		1.13		232.2		8004952
+JSWSTEEL		-0.24		719.5		837349
+BRITANNIA		-0.85		4301.85		190132
 
 Bullish_Hammer_15m_N500								 
-======================= 
+----------------------- 
 nsecode		per_chg		close		volume
-SKFINDIA		-1.54		4200.3		9306
+VBL		-2.59		1414.5		2220965
+PNBHOUSING		0.3		412.8		1826880
+SONATSOFTW		-0.17		798.45		828395
+VAIBHAVGBL		1.87		312.5		753215
+JBCHEPHARM		-1.18		2118.35		135336
+MAHLIFE		-1.84		358.1		81498
+GRINFRA		-0.9		970.45		39165
+POLYMED		-1.49		927.7		26461
