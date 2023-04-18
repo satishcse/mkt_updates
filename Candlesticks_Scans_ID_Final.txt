@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.14		107.0		6881914
-JSWSTEEL		-0.8		715.4		252385
-ASIANPAINT		0.01		2843.4		197825
-TATACONSUM		0.53		717.0		195185
+TATASTEEL		-0.19		106.95		6930497
+NTPC		0.12		169.8		4142185
+ASIANPAINT		0.0		2843.0		199295
+TATACONSUM		0.52		716.9		195996
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-1.59		2329.7		1747387
-OFSS		-0.55		3263.0		11282
+RELIANCE		-1.58		2330.05		1756664
