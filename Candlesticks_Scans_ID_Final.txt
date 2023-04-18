@@ -2,8 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.62		741.75		614614
+TATASTEEL		0.33		107.5		11887309
+TATAMOTORS		0.52		474.6		9884251
+INFY		0.17		1260.45		7255483
+BPCL		0.4		337.05		626663
+NESTLEIND		1.01		20449.0		62579
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TATACOMM		-4.73		1185.45		547426
