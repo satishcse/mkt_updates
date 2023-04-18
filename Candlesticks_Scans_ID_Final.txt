@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.06		160.05		4114113
+ONGC		-0.06		160.05		4117358
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FACT		-1.72		328.35		2070026
-ZYDUSWELL		-0.13		1518.55		5602
+BOSCHLTD		0.02		18888.45		6412
+ZYDUSWELL		-0.16		1518.0		5448
