@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.14		1211.25		478858
-BAJFINANCE		-0.23		5947.45		284390
-EICHERMOT		0.63		3249.45		280023
-DRREDDY		0.82		4892.1		69282
-NIFTY		-0.12		17685.9		0
+M&M		-0.15		1211.1		482218
+BAJFINANCE		-0.23		5947.95		285196
+EICHERMOT		0.61		3248.85		281499
+DRREDDY		0.84		4893.2		70782
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-0.9		1861.8		1242094
-TATACOMM		-4.3		1190.8		425878
-LAXMIMACH		0.34		10746.1		780
+LAXMIMACH		0.34		10746.1		779
