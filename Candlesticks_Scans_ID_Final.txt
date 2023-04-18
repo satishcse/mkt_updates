@@ -1,8 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		0.03		160.2		1795250
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CANFINHOME		-2.91		553.8		229026
+POLYMED		-0.42		937.75		3367
