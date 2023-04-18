@@ -9,5 +9,4 @@ NTPC		0.18		169.9		11486268
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		2.12		1303.9		2314559
-TITAN		-1.63		2563.2		486950
+ANGELONE		2.1		1303.6		2318318
