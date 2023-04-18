@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.34		430.15		1946541
-BAJFINANCE		-0.17		5951.05		277876
-MARUTI		0.58		8725.0		96935
-BRITANNIA		0.37		4354.8		60052
+HINDALCO		0.3		430.0		1952369
+BAJFINANCE		-0.19		5949.95		279660
 
 Bullish_Hammer_15m_N500								 
 ======================= 
