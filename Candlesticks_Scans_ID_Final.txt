@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.18		169.9		11646015
+NTPC		0.21		169.95		11705130
+KOTAKBANK		-0.23		1890.8		2110604
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAND		-0.81		1226.4		444112
+KOTAKBANK		-0.23		1890.8		2110604
