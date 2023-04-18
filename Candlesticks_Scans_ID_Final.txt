@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.01		901.2		14915208
+ICICIBANK		-0.06		900.75		14976902
+ONGC		0.0		160.15		4630329
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FIVESTAR		-0.77		538.55		51095
+FIVESTAR		-0.77		538.55		51100
