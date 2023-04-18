@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.09		160.0		3336054
-UPL		0.58		741.4		599475
+ONGC		-0.06		160.05		3343585
+UPL		0.58		741.45		600332
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BATAINDIA		-0.48		1402.05		135980
+BOSCHLTD		0.02		18889.85		6235
