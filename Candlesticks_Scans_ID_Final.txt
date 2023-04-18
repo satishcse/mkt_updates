@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACHEM		-3.98		951.4		1120240
-KSB		-0.71		2245.95		2490
-PAGEIND		-0.14		38181.8		1272
-POLYMED		0.2		943.6		1173
+TATACHEM		-4.05		950.7		1134910
+DATAPATTNS		-1.2		1646.85		38505
+KSB		-0.72		2245.75		2529
