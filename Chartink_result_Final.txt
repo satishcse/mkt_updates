@@ -11,9 +11,9 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-JUBLFOOD		2.39		441.3		1478204
-RAMCOCEM		0.45		766.4		22762
-VOLTAS		-0.04		834.95		161107
+JUBLFOOD		2.34		441.1		1522269
+RAMCOCEM		0.48		766.65		23118
+VOLTAS		0.2		837.0		165377
 
 Intraday_Volume_Shocker								 
 ======================= 
