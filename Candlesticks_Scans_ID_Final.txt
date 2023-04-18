@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.14		399.6		5184024
-ONGC		-0.09		160.0		3952107
-LT		-0.18		2209.95		1648019
-ADANIPORTS		-0.2		663.35		1417301
-TCS		-0.41		3126.65		1250215
+SBIN		0.62		547.35		13251505
+ITC		-0.22		399.25		5207481
+ONGC		-0.06		160.05		3963138
+TCS		-0.39		3127.15		1251494
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRASIM		-0.9		1709.0		216437
-ZYDUSWELL		-0.21		1517.35		5398
+ZYDUSWELL		-0.17		1517.95		5433
