@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.97		1020.0		1885826
-LT		-0.27		2208.05		1637166
+ITC		-0.04		400.0		5163455
+HINDALCO		0.62		431.35		2440189
+TCS		-0.39		3127.1		1238797
+BAJAJ-AUTO		-1.44		4193.9		135079
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WESTLIFE		-2.05		710.8		39033
-ZYDUSWELL		0.12		1522.3		4659
+ZYDUSWELL		-0.21		1517.35		5378
