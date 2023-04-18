@@ -6,8 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-0.61		4306.0		153373
-GUJALKALI		-0.97		649.35		18257
-PAGEIND		-0.22		38152.5		1354
-CERA		-0.38		6417.7		669
+AARTIIND		-0.88		552.45		120263
+ACC		-0.52		1775.0		65046
+RAJESHEXPO		-0.53		568.35		29146
+FINEORG		-0.28		4483.55		8413
+CERA		-0.24		6426.5		670
 HONAUT		0.4		36181.0		415
