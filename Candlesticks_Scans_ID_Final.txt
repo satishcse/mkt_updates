@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.05		399.95		5133782
-TECHM		-1.0		1019.7		1881777
-LT		-0.2		2209.65		1635389
+TECHM		-0.97		1020.0		1885826
+LT		-0.27		2208.05		1637166
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		0.07		1521.6		4644
+WESTLIFE		-2.05		710.8		39033
+ZYDUSWELL		0.12		1522.3		4659
