@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.11		399.7		5171699
-ONGC		-0.06		160.05		3917043
-TCS		-0.42		3126.35		1242116
-BAJAJ-AUTO		-1.44		4193.75		135424
+ITC		-0.14		399.6		5184024
+ONGC		-0.09		160.0		3952107
+LT		-0.18		2209.95		1648019
+ADANIPORTS		-0.2		663.35		1417301
+TCS		-0.41		3126.65		1250215
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+GRASIM		-0.9		1709.0		216437
 ZYDUSWELL		-0.21		1517.35		5398
