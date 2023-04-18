@@ -6,27 +6,33 @@ Nifty_1Hr_OBV_DIV
 BN_1Hr_OBV_DIV								 
 ============== 
 nsecode		per_chg		close		volume
-AUBANK		0.88		694.7		2025128
+AUBANK		0.89		694.75		2026841
 
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IDFC		4.08		81.6		7123451
-JUBLFOOD		2.51		441.8		3010782
-VOLTAS		-0.01		835.25		837096
-BPCL		-0.19		335.05		1260058
-RAMCOCEM		-1.03		755.15		117589
+IDFC		3.89		81.45		7167043
+JUBLFOOD		2.51		441.8		3011822
+VOLTAS		0.0		835.3		838156
+BPCL		-0.21		335.0		1281270
+RAMCOCEM		-1.15		754.25		117715
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIAMART		0.4		5375.4		51580
-NIFTY		-0.13		17684.4		0
+FEDERALBNK		0.69		132.25		4989651
+DLF		2.15		424.3		4889696
+BAJFINANCE		-0.73		5918.0		374501
+DALBHARAT		0.87		2052.95		161390
+JKCEMENT		0.25		3003.85		59240
+BANKNIFTY		0.39		42429.05		0
+NIFTY		-0.16		17677.65		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-BEL		1.92		103.35		12332159
+BEL		1.97		103.4		12409674
+ACC		-0.89		1768.5		325383
 
 Open_High								 
 ========= 
