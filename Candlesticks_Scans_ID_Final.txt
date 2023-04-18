@@ -6,5 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINEORG		-0.29		4482.75		8568
-3MINDIA		-0.61		22825.25		124
+APOLLOHOSP		-1.7		4312.0		124486
+FINEORG		-0.36		4479.7		8798
