@@ -5,8 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PNBHOUSING		-2.81		411.55		1248554
-COCHINSHIP		-1.0		481.7		389849
-UTIAMC		-1.06		693.0		45319
-GODFRYPHLP		-2.27		1749.45		37599
+
