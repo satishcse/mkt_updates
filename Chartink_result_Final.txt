@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-EICHERMOT		1.23		3268.85		123080
+EICHERMOT		1.37		3273.3		125218
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,18 +11,20 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-JUBLFOOD		2.65		442.4		1619702
-RAMCOCEM		0.61		767.65		26052
-VOLTAS		0.22		837.1		233390
+JUBLFOOD		2.58		442.1		1631868
+RAMCOCEM		0.61		767.65		26279
+VOLTAS		0.3		837.8		237393
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BHEL		1.65		73.85		3745259
-NTPC		0.0		169.6		1900845
-PEL		2.5		720.4		453452
-APOLLOTYRE		1.35		329.75		209728
-ICICIPRULI		-0.33		449.15		117502
+BHEL		1.58		73.8		3878420
+NTPC		-0.03		169.55		2205576
+HDFCBANK		0.32		1671.9		2103416
+PEL		3.0		723.85		501313
+APOLLOTYRE		1.31		329.6		224982
+IRCTC		0.79		601.35		142831
+ICICIPRULI		-0.49		448.45		129946
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
