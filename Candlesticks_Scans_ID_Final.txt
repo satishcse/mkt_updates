@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		0.35		4869.45		33101
+ASIANPAINT		-0.11		2840.0		178564
+DRREDDY		0.33		4868.3		33200
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-1.18		1017.75		773518
-TCS		-0.66		3118.75		590852
-GUJALKALI		-2.09		642.0		39718
-AIAENG		-1.64		2872.25		10631
+TCS		-0.67		3118.4		592161
+PERSISTENT		-0.1		4200.55		174176
+GUJALKALI		-2.01		642.55		40221
+AIAENG		-1.67		2871.1		10694
+JBCHEPHARM		-0.03		2143.15		9830
