@@ -1,13 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		0.29		170.1		1215810
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		0.35		3232.35		15488
-POLYPLEX		-0.37		1259.0		15430
-INTELLECT		-0.07		432.5		14039
-POLYMED		0.24		943.95		976
+TATACHEM		-4.1		950.2		908715
+SONACOMS		0.39		461.0		188625
+DATAPATTNS		-1.31		1645.0		28545
+POLYCAB		-0.32		3088.0		15098
+AIAENG		-0.59		2902.8		5729
+LAXMIMACH		0.87		10803.2		224
