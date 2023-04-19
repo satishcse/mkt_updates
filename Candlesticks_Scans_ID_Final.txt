@@ -7,4 +7,5 @@ NESTLEIND		-0.51		20556.5		29075
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LTTS		-0.76		3424		130568
