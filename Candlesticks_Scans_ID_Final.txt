@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SBIN		-0.8		541.5		16458323
-ONGC		-0.25		159.7		7965172
-CIPLA		-1.11		914.0		1156285
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-1.24		35389.35		3700
+PERSISTENT		-1.33		4297.8		242469
+LINDEINDIA		-0.28		4139.85		8903
+HONAUT		-1.24		35391.5		3704
