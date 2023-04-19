@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIMKEN		-0.19		2986.8		18135
-KENNAMET		0.35		2200.0		459
+MFSL		0.0		649.9		110320
+MAHINDCIE		-1.27		362.6		74881
+KENNAMET		0.52		2203.75		470
+PGHH		-0.05		14000.55		138
