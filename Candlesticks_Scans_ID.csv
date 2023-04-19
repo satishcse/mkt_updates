@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ITC,0.39,400.05,3291079
-WIPRO,-0.92,364.5,884724
-SBILIFE,-0.62,1137.95,291980
+ITC,0.41,400.15,3332319
+HCLTECH,-1.43,1048.6,1222526
+WIPRO,-0.87,364.7,886802
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TORNTPHARM,-0.73,1583.05,84066
