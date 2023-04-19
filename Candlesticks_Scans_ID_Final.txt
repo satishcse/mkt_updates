@@ -2,14 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.48		543.25		16254284
-POWERGRID		-0.09		230.1		3701479
-BHARTIARTL		0.59		764.2		2096010
-CIPLA		-1.05		914.55		1141584
-HDFCLIFE		-1.18		526.0		1100671
+SBIN		-0.49		543.2		16261118
+ONGC		-0.09		159.95		7831940
+BHARTIARTL		0.56		764.0		2101267
+CIPLA		-1.0		915.0		1144593
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRASIM		-0.65		1693.85		179385
-MRF		-0.56		85848.15		1795
+SBILIFE		-1.23		1130.9		621999
+ULTRACEMCO		-1.34		7493.85		227176
+ACC		-0.54		1750.6		225333
+LINDEINDIA		-0.16		4144.85		8412
+MRF		-0.54		85870.6		1808
