@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		-0.03		2577.0		205189
-NESTLEIND		-0.46		20566.65		29626
+WIPRO		-0.91		364.55		986048
+M&M		0.76		1213.9		695730
+BAJAJFINSV		-0.32		1330.9		288579
+NESTLEIND		-0.48		20561.9		29913
 
 Bullish_Hammer_15m_N500								 
 ======================= 
