@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFSL		-0.07		649.45		123141
-KENNAMET		0.52		2203.75		470
+ABBOTINDIA		-0.05		22667.85		4665
+INDIGOPNTS		-0.13		1071.1		3713
+ENDURANCE		-0.2		1267.5		1279
+KENNAMET		0.52		2203.9		476
