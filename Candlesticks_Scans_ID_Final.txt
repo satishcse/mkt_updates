@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		-1.02		2825.5		112949
-MFSL		0.01		649.95		110687
-COFORGE		-1.47		3969.0		83129
+ADANIGREEN		-1.19		940.9		304462
+COFORGE		-1.41		3971.55		84735
+NESTLEIND		-0.64		20529.0		15611
 KENNAMET		0.52		2203.75		470
-PGHH		-0.05		14000.55		138
