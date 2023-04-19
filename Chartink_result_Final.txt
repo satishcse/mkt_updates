@@ -10,10 +10,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-VEDL		0.79		281.8		5030353
-MANAPPURAM		0.31		130.9		4982942
-BATAINDIA		-0.12		1419.65		180918
-CIPLA		-0.55		919.2		524389
+VEDL		0.77		281.75		5038847
+MANAPPURAM		0.15		130.7		4996573
+BATAINDIA		-0.2		1418.55		182292
+CIPLA		-0.55		919.2		525126
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -56,8 +56,7 @@ MCX		-0.2		1447.6		39393
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-HDFCBANK		0.26		1663.9		3572276
-PETRONET		0.06		234.5		479259
+ICICIBANK		-0.74		890.25		8207447
 
 Open_High								 
 ========= 
