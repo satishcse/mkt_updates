@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+LTTS		-0.51		3432.75		110257
+COFORGE		-1.47		3969.0		85870
+INDIGOPNTS		-0.14		1070.95		3610
 KENNAMET		0.52		2203.75		470
