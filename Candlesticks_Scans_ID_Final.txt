@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.91		364.55		986048
-M&M		0.76		1213.9		695730
-BAJAJFINSV		-0.32		1330.9		288579
-NESTLEIND		-0.48		20561.9		29913
+WIPRO		-0.87		364.7		988941
+M&M		0.77		1213.95		696549
+BAJAJFINSV		-0.34		1330.7		289189
+NESTLEIND		-0.48		20561.15		30007
 
 Bullish_Hammer_15m_N500								 
 ======================= 
