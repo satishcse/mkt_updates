@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.44		167.65		9769645
-ITC		0.5		400.5		6647684
+TATASTEEL		1.02		108.7		49566218
+ITC		0.46		400.35		6654389
+TECHM		-0.86		1016.4		1177720
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LUXIND		0.56		1221		34437
+
