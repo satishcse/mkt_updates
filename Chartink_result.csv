@@ -1,16 +1,16 @@
 
 Nifty_1Hr_OBV_DIV,,,, 
------------------ 
+================= 
 nsecode,per_chg,close,volume
 EICHERMOT,1.07,3263.55,577513
 
 BN_1Hr_OBV_DIV,,,, 
--------------- 
+============== 
 nsecode,per_chg,close,volume
 AUBANK,0.64,693.05,3177457
 
 Intraday_Buy_PSAR,,,, 
------------------ 
+================= 
 nsecode,per_chg,close,volume
 IDFC,2.49,80.35,10312638
 JUBLFOOD,2.24,440.65,3890285
@@ -20,7 +20,7 @@ BPCL,-0.27,334.8,2903211
 RAMCOCEM,-1.42,752.2,205980
 
 Intraday_Volume_Shocker,,,, 
------------------------ 
+======================= 
 nsecode,per_chg,close,volume
 IDFCFIRSTB,2.45,56.5,40565647
 NTPC,0.29,170.1,16199789
@@ -78,11 +78,11 @@ PAGEIND,0.53,38440.55,27168
 ABBOTINDIA,0.75,22679.0,13222
 
 High_Relative_Volume_Spurt_5m,,,, 
------------------------------ 
+============================= 
 
 
 Open_High,,,, 
---------- 
+========= 
 nsecode,per_chg,close,volume
 INFY,0.08,1259.35,12430884
 BHARTIARTL,0.01,759.75,4051481
@@ -98,7 +98,7 @@ ULTRACEMCO,-1.9,7595.3,437232
 TATACHEM,-5.93,932.1,6210562
 
 Open_Low,,,, 
--------- 
+======== 
 nsecode,per_chg,close,volume
 LUPIN,6.14,698.55,5365200
 GLENMARK,2.99,504.95,2007427
