@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.81		469.15		6283326
+TATAMOTORS		-0.78		469.3		6293832
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MUTHOOTFIN		-1.0		1039.65		530575
+ENDURANCE		-1.69		1248.6		226896
 HONAUT		-1.2		35403.8		5808
