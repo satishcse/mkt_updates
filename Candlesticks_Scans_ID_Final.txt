@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.04		230.4		4102971
-APOLLOHOSP		-0.75		4306.25		455152
+ONGC		-0.16		159.85		8722642
+POWERGRID		0.11		230.55		4108834
+APOLLOHOSP		-0.75		4306.0		455477
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 TECHM		-1.19		1013		1332155
-BALAMINES		-1.04		2370		34818
+BALAMINES		-1.04		2370		35017
