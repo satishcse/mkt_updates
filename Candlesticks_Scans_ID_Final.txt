@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.29		169.6		1372898
+NTPC		-0.38		169.45		1400755
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		0.17		1423.75		132588
-KSB		-0.35		2164.0		3502
+MRF		-0.2		86161.75		899
 TCIEXP		0.48		1526.85		561
