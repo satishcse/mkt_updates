@@ -7,7 +7,7 @@ POWERGRID		-0.07		230.15		3852726
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LUXIND		0.34		1218.3		34121
-BLUESTARCO		-0.27		1460.2		21384
-CAMS		-0.92		2109.6		18134
-BASF		-0.19		2359.55		2460
+ECLERX		0.64		1296.8		66048
+LUXIND		0.33		1218.2		34200
+ATUL		-2.83		6921.0		27493
+BASF		-0.17		2360.0		2512
