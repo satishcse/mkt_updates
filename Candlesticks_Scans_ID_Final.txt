@@ -9,6 +9,4 @@ BAJAJFINSV		-0.1		1333.9		321583
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-1.74		1191.55		356612
-ULTRACEMCO		-0.43		7562.4		105343
-ISEC		-1.23		459.4		68438
+ISEC		-1.29		459.1		69471
