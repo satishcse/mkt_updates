@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.17		2344.35		4576993
-POWERGRID		0.09		230.5		4047038
-HINDUNILVR		-0.96		2516.65		991495
-APOLLOHOSP		-0.78		4305.0		449702
+NTPC		-1.38		167.75		10711590
+RELIANCE		0.19		2344.8		4588984
+POWERGRID		0.09		230.5		4058251
+APOLLOHOSP		-0.74		4306.4		452957
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TCS		-1.56		3081.8		2690620
+TECHM		-1.11		1013.8		1320200
+CIPLA		-1.48		910.6		1268892
+PERSISTENT		-1.45		4292.4		271343
