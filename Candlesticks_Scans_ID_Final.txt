@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-0.1		1703.25		70874
+POWERGRID		0.26		230.9		1574993
+TITAN		0.06		2579.15		167796
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-1.84		3954		132712
+LTIM		-1.69		4245.7		319165
+COFORGE		-1.66		3961.5		133870
