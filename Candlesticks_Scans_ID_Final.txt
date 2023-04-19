@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.79		889.8		18589105
-TATACONSUM		-0.95		700.35		910258
+HINDUNILVR		-0.96		2516.7		983883
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAYERCROP		-0.51		4110.95		2812
