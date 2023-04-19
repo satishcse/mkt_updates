@@ -7,7 +7,4 @@ NESTLEIND		-0.46		20566.65		29626
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ICICIGI		-3.87		1087.0		1859412
-HAVELLS		0.23		1212.75		593201
-THERMAX		-0.8		2249.7		2855
+
