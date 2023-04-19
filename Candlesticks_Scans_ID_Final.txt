@@ -6,8 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFSL		0.02		650.0		121886
-MAHINDCIE		-1.25		362.65		85098
-GESHIP		0.13		657.95		76878
-ESCORTS		-0.32		1973.0		57100
+MFSL		-0.07		649.45		123141
 KENNAMET		0.52		2203.75		470
