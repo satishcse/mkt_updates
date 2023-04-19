@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.41		400.15		3383096
-HCLTECH		-1.41		1048.85		1233971
-WIPRO		-0.91		364.55		891807
+ONGC		-0.16		159.85		5174246
+HCLTECH		-1.42		1048.75		1245999
+WIPRO		-0.86		364.75		896587
+TECHM		-0.87		1016.25		584528
+TITAN		0.02		2578.3		191383
 
 Bullish_Hammer_15m_N500								 
 ======================= 
