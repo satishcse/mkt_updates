@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.21		474.0		3773980
-SUNPHARMA		0.27		1007.5		879072
-HDFC		0.79		2745.3		735405
-NESTLEIND		-0.56		20546.1		36803
+TATAMOTORS		0.18		473.85		3781248
+SUNPHARMA		0.25		1007.3		880117
+HDFC		0.77		2744.55		737827
+NESTLEIND		-0.52		20552.9		36962
 
 Bullish_Hammer_15m_N500								 
 ======================= 
