@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.95		700.35		905016
+RELIANCE		0.17		2344.3		4474370
+TATACONSUM		-0.95		700.3		905667
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		0.85		2052.2		369369
-CEATLTD		-0.97		1430.5		74120
-ATUL		-2.81		6923.05		29519
+DALBHARAT		0.8		2051.3		370950
+ATUL		-2.81		6922.95		29563
+FINEORG		-1.16		4459.0		10050
