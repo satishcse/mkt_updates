@@ -19,17 +19,21 @@ CIPLA		-0.88		916.1		989071
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-1.27		1197.3		382272
-SBICARD		-1.42		759.15		215853
-SHREECEM		-0.79		25016.0		11142
+RELIANCE		0.44		2350.7		3134745
+RAIN		0.6		160.0		986983
+TATACOMM		-1.29		1197.0		383328
+ESCORTS		0.92		1997.45		231762
+SBICARD		-1.49		758.6		217533
+SHREECEM		-0.85		25000.05		11330
+BOSCHLTD		-0.87		18650.0		4456
 MRF		-0.29		86080.0		1494
-NIFTY		-0.04		17653.4		0
+NIFTY		-0.05		17650.6		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-VEDL		1.22		283.0		6646822
-RBLBANK		-1.46		152.3		3468861
+ICICIPRULI		-0.18		449.75		2805366
+HEROMOTOCO		0.32		2447.6		153917
 
 Open_High								 
 ========= 
@@ -64,7 +68,7 @@ Open_Low
 ======== 
 nsecode		per_chg		close		volume
 TVSMOTOR		2.38		1172.2		1664677
-FSL		1.96		114.25		808740
+FSL		1.96		114.25		808743
 DALBHARAT		1.61		2067.65		278122
 JSWSTEEL		1.28		728.7		1422542
 CANFINHOME		1.26		569.55		278016
