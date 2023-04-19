@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.53		169.2		1549706
+NTPC		-0.62		169.05		1572155
+HDFCLIFE		-0.54		529.45		312558
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		0.13		1661.7		2308798
-BATAINDIA		0.04		1422.0		147572
-APLAPOLLO		0.77		1237.6		89171
-CAMS		0.12		2131.75		9569
-SKFINDIA		-0.58		4176.2		3680
+HDFCBANK		0.13		1661.7		2350612
+BATAINDIA		0.06		1422.3		148379
+KSB		-0.45		2161.85		4421
 TCIEXP		0.54		1527.65		740
