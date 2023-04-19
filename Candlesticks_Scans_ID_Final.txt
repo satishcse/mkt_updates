@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.3		109.0		45962907
-AXISBANK		0.72		869.55		17623651
-BPCL		0.33		335.9		2468504
-BRITANNIA		-0.07		4298.65		165303
+TATASTEEL		1.39		109.1		46052506
+AXISBANK		0.74		869.75		17644930
+BPCL		0.24		335.6		2492756
+BRITANNIA		-0.08		4298.55		166504
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		-0.66		2115.0		15991
-BLUEDART		-0.4		6035.6		4013
+CHEMPLASTS		0.74		420.9		257940
