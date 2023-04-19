@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.66		1139.3		420449
-NESTLEIND		-0.6		20536.9		21780
+INDUSINDBK		-0.65		1139.45		424065
+NESTLEIND		-0.62		20533.75		21871
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTTS		-0.81		3422.25		119139
-MPHASIS		-1.17		1763.0		101328
+GRANULES		0.62		302.55		847581
+LTTS		-0.81		3422.25		119226
+MPHASIS		-1.13		1763.65		101491
