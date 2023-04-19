@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.41		400.15		5859929
-BRITANNIA		-0.07		4299.0		174692
-MARUTI		-0.33		8704.2		131838
+ITC		0.4		400.1		5885603
+BRITANNIA		-0.08		4298.5		175224
+MARUTI		-0.33		8704.0		132123
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BLUEDART		-0.45		6032.65		4454
+
