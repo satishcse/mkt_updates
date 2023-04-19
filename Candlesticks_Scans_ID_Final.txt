@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		0.12		3211.45		234367
-CARBORUNIV		-0.68		986.2		18834
-LINDEINDIA		-0.69		4123.0		12853
+LINDEINDIA		-0.64		4124.95		13361
