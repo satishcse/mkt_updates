@@ -1,11 +1,14 @@
 
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
-
+nsecode,per_chg,close,volume
+POWERGRID,0.0,230.3,3817551
+BRITANNIA,-0.07,4299.0,185897
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-PERSISTENT,-1.33,4297.8,242469
-LINDEINDIA,-0.28,4139.85,8903
-HONAUT,-1.24,35391.5,3704
+TCS,-1.09,3096.65,1618413
+GODREJPROP,-0.94,1295.0,289306
+LUXIND,0.26,1217.4,34063
+HONAUT,-1.2,35406.15,3711
