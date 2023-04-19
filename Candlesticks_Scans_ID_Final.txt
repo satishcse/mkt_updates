@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.9		540.95		20206046
-LT		0.12		2219.35		1903727
+LT		0.14		2219.75		1919220
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CGPOWER		-1.89		298.1		543848
+BDL		-1.15		973.3		487734
+RADICO		-1.15		1098.1		80353
+CRISIL		-0.51		3352.95		58680
+TATAINVEST		-0.53		2071.35		29297
