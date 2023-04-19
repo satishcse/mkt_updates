@@ -2,9 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.88		361.0		3710097
-LT		0.12		2219.35		1968135
-BAJAJFINSV		-0.16		1333.0		585916
+LT		0.06		2218		1969810
 
 Bullish_Hammer_15m_N500								 
 ======================= 
@@ -13,5 +11,5 @@ ICICIGI		-4.8		1076.5		3156173
 CSBBANK		-3.29		279.5		564129
 DMART		-0.77		3479.95		156961
 RADICO		-1.25		1097.0		85674
-APLLTD		-1.09		530.95		47811
-SOLARINDS		-0.34		3852.0		12947
+APLLTD		-1.09		530.95		48098
+SOLARINDS		-0.34		3852.0		13044
