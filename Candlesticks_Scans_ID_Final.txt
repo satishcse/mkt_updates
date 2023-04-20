@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CLEAN		-0.28		1410.9		3306
+AETHER		-1.24		959.0		7945
+FINEORG		-0.7		4425.35		3742
+CLEAN		-0.32		1410.25		3332
