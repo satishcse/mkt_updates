@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.13		735		368599
+INFY		-0.52		1225.75		3449470
+WIPRO		0.1		361.15		781465
+M&M		0.3		1219.2		564963
+HDFCLIFE		0.98		529.95		501802
+UPL		-0.13		735.0		378347
+SBILIFE		0.21		1125.75		218361
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		0.1		2411.0		40819
 JKCEMENT		-0.49		3014.8		11140
 KENNAMET		-0.82		2177.95		1259
