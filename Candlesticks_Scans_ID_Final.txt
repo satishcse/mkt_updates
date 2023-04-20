@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		-0.27		844.65		85901
-MHRIL		0.68		290.3		23988
-HLEGLAS		-0.79		587.3		16676
-GMMPFAUDLR		-1.3		1500.5		9612
+LAURUSLABS		-1.27		308.0		723116
+OLECTRA		-0.12		681.9		279567
+ASTRAL		0.08		1434.0		28186
