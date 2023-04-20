@@ -10,9 +10,9 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-UBL,1.99,1437.0,473296
-FEDERALBNK,0.61,132.5,5834133
-TITAN,0.4,2579.7,897410
+UBL,2.09,1438.45,473817
+FEDERALBNK,0.61,132.5,5966992
+TITAN,0.42,2580.0,906388
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -81,12 +81,14 @@ JKCEMENT,-2.51,2953.4,36162
 SHREECEM,-1.77,24319.8,33433
 ATUL,0.42,6954.0,21847
 BOSCHLTD,0.37,18756.0,4054
-HONAUT,3.06,36588.9,3968
+HONAUT,3.06,36588.9,3971
 NIFTY,0.03,17623.95,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
-
+nsecode,per_chg,close,volume
+APOLLOHOSP,0.62,4347.05,439572
+ASTRAL,-0.99,1418.65,128508
 
 Open_High,,,, 
 ========= 
@@ -104,6 +106,6 @@ TVSMOTOR,-3.32,1131.25,2130961
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-CUMMINSIND,4.0,1561.05,1037600
-UBL,1.99,1437.0,473296
-DIXON,-0.67,2990.1,300893
+CUMMINSIND,4.03,1561.5,1052762
+UBL,2.09,1438.45,473817
+DIXON,-0.62,2991.6,301986
