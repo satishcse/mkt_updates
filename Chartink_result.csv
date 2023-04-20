@@ -10,9 +10,9 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-UBL,2.2,1440.0,198876
-TITAN,0.86,2591.45,663537
-FEDERALBNK,0.42,132.25,1878859
+UBL,2.2,1440.0,199932
+TITAN,0.88,2592.0,665491
+FEDERALBNK,0.42,132.25,1921333
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -50,8 +50,7 @@ BANKNIFTY,0.23,42252.3,0
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-SHRIRAMFIN,-1.28,1349,200516
-TORNTPHARM,-0.47,1590,108336
+MUTHOOTFIN,-1.12,1030.4,432185
 
 Open_High,,,, 
 ========= 
@@ -69,7 +68,7 @@ EICHERMOT,-2.04,3222.45,221362
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-CUMMINSIND,3.02,1546.35,537571
-UBL,2.2,1440.0,198876
-IDEA,0.0,6.05,4003355
-DIXON,-0.3,3001.4,176461
+CUMMINSIND,3.34,1551.15,557692
+UBL,2.2,1440.0,199932
+IDEA,0.0,6.05,4024297
+DIXON,-0.3,3001.3,176646
