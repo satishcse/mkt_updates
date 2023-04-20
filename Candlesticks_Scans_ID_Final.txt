@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RAINBOW		-1.82		792.75		131581
-KEI		0.03		1752.15		61195
-CLEAN		-0.39		1409.35		4113
+
