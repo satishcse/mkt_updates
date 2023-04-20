@@ -8,5 +8,6 @@ UPL		-0.14		734.95		587159
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODFRYPHLP		0.64		1718.2		32598
-BASF		-0.32		2358.4		3309
+COFORGE		-0.54		3881.05		325112
+GODFRYPHLP		0.62		1717.8		32606
+ZYDUSWELL		-1.39		1508.0		9791
