@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AETHER		-1.24		959.0		7893
 CLEAN		-0.28		1410.9		3291
-ZYDUSWELL		-0.54		1520.95		2318
+ZYDUSWELL		-0.57		1520.55		2319
