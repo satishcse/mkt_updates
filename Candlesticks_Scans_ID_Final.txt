@@ -9,5 +9,6 @@ TITAN		0.61		2585.0		744243
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-2.32		1143		827080
-TATAINVEST		-0.14		2067		11768
+VAIBHAVGBL		-1.0		308.0		86691
+CLEAN		-1.59		1392.25		13599
+TATAINVEST		-0.05		2068.95		11789
