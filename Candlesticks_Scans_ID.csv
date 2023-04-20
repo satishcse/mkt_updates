@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
-
+nsecode,per_chg,close,volume
+HDFCBANK,0.29,1670.45,10389523
+M&M,0.35,1219.8,1410202
+TITAN,0.61,2585.0,738837
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-HDFC,-0.37,2734.65,1265858
-AUBANK,-0.26,676.85,890533
-ABB,-0.19,3195.0,164178
+PERSISTENT,-0.52,4295.15,121057
