@@ -15,4 +15,5 @@ NESTLEIND		-0.96		20420.0		31169
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYPLEX		-0.8		1271.95		45765
+POLYPLEX		-0.81		1271.9		45768
+CLEAN		-1.22		1397.5		10476
