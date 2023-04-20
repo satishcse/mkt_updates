@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.14		107.95		7917486
-M&M		0.35		1219.7		571994
-HDFCLIFE		0.98		529.95		507181
-UPL		-0.13		735.0		380001
+TATASTEEL		-0.14		107.95		7929006
+M&M		0.31		1219.3		573460
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+AUROPHARMA		0.12		588.05		1051386
+ATGL		-0.25		928.0		133640
 CGCL		-0.13		625.8		11491
+ENDURANCE		-0.48		1239.25		5972
