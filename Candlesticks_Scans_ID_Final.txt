@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.47		5920		127890
+RAINBOW		-1.82		792.75		132764
+BAJFINANCE		-0.48		5918.95		128297
+WHIRLPOOL		-0.4		1322.45		24147
+KENNAMET		-0.82		2177.95		1259
