@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.9		1023		642569
+SUNPHARMA		-1.06		984.9		965024
+TECHM		0.9		1023.0		643661
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALAMINES		-2.19		2294.75		50589
-OFSS		-0.47		3274.35		17994
+BALAMINES		-2.14		2296.05		50619
