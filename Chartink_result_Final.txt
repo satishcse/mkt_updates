@@ -10,9 +10,9 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-UBL		2.2		1439.95		211731
-TITAN		0.79		2589.5		683885
-FEDERALBNK		0.68		132.6		2161851
+UBL		2.16		1439.5		212105
+TITAN		0.79		2589.5		684134
+FEDERALBNK		0.72		132.65		2180180
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -26,7 +26,9 @@ NAVINFLUOR		1.49		4694.0		75100
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+RELIANCE		-0.65		2336.8		1495877
+ACC		0.02		1749.7		158434
 
 Open_High								 
 ========= 
