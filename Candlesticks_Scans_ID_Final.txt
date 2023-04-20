@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ANGELONE		-0.79		1251.85		116699
+SUNDRMFAST		-0.83		1017.0		22146
+PHOENIXLTD		-1.24		1344.55		8198
