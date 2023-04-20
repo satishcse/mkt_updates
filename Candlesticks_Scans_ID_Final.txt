@@ -5,8 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SUNDRMFAST		-0.62		1019.1		23431
-KAJARIACER		0.15		1112.6		23091
-CLEAN		-0.3		1410.55		3347
-ZYDUSWELL		-0.63		1519.6		2389
+
