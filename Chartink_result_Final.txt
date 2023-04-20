@@ -10,37 +10,39 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-UBL		2.2		1440.0		202149
-TITAN		0.85		2591.1		667613
-FEDERALBNK		0.34		132.15		1945837
+UBL		2.2		1440.0		202638
+TITAN		0.87		2591.55		668369
+FEDERALBNK		0.42		132.25		1965820
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-DELTACORP		2.47		195.25		2105762
-LTTS		-1.0		3400.8		95163
+DELTACORP		2.62		195.55		2157039
+ICICIPRULI		3.34		460.5		1773871
+GUJGASLTD		-1.03		460.0		244666
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+LTTS		-1.08		3398		118160
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-PVR		-0.08		1500.0		196857
-GRASIM		-0.13		1687.95		85127
-ESCORTS		-0.36		1983.05		129206
-JKCEMENT		-0.4		3017.3		13464
-DRREDDY		-0.6		4879.9		164326
-NMDC		-0.79		112.4		2971550
-ZYDUSLIFE		-1.46		509.55		400552
-TVSMOTOR		-1.73		1149.85		349413
-EICHERMOT		-1.9		3227.0		226669
+ESCORTS		0.08		1991.8		131675
+PVR		-0.08		1500.05		199511
+GRASIM		-0.25		1685.85		86583
+JKCEMENT		-0.43		3016.5		13465
+DRREDDY		-0.67		4876.45		165465
+NMDC		-0.79		112.4		3003382
+ZYDUSLIFE		-1.47		509.5		404350
+TVSMOTOR		-1.64		1151.0		356985
+EICHERMOT		-1.75		3231.9		231519
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-CUMMINSIND		3.67		1556.1		589473
-UBL		2.2		1440.0		202638
-IDEA		0.83		6.1		4072268
-DIXON		-0.25		3002.95		177160
+CUMMINSIND		3.5		1553.55		598006
+UBL		2.2		1440.0		203027
+IDEA		0.0		6.05		4083076
+DIXON		-0.22		3003.9		177417
