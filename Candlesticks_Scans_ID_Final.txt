@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.22		361.6		1499922
-SUNPHARMA		-0.79		987.6		1151120
+HDFC		-0.26		2737.7		1694188
+M&M		0.33		1219.55		1524599
+WIPRO		0.22		361.6		1501774
+SUNPHARMA		-0.79		987.65		1152759
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TCIEXP		-0.15		1497.8		5418
