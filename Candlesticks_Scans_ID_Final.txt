@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.32		1219.4		1526886
-WIPRO		0.19		361.5		1503287
+M&M		0.32		1219.4		1532511
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		-2.95		1992.0		512395
-LTIM		-1.06		4150.0		385925
-ASTRAL		-1.01		1418.35		109978
+ASTRAL		-1.03		1418.15		110020
+TCIEXP		-0.17		1497.5		5834
