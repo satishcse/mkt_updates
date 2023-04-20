@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.91		158.65		3127870
-SUNPHARMA		-1.08		984.7		995935
-UPL		-0.31		733.65		641362
-TATACONSUM		-0.24		699.2		524476
-MARUTI		0.55		8728.0		159972
+ONGC		-0.94		158.6		3142324
+SUNPHARMA		-1.09		984.65		997980
+UPL		-0.32		733.6		642825
+TATACONSUM		-0.25		699.1		526234
+MARUTI		0.56		8728.4		161998
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFC		-0.36		2734.8		1254603
+HDFC		-0.37		2734.65		1265858
+AUBANK		-0.26		676.85		890533
+ABB		-0.19		3195.0		164178
