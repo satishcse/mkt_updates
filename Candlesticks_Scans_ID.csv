@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.05,108.15,9663226
-ITC,0.24,399.7,3729069
-POWERGRID,0.87,231.95,2603054
-UPL,-0.13,735.0,511079
+TATASTEEL,0.0,108.1,9718974
+ITC,0.28,399.85,3737625
+POWERGRID,0.83,231.85,2608474
+UPL,-0.14,734.95,513949
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+FLUOROCHEM,-0.53,3283.9,59768
