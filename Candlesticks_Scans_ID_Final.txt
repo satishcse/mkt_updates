@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.23		107.85		15242737
-COALINDIA		-0.35		229.6		2185401
-SUNPHARMA		-0.7		988.5		1347773
+TATASTEEL		-0.23		107.85		15294835
+COALINDIA		-0.35		229.6		2191185
+SUNPHARMA		-0.65		989.05		1355023
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AAVAS		-4.2		1685.85		566906
-LTIM		-1.16		4145.7		468993
+LTIM		-1.15		4146.5		470671
