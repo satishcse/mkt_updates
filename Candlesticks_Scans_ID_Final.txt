@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.6		344.05		1371406
+BPCL		0.6		344.05		1373186
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINEORG		-3		4322.7		16539
+TVSMOTOR		-1.81		1148.95		462020
+KEI		-0.89		1736.0		132017
+TIINDIA		-2.44		2650.2		55953
