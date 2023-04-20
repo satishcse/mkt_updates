@@ -1,13 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BPCL		0.6		344.05		1376764
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-0.83		1737.0		132182
+KEI		-0.83		1737.0		132218
 SCHAEFFLER		-1.98		2798.4		128571
 FINEORG		-3.0		4322.75		16890
 JBCHEPHARM		-0.55		2115.5		7905
