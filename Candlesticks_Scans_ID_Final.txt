@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.23		107.85		15150906
-COALINDIA		-0.41		229.45		2166496
-INDUSINDBK		-0.36		1116.4		1872000
-SUNPHARMA		-0.72		988.35		1335582
+TATASTEEL		-0.23		107.85		15173083
+COALINDIA		-0.39		229.5		2171742
+INDUSINDBK		-0.37		1116.2		1873536
+SUNPHARMA		-0.68		988.7		1338033
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-3.31		1131.45		2026240
+TVSMOTOR		-3.35		1131		2029770
