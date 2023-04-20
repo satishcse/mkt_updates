@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.23		893.95		16562101
-CIPLA		-0.9		903.7		4248190
+ICICIBANK		0.26		894.25		16603373
+CIPLA		-0.98		903.0		4259948
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-3.35		1131		2127267
-METROPOLIS		-2.2		1245		109636
+VBL		-3.67		1387.25		1220748
+BEML		-1.62		1215.0		42662
+SOLARINDS		-1.85		3773.4		20106
+ABBOTINDIA		-0.51		22618.1		5470
