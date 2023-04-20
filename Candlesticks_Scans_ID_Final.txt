@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.84		158.75		2704882
-INDUSINDBK		0.06		1121.05		1130463
-HDFC		-0.29		2736.95		960120
-GRASIM		-0.19		1686.85		101352
+ONGC		-0.81		158.8		2709566
+INDUSINDBK		0.08		1121.35		1131499
+HDFC		-0.27		2737.45		969105
+UPL		-0.13		735.0		546422
+GRASIM		-0.22		1686.3		101473
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		-0.04		4315.65		102640
-CENTURYPLY		-1.48		515.3		57508
-ROUTE		-1.58		1258.0		47574
-GALAXYSURF		-0.35		2473.4		3886
+PERSISTENT		-0.07		4314.55		102867
+GALAXYSURF		-0.34		2473.45		3889
