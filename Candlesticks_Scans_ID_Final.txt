@@ -1,22 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		-0.25		159.7		484654
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ICICIBANK		0.28		894.4		2246250
-INFY		0.26		1235.35		1169691
-CIPLA		-0.17		910.35		218882
-VBL		-0.49		1433.0		109650
-LUPIN		0.28		688.75		76835
-LTTS		0.0		3435.2		22678
-MFSL		0.09		636.9		21021
-DRREDDY		-0.09		4905.0		18226
-GODREJCP		0.27		970.45		14930
-HDFCAMC		0.2		1772.0		14063
-FDC		0.09		267.05		5396
-POLYMED		1.04		961.8		3615
-BRIGADE		-0.24		497.35		3221
-SAPPHIRE		-0.25		1177.85		1610
+
