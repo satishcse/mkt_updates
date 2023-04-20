@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.26		894.25		16787834
-CIPLA		-0.95		903.25		4335531
-RELIANCE		-0.19		2347.45		3093823
-COALINDIA		-0.37		229.55		2415499
-M&M		0.33		1219.5		2016493
-BAJAJFINSV		0.04		1331.9		431865
-NESTLEIND		-0.74		20465.95		49414
+CIPLA		-0.9		903.65		4348601
+RELIANCE		-0.19		2347.55		3126748
+COALINDIA		-0.37		229.55		2450076
+WIPRO		0.61		363.0		2070945
+M&M		0.23		1218.25		2040134
+BAJAJFINSV		-0.05		1330.7		434741
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BALAMINES		-5.38		2220		131392
