@@ -8,5 +8,4 @@ INDUSINDBK		0.71		1128.3		639680
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AETHER		-1.3		958.4		9328
-KENNAMET		-0.5		2185.0		1180
+KENNAMET		-0.5		2185		1180
