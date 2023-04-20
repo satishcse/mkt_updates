@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.9		1023.0		651474
-UPL		-0.14		734.9		585755
+TECHM		0.87		1022.75		652672
+UPL		-0.14		734.95		586409
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALAMINES		-2.21		2294.4		50630
-ZYDUSWELL		-1.55		1505.5		9741
-BASF		-0.32		2358.45		3306
+GODFRYPHLP		0.64		1718.2		32598
+BASF		-0.32		2358.4		3307
