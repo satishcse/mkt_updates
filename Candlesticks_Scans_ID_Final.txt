@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AUBANK		0.04		678.9		377868
-OLECTRA		-0.21		681.3		280803
-ASTRAL		0.15		1435.0		30377
+
