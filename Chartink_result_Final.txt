@@ -10,21 +10,20 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-TITAN		1.58		2609.95		479862
-UBL		1.36		1428.2		62088
-FEDERALBNK		0.08		131.8		611065
+TITAN		1.41		2605.45		486593
+UBL		1.23		1426.3		63933
+FEDERALBNK		0.11		131.85		620664
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-SYNGENE		-0.56		612.4		31364
-NIFTY		0.29		17669.5		0
+RBLBANK		0.97		150.9		1452141
+SYNGENE		-0.45		613.05		32723
+NIFTY		0.26		17664.15		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-CHAMBLFERT		-0.73		280.0		388599
-DIVISLAB		-2.79		3249.45		239001
+
 
 Open_High								 
 ========= 
