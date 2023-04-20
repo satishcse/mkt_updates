@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.22		1229.55		4866953
-ITC		0.21		399.6		3939521
-APOLLOHOSP		0.06		4322.8		254349
-ULTRACEMCO		-0.52		7476.5		129310
-NESTLEIND		-0.96		20420.65		31012
+INFY		-0.22		1229.55		4873496
+ITC		0.2		399.55		3944016
+TITAN		0.79		2589.55		706571
+UPL		-0.14		734.9		559659
+APOLLOHOSP		0.05		4322.35		255260
+ULTRACEMCO		-0.54		7475.0		129518
+NESTLEIND		-0.94		20425.0		31029
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POLYPLEX		-0.8		1271.95		45500
+
