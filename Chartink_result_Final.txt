@@ -10,20 +10,22 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-TITAN		1.34		2603.75		504636
-UBL		1.14		1425.05		66120
-FEDERALBNK		0.04		131.75		679090
+TITAN		1.43		2606.0		508850
+UBL		1.07		1424.1		66153
+FEDERALBNK		0.23		132.0		693731
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-LAURUSLABS		-2.05		305.55		584753
-ICICIPRULI		1.57		452.6		400028
-JSWSTEEL		-0.5		718.75		238548
+LAURUSLABS		-2.12		305.35		610541
+ICICIPRULI		1.21		451.0		443001
+JSWSTEEL		-0.62		717.85		248181
+NIFTY		0.2		17653.55		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+ICICIPRULI		1.21		451		443001
 
 Open_High								 
 ========= 
@@ -44,9 +46,9 @@ EICHERMOT		-1.2		3250.0		105108
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-CUMMINSIND		1.87		1529.05		300643
-UBL		1.07		1424.1		66153
-IDEA		0.83		6.1		1706833
-BHARTIARTL		0.35		767.35		333109
-TCS		0.32		3099.4		276695
-DIXON		-0.63		2991.45		70253
+CUMMINSIND		1.83		1528.5		306378
+UBL		1.11		1424.7		66166
+IDEA		0.83		6.1		1734757
+BHARTIARTL		0.33		767.2		334350
+TCS		0.14		3093.8		288116
+DIXON		-0.49		2995.6		71783
