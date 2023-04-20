@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATGL		-0.36		927		136430
+ATGL		-0.33		927.25		136753
+KEI		-0.09		1750.0		63370
+GODREJAGRO		-0.01		433.35		6379
