@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.78		158.85		2653732
-TITAN		0.8		2589.95		698718
-TATACONSUM		-0.19		699.5		458556
-GRASIM		-0.22		1686.4		100298
+ICICIBANK		0.15		893.25		10588442
+ONGC		-0.81		158.8		2657153
+TITAN		0.79		2589.7		699072
+TATACONSUM		-0.23		699.25		459680
+HINDUNILVR		-0.84		2510.3		420333
+GRASIM		-0.2		1686.7		100376
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CLEAN		-1.05		1399.95		9536
-BASF		-0.14		2362.75		2932
+HDFC		-0.31		2736.35		943872
+CLEAN		-1.05		1400.0		9543
+BASF		-0.13		2363.0		2946
