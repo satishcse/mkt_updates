@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.22		432.1		2743032
+HINDALCO		-0.17		432.3		2752390
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-1.08		449.5		272052
-PFIZER		-0.5		3747.25		4604
+BSE		-1.08		449.5		272339
+PFIZER		-0.49		3747.3		4607
