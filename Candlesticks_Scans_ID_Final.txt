@@ -5,4 +5,6 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASIANPAINT		0.4		2820.9		206328
+RAINBOW		-1.82		792.75		131567
