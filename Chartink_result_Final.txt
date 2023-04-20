@@ -10,9 +10,9 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-UBL		1.59		1431.45		283632
-TITAN		0.61		2585.0		744408
-FEDERALBNK		0.3		132.1		3727230
+UBL		1.59		1431.45		284046
+TITAN		0.56		2583.8		744916
+FEDERALBNK		0.34		132.15		3739477
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -21,10 +21,7 @@ BANKNIFTY		0.07		42182.95		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-CHOLAFIN		-0.4		843.5		429834
-DIXON		0.45		3023.9		263274
-BRITANNIA		-0.86		4257.0		108655
+
 
 Open_High								 
 ========= 
@@ -42,7 +39,7 @@ TVSMOTOR		-2.32		1143.0		945723
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-CUMMINSIND		2.94		1545.2		812676
-UBL		1.59		1431.45		283632
-DIXON		0.37		3021.5		264212
-IDEA		0.0		6.05		5754521
+CUMMINSIND		2.95		1545.35		812987
+UBL		1.59		1431.45		284046
+IDEA		0.83		6.1		5756254
+DIXON		0.36		3021.3		264595
