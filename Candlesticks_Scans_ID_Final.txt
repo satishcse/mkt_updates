@@ -8,4 +8,6 @@ SUNPHARMA		-0.68		988.7		1341041
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AAVAS		-4.16		1686.45		566813
+LTIM		-1.13		4147.0		467025
