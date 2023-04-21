@@ -8,5 +8,5 @@ COALINDIA		0.07		229.7		1507237
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		-1.84		2587.05		51684
-TCIEXP		-0.11		1498.35		4595
+TIINDIA		-1.82		2587.6		51829
+TCIEXP		-0.11		1498.35		4688
