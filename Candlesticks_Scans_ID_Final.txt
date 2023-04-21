@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.25		401.3		1278458
-DIVISLAB		1.11		3238.75		367129
+ITC		0.27		401.4		1281859
+DIVISLAB		1.15		3239.95		368342
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SIEMENS		-0.38		3259.0		49867
+RATNAMANI		-0.55		2129.35		3161
