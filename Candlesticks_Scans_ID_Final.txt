@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.12		471.45		7636801
-UPL		0.39		734.9		1700285
+TATAMOTORS		-1.14		471.35		7666781
+UPL		0.4		734.95		1704896
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKCEMENT		-2.86		2859.7		94032
-KANSAINER		0.46		382.85		63903
-SHREECEM		-1.38		23914.8		17939
+KANSAINER		0.39		382.6		62959
