@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.39		542.7		19636265
-NTPC		-0.18		169.4		5430353
-BRITANNIA		1.33		4313.0		224268
-NESTLEIND		-0.15		20442.0		33966
+SBIN		-0.46		542.3		19703935
+NTPC		-0.24		169.3		5465517
+BRITANNIA		1.39		4315.65		225248
+NESTLEIND		-0.25		20421.0		34555
 
 Bullish_Hammer_15m_N500								 
 ======================= 
