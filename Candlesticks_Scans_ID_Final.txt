@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.19		158.85		1039679
-HDFC		-0.1		2740.25		313633
+ONGC		-0.19		158.85		1045165
+HDFC		-0.11		2740.0		315018
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEJASNET		-1.07		628.55		120191
-KEI		-0.11		1747.15		23215
-BAJAJHLDNG		-0.56		6365.15		6422
-THERMAX		-1.65		2265.0		3670
+FINCABLES		-0.04		858.15		108882
+WESTLIFE		-0.51		679.05		28397
+WHIRLPOOL		-0.11		1322.6		19375
+THERMAX		-1.65		2264.8		3701
+BAYERCROP		-0.32		4072.9		523
