@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.4		735.0		1090428
-DIVISLAB		0.73		3226.5		426835
-ASIANPAINT		0.87		2868.7		305617
+UPL		0.4		734.95		1094706
+DIVISLAB		0.68		3224.8		426930
+ASIANPAINT		0.91		2869.6		306530
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		-2.38		1941.6		215446
+DALBHARAT		-2.24		1944.45		220060
+ABB		-0.98		3153.0		75419
