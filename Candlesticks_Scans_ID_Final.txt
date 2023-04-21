@@ -12,3 +12,4 @@ Bullish_Hammer_15m_N500
 ======================= 
 nsecode		per_chg		close		volume
 KFINTECH		-1.06		293.5		192473
+PRINCEPIPE		-0.13		587.25		20251
