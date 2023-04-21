@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.62		106.25		35696085
-SBIN		-0.39		542.65		22119850
-HDFCLIFE		-3.14		513.6		4182745
-COALINDIA		0.24		230.1		2250665
+TATASTEEL		-1.62		106.25		35834006
+SBIN		-0.39		542.7		22178269
+HDFCLIFE		-3.29		512.8		4202357
+COALINDIA		0.24		230.1		2260077
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 ROSSARI		-1.69		686.6		48749
-PGHH		-0.72		13899.1		1023
+PGHH		-0.72		13899.1		1034
