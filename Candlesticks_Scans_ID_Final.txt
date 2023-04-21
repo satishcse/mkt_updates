@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.55		541.8		12767577
-TATAMOTORS		-1.7		468.7		4882940
-NTPC		-0.44		168.95		3706849
-ADANIPORTS		-0.71		661.35		1223012
-KOTAKBANK		0.73		1897.75		955067
+SBIN		-0.53		541.9		12775921
+NTPC		-0.47		168.9		3720467
+HEROMOTOCO		0.63		2465.25		546775
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ULTRACEMCO		-1.77		7343.2		191696
+
