@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIPRULI		-1.79		447.55		2762654
-AAVAS		-2.74		1622.4		32099
+ICICIPRULI		-1.84		447.3		2812315
+UBL		0.05		1439.1		34182
+AAVAS		-2.7		1623.1		32343
+TIINDIA		-0.59		2620.0		5101
 HONAUT		-0.32		36215.7		320
