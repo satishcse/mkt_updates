@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.13		158.95		1074129
-TCS		0.33		3115.1		386002
+ITC		0.25		401.3		1278458
+DIVISLAB		1.11		3238.75		367129
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CHOLAFIN		-1.75		827.5		450171
-MCDOWELL-N		0.18		759.05		87559
+
