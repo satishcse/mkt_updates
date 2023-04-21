@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-2.27		105.55		19691792
+NTPC		-0.47		168.9		3253111
+APOLLOHOSP		0.59		4373.9		361025
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ULTRACEMCO		-1.65		7352.55		156963
+
