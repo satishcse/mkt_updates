@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.4		734.95		1433505
-JSWSTEEL		-1.08		708.1		1010641
+UPL		0.4		735.0		1441786
+JSWSTEEL		-1.03		708.4		1016373
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-0.1		1772.4		69278
-MFL		-2.07		1042.95		22808
+MARUTI		-1.55		8580		294234
