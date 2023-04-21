@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.25		401.3		1332232
-BHARTIARTL		-0.47		768.7		1048959
-WIPRO		0.63		365.15		801710
-COALINDIA		-0.68		228.0		641511
-DIVISLAB		0.86		3230.6		378201
+ITC		0.25		401.3		1342402
+BHARTIARTL		-0.47		768.7		1049833
+WIPRO		0.62		365.1		806465
+COALINDIA		-0.63		228.1		642716
+DIVISLAB		0.81		3229.05		379650
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		-1.35		2599.85		18598
-SHREECEM		-1.03		24000.65		7251
+DALBHARAT		-2.41		1941.05		163474
+CERA		-0.7		6240.0		11817
 RATNAMANI		-0.49		2130.6		3193
