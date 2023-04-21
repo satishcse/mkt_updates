@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SIEMENS		-0.87		3243.0		107025
+ENDURANCE		-1.97		1233.8		12445
+GARFIBRES		-1.7		2842.8		3911
