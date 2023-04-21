@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.08		105.75		27457632
-HDFCLIFE		-3.1		513.8		2819268
-UPL		0.4		735.0		1404548
-KOTAKBANK		0.48		1893.0		1205402
-APOLLOHOSP		0.57		4373.0		401746
+TATASTEEL		-2.08		105.75		27572060
+HDFCLIFE		-3.08		513.9		2829016
+UPL		0.4		735.0		1407329
+KOTAKBANK		0.51		1893.55		1213515
+APOLLOHOSP		0.53		4371.4		403016
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-1.03		3096.95		93692
+DALBHARAT		-3.29		1923.55		392703
+BALAMINES		-2.21		2172.4		89609
