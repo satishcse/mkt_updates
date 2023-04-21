@@ -2,7 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.21		2584.7		111602
+ONGC		-0.06		159.05		977909
 
 Bullish_Hammer_15m_N500								 
 ======================= 
@@ -13,7 +13,7 @@ DIXON		-0.43		2974.6		37255
 HLEGLAS		-3.03		565.15		25953
 SCHAEFFLER		-0.57		2760.0		14734
 VINATIORGA		-1.18		1987.0		8437
-BLUESTARCO		-0.68		1476.9		5118
+BLUESTARCO		-0.68		1476.9		5209
 SOLARINDS		-1.04		3732.8		4599
 KENNAMET		1.22		2186.3		3497
 HGS		-0.36		1036.25		3316
