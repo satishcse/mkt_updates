@@ -6,8 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-0.61		2219.2		134841
-BAJAJFINSV		-0.43		1326.4		112982
-UBL		0.11		1440.0		62366
-GODFRYPHLP		-0.38		1726.85		4399
-HONAUT		-0.32		36215.7		327
+ADANIGREEN		-1.03		923.4		187107
+ATGL		-0.78		920.95		74754
+UBL		0.29		1442.55		63278
+ACC		-0.6		1727.6		37553
+CREDITACC		-0.91		983.4		4889
