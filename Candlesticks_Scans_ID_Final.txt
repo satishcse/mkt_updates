@@ -1,12 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TITAN		0.36		2588.55		106568
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-0.54		2761.15		188983
-DIXON		-0.42		2975.0		36570
-KENNAMET		1.02		2182.0		3493
+HAL		-0.53		2761.45		189687
+SIEMENS		-0.12		3267.35		36694
+DIXON		-0.42		2975.0		36669
+JKCEMENT		-1.05		2912.95		14089
+BLUESTARCO		-0.71		1476.45		5052
+SOLARINDS		-1.04		3732.55		4534
+KENNAMET		1.06		2183.0		3495
