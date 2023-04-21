@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.48		542.2		19755114
-NTPC		-0.29		169.2		5518568
-BRITANNIA		1.44		4317.75		226825
-NESTLEIND		-0.26		20420.5		34911
+SBIN		-0.48		542.2		19778783
+NTPC		-0.27		169.25		5528477
+BRITANNIA		1.4		4316.05		228507
+NESTLEIND		-0.27		20417.45		35040
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MFSL		-3.02		621.8		645707
