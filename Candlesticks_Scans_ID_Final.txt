@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATAMOTORS		-1.71		468.65		4876327
+NTPC		-0.47		168.9		3698521
+KOTAKBANK		0.73		1897.75		953617
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-0.82		932.5		30114
+PATANJALI		-0.82		932.5		30356
