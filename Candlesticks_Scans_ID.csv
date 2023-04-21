@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,-0.53,541.9,12775921
-NTPC,-0.47,168.9,3720467
-HEROMOTOCO,0.63,2465.25,546775
+NTPC,-0.5,168.85,3747830
+ONGC,0.03,159.2,2040789
+UPL,0.4,735.0,1207811
+HEROMOTOCO,0.62,2465.05,548352
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ATGL,-1.7,912.45,181047
+SKFINDIA,-1.19,4141.65,3787
