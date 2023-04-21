@@ -7,6 +7,5 @@ ONGC		-0.09		159		830187
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SCHAEFFLER		-0.37		2765.65		12089
-SANOFI		-0.02		5968.45		4589
-BASF		0.12		2333.35		607
+BASF		0.12		2333.35		608
+LAXMIMACH		0.12		10597.8		268
