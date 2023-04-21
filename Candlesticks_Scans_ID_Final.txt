@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.43		542.45		11442782
-INFY		0.32		1227.3		4039727
-ONGC		-0.06		159.05		1750034
-WIPRO		1.03		366.6		1238139
-LT		-1.16		2206.95		512861
-BAJAJFINSV		-1.1		1317.4		385090
+SBIN		-0.51		542.0		11518568
+INFY		0.29		1227.0		4072225
+ONGC		-0.09		159.0		1755285
+WIPRO		1.03		366.6		1243631
+LT		-1.2		2205.95		516102
+BAJAJFINSV		-1.15		1316.8		390524
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHREECEM		-1.39		23911.8		10502
+KFINTECH		-1.06		293.5		192396
