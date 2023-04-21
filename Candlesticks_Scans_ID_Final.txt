@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.44		168.95		1880557
-APOLLOHOSP		0.55		4372.1		329643
-HINDUNILVR		0.09		2494.95		300721
+APOLLOHOSP		0.54		4372		329786
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-1.39		7371.9		113704
+ULTRACEMCO		-1.42		7370.0		114225
 LAXMIMACH		-0.38		10544.95		928
