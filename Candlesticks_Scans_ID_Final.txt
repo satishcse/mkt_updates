@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.69		365.35		656717
-TITAN		0.39		2589.3		105727
+TITAN		0.36		2588.55		106568
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UTIAMC		-0.65		667.45		6102
-BLUESTARCO		-0.71		1476.5		5046
+HAL		-0.54		2761.15		188983
+DIXON		-0.42		2975.0		36570
 KENNAMET		1.02		2182.0		3493
