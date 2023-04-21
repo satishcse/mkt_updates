@@ -10,11 +10,11 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INDUSTOWER		1.71		140.05		13693357
-ALKEM		1.58		3413.05		320955
-IPCALAB		1.4		842.35		405732
-PETRONET		0.36		233.8		938137
-OFSS		-0.04		3294.95		56725
+ALKEM		1.64		3415.0		321299
+INDUSTOWER		1.56		139.85		13726460
+IPCALAB		1.33		841.8		406259
+PETRONET		0.3		233.65		945506
+OFSS		-0.1		3293.2		56741
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -46,9 +46,7 @@ ABBOTINDIA		-0.63		22410.15		4511
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-CHAMBLFERT		0.09		277.05		484956
-CUMMINSIND		-1.03		1543.85		193940
+
 
 Open_High								 
 ========= 
