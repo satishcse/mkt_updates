@@ -6,5 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-1.69		1309.6		501346
-BAJFINANCE		-1.06		5850.2		310433
+BAJFINANCE		-1.06		5850.0		311997
+BLUEDART		-0.09		6006.95		6645
