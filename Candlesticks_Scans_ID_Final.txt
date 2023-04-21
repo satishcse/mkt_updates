@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.35		2588.15		108150
+TITAN		0.37		2588.9		108536
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IIFL		-0.1		459.6		44853
-SIEMENS		-0.04		3270.0		37202
-JKCEMENT		-1.05		2912.95		14100
-UTIAMC		-0.65		667.45		6156
-BLUESTARCO		-0.72		1476.4		5053
-SOLARINDS		-1.04		3732.6		4535
+OLECTRA		-1.72		680.85		283210
+HAL		-0.54		2761.1		192972
+BERGEPAINT		0.61		580.5		96796
+AFFLE		-0.53		903.9		58621
+DIXON		-0.42		2974.95		36897
+SOLARINDS		-1.06		3731.9		4544
 KENNAMET		1.06		2183.0		3495
