@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		2.17		554.95		21996236
-COALINDIA		0.57		231.35		2376611
-HEROMOTOCO		1.65		2500.0		662490
+SBIN		2.16		554.9		22243822
+COALINDIA		0.61		231.45		2412882
+BPCL		0.36		347.45		2032714
+HEROMOTOCO		1.65		2500.05		670609
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		0.54		1153.1		323867
+BLUEDART		-0.45		5979.25		12344
+ALKYLAMINE		-0.21		2349.4		11004
