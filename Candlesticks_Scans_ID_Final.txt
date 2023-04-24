@@ -2,19 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.71		106.15		37625271
-SBIN		-0.46		542.3		22596928
-HDFCLIFE		-3.16		513.5		4451623
-COALINDIA		0.2		230.0		2459365
+UPL		-0.66		729.85		928620
+BAJAJFINSV		0.16		1320.0		780340
+HEROMOTOCO		1.74		2502.2		635246
+MARUTI		-1.07		8466.9		491513
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SBILIFE		-1.8		1108.5		835403
-LUXIND		-2.05		1340.0		332883
-DIXON		-1.99		2928.0		191292
-ROSSARI		-1.97		684.65		55101
-GODFRYPHLP		-2.07		1697.6		51077
-HOMEFIRST		-2.1		713.7		35487
-SHREECEM		-1.38		23915.0		21798
-IFBIND		-1.28		839.95		11620
+
