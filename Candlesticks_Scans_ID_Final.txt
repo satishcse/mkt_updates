@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.86		1688.95		17178524
-TATAMOTORS		0.85		475.2		7228022
-COALINDIA		0.7		231.65		2329669
-CIPLA		-1.32		903.0		1665308
-HEROMOTOCO		1.78		2503.05		648401
-MARUTI		-1.07		8466.7		506235
+COALINDIA		0.72		231.7		2339880
+HEROMOTOCO		1.74		2502.15		655692
+JSWSTEEL		1.17		718.95		611133
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AETHER		-2.06		964.05		41064
+CARBORUNIV		-1.29		1044.05		153561
