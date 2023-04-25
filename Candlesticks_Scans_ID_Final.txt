@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CROMPTON		-11.16		261.4		10077684
-MAHINDCIE		-0.27		363.0		57832
-LTTS		-0.6		3414.35		29220
-BRIGADE		-0.31		487.65		6946
-MRF		0.32		87177.35		514
+CROMPTON		-11.16		261.4		10431104
+SUNTV		-0.2		419.5		49217
+LTTS		-0.69		3411.1		29360
+RADICO		-0.67		1130.3		6859
