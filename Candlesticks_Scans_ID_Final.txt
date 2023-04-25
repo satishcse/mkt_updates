@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.19		347.85		1229147
-DIVISLAB		0.98		3224.0		332541
-DRREDDY		-0.08		4802.3		257395
+BPCL		0.16		347.75		1231155
+DIVISLAB		0.89		3221.4		333080
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFIZER		-0.08		3777.7		3962
+PFIZER		-0.08		3777.7		4260
