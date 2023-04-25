@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.89		912.8		27112121
-ONGC		0.34		160.8		6458429
-COALINDIA		-0.11		231.3		1437198
+TITAN		-0.06		2628		377510
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAXO		0.02		1248.1		33408
+GLAXO		0.02		1248.1		33561
 TATAINVEST		-0.73		2150.8		18041
