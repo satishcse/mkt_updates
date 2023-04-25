@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.29		429.05		1023448
-HINDUNILVR		-0.03		2499.0		318212
+SBIN		1.22		561.35		11972074
+HINDUNILVR		-0.03		2499.0		320091
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ULTRACEMCO		0.15		7452		130337
+
