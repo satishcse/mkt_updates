@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.27		734.55		1534494
-BPCL		0.14		347.7		1237493
-DIVISLAB		0.91		3221.95		336768
-ULTRACEMCO		0.33		7465.0		241564
+TATASTEEL		0.8		107.35		18613258
+TATACONSUM		0.15		733.65		1536828
+BPCL		0.1		347.55		1241302
+DIVISLAB		0.99		3224.6		337409
+ULTRACEMCO		0.43		7472.6		243408
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-1.9		1713		181925
+MASTEK		-1.69		1716.7		182171
