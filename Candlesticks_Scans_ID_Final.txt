@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.25		160.65		7192807
-POWERGRID		0.43		232.95		4970132
-BAJAJFINSV		1.82		1343.75		2001361
-CIPLA		0.55		907.95		1705712
-HCLTECH		-0.19		1052.1		882725
+ONGC		0.25		160.65		7216009
+POWERGRID		0.45		233.0		4988123
+BAJAJFINSV		1.78		1343.25		2002981
+CIPLA		0.57		908.15		1707296
+HCLTECH		-0.19		1052.0		883653
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		0.3		10559.7		1726
+AMBER		-0.61		1847.75		9242
