@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.09		1899		4118398
+KOTAKBANK		-0.01		1897.05		4123258
+SUNPHARMA		-0.12		977.95		1887366
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFIZER		-0.23		3771.95		4420
+PFIZER		-0.23		3771.95		4100
