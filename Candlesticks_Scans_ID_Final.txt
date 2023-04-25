@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-2		536.6		3873524
+HDFCLIFE		-1.98		536.7		3875985
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.55		746.7		575738
+MAZDOCK		-0.51		747.0		576642
+LODHA		-2.3		886.8		368464
+LUXIND		-1.44		1325.45		29614
+PGHH		-0.17		13870.0		1016
