@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		-0.25		3185		62941
+SBIN		1.22		561.35		8998227
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MASTEK		-1.52		1719.75		38062
-MOTILALOFS		0.5		606.5		23058
-ALKEM		-0.79		3401.6		16998
+
