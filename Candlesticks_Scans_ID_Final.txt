@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		1.44		1117.85		3697185
-COALINDIA		-0.13		231.25		1357199
-TCS		0.29		3184.05		1127686
-APOLLOHOSP		0.7		4430.0		135603
+INDUSINDBK		1.44		1117.9		3698868
+COALINDIA		-0.19		231.1		1358399
+TCS		0.3		3184.45		1130161
+APOLLOHOSP		0.7		4430.0		135666
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCIEXP		-1.97		1433.25		24273
-MRF		-0.74		86249.95		2419
+MRF		-0.74		86248.95		2420
