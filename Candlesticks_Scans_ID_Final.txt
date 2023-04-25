@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.26		171.4		878589
+BPCL		0.03		347.3		135068
+DIVISLAB		-0.3		3183.35		59724
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-1.68		1716.85		34933
-ALKEM		-0.87		3398.9		15456
-MOTILALOFS		0.6		607.1		14101
+MASTEK		-1.67		1717.05		35712
+MOTILALOFS		0.38		605.8		14351
