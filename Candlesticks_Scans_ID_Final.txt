@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.85		107.4		11956455
-WIPRO		-0.44		376.3		2359840
+ONGC		0.44		160.95		5631570
+BHARTIARTL		1.89		774.65		3559939
+TITAN		-0.3		2621.65		308946
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAHLOG		-2.01		367.5		215322
-ATUL		0.02		6983.95		13369
-THERMAX		-0.69		2270.0		8037
+
