@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		1.99		1345.95		1284940
-EICHERMOT		1.09		3217.4		185736
+BAJAJFINSV		1.91		1345.0		1293733
+M&M		-0.4		1202.9		548781
+EICHERMOT		1.04		3215.85		186151
 
 Bullish_Hammer_15m_N500								 
 ======================= 
