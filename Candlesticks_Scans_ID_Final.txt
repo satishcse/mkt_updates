@@ -7,6 +7,4 @@ ADANIPORTS		1.19		679.3		2761867
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-1.72		1424.8		1300248
-TIINDIA		-1.84		2511.3		567344
-AAVAS		-0.52		1550.0		144972
+INDIAMART		-0.12		5198.1		24283
