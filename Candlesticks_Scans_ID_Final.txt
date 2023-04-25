@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.75		773.55		5491907
-BPCL		0.14		347.7		1420730
+BPCL		0.16		347.75		1430094
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 CENTURYTEX		-3.36		653.9		397173
-SOLARINDS		-2.16		3773.6		23422
+SOLARINDS		-2.16		3773.6		23462
