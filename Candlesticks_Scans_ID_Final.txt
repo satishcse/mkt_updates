@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.13		347.65		1508605
+BPCL		0.14		347.7		1518015
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYTEX		-3.36		653.9		411018
-FIVESTAR		0.17		522.65		57643
-GMMPFAUDLR		-0.81		1458.1		38364
+JUBLFOOD		-0.17		449.0		2598711
+CENTURYTEX		-3.38		653.75		411304
+ANGELONE		-0.75		1224.7		298223
+TCIEXP		-3.63		1408.9		58739
