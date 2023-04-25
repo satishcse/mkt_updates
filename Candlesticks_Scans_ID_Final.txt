@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.04		347.35		1371720
+BPCL		0.12		347.6		1385108
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-2.08		1709.95		195955
-LUXIND		-1.4		1326.05		37376
-TATAINVEST		-0.77		2149.95		23321
-3MINDIA		-0.42		22319.0		23235
+MASTEK		-2.09		1709.8		198717
+TATAINVEST		-0.71		2151.15		23441
