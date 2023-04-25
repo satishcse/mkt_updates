@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.26		1003.45		462836
-HCLTECH		0.02		1054.3		388161
-LT		0.11		2231.45		361129
+TECHM		-0.26		1003.45		464481
+HCLTECH		0.0		1054.0		389227
+LT		0.09		2230.85		361628
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TITAN		-0.17		2625.05		222480
+DALBHARAT		-0.8		1913.85		117580
