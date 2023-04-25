@@ -5,4 +5,8 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CROMPTON		-10.99		261.9		5394360
+DRREDDY		-0.79		4768.3		46662
+DIXON		-0.41		2882.05		25454
+BLUEDART		-0.77		5926.0		1924
