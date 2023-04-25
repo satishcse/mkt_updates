@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.23		348.0		1226766
-DIVISLAB		1.05		3226.45		331754
-DRREDDY		-0.08		4802.45		256686
+SUNPHARMA		-0.34		975.85		1630671
+BPCL		0.16		347.75		1227971
+DIVISLAB		1.0		3224.9		332094
+DRREDDY		-0.05		4803.65		257005
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PATANJALI		-0.95		930		76008
+
