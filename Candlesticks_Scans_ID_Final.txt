@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.31		893.9		13164365
-TECHM		-0.19		1004.15		468025
-LT		0.07		2230.55		363076
+AXISBANK		1.17		892.65		13377774
+TECHM		-0.21		1004.0		470353
+LT		0.08		2230.7		363849
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		-0.81		1913.7		118583
-CREDITACC		-0.16		977.8		16811
+DALBHARAT		-0.75		1914.75		119196
+CREDITACC		-0.16		977.75		16812
