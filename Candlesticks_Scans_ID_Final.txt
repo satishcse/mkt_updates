@@ -6,4 +6,5 @@ EICHERMOT		1.06		3216.4		205776
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MRF		-0.35		86593		1413
