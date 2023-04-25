@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.44		2238.8		543151
+LT		0.45		2238.85		545047
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		0.43		1398.65		1260691
-MFL		-0.73		1041.55		20097
-BOSCHLTD		0.1		18750.0		5177
-PGHH		-0.09		13880.7		798
+ANGELONE		0.1		1235.25		197451
+HONAUT		-0.75		35647.0		1691
+PGHH		-0.09		13880.7		740
