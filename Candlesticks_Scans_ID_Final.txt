@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.41		562.4		14105083
-TATASTEEL		0.61		107.15		7925811
-ONGC		0.59		161.2		4595442
-ITC		0.38		410.25		2378755
+ONGC		0.5		161.05		4616232
+ITC		0.38		410.25		2391236
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MARUTI		-0.36		8436		296502
