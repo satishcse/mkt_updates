@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.07		1895.85		4195991
-SUNPHARMA		-0.12		977.95		1972978
+KOTAKBANK		-0.14		1894.5		4203557
+SUNPHARMA		-0.14		977.75		1981426
+TECHM		-0.73		998.8		1696788
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCIEXP		-2.65		1423.2		36747
+TCIEXP		-2.65		1423.2		36765
