@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.12		347.6		1487941
+BPCL		0.12		347.6		1497303
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AARTIDRUGS		-0.12		420.15		176564
-FLUOROCHEM		-1.01		3324.9		124339
-PRINCEPIPE		-1.25		587.0		43792
-GMMPFAUDLR		-0.95		1456.0		38118
-SOLARINDS		-1.94		3782.05		25437
-THERMAX		-0.81		2267.3		18677
+CENTURYTEX		-3.37		653.85		409876
+MASTEK		-2.19		1708.05		217499
+FLUOROCHEM		-1.02		3324.5		124692
