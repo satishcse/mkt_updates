@@ -9,4 +9,5 @@ LT		0.5		2240.0		533881
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BOSCHLTD		0.08		18747.55		5087
+SHRIRAMFIN		0.41		1398.25		953394
+BOSCHLTD		0.07		18744.9		5093
