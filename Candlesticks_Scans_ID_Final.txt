@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.92		913.05		26971869
-TATASTEEL		0.94		107.5		14788779
-ONGC		0.28		160.7		6405682
-BPCL		0.26		348.1		908759
+ICICIBANK		0.93		913.2		27040742
+ONGC		0.34		160.8		6418977
+COALINDIA		-0.04		231.45		1427564
+TCS		0.3		3184.45		1208258
+BPCL		0.23		348.0		912771
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCIEXP		-2.11		1431.1		25730
+DIXON		-0.87		2868.7		112276
