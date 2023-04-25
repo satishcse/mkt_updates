@@ -7,4 +7,11 @@ HEROMOTOCO		0.15		2504.9		396
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ICICIPRULI		-0.2		441.9		57764
+AUROPHARMA		-0.38		587.4		39959
+CENTURYTEX		-1.6		665.8		29915
+LODHA		1.2		918.5		13974
+ASIANPAINT		-0.05		2889.75		10246
+JBMA		-0.07		833.0		8232
+PAGEIND		0.28		40647.95		158
