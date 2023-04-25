@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.93		913.2		26918522
-ONGC		0.34		160.8		6349133
-BPCL		0.23		348.0		896245
-APOLLOHOSP		0.7		4430.0		138108
+ICICIBANK		0.91		913.0		26938626
+ONGC		0.34		160.8		6368319
+BPCL		0.23		348.0		905006
+APOLLOHOSP		0.7		4430.0		138117
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-1.06		2863.05		110858
+TCIEXP		-2.31		1428.25		25629
