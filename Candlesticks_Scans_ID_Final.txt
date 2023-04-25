@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.58		171.95		3630602
-ADANIPORTS		1.09		678.6		2757351
+ADANIPORTS		1.19		679.3		2761867
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-1.71		1424.85		1299168
+VBL		-1.72		1424.8		1300248
+TIINDIA		-1.84		2511.3		567344
+AAVAS		-0.52		1550.0		144972
