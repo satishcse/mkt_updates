@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.63		2483.9		996773
+TATASTEEL		0.94		107.5		15796874
+ITC		0.98		412.7		6491897
+HINDUNILVR		-0.64		2483.8		1001558
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HDFCAMC		-1.65		1751.55		346567
+
