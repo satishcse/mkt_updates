@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.75		107.3		13008123
-COALINDIA		-0.09		231.35		1306873
-TATACONSUM		0.21		734.1		1101595
-APOLLOHOSP		0.68		4428.95		134343
+TATASTEEL		0.56		107.1		13478828
+COALINDIA		-0.06		231.4		1311793
+APOLLOHOSP		0.7		4430.0		134503
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.03		7442.5		183372
+GARFIBRES		-0.53		2884.7		1977
