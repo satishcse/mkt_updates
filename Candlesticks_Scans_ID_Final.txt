@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFC		-0.4		2776.45		1583307
-TIMKEN		-1.04		2927.9		5762
-PGHH		0.02		13895.85		137
+ULTRACEMCO		0.1		7448.0		119521
+PGHH		0.02		13895.85		142
