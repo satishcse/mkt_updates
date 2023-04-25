@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.44		160.95		5631570
-BHARTIARTL		1.89		774.65		3559939
-TITAN		-0.3		2621.65		308946
+ONGC		0.44		160.95		5641199
+BHARTIARTL		1.91		774.8		3580685
+ADANIPORTS		1.3		680.05		2655979
+COALINDIA		-0.13		231.25		1230540
 
 Bullish_Hammer_15m_N500								 
 ======================= 
