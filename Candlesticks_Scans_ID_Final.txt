@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.13		347.65		1234722
-DIVISLAB		0.88		3221.05		335676
-ULTRACEMCO		0.36		7467.55		240824
+BPCL		0.1		347.55		1236108
+DIVISLAB		0.86		3220.4		336432
+ULTRACEMCO		0.35		7466.65		241153
 
 Bullish_Hammer_15m_N500								 
 ======================= 
