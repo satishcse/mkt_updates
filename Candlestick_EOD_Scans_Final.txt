@@ -1,16 +1,14 @@
 
 Hanging_Man_N100								 
 ================ 
-nsecode		per_chg		close		volume
-BHARTIARTL		0.27		774.7		5033228
+
 
 Bullish_Hammer_Daily_N50								 
 ======================== 
 nsecode		per_chg		close		volume
-ITC		0.21		412.4		7595413
-UPL		0.13		715.55		3614104
-CIPLA		0.37		913.05		1399351
-ULTRACEMCO		0.21		7455.05		227784
+UPL		0.12		715.5		3621463
+CIPLA		0.37		913.0		1400447
+ULTRACEMCO		0.04		7442.0		230013
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
