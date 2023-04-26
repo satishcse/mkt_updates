@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.18		733.1		1761862
-BRITANNIA		-0.24		4392.0		143937
+HINDUNILVR		0.26		2496.9		365730
+BRITANNIA		-0.26		4391.05		147121
+NESTLEIND		0.38		20743.85		55370
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-5.89		1400		492854
+INDIAMART		-1.02		5264		72461
