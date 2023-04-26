@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.77		566.15		17801459
-POWERGRID		1.12		235.5		5744025
-COALINDIA		-0.13		229.95		2448275
-DRREDDY		-0.07		4830.0		137880
+SBIN		0.75		566.0		17843911
+BHARTIARTL		0.15		773.75		3609518
+DRREDDY		-0.07		4830.0		138099
 
 Bullish_Hammer_15m_N500								 
 ======================= 
