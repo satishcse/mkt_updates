@@ -10,10 +10,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-GNFC		10.55		587.0		12865989
+GNFC		10.55		587.0		12865695
 SIEMENS		3.49		3447.65		722630
-POWERGRID		2.32		238.3		10185831
-ASHOKLEY		0.61		141.0		7683157
+POWERGRID		2.32		238.3		10185769
+ASHOKLEY		0.61		141.0		7682027
 CANFINHOME		0.17		585.15		724986
 
 Intraday_Volume_Shocker								 
