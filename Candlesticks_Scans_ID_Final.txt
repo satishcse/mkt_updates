@@ -2,14 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		0.16		3231.55		50733
+CIPLA		-0.7		903.3		196309
+HCLTECH		0.24		1056.0		159568
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PEL		-0.6		715.7		114195
-KRBL		-0.98		380.45		85562
-AAVAS		-2.08		1484.9		76328
-ICICIGI		-0.37		1069.75		25784
-METROBRAND		-1.35		839.2		10027
-KENNAMET		-0.24		2190.55		541
+
