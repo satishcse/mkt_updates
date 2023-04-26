@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		1.2		1866.75		1079020
+ADANIENT		1.24		1867.5		1083725
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUBANK		-3.79		635.1		1918522
-GALAXYSURF		-0.35		2485.35		1541
+AUBANK		-3.81		635.0		1936789
+GALAXYSURF		-0.35		2485.4		1543
