@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.19		160.95		9068184
-NTPC		-0.73		169.85		8832748
-HINDALCO		-1.13		424.95		5132293
-HDFCLIFE		0.42		532.0		4126479
-COALINDIA		-0.24		229.7		3387867
+ONGC		0.19		160.95		9112615
+NTPC		-0.73		169.85		8926985
+HINDALCO		-1.14		424.9		5147712
+HDFCLIFE		0.42		531.95		4137775
+COALINDIA		-0.13		229.95		3406983
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANYAVAR		-4.07		1253.5		60110
+TRENT		-0.1		1379.9		508708
+BORORENEW		-0.79		509.0		385539
+AARTIDRUGS		-0.88		417.15		144504
+KIMS		-2.32		1486.25		19185
