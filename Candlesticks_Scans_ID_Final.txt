@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.22		160.3		1862061
-SUNPHARMA		-0.54		967.2		410037
-MARUTI		0.51		8512.0		208093
+SUNPHARMA		-0.57		967.0		415037
+MARUTI		0.5		8511.6		208973
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-0.23		1638.55		224099
-CERA		-1.66		6118.7		7568
+CERA		-1.67		6117.85		7622
