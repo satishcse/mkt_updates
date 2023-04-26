@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.74		565.95		17925883
-BPCL		0.42		348.95		883853
-GRASIM		0.72		1699.0		433170
+SBIN		0.74		565.95		17947337
+BPCL		0.42		348.95		884891
+GRASIM		0.69		1698.45		433819
 
 Bullish_Hammer_15m_N500								 
 ======================= 
