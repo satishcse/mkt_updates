@@ -10,14 +10,15 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-GNFC,6.37,564.8,2676224
-SIEMENS,0.69,3354.45,46108
+GNFC,6.76,566.9,2721831
+SIEMENS,0.62,3352.0,46505
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-HINDCOPPER,-0.76,98.35,424599
-ESCORTS,0.31,1971.7,21469
+CHAMBLFERT,2.4,281.8,575211
+HINDCOPPER,-0.66,98.45,434943
+PIDILITIND,0.66,2427.15,23413
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
