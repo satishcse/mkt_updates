@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-AXISBANK,0.52,882.95,11091560
-NTPC,-0.61,170.05,4057553
-SUNPHARMA,-0.51,967.5,584661
-EICHERMOT,1.71,3273.0,460501
+AXISBANK,0.6,883.65,11123118
+NTPC,-0.64,170.0,4135958
+INFY,0.27,1228.2,3012797
+SUNPHARMA,-0.46,968.0,597126
+EICHERMOT,1.8,3275.95,462284
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+THERMAX,-0.97,2244.9,8109
