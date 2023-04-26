@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.57		476.25		3058650
-SUNPHARMA		-0.47		967.95		393740
-MARUTI		0.64		8523.1		205909
+SUNPHARMA		-0.47		967.95		394233
+MARUTI		0.68		8526.8		206384
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TORNTPHARM		-0.24		1638.35		222635
+
