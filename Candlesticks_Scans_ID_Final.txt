@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.53		883.0		11044975
-NTPC		-0.56		170.15		3878230
-TATACONSUM		-0.12		733.6		1797113
-SUNPHARMA		-0.53		967.35		550216
-EICHERMOT		1.71		3273.1		457562
+AXISBANK		0.5		882.75		11072925
+NTPC		-0.56		170.15		3908054
+SUNPHARMA		-0.53		967.3		556779
+EICHERMOT		1.74		3273.9		458016
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PATANJALI		-1.17		924		93111
