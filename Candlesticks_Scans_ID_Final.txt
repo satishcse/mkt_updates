@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.16		1226.85		3729651
-HDFCLIFE		0.26		531.15		2679613
-BPCL		0.23		348.3		791676
-GRASIM		0.76		1699.75		327992
-DIVISLAB		-0.8		3200.75		183387
+HDFCLIFE		0.31		531.4		2680974
+BPCL		0.24		348.35		793166
+GRASIM		0.8		1700.3		328431
+DIVISLAB		-0.69		3204.05		184803
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TEAMLEASE		-1.31		2122.45		13344
