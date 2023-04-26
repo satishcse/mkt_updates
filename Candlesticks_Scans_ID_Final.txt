@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.72		565.85		17869805
-HEROMOTOCO		0.09		2499.9		432528
-GRASIM		0.78		1700.0		366467
+SBIN		0.76		566.05		17896073
+BPCL		0.37		348.8		882009
+GRASIM		0.78		1700.0		366809
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VINATIORGA		-0.84		1974.9		9528
+VINATIORGA		-0.84		1974.9		9544
