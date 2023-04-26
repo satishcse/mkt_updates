@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.29		235.9		5006510
-COALINDIA		-0.15		229.9		1925831
-JSWSTEEL		-0.87		718.7		771221
+POWERGRID		1.29		235.9		5027995
+COALINDIA		-0.13		229.95		1934499
+JSWSTEEL		-0.82		719.05		774984
 
 Bullish_Hammer_15m_N500								 
 ======================= 
