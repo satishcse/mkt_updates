@@ -10,22 +10,26 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-GNFC,5.81,561.85,4900584
-SIEMENS,1.24,3372.55,105652
-CANFINHOME,0.82,588.95,212656
+GNFC,5.74,561.5,4909394
+SIEMENS,1.23,3372.3,108063
+CANFINHOME,0.82,588.95,214893
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-ITC,0.09,411.9,1850765
-IGL,-3.03,479.7,977724
-GLENMARK,0.55,521.0,376793
-BERGEPAINT,1.04,600.25,170610
+ITC,0.09,411.9,2403179
+IGL,-2.98,479.95,980371
+SBICARD,1.35,783.1,262135
+SUNPHARMA,-0.43,968.3,225238
+BERGEPAINT,1.12,600.7,172911
+METROPOLIS,-0.05,1225.05,32527
+BALKRISIND,0.04,2041.1,26851
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-ITC,0.09,411.9,2403179
+ITC,-0.12,411.05,2429658
+HAVELLS,0.82,1225.9,161650
 
 Open_High,,,, 
 ========= 
