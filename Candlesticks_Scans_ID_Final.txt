@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.09		160.5		2538385
-UPL		-0.13		713.7		1728708
-SUNPHARMA		-0.5		967.6		642890
-BAJFINANCE		-0.73		6031.0		640249
-HEROMOTOCO		0.09		2499.95		281047
+ONGC		-0.09		160.5		2552822
+SUNPHARMA		-0.5		967.65		648267
+BAJFINANCE		-0.66		6034.95		641002
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SANOFI		-0.43		5950		30770
+
