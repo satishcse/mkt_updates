@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.19		106.85		10349142
-HINDUNILVR		0.25		2496.6		371793
-BRITANNIA		-0.47		4382.0		150397
-NESTLEIND		0.39		20745.0		55726
+TATASTEEL		-0.19		106.85		10388011
+HINDUNILVR		0.26		2496.95		374575
+BRITANNIA		-0.47		4381.8		151046
+NESTLEIND		0.36		20740.0		55979
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDIAMART		-1.05		5262.4		73387
+
