@@ -10,9 +10,9 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-GNFC		7.88		572.85		6023794
-SIEMENS		1.7		3388.05		298006
-CANFINHOME		0.39		586.45		277938
+GNFC		7.9		572.95		6035623
+SIEMENS		1.83		3392.3		298971
+CANFINHOME		0.38		586.35		278423
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -38,7 +38,9 @@ NIFTY		0.02		17772.4		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+ITC		0.0		411.55		3793977
+SUNPHARMA		-0.46		968.0		524636
 
 Open_High								 
 ========= 
