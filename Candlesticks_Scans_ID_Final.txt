@@ -1,14 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+DIVISLAB		0.07		3228.55		43843
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		0.24		662.0		83162
-CDSL		0.23		993.8		50460
-ROUTE		-0.5		1245.4		7336
-JKCEMENT		-0.06		2916.3		4498
-KENNAMET		-0.14		2192.75		222
-PGHH		0.04		13864.05		44
+ICICIGI		-0.42		1069.2		19374
+JKCEMENT		0.07		2920.1		4713
+SUNDRMFAST		-0.15		1023.25		2955
+KENNAMET		-0.14		2192.75		223
