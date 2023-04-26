@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-INFY,0.28,1228.3,3038962
-UPL,-0.16,713.5,1720636
-BAJFINANCE,-0.59,6039.65,635964
-SUNPHARMA,-0.47,967.9,618499
+UPL,-0.13,713.7,1723715
+BAJFINANCE,-0.65,6036.0,637177
+SUNPHARMA,-0.47,967.9,634726
+HEROMOTOCO,0.05,2499.1,280069
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SANOFI,-0.43,5950,30606
