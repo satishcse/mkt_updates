@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BPCL		-0.14		347.0		195396
-NESTLEIND		0.32		20731.5		28074
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GALAXYSURF		-0.36		2485.1		1515
+GALAXYSURF		-0.35		2485.4		1530
