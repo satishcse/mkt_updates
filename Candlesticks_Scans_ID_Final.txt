@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.25		161.05		8858974
-NTPC		-0.76		169.8		8550554
-HDFCLIFE		0.46		532.2		4062562
-TATACONSUM		1.69		746.85		3609665
-HDFC		0.17		2761.6		2162040
-HCLTECH		1.14		1065.5		1509919
+ONGC		0.25		161.05		8892231
+NTPC		-0.7		169.9		8627937
+HDFCLIFE		0.48		532.3		4079049
+HDFC		0.16		2761.35		2175317
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BORORENEW		-0.79		509.0		379823
-MANYAVAR		-3.98		1254.7		58955
+TRENT		-0.54		1373.8		490278
+SONATSOFTW		-2.27		817.95		290966
+MANYAVAR		-4.1		1253.1		59330
+KIMS		-2.24		1487.55		18045
