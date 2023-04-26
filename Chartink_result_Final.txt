@@ -10,9 +10,9 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-GNFC		9.48		581.35		10160611
-SIEMENS		3.32		3441.85		574168
-CANFINHOME		0.66		588.0		589531
+GNFC		9.49		581.4		10184460
+SIEMENS		3.32		3442.05		574986
+CANFINHOME		0.83		589.0		609669
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -24,22 +24,23 @@ SUNTV		0.01		420.0		155688
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-SUNTV		0.01		420		155688
+SAIL		-1.1		81.05		8418610
+SUNTV		0.01		420.0		155800
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-HONAUT		-0.16		35650.0		5448
-BHARTIARTL		-0.17		771.3		4198674
-ICICIGI		-0.35		1070.0		404028
-WIPRO		-0.36		374.3		2627338
-SAIL		-0.85		81.25		7546096
-HDFCAMC		-1.01		1747.85		324898
-JINDALSTEL		-1.22		568.6		1072608
-IGL		-1.75		486.05		3333468
-SHRIRAMFIN		-1.98		1404.4		760628
-PVR		-2.31		1444.5		633024
-IPCALAB		-6.13		695.7		6208193
+HONAUT		-0.06		35687.2		5450
+BHARTIARTL		-0.17		771.25		4203900
+ICICIGI		-0.32		1070.35		405156
+WIPRO		-0.39		374.2		2635694
+HDFCAMC		-1.01		1747.7		325333
+SAIL		-1.1		81.05		8418610
+JINDALSTEL		-1.29		568.2		1073472
+IGL		-1.91		485.25		3340605
+SHRIRAMFIN		-1.99		1404.2		763919
+PVR		-2.33		1444.15		636353
+IPCALAB		-6.13		695.75		6211555
 
 Open_Low								 
 ======== 
