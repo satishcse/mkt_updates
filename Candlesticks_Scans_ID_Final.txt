@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.58		170.1		6242366
-TATACONSUM		1.35		744.35		2815523
-WIPRO		-0.31		374.5		2391424
-SUNPHARMA		-0.5		967.6		2317937
+NTPC		-0.56		170.15		6275995
+TATACONSUM		1.36		744.45		2823591
+WIPRO		-0.32		374.45		2398911
+SUNPHARMA		-0.51		967.55		2324354
 
 Bullish_Hammer_15m_N500								 
 ======================= 
