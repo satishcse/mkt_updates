@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.09		235.45		5546755
-HCLTECH		0.75		1061.35		858974
-BPCL		0.27		348.45		803571
-APOLLOHOSP		0.25		4427.5		343200
+POWERGRID		1.09		235.45		5560570
+HCLTECH		0.7		1060.85		860968
+APOLLOHOSP		0.26		4428.0		343622
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TORNTPHARM		-0.87		1628		339615
