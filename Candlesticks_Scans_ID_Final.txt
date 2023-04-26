@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.25		235.8		5040774
-COALINDIA		-0.13		229.95		1944571
-SUNPHARMA		-0.47		967.95		843659
-JSWSTEEL		-0.81		719.15		777086
+POWERGRID		1.22		235.75		5051783
+COALINDIA		-0.11		230.0		1945798
+SUNPHARMA		-0.47		967.95		844188
+JSWSTEEL		-0.83		719.0		777815
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AJANTPHARM		-1.23		1281		7130
