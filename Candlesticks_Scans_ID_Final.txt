@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.26		907.3		306487
-TITAN		0.26		2639.95		213890
+CIPLA		-0.22		907.65		307538
+TITAN		0.24		2639.45		215750
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FLUOROCHEM		-0.4		3315.4		9318
-ABBOTINDIA		-0.32		22229.75		1736
+
