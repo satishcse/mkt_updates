@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.86		415.8		7882430
-BAJFINANCE		2.38		6200.0		2208389
-BRITANNIA		0.23		4415.0		95012
+ICICIBANK		0.16		916.4		15174078
+SBIN		-0.49		563.55		10508695
+ASIANPAINT		-0.21		2903.85		226007
 
 Bullish_Hammer_15m_N500								 
 ======================= 
