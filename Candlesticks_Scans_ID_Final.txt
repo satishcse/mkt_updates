@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.72		481.65		6952953
-HEROMOTOCO		0.15		2509.0		669111
+TATAMOTORS		0.68		481.45		7018330
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALAMINES		0.14		2100.0		67070
-ATUL		-0.44		7007.75		12206
+AAVAS		-2.51		1399.0		503099
+GLAND		-0.6		1370.9		329461
+SUMICHEM		0.06		405.95		308234
+ESCORTS		-1.53		1938.25		264914
+BALAMINES		0.14		2100.0		68041
+HLEGLAS		-1.4		596.85		48099
+INDIGOPNTS		-0.91		1140.95		43712
