@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.05		106.9		4957382
+TATASTEEL		0.09		106.95		5004873
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-1.5		910.75		285456
-AAVAS		-0.4		1429.15		178258
-GRASIM		-0.9		1683.9		75160
-PGHH		-0.52		14005.8		545
+PGHH		-0.44		14017.9		547
