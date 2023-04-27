@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.05		106.9		5177722
-ITC		0.8		415.55		2893020
-BPCL		1.22		353.25		1091447
+RELIANCE		0.6		2376.25		1206931
+BHARTIARTL		0.56		777.75		447076
+BAJAJ-AUTO		0.68		4328.05		118238
+GRASIM		-0.77		1686.0		87079
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JKLAKSHMI		-1.17		779.1		26483
