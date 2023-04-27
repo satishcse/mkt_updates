@@ -2,11 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.7		107.6		16183503
-ONGC		-0.53		160.3		4278865
-WIPRO		0.09		374.9		2840303
-UPL		2.03		729.85		1518598
-MARUTI		0.16		8520.2		420544
+TATASTEEL		0.8		107.7		16220856
 
 Bullish_Hammer_15m_N500								 
 ======================= 
