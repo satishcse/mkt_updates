@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.14		913.65		1938070
-NESTLEIND		0.16		21060.9		14050
+ICICIBANK		-0.19		913.2		2082404
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRAJIND		-0.95		349.65		130302
-VMART		0.1		2175.9		501
-PGHH		-0.57		13999.85		352
+PRAJIND		-1.03		349.35		131412
+APOLLOHOSP		-0.63		4382.55		64666
+OFSS		-0.41		3452.95		56871
+VIPIND		-0.52		594.15		32859
+GALAXYSURF		-0.59		2483.95		834
+PGHH		-0.57		13999.75		354
