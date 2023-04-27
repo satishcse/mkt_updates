@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.29		375.65		1876096
-CIPLA		-0.26		908.75		1098060
+WIPRO		0.27		375.55		1887663
+CIPLA		-0.26		908.7		1111267
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-THERMAX		-0.32		2237.9		3379
+ADANIPORTS		-0.5		661.4		1624113
