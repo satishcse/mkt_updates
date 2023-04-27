@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.13		416.9		5161019
-HINDALCO		1.07		429.35		1447823
+ITC		1.09		416.75		5182104
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		-0.01		2411.5		136558
-PATANJALI		0.04		913.95		42639
+PATANJALI		0.03		913.9		42707
+HLEGLAS		-0.34		603.25		23128
