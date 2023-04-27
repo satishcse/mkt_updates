@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		-0.11		2638		42031
+TITAN		-0.11		2638.2		43696
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ACC		-0.04		1737.95		35601
-COROMANDEL		0.32		942.25		12918
+OFSS		-0.4		3453.55		48577
+ACC		-0.06		1737.6		36422
 GALAXYSURF		-0.2		2493.7		246
