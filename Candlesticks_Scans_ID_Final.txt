@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.61		107.5		18770225
-HINDUNILVR		-1.62		2470.05		2262952
-HCLTECH		0.5		1070.9		1227103
+TATASTEEL		0.66		107.55		18955036
+HINDUNILVR		-1.62		2470.0		2294348
+ASIANPAINT		-0.38		2899.0		489902
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GREENPANEL		0.08		296.95		245023
+TRENT		0.32		1377.95		368876
+GREENPANEL		-0.03		296.6		245699
+ALKYLAMINE		-0.77		2329.7		9942
+ZFCVINDIA		-1.05		10235.35		1287
