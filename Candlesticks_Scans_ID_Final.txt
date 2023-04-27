@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.66		107.55		16845295
-HINDUNILVR		-1.61		2470.4		1929225
-ASIANPAINT		-0.34		2900.0		341853
-BRITANNIA		0.23		4415.0		113851
+POWERGRID		-1.36		235.05		5383348
+ONGC		-0.5		160.35		4429717
+EICHERMOT		0.34		3259.25		357100
+DIVISLAB		0.25		3228.0		144632
+BRITANNIA		0.21		4414.45		114218
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HAL		-0.36		2830.85		297072
-KALPATPOWR		-1.42		532.15		80283
+
