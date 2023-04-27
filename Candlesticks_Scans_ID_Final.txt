@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-0.67		1687.8		55163
-NESTLEIND		0.49		21129.0		17254
+ITC		0.75		415.35		2123180
+INFY		0.0		1227.6		1197305
+RELIANCE		0.52		2374.5		857692
+GRASIM		-0.61		1688.8		55501
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AIAENG		0.37		2724.95		3972
+APOLLOHOSP		-0.82		4374.35		74321
