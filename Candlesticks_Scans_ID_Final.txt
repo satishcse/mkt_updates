@@ -8,7 +8,4 @@ BPCL		1.22		353.25		1091447
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIGREEN		-1.25		913		298400
-ADANITRANS		-0.89		979		101304
-GRASIM		-0.77		1686		86456
+
