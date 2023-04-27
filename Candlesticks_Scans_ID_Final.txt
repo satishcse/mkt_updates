@@ -2,16 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.09		106.95		4693619
-RELIANCE		0.41		2371.9		943422
-ADANIPORTS		-0.14		663.8		743851
-HCLTECH		-0.11		1064.35		304265
-JSWSTEEL		0.06		723.9		144423
-GRASIM		-0.89		1683.95		67671
+TATASTEEL		0.09		106.95		4812197
+HCLTECH		-0.13		1064.15		305509
+EICHERMOT		0.39		3261.0		106994
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ANGELONE		-0.04		1229.65		44481
-AIAENG		0.37		2725.0		4412
-PFIZER		-0.13		3757.5		428
+
