@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		0.19		2509.85		645481
-ASIANPAINT		-0.28		2901.9		544746
+TATAMOTORS		0.74		481.75		6826718
+HEROMOTOCO		0.19		2509.95		648960
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GOCOLORS		-1.98		1047.7		14365
+GUJALKALI		-6.22		687.85		1242058
+JBMA		-2.53		804.65		365691
+ESCORTS		-1.54		1938.2		255098
+CERA		0.18		6071.35		8070
