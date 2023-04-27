@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.04		1228.0		1206999
-JSWSTEEL		0.03		723.65		130897
-GRASIM		-0.67		1687.75		55779
+RELIANCE		0.54		2374.95		872806
+JSWSTEEL		0.03		723.7		130962
+GRASIM		-0.82		1685.3		59640
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 APOLLOHOSP		-0.8		4375.25		74695
-AIAENG		0.37		2724.9		4062
+AIAENG		0.37		2724.9		4110
