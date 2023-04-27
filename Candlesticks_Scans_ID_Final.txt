@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		1.54		1907.6		4581935
-HINDUNILVR		-1.63		2469.95		2355213
+HINDUNILVR		-1.59		2470.8		2373164
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GREENPANEL		-0.19		296.15		248504
-ZFCVINDIA		-1.02		10238.1		1303
+
