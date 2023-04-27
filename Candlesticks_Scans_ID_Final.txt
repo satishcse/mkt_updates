@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.05		106.9		5157977
-BPCL		1.3		353.55		1080841
+TATASTEEL		0.05		106.9		5177722
+ITC		0.8		415.55		2893020
+BPCL		1.22		353.25		1091447
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		-0.51		3181.8		486364
-ADANIGREEN		-1.25		913.0		297524
-ADANITRANS		-0.87		979.25		100994
-APOLLOHOSP		-0.72		4378.75		100340
-GRASIM		-0.77		1686.0		86139
-TITAN		-0.17		2636.6		82973
+ADANIGREEN		-1.25		913		298400
+ADANITRANS		-0.89		979		101304
+GRASIM		-0.77		1686		86456
