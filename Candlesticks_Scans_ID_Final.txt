@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.51		1070.95		1194902
+HINDUNILVR		-1.62		2470.2		2236234
+HCLTECH		0.5		1070.85		1209083
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TRENT		0.34		1378.15		366455
+BALAMINES		0.14		2100.0		57959
+ZFCVINDIA		-1.04		10236.5		1175
