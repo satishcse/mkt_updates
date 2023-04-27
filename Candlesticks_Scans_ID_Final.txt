@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.53		160.3		3840557
-BAJAJFINSV		2.02		1361.6		2195868
+ITC		0.86		415.8		7882430
+BAJFINANCE		2.38		6200.0		2208389
+BRITANNIA		0.23		4415.0		95012
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHREECEM		-1.51		23601.85		15176
+
