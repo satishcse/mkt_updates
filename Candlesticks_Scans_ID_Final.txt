@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-2.56		518.0		4678953
-POWERGRID		-1.64		234.4		4310853
-M&M		0.62		1221.05		583622
+HDFCLIFE		-2.56		518.0		4684542
+M&M		0.59		1220.65		586734
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAGEIND		-0.53		40794.15		5245
-ALKYLAMINE		0.22		2352.9		3416
+ALKYLAMINE		0.22		2352.9		3445
