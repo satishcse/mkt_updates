@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.01		1671.7		14303270
-TATASTEEL		0.47		107.35		12761909
-ONGC		-0.59		160.2		3823937
+ONGC		-0.56		160.25		3828018
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-0.72		5974.5		5587
+BIRLACORPN		-0.2		915.75		11335
+BLUEDART		-0.72		5974.5		5586
