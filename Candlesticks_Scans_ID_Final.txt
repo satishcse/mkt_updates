@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.55		2375.0		1615392
-BHARTIARTL		0.41		776.6		478184
-M&M		0.31		1217.3		267628
+RELIANCE		0.5		2374.0		1630781
+BHARTIARTL		0.37		776.35		479521
+M&M		0.29		1217.05		270758
 
 Bullish_Hammer_15m_N500								 
 ======================= 
