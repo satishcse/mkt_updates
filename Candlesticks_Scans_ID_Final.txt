@@ -8,5 +8,4 @@ COALINDIA		0.72		231.4		1869764
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FDC		-1.83		287.55		71906
-PFIZER		-0.33		3749.95		2306
+PFIZER		-0.33		3749.95		2423
