@@ -10,6 +10,6 @@ GRASIM		-0.82		1685.25		60141
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		0.22		2416.95		91040
-TTKPRESTIG		0.31		727.15		4352
-AIAENG		0.37		2724.9		4156
+AIAENG		0.37		2724.9		4170
+TEAMLEASE		-0.13		2144.7		3313
+PFIZER		-0.2		3754.95		398
