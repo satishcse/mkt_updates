@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.66		107.55		16673338
-SUNPHARMA		0.35		974.65		2275508
-HINDUNILVR		-1.64		2469.55		1895996
-ASIANPAINT		-0.47		2896.2		322118
+TATASTEEL		0.7		107.6		16702056
+SUNPHARMA		0.33		974.45		2283009
+HINDUNILVR		-1.61		2470.5		1899272
+ASIANPAINT		-0.38		2899.0		325663
 
 Bullish_Hammer_15m_N500								 
 ======================= 
