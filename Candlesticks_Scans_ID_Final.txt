@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.53		160.3		4186655
-WIPRO		0.19		375.25		2807736
-UPL		2.03		729.9		1507110
-MARUTI		0.18		8522.05		417439
+WIPRO		0.13		375.05		2823937
+HINDUNILVR		-1.66		2469.05		1801174
+UPL		2.01		729.75		1509859
+LT		1.01		2299.1		806828
+MARUTI		0.18		8521.9		418525
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZFCVINDIA		-0.7		10271.9		739
+PIDILITIND		-0.69		2395		239338
