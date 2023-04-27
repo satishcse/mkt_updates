@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		2.12		1363.0		1714985
-HEROMOTOCO		0.03		2505.85		109499
+TATASTEEL		0.14		107.0		6220810
+WIPRO		-0.12		374.1		1466495
+JSWSTEEL		0.42		726.5		216381
+APOLLOHOSP		-0.52		4387.45		118974
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ALKYLAMINE		0.43		2358.05		1898
+
