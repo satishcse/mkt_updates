@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.73		1922.5		1865827
+KOTAKBANK		0.75		1922.85		1874574
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		0.13		3443.85		220823
+MFL		0.44		960.05		15471
