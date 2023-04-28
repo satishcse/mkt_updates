@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-0.63		1064.45		1060438
+TATASTEEL		0.09		107.75		11531577
+HCLTECH		-0.65		1064.25		1063872
+APOLLOHOSP		1.53		4484.9		369377
 
 Bullish_Hammer_15m_N500								 
 ======================= 
