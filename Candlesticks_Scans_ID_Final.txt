@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.97		6139.65		272261
-TATAELXSI		0.45		6607.8		75549
-RUSTOMJEE		-3.14		421.0		19175
-GARFIBRES		-0.37		2910.35		426
+TATAELXSI		0.45		6607.65		76644
+GARFIBRES		-0.34		2911.5		427
