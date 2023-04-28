@@ -1,10 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-KOTAKBANK		0.75		1922.85		1874574
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+JBMA		0.37		807.0		230039
+SIEMENS		0.15		3444.5		221638
+COROMANDEL		-0.51		944.65		106399
 MFL		0.37		959.35		15517
+LAXMIMACH		-0.12		10517.4		2400
