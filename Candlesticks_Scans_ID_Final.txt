@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.06		570.75		8548775
-ITC		0.95		419.95		5637622
-COALINDIA		0.11		232.0		2834608
+WIPRO		2.87		385.15		10210102
+SBIN		1.08		570.85		8553654
+ITC		0.93		419.85		5649265
+COALINDIA		0.11		232.0		2836314
 
 Bullish_Hammer_15m_N500								 
 ======================= 
