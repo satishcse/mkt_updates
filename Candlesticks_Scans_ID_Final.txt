@@ -8,5 +8,4 @@ NESTLEIND		1.1		21380.0		44608
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJPROP		-0.83		1309.0		482051
-BALAMINES		-0.1		2096.85		43638
+BALAMINES		-0.06		2097.55		43813
