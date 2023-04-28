@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-0.45		1066.4		1275213
+HCLTECH		-0.44		1066.5		1278419
+NESTLEIND		1.1		21380.0		44344
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALAMINES		-0.04		2098.05		43530
+BALAMINES		-0.05		2097.75		43564
