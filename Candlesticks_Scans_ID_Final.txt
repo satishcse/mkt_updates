@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.31		524.65		2724030
-HINDUNILVR		-1.43		2433.55		2295614
-HEROMOTOCO		1.04		2534.7		250268
-EICHERMOT		0.61		3283.3		210041
+HDFCLIFE		1.31		524.65		2725731
+HINDUNILVR		-1.44		2433.3		2300676
+HEROMOTOCO		1.04		2534.65		250526
+EICHERMOT		0.61		3283.6		210442
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CSBBANK		-5.7		276.5		1745167
+ATUL		-1.03		6936.0		61242
