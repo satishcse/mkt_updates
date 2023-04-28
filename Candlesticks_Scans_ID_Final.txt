@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		-0.22		2766.7		840500
-APOLLOHOSP		1.72		4493.65		205565
+HDFC		-0.28		2765.25		860654
+APOLLOHOSP		1.69		4492.0		205827
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ZFCVINDIA		-1.32		10122.95		1949
