@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.0		107.65		12703467
-INFY		0.49		1252.4		4389204
-HCLTECH		-0.58		1065.0		1149906
+TATASTEEL		0.0		107.65		12864750
+INFY		0.47		1252.1		4422692
+HCLTECH		-0.59		1064.9		1151409
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SCHAEFFLER		-1.35		2764.35		31839
 ZFCVINDIA		-1.56		10098.4		2456
