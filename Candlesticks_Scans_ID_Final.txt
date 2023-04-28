@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		2.8		384.9		10091359
-POWERGRID		-0.36		235.1		3534882
-UPL		1.46		737.8		1482552
-TITAN		-1.25		2630.05		1083594
-TATACONSUM		0.88		760.6		528752
-DIVISLAB		-0.05		3236.8		139509
+POWERGRID		-0.42		234.95		3547891
+UPL		1.47		737.9		1484808
+TITAN		-1.24		2630.45		1086344
+TATACONSUM		0.84		760.3		531736
+DIVISLAB		-0.05		3236.9		139638
 
 Bullish_Hammer_15m_N500								 
 ======================= 
