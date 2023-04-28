@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		2.86		385.1		10178105
-SBIN		1.05		570.7		8506398
-ITC		0.9		419.75		5586971
-COALINDIA		0.06		231.9		2808735
-APOLLOHOSP		1.4		4479.2		442073
+WIPRO		2.87		385.15		10185653
+SBIN		1.04		570.6		8513622
+ITC		0.91		419.8		5592848
+COALINDIA		0.02		231.8		2810864
+APOLLOHOSP		1.4		4479.2		442445
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TANLA		0.15		682		555326
