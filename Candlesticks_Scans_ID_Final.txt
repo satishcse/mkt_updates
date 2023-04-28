@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.89		569.75		6409194
-HCLTECH		-0.62		1064.6		1174129
+SBIN		0.89		569.75		6418968
+HCLTECH		-0.62		1064.65		1176315
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		-0.13		1543.55		3598
+KENNAMET		-0.9		2284.6		3600
