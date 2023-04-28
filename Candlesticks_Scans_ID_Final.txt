@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.36		235.1		3529321
-UPL		1.58		738.7		1463996
-TITAN		-1.2		2631.45		1080358
-DIVISLAB		-0.07		3236.05		139255
+WIPRO		2.79		384.85		10088148
+POWERGRID		-0.36		235.1		3532297
+UPL		1.45		737.75		1477869
+TITAN		-1.26		2630.0		1082346
+DIVISLAB		-0.07		3236.05		139352
 
 Bullish_Hammer_15m_N500								 
 ======================= 
