@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.29		171.45		11158863
-SBIN		0.89		569.75		6020878
-TATAMOTORS		1.09		486.85		5357742
+NTPC		0.32		171.5		11172462
+SBIN		0.89		569.75		6032095
+TATAMOTORS		1.11		486.95		5370974
 
 Bullish_Hammer_15m_N500								 
 ======================= 
