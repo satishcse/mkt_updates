@@ -2,15 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.71		481.6		7085793
+TATAMOTORS		-0.04		481.4		16891
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GUJALKALI		-6.03		689.25		1280530
-LICI		-0.37		545.7		1151408
-AAVAS		-2.37		1400.9		507876
-ASAHIINDIA		-0.42		473.75		143542
-BALAMINES		0.08		2098.9		68845
-INDIGOPNTS		-0.98		1140.15		44523
-VMART		0.23		2178.75		16756
+
