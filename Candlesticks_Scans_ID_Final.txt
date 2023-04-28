@@ -8,4 +8,5 @@ HINDUNILVR		-1.88		2422.6		1081781
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TITAN		-0.68		2645.35		463603
+TITAN		-0.68		2645.35		493821
+CRISIL		-3.6		3440.0		17820
