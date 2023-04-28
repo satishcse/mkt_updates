@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-0.36,235.1,3565113
-UPL,1.49,738.0,1510399
-TITAN,-1.21,2631.2,1096996
+POWERGRID,-0.4,235.0,3595201
+UPL,1.49,738.05,1512357
+TITAN,-1.21,2631.1,1097939
+GRASIM,0.93,1717.15,273735
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-GALAXYSURF,0.68,2503.7,37710
-GRINDWELL,-0.63,1879.45,19401
+AEGISCHEM,0.26,392.5,190504
+GRINDWELL,-0.61,1879.75,19522
