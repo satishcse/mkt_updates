@@ -5,4 +5,8 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KPRMILL		-0.82		602.6		39288
+ICICIGI		0.21		1068.35		34492
+BATAINDIA		-0.11		1474.15		17346
+3MINDIA		-0.1		22590.0		79
