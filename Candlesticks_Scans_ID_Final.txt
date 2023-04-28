@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.4		525.1		2756084
-EICHERMOT		0.71		3286.7		217645
+INFY		0.4		1251.2		6529221
+ITC		1.12		420.65		6160666
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CSBBANK		-5.95		275.75		1839752
-RATNAMANI		-0.44		2149.8		13495
-PGHH		0.02		14010.0		2136
+
