@@ -2,7 +2,7 @@
 Hanging_Man_N100								 
 ================ 
 nsecode		per_chg		close		volume
-SBILIFE		0.27		1140.1		1380448
+SBILIFE		0.27		1140.1		1380458
 
 Bullish_Hammer_Daily_N50								 
 ======================== 
@@ -19,8 +19,8 @@ DRREDDY		0.23		4929.85		247044
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.39		1687.6		13958136
-UPL		1.8		740.3		2374556
+HDFCBANK		0.39		1687.6		13958221
+UPL		1.8		740.3		2374648
 
 Wekly_NCPR_KGS								 
 ============== 
