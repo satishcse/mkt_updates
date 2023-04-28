@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.32,171.5,11172462
-SBIN,0.89,569.75,6032095
-TATAMOTORS,1.11,486.95,5370974
+SBIN,0.89,569.75,6050798
+HDFCBANK,-0.25,1676.75,5286151
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+JSWSTEEL,-0.61,727.6,499290
+ZFCVINDIA,-1.57,10096.7,2448
