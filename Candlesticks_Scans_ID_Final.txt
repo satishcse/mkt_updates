@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.7		234.3		1525342
-COALINDIA		0.52		232.95		1110968
-HINDUNILVR		-1.82		2423.95		935443
+COALINDIA		0.54		233.0		1113045
+HINDUNILVR		-1.85		2423.25		944473
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRISIL		-3.52		3442.85		17189
-LINDEINDIA		0.09		3920.0		5543
+CRISIL		-3.53		3442.5		17290
