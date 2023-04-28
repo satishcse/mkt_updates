@@ -2,14 +2,14 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-TATACONSUM,1.08,762.15,826022
-HEROMOTOCO,1.06,2535.35,399284
+TATACONSUM,1.1,762.3,831146
+HEROMOTOCO,1.03,2534.4,401505
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
 nsecode,per_chg,close,volume
-PNB,2.68,51.75,41585075
-BANKBARODA,0.59,186.85,12228244
+PNB,2.58,51.7,41888126
+BANKBARODA,0.54,186.75,12471960
 
 Intraday_Buy_PSAR,,,, 
 ================= 
@@ -73,7 +73,7 @@ MRF,1.42,88695.0,5228
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-TVSMOTOR,0.22,1135,531432
+TVSMOTOR,0.22,1135,531530
 
 Open_High,,,, 
 ========= 
