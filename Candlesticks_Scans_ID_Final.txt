@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.82		569.4		6325347
-HCLTECH		-0.57		1065.1		1158021
+SBIN		0.84		569.5		6354247
+POWERGRID		-0.25		235.35		2347212
+HCLTECH		-0.57		1065.15		1161666
 
 Bullish_Hammer_15m_N500								 
 ======================= 
