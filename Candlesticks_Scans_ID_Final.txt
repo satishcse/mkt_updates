@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.45		1251.8		7104675
-TECHM		1.66		1019.8		4222647
-HCLTECH		-1.09		1059.6		1776334
-SUNPHARMA		1.31		991.55		1299507
-APOLLOHOSP		1.87		4499.95		533585
+SUNPHARMA		1.24		990.8		1311115
+APOLLOHOSP		1.87		4499.95		534448
 
 Bullish_Hammer_15m_N500								 
 ======================= 
