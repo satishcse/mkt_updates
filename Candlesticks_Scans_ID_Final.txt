@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		2.22		110.35		33883098
-ONGC		3.11		163.9		10475575
-POWERGRID		0.95		239.5		3041281
-SUNPHARMA		-1.16		976.2		1032863
-TITAN		0.23		2648.0		312577
+TATASTEEL		2.22		110.35		33942013
+ONGC		3.11		163.9		10483491
+POWERGRID		0.95		239.5		3049688
+SUNPHARMA		-1.12		976.6		1046790
+TITAN		0.17		2646.45		313068
 
 Bullish_Hammer_15m_N500								 
 ======================= 
