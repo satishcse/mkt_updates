@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.17		577.3		8764994
-HDFCLIFE		2.09		540.8		2343991
-BAJAJFINSV		0.02		1354.9		932852
+SBIN		-0.16		577.4		8781537
+BAJAJFINSV		-0.04		1354.15		934096
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+FLUOROCHEM		-0.66		3359.35		46172
 BAYERCROP		-0.38		4125.35		8876
