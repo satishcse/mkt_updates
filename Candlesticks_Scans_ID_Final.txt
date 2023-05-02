@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-1.03		791.1		5522684
-WIPRO		1.09		389.2		4143428
-HEROMOTOCO		-2.29		2499.9		903328
+NTPC		2.09		175.6		7079888
+BHARTIARTL		-1.1		790.5		5567336
+WIPRO		1.01		388.9		4171332
+HEROMOTOCO		-2.32		2499.25		907741
 
 Bullish_Hammer_15m_N500								 
 ======================= 
