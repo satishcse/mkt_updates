@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-1.28		1913.3		2057096
-COALINDIA		1.07		235.6		1604649
-HINDUNILVR		0.07		2459.05		610695
-TATACONSUM		0.77		769.75		387387
+KOTAKBANK		-1.35		1911.8		2066168
+COALINDIA		1.09		235.65		1609032
+HINDUNILVR		0.0		2457.4		612251
+TATACONSUM		0.65		768.8		388474
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAVELLS		-0.41		1225.1		271188
-GALAXYSURF		-0.57		2471.95		10008
-TEAMLEASE		-0.55		2118.05		8723
+GALAXYSURF		-0.57		2471.95		10030
