@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		2.11		445.3		2961126
-SBILIFE		0.81		1149.35		340646
-ULTRACEMCO		-1.27		7460.0		288337
-APOLLOHOSP		-0.26		4501.95		193715
+HINDALCO		2.11		445.3		2964841
+BPCL		1.17		361.8		1900255
+SBILIFE		0.82		1149.5		341105
+ULTRACEMCO		-1.27		7460.0		289305
+APOLLOHOSP		-0.19		4504.95		194451
 
 Bullish_Hammer_15m_N500								 
 ======================= 
