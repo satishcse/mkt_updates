@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.18		240.05		3953067
-CIPLA		0.57		913.2		1539713
-TATACONSUM		1.95		778.75		1140617
+POWERGRID		1.16		240.0		3987162
+CIPLA		0.62		913.65		1553979
+TATACONSUM		1.94		778.65		1145254
 
 Bullish_Hammer_15m_N500								 
 ======================= 
