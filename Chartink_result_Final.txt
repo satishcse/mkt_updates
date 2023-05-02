@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-LT		0.82		2383.7		1822026
+LT		0.82		2383.7		1826779
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -41,7 +41,10 @@ ZYDUSLIFE		-0.53		517.15		1245949
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ABFRL		0.45		223.65		1388874
+PFC		2.27		173.75		21116772
+DLF		-0.65		423.45		3435522
+ABFRL		0.67		224.15		1413084
+PAGEIND		-0.3		40200.05		30640
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
