@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.9		110.0		16634512
-SBILIFE		0.86		1149.85		223740
+SBILIFE		0.84		1149.7		225408
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INGERRAND		-0.38		2755.05		6927
+ADANIPOWER		2.69		230.9		6665923
