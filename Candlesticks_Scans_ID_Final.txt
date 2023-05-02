@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.18		240.05		4016102
-HDFC		0.54		2790.45		3861932
-ULTRACEMCO		-1.31		7457.0		456748
+POWERGRID		1.16		240.0		4033241
+HDFC		0.63		2793.15		3910701
+ULTRACEMCO		-1.29		7458.6		457399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VBL		-2.3		1411.95		3284501
+
