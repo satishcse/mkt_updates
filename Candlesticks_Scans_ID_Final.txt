@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.8		175.1		5978212
-BAJAJFINSV		-0.14		1352.7		954914
+NTPC		1.83		175.15		5985551
+BAJAJFINSV		-0.1		1353.25		958255
+DRREDDY		0.04		4931.95		149503
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-1.3		7457.65		408495
+BAYERCROP		-0.33		4127.05		9012
