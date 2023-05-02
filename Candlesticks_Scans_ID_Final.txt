@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		-0.05		4166.5		7281
-ZFCVINDIA		0.21		10229.45		284
+BLUESTARCO		1.21		1498.15		88376
+SKFINDIA		-0.02		4167.55		7524
+ZFCVINDIA		0.33		10242.0		293
