@@ -8,7 +8,7 @@ Bullish_Hammer_15m_N500
 ======================= 
 nsecode		per_chg		close		volume
 KRBL		-1.05		392.1		454148
-BDL		-1.38		991.45		415028
+BDL		-1.38		991.45		415033
 CYIENT		-0.86		1169.85		316858
 BRITANNIA		-0.93		4511.05		261449
 ELGIEQUIP		-1.38		458.3		242123
