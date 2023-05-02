@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.81		109.9		25030802
-COALINDIA		1.59		236.8		1988552
-ULTRACEMCO		-1.27		7460.0		297870
+COALINDIA		1.61		236.85		2006783
+BPCL		1.22		361.95		1932800
+ULTRACEMCO		-1.27		7460.0		299139
 
 Bullish_Hammer_15m_N500								 
 ======================= 
