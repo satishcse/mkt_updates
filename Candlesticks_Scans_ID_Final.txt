@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		2.22		110.35		36071930
-TECHM		3.26		1057.1		3609972
-EICHERMOT		1.8		3360.45		516984
-BAJAJ-AUTO		1.05		4478.45		354930
+TATASTEEL		2.27		110.4		36287223
+TECHM		3.26		1057.1		3614262
+SUNPHARMA		-1.02		977.6		1463853
+EICHERMOT		1.79		3360.1		517451
+BAJAJ-AUTO		1.04		4478.15		355792
 
 Bullish_Hammer_15m_N500								 
 ======================= 
