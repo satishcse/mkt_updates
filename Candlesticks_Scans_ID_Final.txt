@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		3.08		163.85		9354718
-BHARTIARTL		-0.59		794.55		4054802
-POWERGRID		0.95		239.5		2459451
-GRASIM		0.38		1726.9		163564
+ONGC		3.05		163.8		9378705
+BHARTIARTL		-0.66		794.05		4074851
+POWERGRID		0.93		239.45		2469391
+GRASIM		0.36		1726.5		164507
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+VBL		-0.05		1444.5		1775780
+CCL		-2.21		588.95		185488
