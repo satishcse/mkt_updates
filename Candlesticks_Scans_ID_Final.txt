@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.12		175.65		6488537
-POWERGRID		1.18		240.05		3927769
-KOTAKBANK		-1.19		1914.9		3305590
-CIPLA		0.47		912.35		1533560
-TATACONSUM		1.94		778.65		1125937
+POWERGRID		1.18		240.05		3934399
+KOTAKBANK		-1.09		1916.9		3324654
+CIPLA		0.53		912.85		1536560
+TATACONSUM		1.96		778.8		1134165
 
 Bullish_Hammer_15m_N500								 
 ======================= 
