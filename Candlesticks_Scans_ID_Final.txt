@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.29		920.35		2089586
+ICICIBANK		0.31		920.5		2103946
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUESTARCO		1.08		1496.25		101565
-IFBIND		-0.15		846.05		3323
+PAGEIND		-2.0		39513.7		10292
+IFBIND		-0.09		846.6		3335
