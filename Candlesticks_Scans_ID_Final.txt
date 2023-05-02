@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		3.1		980.5		1496854
-UBL		-2.34		1444.95		188714
-GODREJPROP		-0.15		1313.3		181296
-GRASIM		0.03		1720.85		72397
+ADANIGREEN		3.05		980.0		1518322
+BDL		-0.76		997.7		192428
+GODREJPROP		-0.16		1313.1		182328
