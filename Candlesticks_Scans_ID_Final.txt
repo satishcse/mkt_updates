@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.91		239.4		1766259
+HDFCBANK		0.47		1695.5		3851632
+KOTAKBANK		-1.45		1909.95		1848541
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		0.01		35597.25		1617
+SHREECEM		-1.43		23985.35		10462
