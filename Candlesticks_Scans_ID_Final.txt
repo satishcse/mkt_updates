@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.97		480.25		10323681
-BHARTIARTL		-1.06		790.85		5588349
-WIPRO		1.05		389.05		4187509
-HEROMOTOCO		-2.36		2498.1		909401
+TATAMOTORS		-0.97		480.25		10374233
+BHARTIARTL		-1.07		790.75		5631708
+WIPRO		1.04		389.0		4203168
+HEROMOTOCO		-2.39		2497.55		911879
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GAEL		0.93		293.85		707901
-TIMKEN		-1.55		2937.0		117720
+NAVINFLUOR		-0.62		4820		191409
