@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		0.93		239.45		1710824
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKCEMENT		-0.72		2971.7		26870
-SHREECEM		-1.31		24015.4		9450
+KSB		-0.43		2240.85		5749
