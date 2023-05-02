@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.16		240.0		4033241
-HDFC		0.63		2793.15		3910701
-ULTRACEMCO		-1.29		7458.6		457399
+SUNPHARMA		-1.49		972.9		2402066
+ULTRACEMCO		-1.28		7459.35		457986
 
 Bullish_Hammer_15m_N500								 
 ======================= 
