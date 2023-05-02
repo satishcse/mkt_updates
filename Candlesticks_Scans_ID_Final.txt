@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BRITANNIA		0.2		4562.75		92579
-WHIRLPOOL		-0.64		1314.6		43081
+BRITANNIA		0.24		4564.6		93145
