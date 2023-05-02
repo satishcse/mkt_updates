@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.93		239.45		3009444
-SUNPHARMA		-1.13		976.5		1020811
+AXISBANK		1.65		874.15		8658115
+POWERGRID		0.95		239.5		3031764
+SUNPHARMA		-1.12		976.55		1026212
+TITAN		0.27		2649.1		312383
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GESHIP		-0.66		673.1		120607
