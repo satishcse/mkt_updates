@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		2.22		110.35		38713036
-SBIN		-0.17		577.3		9275189
-ADANIPORTS		0.25		683.0		4485715
-HINDALCO		2.37		446.45		4116506
-COALINDIA		1.5		236.6		2819729
-DIVISLAB		-0.23		3260.5		225874
+TATASTEEL		2.32		110.45		38850100
+SBIN		-0.14		577.5		9291025
+HEROMOTOCO		-2.46		2495.65		806920
 
 Bullish_Hammer_15m_N500								 
 ======================= 
