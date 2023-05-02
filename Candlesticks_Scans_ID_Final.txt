@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.22		577.0		8468699
-TATAMOTORS		-0.99		480.15		7804459
-M&M		0.73		1235.85		1601750
-TITAN		0.22		2647.65		318000
+SBIN		-0.19		577.2		8488143
+TATAMOTORS		-0.96		480.3		7817342
+TITAN		0.22		2647.7		318456
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GALAXYSURF		-0.65		2470		12798
+
