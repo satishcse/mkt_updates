@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.61		236.85		2006783
-BPCL		1.22		361.95		1932800
-ULTRACEMCO		-1.27		7460.0		299139
+ULTRACEMCO		-1.27		7460		299462
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJFINANCE		-0.46		6251.5		427263
+INGERRAND		-1.34		2728.35		12809
