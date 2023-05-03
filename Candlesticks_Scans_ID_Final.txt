@@ -9,4 +9,5 @@ GRASIM		-0.8		1725.65		85253
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-1.48		4480.95		220997
+LTIM		-1.43		4483.0		221604
+MTARTECH		-0.87		1871.6		134203
