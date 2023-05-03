@@ -9,4 +9,6 @@ M&M		-0.23		1234.4		838174
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ACC		-1.75		1733.25		287961
+JKCEMENT		-0.22		2970.05		27044
