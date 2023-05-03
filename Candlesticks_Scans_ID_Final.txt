@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TCS		-0.83		3192.55		680818
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLAPOLLO		0.28		1203.0		49994
-AMBER		-1.53		1856.7		12145
-BOSCHLTD		-1.96		19410.9		6582
+AMBER		-1.52		1856.85		12179
