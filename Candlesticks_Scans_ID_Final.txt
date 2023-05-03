@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-3.96		1843.8		5352547
-POWERGRID		-0.37		239.2		2937152
+ADANIENT		-3.85		1845.9		5383621
+POWERGRID		-0.27		239.45		2973723
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BLUEDART		-0.34		5960		18923
