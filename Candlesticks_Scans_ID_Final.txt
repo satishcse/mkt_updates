@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.63		109.6		27718500
-ADANIENT		0.12		1922.15		1204148
-GRASIM		-0.83		1725.1		108345
+TATASTEEL		-0.68		109.55		27753635
+ADANIENT		0.11		1922.0		1204760
+GRASIM		-0.83		1725.1		108471
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AXISBANK		-1.52		857.4		7142404
-MUTHOOTFIN		-1.31		1013.9		164974
+
