@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TATACONSUM		0.8		785.85		432040
+TATACONSUM		0.78		785.7		435269
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -39,8 +39,8 @@ LUPIN		-0.19		707.45		86026
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-CIPLA		0.31		920.5		784743
-SYNGENE		1.04		702.0		307248
+CIPLA		0.3		920.45		793255
+SYNGENE		1.11		702.5		319839
 
 Open_High								 
 ========= 
@@ -64,11 +64,11 @@ HINDALCO		-1.3		440.35		2215462
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-INDIGO		5.66		2184.5		2598417
-SUNTV		1.58		441.75		208328
-CANFINHOME		1.2		634.8		272285
-UBL		1.03		1460.7		69879
-IOC		0.55		82.6		6023744
-INDUSINDBK		0.42		1155.7		479282
-MARICO		0.31		501.4		240982
-GRANULES		0.1		301.15		179380
+INDIGO		5.3		2176.95		2648382
+SUNTV		1.44		441.15		211570
+CANFINHOME		1.08		634.05		273273
+UBL		0.91		1458.85		72225
+IOC		0.55		82.6		6044621
+INDUSINDBK		0.35		1154.95		483769
+MARICO		0.27		501.2		245807
+GRANULES		0.13		301.25		181596
