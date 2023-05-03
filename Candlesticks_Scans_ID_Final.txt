@@ -1,7 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NTPC		0.46		176.4		9782283
+HINDALCO		-1.13		441.1		3874948
 
 Bullish_Hammer_15m_N500								 
 ======================= 
