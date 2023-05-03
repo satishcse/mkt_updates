@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.08		1685.9		6539858
-NESTLEIND		0.41		21834.0		23643
+HDFCBANK		-0.07		1686.1		6559742
+TATACONSUM		0.47		783.3		556470
+NESTLEIND		0.43		21840.0		23816
 
 Bullish_Hammer_15m_N500								 
 ======================= 
