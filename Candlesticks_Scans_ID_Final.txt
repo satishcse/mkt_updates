@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		1.28		177.85		2223810
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-0.93		2418.4		800013
-ALKEM		-0.53		3499.9		9037
+HINDALCO		-2.06		436.95		1305397
+GODFRYPHLP		0.5		1706.9		19658
+ALKEM		-0.52		3500.2		9291
+TTKPRESTIG		0.37		724.0		4998
