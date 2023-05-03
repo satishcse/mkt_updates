@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.17		175.9		8454804
-BHARTIARTL		-0.81		783.8		1752325
-JSWSTEEL		-0.83		731.8		633494
+NTPC		0.2		175.95		8462938
+BHARTIARTL		-0.81		783.8		1758939
+HCLTECH		-0.72		1059.9		902232
+JSWSTEEL		-0.83		731.8		634151
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASAHIINDIA		-1.05		495.2		41951
+POWERINDIA		-2.62		3358.55		14490
