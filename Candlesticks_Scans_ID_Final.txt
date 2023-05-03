@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.22		1683.55		7655039
+ONGC		-1.37		162.0		4551871
+MARUTI		0.45		8816.7		264695
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AWL		-1.31		410		1437602
+
