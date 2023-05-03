@@ -8,6 +8,6 @@ GRASIM		-0.83		1725.1		84661
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-1.51		4479.65		219254
-LTTS		-1.83		3735.9		150912
-SUNDARMFIN		0.08		2337.45		10726
+LTIM		-1.57		4476.8		219852
+LTTS		-1.84		3735.5		151018
+SUNDARMFIN		0.12		2338.45		10810
