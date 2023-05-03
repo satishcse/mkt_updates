@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.24		1924.5		1195639
+ADANIENT		0.21		1923.8		1196778
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		-0.95		1870.1		135112
+TCI		-1.32		628.65		23403
