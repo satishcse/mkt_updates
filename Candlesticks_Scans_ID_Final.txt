@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.48		176.45		11002670
-COALINDIA		0.3		236.8		4471224
-WIPRO		-0.79		385.3		2393736
-INDUSINDBK		-0.43		1145.95		1802304
+NTPC		0.26		176.05		11105542
+COALINDIA		0.28		236.75		4498395
+WIPRO		-0.79		385.3		2401524
+INDUSINDBK		-0.55		1144.6		1812684
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		0.34		2168.95		34444
-BOSCHLTD		-2.47		19308.8		22360
-RUSTOMJEE		0.15		435.9		12651
+GODREJIND		0.06		452.8		83229
