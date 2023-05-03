@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.91		964.2		1042870
-WIPRO		-0.24		387.4		882490
-INDUSINDBK		0.27		1154.0		489735
+SUNPHARMA		-0.92		964.1		1044118
+WIPRO		-0.28		387.25		884729
+INDUSINDBK		0.29		1154.2		491425
 
 Bullish_Hammer_15m_N500								 
 ======================= 
