@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.28		440.45		3291871
-TATACONSUM		-0.15		778.45		742751
+ITC		0.59		426.95		5305549
+ONGC		-1.22		162.25		4959264
+TATACONSUM		0.01		779.65		748374
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GODFRYPHLP		-1.32		1675.95		88177
-LAXMIMACH		-1.95		11100.0		6262
+
