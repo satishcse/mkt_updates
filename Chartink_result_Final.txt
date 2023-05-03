@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TATACONSUM		0.46		783.2		458581
+TATACONSUM		0.47		783.3		460534
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,12 +11,12 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-PIDILITIND		1.92		2466.25		232282
-RAMCOCEM		1.07		750.05		49354
-AUBANK		0.8		689.45		539922
-ABFRL		0.42		225.1		820283
-CIPLA		0.29		920.35		801620
-PVR		0.11		1482.3		601408
+PIDILITIND		1.87		2465.0		232919
+RAMCOCEM		1.12		750.4		51198
+AUBANK		0.88		690.0		541255
+ABFRL		0.4		225.05		826013
+CIPLA		0.35		920.9		806665
+PVR		0.18		1483.3		603012
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -26,13 +26,7 @@ NAVINFLUOR		0.13		4806.65		18873
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-LAURUSLABS		1.35		315.8		651289
-LICHSGFIN		0.83		358.1		497278
-CHAMBLFERT		1.02		290.8		480702
-HEROMOTOCO		0.38		2505.4		246224
-COFORGE		0.04		4132.3		190466
-DALBHARAT		0.21		2004.5		107305
+
 
 Open_High								 
 ========= 
@@ -53,11 +47,11 @@ LTTS		-1.23		3758.7		120426
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-INDIGO		5.37		2178.35		2737108
-SUNTV		1.63		442.0		227784
-UBL		0.75		1456.6		73121
-CANFINHOME		0.73		631.9		279634
-IOC		0.55		82.6		6127973
-INDUSINDBK		0.31		1154.5		492895
-MARICO		0.1		500.35		257633
-GRANULES		0.1		301.15		183049
+INDIGO		5.45		2180.15		2741535
+SUNTV		1.63		442.0		230252
+UBL		0.85		1458.0		73212
+CANFINHOME		0.66		631.45		281667
+IOC		0.55		82.6		6157897
+INDUSINDBK		0.32		1154.6		496373
+MARICO		0.12		500.45		259374
+GRANULES		0.05		301.0		185751
