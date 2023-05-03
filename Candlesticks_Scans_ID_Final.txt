@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.44		482.35		1311675
-DRREDDY		0.03		4952.0		19455
+TATAMOTORS		0.41		482.2		1330606
+DRREDDY		-0.04		4948.65		19659
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIPRULI		-0.69		436.5		241212
-HLEGLAS		-0.47		598.25		7911
-TTKPRESTIG		0.42		724.4		6396
+ICICIPRULI		-0.72		436.4		243212
+ALKEM		-0.52		3500.05		10323
+HLEGLAS		-0.47		598.25		7923
+TTKPRESTIG		0.4		724.2		6412
