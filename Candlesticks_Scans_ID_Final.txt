@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.29		537.45		2170303
-GRASIM		-0.32		1733.9		284961
+HINDALCO		-1.12		441.15		3899775
+GRASIM		-0.32		1733.95		286117
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+VMART		-1.42		2117.8		14147
