@@ -7,5 +7,4 @@ ITC		0.59		426.95		6589713
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		-0.1		4131.85		45666
-TTKPRESTIG		-0.19		719.95		34327
+TTKPRESTIG		-0.19		720		34340
