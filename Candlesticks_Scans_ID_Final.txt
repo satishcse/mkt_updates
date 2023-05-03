@@ -1,14 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-AXISBANK		-1.35		858.9		11937227
-RELIANCE		-0.72		2423.5		2030385
-HDFCLIFE		-1.4		536.9		1880124
-M&M		-0.23		1234.4		838174
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ACC		-1.75		1733.25		287961
-JKCEMENT		-0.22		2970.05		27044
+JKCEMENT		-0.21		2970.45		27249
