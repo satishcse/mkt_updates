@@ -1,8 +1,7 @@
 
 Nifty_1Hr_OBV_DIV								 
 ================= 
-nsecode		per_chg		close		volume
-TATACONSUM		0.46		783.2		528000
+
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -21,10 +20,12 @@ PVR		-0.04		1480.05		635468
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-COALINDIA		1.08		238.65		2353291
-NAUKRI		-0.59		3781.75		43712
-BANKNIFTY		-0.39		43184.45		0
-NIFTY		-0.38		18078.95		0
+COALINDIA		1.08		238.65		2379140
+CHAMBLFERT		2.62		295.4		887914
+BERGEPAINT		1.38		623.4		580979
+NAVINFLUOR		-0.04		4798.5		25206
+BANKNIFTY		-0.41		43176.15		0
+NIFTY		-0.39		18077.75		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -33,17 +34,17 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-IPCALAB		0.2		709.8		141118
-ICICIGI		-0.17		1085.25		192728
-EICHERMOT		-0.27		3347.0		328115
-SAIL		-0.3		84.35		5956988
-WIPRO		-0.5		386.4		1051241
-ICICIBANK		-0.69		915.75		7026750
-RELIANCE		-0.7		2423.9		1612990
-TCS		-1.04		3186.05		1020430
-BHARTIARTL		-1.18		780.85		1403589
-LTTS		-1.83		3735.9		150912
-BHARATFORG		-2.01		783.65		419857
+IPCALAB		0.21		709.85		141497
+ICICIGI		-0.09		1086.1		194757
+EICHERMOT		-0.27		3347.05		328569
+SAIL		-0.3		84.35		5972964
+WIPRO		-0.51		386.35		1057064
+RELIANCE		-0.69		2424.25		1618862
+ICICIBANK		-0.71		915.55		7116059
+TCS		-1.01		3186.8		1027625
+BHARTIARTL		-1.16		781.0		1414159
+LTTS		-1.85		3735.25		151126
+BHARATFORG		-1.98		783.9		429057
 
 Open_Low								 
 ======== 
