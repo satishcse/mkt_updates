@@ -9,4 +9,5 @@ BAJAJFINSV		-0.65		1340.3		315592
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-1.24		1389.05		142137
+TRENT		-1.03		1391.95		145155
+PFIZER		0.76		3792.45		2951
