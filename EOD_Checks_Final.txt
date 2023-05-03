@@ -25,7 +25,7 @@ BN_NCPR
 ======= 
 nsecode		per_chg		close		volume
 AUBANK		0.12		684.8		1264610
-AXISBANK		-1.24		859.85		15103015
+AXISBANK		-1.24		859.85		15103153
 
 NCPR_KGS								 
 ======== 
