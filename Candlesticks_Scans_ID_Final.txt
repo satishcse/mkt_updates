@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.31		162.1		4831659
-HINDALCO		-1.28		440.45		3270177
-TATACONSUM		-0.13		778.55		718979
+ONGC		-1.31		162.1		4843958
+HINDALCO		-1.26		440.55		3281150
+TATACONSUM		-0.19		778.1		726339
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INGERRAND		-2.92		2607		19368
