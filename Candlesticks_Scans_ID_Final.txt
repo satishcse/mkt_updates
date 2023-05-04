@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCNSBRANDS		-0.09		501.0		57222
-NESTLEIND		-0.72		21718.2		45838
+TCNSBRANDS		0.06		501.75		57298
