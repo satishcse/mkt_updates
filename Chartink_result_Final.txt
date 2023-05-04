@@ -10,13 +10,13 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-MUTHOOTFIN		2.92		1048.85		1281328
-COROMANDEL		2.71		967.75		341380
-ESCORTS		2.11		2026.25		317656
-HDFCBANK		0.97		1709.65		8006090
-SHREECEM		0.85		24465.0		11027
-ICICIGI		0.4		1092.8		127496
-GODREJPROP		-1.1		1313.95		340941
+MUTHOOTFIN		2.92		1048.85		1287185
+COROMANDEL		2.7		967.65		342269
+ESCORTS		2.12		2026.4		317895
+HDFCBANK		0.99		1709.85		8081054
+SHREECEM		0.88		24471.8		11030
+ICICIGI		0.39		1092.7		128779
+GODREJPROP		-1.16		1313.2		341291
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -32,7 +32,8 @@ NIFTY		0.36		18154.9		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+ICICIBANK		-0.69		916.5		6594217
 
 Open_High								 
 ========= 
