@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.26		1272.5		3478547
-RELIANCE		0.9		2441.95		2777757
-DIVISLAB		0.45		3283.6		138213
+NTPC		-0.34		175.75		2674225
+HDFCLIFE		1.33		545.85		1613051
+EICHERMOT		-0.7		3324.85		231811
+BAJAJ-AUTO		0.22		4457.6		129747
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ENGINERSIN		-3.06		91.95		30550204
+
