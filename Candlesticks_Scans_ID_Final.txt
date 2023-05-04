@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.49		425.05		3079570
-HCLTECH		-0.21		1056.7		703802
-JSWSTEEL		0.32		734.8		678740
+HCLTECH		-0.19		1056.95		706952
+JSWSTEEL		0.36		735.1		680580
 
 Bullish_Hammer_15m_N500								 
 ======================= 
