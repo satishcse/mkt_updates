@@ -1,13 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+UPL		-0.03		739.55		159588
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CUMMINSIND		0.45		1590.0		139410
-DEEPAKNTR		-0.58		1940.8		71639
-ANGELONE		-0.4		1224.5		66392
-ULTRACEMCO		0.01		7508.0		21674
-BLUESTARCO		0.12		1440.0		21078
+
