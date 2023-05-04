@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.32		1273.25		3464513
-RELIANCE		0.86		2440.8		2767814
-DIVISLAB		0.43		3282.7		138097
+INFY		0.32		1273.25		3471516
+RELIANCE		0.9		2442.0		2774018
+DIVISLAB		0.42		3282.6		138125
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LUXIND		0.59		1438.85		43635
+LUXIND		0.61		1439.1		43653
