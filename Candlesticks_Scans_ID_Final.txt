@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ITC		-0.46		425.2		1475400
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJCP		-0.21		937.2		92523
-APLLTD		0.16		552.75		7753
+M&M		-0.36		1230.95		197331
+STARHEALTH		0.6		608.55		20059
+METROBRAND		-0.36		897.2		15783
+APLLTD		0.21		553.0		7853
