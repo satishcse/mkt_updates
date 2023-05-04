@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.52		546.9		1741441
-TCS		1.07		3214.0		1584364
-ASIANPAINT		1.82		2982.9		787022
-HEROMOTOCO		0.47		2514.5		539355
+TATASTEEL		1.23		111.05		32861795
+HDFCLIFE		1.49		546.75		1749849
+TCS		1.08		3214.1		1585385
+ASIANPAINT		1.78		2981.9		788283
+HEROMOTOCO		0.45		2513.9		539816
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-0.29		2899.95		119541
+DIXON		-0.28		2900		119625
