@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.23		175.95		2901528
-INDUSINDBK		-0.79		1137.1		1595960
-TCS		1.1		3214.95		1579946
-DIVISLAB		0.53		3286.15		142685
+HDFCLIFE		1.48		546.65		1738455
+INDUSINDBK		-0.74		1137.7		1610907
+TCS		1.07		3214.0		1581544
+HEROMOTOCO		0.47		2514.5		538584
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LUXIND		0.25		1433.95		46649
+DIXON		-0.31		2899.3		119062
+LUXIND		0.22		1433.55		46661
