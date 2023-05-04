@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-GRASIM		0.71		1748.2		383806
+GRASIM		0.7		1748		383871
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -24,9 +24,15 @@ GODREJPROP		-1.8		1304.6		448605
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-0.23		1848.1		125858
-DIXON		-0.04		2907.0		78130
-NIFTY		0.41		18164.5		0
+TATAMOTORS		-0.56		481.0		2835647
+HINDALCO		0.73		445.55		1656336
+BSOFT		3.3		284.65		1396095
+BAJAJFINSV		0.78		1357.45		717700
+SHRIRAMFIN		0.32		1323.3		264482
+BRITANNIA		0.62		4555.3		113377
+ASTRAL		-0.79		1475.0		97661
+NESTLEIND		-0.55		21756.1		28028
+NIFTY		0.41		18163.25		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -35,15 +41,15 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-PIDILITIND		0.0		2464.0		170542
-MCDOWELL-N		-0.46		782.2		195706
-GUJGASLTD		-0.52		469.7		469300
-HAVELLS		-0.66		1233.15		628067
-DEEPAKNTR		-0.82		1936.25		168846
-GODREJCP		-0.89		930.8		612361
-SRF		-0.91		2545.4		481639
-GODREJPROP		-1.8		1304.6		448605
-MGL		-2.1		980.65		256623
+PIDILITIND		0.04		2465.0		171159
+MCDOWELL-N		-0.43		782.5		196832
+GUJGASLTD		-0.56		469.5		471047
+HAVELLS		-0.7		1232.6		628276
+DEEPAKNTR		-0.79		1936.85		169010
+SRF		-0.91		2545.35		481803
+GODREJCP		-0.92		930.6		613826
+GODREJPROP		-1.77		1305.0		450055
+MGL		-2.04		981.2		257681
 
 Open_Low								 
 ======== 
