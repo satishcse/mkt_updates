@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		-0.34		160.6		2212139
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		0.34		3015.9		298895
-BHARATFORG		0.27		786.95		130747
+SUNDARMFIN		-0.39		2333.45		3161
