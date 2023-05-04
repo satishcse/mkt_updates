@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.37		863.05		7935599
-INFY		0.35		1273.55		3692457
-TCS		1.2		3217.95		1625881
-APOLLOHOSP		0.53		4539.45		302344
+NTPC		0.0		176.35		3311144
+APOLLOHOSP		0.49		4537.8		302733
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TCNSBRANDS		-0.38		499.55		56457
