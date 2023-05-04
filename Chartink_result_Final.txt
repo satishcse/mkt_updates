@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-GRASIM		0.59		1746.15		416009
+GRASIM		0.58		1745.9		416171
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -25,11 +25,15 @@ GODREJPROP		-1.67		1306.35		467779
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-IDEA		2.9		7.1		42235354
-UPL		-0.51		736.0		718792
-SHRIRAMFIN		0.18		1321.4		286038
-RAMCOCEM		0.75		753.5		81949
-ALKEM		-0.35		3505.0		43950
+PNB		0.76		52.95		18030838
+BALRAMCHIN		-0.13		417.8		901800
+UPL		-0.48		736.25		725439
+SHRIRAMFIN		0.17		1321.25		286337
+BAJAJ-AUTO		0.23		4458.0		115277
+RAMCOCEM		0.74		753.45		82062
+TORNTPHARM		0.06		1656.1		51290
+ALKEM		-0.39		3503.3		44149
+NESTLEIND		-0.69		21725.05		30079
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
