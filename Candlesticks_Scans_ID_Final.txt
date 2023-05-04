@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&MFIN		2.14		277.3		928032
-SHRIRAMFIN		0.37		1323.95		46166
-CUMMINSIND		0.5		1590.75		16177
-KIMS		0.27		1499.25		317
+COLPAL		-0.54		1576.0		11087
+KIMS		0.22		1498.5		342
