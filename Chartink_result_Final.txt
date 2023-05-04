@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-GRASIM		0.73		1748.55		418953
+GRASIM		0.73		1748.6		419049
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -25,19 +25,20 @@ GODREJPROP		-1.55		1308.0		475633
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-PETRONET		-4.92		225.05		4899018
-GRANULES		2.0		305.7		2188306
-DELTACORP		0.8		213.45		823470
-RAIN		0.4		162.95		789029
-PVR		-0.32		1480.0		233269
-MRF		1.55		95010.0		20575
-BANKNIFTY		0.27		43428.1		0
-NIFTY		0.45		18171.35		0
+GRANULES		2.1		306.0		2195279
+KOTAKBANK		-0.04		1930.15		1906095
+DELTACORP		0.8		213.45		825765
+RAIN		0.37		162.9		791786
+AUROPHARMA		-0.71		612.2		753077
+AUBANK		0.42		687.7		456678
+MRF		1.54		95000.05		20645
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-PVR		-0.32		1480		233269
+CIPLA		0.9		928.95		2086913
+AARTIIND		0.12		552.35		583980
+PVR		-0.32		1480.0		238184
 
 Open_High								 
 ========= 
