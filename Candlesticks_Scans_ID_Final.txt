@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-0.4		516.65		546526
-TCNSBRANDS		-2.4		489.4		91657
-MAHLIFE		-1.18		372.7		73148
-MANYAVAR		-0.9		1232.0		36584
+DIXON		-0.32		2899.0		152224
+RADICO		-0.66		1093.85		138617
+AFFLE		0.09		925.0		104863
+TCNSBRANDS		-2.32		489.8		91892
+MANYAVAR		-0.66		1235.0		39450
