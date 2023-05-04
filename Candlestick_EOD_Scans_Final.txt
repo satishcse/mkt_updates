@@ -7,8 +7,8 @@ SRF		-0.54		2555		599839
 Bullish_Hammer_Daily_N50								 
 ======================== 
 nsecode		per_chg		close		volume
-ONGC		-0.09		161.0		9627000
-HINDALCO		0.76		445.65		2987060
+ONGC		-0.06		161.05		9707932
+HINDALCO		0.8		445.85		3037542
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
