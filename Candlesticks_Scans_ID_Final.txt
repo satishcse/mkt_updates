@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.13		237.0		3186581
-BPCL		1.87		367.55		1769863
-CIPLA		0.97		929.6		1293571
-HINDALCO		0.76		445.65		1219023
-MARUTI		-0.08		8790.25		117650
+BPCL		1.88		367.6		1777029
+CIPLA		0.92		929.15		1298955
+HINDALCO		0.76		445.65		1225594
+MARUTI		-0.01		8796.35		118015
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TCIEXP		-0.11		1467		1229
+
