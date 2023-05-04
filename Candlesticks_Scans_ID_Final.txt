@@ -6,8 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CUMMINSIND		0.45		1590.0		137325
-GODREJCP		-0.04		938.8		63572
-SHARDACROP		0.52		473.6		10870
-SUNDRMFAST		0.63		1050.0		3188
-FINEORG		-0.1		4479.65		2636
+CUMMINSIND		0.42		1589.6		137936
+BLUESTARCO		0.1		1439.65		20993
