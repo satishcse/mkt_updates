@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.19		111.0		28321430
-BPCL		2.11		368.4		2691592
-WIPRO		-0.04		384.95		1927140
+TATASTEEL		1.19		111.0		28401267
+BPCL		2.09		368.35		2698328
+WIPRO		-0.03		385.0		1934256
+BAJAJ-AUTO		0.22		4457.55		118912
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.41		3334.75		150075
+EICHERMOT		-0.41		3334.7		150305
