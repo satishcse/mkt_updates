@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.09		1932.6		1752249
-RELIANCE		0.72		2437.45		1420230
-TECHM		0.13		1041.0		1109812
-LT		-0.13		2353.15		501782
+KOTAKBANK		0.04		1931.75		1763194
+RELIANCE		0.7		2437.0		1425092
+LT		-0.1		2353.9		503607
 
 Bullish_Hammer_15m_N500								 
 ======================= 
