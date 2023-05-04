@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-GRASIM		0.58		1746.05		399036
+GRASIM		0.69		1747.85		409612
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -25,28 +25,31 @@ GODREJPROP		-1.6		1307.3		461393
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		1.86		2133.8		180299
-DEEPAKNTR		-0.92		1934.3		178208
-BANKNIFTY		0.26		43423.4		0
-NIFTY		0.46		18172.45		0
+INDIAMART		3.9		5958.55		318281
+BALKRISIND		1.9		2134.8		180380
+DEEPAKNTR		-0.88		1935.05		178955
+JKCEMENT		1.61		3038.0		65050
+BOSCHLTD		-0.61		19200.0		15911
+NIFTY		0.45		18171.75		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-BALKRISIND		1.9		2134.8		180380
+COALINDIA		-0.11		236.65		4959352
+BALKRISIND		1.85		2133.65		180554
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-PIDILITIND		0.09		2466.1		179405
-MCDOWELL-N		-0.55		781.55		202143
-GUJGASLTD		-0.57		469.45		497108
-HAVELLS		-0.62		1233.65		635249
-SRF		-0.8		2548.1		495799
-GODREJCP		-0.9		930.75		678360
-DEEPAKNTR		-0.92		1934.3		178208
-GODREJPROP		-1.6		1307.25		460777
-MGL		-2.05		981.1		266384
+PIDILITIND		0.04		2465.05		180455
+MCDOWELL-N		-0.54		781.6		203842
+GUJGASLTD		-0.57		469.45		497652
+HAVELLS		-0.66		1233.1		635562
+SRF		-0.84		2547.25		496161
+DEEPAKNTR		-0.95		1933.75		179879
+GODREJCP		-0.98		930.0		681613
+GODREJPROP		-1.6		1307.3		461565
+MGL		-2.1		980.6		268346
 
 Open_Low								 
 ======== 
