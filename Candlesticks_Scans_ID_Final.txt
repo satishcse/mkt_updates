@@ -1,12 +1,19 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-COALINDIA		-0.02		236.85		11281
-NTPC		0.06		176.45		9184
-INDUSINDBK		0.0		1146.15		3237
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.22		3341		586
+HINDALCO		0.21		443.25		166541
+KOTAKBANK		-0.2		1927.15		88039
+COCHINSHIP		0.6		555.05		57902
+POLYPLEX		1.54		1396.85		11381
+PIIND		0.15		3430.85		7395
+ULTRACEMCO		0.2		7522.35		5267
+CUMMINSIND		0.32		1587.95		5165
+DIVISLAB		-0.14		3264.15		3142
+PATANJALI		0.23		940.9		1432
+SUNDRMFAST		0.33		1046.9		432
+JBCHEPHARM		0.32		2103.0		139
