@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.2		482.75		1995511
+ICICIBANK		-0.8		915.5		6111097
+TATAMOTORS		-0.19		482.8		2004093
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-0.84		3263.95		41242
+UBL		-0.44		1428.4		82084
