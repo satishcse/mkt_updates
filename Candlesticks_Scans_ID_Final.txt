@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.03		385.0		1690777
-RELIANCE		0.66		2436.05		1379358
-BAJAJFINSV		0.78		1357.45		717700
+WIPRO		-0.03		385.0		1693413
+RELIANCE		0.67		2436.3		1381383
+BAJAJFINSV		0.73		1356.8		754322
+LT		-0.14		2353.05		493563
 
 Bullish_Hammer_15m_N500								 
 ======================= 
