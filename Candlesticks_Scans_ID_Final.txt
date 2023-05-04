@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&M		-0.36		1230.95		197331
-STARHEALTH		0.6		608.55		20059
-METROBRAND		-0.36		897.2		15783
-APLLTD		0.21		553.0		7853
+BAJAJ-AUTO		-0.14		4441.7		34824
