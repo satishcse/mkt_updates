@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.61		445.0		2504555
-HEROMOTOCO		0.37		2511.8		546673
+AXISBANK		0.41		863.4		7835857
+HINDALCO		0.61		445.0		2515456
+BAJAJ-AUTO		0.18		4455.7		139193
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-0.28		2900		122313
+ALKEM		-0.78		3489.65		67656
