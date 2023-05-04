@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.23		111.05		30140334
-BPCL		2.06		368.25		3018239
-SUNPHARMA		0.86		971.85		667618
-GRASIM		0.87		1751.0		438908
+TATASTEEL		1.19		111.0		30246148
+BPCL		2.08		368.3		3029489
+SUNPHARMA		0.87		972.0		670922
 
 Bullish_Hammer_15m_N500								 
 ======================= 
