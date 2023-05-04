@@ -8,7 +8,4 @@ ONGC		-0.62		160.15		3092842
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINFRA		1.92		1009.25		52017
-POLYCAB		-0.85		3263.7		43289
-RAINBOW		-0.46		794.55		14495
-TCIEXP		-0.11		1467.0		1229
+TCIEXP		-0.11		1467		1229
