@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCLIFE		0.95		543.8		427683
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LICI		0.29		552.95		1818477
+LICI		0.24		552.65		1904855
+SUNDARMFIN		-0.41		2333.0		3009
