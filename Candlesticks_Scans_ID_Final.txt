@@ -6,8 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-0.35		2898.0		152277
-RADICO		-1.07		1089.4		138657
-AFFLE		-0.15		922.8		105275
-TCNSBRANDS		-2.03		491.25		96047
+DIXON		-0.35		2898.0		152266
+RADICO		-1.07		1089.4		138656
+AFFLE		-0.15		922.8		105226
+TCNSBRANDS		-2.03		491.25		94173
 MANYAVAR		-0.66		1235.0		39450
