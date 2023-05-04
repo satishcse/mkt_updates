@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.57		424.7		4243995
-WIPRO		-0.03		385.0		1718344
-BAJAJFINSV		0.53		1354.1		896213
-LT		-0.12		2353.45		500071
+KOTAKBANK		0.06		1932.2		1745463
+RELIANCE		0.71		2437.3		1417292
+TECHM		0.15		1041.2		1107679
+LT		-0.13		2353.15		501044
 
 Bullish_Hammer_15m_N500								 
 ======================= 
