@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		0.39		2512.45		545668
+HINDALCO		0.61		445.0		2504555
+HEROMOTOCO		0.37		2511.8		546673
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIXON		-0.28		2900		122313
