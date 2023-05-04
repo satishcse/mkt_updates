@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.78		111.65		17320262
-SBIN		1.11		576.85		4228159
+SBIN		1.08		576.65		4241548
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-0.37		2994.5		364929
+NUVOCO		0.05		330.15		458365
+HAL		-0.4		2993.6		365688
