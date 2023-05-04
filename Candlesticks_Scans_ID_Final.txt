@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.34		175.75		2674225
-HDFCLIFE		1.33		545.85		1613051
-EICHERMOT		-0.7		3324.85		231811
-BAJAJ-AUTO		0.22		4457.6		129747
+ONGC		-0.19		160.85		7363350
+NTPC		-0.31		175.8		2680129
+HDFCLIFE		1.29		545.65		1630701
 
 Bullish_Hammer_15m_N500								 
 ======================= 
