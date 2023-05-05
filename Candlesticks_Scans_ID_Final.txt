@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-0.75		1831.15		51361
-KFINTECH		-1.95		327.65		48781
+KFINTECH		-1.5		329.15		49089
