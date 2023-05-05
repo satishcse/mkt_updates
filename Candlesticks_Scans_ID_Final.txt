@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.28		174.1		4829560
-RELIANCE		-0.15		2444.45		3708572
-HCLTECH		-1.01		1056.0		1459798
+RELIANCE		-0.16		2444.0		3719800
+HCLTECH		-1.0		1056.15		1466828
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOBHA		-0.58		465.9		235321
-KFINTECH		-4.74		318.3		205344
-PERSISTENT		-0.63		4639.8		194716
-RHIM		-1.36		669.8		141903
+INDUSINDBK		-5.05		1077.3		7681146
+KFINTECH		-4.77		318.2		203758
+PERSISTENT		-0.65		4639.0		195807
+NAVINFLUOR		-0.65		4784.95		41822
