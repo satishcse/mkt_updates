@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.05		174.5		2736124
-HINDALCO		-1.71		437.9		1964380
-BAJAJFINSV		-0.13		1372.7		1881613
-BRITANNIA		0.47		4608.8		247214
-GRASIM		-0.36		1753.5		242159
+UPL		-1.57		720.0		2088190
+HINDALCO		-1.69		437.95		1966680
+BAJAJFINSV		0.04		1375.0		1887019
+BRITANNIA		0.48		4608.9		247512
+GRASIM		-0.36		1753.55		242482
 
 Bullish_Hammer_15m_N500								 
 ======================= 
