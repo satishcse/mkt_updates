@@ -1,19 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+UPL		-0.51		727.8		676473
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VBL		0.21		1445.6		859486
-KPITTECH		-2.78		884.0		750132
-TATACHEM		-1.31		969.4		674258
-PVR		-0.69		1472.95		264384
-ZYDUSLIFE		-0.5		517.45		224782
-SHRIRAMFIN		-0.12		1326.15		178534
-CARBORUNIV		0.07		1124.2		96606
-SONATSOFTW		-0.46		864.65		90282
-INTELLECT		-0.46		450.55		89077
-NAVINFLUOR		-0.19		4806.95		24220
-AMBER		-0.59		1859.95		14827
+
