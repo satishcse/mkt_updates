@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.22		160.65		1138913
-POWERGRID		0.33		239.65		936376
-HEROMOTOCO		0.74		2533.0		661128
-ASIANPAINT		0.47		2996.8		397866
+ONGC		-0.25		160.6		1144257
+BAJAJFINSV		1.06		1389.0		957883
+POWERGRID		0.25		239.45		940984
+HEROMOTOCO		0.77		2533.95		661531
+ASIANPAINT		0.41		2994.95		398881
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAMCOCEM		0.51		758.2		56681
+RAMCOCEM		0.48		758.0		56744
+BAJAJHLDNG		-0.09		6847.15		9516
