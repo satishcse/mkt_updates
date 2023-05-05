@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.23		539.8		1724028
-TATACONSUM		0.13		776.5		470460
-BRITANNIA		0.64		4616.55		270519
+ICICIBANK		1.28		933.5		14089098
+HCLTECH		-0.89		1057.35		1215439
+TATACONSUM		0.1		776.25		472739
+BRITANNIA		0.66		4617.4		270838
 
 Bullish_Hammer_15m_N500								 
 ======================= 
