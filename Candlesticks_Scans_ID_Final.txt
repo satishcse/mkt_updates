@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-0.82		1058.05		945709
-EICHERMOT		0.92		3370.05		390355
+HCLTECH		-0.83		1057.9		951628
+EICHERMOT		0.86		3368.0		391640
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FACT		-7.52		324		1314939
+
