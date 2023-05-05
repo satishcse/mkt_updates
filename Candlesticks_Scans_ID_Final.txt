@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSLIFE		-0.59		517.0		221835
-SONATSOFTW		-0.52		864.15		89255
-MANYAVAR		-0.59		1222.15		5727
+ZYDUSLIFE		-0.59		517.0		222294
+SONATSOFTW		-0.42		865.0		89438
+MTARTECH		-0.65		1874.45		37268
+SHOPERSTOP		-1.59		673.6		17740
+AMBER		-0.59		1859.9		14626
+AIAENG		-0.98		2774.0		12352
