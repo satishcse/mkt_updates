@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-MARUTI		1.13		8899.95		416218
+MARUTI		1.21		8907.5		417879
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,10 +11,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-METROPOLIS		2.52		1285.0		294447
-ADANIPORTS		1.16		687.65		3337410
-DIVISLAB		0.53		3300.0		138896
-GLENMARK		0.48		549.6		220445
+METROPOLIS		2.52		1285.0		294882
+ADANIPORTS		1.28		688.45		3352105
+DIVISLAB		0.51		3299.3		139405
+GLENMARK		0.47		549.5		221034
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -33,25 +33,22 @@ NIFTY		-0.8		18109.8		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-ITC		0.49		426.7		6441572
-VOLTAS		-0.16		800.65		667890
-INDIGO		0.04		2164.5		150829
+
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-COFORGE		-0.51		4084.0		73331
-LALPATHLAB		-0.68		1949.3		40300
-ACC		-0.78		1752.6		222199
-IPCALAB		-1.03		705.0		125442
-UPL		-1.29		722.1		1470541
-INFY		-1.41		1255.55		2751779
-PVR		-1.43		1461.95		318732
-INDIAMART		-1.49		5949.95		104846
-TATASTEEL		-2.16		108.65		20402724
-HINDCOPPER		-2.23		105.2		2079658
-NATIONALUM		-3.38		80.1		7129356
+COFORGE		-0.49		4084.95		73382
+LALPATHLAB		-0.62		1950.45		40315
+ACC		-0.71		1753.7		222238
+IPCALAB		-1.1		704.5		125793
+UPL		-1.38		721.4		1474479
+INFY		-1.41		1255.55		2759341
+PVR		-1.47		1461.35		319753
+INDIAMART		-1.57		5945.45		105360
+TATASTEEL		-2.12		108.7		20438766
+HINDCOPPER		-2.23		105.2		2081713
+NATIONALUM		-3.44		80.05		7139173
 
 Open_Low								 
 ======== 
