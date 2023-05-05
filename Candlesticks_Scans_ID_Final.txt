@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.29		239.55		985467
-MARUTI		1.19		8904.95		190592
+POWERGRID		0.27		239.5		991067
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCIEXP		-0.51		1470.7		1778
+AMBER		-0.27		1866.0		12298
+TCIEXP		-0.48		1471.25		1809
