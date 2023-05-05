@@ -1,12 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-AXISBANK		0.24		868.0		12593606
-RELIANCE		-0.21		2442.8		3572095
-TCS		0.24		3228.5		1484401
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAJAJFINSV		-0.85		1362.75		2252716
+
