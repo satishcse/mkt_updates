@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.47		160.25		2603968
-NTPC		-1.3		174.05		2316232
-COALINDIA		-0.19		237.0		1730391
-ASIANPAINT		0.52		2998.5		804803
+NTPC		-1.3		174.05		2316984
+COALINDIA		-0.13		237.15		1731837
+ASIANPAINT		0.51		2998.15		806090
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAELXSI		-0.79		6668.5		49314
+TATAELXSI		-0.76		6670		49674
