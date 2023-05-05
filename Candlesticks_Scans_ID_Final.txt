@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.46		2459.3		1112359
+BPCL		-0.14		367.85		386603
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PNBHOUSING		-0.95		489.0		210337
-VIPIND		-0.77		620.65		40135
-BALAMINES		-0.08		2281.7		9079
-AJANTPHARM		0.15		1285.0		3378
-RATNAMANI		-0.51		2168.9		2018
+
