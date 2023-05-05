@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.15		2502.95		1005632
-SUNPHARMA		-0.14		972.65		766299
-APOLLOHOSP		1.03		4600.0		192675
+HINDUNILVR		-0.15		2503.0		1008056
+BHARTIARTL		-0.59		784.45		990735
+APOLLOHOSP		1.01		4599.2		192900
+DIVISLAB		0.81		3309.0		172975
 
 Bullish_Hammer_15m_N500								 
 ======================= 
