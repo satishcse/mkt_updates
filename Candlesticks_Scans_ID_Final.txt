@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		-0.97		488.9		190202
+PIIND		-0.19		3419.95		13371
+BLUEDART		0.24		5871.5		4018
