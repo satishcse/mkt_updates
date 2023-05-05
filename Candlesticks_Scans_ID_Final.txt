@@ -9,7 +9,4 @@ ASIANPAINT		1.03		3013.55		1033457
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHRIRAMFIN		-0.28		1324.0		267347
-ALKYLAMINE		-0.79		2525.8		27775
-BAJAJHLDNG		-0.37		6828.25		15245
+
