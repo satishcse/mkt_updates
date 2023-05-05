@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.2		367.6		391400
+TATAMOTORS		0.26		482.05		858086
+BPCL		-0.23		367.5		396854
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOLARINDS		-1.3		3797.6		9326
+SOLARINDS		-1.3		3797.6		9350
