@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-MARUTI		0.85		8875.1		93360
+MARUTI		0.84		8874.8		96461
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,22 +11,16 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-METROPOLIS		2.31		1282.45		189022
-DIVISLAB		0.31		3292.85		41208
-GLENMARK		0.28		548.5		90156
+METROPOLIS		2.55		1285.45		192372
+GLENMARK		0.24		548.25		92851
+DIVISLAB		0.23		3290.0		42007
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-SAIL		-2.04		83.95		3882445
-POWERGRID		0.27		239.5		823484
-CUB		0.11		142.45		477759
-MUTHOOTFIN		1.17		1059.55		327670
-BHARATFORG		0.24		776.9		280037
-BRITANNIA		0.55		4612.05		75369
-HDFCAMC		0.71		1833.6		71421
-POLYCAB		0.7		3291.8		28155
-BANKNIFTY		-0.28		43560.95		0
+RBLBANK		0.0		155.35		1256928
+ICICIGI		0.17		1091.6		86571
+TATACOMM		-0.15		1233.0		36699
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -51,9 +45,9 @@ NATIONALUM		-2.77		80.6		4108486
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-IEX		3.63		161.5		6766858
-TVSMOTOR		2.65		1200.05		2740499
-AXISBANK		2.14		884.45		4079033
-LT		1.4		2389.9		832758
-SBIN		1.25		587.25		4218239
-ICICIGI		0.33		1093.45		64146
+IEX		3.63		161.5		6798745
+TVSMOTOR		2.82		1202.0		2744562
+AXISBANK		2.18		884.85		4156971
+LT		1.41		2390.2		840860
+SBIN		1.29		587.5		4308511
+ICICIGI		0.17		1091.6		86571
