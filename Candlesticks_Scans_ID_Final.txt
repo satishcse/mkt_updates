@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.59		240.25		1991281
-HCLTECH		-1.03		1055.85		1247559
-TATACONSUM		0.06		776.0		496984
-BRITANNIA		0.62		4615.6		275040
+COALINDIA		-0.04		237.35		2310051
+LT		1.43		2390.7		1857424
+SBILIFE		0.75		1176.25		988276
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ALKYLAMINE		-0.82		2525.05		28390
+BAYERCROP		-0.6		4134.95		3248
