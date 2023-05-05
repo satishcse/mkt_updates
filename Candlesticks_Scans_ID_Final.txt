@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.0		480.8		3623734
-HCLTECH		-0.99		1056.25		1232150
-TATACONSUM		0.08		776.15		486618
-BRITANNIA		0.67		4617.6		272808
+HCLTECH		-0.98		1056.3		1236574
+TATACONSUM		0.08		776.15		494281
+BRITANNIA		0.67		4617.9		273550
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKYLAMINE		-0.78		2526.1		28349
+ALKYLAMINE		-0.79		2526		28372
