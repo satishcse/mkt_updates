@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.3		868.55		12207253
-TCS		0.1		3224.0		1467361
+AXISBANK		0.41		869.5		12337325
+TCS		0.2		3227.25		1471406
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRESTIGE		-1.59		485.2		428979
+LINDEINDIA		0.08		4011.65		11550
