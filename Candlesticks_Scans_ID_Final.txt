@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BPCL		-0.16		367.75		371743
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCI		-0.41		637.5		3334
-AJANTPHARM		0.09		1284.25		3172
+VIPIND		-0.77		620.65		39777
+TCI		-0.34		638.0		3365
+AJANTPHARM		0.11		1284.5		3327
