@@ -2,10 +2,18 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.28		174.1		4747511
-RELIANCE		-0.19		2443.45		3688290
-TECHM		-0.85		1036.55		1172335
+NTPC		-1.28		174.1		4797876
+RELIANCE		-0.16		2444.0		3699516
+HCLTECH		-1.03		1055.85		1448869
+TECHM		-0.83		1036.8		1175814
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SBIN		-0.43		577.5		16928873
+INDUSINDBK		-5.32		1074.2		7561777
+GUJGASLTD		-1.57		465.8		460260
+PERSISTENT		-0.66		4638.2		193372
+RHIM		-1.46		669.15		141222
+MEDPLUS		-2.11		724.95		21759
+RUSTOMJEE		-0.43		448.4		11629
