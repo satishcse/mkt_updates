@@ -2,9 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.37		160.4		2857178
-NTPC		-1.22		174.2		2511021
-NESTLEIND		1.23		21960.0		28873
+NESTLEIND		1.23		21960		28930
 
 Bullish_Hammer_15m_N500								 
 ======================= 
