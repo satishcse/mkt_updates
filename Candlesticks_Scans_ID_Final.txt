@@ -2,16 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.12		379.4		3949935
+WIPRO		-1.12		379.4		3950578
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFC		-5.58		2702.3		8823870
+HDFC		-5.58		2702.3		8823876
 M&M		-1.66		1211.2		4753604
-BSE		-1.02		510.1		617736
+BSE		-1.02		510.1		617739
 COLPAL		-1.07		1567.45		418406
-SOBHA		-0.64		465.6		260261
+SOBHA		-0.64		465.6		260271
 DEEPAKNTR		-1.09		1914.7		191544
 NAZARA		-0.61		558.75		147154
 ROSSARI		-1.63		679.75		91304
