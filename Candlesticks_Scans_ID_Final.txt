@@ -1,14 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		-5.03		1077.5		8355652
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-0.65		512.0		597501
-TANLA		-0.73		673.45		225142
-RHIM		-1.27		670.4		158744
-SCHAEFFLER		-1.08		2820.0		89302
-ROSSARI		-1.6		679.95		89028
-JBCHEPHARM		-2.14		2030.0		25551
+M&M		-1.52		1213.0		4578659
+PVR		-2.51		1446.0		493721
+ROSSARI		-1.61		679.9		89203
+GODFRYPHLP		-1.48		1681.95		39297
+JBCHEPHARM		-2.14		2030.0		25891
+AIAENG		-1.77		2752.0		23914
+KSB		-0.11		2215.0		10054
