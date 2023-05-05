@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-0.01		1374.35		1892295
-BRITANNIA		0.59		4614.2		248385
-GRASIM		-0.39		1753.05		243074
+BAJAJFINSV		0.0		1374.4		1897174
+BRITANNIA		0.55		4612.05		249332
+GRASIM		-0.42		1752.5		243470
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJHLDNG		-0.27		6835.25		13766
+3MINDIA		-0.72		23360.75		2379
