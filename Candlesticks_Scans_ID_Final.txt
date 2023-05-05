@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UPL		-0.47		728.05		307900
+UPL		-0.37		728.8		311915
+ALKEM		-0.21		3472.85		6119
