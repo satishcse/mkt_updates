@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.17		480.0		3091403
-BPCL		-0.64		366.0		1159367
-BRITANNIA		0.5		4609.85		226448
+TATASTEEL		-1.85		109.0		23064583
+TATAMOTORS		-0.17		480.0		3103068
+BPCL		-0.61		366.1		1160664
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		-1.99		10958		7050
+LAXMIMACH		-1.99		10958		7052
