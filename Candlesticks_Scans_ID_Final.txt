@@ -1,7 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFC		-5.17		2714.05		5337845
+COALINDIA		-0.17		237.05		1719902
+TCS		-0.05		3219.0		871123
+NIFTY		-0.68		18132.05		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
