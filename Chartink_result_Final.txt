@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-MARUTI		1.47		8929.8		861117
+MARUTI		1.26		8911.4		868329
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,11 +11,11 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-METROPOLIS		2.48		1284.55		421992
-HEROMOTOCO		1.11		2542.5		1502499
-GLENMARK		0.79		551.25		477702
-ADANIPORTS		0.63		684.05		5041277
-DIVISLAB		0.28		3291.75		212478
+METROPOLIS		2.59		1285.95		422963
+HEROMOTOCO		1.14		2543.2		1504259
+GLENMARK		0.79		551.25		481538
+ADANIPORTS		0.51		683.25		5050374
+DIVISLAB		0.22		3289.7		213104
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -40,10 +40,7 @@ NIFTY		-1.08		18059.3		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.7		733.55		907549
-ZYDUSLIFE		-0.67		516.55		420449
-SUNTV		-1.78		429.85		339577
-IPCALAB		-1.1		704.5		313487
+CUMMINSIND		-0.64		1596.7		426474
 
 Open_High								 
 ========= 
