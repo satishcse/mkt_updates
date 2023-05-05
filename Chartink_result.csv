@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-MARUTI,1.74,8954,761794
+MARUTI,1.75,8955.05,762361
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
@@ -11,16 +11,21 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-METROPOLIS,2.6,1286.0,387399
-HEROMOTOCO,1.46,2551.3,1427976
-ADANIPORTS,0.76,684.95,4771293
-GLENMARK,0.63,550.4,329321
-DIVISLAB,0.6,3302.3,192075
+METROPOLIS,2.7,1287.3,389573
+HEROMOTOCO,1.57,2554.0,1430748
+ADANIPORTS,0.82,685.3,4777003
+DIVISLAB,0.62,3303.0,192237
+GLENMARK,0.62,550.35,331878
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-ALKEM,-0.15,3475,38743
+PETRONET,-0.15,226.45,4377346
+ABFRL,-2.13,220.15,1489185
+GNFC,0.79,598.4,1148893
+ICICIPRULI,-0.29,436.2,685666
+SHRIRAMFIN,-0.44,1321.9,301334
+MCX,-0.84,1381.15,144428
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
