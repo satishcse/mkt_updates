@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.21		382.9		902666
-POWERGRID		0.19		239.3		848355
-TITAN		1.82		2719.0		557398
+WIPRO		-0.23		382.8		911804
+POWERGRID		0.19		239.3		855830
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDALSTEL		-0.87		589.9		577800
-CLEAN		-0.66		1471.0		9226
+CLEAN		-0.66		1471.0		9279
+VINATIORGA		-0.34		1927.45		2873
