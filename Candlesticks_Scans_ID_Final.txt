@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.98		108.85		21641260
-ONGC		-0.5		160.2		2749429
-RELIANCE		-0.15		2444.3		2669615
-SUNPHARMA		-0.43		969.85		629782
+TATASTEEL		-1.94		108.9		21705955
+ONGC		-0.5		160.2		2753676
+RELIANCE		-0.2		2443.2		2679722
+SUNPHARMA		-0.39		970.2		631590
 
 Bullish_Hammer_15m_N500								 
 ======================= 
