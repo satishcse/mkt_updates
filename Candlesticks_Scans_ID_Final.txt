@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.83		1036.75		1191462
+TECHM		-0.81		1036.95		1196936
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 PNBHOUSING		-3.7		475.45		604335
-ALKYLAMINE		-2.02		2494.6		35046
+ALKYLAMINE		-2.02		2494.6		35040
