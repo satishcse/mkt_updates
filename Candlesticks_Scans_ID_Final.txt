@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		0.5		161.8		451265
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCI		-0.23		638.7		1961
+JKLAKSHMI		-0.45		763.75		15721
+JKCEMENT		0.3		3032.75		9767
+BAYERCROP		0.24		4169.95		149
