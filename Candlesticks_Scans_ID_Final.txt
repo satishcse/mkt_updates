@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.04		973.6		527704
+TATASTEEL		-1.89		108.95		18050862
+BAJAJ-AUTO		0.51		4480.35		105101
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-1.81		643.5		555424
 TCIEXP		-1.02		1463.2		2656
