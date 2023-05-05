@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-MARUTI,1.87,8965.1,642925
+MARUTI,1.82,8960.75,643688
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
@@ -40,9 +40,10 @@ SHREECEM,-0.02,24451.3,15328
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-INDUSINDBK,-1.48,1117.85,3623250
-BHARTIARTL,-0.63,784.1,907875
-RAMCOCEM,0.34,756.95,157879
+INDUSINDBK,-1.37,1119.0,3630720
+BHARTIARTL,-0.65,784.0,913224
+OBEROIRLTY,0.65,934.15,301139
+RAMCOCEM,0.3,756.6,161181
 
 Open_High,,,, 
 ========= 
