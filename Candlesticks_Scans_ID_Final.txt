@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.84		932.55		3705707
-HDFCLIFE		1.73		549.05		1584987
-BPCL		0.53		367.4		1039465
+CIPLA		0.84		932.55		3711720
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHYAMMETL		-0.32		298.4		84887
-HONAUT		0.49		36508.5		1819
+SHYAMMETL		-0.3		298.45		82830
