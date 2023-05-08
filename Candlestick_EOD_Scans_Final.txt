@@ -1,19 +1,19 @@
 
 Hanging_Man_N100								 
 ================ 
-nsecode		per_chg		close		volume
-INDUSTOWER		-0.89		150.7		3600773
+
 
 Bullish_Hammer_Daily_N50								 
 ======================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.79		233.15		9223931
+COALINDIA		-1.81		233.1		9249536
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
 nsecode		per_chg		close		volume
-PERSISTENT		0.74		4674.2		184953
-COFORGE		0.06		4119.9		172401
+COALINDIA		-1.81		233.1		9249536
+PERSISTENT		0.76		4674.8		186449
+COFORGE		0.11		4122.1		173448
 
 Wekly_NCPR_KGS								 
 ============== 
@@ -131,10 +131,10 @@ BATAINDIA		1.62		1502.0		102508
 ALKEM		1.12		3504.75		101365
 TORNTPHARM		0.75		1662.2		94284
 NESTLEIND		-0.09		22000.0		73684
-WHIRLPOOL		1.55		1346.15		68726
-NAVINFLUOR		0.09		4788.3		60926
+WHIRLPOOL		1.55		1346.15		68768
+NAVINFLUOR		0.09		4788.3		61068
 ATUL		0.47		6753.0		32551
-BOSCHLTD		0.15		19354.3		18083
+BOSCHLTD		0.15		19354.3		18117
 SHREECEM		0.25		24577.9		15445
 PAGEIND		0.26		41223.0		13579
 ABBOTINDIA		-0.84		22460.0		10254
