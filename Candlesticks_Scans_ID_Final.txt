@@ -2,16 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		2.28		163.95		3736150
-AXISBANK		1.63		879.4		3025013
-HDFC		1.45		2741.5		2688416
-NTPC		1.43		176.75		2440762
-WIPRO		0.2		380.15		1966081
-BAJFINANCE		4.13		6653.95		1144437
-HCLTECH		0.94		1065.5		445297
-TCS		0.37		3242.75		331409
+BPCL		0.64		367.8		593542
+DIVISLAB		0.0		3290.8		80585
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PIDILITIND		-1.42		2437		318030
+
