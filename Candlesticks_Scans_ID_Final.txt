@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.11		2375.0		924817
-HDFCLIFE		1.33		546.9		843376
-HEROMOTOCO		1.13		2576.15		460258
-EICHERMOT		0.91		3385.7		151369
+LT		-0.15		2373.9		927319
+SBILIFE		-0.07		1172.85		482526
+HEROMOTOCO		1.09		2575.0		461955
+EICHERMOT		0.94		3386.6		151638
 
 Bullish_Hammer_15m_N500								 
 ======================= 
