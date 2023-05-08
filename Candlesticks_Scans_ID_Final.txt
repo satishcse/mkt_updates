@@ -8,4 +8,5 @@ ULTRACEMCO		1.18		7719.2		221334
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CARBORUNIV		0.61		1106.95		118324
+APLAPOLLO		-0.4		1184.95		176897
+CARBORUNIV		0.65		1107.35		119509
