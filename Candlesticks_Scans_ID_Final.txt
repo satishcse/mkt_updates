@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		2.1		443.35		1562107
-SUNPHARMA		-0.38		966.75		799167
+HINDALCO		2.11		443.4		1564627
+SUNPHARMA		-0.39		966.65		801395
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BASF		0.37		2437.25		4935
+BASF		0.36		2437		4913
