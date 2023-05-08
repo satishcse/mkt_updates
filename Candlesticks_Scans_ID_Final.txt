@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.28		380.45		4549691
-BHARTIARTL		0.84		793.95		2156005
-BPCL		0.64		367.8		1102081
+TATAMOTORS		5.14		501.6		22026506
+SBIN		1.38		584.45		12420615
+BPCL		0.68		367.95		1108354
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KRBL		0.33		382.65		247563
+KRBL		0.34		382.7		249292
+BLUESTARCO		-0.84		1425.4		147479
+AETHER		-2.39		967.95		75025
