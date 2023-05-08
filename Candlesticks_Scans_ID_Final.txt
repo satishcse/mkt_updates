@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		4.3		497.6		18414736
-INDUSINDBK		4.81		1124.9		6016148
-HINDALCO		2.16		443.65		3372370
+TATAMOTORS		4.28		497.5		18484685
+INDUSINDBK		4.79		1124.7		6027373
+HINDALCO		2.23		443.95		3376415
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POLYPLEX		-1.12		1399.5		68764
+
