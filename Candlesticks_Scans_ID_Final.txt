@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIENT		-0.96		1901.85		1874850
+RELIANCE		1.19		2470.9		1855547
+NESTLEIND		-0.11		21996.05		33985
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFIZER		-0.42		3769.7		2918
+PFIZER		-0.42		3769.7		2898
