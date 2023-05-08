@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.13		2374.3		930777
-SBILIFE		-0.07		1172.9		483953
-EICHERMOT		0.98		3388.0		153481
+LT		-0.11		2375.0		934005
+EICHERMOT		1.03		3389.75		154397
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LATENTVIEW		-1.03		365.7		199010
+POLYCAB		-1.08		3279.0		197817
