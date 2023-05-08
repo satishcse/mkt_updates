@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.93		1902.5		2062500
-TATACONSUM		1.23		785.8		561945
-GRASIM		0.99		1769.85		285247
+RELIANCE		1.32		2474.0		2388901
+ADANIENT		-1.01		1901.0		2070385
+TATACONSUM		1.24		785.85		563382
+GRASIM		0.99		1769.85		285376
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BASF		-0.27		2421.8		15507
