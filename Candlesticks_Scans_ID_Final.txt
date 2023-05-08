@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.75		931.75		3736376
+CIPLA		0.84		932.6		3744434
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		0.59		36546.25		1868
+KAJARIACER		0.15		1154.05		225492
+HONAUT		0.59		36546.3		1849
