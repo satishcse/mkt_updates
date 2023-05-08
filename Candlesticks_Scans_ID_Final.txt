@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		1.36		939.6		18311978
+M&M		1.84		1233.5		3448840
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KRBL		0.54		383.45		250961
+KRBL		0.54		383.45		251656
 BLUESTARCO		-0.77		1426.45		149048
