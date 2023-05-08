@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ICICIBANK,1.02,936.45,950707
-LT,0.27,2384.0,73654
-GRASIM,0.69,1764.6,31353
+SBIN,0.71,580.6,1386339
+ICICIBANK,0.89,935.2,1065819
+LT,0.03,2378.25,86093
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-AETHER,-1.58,976,33690
+AETHER,-1.46,977.2,34571
+MCX,0.36,1385.0,17906
+GMMPFAUDLR,-0.54,1484.9,4929
