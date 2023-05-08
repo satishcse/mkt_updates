@@ -7,5 +7,4 @@ NTPC		1.15		176.25		981116
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ACC		0.2		1768.15		121705
-MCX		0.2		1382.7		38095
+ACC		0.33		1770.45		122066
