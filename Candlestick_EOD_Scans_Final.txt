@@ -2,17 +2,17 @@
 Hanging_Man_N100								 
 ================ 
 nsecode		per_chg		close		volume
-INDUSTOWER		-1.15		150.3		3704401
+INDUSTOWER		-1.15		150.3		3704461
 
 Bullish_Hammer_Daily_N50								 
 ======================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.85		233		9344071
+COALINDIA		-1.83		233.05		9710034
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.83		233.05		9709814
+COALINDIA		-1.83		233.05		9710034
 COFORGE		0.0		4117.45		179804
 
 Wekly_NCPR_KGS								 
@@ -143,5 +143,5 @@ BOSCHLTD		0.15		19353.65		18575
 SHREECEM		0.23		24572.45		16401
 PAGEIND		0.69		41400.0		16024
 ABBOTINDIA		-1.01		22422.1		10519
-NIFTY		1.12		18271.8		0
-BANKNIFTY		1.55		43320.65		0
+NIFTY		1.08		18264.4		0
+BANKNIFTY		1.46		43284.0		0
