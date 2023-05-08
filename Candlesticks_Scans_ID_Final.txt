@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-2.17		232.25		7488530
-TECHM		1.01		1046.9		1012656
-JSWSTEEL		-0.11		732.55		796617
+TECHM		0.97		1046.5		1019256
+JSWSTEEL		-0.12		732.45		797366
 
 Bullish_Hammer_15m_N500								 
 ======================= 
