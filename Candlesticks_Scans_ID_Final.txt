@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		1.36		2739.05		2941448
-BRITANNIA		0.03		4627.6		401945
-DIVISLAB		-0.02		3290.0		83485
+TATASTEEL		0.92		109.65		12045418
+COALINDIA		-2.32		231.9		5873657
+HCLTECH		1.22		1068.4		514921
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TIINDIA		-0.85		2617.45		34007
-JINDWORLD		-1.37		344.65		12271
+
