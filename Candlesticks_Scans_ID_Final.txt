@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		1.29		2580		319179
+TATASTEEL		0.64		109.35		8368360
+ONGC		1.9		163.35		2302833
+POWERGRID		1.72		245.2		2126907
+ADANIPORTS		0.22		685.4		1688154
+KOTAKBANK		1.93		1965.95		1026230
+HEROMOTOCO		1.29		2580.0		320028
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LT		-0.36		2369		414440
+
