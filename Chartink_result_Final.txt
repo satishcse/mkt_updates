@@ -10,17 +10,23 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-ICICIPRULI		1.29		441.3		116396
-GMRINFRA		0.99		46.05		1706289
+ICICIPRULI		1.45		442		135679
+GMRINFRA		0.88		46		1826441
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		4.98		1126.7		1592999
-INDHOTEL		1.98		365.8		1536701
-PFC		1.27		171.0		848333
-AUBANK		2.0		687.55		202846
-RAMCOCEM		1.37		771.7		46616
+COALINDIA		-2.95		230.4		2438148
+INDUSINDBK		4.75		1124.3		1679532
+INDHOTEL		1.99		365.85		1592310
+ABCAPITAL		2.43		174.8		1220598
+PFC		1.27		171.0		865606
+DLF		1.59		434.0		599082
+AUBANK		2.02		687.75		208667
+ICICIPRULI		1.45		442.0		135679
+MFSL		2.55		651.6		119425
+RAMCOCEM		1.46		772.4		47502
+MCX		0.17		1382.35		16352
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
