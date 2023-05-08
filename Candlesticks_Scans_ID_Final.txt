@@ -6,5 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BASF		0.44		2438.95		4954
-PGHH		-0.19		13922.9		640
+BASF		0.29		2435.45		5373
+PGHH		-0.19		13922.9		660
