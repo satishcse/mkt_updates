@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.88		1903.45		2033943
-SUNPHARMA		-0.31		967.45		1152622
-TATACONSUM		1.23		785.8		541195
-GRASIM		1.0		1770.0		282120
+ADANIENT		-0.86		1903.7		2036566
+SUNPHARMA		-0.3		967.5		1157143
+TATACONSUM		1.23		785.8		542842
+GRASIM		1.0		1770.0		282308
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AMBER		-1.09		1844.95		15139
