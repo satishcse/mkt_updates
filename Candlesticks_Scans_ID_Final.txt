@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.79		432.15		3894111
-WIPRO		0.13		379.9		1552440
-HEROMOTOCO		1.25		2579.05		348232
-APOLLOHOSP		0.66		4632.65		83592
+ITC		0.75		431.95		3908513
+WIPRO		0.11		379.8		1557129
+HEROMOTOCO		1.27		2579.6		348501
+APOLLOHOSP		0.71		4635.0		84242
+EICHERMOT		0.8		3381.95		76278
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATUL		-0.2		6708		7528
-BAJAJHLDNG		0.05		6818		6928
+BAJAJHLDNG		0.06		6818.75		6931
