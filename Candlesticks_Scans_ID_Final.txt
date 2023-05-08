@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.74		109.45		16696563
-SBILIFE		0.26		1176.7		829359
-BAJAJ-AUTO		1.9		4548.0		257307
-ULTRACEMCO		1.18		7718.65		220995
+SBILIFE		0.33		1177.55		830644
+ULTRACEMCO		1.18		7719.2		221334
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CARBORUNIV		0.61		1106.95		118324
