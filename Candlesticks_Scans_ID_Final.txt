@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		4.4		498.1		18227594
-HDFCBANK		1.45		1649.25		16399316
-HINDALCO		2.21		443.85		3327347
-DRREDDY		-0.92		4897.1		181947
+TATAMOTORS		4.37		497.95		18258229
+INDUSINDBK		4.89		1125.75		5927829
+HINDALCO		2.2		443.8		3335593
+DRREDDY		-0.88		4898.9		182648
 
 Bullish_Hammer_15m_N500								 
 ======================= 
