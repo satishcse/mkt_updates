@@ -7,4 +7,5 @@ SUNPHARMA		-0.6		964.65		1821200
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BASF		-0.32		2420.5		31235
