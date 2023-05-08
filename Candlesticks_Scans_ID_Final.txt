@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		1.26		2579.45		345178
+WIPRO		0.16		380.0		1525431
+APOLLOHOSP		0.63		4631.7		83166
+DIVISLAB		0.17		3296.25		66445
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BRITANNIA		-0.24		4615.0		345068
-DATAPATTNS		-1.24		1690.2		42380
-INGERRAND		-2.51		2573.95		17852
+
