@@ -5,4 +5,8 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BRITANNIA		0.6		4653.6		226299
+TIINDIA		-0.62		2623.45		16665
+PATANJALI		-0.1		928.0		7788
+SAPPHIRE		1.25		1316.25		6871
