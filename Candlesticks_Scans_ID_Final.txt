@@ -6,10 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		3.97		670.5		5135827
-CDSL		-0.03		990.2		275224
-KRBL		0.62		383.75		260324
-KEC		-1.34		510.55		259564
-MTARTECH		0.94		1876.6		103252
-AETHER		-2.19		970.0		76513
-PFIZER		-0.34		3772.95		5364
+KRBL		0.49		383.25		261900
+AETHER		-2.19		970.0		76586
+HGS		0.12		1047.8		11625
+PFIZER		-0.34		3772.95		5165
