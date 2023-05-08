@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.04		787		350917
+BHARTIARTL		-0.14		786.2		357909
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		0.24		3738.7		17847
+MAZDOCK		-0.04		779.65		163029
+BASF		0.19		2433.0		1491
