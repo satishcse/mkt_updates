@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		2.68		164.6		5387348
-ADANIENT		-0.78		1905.35		2021494
-SUNPHARMA		-0.21		968.4		1136237
-BPCL		0.66		367.85		729825
-HCLTECH		1.51		1071.5		615544
-TATACONSUM		1.24		785.9		533288
+ONGC		2.68		164.6		5400509
+ADANIENT		-0.91		1902.75		2026610
+SUNPHARMA		-0.25		968.05		1141454
+TATACONSUM		1.23		785.8		536612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
