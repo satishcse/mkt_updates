@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		2.44		444.85		1823113
-BRITANNIA		0.03		4627.2		395577
-DIVISLAB		0.01		3291.2		82060
+HDFC		1.49		2742.45		2844956
+HINDALCO		2.44		444.85		1829596
+BRITANNIA		0.02		4627.0		398024
+DIVISLAB		-0.02		3290.0		82165
 
 Bullish_Hammer_15m_N500								 
 ======================= 
