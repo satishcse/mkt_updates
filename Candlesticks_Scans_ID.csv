@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFC,1.41,2740.5,2929794
-BRITANNIA,-0.03,4624.5,400963
-DIVISLAB,0.02,3291.6,83394
+HDFC,1.36,2739.05,2941448
+BRITANNIA,0.03,4627.6,401945
+DIVISLAB,-0.02,3290.0,83485
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TIINDIA,-0.85,2617.45,34007
+JINDWORLD,-1.37,344.65,12271
