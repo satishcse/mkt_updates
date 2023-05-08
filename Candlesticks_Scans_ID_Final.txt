@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.78		109.5		16324181
-SUNPHARMA		-0.6		964.65		1821200
+TATASTEEL		0.78		109.5		16351160
+SUNPHARMA		-0.54		965.2		1826818
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BASF		-0.32		2420.5		31235
+
