@@ -10,11 +10,11 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-TATAMOTORS,4.65,499.3,10434885
-BALRAMCHIN,2.02,423.65,854151
-ICICIPRULI,1.62,442.75,528461
-GMRINFRA,1.32,46.2,4642029
-HDFCLIFE,1.12,545.75,766593
+TATAMOTORS,4.67,499.4,10606724
+BALRAMCHIN,2.0,423.55,858717
+ICICIPRULI,1.62,442.75,529402
+GMRINFRA,1.32,46.2,4643939
+HDFCLIFE,1.16,545.95,774625
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -25,7 +25,8 @@ NIFTY,1.08,18263.75,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
-
+nsecode,per_chg,close,volume
+BRITANNIA,0.1,4630.4,429429
 
 Open_High,,,, 
 ========= 
