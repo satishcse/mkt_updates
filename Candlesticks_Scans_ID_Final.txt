@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.8		245.4		3803282
-ADANIENT		-0.95		1902.15		2061358
-TATACONSUM		1.23		785.8		560599
-GRASIM		0.96		1769.25		285234
+ADANIENT		-0.93		1902.5		2062500
+TATACONSUM		1.23		785.8		561945
+GRASIM		0.99		1769.85		285247
 
 Bullish_Hammer_15m_N500								 
 ======================= 
