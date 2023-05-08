@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		1.14		937.5		905490
+ICICIBANK		1.02		936.45		950707
+LT		0.27		2384.0		73654
+GRASIM		0.69		1764.6		31353
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		-0.67		878.6		258404
-AETHER		-1.46		977.2		32719
+KPITTECH		-0.7		878.35		264904
+AETHER		-1.48		977.05		33126
