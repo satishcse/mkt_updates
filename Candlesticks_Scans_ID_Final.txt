@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.67		553.25		1040079
-TATACONSUM		0.16		790.15		349529
-BRITANNIA		0.25		4610.05		161565
+COALINDIA		1.8		237.05		4041847
+NTPC		0.25		177.5		1207870
+HDFCLIFE		0.67		553.25		1046151
+TATACONSUM		0.16		790.2		351555
+BRITANNIA		0.25		4610.0		162372
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-0.03		36430.6		756
+HONAUT		-0.03		36430.6		758
