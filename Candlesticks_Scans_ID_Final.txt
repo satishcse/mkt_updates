@@ -8,4 +8,5 @@ BRITANNIA		0.25		4610.05		161565
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HONAUT		-0.03		36430.6		756
