@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		1.34		3060.0		434340
-TATACONSUM		0.19		790.4		348761
+HDFCLIFE		0.67		553.25		1040079
+TATACONSUM		0.16		790.15		349529
+BRITANNIA		0.25		4610.05		161565
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ABBOTINDIA		0		22472.2		8310
+
