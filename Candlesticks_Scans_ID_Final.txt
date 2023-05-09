@@ -9,4 +9,5 @@ TATACONSUM		0.2		790.5		328384
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIAMART		-0.7		5943.85		49409
+INDIAMART		-0.7		5943.85		49442
+JBCHEPHARM		0.62		2098.0		29467
