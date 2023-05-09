@@ -6,4 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINCABLES		-1.9		897.85		63512
+DIVISLAB		-0.18		3280.3		31451
+NAVINFLUOR		-0.18		4780.0		5975
+AIAENG		-0.91		2714.5		3741
+ENDURANCE		-0.42		1370.5		1553
+KENNAMET		0.99		2312.35		253
