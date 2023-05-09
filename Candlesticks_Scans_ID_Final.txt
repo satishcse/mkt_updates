@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.21		164.65		5387800
-HCLTECH		0.3		1079.0		2131425
-RELIANCE		0.24		2477.75		1948661
-TATACONSUM		-0.23		787.05		495380
+ONGC		-0.21		164.65		5407801
+HCLTECH		0.31		1079.05		2134675
+RELIANCE		0.17		2476.0		1951500
+TATACONSUM		-0.31		786.45		498867
+EICHERMOT		-0.37		3380.25		214726
 
 Bullish_Hammer_15m_N500								 
 ======================= 
