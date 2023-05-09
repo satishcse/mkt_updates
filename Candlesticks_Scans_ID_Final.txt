@@ -2,16 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.0		109.55		27993873
+TATASTEEL		0.0		109.55		27999183
 TATACONSUM		0.01		789.0		651905
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 HDFCBANK		0.0		1644.5		21844477
-ICICIBANK		-0.37		934.4		21507412
+ICICIBANK		-0.37		934.4		21507712
 KANSAINER		-1.43		396.9		4256719
-BAJAJFINSV		0.28		1408.7		3772839
+BAJAJFINSV		0.28		1408.7		3772840
 BAJFINANCE		-1.59		6552.25		2130770
 HDFCLIFE		0.45		552.05		1927446
 SOBHA		-0.1		479.25		584715
