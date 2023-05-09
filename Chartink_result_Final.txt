@@ -10,19 +10,22 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-MGL		7.08		1070.35		6318901
-IGL		3.11		503.6		5001547
-SRF		2.73		2615.7		967094
-COALINDIA		1.42		236.15		6270450
-AXISBANK		1.15		888.55		8222428
-M&M		1.08		1245.1		1409803
-GODREJCP		0.54		948.6		917014
-PEL		0.0		747.85		1275955
-AUROPHARMA		-0.53		615.65		644927
+MGL		7.14		1070.95		6335622
+IGL		3.15		503.8		5018401
+SRF		2.7		2615.0		969248
+COALINDIA		1.37		236.05		6280534
+AXISBANK		1.13		888.4		8268041
+M&M		1.07		1244.95		1416065
+GODREJCP		0.64		949.5		919861
+PEL		-0.19		746.45		1280794
+AUROPHARMA		-0.59		615.3		649913
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ABFRL		-0.22		205.5		7254185
+COROMANDEL		-1.58		963.4		287187
+COLPAL		0.18		1575.9		156635
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -31,12 +34,12 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.24		2510.2		1185109
-EICHERMOT		-0.41		3379.05		251033
-POLYCAB		-0.8		3236.75		245350
-GLENMARK		-0.91		563.8		548846
-HAVELLS		-1.26		1242.0		527900
-UPL		-2.99		694.0		6924429
+HINDUNILVR		-0.25		2509.9		1188667
+EICHERMOT		-0.41		3379.05		251263
+POLYCAB		-0.79		3237.1		245472
+GLENMARK		-1.01		563.2		549696
+HAVELLS		-1.26		1242.0		528629
+UPL		-2.99		694.0		6931675
 
 Open_Low								 
 ======== 
