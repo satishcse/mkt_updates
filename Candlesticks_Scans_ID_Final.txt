@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.79		727		799747
+ITC		-1.1		426.7		4754375
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BEML		-0.99		1386.15		133478
+NUVOCO		-0.26		339.15		63617
+CERA		-1.64		6608.9		16107
