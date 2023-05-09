@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.7		236.8		4186872
-KOTAKBANK		0.3		1964.8		1545677
-CIPLA		0.5		937.95		1096512
-BAJAJ-AUTO		-0.1		4544.85		125747
+COALINDIA		1.61		236.6		4208773
+KOTAKBANK		0.31		1964.9		1549706
+CIPLA		0.38		936.8		1140323
+BAJAJ-AUTO		-0.1		4544.65		125936
 
 Bullish_Hammer_15m_N500								 
 ======================= 
