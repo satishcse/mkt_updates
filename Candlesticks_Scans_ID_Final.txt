@@ -2,11 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		2.19		237.95		3575148
-POWERGRID		0.61		246.25		1528757
-NTPC		0.37		177.7		977247
-BHARTIARTL		0.16		795.0		715355
-DIVISLAB		0.84		3313.75		98050
+NTPC		0.4		177.75		981275
 
 Bullish_Hammer_15m_N500								 
 ======================= 
