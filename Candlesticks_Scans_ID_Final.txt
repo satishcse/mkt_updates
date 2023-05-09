@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0		244.75		2411450
+POWERGRID		-0.02		244.7		2420253
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-0.62		547.75		177806
-PVR		0.23		1452.65		155675
-ZFCVINDIA		-1.67		10334.7		2837
+PVR		0.23		1452.65		155724
+ZFCVINDIA		-1.62		10340.0		2849
