@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.08		505.9		14077492
-COALINDIA		1.33		235.95		4601140
-CIPLA		0.77		940.5		1397599
-HDFCLIFE		0.95		554.75		1180992
+COALINDIA		1.31		235.9		4616613
+CIPLA		0.71		939.95		1405164
+HDFCLIFE		0.95		554.75		1182957
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CERA		-1.49		6619.35		12890
+
