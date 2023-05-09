@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.0		244.75		2365034
-TATACONSUM		0.19		790.4		382269
+POWERGRID		-0.02		244.7		2374412
+TATACONSUM		0.15		790.1		383786
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ZFCVINDIA		-1.42		10360.15		2733
