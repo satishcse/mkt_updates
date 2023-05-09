@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-2.06		700.65		3633261
-HDFC		0.58		2751.35		782697
-MARUTI		0.38		9110.95		93875
+UPL		-2.15		700.0		3785049
+ADANIENT		2.03		1925.8		994711
+MARUTI		0.39		9111.7		94438
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DMART		0.81		3707.6		136477
