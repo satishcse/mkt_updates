@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.0		110.65		14835742
-COALINDIA		1.93		237.35		3695122
-POWERGRID		0.61		246.25		1562519
-GRASIM		-0.02		1778.0		545917
-HEROMOTOCO		0.92		2600.0		249485
+COALINDIA		1.87		237.2		3766963
+HEROMOTOCO		0.92		2600.0		288421
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBCHEPHARM		0.71		2100		29654
+JBCHEPHARM		0.71		2100		29542
