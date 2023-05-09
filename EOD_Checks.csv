@@ -14,12 +14,12 @@ IBREALEST,-20.0,55.4,39340386
 BN_NR7,,,, 
 ====== 
 nsecode,per_chg,close,volume
-HDFCBANK,0,1644.5,21844828
+HDFCBANK,0,1644.5,21844487
 
 BN_NCPR,,,, 
 ======= 
 nsecode,per_chg,close,volume
-INDUSINDBK,1.27,1140.6,4181498
+INDUSINDBK,1.27,1140.6,4181531
 
 NCPR_KGS,,,, 
 ======== 
@@ -74,7 +74,7 @@ EQUITASBNK,0.2,76.3,8072738
 Bullish_Harami_N100,,,, 
 =================== 
 nsecode,per_chg,close,volume
-SRF,1.62,2587.4,1416946
+SRF,1.62,2587.4,1416918
 ICICIGI,1.45,1098.55,428096
 M&M,1.11,1245.45,1847168
-IOC,0.9,84.0,7292174
+IOC,0.9,84.0,7286474
