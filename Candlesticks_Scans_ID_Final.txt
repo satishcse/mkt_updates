@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.89		953.25		5535476
-COALINDIA		0.99		235.15		5085139
+JSWSTEEL		-0.79		727		799747
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVR		-0.09		1447.95		170270
+BEML		-0.99		1386.15		133478
