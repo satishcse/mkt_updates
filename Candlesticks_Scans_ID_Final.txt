@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.1		426.7		4754375
+ITC		-1.19		426.3		4777291
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NUVOCO		-0.26		339.15		63617
-CERA		-1.64		6608.9		16107
+TORNTPHARM		-0.7		1655.7		174922
+BEML		-0.98		1386.2		133821
