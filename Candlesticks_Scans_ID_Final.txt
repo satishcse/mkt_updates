@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.33		1649.95		16807564
-TECHM		0.47		1048.25		1338713
-BAJAJ-AUTO		-0.5		4526.3		242357
+HDFCBANK		0.29		1649.2		16823437
+TECHM		0.47		1048.25		1341111
+BAJAJ-AUTO		-0.5		4526.3		242701
 
 Bullish_Hammer_15m_N500								 
 ======================= 
