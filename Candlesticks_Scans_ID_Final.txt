@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.34		425.65		4865679
-TECHM		0.43		1047.8		1130622
+ITC		-1.34		425.65		4879151
+TECHM		0.39		1047.45		1131917
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BHARATFORG		-0.04		777.95		480248
+TORNTPHARM		-0.68		1656.05		176568
+APOLLOHOSP		-0.5		4601.75		123566
+CERA		-1.53		6616.4		16388
