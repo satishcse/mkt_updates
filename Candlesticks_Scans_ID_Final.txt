@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.93		554.65		452456
-SBILIFE		-0.2		1179.95		216265
+HDFC		0.6		2752.0		713332
+HDFCLIFE		0.95		554.75		461443
+SBILIFE		-0.2		1180.0		224373
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SUNDRMFAST		-2.09		1055.25		29856
