@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.74		954.75		1220821
+TATASTEEL		1.14		110.8		9276303
+ITC		-0.25		430.35		1185207
+ADANIENT		1.67		1919.0		680674
+HINDALCO		-0.15		444.4		633795
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JKCEMENT		0.16		3055.85		33769
-SHARDACROP		-0.39		469.75		12190
+
