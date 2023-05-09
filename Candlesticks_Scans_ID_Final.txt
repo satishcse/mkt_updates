@@ -6,9 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-0.8		910.0		2322821
-BAJFINANCE		-0.75		6608.0		1350833
-OLECTRA		-0.25		667.9		692105
-DALBHARAT		-1.56		2053.5		400461
-POLYMED		-1.25		966.65		180797
-MFL		0.04		961.35		20615
+MFL		0.04		961.35		20665
