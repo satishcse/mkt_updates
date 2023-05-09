@@ -2,14 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.31		235.9		4648399
-CIPLA		0.72		940.0		1431444
-HDFCLIFE		0.86		554.3		1192263
-DRREDDY		0.55		4934.1		132191
+UPL		-2.25		699.3		5837379
+LT		0.32		2373.0		725592
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ANURAS		-1.29		1118.35		248088
-ULTRACEMCO		-0.02		7734.0		190892
-KIMS		0.07		1498.6		8712
+
