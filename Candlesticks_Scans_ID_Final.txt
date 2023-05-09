@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.4		236.1		4316901
-TATACONSUM		0.16		790.2		371505
+POWERGRID		0.08		244.95		2264114
+WIPRO		0.68		382.95		1497650
+TATACONSUM		0.15		790.1		372762
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHREECEM		-0.98		24331.75		9344
