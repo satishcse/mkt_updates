@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.37		381.75		2238179
+TECHM		0.53		1048.85		1354246
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-2.39		1359.25		32535
+ECLERX		-2.11		1363.1		32660
