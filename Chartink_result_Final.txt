@@ -10,15 +10,15 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-MGL		8.26		1082.2		5447450
-IGL		3.64		506.2		4443365
-SRF		2.86		2619.05		769302
-AXISBANK		1.21		889.05		5540202
-PEL		1.09		756.0		1027140
-M&M		1.0		1244.15		927462
-GODREJCP		0.98		952.7		771498
-COALINDIA		0.92		235.0		4963472
-AUROPHARMA		-0.76		614.25		528724
+MGL		8.35		1083.1		5451862
+IGL		3.74		506.65		4446563
+SRF		2.87		2619.2		771216
+AXISBANK		1.1		888.1		5574805
+M&M		0.98		1243.85		930179
+GODREJCP		0.96		952.55		774341
+PEL		0.93		754.8		1031726
+COALINDIA		0.86		234.85		4975572
+AUROPHARMA		-0.78		614.15		529119
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -72,8 +72,8 @@ BANKNIFTY		0.38		43450.55		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-NMDC		1.06		109.6		5939980
-AUROPHARMA		-0.76		614.25		528724
+NMDC		1.06		109.6		5961705
+AUROPHARMA		-0.73		614.45		529581
 
 Open_High								 
 ========= 
