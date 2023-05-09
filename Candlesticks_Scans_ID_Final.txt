@@ -2,17 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.27		109.25		23874220
-SBIN		-1.39		575.5		13944244
-NTPC		-0.28		176.55		6132802
-POWERGRID		-0.63		243.2		4993921
-BAJAJFINSV		0.75		1415.3		3181132
-TECHM		0.45		1048.0		1328247
-APOLLOHOSP		-0.51		4601.7		153264
+ADANIENT		0.92		1904.9		2288781
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GNFC		-1.04		592.95		411256
-PRESTIGE		-2.52		479.35		347461
-RAINBOW		-1.67		796.35		62556
+
