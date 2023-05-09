@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.21		164.65		5324704
-RELIANCE		0.22		2477.25		1912703
+ONGC		-0.18		164.7		5330004
+RELIANCE		0.2		2476.85		1916029
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BBTC		-0.38		956.2		38946
+
