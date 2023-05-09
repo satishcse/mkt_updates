@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.51		1048.7		1399035
+UPL		-3.02		693.8		7323313
+COALINDIA		1.48		236.3		6511558
+WIPRO		0.47		382.15		2354180
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RAYMOND		1.19		1604.0		283729
-KIMS		-0.57		1488.95		25360
-AIAENG		-1.0		2712.0		19752
+
