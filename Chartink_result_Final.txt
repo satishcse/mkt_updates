@@ -23,8 +23,8 @@ AUROPHARMA		-0.92		613.25		589357
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BANKNIFTY		0.15		43348.4		0
-NIFTY		0.06		18275.85		0
+SBIN		-1.49		574.9		11012489
+ABBOTINDIA		-3.44		21699.0		19606
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -33,19 +33,19 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.38		3380.0		197618
-HINDUNILVR		-0.41		2505.9		1071801
-POLYCAB		-1.01		3229.85		223630
-GLENMARK		-1.09		562.75		490712
-HAVELLS		-1.18		1243.0		407760
-UPL		-2.63		696.6		6281585
+EICHERMOT		-0.38		3380.0		202788
+HINDUNILVR		-0.48		2504.25		1074466
+POLYCAB		-1.05		3228.55		224282
+GLENMARK		-1.12		562.55		491176
+HAVELLS		-1.16		1243.3		408025
+UPL		-2.66		696.35		6287820
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-MANAPPURAM		5.5		117.05		30830951
-IGL		3.49		505.45		4765400
-MFSL		1.5		669.6		1081919
-MARICO		1.24		537.3		1858964
-TRENT		0.86		1433.75		561761
-LT		0.25		2371.25		872422
+MANAPPURAM		5.5		117.05		30891179
+IGL		3.4		505.0		4772134
+MFSL		1.39		668.9		1083807
+MARICO		1.22		537.2		1866243
+TRENT		0.95		1435.05		566207
+LT		0.3		2372.5		876180
