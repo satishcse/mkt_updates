@@ -14,7 +14,7 @@ IBREALEST		-20.0		55.4		39339411
 BN_NR7								 
 ====== 
 nsecode		per_chg		close		volume
-HDFCBANK		0		1644.5		21844828
+HDFCBANK		0		1644.5		21844469
 
 BN_NCPR								 
 ======= 
@@ -61,7 +61,7 @@ Strong_Stocks_Daily
 =================== 
 nsecode		per_chg		close		volume
 BCG		4.66		12.35		31974182
-FACT		3.38		318.05		758555
+FACT		3.38		318.05		757852
 JSL		1.16		292.45		705918
 PPLPHARMA		1.08		74.75		5815597
 JBMA		0.64		829.3		321000
