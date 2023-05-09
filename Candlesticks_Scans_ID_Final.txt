@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.3		2479.2		1002147
-HCLTECH		-0.04		1075.3		971140
+RELIANCE		0.29		2479		1004658
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GESHIP		-0.79		662.45		24066
+
