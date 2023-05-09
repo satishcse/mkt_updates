@@ -10,11 +10,11 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-MGL,6.97,1069.3,1512686
-IGL,3.8,506.95,851272
-SRF,2.04,2598.1,161785
-M&M,0.53,1238.3,102488
-AUROPHARMA,-0.82,613.85,86034
+MGL,6.94,1069.0,1570756
+IGL,3.72,506.55,938286
+SRF,2.0,2597.0,168776
+M&M,0.52,1238.15,117471
+AUROPHARMA,-0.82,613.85,89622
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -29,7 +29,7 @@ BANKNIFTY,0.12,43334.0,0
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-CROMPTON,0.31,258.2,902750
+CROMPTON,0.31,258.2,903814
 
 Open_High,,,, 
 ========= 
