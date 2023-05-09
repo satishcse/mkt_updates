@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.08		244.95		2275487
-TATACONSUM		0.16		790.2		373064
+NTPC		0.51		177.95		2399792
+POWERGRID		0.08		244.95		2289809
+KOTAKBANK		0.36		1965.9		1694640
+ADANIENT		1.3		1911.95		1579112
+TATACONSUM		0.16		790.2		374344
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ZFCVINDIA		-1.09		10395		1945
+
