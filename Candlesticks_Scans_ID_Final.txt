@@ -1,13 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFCBANK		0.51		1652.9		2078254
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GNFC		-0.64		595.35		93319
-JBCHEPHARM		1.63		2119.0		18281
-SUNDRMFAST		-0.57		1071.7		9792
-ENDURANCE		-0.19		1373.7		2331
-KENNAMET		1.05		2313.8		347
+ASTRAL		0.84		1556.55		98126
+MOTILALOFS		0.4		586.9		18654
+ROUTE		0.1		1292.1		17411
