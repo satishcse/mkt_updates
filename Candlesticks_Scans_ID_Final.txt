@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGPOWER		0.5		313.9		354877
-HCLTECH		-0.29		1072.6		274424
-MPHASIS		0.39		1858.0		28553
-AJANTPHARM		0.26		1282.0		1424
+AAVAS		0.47		1484.0		32237
+MPHASIS		0.27		1855.75		29820
+APOLLOHOSP		0.21		4635.0		14131
+GLAXO		0.24		1263.25		1112
