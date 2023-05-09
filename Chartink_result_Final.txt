@@ -11,12 +11,12 @@ Intraday_Buy_PSAR
 ================= 
 nsecode		per_chg		close		volume
 MGL		7.34		1073.0		6826063
-IGL		2.07		498.5		6562274
+IGL		2.09		498.6		6562613
 SRF		1.68		2589.0		1416858
 COALINDIA		1.33		235.95		7318646
 AXISBANK		1.09		888.0		12108736
 M&M		1.05		1244.7		1847124
-GODREJCP		0.69		950.0		1069261
+GODREJCP		0.83		951.3		1069262
 PEL		-0.67		742.85		1496068
 AUROPHARMA		-0.74		614.4		814953
 
@@ -82,7 +82,7 @@ High_Relative_Volume_Spurt_5m
 ============================= 
 nsecode		per_chg		close		volume
 GUJGASLTD		1.45		466.0		1549782
-OBEROIRLTY		-1.16		928.0		529762
+OBEROIRLTY		-0.78		931.5		529879
 TORNTPHARM		-0.48		1659.4		333604
 
 Open_High								 
@@ -99,8 +99,8 @@ Open_Low
 ======== 
 nsecode		per_chg		close		volume
 MANAPPURAM		4.1		115.5		39966093
-IGL		2.07		498.5		6562274
-MFSL		1.03		666.5		1322539
+IGL		2.09		498.6		6562613
+MFSL		1.25		667.95		1322903
 MARICO		1.0		536.0		2469115
 TRENT		0.95		1435.0		824616
 LT		0.4		2374.9		1416962
