@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-2.05		700.7		3624536
-RELIANCE		0.28		2478.9		923340
-HDFC		0.6		2752.0		771633
-MARUTI		0.37		9110.0		93480
+UPL		-2.06		700.65		3627390
+HDFC		0.6		2752.0		775608
+MARUTI		0.38		9111.0		93714
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-0.83		3353.95		24329
+SCHAEFFLER		-0.85		2835.55		30137
