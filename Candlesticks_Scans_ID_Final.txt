@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.01		788.85		606745
+TATACONSUM		0		788.9		610315
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PERSISTENT		0.36		4691.1		258739
+METROPOLIS		-0.1		1337.8		155553
+AIAENG		-1.56		2696.6		23764
