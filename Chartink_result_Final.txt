@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-SBILIFE		0.6		1190.3		951537
+SBILIFE		0.58		1190		951989
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,10 +11,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		2.38		1167.8		4398544
-PIDILITIND		1.88		2518.3		951054
-COLPAL		1.13		1599.85		203240
-NATIONALUM		0.18		82.8		3263334
+INDUSINDBK		2.36		1167.5		4403403
+PIDILITIND		1.92		2519.2		951695
+COLPAL		1.05		1598.65		203430
+NATIONALUM		0.18		82.8		3279934
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -41,8 +41,9 @@ BOSCHLTD		0.74		19369.45		24119
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.36		954.05		1394035
-BHARATFORG		0.31		776.5		355286
+SUNPHARMA		-0.39		953.7		1395812
+BHARATFORG		0.31		776.5		355581
+GRASIM		0.75		1778.1		178069
 
 Open_High								 
 ========= 
