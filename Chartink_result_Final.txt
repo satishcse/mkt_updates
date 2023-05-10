@@ -18,11 +18,9 @@ NATIONALUM		0.48		83.05		1954360
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BIOCON		-0.45		245.15		1054466
-DABUR		-1.0		512.7		547594
-MCX		-0.53		1363.4		65999
-BALKRISIND		0.24		2163.0		48169
-DIXON		0.1		2901.75		39441
+EXIDEIND		-1.24		186.95		565914
+DABUR		-1.03		512.55		556909
+DELTACORP		-0.63		205.65		377808
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
