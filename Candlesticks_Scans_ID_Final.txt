@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-1.42		684.55		1484196
+UPL		-1.41		684.6		1508065
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-0.32		2366.85		210235
-GODFRYPHLP		-0.14		1692.15		11932
-TIMKEN		-0.48		3113.55		11671
-LINDEINDIA		-0.25		3988.95		1463
-ZFCVINDIA		-1.78		10245.2		580
+TIMKEN		-0.35		3117.8		11911
+BOSCHLTD		-0.32		19165.0		3678
