@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.46		109.05		8434093
-POWERGRID		1.05		245.95		3628285
-HINDUNILVR		0.48		2527.9		871293
-APOLLOHOSP		0.15		4599.95		182585
-HEROMOTOCO		-0.45		2580.0		148374
+BAJAJ-AUTO		0.47		4550		116469
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVR		-0.29		1446.5		106209
+PRSMJOHNSN		-1.04		118.95		530793
+EICHERMOT		-0.45		3366.7		144278
