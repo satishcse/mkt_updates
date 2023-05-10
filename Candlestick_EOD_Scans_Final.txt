@@ -22,7 +22,7 @@ NIFTY		0.27		18315.1		0
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
 nsecode		per_chg		close		volume
-GSPL		2.76		281.1		1811596
+GSPL		2.76		281.1		1811772
 
 Wekly_NCPR_KGS								 
 ============== 
@@ -80,7 +80,7 @@ ASIANPAINT		0.16		3039.65		751763
 LICHSGFIN		0.68		371.2		709378
 IRCTC		0.14		623.5		649763
 SYNGENE		-0.11		701.6		610261
-GNFC		0.97		598.0		593559
+GNFC		0.97		598.0		593569
 MPHASIS		0.26		1865.0		589658
 OBEROIRLTY		1.1		941.7		576115
 TATACOMM		-1.9		1275.0		571185
