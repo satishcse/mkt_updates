@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.73		108.75		12059599
-ONGC		0.97		166.85		8590321
-COALINDIA		-0.04		236.25		2697687
-EICHERMOT		-0.44		3367.0		190114
+TATASTEEL		-0.78		108.7		12159193
+INFY		-0.57		1263.5		4211347
+COALINDIA		-0.11		236.1		2706195
+SBILIFE		0.5		1189.1		996067
 
 Bullish_Hammer_15m_N500								 
 ======================= 
