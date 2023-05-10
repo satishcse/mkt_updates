@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.51		176.9		4174250
-BHARTIARTL		0.28		795.85		1848905
-TITAN		-0.31		2740.0		354578
-ULTRACEMCO		0.27		7737.05		179148
+NTPC		0.48		176.85		4191407
+BHARTIARTL		0.3		796.0		1851424
+TITAN		-0.25		2741.5		355688
+ULTRACEMCO		0.26		7736.25		179267
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-0.38		3309.9		43268
+PNBHOUSING		-1.22		463.85		396834
