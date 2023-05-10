@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPRMILL		-0.3		567.8		15789
-POLYMED		-0.54		961.0		9075
+TATACOMM		-0.44		1294.0		147980
+WESTLIFE		0.17		769.65		47849
+ANURAS		0.29		1139.9		17245
+POLYMED		-0.57		960.65		9361
