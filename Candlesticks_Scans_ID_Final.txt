@@ -11,4 +11,5 @@ HINDALCO		-0.06		440.1		1144393
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SRF		-0.8		2566.7		362265
