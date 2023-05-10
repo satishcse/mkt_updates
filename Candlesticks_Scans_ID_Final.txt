@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.55		108.95		7568989
-TATAMOTORS		0.57		506.5		6132545
-ITC		0.04		423.95		4210523
+TATASTEEL		-0.55		108.95		7612949
+TATAMOTORS		0.58		506.55		6163052
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SRF		-0.73		2568.5		366811
+SRF		-0.8		2566.8		368217
