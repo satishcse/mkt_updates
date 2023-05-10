@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.97		166.85		9202579
-NTPC		0.51		176.9		4497627
-TECHM		-0.58		1041.7		845691
-ULTRACEMCO		0.18		7730.0		185824
+ONGC		0.97		166.85		9231072
+NTPC		0.45		176.8		4515384
+TECHM		-0.57		1041.8		845919
+ULTRACEMCO		0.16		7728.95		186067
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-0.11		1894.0		1679663
-TANLA		-0.85		675.7		196817
+ADANIENT		-0.11		1894.0		1683857
+AMARAJABAT		-1.37		613.8		336226
+TANLA		-0.75		676.4		197134
+SHOPERSTOP		-2.04		678.25		121970
+TIMKEN		-0.19		3122.6		39355
