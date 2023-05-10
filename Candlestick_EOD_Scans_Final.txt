@@ -2,7 +2,7 @@
 Hanging_Man_N100								 
 ================ 
 nsecode		per_chg		close		volume
-DABUR		-0.7		514.3		2751375
+DABUR		-0.7		514.3		2751319
 
 Bullish_Hammer_Daily_N50								 
 ======================== 
@@ -20,7 +20,7 @@ NIFTY		0.27		18315.1		0
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
 nsecode		per_chg		close		volume
-GSPL		2.54		280.5		1812358
+GSPL		2.54		280.5		1812245
 
 Wekly_NCPR_KGS								 
 ============== 
