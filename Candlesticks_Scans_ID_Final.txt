@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.08		1952.8		2447984
-BAJFINANCE		1.16		6628.0		585758
-TITAN		-0.13		2744.75		271393
-BAJAJ-AUTO		0.47		4550.0		133465
+KOTAKBANK		-0.1		1952.3		2450105
+BAJFINANCE		1.13		6626.0		587350
+TITAN		-0.17		2743.6		272215
+BAJAJ-AUTO		0.47		4550.0		133847
 
 Bullish_Hammer_15m_N500								 
 ======================= 
