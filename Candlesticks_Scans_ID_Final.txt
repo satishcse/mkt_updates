@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		0.05		424		6238910
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-2.07		234.75		81356
-NAVINFLUOR		-1.42		4730.75		44980
+SWANENERGY		-2.0		234.9		80994
+NAVINFLUOR		-1.37		4733.4		45384
