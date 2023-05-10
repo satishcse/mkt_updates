@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ULTRACEMCO		0.35		7743		226902
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-0.98		1730.3		40080
+CARBORUNIV		-2.1		1116.25		151869
+MASTEK		-1.0		1730.0		40769
+AETHER		-0.19		929.95		31733
