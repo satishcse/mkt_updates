@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ULTRACEMCO		0.37		7744.95		230407
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AAVAS		0.22		1493.2		161009
-DATAPATTNS		-3.64		1636.0		160616
+AAVAS		0.31		1494.45		162557
+MASTEK		-1.02		1729.7		41371
+ZYDUSWELL		0.37		1517.55		7597

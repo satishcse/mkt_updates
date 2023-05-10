@@ -2,7 +2,7 @@
 Hanging_Man_N100								 
 ================ 
 nsecode		per_chg		close		volume
-DABUR		-0.73		514.1		2668513
+DABUR		-0.6		514.8		2696394
 
 Bullish_Hammer_Daily_N50								 
 ======================== 
@@ -20,7 +20,7 @@ NIFTY		0.28		18317.8		0
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
 nsecode		per_chg		close		volume
-GSPL		2.85		281.35		1797130
+GSPL		2.91		281.5		1799253
 
 Wekly_NCPR_KGS								 
 ============== 
@@ -80,7 +80,7 @@ IRCTC		0.33		624.65		631219
 GRANULES		0.28		300.45		605030
 MPHASIS		0.26		1865.0		582900
 SYNGENE		-0.14		701.4		581640
-GNFC		1.29		599.9		570954
+GNFC		1.29		599.9		570964
 OBEROIRLTY		0.81		939.05		550857
 TATACOMM		-1.7		1277.55		549696
 HEROMOTOCO		-0.02		2591.1		538401
