@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-1.56		683.6		1531877
+UPL		-1.53		683.8		1557317
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-0.75		1398.2		461840
-TANLA		-0.7		676.75		97766
-DEEPAKNTR		0.2		1952.35		90495
-HEG		-0.74		1185.9		54176
-TIMKEN		-0.22		3121.85		12154
+BSE		-1.17		524.65		261434
+DEEPAKNTR		0.22		1952.75		90851
+HEG		-0.76		1185.7		54907
+AEGISCHEM		-0.23		394.35		21556
+ROSSARI		0.0		696.9		17272
 INGERRAND		-1.19		2488.9		5239
-LINDEINDIA		-0.26		3988.5		1499
+3MINDIA		-0.57		23790.9		277
