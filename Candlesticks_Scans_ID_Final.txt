@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.03		245.9		3596630
-HINDUNILVR		0.44		2526.95		861267
-APOLLOHOSP		0.13		4599.25		181332
-HEROMOTOCO		-0.41		2580.9		145867
+POWERGRID		0.99		245.8		3609765
+HINDUNILVR		0.5		2528.5		865227
+APOLLOHOSP		0.13		4599.2		181942
+HEROMOTOCO		-0.45		2580.0		146143
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOLARINDS		-1.95		3702.95		33248
+ROSSARI		-0.09		696.25		43650
+SOLARINDS		-1.87		3706.05		33291
