@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.48		176.85		4328661
-HDFCLIFE		1.8		562.0		2569614
-BPCL		1.02		370.8		1891561
-SUNPHARMA		-0.35		954.1		1690369
-TITAN		-0.27		2740.9		361074
+ONGC		1.0		166.9		9084722
+TECHM		-0.55		1042.05		836299
+ULTRACEMCO		0.22		7733.15		182627
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PNBHOUSING		-1.21		463.9		399089
-BRITANNIA		0.14		4601.8		299010
+
