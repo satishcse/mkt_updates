@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.91		166.75		8441156
-ULTRACEMCO		0.28		7737.9		171726
+ONGC		0.94		166.8		8452744
+MARUTI		-0.09		9103.4		225069
+ULTRACEMCO		0.24		7735.05		172077
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NUVOCO		-0.28		337.45		205734
-PGHH		-0.54		13711.1		9120
+JBMA		-0.93		821.55		578164
+NUVOCO		-0.28		337.45		205545
