@@ -27,7 +27,8 @@ WHIRLPOOL,-1.46,1314.0,71076
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
-
+nsecode,per_chg,close,volume
+GAIL,1.17,108.2,3540660
 
 Open_High,,,, 
 ========= 
@@ -53,7 +54,7 @@ AARTIIND,-9.81,502.55,5862889
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-GLENMARK,1.93,570.0,1671171
-PIDILITIND,1.35,2505.0,1063889
-LALPATHLAB,0.92,1947.05,85120
-TORNTPHARM,0.51,1659.2,167550
+GLENMARK,1.93,570.0,1672400
+PIDILITIND,1.27,2503.1,1066560
+LALPATHLAB,0.92,1947.05,85126
+TORNTPHARM,0.55,1659.9,167893
