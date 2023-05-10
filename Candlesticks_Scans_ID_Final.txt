@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.47		4550		130206
+UPL		-1.86		681.5		3536369
+HCLTECH		0.02		1079.2		1338045
+BAJAJ-AUTO		0.47		4550.0		130714
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BIRLACORPN		0.86		999		663571
+MCX		-0.93		1357.95		113170
+IFBIND		-0.02		820.0		24294
