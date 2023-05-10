@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATAMOTORS,0.84,507.9,10541808
-BPCL,1.06,370.95,1964368
-WIPRO,0.3,383.45,1305658
+TATASTEEL,-0.5,109.0,14723574
+TATAMOTORS,0.85,507.95,10554620
+BPCL,1.05,370.9,1971032
+WIPRO,0.24,383.2,1313519
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ASTRAL,-1.01,1532.55,246196
