@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-SBILIFE,0.75,1192,117721
+SBILIFE,0.69,1191.35,120098
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
@@ -11,17 +11,16 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-PIDILITIND,2.24,2527.0,338647
-INDUSINDBK,1.42,1156.8,1649806
-COLPAL,0.96,1597.25,41151
-NATIONALUM,0.0,82.65,864851
+PIDILITIND,2.36,2530.0,352709
+INDUSINDBK,1.43,1156.95,1662163
+COLPAL,0.74,1593.7,42260
+NATIONALUM,0.0,82.65,879203
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-INDHOTEL,-1.18,369.85,824030
-COLPAL,0.96,1597.25,41151
-BANKNIFTY,-0.45,43003.05,0
+IBULHSGFIN,1.04,111.45,3496910
+INDHOTEL,-1.19,369.8,840167
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
