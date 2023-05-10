@@ -17,7 +17,13 @@ NATIONALUM		0.18		82.8		3553125
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+COALINDIA		-0.25		235.75		2487422
+MGL		0.68		1081.25		1141643
+BRITANNIA		-0.15		4588.05		269050
+COROMANDEL		0.39		963.25		78015
+MRF		-0.63		96886.45		5611
+NIFTY		-0.09		18249.8		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
