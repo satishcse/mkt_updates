@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.94		166.8		8538302
+TATASTEEL		-0.73		108.75		12022712
+HDFCLIFE		1.68		561.35		2440637
+ADANIPORTS		-0.07		690.05		1273098
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NAVINFLUOR		-1.23		4740.05		67261
-MRF		-0.74		96775.0		6350
+
