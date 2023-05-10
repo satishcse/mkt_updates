@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.6		1041.5		838586
-ULTRACEMCO		0.17		7729.5		183250
+ONGC		1.0		166.9		9139413
+TECHM		-0.63		1041.25		840214
+ULTRACEMCO		0.17		7729.45		183816
 
 Bullish_Hammer_15m_N500								 
 ======================= 
