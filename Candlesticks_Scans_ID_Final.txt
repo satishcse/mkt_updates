@@ -6,7 +6,12 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		-0.73		4897.05		96286
-DATAPATTNS		-2.16		1661.0		47045
+SBIN		-1.3		566.05		4507553
+FACT		-2.01		311.65		131974
+DRREDDY		-0.71		4898.05		96819
+ANGELONE		-0.43		1294.6		92173
+AFFLE		-1.07		934.6		68682
+DATAPATTNS		-2.11		1662.0		47388
+INGERRAND		-0.86		2497.2		4351
 TCI		0.26		635.15		2656
-CERA		-0.1		6569.1		1837
+CERA		-0.1		6569.1		1838
