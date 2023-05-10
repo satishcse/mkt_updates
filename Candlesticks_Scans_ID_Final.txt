@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.22		936.5		24762832
-TATASTEEL		-0.23		109.3		17477580
-POWERGRID		1.71		247.55		6475369
+ICICIBANK		0.25		936.7		24855270
+TATASTEEL		-0.23		109.3		17665848
 
 Bullish_Hammer_15m_N500								 
 ======================= 
