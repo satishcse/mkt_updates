@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-AXISBANK,0.25,890.45,10169196
-LT,-0.69,2357.95,1390612
-WIPRO,0.29,383.4,1383903
+AXISBANK,0.2,890.0,10261215
+LT,-0.72,2357.25,1396551
+WIPRO,0.3,383.45,1395532
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-DIXON,-0.22,2892.6,79848
+HINDALCO,-1.15,435.3,2487457
+ASTRAL,-0.84,1535.2,263353
+NESTLEIND,0.11,21994.95,43766
