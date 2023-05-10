@@ -6,9 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IFBIND		1.47		832.25		10723
-BASF		0.97		2448.7		8417
-BOSCHLTD		0.04		19233.45		2468
-GARFIBRES		0.26		2887.9		880
-GALAXYSURF		0.34		2482.65		836
-TCIEXP		0.06		1481.9		712
+BAJAJFINSV		-0.6		1400.25		333830
+M&M		-0.46		1239.7		332139
+HAL		0.23		2921.05		116991
+TCIEXP		0.06		1481.9		743
