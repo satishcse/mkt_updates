@@ -10,10 +10,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		2.4		1168.0		4800986
-PIDILITIND		2.02		2521.65		991620
-COLPAL		0.96		1597.2		227185
-NATIONALUM		0.18		82.8		3666669
+INDUSINDBK		2.4		1168.0		4817259
+PIDILITIND		2.03		2521.9		991891
+COLPAL		0.93		1596.7		227877
+NATIONALUM		0.18		82.8		3671454
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -32,7 +32,11 @@ LTIM		-0.99		4576.85		174260
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-PFC		-1.26		164.4		5249805
+APOLLOTYRE		-3.56		368.0		8524422
+PFC		-1.26		164.4		5285750
+AARTIIND		-8.0		512.6		4431000
+SUNPHARMA		-0.31		954.5		1579676
+PVR		-0.08		1449.5		123985
 
 Open_High								 
 ========= 
@@ -60,7 +64,7 @@ AARTIIND		-7.75		514.0		4358325
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-PIDILITIND		2.01		2521.35		990166
-GLENMARK		1.94		570.05		1554492
-LALPATHLAB		0.71		1943.0		77172
-TORNTPHARM		0.5		1659.05		141511
+PIDILITIND		2.02		2521.65		991620
+GLENMARK		1.93		570.0		1554658
+LALPATHLAB		0.82		1945.0		77510
+TORNTPHARM		0.45		1658.1		141854
