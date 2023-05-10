@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-0.6		1400.25		333830
-M&M		-0.46		1239.7		332139
-HAL		0.23		2921.05		116991
-TCIEXP		0.06		1481.9		743
+FACT		-2.0		311.7		123944
+POLYCAB		0.06		3223.8		30726
