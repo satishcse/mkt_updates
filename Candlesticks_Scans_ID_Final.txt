@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BIRLACORPN		1.37		1004.0		655004
-SWANENERGY		-2.0		234.9		81850
+BIRLACORPN		1.37		1004.05		655387
+SWANENERGY		-2.0		234.9		81211
+NAVINFLUOR		-1.38		4732.85		47262
