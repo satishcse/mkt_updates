@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.47		4550		130821
+BAJAJ-AUTO		0.47		4550		131014
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IFBIND		-0.02		820		24570
+IFBIND		-0.02		820		24502
