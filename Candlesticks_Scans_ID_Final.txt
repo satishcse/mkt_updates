@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.51		176.9		4306199
-BPCL		1.04		370.85		1886411
-TITAN		-0.27		2741.0		360502
-ULTRACEMCO		0.29		7739.0		181029
+NTPC		0.51		176.9		4312566
+BPCL		1.02		370.8		1888451
+SUNPHARMA		-0.35		954.1		1687048
+TITAN		-0.31		2739.95		360857
+ULTRACEMCO		0.29		7738.85		181261
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BRITANNIA		0.11		4600		298622
-CAMS		-0.68		2096		161973
+PNBHOUSING		-1.21		463.9		399239
+BRITANNIA		0.11		4600.0		298766
+CAMS		-0.68		2096.05		162424
