@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.55		372.75		2460431
+BPCL		1.4		372.2		2476174
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KFINTECH		0.83		308.9		169419
-UNOMINDA		-0.33		546.8		160340
-ABBOTINDIA		-2.3		21425.0		24991
+KFINTECH		0.77		308.7		170153
