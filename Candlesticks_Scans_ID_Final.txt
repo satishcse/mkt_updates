@@ -1,14 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ITC		0.05		424.0		3885063
-POWERGRID		1.03		245.9		2858604
-INFY		-0.43		1265.2		1900259
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAHLOG		-0.96		366.0		18591
-SUPREMEIND		-1.0		2771.85		8394
-RUSTOMJEE		-1.84		451.4		4449
+
