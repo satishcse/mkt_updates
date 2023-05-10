@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.51,176.9,4287398
-BPCL,0.98,370.65,1883545
-TITAN,-0.23,2741.95,359517
-ULTRACEMCO,0.27,7737.45,180689
+NTPC,0.51,176.9,4306199
+BPCL,1.04,370.85,1886411
+TITAN,-0.27,2741.0,360502
+ULTRACEMCO,0.29,7739.0,181029
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BRITANNIA,0.11,4600,298622
+CAMS,-0.68,2096,161973
