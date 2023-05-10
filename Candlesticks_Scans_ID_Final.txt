@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NUVOCO		-0.33		337.3		205663
+JBMA		-1.0		821.0		539196
+NUVOCO		-0.25		337.55		205678
