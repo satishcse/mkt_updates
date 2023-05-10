@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFCLIFE		1.64		561.1		1006213
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		-0.06		2719.7		73138
+TIINDIA		-0.05		2719.95		73900
+POLYCAB		-0.87		3193.95		68347
