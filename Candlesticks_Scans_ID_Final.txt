@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.31		573.95		14141680
-ADANIENT		4.64		1980.0		8136447
-TATACONSUM		-0.49		787.3		778997
-NESTLEIND		-0.26		21992.65		47237
+SBIN		0.18		573.25		14170365
+ADANIENT		4.64		1980.0		8166297
+TATACONSUM		-0.45		787.6		780710
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJ-AUTO		-0.11		4550.95		223888
+GRASIM		-0.33		1768.5		211878
