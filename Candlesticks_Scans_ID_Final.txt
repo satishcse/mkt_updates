@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.64		108.55		19798927
+TATASTEEL		-0.64		108.55		19799005
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CYIENT		-1.78		1235.0		640139
-IIFL		-1.11		442.15		410615
+CYIENT		-1.78		1235.0		640159
+IIFL		-1.11		442.15		410617
 VIJAYA		0.49		370.7		163770
-ALKEM		-2.46		3497.65		99459
-RADICO		-0.9		1110.95		50410
-KIMS		0.3		1500.0		36644
+ALKEM		-2.46		3497.65		99463
+RADICO		-0.9		1110.95		51244
+KIMS		0.3		1500.0		36812
