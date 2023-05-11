@@ -8,5 +8,6 @@ BAJAJ-AUTO		-0.04		4553.95		179413
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-2.1		1327.3		128232
-CRISIL		-0.38		3506.9		6649
+LALPATHLAB		-2.18		1907.35		300420
+METROPOLIS		-1.76		1331.95		132949
+CRISIL		-0.37		3507.0		6677
