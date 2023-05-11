@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDALSTEL		-0.58		581.35		281104
-VINATIORGA		0.17		1998.0		3783
-SKFINDIA		0.11		4247.6		1731
-TCIEXP		-0.54		1497.0		396
+BHARATFORG		0.19		777.7		125899
+CUMMINSIND		-0.02		1640.05		29456
+ALKEM		-0.81		3556.75		7414
+VINATIORGA		0.15		1997.7		3951
+SKFINDIA		0.24		4252.8		2032
