@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.38		179.5		4156459
-BHARTIARTL		-0.63		791.0		2282591
+NTPC		1.38		179.5		4172375
+BHARTIARTL		-0.68		790.65		2293475
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAND		-0.22		1400		72411
-MANYAVAR		-1.33		1265		64098
-INDIAMART		-0.82		5880		37058
-GOCOLORS		-1.5		1110		8284
+GLAND		-0.22		1400.0		72615
+APLLTD		-0.43		573.9		35660
