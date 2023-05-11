@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BAJFINANCE		0.61		6672.0		133840
+BAJAJ-AUTO		0.17		4563.55		23862
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BHARATFORG		0.19		777.7		125899
-CUMMINSIND		-0.02		1640.05		29456
-ALKEM		-0.81		3556.75		7414
-VINATIORGA		0.15		1997.7		3951
-SKFINDIA		0.24		4252.8		2032
+
