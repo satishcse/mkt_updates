@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.14		1265.0		3626364
-KOTAKBANK		0.27		1964.0		2231068
-TECHM		0.41		1050.4		665590
+TATASTEEL		-0.37		108.85		10251581
+INFY		0.14		1265.05		3683219
+KOTAKBANK		0.15		1961.7		2246977
+TECHM		0.34		1049.7		680333
+BAJAJ-AUTO		-0.07		4552.6		57966
 
 Bullish_Hammer_15m_N500								 
 ======================= 
