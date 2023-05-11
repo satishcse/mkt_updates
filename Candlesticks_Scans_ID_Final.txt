@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.52		179.75		8307895
-TITAN		0.3		2753.55		398996
+TITAN		0.3		2753.8		399507
+BAJAJ-AUTO		-0.08		4552.45		197991
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CUMMINSIND		-1.03		1623.5		252894
+TECHM		0.18		1048.05		1132919
+THERMAX		-0.98		2345.0		8874
