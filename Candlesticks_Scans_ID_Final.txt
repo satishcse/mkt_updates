@@ -2,15 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.63		168.0		5496821
-RELIANCE		-0.32		2488.7		3475059
-M&M		0.59		1256.0		2863363
-UPL		0.57		683.55		1472511
-WIPRO		0.34		385.05		1333520
-SBILIFE		-0.33		1184.9		327268
-BAJAJ-AUTO		-0.05		4553.6		178075
+ONGC		0.63		168		5514311
+HEROMOTOCO		0.0		2586		201477
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BLUEDART		0.06		5868.05		7989
+
