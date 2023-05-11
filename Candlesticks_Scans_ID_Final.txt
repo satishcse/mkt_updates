@@ -6,12 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOTYRE		1.1		372.65		749226
-MGL		-0.36		1095.5		117086
-SBILIFE		0.15		1190.6		50527
-BIKAJI		1.26		374.95		25997
-BAJAJELEC		-0.18		1188.9		1874
-POLYMED		0.68		973.0		1347
-ZYDUSWELL		0.67		1527.8		1128
-PFIZER		0.49		3779.95		263
 3MINDIA		0.3		23741.15		60
