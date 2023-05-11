@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.37		108.85		5199187
+TATASTEEL		-0.32		108.9		5263355
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		-0.36		1951.45		67190
-TORNTPOWER		-0.89		533.05		22700
-LUXIND		-0.12		1518.35		16885
+TVSMOTOR		-0.46		1235.4		152942
+LUXIND		-0.1		1518.75		16901
