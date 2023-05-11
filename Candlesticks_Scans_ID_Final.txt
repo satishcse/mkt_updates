@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.63		791		2250266
+BHARTIARTL		-0.69		790.55		2263262
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CUMMINSIND		-0.48		1632.5		79817
-MANYAVAR		-1.29		1265.55		63857
+ANGELONE		-1.1		1306.0		156640
+MANYAVAR		-1.34		1264.95		63874
