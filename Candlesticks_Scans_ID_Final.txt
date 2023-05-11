@@ -8,4 +8,7 @@ HINDUNILVR		1.77		2567.3		804879
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LAURUSLABS		-6.56		310.75		2940100
+ALKEM		-1.72		3524.25		72138
+ATUL		-0.13		6850.0		71546
