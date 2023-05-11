@@ -2,14 +2,15 @@
 Hanging_Man_N100								 
 ================ 
 nsecode		per_chg		close		volume
-ICICIPRULI		-0.08		450.5		1796725
-EICHERMOT		-0.29		3407.0		404221
+ICICIPRULI		0.12		451.4		1799263
 
 Bullish_Hammer_Daily_N50								 
 ======================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.11		790.25		941465
-TITAN		0.57		2761.0		604378
+TATAMOTORS		0.49		512.0		11314866
+CIPLA		-0.11		943.4		1445662
+TATACONSUM		-0.08		790.55		947856
+TITAN		0.62		2762.45		608912
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
@@ -71,7 +72,7 @@ BRITANNIA		0.8		4642.0		269494
 GRASIM		0.18		1777.55		264986
 PERSISTENT		-0.02		4670.75		222961
 MCX		0.85		1371.3		211712
-METROPOLIS		-3.14		1313.2		194193
+METROPOLIS		-3.14		1313.2		194194
 TORNTPHARM		-0.53		1654.95		185559
 COROMANDEL		1.03		970.05		181272
 RAMCOCEM		1.24		776.5		176527

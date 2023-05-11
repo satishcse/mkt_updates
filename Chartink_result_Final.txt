@@ -22,7 +22,9 @@ LALPATHLAB		-2.4		1903.15		428250
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDCOPPER		-0.43		105.25		3432147
+BIOCON		-0.28		245.85		2248576
+AUROPHARMA		-1.66		608.5		1088378
+GRANULES		-0.48		299.3		552053
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -31,7 +33,7 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-0.03		1314.65		72281
+WHIRLPOOL		-0.03		1314.65		72258
 ICICIPRULI		-0.08		450.5		1796725
 BAJAJ-AUTO		-0.24		4545.0		281080
 EICHERMOT		-0.29		3407.0		404221
@@ -46,9 +48,9 @@ HINDALCO		-3.56		420.9		10958299
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-DELTACORP		2.78		210.8		2476318
-TRENT		2.31		1474.0		449453
-PETRONET		1.84		232.4		1952928
-INTELLECT		1.83		467.05		476129
-BHEL		0.43		80.95		10729707
-ONGC		0.12		167.15		7506904
+DELTACORP		2.95		211.15		2503710
+TRENT		2.25		1473.0		452442
+PETRONET		1.97		232.7		1966365
+INTELLECT		1.6		466.0		482838
+BHEL		0.5		81.0		10855020
+ONGC		0.12		167.15		7606834

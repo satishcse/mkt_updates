@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.55		108.65		19407538
-ITC		-1.09		420.7		15699748
+ITC		-1.08		420.75		15841240
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IIFL		-0.95		442.85		407527
-JKLAKSHMI		-0.88		784.0		79418
+NATCOPHARM		-1.81		637		1089862
+DELHIVERY		-2.25		362		256333
+JKLAKSHMI		-0.88		784		81561
