@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		1.18		1091.05		2173716
-NESTLEIND		-0.23		21999.85		44304
+HCLTECH		1.17		1090.9		2179791
+TATACONSUM		-0.46		787.55		719146
+NESTLEIND		-0.26		21992.4		44462
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POLYCAB		-0.05		3207.65		458162
