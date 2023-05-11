@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.13		236.85		1686896
-UPL		0.78		685.0		1373897
-WIPRO		0.52		385.75		1130095
-TITAN		0.14		2749.4		312190
-APOLLOHOSP		0.12		4606.9		263562
+ONGC		0.48		167.75		5027333
+COALINDIA		0.17		236.95		1689903
+UPL		0.78		685.0		1375004
+WIPRO		0.52		385.75		1131261
+APOLLOHOSP		0.11		4606.5		263584
 
 Bullish_Hammer_15m_N500								 
 ======================= 
