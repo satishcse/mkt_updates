@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.63		168		5521544
+ONGC		0.63		168.0		5528395
+BAJAJ-AUTO		-0.04		4553.95		179207
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		-2.2		1906.9		261828
-CRISIL		-0.37		3507.0		6624
+LALPATHLAB		-1.94		1912.0		272735
+CRISIL		-0.38		3506.95		6645
