@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.38		574.35		13803996
-ADANIENT		5.15		1989.55		7922187
-HEROMOTOCO		0.01		2586.35		368706
+SBIN		0.38		574.35		13889417
+ADANIENT		5.05		1987.75		7928459
+TATACONSUM		-0.44		787.65		754102
+HEROMOTOCO		0.02		2586.45		370342
 
 Bullish_Hammer_15m_N500								 
 ======================= 
