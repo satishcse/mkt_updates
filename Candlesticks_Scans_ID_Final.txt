@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-4.42		2260.0		5572230
-TITAN		0.35		2755.0		182028
-ULTRACEMCO		0.79		7804.5		70030
+LT		-4.45		2259.15		5592623
+TITAN		0.35		2755.0		182525
 
 Bullish_Hammer_15m_N500								 
 ======================= 
