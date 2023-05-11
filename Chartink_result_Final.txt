@@ -34,7 +34,9 @@ LALPATHLAB		-0.5		1940.05		105570
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+SAIL		-0.12		83.85		4644346
+PIIND		-0.51		3430.0		128136
 
 Open_High								 
 ========= 
@@ -63,4 +65,4 @@ UPL		0.71		684.55		1404406
 ONGC		0.63		168.0		5160458
 BHEL		0.5		81.0		8071884
 JUBLFOOD		0.49		471.45		1102906
-DELTACORP		0.24		205.6		566645
+DELTACORP		0.24		205.6		566655
