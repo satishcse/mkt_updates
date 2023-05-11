@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.21		1655.65		13035517
-ONGC		0.63		168.0		5651475
-HDFCLIFE		0.77		567.0		1241817
-BAJAJ-AUTO		-0.06		4553.0		188286
+ONGC		0.63		168.0		5659213
+HDFC		0.65		2770.55		1644403
+BAJAJ-AUTO		-0.06		4553.0		194849
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LALPATHLAB		-1.57		1919.2		323879
+
