@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.53		423.1		7085352
-UPL		0.63		684.0		1142752
-HINDUNILVR		0.76		2541.95		439668
+ITC		-0.43		423.5		7098398
+UPL		0.68		684.3		1144807
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.23		2580.2		60813
-BAJAJ-AUTO		-0.1		4551.45		43539
-CRISIL		-0.04		3518.95		3906
+CRISIL		-0.04		3518.95		3918
