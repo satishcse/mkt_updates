@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-2.99		423.4		3013622
-BAJFINANCE		0.42		6659.3		155071
-BAJAJ-AUTO		0.18		4564.0		25730
+BAJFINANCE		0.51		6665.25		157649
+BAJAJ-AUTO		0.17		4563.9		26708
 
 Bullish_Hammer_15m_N500								 
 ======================= 
