@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NIFTY		-0.05		18305.15		0
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-4.15		697.8		6222337
-ANURAS		0.5		1139.95		526010
-THERMAX		-1.24		2338.85		12820
+ANURAS		0.64		1141.6		526227
+AFFLE		-1.16		925.95		203215
+THERMAX		-0.77		2350.0		13322
