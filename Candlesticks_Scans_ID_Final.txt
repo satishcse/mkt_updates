@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		0.89		4642.25		138725
-ULTRACEMCO		0.81		7806.15		62810
+ULTRACEMCO		0.82		7807		63292
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POLICYBZR		0.01		614.55		185688
-ANGELONE		-0.45		1314.65		125415
-APLAPOLLO		0.06		1182.7		93851
-HEROMOTOCO		-0.11		2583.15		46096
+
