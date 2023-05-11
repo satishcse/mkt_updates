@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.36		423.8		8002835
-ONGC		0.78		168.25		4009757
-SUNPHARMA		0.26		956.25		470232
-HEROMOTOCO		-0.12		2583.0		82238
-BAJAJ-AUTO		-0.09		4552.0		52979
+ONGC		0.78		168.25		4016995
+SUNPHARMA		0.26		956.25		471290
+HEROMOTOCO		-0.09		2583.7		82510
+BAJAJ-AUTO		-0.09		4552.0		53026
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GODREJIND		0.82		470		319038
+
