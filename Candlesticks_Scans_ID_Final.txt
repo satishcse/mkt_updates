@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.13		420.55		15615174
+TATASTEEL		-0.55		108.65		19407538
+ITC		-1.09		420.7		15699748
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		0.16		897.65		732924
-ANURAS		0.45		1139.45		526811
-PIIND		-1.01		3412.85		221278
+IIFL		-0.95		442.85		407527
+JKLAKSHMI		-0.88		784.0		79418
