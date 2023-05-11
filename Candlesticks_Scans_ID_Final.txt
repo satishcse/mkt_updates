@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-1.47		713.7		939376
-TITAN		0.3		2753.55		403626
+JSWSTEEL		-1.5		713.45		943583
+TITAN		0.3		2753.65		405641
+BAJAJ-AUTO		-0.04		4553.95		214006
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-THERMAX		-0.94		2345.95		8889
+
