@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		0.41		6658.95		141953
-BAJAJ-AUTO		0.14		4562.5		24420
+BAJFINANCE		0.37		6656.2		147249
+BAJAJ-AUTO		0.14		4562.5		24545
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JBCHEPHARM		-0.09		2093.3		716
+
