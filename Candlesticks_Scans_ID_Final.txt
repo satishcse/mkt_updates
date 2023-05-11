@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.38		179.5		6896638
-HINDUNILVR		1.75		2566.95		812843
-BAJAJ-AUTO		-0.06		4553.0		148405
+NTPC		1.38		179.5		6907712
+BPCL		0.47		373.9		998596
+HINDUNILVR		1.74		2566.5		815142
+BAJAJ-AUTO		-0.05		4553.9		150983
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATUL		-0.13		6850		73699
+ATUL		-0.13		6850		73702
