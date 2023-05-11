@@ -8,4 +8,5 @@ NESTLEIND		-0.23		21998.6		44652
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POLYCAB		-0.02		3208.45		460530
