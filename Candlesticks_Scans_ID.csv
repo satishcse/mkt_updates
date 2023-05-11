@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-LT,-5.01,2245.9,7601632
-ONGC,0.63,168.0,5330135
-UPL,0.77,684.9,1423631
-BPCL,0.48,373.95,1022814
+LT,-5.0,2246.25,7608483
+ONGC,0.63,168.0,5335315
+UPL,0.77,684.9,1424610
+SUNPHARMA,0.75,960.95,712150
+EICHERMOT,-0.21,3409.55,242918
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+METROPOLIS,-1.45,1336.05,90681
