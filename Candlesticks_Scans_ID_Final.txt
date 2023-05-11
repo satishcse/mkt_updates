@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.63		168		5514311
-HEROMOTOCO		0.0		2586		201477
+ONGC		0.63		168		5521544
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LALPATHLAB		-2.2		1906.9		261828
+CRISIL		-0.37		3507.0		6624
