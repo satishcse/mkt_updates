@@ -10,7 +10,4 @@ BAJAJ-AUTO		-0.06		4553.2		136619
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAURUSLABS		-4.8		316.6		3183391
-DRREDDY		-6.7		4540.95		2010698
-ATUL		-0.13		6850.0		73546
-ALKEM		-1.73		3523.95		72165
+ATUL		-0.13		6850		73702
