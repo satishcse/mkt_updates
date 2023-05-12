@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.81		165.7		10182592
-NTPC		-2.39		175.25		5400433
-TITAN		0.69		2777.0		356945
-MARUTI		-0.12		9249.7		214083
+ONGC		-0.78		165.75		10200276
+NTPC		-2.42		175.2		5428216
+TITAN		0.69		2777.0		357827
+MARUTI		-0.09		9252.4		214317
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONACOMS		-1.31		540.1		7237257
+SONACOMS		-1.32		540		7245928
