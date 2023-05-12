@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.75		902.65		2977313
-HDFCLIFE		-0.13		566.65		669277
-M&M		0.79		1261.15		519987
+AXISBANK		0.68		902.0		2998178
+HDFCLIFE		-0.13		566.65		670232
+M&M		0.78		1261.0		524743
+TITAN		0.26		2764.9		174900
 
 Bullish_Hammer_15m_N500								 
 ======================= 
