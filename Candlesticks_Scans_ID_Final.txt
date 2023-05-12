@@ -8,4 +8,5 @@ TCS		0.01		3282.5		562183
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAND		-0.07		1383.35		128929
+GLAND		-0.08		1383.25		128951
+GARFIBRES		-1.09		2895.7		4245
