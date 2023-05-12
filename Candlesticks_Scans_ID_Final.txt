@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-3.34		406.8		7071129
-TCS		0.01		3282.5		562183
+HINDALCO		-3.33		406.85		7086421
+TCS		-0.02		3281.5		564133
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GLAND		-0.08		1383.25		128951
-GARFIBRES		-1.09		2895.7		4245
+
