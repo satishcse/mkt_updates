@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.24		107.2		15162845
-NTPC		-1.45		176.95		1816445
-TITAN		0.25		2764.65		166238
+TATASTEEL		-1.29		107.15		15240964
+AXISBANK		0.72		902.4		2809465
+NTPC		-1.42		177.0		1826138
+TITAN		0.24		2764.6		166728
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CIPLA		-0.01		943.5		471766
-UTIAMC		-0.61		650.65		24711
+CIPLA		0		943.6		474928
