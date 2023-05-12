@@ -1,8 +1,7 @@
 
 Nifty_1Hr_OBV_DIV								 
 ================= 
-nsecode		per_chg		close		volume
-TATAMOTORS		0.6		514.65		8932393
+
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,11 +10,11 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-HAVELLS		2.72		1316.95		896253
-POLYCAB		2.39		3312.55		474996
-DELTACORP		2.18		215.2		2253589
-IRCTC		1.04		633.1		788012
-HAL		-2.14		2953.7		547319
+HAVELLS		2.68		1316.4		899739
+POLYCAB		2.43		3314.0		476704
+DELTACORP		2.14		215.1		2259073
+IRCTC		1.04		633.1		790407
+HAL		-2.23		2950.95		550342
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -34,14 +33,13 @@ GODREJPROP		0.14		1341.3		236019
 COLPAL		0.85		1639.95		136575
 NAUKRI		0.59		3910.95		76449
 BALKRISIND		-0.18		2215.55		40546
-JKCEMENT		-0.35		3056.65		26897
+JKCEMENT		-0.35		3056.65		26844
 ATUL		0.27		6935.0		11568
 PAGEIND		0.43		41929.95		3113
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-APOLLOHOSP		0.8		4632.15		235929
+
 
 Open_High								 
 ========= 
@@ -71,8 +69,8 @@ BPCL		-3.21		360.6		1666303
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-GLENMARK		5.27		610.75		4175502
-ASHOKLEY		0.64		149.85		3250677
-BRITANNIA		0.28		4648.2		130496
-DLF		0.17		433.55		1462411
-MGL		-1.8		1059.0		831590
+GLENMARK		5.21		610.4		4184581
+ASHOKLEY		0.64		149.85		3254656
+BRITANNIA		0.36		4651.75		130856
+DLF		0.21		433.7		1464569
+MGL		-1.83		1058.7		834287
