@@ -8,6 +8,3 @@ Bullish_Hammer_15m_N500
 ======================= 
 nsecode		per_chg		close		volume
 JBMA		-0.42		769.45		186692
-SWANENERGY		-0.06		238.0		51096
-ECLERX		-2.0		1315.35		29844
-PATANJALI		-0.81		930.0		27198
