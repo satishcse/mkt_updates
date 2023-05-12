@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.21		1980.45		1669702
-ADANIPORTS		-0.57		704.75		1383821
+TATASTEEL		-1.2		107.25		14226769
+ADANIENT		-0.21		1980.5		1672677
+ADANIPORTS		-0.59		704.65		1392712
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ZFCVINDIA		-1.23		10536.95		920
