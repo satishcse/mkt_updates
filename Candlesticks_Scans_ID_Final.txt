@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.67		678.3		876731
-TITAN		0.25		2764.65		157468
+UPL		-0.67		678.3		877669
+TITAN		0.22		2763.95		157933
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KIMS		-0.5		1495		27591
+KIMS		-0.5		1495		27608
