@@ -2,21 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.51		1181.35		333585
+INDUSINDBK		-0.5		1181.55		343031
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SBICARD		-0.31		863.0		205160
-AAVAS		0.65		1469.55		156265
-RATNAMANI		0.74		2407.1		24924
-TRENT		0.15		1473.6		20804
-MAPMYINDIA		-1.19		1077.4		15659
-INDIGOPNTS		-0.01		1289.65		10597
-COFORGE		-0.12		4119.65		8032
-WHIRLPOOL		0.36		1316.55		2820
-MASTEK		-0.46		1736.35		2489
-VMART		-0.01		2095.45		1506
-MAHLOG		0.53		369.9		1349
-PAGEIND		-0.18		41675.0		821
-BAYERCROP		0.16		4197.95		177
+
