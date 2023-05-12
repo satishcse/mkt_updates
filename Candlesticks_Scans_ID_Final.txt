@@ -1,12 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+DRREDDY		-1.41		4468		940329
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFSL		-2.6		657.35		401272
-BRITANNIA		-0.26		4623.0		282333
-COFORGE		-0.92		4086.9		187530
-BIRLACORPN		-1.24		999.9		134358
+ICICIPRULI		-3.48		434.35		2136983
+TATACOMM		-1.73		1255.35		175555
+SUNDARMFIN		-1.45		2381.5		55019
