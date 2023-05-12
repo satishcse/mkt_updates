@@ -1,8 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		-0.15		235.8		690354
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+QUESS		0.24		390.0		200576
+HEG		-1.48		1197.5		40775
+SUNDARMFIN		-0.38		2407.3		4525
