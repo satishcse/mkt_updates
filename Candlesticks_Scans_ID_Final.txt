@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-3.33		406.85		7086421
-TCS		-0.02		3281.5		564133
+NTPC		-2.42		175.2		5868710
+COALINDIA		-0.17		235.75		1710044
+HCLTECH		1.04		1099.45		1140568
+HEROMOTOCO		0.56		2600.0		449738
 
 Bullish_Hammer_15m_N500								 
 ======================= 
