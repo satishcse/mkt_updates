@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.64		382.2		534230
-BRITANNIA		0.54		4659.95		78226
+ADANIENT		-0.28		1979.1		1663292
+ADANIPORTS		-0.55		704.9		1382549
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SAPPHIRE		0.51		1301.4		6247
-IFBIND		-0.73		819.0		5090
-MRF		0.11		97470.95		1552
+
