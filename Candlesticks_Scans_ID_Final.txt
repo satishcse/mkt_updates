@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.85		1967.75		2628433
-JSWSTEEL		-1.04		703.2		1026325
-M&M		1.01		1264.0		841213
-BAJFINANCE		0.76		6713.9		484728
+INFY		-0.49		1250.0		4156686
+JSWSTEEL		-1.08		702.95		1026665
+M&M		1.03		1264.2		842578
+BAJFINANCE		0.7		6710.0		485509
 
 Bullish_Hammer_15m_N500								 
 ======================= 
