@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.28		575.05		4539572
-BHARTIARTL		0.11		789.5		909219
-HCLTECH		1.0		1098.95		825280
-M&M		0.99		1263.7		818805
-TITAN		0.59		2774.15		270454
+SBIN		0.27		575.0		4550374
+HCLTECH		0.93		1098.25		827413
+M&M		0.99		1263.7		820047
+TITAN		0.61		2774.55		270872
 
 Bullish_Hammer_15m_N500								 
 ======================= 
