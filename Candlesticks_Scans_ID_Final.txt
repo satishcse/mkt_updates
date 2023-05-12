@@ -8,5 +8,6 @@ BRITANNIA		0.82		4673.0		73800
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		-0.59		2151.1		7879
-ZYDUSWELL		-0.21		1527.95		2264
+TATAINVEST		-0.48		2153.55		8171
+SAPPHIRE		-0.21		1292.0		5923
+ZYDUSWELL		-0.2		1528.05		2302
