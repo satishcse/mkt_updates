@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		1.03		1099.3		834361
-M&M		0.98		1263.55		823019
-TITAN		0.6		2774.35		273664
+HCLTECH		1.02		1099.25		835643
+M&M		0.97		1263.4		825369
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GNFC		0.16		624.4		3106404
+
