@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		-0.6		382.35		329161
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJCP		-0.19		980.75		274888
-LUXIND		-0.74		1492.4		7862
+UBL		-0.88		1412.9		49549
+MFL		-0.15		952.45		3620
 SUNDARMFIN		-0.39		2407.15		3102
