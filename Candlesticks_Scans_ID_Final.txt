@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.66		165.95		9957677
-HINDUNILVR		1.8		2638.95		1161075
-JSWSTEEL		-0.89		704.25		1087959
-TECHM		0.56		1049.85		740891
+ONGC		-0.66		165.95		9972407
+HINDUNILVR		1.8		2638.95		1163042
+JSWSTEEL		-0.94		703.95		1088160
+TECHM		0.54		1049.7		742058
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LINDEINDIA		-0.57		3956.95		8379
+
