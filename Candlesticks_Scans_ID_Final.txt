@@ -7,6 +7,4 @@ ADANIPORTS		-0.42		705.85		1445478
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KIMS		-0.39		1496.65		27694
-BAYERCROP		-0.43		4173.1		1473
+
