@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.15		517.5		17076247
+TATAMOTORS		1.3		518.25		17206553
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,11 +11,11 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-POLYCAB		4.06		3366.75		1276726
-DELTACORP		2.56		216.0		5651470
-HAVELLS		1.83		1305.5		1312648
-IRCTC		0.41		629.2		1059859
-HAL		-1.8		2964.0		1219975
+POLYCAB		4.04		3365.9		1285658
+DELTACORP		2.49		215.85		5670152
+HAVELLS		1.76		1304.65		1313135
+IRCTC		0.48		629.6		1061016
+HAL		-1.79		2964.2		1222539
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -24,9 +24,7 @@ ABBOTINDIA		-0.43		21146		12888
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-APOLLOTYRE		0.09		368.95		3920559
-GODREJPROP		0.19		1341.95		368684
+
 
 Open_High								 
 ========= 
@@ -52,6 +50,6 @@ MANAPPURAM		-4.59		110.2		17352348
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-GLENMARK		5.32		611.0		5553469
-DLF		0.82		436.35		2349365
-ASHOKLEY		0.47		149.6		4961488
+GLENMARK		5.31		610.95		5556374
+DLF		0.82		436.35		2352166
+ASHOKLEY		0.5		149.65		4969516
