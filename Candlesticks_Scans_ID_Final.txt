@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.66		106.75		21697017
-NTPC		-2.56		174.95		3899317
-HCLTECH		1.07		1099.7		872370
-BAJFINANCE		0.74		6713.0		489939
+TATASTEEL		-1.75		106.65		21740052
+NTPC		-2.45		175.15		3941682
+BAJFINANCE		0.74		6712.9		490901
+TCS		-0.13		3277.95		438883
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MCX		-0.47		1365.1		126131
