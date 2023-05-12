@@ -5,4 +5,9 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CIPLA		-1.76		927.0		2201193
+SUNPHARMA		-0.53		955.95		1623357
+COFORGE		-0.97		4084.9		184385
+ABBOTINDIA		-0.21		21192.0		13487
+MRF		-0.6		96772.85		5177
