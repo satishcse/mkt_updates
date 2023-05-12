@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASAHIINDIA		-0.04		499.9		40146
-HEG		-1.47		1197.65		39920
-INGERRAND		-0.46		2504.1		3099
-3MINDIA		0.27		23666.1		189
+CLEAN		-0.75		1495		4680
+IFBIND		-0.73		819		2997
