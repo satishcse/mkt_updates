@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.72		165.85		14392494
-POWERGRID		-2.76		241.7		7361073
+BPCL		-3.02		361.3		2751665
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMARAJABAT		0.13		631.0		311712
-PRAJIND		-0.88		355.65		186986
+ZYDUSWELL		-1.02		1515.6		8200
