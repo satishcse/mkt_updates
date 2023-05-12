@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.38		107.05		25113500
-POWERGRID		-2.62		242.05		6958842
-HINDALCO		-3.29		407.0		6639156
-AXISBANK		0.99		904.85		5352869
+POWERGRID		-2.7		241.85		6977924
+HINDALCO		-3.4		406.55		6844615
+AXISBANK		0.97		904.65		5365885
 
 Bullish_Hammer_15m_N500								 
 ======================= 
