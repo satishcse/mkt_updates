@@ -7,5 +7,5 @@ EICHERMOT		5.72		3600		2730277
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HLEGLAS		-0.82		619.95		11300
-MRF		-0.24		97131.1		3487
+HLEGLAS		-0.82		619.95		11218
+MRF		-0.25		97121.0		3513
