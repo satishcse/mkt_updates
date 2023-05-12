@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		1.06		1099.65		850494
-M&M		0.99		1263.7		836779
+ADANIENT		-0.85		1967.75		2628433
+JSWSTEEL		-1.04		703.2		1026325
+M&M		1.01		1264.0		841213
+BAJFINANCE		0.76		6713.9		484728
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATAMOTORS		0.27		513		10621642
+
