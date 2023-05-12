@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.16		1954.85		2506935
+AXISBANK		1.84		912.45		8467226
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRASIM		-1.12		1754.2		228436
-MRF		-0.51		96860.3		4869
+GARFIBRES		-1.56		2881.9		5243
+MRF		-0.52		96854.7		4887
