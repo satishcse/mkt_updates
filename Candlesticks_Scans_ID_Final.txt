@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.01		3282.5		580778
+TCS		-0.03		3281.15		582242
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-0.06		238		52602
-PATANJALI		-0.81		930		23841
+JBMA		-0.42		769.45		186692
+SWANENERGY		-0.06		238.0		51096
+ECLERX		-2.0		1315.35		29844
+PATANJALI		-0.81		930.0		27198
