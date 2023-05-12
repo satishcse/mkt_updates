@@ -10,11 +10,11 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DELTACORP		2.64		216.15		2675511
-HAVELLS		2.52		1314.4		922056
-POLYCAB		2.46		3314.85		487398
-IRCTC		0.94		632.5		805311
-HAL		-2.0		2957.9		564824
+HAVELLS		2.55		1314.7		927677
+DELTACORP		2.47		215.8		2685567
+POLYCAB		2.32		3310.2		487736
+IRCTC		0.95		632.55		808968
+HAL		-2.0		2957.9		566233
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -33,7 +33,8 @@ BANKNIFTY		0.21		43567.35		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+APOLLOTYRE		-0.16		368		2027389
 
 Open_High								 
 ========= 
@@ -62,8 +63,8 @@ BPCL		-3.03		361.25		1759287
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-GLENMARK		5.84		614.05		4376901
-ASHOKLEY		0.64		149.85		3351853
-BRITANNIA		0.32		4649.95		138164
-DLF		0.14		433.4		1481064
-MGL		-2.25		1054.1		854020
+GLENMARK		5.85		614.1		4403748
+ASHOKLEY		0.64		149.85		3354065
+BRITANNIA		0.31		4649.4		138277
+DLF		0.14		433.4		1482741
+MGL		-2.29		1053.75		855703
