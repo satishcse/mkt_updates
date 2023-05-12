@@ -10,11 +10,11 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DELTACORP		2.9		216.7		2652331
-HAVELLS		2.61		1315.5		918954
-POLYCAB		2.47		3315.15		486292
-IRCTC		0.93		632.4		803561
-HAL		-2.0		2958.0		561756
+DELTACORP		2.75		216.4		2668794
+HAVELLS		2.57		1315.0		921152
+POLYCAB		2.47		3315.25		486367
+IRCTC		0.95		632.55		804984
+HAL		-2.04		2956.9		563203
 
 Intraday_Volume_Shocker								 
 ======================= 
