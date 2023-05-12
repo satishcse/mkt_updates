@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.69		1971		3360522
+ADANIENT		-0.75		1969.7		3364719
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-3MINDIA		-0.13		23570.05		8419
+3MINDIA		-0.08		23581.85		8439
