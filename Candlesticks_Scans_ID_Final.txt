@@ -1,13 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TECHM		-0.51		1038.7		189011
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASAHIINDIA		-0.03		499.95		40017
-MFL		-0.15		952.45		3646
-INGERRAND		-0.78		2496.1		3016
-3MINDIA		0.31		23674.6		166
+ASAHIINDIA		-0.04		499.9		40146
+HEG		-1.47		1197.65		39920
+INGERRAND		-0.46		2504.1		3099
+3MINDIA		0.27		23666.1		189
