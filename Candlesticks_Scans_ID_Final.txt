@@ -10,5 +10,7 @@ TITAN		0.23		2764.25		166929
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CIPLA		-0.04		943.2		476363
-MEDPLUS		-2.05		728.2		22468
+CIPLA		-0.01		943.5		477999
+MEDPLUS		-2.02		728.4		22534
+JBCHEPHARM		-1.64		2040.6		17774
+RUSTOMJEE		-0.85		449.9		2089
