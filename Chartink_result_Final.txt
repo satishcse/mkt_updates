@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.38		518.65		6079503
+TATAMOTORS		1.21		517.8		6285756
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,23 +11,27 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DELTACORP		1.76		214.3		1842499
-HAVELLS		1.75		1304.45		540502
-BRITANNIA		0.82		4673.0		73026
-HAL		-1.75		2965.65		350319
+DELTACORP		1.83		214.45		1856158
+HAVELLS		1.75		1304.5		543435
+BRITANNIA		0.8		4672.0		73390
+HAL		-1.8		2964.0		353643
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		0.38		4612.9		175177
-HDFCAMC		-0.29		1833.6		46658
-BANKNIFTY		0.08		43510.3		0
-NIFTY		-0.19		18261.8		0
+PNB		0.0		48.5		7385137
+APOLLOHOSP		0.43		4614.9		175594
+CONCOR		0.37		644.4		152460
+TATACONSUM		-0.48		785.65		129544
+SRF		-0.35		2552.0		56793
+HDFCAMC		-0.36		1832.45		47929
+BANKNIFTY		0.05		43499.05		0
+NIFTY		-0.21		18258.7		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		0.38		4612.9		175177
+APOLLOHOSP		0.32		4609.85		176062
 
 Open_High								 
 ========= 
@@ -64,9 +68,9 @@ ZEEL		-5.52		181.5		10818428
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-GLENMARK		4.81		608.05		2047707
-BRITANNIA		0.82		4673.0		73026
-ASHOKLEY		0.71		149.95		2179023
-DLF		0.68		435.75		806601
-MCX		0.17		1373.85		77936
-MGL		-1.7		1060.1		615880
+GLENMARK		5.42		611.6		2188395
+BRITANNIA		0.82		4673.0		73800
+ASHOKLEY		0.67		149.9		2188407
+DLF		0.6		435.4		817517
+MCX		0.22		1374.55		79196
+MGL		-1.95		1057.4		618763
