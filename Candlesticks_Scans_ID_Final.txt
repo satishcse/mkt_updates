@@ -6,4 +6,6 @@ M&M		1.37		1268.4		1390927
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ALKEM		-1.91		3431.0		83455
+ZFCVINDIA		-3.09		10338.25		3322
