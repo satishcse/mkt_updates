@@ -6,8 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCDOWELL-N		-0.07		795.3		573786
-MFSL		-2.61		657.3		409486
-DIXON		-1.43		2870.15		341075
-BRITANNIA		-0.26		4623.0		286557
-ORIENTELEC		-0.74		220.3		220616
+ICICIPRULI		-3.49		434.3		2209466
+MCDOWELL-N		-0.07		795.3		576673
+DIXON		-1.36		2872.0		343452
