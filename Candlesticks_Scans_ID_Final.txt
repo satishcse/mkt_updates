@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-2.45		175.15		5904572
-HEROMOTOCO		0.56		2600.0		451324
-BRITANNIA		0.44		4655.7		226362
+NTPC		-2.39		175.25		5943279
+JSWSTEEL		-0.82		704.8		1114613
+HEROMOTOCO		0.56		2600.0		452950
+BRITANNIA		0.43		4654.9		227280
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-0.06		238		52200
+SWANENERGY		-0.06		238		52400
