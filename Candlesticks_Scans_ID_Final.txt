@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-2.7		241.85		6977924
-HINDALCO		-3.4		406.55		6844615
-AXISBANK		0.97		904.65		5365885
+POWERGRID		-2.68		241.9		6980615
+HINDALCO		-3.37		406.65		6870868
+AXISBANK		1.0		904.9		5375322
 
 Bullish_Hammer_15m_N500								 
 ======================= 
