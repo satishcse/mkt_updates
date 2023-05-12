@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.18		574.5		3799216
-M&M		0.85		1261.95		654097
-TATACONSUM		0.17		790.8		331346
+SBIN		0.15		574.3		3837541
+M&M		0.83		1261.7		665954
+TATACONSUM		0.02		789.6		334610
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LINDEINDIA		-0.62		3955.1		5666
+
