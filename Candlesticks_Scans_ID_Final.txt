@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.53		382.6		474098
-BRITANNIA		0.7		4667.4		75624
+WIPRO		-0.56		382.5		486088
+BRITANNIA		0.66		4665.75		76170
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		-0.49		2153.45		8175
+TATAINVEST		-0.49		2153.25		8195
 SAPPHIRE		0.02		1294.95		6163
-KSB		-1.68		2135.6		4490
-ZYDUSWELL		-0.2		1528.05		2311
+KSB		-1.68		2135.6		4514

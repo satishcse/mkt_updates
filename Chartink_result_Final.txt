@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.03		516.85		6630238
+TATAMOTORS		1.03		516.85		6650771
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -18,10 +18,15 @@ HAL		-1.91		2960.8		361047
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-FEDERALBNK		-1.41		126.0		4356942
-BAJFINANCE		0.42		6691.3		161122
-BANKNIFTY		0.0		43474.65		0
-NIFTY		-0.25		18250.85		0
+FEDERALBNK		-1.41		126.0		4481353
+ABFRL		0.15		199.75		925104
+BAJAJFINSV		0.08		1421.6		360301
+IRCTC		0.69		630.95		232018
+BAJFINANCE		0.69		6709.15		176781
+TORNTPHARM		0.24		1659.4		36465
+WHIRLPOOL		1.02		1325.2		16834
+BANKNIFTY		-0.01		43472.55		0
+NIFTY		-0.25		18250.8		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
