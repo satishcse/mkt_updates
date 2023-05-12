@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-TATAMOTORS,1.54,519.5,4900993
+TATAMOTORS,1.39,518.7,5249326
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
@@ -11,10 +11,10 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-DELTACORP,1.78,214.35,1826118
-HAVELLS,1.74,1304.35,496569
-BRITANNIA,0.82,4673.0,66335
-HAL,-1.88,2961.5,329732
+HAVELLS,1.94,1306.9,513571
+DELTACORP,1.85,214.5,1829378
+BRITANNIA,0.76,4670.2,67404
+HAL,-1.96,2959.1,333777
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -36,7 +36,8 @@ BANKNIFTY,-0.08,43438.4,0
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-HINDPETRO,0.12,258.7,899866
+TATAMOTORS,1.39,518.7,5249326
+HINDPETRO,0.31,259.2,907274
 
 Open_High,,,, 
 ========= 
@@ -74,9 +75,9 @@ ZEEL,-5.08,182.35,10173318
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-GLENMARK,4.63,607.0,1914418
-BRITANNIA,0.82,4673.0,66335
-ASHOKLEY,0.77,150.05,2065884
-DLF,0.64,435.55,782931
-MCX,0.45,1377.7,75394
-MGL,-2.09,1055.85,592678
+GLENMARK,4.46,606.05,1936985
+ASHOKLEY,0.84,150.15,2075373
+BRITANNIA,0.76,4670.2,67404
+DLF,0.61,435.45,784349
+MCX,0.23,1374.7,75806
+MGL,-2.12,1055.55,597013
