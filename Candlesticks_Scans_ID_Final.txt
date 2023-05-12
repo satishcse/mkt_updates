@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.78		165.75		10278700
-NTPC		-2.48		175.1		5520286
-MARUTI		-0.19		9243.3		216494
+TATASTEEL		-1.38		107.05		25067382
+HINDALCO		-3.22		407.3		6508193
+AXISBANK		1.0		904.95		5346237
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BOSCHLTD		-3.09		18871.85		30265
+
