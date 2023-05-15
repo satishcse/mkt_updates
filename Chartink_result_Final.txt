@@ -18,12 +18,15 @@ NAVINFLUOR		-1.06		4697.45		661302
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ONGC		0.6		166.5		4002523
-TATACOMM		0.73		1263.25		116836
-RAMCOCEM		0.44		772.2		43062
-ALKEM		0.27		3418.0		33092
+ONGC		0.6		166.5		4049517
+GAIL		1.43		109.6		2262992
+JUBLFOOD		0.56		469.95		1096571
+HAVELLS		0.13		1307.6		222117
+COFORGE		1.36		4141.15		57143
+ESCORTS		-0.19		2058.7		46131
+ALKEM		0.27		3418.0		38442
 BANKNIFTY		0.57		44042.55		0
-NIFTY		0.56		18417.55		0
+NIFTY		0.56		18417.6		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -32,13 +35,13 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-UBL		-0.22		1409.0		30970
-RAIN		-0.67		148.85		862562
-DEEPAKNTR		-0.8		1918.0		133074
-MARICO		-1.13		535.4		600925
-APOLLOTYRE		-1.64		362.0		1639872
-POLYCAB		-1.77		3328.85		458446
-CIPLA		-2.39		915.0		3286345
+UBL		-0.16		1409.8		31385
+RAIN		-0.67		148.85		863816
+DEEPAKNTR		-0.8		1918.0		133500
+MARICO		-1.11		535.5		608589
+APOLLOTYRE		-1.66		361.95		1644189
+POLYCAB		-1.74		3329.95		459112
+CIPLA		-2.43		914.7		3306551
 
 Open_Low								 
 ======== 
