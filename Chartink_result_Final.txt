@@ -10,23 +10,29 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		2.03		1354.45		113027
-SBIN		0.64		581.85		8907069
-HINDPETRO		-0.35		259.85		3656288
-NAVINFLUOR		-1.4		4681.55		799004
-LALPATHLAB		-1.63		2007.7		423479
+WHIRLPOOL		1.94		1353.25		113241
+SBIN		0.61		581.65		8924418
+HINDPETRO		-0.38		259.75		3664085
+NAVINFLUOR		-1.33		4684.95		801848
+LALPATHLAB		-1.56		2009.0		423582
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-TATASTEEL		1.03		107.85		17773048
-CUB		1.99		140.95		1107945
-GRANULES		-1.67		291.15		678419
+TATASTEEL		1.03		107.85		17781453
+SAIL		1.2		84.05		5643153
+GNFC		2.19		634.3		1221097
+CUB		2.06		141.05		1123617
+AUBANK		0.58		717.1		1088909
+GRANULES		-1.86		290.6		691629
+CONCOR		1.34		646.8		395532
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-BALKRISIND		1.25		2221.55		102123
+ABCAPITAL		1.41		165.55		2799707
+SBILIFE		0.39		1191.7		441986
+BALKRISIND		1.27		2222.0		104598
 
 Open_High								 
 ========= 
