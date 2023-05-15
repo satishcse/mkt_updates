@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,0.87,243.85,7649511
-AXISBANK,0.8,917.9,6060784
-TITAN,0.46,2786.05,652109
+POWERGRID,0.89,243.9,7692871
+NTPC,0.51,175.85,6899149
+AXISBANK,0.76,917.6,6084942
+UPL,-0.24,676.6,2030211
+TITAN,0.49,2786.9,654766
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PIDILITIND,-1.12,2558.2,191786
+MANYAVAR,-1.24,1258.55,39364
+IFBIND,-0.53,813.9,8241
