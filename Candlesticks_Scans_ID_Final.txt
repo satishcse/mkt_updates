@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.57		696.0		1544257
-KOTAKBANK		0.5		1970.45		1509272
-BAJAJ-AUTO		0.92		4580.5		184144
+ADANIPORTS		-0.54		696.2		1545468
+KOTAKBANK		0.5		1970.45		1511349
+BAJAJ-AUTO		0.89		4579.4		194854
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AEGISCHEM		-3.32		365.1		752642
-KAJARIACER		-1.27		1160.0		76140
+AEGISCHEM		-3.34		365.05		752784
+KAJARIACER		-1.27		1160.0		76588
