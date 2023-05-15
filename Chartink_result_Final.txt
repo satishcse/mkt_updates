@@ -10,10 +10,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-SBIN		0.72		582.3		7457278
-HINDPETRO		-0.29		260.0		3232037
-LALPATHLAB		-1.38		2012.8		392563
-NAVINFLUOR		-1.79		4663.0		723253
+SBIN		0.71		582.25		7503423
+HINDPETRO		-0.23		260.15		3239450
+LALPATHLAB		-1.22		2016.05		394014
+NAVINFLUOR		-1.72		4666.5		723793
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -60,16 +60,7 @@ BANKNIFTY		0.54		44030.35		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-ASHOKLEY		1.97		152.7		7142963
-IDFC		1.0		90.55		2855348
-HINDCOPPER		2.01		104.15		2774654
-HDFC		0.33		2785.35		1601894
-COLPAL		3.71		1688.15		1204203
-CANFINHOME		1.69		654.5		404166
-BAJAJ-AUTO		1.02		4585.0		261562
-TATACOMM		0.51		1260.4		210786
-LTTS		1.11		3855.0		101251
+
 
 Open_High								 
 ========= 
