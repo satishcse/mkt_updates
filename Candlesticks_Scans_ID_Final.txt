@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.03		107.85		15353209
-SUNPHARMA		-0.5		951.2		801425
-DRREDDY		1.15		4517.25		191963
+SUNPHARMA		-0.49		951.3		805041
+DRREDDY		1.13		4516.65		192146
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		0.03		21799.95		17889
+GRASIM		-0.56		1744		244905
+NESTLEIND		0.01		21797		17930
