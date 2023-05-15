@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.08		107.9		17050322
-POWERGRID		0.35		242.6		6709480
-BPCL		-1.12		357.85		1465136
-HINDUNILVR		1.68		2667.5		955667
+TATAMOTORS		2.9		530.9		30257310
+POWERGRID		0.33		242.55		6718175
+BPCL		-1.12		357.85		1470814
+HINDUNILVR		1.64		2666.5		957542
+DIVISLAB		-1.14		3277.1		249116
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CEATLTD		-4.86		1775		237243
