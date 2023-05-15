@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.83		428.15		7049714
-TITAN		0.49		2786.7		637541
-SBILIFE		0.3		1190.65		455953
-BAJAJ-AUTO		0.9		4579.95		432472
+POWERGRID		0.89		243.9		7501735
+ITC		1.65		427.4		7188910
+TITAN		0.49		2786.75		640713
+SBILIFE		0.37		1191.4		458894
+BAJAJ-AUTO		0.86		4578.15		434033
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINEORG		-0.95		4456.85		16031
+FINEORG		-0.92		4458.25		16205
