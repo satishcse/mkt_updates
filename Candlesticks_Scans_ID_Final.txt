@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.53		1971.0		1471439
-TECHM		2.04		1067.65		1163802
-UPL		0.04		678.45		992780
-SUNPHARMA		-0.5		951.2		810529
-APOLLOHOSP		1.19		4660.0		224794
-BAJAJ-AUTO		0.98		4583.2		181381
+TATASTEEL		1.08		107.9		15550983
+KOTAKBANK		0.58		1971.95		1477908
+BAJAJ-AUTO		0.98		4583.2		181518
 
 Bullish_Hammer_15m_N500								 
 ======================= 
