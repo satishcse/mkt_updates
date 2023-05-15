@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.12		800.8		4990612
-CIPLA		-2.44		914.6		3846258
-LT		1.35		2251.0		1528126
-NESTLEIND		0.0		21794.4		20973
+BHARTIARTL		1.17		801.2		5497816
+LT		1.35		2251.0		1529787
+BAJFINANCE		0.15		6724.65		425911
+NESTLEIND		-0.02		21790.0		20983
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHREECEM		-0.14		24715.9		8847
+SHREECEM		-0.15		24714.65		8852
