@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.71		582.25		8745823
-NTPC		0.54		175.9		6408704
-INFY		1.73		1266.8		3747210
-M&M		0.63		1284.05		1730273
+SBIN		0.58		581.5		8836567
+INFY		1.63		1265.5		3785849
+M&M		0.64		1284.15		1740836
+TATACONSUM		0.16		790.35		597184
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINDWELL		-1		1970.25		24706
+GRINDWELL		-0.86		1973.05		24857
+ABBOTINDIA		0.2		21271.6		6962
