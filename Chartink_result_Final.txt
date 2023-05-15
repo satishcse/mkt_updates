@@ -19,24 +19,26 @@ NAVINFLUOR		-1.75		4665.0		765942
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		-1.71		3875.0		144493
-BANKNIFTY		0.76		44127.4		0
+ASTRAL		1.06		1590.1		738496
+VOLTAS		0.35		811.85		245939
+ABB		-1.71		3875.05		145088
+COFORGE		1.13		4132.0		85701
+BANKNIFTY		0.79		44138.25		0
+NIFTY		0.73		18448.55		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-M&MFIN		0.76		283.95		1887825
-CHAMBLFERT		0.48		291.45		536827
-SBILIFE		0.26		1190.1		302732
+ASTRAL		1.06		1590.1		738496
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		-0.34		1927.0		169299
-MARICO		-0.69		537.75		924613
-POLYCAB		-1.2		3348.4		560734
-APOLLOTYRE		-1.49		362.55		2354821
-CIPLA		-2.36		915.35		4352890
+DEEPAKNTR		-0.34		1927.0		169392
+MARICO		-0.62		538.15		929039
+POLYCAB		-1.21		3348.0		567720
+APOLLOTYRE		-1.52		362.45		2359736
+CIPLA		-2.35		915.45		4364536
 
 Open_Low								 
 ======== 
