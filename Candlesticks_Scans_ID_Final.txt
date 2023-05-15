@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.63		176.05		3457408
-AXISBANK		0.7		917.05		3176651
-KOTAKBANK		0.22		1965.0		1249328
-UPL		0.21		679.65		891653
-SBILIFE		0.57		1193.8		129519
+COALINDIA		1.26		238.0		2149624
+WIPRO		0.85		386.5		929084
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ALKYLAMINE		-1.11		2512.6		11906
