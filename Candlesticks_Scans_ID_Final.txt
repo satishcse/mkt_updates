@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.94		107.75		17928578
-SBIN		0.47		580.85		8983389
-M&M		0.55		1283.0		1825996
-TATACONSUM		0.01		789.15		602956
+TATASTEEL		0.94		107.75		17954436
+SBIN		0.45		580.75		9008221
+M&M		0.54		1282.8		1832450
+TATACONSUM		0.04		789.35		604448
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABBOTINDIA		0.17		21266.35		7309
+PIIND		-0.86		3372.0		197491
+ABBOTINDIA		0.26		21284.95		7371
