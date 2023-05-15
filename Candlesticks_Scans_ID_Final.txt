@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.22		801.65		5886903
-ONGC		0.54		166.4		5305378
-ITC		1.46		426.6		4967689
-ADANIPORTS		-0.4		697.2		1678227
-UPL		-0.19		676.9		1264180
-NESTLEIND		0.02		21798.85		21490
+BHARTIARTL		1.21		801.5		5890698
+ONGC		0.51		166.35		5313922
+ITC		1.51		426.8		4986436
+ADANIPORTS		-0.41		697.15		1688313
+UPL		-0.18		676.95		1272121
+NESTLEIND		0.02		21797.75		21522
 
 Bullish_Hammer_15m_N500								 
 ======================= 
