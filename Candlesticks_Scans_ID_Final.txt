@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		0.76		386.15		2503009
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CEATLTD		-4.92		1774.0		349025
-RATNAMANI		0.28		2362.4		58835
+TCIEXP		-1.05		1496		11445
