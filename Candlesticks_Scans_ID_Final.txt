@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.49		951.3		805041
-DRREDDY		1.13		4516.65		192146
+TATASTEEL		1.08		107.9		15389471
+KOTAKBANK		0.57		1971.8		1458385
+APOLLOHOSP		1.29		4664.6		223857
+BAJAJ-AUTO		1.01		4584.95		180638
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GRASIM		-0.56		1744		244905
-NESTLEIND		0.01		21797		17930
+
