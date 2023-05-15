@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.08		107.9		17015511
-NTPC		0.91		176.55		5666207
-BAJAJ-AUTO		0.91		4580.1		319966
-NESTLEIND		-0.06		21782.0		50126
+TATASTEEL		1.08		107.9		17032230
+BPCL		-1.09		357.95		1463975
+HINDUNILVR		1.69		2667.85		953761
 
 Bullish_Hammer_15m_N500								 
 ======================= 
