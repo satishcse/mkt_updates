@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.89,176.5,5415029
-UPL,-0.18,677.0,1354812
-HCLTECH,0.83,1104.55,684961
+NTPC,0.91,176.55,5440486
+UPL,-0.18,676.95,1360467
+SUNPHARMA,-0.42,952.0,1072924
+HCLTECH,0.86,1104.9,689583
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-LINDEINDIA,0.2,3969,5505
+PIDILITIND,-0.72,2568.75,128680
+LINDEINDIA,0.35,3975.0,5912
