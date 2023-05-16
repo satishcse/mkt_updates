@@ -1,8 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-0.33		107.35		17585435
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJ-AUTO		-0.6		4537.0		283924
+RATNAMANI		-0.96		2329.9		50343
+GRINFRA		-0.9		1065.5		22376
+ZFCVINDIA		-1.79		10411.85		4356
