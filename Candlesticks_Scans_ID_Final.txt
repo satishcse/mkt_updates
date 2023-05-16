@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.45		168.0		8516770
-COALINDIA		1.51		241.3		4549212
-INDUSINDBK		0.25		1222.65		1824693
-MARUTI		-0.83		9130.45		316746
+ONGC		1.42		167.95		8541752
+COALINDIA		1.51		241.3		4554334
+INDUSINDBK		0.27		1222.9		1826103
+APOLLOHOSP		-0.81		4588.5		194637
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TEJASNET		0.04		667.45		146892
+NESTLEIND		-0.15		21754.85		51628
