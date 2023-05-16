@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		1.47		241.2		4281901
+LT		-0.24		2241.35		1347678
+BRITANNIA		0.44		4651.1		139125
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.27		2684.65		470814
 IFBIND		0.25		816.4		17450
