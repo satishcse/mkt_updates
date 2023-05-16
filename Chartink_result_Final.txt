@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.73		1431.75		634037
+BAJAJFINSV		0.78		1432.5		637389
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,21 +11,21 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-MANAPPURAM		5.95		116.7		17543640
-AUROPHARMA		3.41		634.55		1446806
-L&TFH		1.73		99.85		5782284
-JUBLFOOD		1.38		475.5		2054138
-PFC		1.37		173.5		2383468
-IOC		1.37		85.35		8832261
-BAJFINANCE		1.28		6797.9		399857
-MFSL		1.27		680.4		360649
-SUNTV		0.81		452.45		125851
-VOLTAS		0.64		815.5		117051
-MCDOWELL-N		0.54		810.0		111248
-DABUR		0.36		534.95		390618
-BAJAJ-AUTO		0.31		4578.9		29454
-ITC		-0.32		426.45		1786121
-MCX		-0.43		1376.3		51456
+MANAPPURAM		6.45		117.25		18375027
+AUROPHARMA		3.26		633.65		1468047
+L&TFH		1.83		99.95		5816531
+MFSL		1.5		681.95		365857
+JUBLFOOD		1.42		475.7		2058758
+PFC		1.37		173.5		2412888
+BAJFINANCE		1.36		6803.7		405277
+IOC		1.25		85.25		8853389
+SUNTV		0.81		452.45		127269
+VOLTAS		0.56		814.9		118427
+MCDOWELL-N		0.42		809.0		118352
+DABUR		0.36		534.95		392597
+BAJAJ-AUTO		0.33		4579.7		29782
+ITC		-0.36		426.25		1795494
+MCX		-0.43		1376.35		51703
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -33,7 +33,8 @@ Intraday_Volume_Shocker
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+BHARATFORG		0.39		769.75		261690
 
 Open_High								 
 ========= 
