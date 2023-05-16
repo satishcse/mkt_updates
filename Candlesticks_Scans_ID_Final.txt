@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.17		175.65		1729972
+NTPC		-0.17		175.65		1736131
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 CARBORUNIV		-0.49		1138.75		82668
-RAYMOND		-0.87		1587.0		31564
+RAYMOND		-0.87		1587.0		31565
