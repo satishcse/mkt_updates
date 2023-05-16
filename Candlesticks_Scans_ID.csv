@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-0.68,241.6,5847133
-HINDALCO,0.97,414.7,3386483
-HDFCLIFE,0.43,561.7,2389854
+ICICIBANK,0.42,949.75,17192132
+TATASTEEL,0.05,107.75,14769395
+HDFCBANK,-1.47,1651.1,14125665
+POWERGRID,-0.68,241.6,5852398
+HINDALCO,0.96,414.65,3393170
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-PGHH,-0.85,13857.4,3056
+PGHH,-0.88,13853.85,3070
