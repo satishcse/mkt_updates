@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.19		107.5		11184341
-TITAN		0.36		2789.55		310356
+BHARTIARTL		-0.58		792.45		2620597
+ADANIENT		-0.13		1913.5		1579004
+WIPRO		0.36		387.15		1102620
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ACC		-0.46		1791.55		111420
+
