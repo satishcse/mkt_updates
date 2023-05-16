@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.83		4587.45		137472
+APOLLOHOSP		-0.84		4587		137913
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AJANTPHARM		-0.52		1264		106497
+DMART		-0.98		3488.8		240977
+AJANTPHARM		-0.52		1264.0		106497
+RATNAMANI		-0.37		2343.95		43459
+INDIGOPNTS		-1.03		1318.0		34723
