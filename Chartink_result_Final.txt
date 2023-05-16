@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.78		1432.4		828165
+BAJAJFINSV		0.87		1433.75		831505
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -65,25 +65,21 @@ NIFTY		-0.11		18379.15		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-BSOFT		4.73		323.2		4794549
-NMDC		0.14		106.9		1784359
-ZYDUSLIFE		0.11		518.3		198121
-PIIND		-0.17		3365.05		120661
-ALKEM		0.61		3446.5		104912
+CROMPTON		0.61		255.95		632398
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-BANKNIFTY		-0.03		44059.5		0
-ICICIGI		-0.04		1118.75		118781
-NIFTY		-0.11		18379.15		0
-TATACOMM		-0.14		1252.95		69514
-NTPC		-0.14		175.7		1646623
-MCX		-0.5		1375.3		75315
-KOTAKBANK		-0.54		1962.4		1453316
-ITC		-0.54		425.5		2676356
-CUB		-0.99		139.95		2520296
-HDFCBANK		-1.09		1657.6		5633738
+ICICIGI		0.0		1119.2		119002
+BANKNIFTY		-0.03		44056.85		0
+NIFTY		-0.11		18378.35		0
+TATACOMM		-0.14		1253.0		70979
+NTPC		-0.17		175.65		1652437
+MCX		-0.52		1375.0		75479
+ITC		-0.53		425.55		2684476
+KOTAKBANK		-0.57		1961.75		1463901
+CUB		-1.03		139.9		2522199
+HDFCBANK		-1.1		1657.4		5643014
 
 Open_Low								 
 ======== 
