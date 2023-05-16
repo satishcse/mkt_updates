@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.92		1434.4		1016594
+BAJAJFINSV		0.93		1434.5		1017721
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -31,12 +31,24 @@ SUNTV		-0.69		445.7		247433
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.43		793.65		2511004
-IGL		-0.98		488.45		1332619
+RECLTD		-0.77		135.3		7754323
+RBLBANK		-1.05		150.85		4152599
+BHARTIARTL		-0.45		793.5		2521913
+CIPLA		0.75		929.7		1829026
+DELTACORP		1.18		226.6		1455361
+IGL		-1.01		488.3		1361222
+ADANIPORTS		0.03		694.25		677169
+GLENMARK		0.9		613.4		367697
+MUTHOOTFIN		0.02		1068.9		283796
+SYNGENE		-0.32		696.95		159104
+DALBHARAT		0.12		2074.85		150113
+DRREDDY		0.13		4524.55		130167
+OFSS		0.46		3552.35		30019
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+RECLTD		-0.77		135.3		7754323
 
 Open_High								 
 ========= 
