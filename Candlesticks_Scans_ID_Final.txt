@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.16		1191.35		707591
-BAJAJ-AUTO		0.34		4580.0		202740
+INDUSINDBK		0.34		1223.75		1945762
+UPL		-0.15		674.95		1378459
+SBILIFE		0.16		1191.35		708386
+BAJAJ-AUTO		0.3		4578.1		202982
+BRITANNIA		0.4		4649.2		179336
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LODHA		-0.68		999.05		481443
+
