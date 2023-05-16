@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.4		919.45		6788291
-BHARTIARTL		-0.72		791.35		2806325
-WIPRO		0.26		386.75		1126582
-BAJAJ-AUTO		0.45		4585.05		175900
+AXISBANK		0.37		919.15		6798976
+BHARTIARTL		-0.77		790.9		2809917
+WIPRO		0.29		386.85		1127836
+BAJAJ-AUTO		0.45		4585.05		175938
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PATANJALI		-0.83		945		44950
+
