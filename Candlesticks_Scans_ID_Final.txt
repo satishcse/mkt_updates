@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.34		949		4557360
+TATASTEEL		-0.09		107.6		6869426
+ICICIBANK		0.27		948.3		4589001
+SBILIFE		0.04		1189.9		216110
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INGERRAND		-0.07		2486.15		6973
+
