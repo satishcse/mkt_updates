@@ -10,4 +10,5 @@ JSWSTEEL		-0.45		702.35		624685
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MEDPLUS		-1.12		719.25		20256
