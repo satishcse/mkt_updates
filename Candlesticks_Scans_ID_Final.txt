@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.0		107.7		13609169
-BHARTIARTL		-0.93		789.6		3681092
-ADANIPORTS		-0.14		693.1		900603
-SBILIFE		-0.12		1188.0		729754
-JSWSTEEL		-0.55		701.7		627755
+TATASTEEL		0.0		107.7		13644894
+BHARTIARTL		-0.9		789.9		3684872
+ADANIPORTS		-0.09		693.4		901288
+SBILIFE		-0.08		1188.55		733439
+JSWSTEEL		-0.52		701.85		628870
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TATACOMM		-0.75		1245.35		226845
