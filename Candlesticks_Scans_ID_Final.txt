@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.44		2791.9		384161
+ONGC		1.45		168.0		8765036
+POWERGRID		-1.03		240.75		5223638
+SBILIFE		0.17		1191.45		702971
 
 Bullish_Hammer_15m_N500								 
 ======================= 
