@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.32		948.75		16147021
+ICICIBANK		0.3		948.55		16177522
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JUBLINGREA		-4.46		402.35		913901
-BSE		-0.41		543.55		429524
+
