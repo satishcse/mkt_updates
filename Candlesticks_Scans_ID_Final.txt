@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.05		559.6		2788455
-TCS		0.0		3255.2		895435
+HDFCLIFE		0.04		559.5		2793742
+TCS		-0.02		3254.3		901677
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		0.31		1483.4		125025
-CLEAN		-0.35		1530.0		67835
-PFIZER		0.08		3822.0		31599
+PHOENIXLTD		0.33		1483.7		126138
+CLEAN		-0.3		1530.85		67929
+PFIZER		0.16		3825.0		31705
+ATUL		-0.72		6828.45		23743
+LAXMIMACH		-0.95		11348.8		8336
