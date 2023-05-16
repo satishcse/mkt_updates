@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		0.35		4647.25		62784
+BRITANNIA		0.33		4646.2		62965
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JUSTDIAL		-0.7		696.1		88164
+BATAINDIA		-0.06		1540.2		55770
