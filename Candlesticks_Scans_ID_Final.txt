@@ -7,4 +7,6 @@ WIPRO		0.47		387.55		750259
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KIMS		0.25		1534.05		10957
+HGS		-0.15		1151.95		6889
