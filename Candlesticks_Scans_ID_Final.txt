@@ -8,6 +8,5 @@ AXISBANK		0.09		916.65		1728894
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AJANTPHARM		-0.1		1269.25		60459
-JUSTDIAL		0.28		702.95		55304
-ENDURANCE		-1.02		1385.4		8234
+AJANTPHARM		-0.09		1269.45		60561
+JUSTDIAL		0.31		703.15		55517
