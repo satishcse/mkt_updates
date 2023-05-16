@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.03		559.45		2773357
-TCS		0.16		3260.1		805577
+HDFCLIFE		0.04		559.55		2785454
+TCS		0.14		3259.6		890448
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZENSARTECH		-7.93		353.7		8814039
-CANFINHOME		0.17		660.1		636144
-SUNTECK		-0.31		308.7		127636
-CLEAN		-0.31		1530.7		67598
-ATUL		-0.88		6817.25		21050
-BAJAJHLDNG		-0.78		6648.1		21040
+ZENSARTECH		-7.85		354.0		8834663
+CANFINHOME		0.17		660.05		636507
+PHOENIXLTD		0.38		1484.4		124162
+CLEAN		-0.28		1531.1		67673
+PFIZER		0.08		3822.0		31521
+ATUL		-0.87		6818.0		21842
