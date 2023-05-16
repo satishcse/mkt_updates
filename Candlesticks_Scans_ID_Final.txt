@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.78		1432.45		823501
+BAJAJFINSV		0.78		1432.4		828165
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-0.09		1539.85		55939
-TMB		0.27		422.5		9154
+CENTURYPLY		-1.19		570.0		93008
+BATAINDIA		-0.09		1539.85		55984
