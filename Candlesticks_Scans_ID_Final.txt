@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.04		1658.45		6897352
-KOTAKBANK		-0.71		1959.05		1929787
+HDFCBANK		-1.04		1658.4		6903890
+KOTAKBANK		-0.7		1959.15		1939064
+BAJAJ-AUTO		0.57		4590.6		139510
 
 Bullish_Hammer_15m_N500								 
 ======================= 
