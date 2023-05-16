@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.74		413.75		2381988
-APOLLOHOSP		-0.85		4586.5		136606
+APOLLOHOSP		-0.85		4586.45		136793
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JUSTDIAL		-0.76		695.7		114465
+
