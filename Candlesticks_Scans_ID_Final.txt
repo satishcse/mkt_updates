@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.05		107.75		14726660
-ONGC		1.51		168.1		10264257
-POWERGRID		-0.66		241.65		5828426
-HINDALCO		0.94		414.55		3359114
+POWERGRID		-0.68		241.6		5847133
+HINDALCO		0.97		414.7		3386483
+HDFCLIFE		0.43		561.7		2389854
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PGHH		-0.85		13857.4		3056
