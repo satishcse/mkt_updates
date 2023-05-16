@@ -1,14 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.23		107.45		18034210
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEVYANI		-0.63		182.2		1905838
-CYIENT		-3.27		1230.05		602312
-BSE		-1.18		539.35		552798
-AFFLE		-1.23		910.1		240711
-CCL		-2.25		592.85		109346
+TATAMTRDVR		-1.56		267.5		3683870
+CYIENT		-3.27		1230.05		603788
+BSE		-1.17		539.4		556677
+JUBLPHARMA		-3.37		337.4		250681
+AFFLE		-1.23		910.05		241642
+KEI		0.19		2007.0		236015
+INDIAMART		-1.71		5854.0		73344
+INDIGOPNTS		-1.19		1315.9		56377
