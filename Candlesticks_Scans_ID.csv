@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,1.39,167.9,8550925
-COALINDIA,1.47,241.2,4571552
-INDUSINDBK,0.28,1223.0,1829556
-APOLLOHOSP,-0.79,4589.45,194921
+ONGC,1.45,168.0,8558363
+NTPC,0.99,177.7,5155277
+COALINDIA,1.39,241.0,4591952
+INDUSINDBK,0.32,1223.45,1831880
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TEJASNET,0.03,667.4,146997
+NESTLEIND,-0.14,21755.9,51926
