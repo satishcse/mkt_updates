@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,-0.14,107.55,6909382
-ICICIBANK,0.29,948.45,4646206
-SBILIFE,-0.05,1188.85,216683
+TATASTEEL,-0.09,107.6,6923480
+ICICIBANK,0.29,948.45,4688993
+SBILIFE,0.0,1189.45,217179
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-LINDEINDIA,-0.05,3957.9,4307
+SOLARINDS,-0.25,3736.7,5353
+LINDEINDIA,-0.02,3959.0,4357
