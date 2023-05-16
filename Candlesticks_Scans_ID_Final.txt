@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-0.26		1096.85		709382
+TATASTEEL		-0.19		107.5		10981094
+INFY		0.85		1269.0		3139079
+POWERGRID		-1.13		240.5		2464283
+RELIANCE		-0.71		2471.5		2073907
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PRAJIND		-0.68		351.0		171579
-METROPOLIS		-2.06		1316.4		124488
-HAPPSTMNDS		0.65		869.95		122014
+
