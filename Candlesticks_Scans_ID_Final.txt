@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.21		917.7		3340658
-COALINDIA		0.84		239.7		3006190
-WIPRO		0.48		387.6		738482
-M&M		-0.92		1273.8		481451
-TITAN		0.4		2790.75		216712
+AXISBANK		0.21		917.7		3345071
+COALINDIA		0.86		239.75		3008148
+WIPRO		0.48		387.6		740939
+TITAN		0.39		2790.4		217385
 
 Bullish_Hammer_15m_N500								 
 ======================= 
