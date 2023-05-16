@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MEDANTA		0.89		567.55		103548
-CHEMPLASTS		-0.88		432.4		25619
-SUPREMEIND		0.3		2796.0		5506
+HCLTECH		-0.04		1099.3		206807
+CUMMINSIND		-0.02		1648.8		26729
+CHEMPLASTS		-0.87		432.45		25836
+SUPREMEIND		0.3		2795.95		5603
