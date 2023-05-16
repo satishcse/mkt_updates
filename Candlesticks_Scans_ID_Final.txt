@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.06		1658.0		6567064
-BAJFINANCE		1.55		6816.35		640890
+BAJFINANCE		1.56		6817.3		642666
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAND		0.07		1371.4		72497
-TEAMLEASE		0.02		2246.45		13014
+BATAINDIA		-0.22		1537.8		63050
+TEAMLEASE		0.19		2250.2		13311
+SHREECEM		-0.58		24450.0		5354
