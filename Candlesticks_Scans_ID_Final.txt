@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.28		107.4		11096652
-POWERGRID		-1.15		240.45		2571477
-UPL		-0.24		674.3		1090482
-TITAN		0.25		2786.4		307136
+TATASTEEL		-0.28		107.4		11126848
+POWERGRID		-1.13		240.5		2580112
+UPL		-0.31		673.85		1092719
+TITAN		0.3		2787.85		307589
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+SONACOMS		0.19		547.65		1914819
 LAXMIMACH		0.16		11475.7		5128
