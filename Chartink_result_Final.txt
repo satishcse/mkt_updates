@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.82		1433		1052599
+BAJAJFINSV		0.89		1434		1054656
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -31,28 +31,34 @@ SUNTV		-0.96		444.5		258697
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-MOTHERSON		0.51		79.05		4732647
-JSWSTEEL		-0.59		701.4		521657
-UBL		1.57		1445.0		99912
-ABBOTINDIA		-0.6		21100.5		4350
+MOTHERSON		0.51		79.05		4736243
+BIOCON		0.2		248.45		740502
+JSWSTEEL		-0.62		701.15		533375
+IRCTC		0.06		632.7		377489
+SRF		0.54		2544.75		157717
+PIIND		-0.12		3366.7		150254
+DIXON		-0.44		2925.0		110728
+UBL		1.53		1444.3		100517
+ABBOTINDIA		-0.51		21119.6		4358
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-PIIND		-0.38		3357.75		147682
+SRF		0.44		2542.05		157323
+PIIND		-0.41		3357.0		150090
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-ICICIGI		0.08		1120.15		189675
-TATACOMM		-0.18		1252.45		160233
-BANKNIFTY		-0.19		43988.7		0
-NIFTY		-0.23		18355.8		0
-MCX		-0.52		1375.05		91572
-ITC		-0.56		425.4		3748225
-KOTAKBANK		-0.94		1954.4		2337791
-CUB		-1.31		139.5		2726398
-HDFCBANK		-1.38		1652.6		9016231
+ICICIGI		0.1		1120.35		189732
+BANKNIFTY		-0.2		43981.8		0
+TATACOMM		-0.22		1252.05		160384
+NIFTY		-0.25		18352.3		0
+MCX		-0.52		1375.0		91658
+ITC		-0.54		425.5		3753336
+KOTAKBANK		-1.01		1953.05		2346832
+CUB		-1.41		139.35		2727314
+HDFCBANK		-1.42		1652.05		9075507
 
 Open_Low								 
 ======== 
