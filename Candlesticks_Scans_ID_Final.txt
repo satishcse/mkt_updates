@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-AXISBANK		0.39		919.35		6818906
-BHARTIARTL		-0.82		790.5		2830534
-WIPRO		0.31		386.95		1133053
-BAJAJ-AUTO		0.47		4586.0		176034
-ULTRACEMCO		-0.27		7740.0		173148
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HEROMOTOCO		-0.27		2684.65		470814
+IFBIND		0.25		816.4		17450
