@@ -2,13 +2,13 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.81		1432.85		1360959
-AXISBANK		0.56		920.95		9341821
+BAJAJFINSV		0.84		1433.35		1363584
+AXISBANK		0.65		921.75		9401283
 
 BN_1Hr_OBV_DIV								 
 ============== 
 nsecode		per_chg		close		volume
-AXISBANK		0.56		920.95		9341821
+AXISBANK		0.65		921.75		9401283
 
 Intraday_Buy_PSAR								 
 ================= 
@@ -33,32 +33,37 @@ PFC		-1.55		168.5		14628799
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TATAMOTORS		-0.3		529.25		11433972
+VEDL		0.63		278.9		2842134
+NAUKRI		-0.44		3957.7		100483
+BANKNIFTY		-0.06		44045.9		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+VEDL		0.63		278.9		2842134
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-ICICIGI		0.21		1121.5		280503
-BANKNIFTY		-0.08		44036.15		0
-NIFTY		-0.28		18346.45		0
-ITC		-0.57		425.35		6132372
-TATACOMM		-0.83		1244.3		243231
-KOTAKBANK		-0.96		1954.1		3622555
-MCX		-1.13		1366.6		126496
-CUB		-1.27		139.55		3005593
-HDFCBANK		-1.53		1650.15		13503768
+ICICIGI		0.13		1120.65		280906
+BANKNIFTY		-0.06		44045.9		0
+NIFTY		-0.28		18347.85		0
+ITC		-0.56		425.4		6146115
+TATACOMM		-0.89		1243.6		243515
+KOTAKBANK		-0.92		1954.85		3644936
+MCX		-1.16		1366.2		126620
+CUB		-1.27		139.55		3005595
+HDFCBANK		-1.58		1649.35		13562566
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-INDHOTEL		3.24		364.8		9070571
-EXIDEIND		2.28		194.8		4347034
-LAURUSLABS		1.48		315.95		1757356
-TCS		0.42		3268.85		739978
-GLENMARK		0.4		610.4		842649
-PETRONET		0.22		230.05		942556
-GODREJCP		0.12		1010.9		917810
+INDHOTEL		3.28		364.95		9078539
+EXIDEIND		2.26		194.75		4354078
+LAURUSLABS		1.49		316.0		1757561
+TCS		0.42		3268.6		742521
+GLENMARK		0.42		610.5		843198
+GODREJCP		0.2		1011.7		919810
+PETRONET		0.15		229.9		945492
