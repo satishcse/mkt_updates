@@ -7,5 +7,7 @@ SBIN		0.3		588.05		6448778
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-0.52		3335.1		24821
-ALKYLAMINE		0.21		2542.45		5481
+LTIM		-0.89		4693.95		91453
+METROBRAND		-0.19		918.75		21560
+ALKYLAMINE		0.1		2539.55		5482
+POLYMED		0.19		977.85		4343
