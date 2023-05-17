@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.76		581.85		19406841
-HDFCLIFE		0.22		560.75		1142882
+BRITANNIA		0.17		4614.95		180751
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-0.06		3298.65		23509
+FLUOROCHEM		-0.06		3298.5		23523
