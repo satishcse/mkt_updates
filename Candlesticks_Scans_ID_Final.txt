@@ -6,8 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUBLFOOD		-1.23		460.95		1272369
-PNBHOUSING		-0.01		472.35		142276
-DMART		-1.07		3442.15		132018
-LTIM		-0.9		4693.45		92186
-METROBRAND		-0.18		918.85		21806
+HDFC		-0.46		2710		1196404
+ROSSARI		-1.24		727		29733
