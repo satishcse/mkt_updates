@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		-0.18		2717.85		868555
+HDFC		-0.26		2715.45		875655
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBER		10.77		2085.0		806438
-JKLAKSHMI		-0.24		795.35		15310
+AMBER		10.95		2088.3		811479
+BEML		-1.05		1408.9		30717
