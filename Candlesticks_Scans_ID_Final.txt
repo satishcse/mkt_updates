@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.05		918.25		3399401
+AXISBANK		0.04		918.15		3409548
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+METROBRAND		-0.27		918.0		21206
+POLYMED		0.22		978.15		4047
