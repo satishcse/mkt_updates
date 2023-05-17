@@ -5,12 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HDFCBANK		-0.06		1646.3		913582
-HINDALCO		0.13		413.0		498461
-AARTIIND		0.53		508.45		46913
-PERSISTENT		0.53		4742.9		21636
-KAJARIACER		0.33		1188.95		14678
-ANURAS		0.23		1192.75		9171
-FINEORG		0.37		4464.9		1771
-AIAENG		0.14		2787.3		1276
+
