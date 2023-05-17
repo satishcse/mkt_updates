@@ -6,5 +6,10 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUBLFOOD		-1.24		460.9		577877
-POWERINDIA		0.37		3826.8		1853
+BSOFT		-2.09		321.5		1345003
+JUBLFOOD		-1.22		461.0		598726
+TITAN		-0.19		2784.85		65483
+APOLLOHOSP		-0.36		4538.8		48855
+ICICIGI		-0.65		1109.95		33349
+ALKEM		-0.11		3410.05		6034
+POWERINDIA		0.38		3827.0		1944
