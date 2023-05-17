@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBILIFE		-0.65		1173.05		147762
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-0.97		1046.9		962408
-NAUKRI		-3.18		3808.3		114070
-ROSSARI		-1.24		727.0		32567
-ATUL		-1.3		6733.7		10526
-LAXMIMACH		0.14		11350.0		1980
+CAMS		-0.15		2072.8		41469
