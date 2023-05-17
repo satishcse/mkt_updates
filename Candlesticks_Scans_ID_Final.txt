@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.7		106.65		9373323
-ONGC		-0.74		166.75		2324778
-M&M		0.42		1267.8		427587
+ONGC		-0.86		166.55		2358496
+M&M		0.4		1267.45		429483
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OFSS		-1.31		3503		16518
+CLEAN		-0.17		1521.8		20980
+OFSS		-1.31		3503.0		16518
