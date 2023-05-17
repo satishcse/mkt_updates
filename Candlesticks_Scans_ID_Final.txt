@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-2.5		1898.3		3145115
-TECHM		-0.74		1049.4		1825979
-TATACONSUM		-1.46		774.75		457529
-BAJAJ-AUTO		-0.25		4527.0		172903
+KOTAKBANK		-2.43		1899.65		3148531
+TECHM		-0.7		1049.75		1827711
+TATACONSUM		-1.49		774.55		457907
 
 Bullish_Hammer_15m_N500								 
 ======================= 
