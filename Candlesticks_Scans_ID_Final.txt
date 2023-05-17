@@ -1,8 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+DRREDDY		-0.91		4473.9		279756
+BRITANNIA		0.17		4614.95		179104
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FLUOROCHEM		-0.06		3298.65		23498
