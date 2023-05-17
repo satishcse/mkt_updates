@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.84		938.4		14738185
-LT		-0.46		2216.95		1327229
-HEROMOTOCO		1.41		2724.0		1008018
-MARUTI		0.02		9073.0		214518
+ICICIBANK		-0.89		937.9		14786914
+LT		-0.48		2216.5		1332408
+HEROMOTOCO		1.38		2722.95		1010894
+MARUTI		0.04		9075.05		215473
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GLAND		-1.15		1339.15		77735
