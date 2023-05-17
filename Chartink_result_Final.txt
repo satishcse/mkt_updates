@@ -10,19 +10,32 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-COROMANDEL		0.82		970.05		964241
-INDHOTEL		0.54		365.7		7761084
-INDIGO		-0.01		2280.8		175998
-UBL		-1.51		1427.0		101631
+COROMANDEL		0.84		970.25		964565
+INDHOTEL		0.27		364.75		7906291
+INDIGO		-0.09		2279.0		176542
+UBL		-1.55		1426.5		101809
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-NIFTY		-0.73		18153.05		0
+INDHOTEL		0.27		364.75		7906291
+ADANIENT		-0.24		1884.55		1670398
+ADANIPORTS		0.01		687.1		1180517
+GNFC		0.49		651.3		993035
+CHAMBLFERT		1.15		299.3		850387
+ZYDUSLIFE		0.3		517.65		229966
+SIEMENS		-0.09		3868.55		217270
+COFORGE		-1.5		4141.05		137084
+DIVISLAB		-0.23		3272.05		105353
+MGL		-0.51		1049.0		93295
+ATUL		-2.05		6682.5		20889
+ABBOTINDIA		-0.4		21109.15		4334
+NIFTY		-0.73		18153.5		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+INDHOTEL		0.27		364.75		7906291
 
 Open_High								 
 ========= 
@@ -53,7 +66,7 @@ LICHSGFIN		-6.3		369.85		9426603
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-COROMANDEL		0.82		970.05		964241
-SHREECEM		0.52		24525.0		15730
-RAMCOCEM		0.25		772.95		268762
-BIOCON		-0.35		245.4		1156929
+COROMANDEL		0.84		970.25		964565
+SHREECEM		0.54		24530.75		15803
+RAMCOCEM		0.17		772.35		270049
+BIOCON		-0.35		245.4		1158991
