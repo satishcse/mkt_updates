@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.15		521.95		3659720
-SBILIFE		-0.34		1176.7		84278
+TATAMOTORS		0.15		521.95		3723164
+WIPRO		-0.71		384.2		567977
+SBILIFE		-0.42		1175.75		85643
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BBTC		-0.18		955.7		4732
+
