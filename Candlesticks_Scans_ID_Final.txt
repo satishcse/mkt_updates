@@ -6,9 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEC		-4.21		501.05		314514
-BEML		-0.96		1410.25		171476
-CEATLTD		-1.72		1830.4		139010
-UBL		-1.28		1430.45		89138
-BALKRISIND		-0.8		2205.0		50065
-ABBOTINDIA		-0.07		21179.0		3570
+KEC		-4.15		501.35		316716
+BEML		-0.97		1410.1		171843
+BALKRISIND		-0.8		2205.0		50199
