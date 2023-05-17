@@ -10,7 +10,5 @@ HINDALCO		-0.12		411.95		869645
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		-0.6		3458.35		82768
-SRF		-0.62		2526.85		42622
-PIIND		-0.55		3334.0		18816
-BBTC		0.01		957.5		4743
+SRF		-0.62		2527.0		42678
+PIIND		-0.57		3333.5		19064
