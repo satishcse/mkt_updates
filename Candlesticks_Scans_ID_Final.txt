@@ -7,5 +7,6 @@ LT		0.06		2228.5		617493
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RHIM		-0.26		679.0		85878
-CLEAN		0.18		1527.15		16721
+POONAWALLA		-0.61		323.3		319917
+SBILIFE		-0.57		1174.05		122628
+CERA		-0.35		7413.0		18737
