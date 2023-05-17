@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.32		588.2		6383596
+SBIN		0.3		588.05		6448778
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 PIIND		-0.52		3335.1		24821
-ALKYLAMINE		0.21		2542.45		5488
+ALKYLAMINE		0.21		2542.45		5481
