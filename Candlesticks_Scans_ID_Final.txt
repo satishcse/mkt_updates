@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.78		938.95		14343916
-ONGC		-0.89		166.5		4785288
-UPL		0.18		674.05		2034722
-LT		-0.45		2217.25		1307252
+ICICIBANK		-0.78		939.0		14353275
+ONGC		-0.86		166.55		4788605
+UPL		0.19		674.1		2035513
+LT		-0.46		2217.0		1310190
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BOSCHLTD		-0.25		18961.05		10146
