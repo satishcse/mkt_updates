@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.45		2217.1		905593
+LT		-0.57		2214.5		911663
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JKCEMENT		-0.43		3034.05		28249
+POWERINDIA		-0.28		3801.95		20258
