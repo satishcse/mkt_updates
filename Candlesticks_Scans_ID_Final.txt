@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.19		424.75		6051135
-TECHM		-0.25		1054.6		2367055
-LT		-0.55		2214.95		1419618
-MARUTI		0.06		9076.95		225830
+ITC		0.22		424.9		6063059
+TECHM		-0.23		1054.75		2368616
+LT		-0.66		2212.45		1422717
+MARUTI		0.05		9076.05		225959
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HDFCAMC		-1.56		1812.7		156937
+
