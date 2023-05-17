@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.8		166.65		3387998
-COALINDIA		0.42		241.95		2908116
-NTPC		-0.85		175.95		2903756
-HCLTECH		-2.34		1065.2		1669887
-DIVISLAB		-0.24		3271.6		107432
+ONGC		-0.89		166.5		3447967
+NTPC		-0.9		175.85		2951900
+COALINDIA		0.39		241.9		2929739
+DIVISLAB		-0.3		3269.6		107983
 
 Bullish_Hammer_15m_N500								 
 ======================= 
