@@ -10,16 +10,17 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-COROMANDEL,0.95,971.25,951571
-INDHOTEL,0.85,366.85,7645928
-INDIGO,0.05,2282.2,172496
-UBL,-1.43,1428.3,100601
+COROMANDEL,0.87,970.55,955699
+INDHOTEL,0.84,366.8,7658984
+INDIGO,0.02,2281.35,173701
+UBL,-1.52,1426.95,100788
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-AUBANK,-1.36,719.0,870899
-BANKNIFTY,-0.71,43592.65,0
+APOLLOHOSP,-2.03,4462.65,120500
+BANKNIFTY,-0.73,43584.1,0
+NIFTY,-0.82,18136.0,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -57,5 +58,5 @@ Open_Low,,,,
 nsecode,per_chg,close,volume
 COROMANDEL,0.88,970.65,955665
 SHREECEM,0.26,24461.9,15194
-RAMCOCEM,0.25,773.0,267119
+RAMCOCEM,0.25,773.0,268185
 BIOCON,-0.37,245.35,1147630
