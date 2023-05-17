@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.39		523.2		3483143
-UPL		1.06		679.95		705586
+TATAMOTORS		0.12		521.8		3625596
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BLUESTARCO		-0.41		1417.2		8906
+BBTC		-0.21		955.4		4646
