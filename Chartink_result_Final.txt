@@ -10,11 +10,11 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-COROMANDEL		2.02		981.6		1142886
-CHAMBLFERT		1.44		300.15		2179971
-INDHOTEL		0.7		366.3		9488288
-INDIGO		0.25		2286.65		360946
-UBL		-1.42		1428.35		172921
+COROMANDEL		2.0		981.4		1144230
+CHAMBLFERT		1.47		300.25		2213264
+INDHOTEL		0.74		366.45		9493485
+INDIGO		0.39		2289.95		367175
+UBL		-1.34		1429.5		173035
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -32,7 +32,9 @@ NIFTY		-0.56		18183.75		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+BANDHANBNK		-0.55		242.95		5837214
+IBULHSGFIN		-0.84		112.55		4897193
 
 Open_High								 
 ========= 
@@ -62,7 +64,7 @@ OBEROIRLTY		-6.44		912.35		2757679
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-RAMCOCEM		2.05		786.85		408475
+RAMCOCEM		2.05		786.85		409541
 COROMANDEL		2.02		981.6		1142886
 SHREECEM		0.67		24562.4		21954
 BIOCON		-0.22		245.7		1715877
