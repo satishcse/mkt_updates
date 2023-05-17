@@ -1,11 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TITAN		-1.08		2760.0		355718
-BRITANNIA		0.08		4610.8		178288
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DALBHARAT		-0.34		2072		154041
+
