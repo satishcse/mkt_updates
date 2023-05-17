@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.3		588.05		6645249
+SBIN		0.22		587.6		6709690
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-0.89		4694.1		91746
-TATAELXSI		-0.02		7114.0		48257
-METROBRAND		-0.18		918.85		21678
-POLYMED		0.2		977.95		4352
+JUBLFOOD		-1.26		460.8		1259992
+COFORGE		-1.21		4153.0		112874
+LTIM		-0.86		4695.55		92018
+ABB		-0.56		3888.45		68597
+METROBRAND		-0.27		918.0		21779
+KIMS		-0.71		1512.65		6528
+POLYMED		0.2		978.0		4356
