@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.77		1229.75		3767640
-APOLLOHOSP		-1.65		4479.85		161893
+INDUSINDBK		0.73		1229.2		3781446
+HINDALCO		-1.37		406.8		2223606
+APOLLOHOSP		-1.67		4479.0		161976
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-1.08		37439.7		1844
+CIPLA		-0.23		920		1328303
+ROUTE		-0.23		1378		205953
+BALKRISIND		-1.03		2200		64824
+HONAUT		-1.05		37450		1848
