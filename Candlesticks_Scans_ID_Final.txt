@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.98		166.35		3170603
-LT		-0.51		2215.9		921058
+LT		-0.53		2215.3		923108
+EICHERMOT		-0.6		3611.55		467517
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-0.89		2432.0		1601768
-DIVISLAB		-0.45		3264.7		102636
+RELIANCE		-0.76		2435.25		1619424
+EPL		-2.34		194.4		712309
+ASTRAL		-1.25		1665.5		449082
+SOBHA		-1.77		531.6		441914
+ASIANPAINT		-1.45		3092.55		351024
+DIVISLAB		-0.45		3264.7		102798
