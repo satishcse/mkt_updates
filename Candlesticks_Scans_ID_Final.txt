@@ -2,17 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.8		177.35		7863194
+NTPC		0.85		177.45		7874923
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CYIENT		-2.98		1233.7		918311
-BAJAJ-AUTO		-0.63		4536.0		321298
-MAHLIFE		-0.55		399.95		259169
-AFFLE		-1.47		907.9		253359
-ALKEM		-0.28		3416.0		181483
-CCL		-2.23		593.0		110788
-INDIGOPNTS		-1.15		1316.5		57305
-TMB		-0.56		419.0		45395
-PGHH		-0.84		13859.0		3803
+CYIENT		-3.26		1230.15		918460
+BAJAJ-AUTO		-0.57		4538.35		321308
+MAHLIFE		-0.81		398.9		259298
+AFFLE		-1.34		909.05		253434
+ALKEM		-0.35		3413.65		181489
+CCL		-2.32		592.4		110814
+INDIGOPNTS		-1.08		1317.35		57621
+TMB		-0.51		419.2		45395
+PGHH		-0.92		13847.3		3805
