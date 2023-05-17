@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		-0.35		2142.8		10297
-BOSCHLTD		-0.15		18980.1		9720
+ASIANPAINT		-1.78		3082.35		501420
+PIIND		-1.27		3310.0		87986
+BOSCHLTD		-0.09		18989.9		9818
