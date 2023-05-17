@@ -7,5 +7,6 @@ TATAMOTORS		0.14		521.9		3644107
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANYAVAR		-0.8		1246.9		6415
+MFSL		-1.42		671.9		97732
+MANYAVAR		-0.8		1247.0		6440
 BBTC		-0.18		955.7		4732
