@@ -19,8 +19,15 @@ UBL		-1.21		1431.45		138024
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BANKNIFTY		-0.97		43476.1		0
-NIFTY		-0.86		18129.0		0
+BANKBARODA		-1.31		184.05		28710833
+SAIL		-1.84		82.5		10252398
+GAIL		-1.57		109.95		3688698
+M&MFIN		-0.04		283.8		1340916
+IGL		-0.29		484.0		693092
+IRCTC		-0.77		621.3		489051
+LALPATHLAB		-1.42		2004.5		91834
+BANKNIFTY		-1.0		43466.25		0
+NIFTY		-0.89		18123.25		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -54,7 +61,7 @@ LICHSGFIN		-7.11		366.65		10729832
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-COROMANDEL		1.34		975.05		1019624
-SHREECEM		0.86		24607.05		18107
-RAMCOCEM		0.75		776.85		292330
-BIOCON		-0.32		245.45		1278236
+COROMANDEL		1.34		975.0		1020037
+SHREECEM		0.76		24584.0		18115
+RAMCOCEM		0.74		776.75		292395
+BIOCON		-0.45		245.15		1285537
