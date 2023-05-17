@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		-1.18		3101		292867
+ASIANPAINT		-1.22		3099.85		300074
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVRINOX		-6.09		1347.75		1133308
-TCS		-1.22		3218.4		557231
+PVRINOX		-6.08		1347.9		1139860
+M&MFIN		-0.21		283.3		989656
+MFL		-0.17		952.15		18679
