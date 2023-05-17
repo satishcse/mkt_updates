@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+APOLLOHOSP		-1.69		4478		161589
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		-1.78		3082.35		501420
-PIIND		-1.27		3310.0		87986
-BOSCHLTD		-0.09		18989.9		9818
+ASIANPAINT		-1.77		3082.65		503131
+BOSCHLTD		-0.14		18980.2		9829
