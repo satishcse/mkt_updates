@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.79		176.05		3924126
-KOTAKBANK		-2.42		1900.0		3540687
-BRITANNIA		0.47		4628.35		146601
+NTPC		-0.76		176.1		3932411
+BRITANNIA		0.5		4629.95		146951
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HDFC		-1.11		2692.45		1829479
+
