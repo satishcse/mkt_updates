@@ -1,16 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+LT		-0.45		2217.1		905593
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JINDALSTEL		-3.75		539.4		5713778
-CANBK		-1.36		301.0		4150500
-ASTRAL		-1.1		1668.0		435358
-CUMMINSIND		-0.85		1635.2		203303
-BEML		-0.82		1412.15		172505
-CEATLTD		-1.53		1833.9		139717
-MGL		-0.59		1048.1		84321
-JBCHEPHARM		-0.17		1996.45		33601
+
