@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.11		1901.6		897921
-INDUSINDBK		0.32		1240.05		857009
-GRASIM		-0.81		1710.9		42414
+COALINDIA		0.14		241.95		1099361
+WIPRO		0.42		383.9		780808
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ATUL		-0.45		6693.7		7397
+KSB		0.59		2202.4		6764
