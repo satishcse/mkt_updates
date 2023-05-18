@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-1.08		2195.65		1882722
-WIPRO		0.12		382.75		1764726
-SBILIFE		-0.67		1154.85		876061
+LT		-1.12		2194.75		1895921
+WIPRO		0.14		382.85		1766722
+SBILIFE		-0.59		1155.75		881956
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-0.15		1896.65		1959636
-PIIND		-1.69		3262.0		168237
+ADANIENT		-0.03		1899.0		1982942
+ASTRAL		-2.27		1680.75		632798
+PIIND		-1.69		3262.0		168392
+SHREECEM		-1.15		24139.4		11598
