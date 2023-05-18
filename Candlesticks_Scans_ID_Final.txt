@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.17		1902.75		893772
-INDUSINDBK		0.38		1240.85		854661
-GRASIM		-0.83		1710.6		42127
+ADANIENT		0.11		1901.6		897921
+INDUSINDBK		0.32		1240.05		857009
+GRASIM		-0.81		1710.9		42414
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GODREJPROP		-2.28		1352.3		263519
-APLAPOLLO		-0.29		1149.45		122187
-OFSS		-0.31		3549.95		18251
+
