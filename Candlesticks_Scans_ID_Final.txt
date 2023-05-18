@@ -10,4 +10,5 @@ TECHM		-0.24		1051.65		495611
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-THERMAX		-4.62		2347		314755
+THERMAX		-4.54		2348.95		315249
+SOBHA		-2.32		526.5		209610
