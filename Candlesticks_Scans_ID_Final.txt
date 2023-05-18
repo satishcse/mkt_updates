@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		1.09		1929.95		1678629
-APOLLOHOSP		0.4		4500.0		80845
+KOTAKBANK		1.03		1928.9		1682680
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDRMFAST		-1.29		1065.6		37156
-LUXIND		-0.26		1469.5		10229
-LAXMIMACH		0.46		11310.0		1585
+SUNDRMFAST		-1.29		1065.6		36698
+LUXIND		-0.26		1469.5		10134
+LAXMIMACH		0.46		11310.0		1536
