@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIPORTS		-1.94		671.35		3028617
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-1.56		1693.0		499363
-THERMAX		-6.23		2307.3		371831
-VIPIND		-2.39		624.4		173040
+INDIGO		-1.02		2276.65		512230
+VIPIND		-2.42		624.25		174137
