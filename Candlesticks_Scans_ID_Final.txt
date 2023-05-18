@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.09		1075.5		264169
-BRITANNIA		-0.04		4629.9		34415
+HCLTECH		0.07		1075.25		266348
+BRITANNIA		-0.1		4627.3		34597
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATAELXSI		0.28		7119.1		34772
-OFSS		-0.06		3558.55		15570
-MRF		-0.26		97403.25		3115
+
