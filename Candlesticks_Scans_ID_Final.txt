@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.63		1255.1		361254
+AXISBANK		1.38		927.4		3642283
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 DIVISLAB		-2.86		3174.4		277233
-BAJAJHLDNG		0.35		6474.75		4887
+BAJAJHLDNG		0.35		6474.75		4878
+PFIZER		0.06		3820.0		1088
