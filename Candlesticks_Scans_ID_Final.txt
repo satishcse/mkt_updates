@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.47		1646.1		16617004
-GRASIM		-1.5		1698.95		146130
+HDFCBANK		0.45		1645.8		16651857
+GRASIM		-1.5		1698.9		146196
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-0.55		4626.75		62016
-SOLARINDS		-0.36		3730.0		10959
-LAXMIMACH		-0.57		11193.0		3813
+LAXMIMACH		-0.51		11200		4169
