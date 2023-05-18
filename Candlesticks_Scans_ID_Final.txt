@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.43		920		770722
+COALINDIA		0.43		242.65		1994725
+CIPLA		-0.43		920.0		771959
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		0.55		1983.7		466789
+APLLTD		0.06		568		124243
