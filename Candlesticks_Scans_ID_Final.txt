@@ -2,8 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.66		105.3		21711693
-UPL		-0.72		672.9		1232093
+TATASTEEL		-0.71		105.25		21787842
+UPL		-0.75		672.7		1235632
 
 Bullish_Hammer_15m_N500								 
 ======================= 
@@ -13,4 +13,4 @@ RAMCOCEM		-2.49		769.35		710834
 BAJAJFINSV		0.09		1416.7		654589
 FINCABLES		-1.3		892.55		104841
 SUPREMEIND		0.04		2800.0		61570
-GRINFRA		-1.29		1071.15		27604
+GRINFRA		-1.29		1071.15		27847
