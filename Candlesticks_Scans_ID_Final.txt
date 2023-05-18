@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.3		588.05		10429282
-SUNPHARMA		-0.45		931.75		882605
-TITAN		-0.81		2739.9		224852
+SBIN		0.22		587.6		10457396
+TITAN		-0.81		2739.95		226340
 
 Bullish_Hammer_15m_N500								 
 ======================= 
