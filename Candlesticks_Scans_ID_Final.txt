@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.17		242		1252657
+COALINDIA		0.19		242.05		1257766
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		0.49		2086.95		96294
-POLYCAB		0.04		3439.05		82419
-JKCEMENT		-0.51		3028.9		27965
-SANOFI		0.36		6575.0		26538
-KSB		0.7		2204.85		6943
+DALBHARAT		0.51		2087.35		96379
+POLYCAB		0.04		3439.2		82811
+KSB		0.71		2205.0		7000
+PAGEIND		-0.51		42180.0		5322
