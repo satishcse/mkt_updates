@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.75		1256.3		3014578
+INFY		0.73		1256		3019511
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 LICHSGFIN		-1.04		366.6		1897921
-KSB		0.32		2196.45		7298
+KSB		0.32		2196.45		7356
