@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,-0.3,166.75,6177951
-WIPRO,0.12,382.75,1714668
-BAJFINANCE,1.29,6791.55,885622
-HEROMOTOCO,0.66,2740.9,491031
+ONGC,-0.24,166.85,6253473
+BAJFINANCE,1.28,6790.6,891258
+HEROMOTOCO,0.71,2742.4,495270
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TIINDIA,0.2,2712.8,70551
+NESTLEIND,-0.13,21704.9,39125
