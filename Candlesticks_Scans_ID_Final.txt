@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.42		1907.5		824251
-INDUSINDBK		0.57		1243.25		812434
-SBILIFE		0.21		1165.05		141909
-GRASIM		-0.75		1712.0		39465
+ADANIENT		0.45		1908.0		827112
+INDUSINDBK		0.51		1242.5		817849
+SBILIFE		0.24		1165.4		142160
+GRASIM		-0.78		1711.35		39695
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+UFLEX		0.81		446.0		78997
+GOCOLORS		1.1		1121.3		5993
