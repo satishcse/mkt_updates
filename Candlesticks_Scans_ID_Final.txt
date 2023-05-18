@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.73		1256.05		2997779
-MARUTI		-0.36		9086.15		107519
+INFY		0.75		1256.3		3008326
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LICHSGFIN		-1.04		366.6		1886857
-SCHAEFFLER		-0.37		2797.95		39563
-KSB		0.35		2197.15		7379
+KEC		-2.76		480.5		443700
+SCHAEFFLER		-0.37		2797.95		39585
+SUNDRMFAST		-0.69		1072.05		30966
+KSB		0.35		2197.15		7252
