@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ICICIBANK		0.95		948.25		17050020
+HCLTECH		0.83		1083.5		986925
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GODREJPROP		-5.42		1308.85		1032606
-GUJALKALI		-0.97		697.0		162632
+
