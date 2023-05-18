@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.45		1645.8		15546846
-POWERGRID		-0.98		236.45		8010944
-WIPRO		0.22		383.15		1580109
-CIPLA		-0.87		915.9		1117692
+HDFCBANK		0.48		1646.25		15632004
+POWERGRID		-0.98		236.45		8016188
+WIPRO		0.18		383.0		1581458
+CIPLA		-0.88		915.85		1120362
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-0.77		1226.05		120088
-TATAELXSI		-0.02		7097.65		60026
+TATAELXSI		-0.02		7097.6		60145
