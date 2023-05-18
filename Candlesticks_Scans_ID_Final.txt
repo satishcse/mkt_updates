@@ -1,15 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-GRASIM		-1.48		1699.4		146692
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRANULES		-2.05		280.1		1653908
-GUJGASLTD		-0.87		487.2		530389
-ULTRACEMCO		-1.16		7610.9		117099
-INDIAMART		-1.17		5741.75		40314
-BAJAJHLDNG		-0.33		6430.7		7823
-LAXMIMACH		-0.51		11200.0		4174
+ASTRAL		-1.56		1693.0		499363
+THERMAX		-6.23		2307.3		371831
+VIPIND		-2.39		624.4		173040
