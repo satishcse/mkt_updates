@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.61		105.35		20334907
-UPL		-0.6		673.75		1182354
+TATASTEEL		-0.61		105.35		20417235
+UPL		-0.63		673.55		1194727
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-0.43		1580.85		642095
-THERMAX		-7.37		2279.3		460026
-MOTILALOFS		0.01		634.0		58372
-GRINDWELL		-0.63		2058.1		18516
+VBL		-0.49		1579.95		647069
+GRINDWELL		-0.65		2057.75		18161
