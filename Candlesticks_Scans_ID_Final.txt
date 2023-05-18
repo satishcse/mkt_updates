@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.01		236.4		7419145
+POWERGRID		-1.03		236.35		7425841
+HCLTECH		0.5		1079.95		693708
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ZYDUSLIFE		-0.59		515.75		760599
-PAGEIND		-1.43		41788.8		8756
+
