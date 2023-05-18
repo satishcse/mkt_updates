@@ -2,15 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.52		1647.0		14740602
-AXISBANK		0.73		921.45		7964183
-TATAMOTORS		-0.61		512.35		7915727
-POWERGRID		-0.96		236.5		7660014
-M&M		-0.54		1256.3		1344843
+HDFCBANK		0.57		1647.75		14777773
+AXISBANK		0.71		921.25		7983256
+TATAMOTORS		-0.65		512.15		7923927
+POWERGRID		-0.96		236.5		7671734
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FDC		-1.63		287.15		151159
-ACI		-0.12		540.7		79903
-KENNAMET		-1.11		2312.0		3128
+
