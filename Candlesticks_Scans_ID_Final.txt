@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.25		587.75		10494968
-TITAN		-0.83		2739.5		227099
-APOLLOHOSP		0.4		4500.0		80556
+SBIN		0.27		587.9		10506359
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDRMFAST		-1.32		1065.3		36814
-LUXIND		-0.28		1469.15		10214
-LAXMIMACH		0.46		11310.0		1533
+SUNDRMFAST		-1.32		1065.3		36356
+LUXIND		-0.28		1469.15		10119
+LAXMIMACH		0.46		11310.0		1484
