@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.64		1255.0		354676
-APOLLOHOSP		0.6		4508.95		55774
+M&M		-0.64		1255.05		355124
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIVISLAB		-2.91		3173		268201
+MAZDOCK		-1.11		791.25		312824
+DIVISLAB		-2.89		3173.4		272010
+AARTIDRUGS		0.23		467.1		77210
+PFIZER		-0.07		3815.2		917
