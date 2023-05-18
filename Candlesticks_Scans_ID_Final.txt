@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.08		1075.45		270404
-BRITANNIA		-0.12		4626.4		35425
+HCLTECH		0.04		1075.0		272797
+BRITANNIA		-0.19		4623.15		35640
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAYMOND		-1.36		1531.55		37199
+COLPAL		-0.72		1651.45		138745
+VINATIORGA		-0.4		1953.45		5399
