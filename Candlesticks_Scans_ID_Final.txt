@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.39		242.55		1588813
+COALINDIA		0.37		242.5		1603109
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLAPOLLO		-0.7		1144.8		147523
+ALKEM		-1.59		3330.1		137015
+ATUL		-0.72		6676.05		10380
 CRISIL		-0.18		3571.8		4235
