@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.98		236.45		7513942
-BAJAJFINSV		0.53		1422.95		487782
+POWERGRID		-0.98		236.45		7536915
+BAJAJFINSV		0.43		1421.55		491331
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LODHA		-2.64		964.25		166114
+LODHA		-2.58		964.8		167399
