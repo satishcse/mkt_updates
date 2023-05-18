@@ -1,7 +1,8 @@
 
 Hanging_Man_N100								 
 ================ 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		0.28		1239.6		2443271
 
 Bullish_Hammer_Daily_N50								 
 ======================== 
@@ -63,7 +64,7 @@ POLYCAB		-0.89		3407.0		161654
 BATAINDIA		-0.45		1525.2		151460
 ABB		-0.57		3896.55		137096
 LTTS		0.42		3842.45		106436
-UBL		-0.38		1424.5		93531
+UBL		-0.38		1424.5		93533
 NESTLEIND		-0.25		21678.85		49720
 BOSCHLTD		-0.58		19024.4		13211
 MRF		-0.71		96960.0		7833
