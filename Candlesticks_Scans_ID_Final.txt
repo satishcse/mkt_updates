@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJPROP		-5.35		1309.8		1029766
-GUJALKALI		-0.97		697.0		162014
-VINATIORGA		-0.55		1950.5		9538
-LAXMIMACH		-0.51		11200.0		3905
+GODREJPROP		-5.42		1308.85		1032606
+GUJALKALI		-0.97		697.0		162163
