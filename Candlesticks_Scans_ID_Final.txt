@@ -7,5 +7,7 @@ MARUTI		-0.34		9088.65		104793
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRASIM		-0.86		1710.0		64744
-RELAXO		0.03		880.55		20207
+DELTACORP		-0.88		224.2		672855
+JKCEMENT		-0.85		3018.35		36265
+SUNDRMFAST		-0.69		1072.0		30607
+KSB		0.36		2197.45		7297
