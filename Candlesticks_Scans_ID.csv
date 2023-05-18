@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-0.98,236.45,7473514
-HCLTECH,0.48,1079.7,701789
+POWERGRID,-0.98,236.45,7490462
+BAJFINANCE,1.37,6797.2,761683
+BAJAJFINSV,0.48,1422.25,485286
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GLAXO,-0.9,1283.45,91253
+OFSS,-0.63,3538.5,30232
+FINEORG,-0.91,4438.45,15306
