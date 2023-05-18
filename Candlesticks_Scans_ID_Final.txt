@@ -6,11 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAMCOCEM		1.27		799.0		174055
-INDIGO		0.33		2307.9		60335
-HOMEFIRST		0.7		708.05		16014
-CHOLAHLDNG		0.16		805.0		11174
-BIRLACORPN		0.74		1006.9		8268
-HGS		0.92		1135.1		3818
-GRINDWELL		0.32		2077.95		692
-KENNAMET		-0.24		2332.2		186
+ADANIENT		0.28		1904.85		300252
+ABB		-0.5		3899.35		10674
