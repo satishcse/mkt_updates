@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.48		1908.7		740929
-HCLTECH		0.26		1077.35		260232
+ADANIENT		0.47		1908.5		743496
+HCLTECH		0.19		1076.6		261423
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDALSTEL		-1.71		523		1953434
+JINDALSTEL		-1.71		523.0		1953434
+TATAELXSI		0.28		7119.1		34718
