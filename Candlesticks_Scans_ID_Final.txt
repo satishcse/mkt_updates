@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		-0.34		9088.65		104793
+INFY		0.73		1256.05		2997779
+MARUTI		-0.36		9086.15		107519
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DELTACORP		-0.88		224.2		672855
-JKCEMENT		-0.85		3018.35		36265
-SUNDRMFAST		-0.69		1072.0		30607
-KSB		0.36		2197.45		7297
+TATAELXSI		0.25		7117.0		44213
+JKCEMENT		-0.87		3018.0		36343
+KSB		0.35		2197.25		7247
