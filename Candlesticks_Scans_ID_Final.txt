@@ -2,15 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.66		105.3		19747740
-LT		-1.02		2197.05		1911852
-SBILIFE		-0.77		1153.7		931023
-TATACONSUM		-0.11		777.4		859421
+TATASTEEL		-0.61		105.35		19782720
+UPL		-0.58		673.9		1151885
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-1.79		1689.05		643951
-SIEMENS		-1.48		3833.5		367896
-VOLTAS		-0.42		799.65		288527
-SRF		-1.28		2439.7		276132
+DEEPAKNTR		-0.36		1965.7		565456
