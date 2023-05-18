@@ -10,13 +10,13 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		2.86		1040.5		2886608
-MOTHERSON		1.15		78.95		11467286
-ICICIBANK		0.88		947.6		18547016
-IEX		0.41		160.0		5013610
-BHEL		-0.55		81.8		13428182
-CUB		-0.75		139.55		2732636
-JUBLFOOD		-1.0		476.3		8049406
+CHOLAFIN		2.87		1040.6		2892639
+MOTHERSON		1.15		78.95		11484000
+ICICIBANK		0.92		948.0		18607968
+IEX		0.44		160.05		5020901
+BHEL		-0.61		81.75		13442840
+CUB		-0.75		139.55		2739489
+JUBLFOOD		-1.06		476.0		8055184
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -88,4 +88,4 @@ METROPOLIS		-4.64		1236.45		620512
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-M&MFIN		0.3		285.9		1783133
+M&MFIN		0.44		286.3		1795408
