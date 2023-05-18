@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BHARTIARTL		1.06		800.65		8333350
+CIPLA		-0.28		921.4		758977
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ROUTE		0.35		1393.95		68978
-TIINDIA		0.19		2712.65		55923
-SCHAEFFLER		-0.35		2798.5		45805
-ATUL		-0.66		6679.9		11334
+
