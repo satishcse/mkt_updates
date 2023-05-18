@@ -2,11 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.38		508.4		11921615
-SBILIFE		-0.91		1152.0		1079624
+TATAMOTORS		-1.28		508.9		11955740
+SBILIFE		-0.89		1152.3		1084886
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAJARIACER		-1.49		1167.25		239808
-TEJASNET		-1.47		651.5		235023
+TEJASNET		-1.73		649.8		254489
+KAJARIACER		-1.48		1167.3		241956
+GLAXO		-1.16		1280.05		121322
+FINCABLES		-1.39		891.8		114045
+RAINBOW		-3.13		887.9		106624
+BALKRISIND		-0.69		2189.1		80653
+BALAMINES		0.47		2376.85		31674
+BBTC		-0.41		938.45		17224
