@@ -8,5 +8,7 @@ UPL		-0.64		673.45		1166336
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		-0.35		1966		566474
-ROSSARI		-1.17		728		63229
+VBL		-0.5		1579.75		634104
+DEEPAKNTR		-0.36		1965.8		567437
+ROSSARI		-1.17		728.0		63239
+GRINDWELL		-0.61		2058.7		18238
