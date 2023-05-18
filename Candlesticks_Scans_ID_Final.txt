@@ -2,7 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.19		242.05		1224268
+COALINDIA		0.19		242.05		1239151
 
 Bullish_Hammer_15m_N500								 
 ======================= 
@@ -10,4 +10,4 @@ nsecode		per_chg		close		volume
 ANGELONE		-1.73		1247.35		172439
 PERSISTENT		-0.15		4797.35		96252
 APARINDS		-2.29		2728.55		41673
-KSB		0.7		2204.95		6874
+KSB		0.7		2204.95		6930
