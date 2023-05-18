@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.73		1256		3019511
+TATAMOTORS		-0.59		512.45		6027593
+ONGC		-0.12		167.05		3638071
+TITAN		-0.82		2739.85		223219
+APOLLOHOSP		0.4		4500.0		79937
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LICHSGFIN		-1.04		366.6		1897921
-KSB		0.32		2196.45		7356
+
