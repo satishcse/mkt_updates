@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-LT,-1.06,2196.1,1903178
-SBILIFE,-0.68,1154.7,887470
+LT,-1.0,2197.45,1907160
+SBILIFE,-0.59,1155.75,899350
+TATACONSUM,-0.06,777.75,853274
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ASTRAL,-2.07,1684.2,638268
