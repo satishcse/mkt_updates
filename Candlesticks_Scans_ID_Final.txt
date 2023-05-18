@@ -11,4 +11,6 @@ TECHM		-0.22		1051.8		551435
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BDL		-0.84		1066.3		250586
+TATACOMM		-0.79		1225.75		118963
