@@ -2,14 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.34		176.6		856025
-WIPRO		0.65		384.8		514920
-M&M		-0.76		1253.5		283739
+BPCL		-0.18		364.1		397940
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ITC		0.61		430.2		2902917
-HOMEFIRST		0.41		706.0		30160
-CENTURYPLY		0.19		577.0		21906
-CAMS		-0.14		2068.0		7298
+MRF		0.15		97796.95		1863
