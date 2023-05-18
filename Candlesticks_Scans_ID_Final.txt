@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.98		1927.8		1701035
-BAJAJFINSV		0.7		1425.35		361731
+COALINDIA		0.39		242.55		1581651
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDIGO		0.08		2302.1		359955
-SUNDRMFAST		-1.27		1065.8		37945
+
