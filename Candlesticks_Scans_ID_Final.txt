@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.37		242.5		1624229
+COALINDIA		0.37		242.5		1655697
+HINDUNILVR		-0.82		2640.0		597829
+HCLTECH		0.41		1079.0		496046
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKEM		-1.54		3332		143241
+THERMAX		-4.1		2359.8		282212
