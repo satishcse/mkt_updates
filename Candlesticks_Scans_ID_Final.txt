@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MRF		-0.52		97143		4926
+MRF		-0.52		97143		4929
+LAXMIMACH		-0.01		11257		1774
