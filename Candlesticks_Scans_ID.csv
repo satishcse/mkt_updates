@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,0.53,1647.1,14798313
-AXISBANK,0.67,920.9,8032310
-POWERGRID,-1.03,236.35,7824883
+HDFCBANK,0.52,1647.05,14823942
+AXISBANK,0.67,920.9,8037976
+POWERGRID,-0.96,236.5,7829541
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-CIPLA,-0.76,916.95,1091188
-FDC,-1.28,288.15,151728
+FDC,-1.46,287.65,152888
