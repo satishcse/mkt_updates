@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		0.4		1645.0		17959450
-VIPIND		-1.71		628.75		179048
-VINATIORGA		-0.55		1950.5		9741
+GODREJPROP		-5.35		1309.8		1029766
+GUJALKALI		-0.97		697.0		162014
+VINATIORGA		-0.55		1950.5		9538
+LAXMIMACH		-0.51		11200.0		3905
