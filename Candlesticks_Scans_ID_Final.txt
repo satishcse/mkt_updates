@@ -7,4 +7,5 @@ TITAN		-0.81		2739.95		226340
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LUXIND		-0.34		1468.25		10111
