@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.51		1646.8		15952596
-POWERGRID		-0.96		236.5		8060780
-WIPRO		0.18		383.0		1588072
-CIPLA		-0.84		916.2		1126190
+HDFCBANK		0.56		1647.6		15964999
+POWERGRID		-0.98		236.45		8075860
+WIPRO		0.18		383.0		1589742
+CIPLA		-0.79		916.65		1128313
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-1.37		3272.5		120700
-FINCABLES		-0.66		898.4		70965
+BDL		-0.92		1065.45		259614
+FINCABLES		-0.65		898.5		70974
