@@ -16,7 +16,10 @@ BAJFINANCE		-0.26		6771.65		138306
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-NIFTY		-0.02		18126.9		0
+CUB		-0.72		138.05		437789
+PERSISTENT		1.66		4827.0		57017
+LTTS		1.03		3883.9		54225
+BANKNIFTY		-0.04		43736.0		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
