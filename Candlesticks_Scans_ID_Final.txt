@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.12		924.9		7972714
-POWERGRID		-0.72		233.95		6856064
-BAJAJFINSV		-0.03		1415.0		710696
+AXISBANK		1.11		924.85		7992162
+POWERGRID		-0.72		233.95		6892495
+COALINDIA		0.21		240.1		3648676
 
 Bullish_Hammer_15m_N500								 
 ======================= 
