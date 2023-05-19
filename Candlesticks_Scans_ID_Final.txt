@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.13		800.4		1883678
-TATACONSUM		-1.73		762.85		812881
-MARUTI		0.41		9090.05		446601
+BHARTIARTL		0.14		800.5		1885624
+TATACONSUM		-1.75		762.75		813126
+MARUTI		0.46		9094.8		446729
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-THERMAX		-0.88		2260		72540
+THERMAX		-0.88		2260		72543
