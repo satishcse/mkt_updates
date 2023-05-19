@@ -8,6 +8,7 @@ HCLTECH		1.55		1096.6		429090
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHALET		-1.58		423.95		45180
-ESCORTS		-1.89		2044.75		41489
-GRINDWELL		-1.12		2033.8		4041
+POLICYBZR		-0.36		631.5		138499
+MPHASIS		-0.22		1858.05		84756
+THERMAX		-0.18		2276.1		44144
+HOMEFIRST		-0.35		695.8		25462
