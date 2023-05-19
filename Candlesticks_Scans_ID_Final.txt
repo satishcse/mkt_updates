@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-0.29		1237.75		50433
-TORNTPHARM		-0.53		1641.35		12483
+ASIANPAINT		0.29		3118.0		84754
+DIXON		0.81		3008.0		75133
+GARFIBRES		0.2		2986.05		11286
