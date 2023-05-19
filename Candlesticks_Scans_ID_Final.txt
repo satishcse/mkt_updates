@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.63		165.3		4283010
-LT		-0.09		2186.15		1121783
-SBILIFE		-0.61		1145.7		173005
-APOLLOHOSP		0.18		4450.0		96895
+ONGC		-0.66		165.25		4296899
+LT		-0.09		2186.15		1126189
+SBILIFE		-0.57		1146.1		173869
+APOLLOHOSP		-0.12		4436.7		104134
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SUMICHEM		-1.41		384.5		439141
