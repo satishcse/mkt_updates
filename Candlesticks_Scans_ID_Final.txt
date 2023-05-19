@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.97		173.4		4734405
-HINDALCO		-0.69		403.7		3547119
+AXISBANK		0.2		916.55		5285993
+HINDALCO		-0.74		403.5		3568740
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SUNTV		-0.21		425.55		493207
