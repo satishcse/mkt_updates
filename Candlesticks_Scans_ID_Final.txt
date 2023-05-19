@@ -2,13 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.63		174.0		1176496
-HCLTECH		1.55		1096.6		429090
+HCLTECH		1.63		1097.5		448895
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLICYBZR		-0.36		631.5		138499
-MPHASIS		-0.22		1858.05		84756
-THERMAX		-0.18		2276.1		44144
-HOMEFIRST		-0.35		695.8		25462
+JUBLFOOD		-1.52		467.5		870251
+POLICYBZR		-0.37		631.45		138740
+AMBER		-0.41		2108.65		99231
+DEEPAKNTR		-0.65		1953.65		69405
+TRENT		-0.94		1476.7		50888
+ROUTE		-1.54		1361.7		46014
+THERMAX		-0.16		2276.35		44193
+ESCORTS		-1.83		2046.0		42212
+BAJAJELEC		-1.08		1173.3		4912
