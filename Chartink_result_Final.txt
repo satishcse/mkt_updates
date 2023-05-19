@@ -16,10 +16,14 @@ BAJFINANCE		-0.67		6743.65		223713
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-1.5		1659.0		155337
-MARICO		-1.86		522.9		148861
-WHIRLPOOL		0.13		1364.45		78118
-LALPATHLAB		-2.03		1936.0		43358
+ABCAPITAL		-2.43		160.8		4312686
+DLF		0.08		460.3		1591594
+LICHSGFIN		0.98		369.4		589171
+M&MFIN		-1.74		280.15		477759
+MARICO		-1.83		523.05		150125
+WHIRLPOOL		0.43		1368.55		81277
+LALPATHLAB		-1.83		1940.0		44653
+NIFTY		-0.21		18091.95		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
