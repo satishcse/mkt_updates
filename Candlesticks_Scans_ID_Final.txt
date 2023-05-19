@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.63		558.0		351463
-TATACONSUM		-2.05		760.35		203648
+HDFCLIFE		-0.66		557.85		352904
+TATACONSUM		-2.1		760.0		215464
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		-1.47		1947.2		47499
+ASTRAL		-1.2		1663.95		164993
+LALPATHLAB		-1.42		1948.15		48109
+UBL		-1.1		1408.8		44795
+ALKYLAMINE		-0.55		2525.8		4221
