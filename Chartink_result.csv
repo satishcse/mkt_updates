@@ -10,14 +10,16 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-BATAINDIA,1.73,1552.0,685296
-BAJFINANCE,-0.59,6749.05,176050
+BATAINDIA,1.99,1555.9,692118
+BAJFINANCE,-0.68,6743.5,177560
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-NAUKRI,1.25,3790.0,44359
-BANKNIFTY,-0.21,43659.55,0
+INFY,1.76,1267.9,2144270
+NAUKRI,1.34,3793.35,47353
+SHREECEM,-0.46,23874.75,5262
+BANKNIFTY,-0.22,43656.25,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
