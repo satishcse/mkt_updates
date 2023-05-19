@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINCABLES		0.38		894.05		25015
-FLUOROCHEM		-0.82		3290.6		8721
-SKFINDIA		-0.34		4357.95		1752
+LINDEINDIA		-0.45		3938.5		2510
