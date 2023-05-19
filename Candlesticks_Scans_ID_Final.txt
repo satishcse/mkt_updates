@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		1.67		1097.9		452644
-TECHM		1.26		1061.9		265759
+TECHM		1.31		1062.45		269689
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUBLFOOD		-1.52		467.5		876419
-LODHA		-2.78		962.0		95349
-TRENT		-0.83		1478.4		51340
-BAJAJELEC		-1.1		1173.0		5001
-GRINDWELL		-1.11		2034.0		4110
+FORTIS		-0.56		282.05		109222
+THERMAX		0.01		2280.25		44793
+MAPMYINDIA		-0.09		1065.85		7433
