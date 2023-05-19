@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.24		575.55		38747392
-HDFC		-0.22		2710.0		1858964
-EICHERMOT		0.01		3576.55		651507
-HEROMOTOCO		-0.55		2720.0		387019
+SBIN		0.22		575.45		38834258
+TATASTEEL		-0.48		104.7		25359741
+HDFC		-0.32		2707.4		1871942
+EICHERMOT		0.0		3576.3		653123
+HEROMOTOCO		-0.55		2720.0		387918
 
 Bullish_Hammer_15m_N500								 
 ======================= 
