@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.78		165.05		4395313
-LT		-0.37		2180.1		1165600
-MARUTI		0.45		9093.95		440134
-SBILIFE		-0.61		1145.7		177785
-APOLLOHOSP		-0.05		4440.0		106450
+ONGC		-0.75		165.1		4400145
+LT		-0.33		2180.9		1170687
+MARUTI		0.45		9093.95		440380
+SBILIFE		-0.61		1145.7		178365
+APOLLOHOSP		-0.23		4431.9		112195
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LTTS		0.33		3857.1		249075
