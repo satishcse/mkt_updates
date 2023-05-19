@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TITAN		-0.8		2699.95		200765
-FLUOROCHEM		-0.88		3288.75		9127
-PFIZER		-0.3		3808.5		5004
+VOLTAS		-0.45		794		233458
