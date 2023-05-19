@@ -10,16 +10,16 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-BATAINDIA		1.83		1553.4		613315
-BAJFINANCE		-0.63		6746.3		154116
+BATAINDIA		1.6		1549.9		647833
+BAJFINANCE		-0.78		6736.2		161366
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-GLENMARK		0.98		610.0		1975717
-VOLTAS		-1.39		786.45		178299
-BANKNIFTY		-0.1		43708.85		0
-NIFTY		-0.21		18092.25		0
+BSOFT		1.44		323.6		779828
+VOLTAS		-1.31		787.1		192623
+BANKNIFTY		-0.12		43700.3		0
+NIFTY		-0.17		18099.6		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
