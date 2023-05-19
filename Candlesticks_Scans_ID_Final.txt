@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.11		924.85		8071726
-POWERGRID		-0.72		233.95		7056445
-BAJFINANCE		-0.02		6788.0		580976
-APOLLOHOSP		0.17		4449.75		168018
+AXISBANK		1.11		924.85		8088090
+POWERGRID		-0.76		233.85		7099068
+BAJFINANCE		-0.06		6785.0		582519
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		-1.85		2149.55		220168
-FINCABLES		-0.81		883.45		191030
-THERMAX		-2.23		2229.15		101326
+TEJASNET		-1.08		643		293987
