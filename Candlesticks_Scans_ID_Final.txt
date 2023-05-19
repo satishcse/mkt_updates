@@ -1,12 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TECHM		1.31		1062.45		269689
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FORTIS		-0.56		282.05		109222
-THERMAX		0.01		2280.25		44793
-MAPMYINDIA		-0.09		1065.85		7433
+KPITTECH		-0.7		934.45		267339
+BAJFINANCE		-0.83		6733.0		215104
+DEEPAKNTR		-0.69		1953.0		71619
+SRF		-0.85		2408.0		41250
+HOMEFIRST		-0.32		696.0		25752
+JKCEMENT		-1.88		2960.75		22866
+BAJAJELEC		-1.1		1173.0		5236
