@@ -10,10 +10,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-MCDOWELL-N		2.0		812.95		2664417
-HCLTECH		1.77		1099.0		1586337
-BATAINDIA		0.62		1535.05		1178619
-BAJFINANCE		-0.14		6780.0		511577
+MCDOWELL-N		2.01		813.0		2667909
+HCLTECH		1.77		1099.0		1587602
+BATAINDIA		0.73		1536.7		1181050
+BAJFINANCE		-0.16		6778.65		512693
 
 Intraday_Volume_Shocker								 
 ======================= 
