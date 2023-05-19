@@ -10,10 +10,10 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-MCDOWELL-N,2.43,816.4,1652401
-HCLTECH,1.79,1099.25,904406
-BATAINDIA,1.43,1547.3,958145
-BAJFINANCE,-0.14,6780.0,304384
+MCDOWELL-N,2.1,813.75,1679655
+HCLTECH,1.81,1099.45,907509
+BATAINDIA,1.0,1540.75,961685
+BAJFINANCE,0.06,6793.8,311460
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -24,7 +24,8 @@ POLYCAB,0.96,3438.0,90320
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
-
+nsecode,per_chg,close,volume
+INDUSTOWER,-0.71,146.45,1405284
 
 Open_High,,,, 
 ========= 
