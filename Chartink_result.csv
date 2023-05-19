@@ -10,31 +10,18 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-BATAINDIA,1.86,1554,799979
-BAJFINANCE,-0.51,6755,245104
+BATAINDIA,1.82,1553.35,800944
+BAJFINANCE,-0.53,6753.5,246149
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-ITC,-0.73,416.65,10027481
-MCDOWELL-N,0.38,800.0,1069035
-AUBANK,-0.39,744.65,709072
-JSWSTEEL,-0.75,686.85,536774
-TECHM,1.94,1069.0,424374
-M&M,-0.2,1242.95,296524
-TATACONSUM,-2.29,758.55,234531
-CIPLA,0.34,917.65,232216
-SYNGENE,0.55,703.0,179247
-LUPIN,0.46,782.9,106752
-ALKEM,-0.17,3320.8,69975
-MCX,-0.73,1344.9,31057
-BANKNIFTY,-0.25,43645.05,0
+PETRONET,-0.97,224.65,418565
+LTIM,1.64,4790.0,92456
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
-nsecode,per_chg,close,volume
-VOLTAS,-0.51,793.5,432454
-TRENT,-0.66,1480.9,100591
+
 
 Open_High,,,, 
 ========= 
