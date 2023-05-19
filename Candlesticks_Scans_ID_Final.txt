@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.06		945.95		10502724
-HINDALCO		-0.63		403.95		3577212
+HINDALCO		-0.62		404		3590043
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNTV		-0.2		425.6		493886
+SUNTV		-0.22		425.5		499473
+PGHH		-0.57		13700.0		1392
