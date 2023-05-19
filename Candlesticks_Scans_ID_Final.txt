@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.17		240.0		3268997
-EICHERMOT		0.08		3578.9		644597
-HEROMOTOCO		-0.57		2719.55		380956
+EICHERMOT		0.04		3577.6		645478
+HEROMOTOCO		-0.58		2719.2		381552
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PRINCEPIPE		-2.05		568.7		152218
+
