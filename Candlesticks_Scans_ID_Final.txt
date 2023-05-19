@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		1.58		1097		405544
+NTPC		-0.6		174.05		1173073
+HCLTECH		1.62		1097.4		425483
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATUL		-0.73		6628.95		2784
+CHALET		-1.58		423.95		45180
+ESCORTS		-1.89		2044.75		41489
+GRINDWELL		-1.12		2033.8		4041
