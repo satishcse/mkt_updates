@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.08		800.0		1871336
-MARUTI		0.48		9096.6		445785
-BRITANNIA		-1.48		4497.0		272776
+BHARTIARTL		0.14		800.5		1873857
+MARUTI		0.43		9091.85		446382
+BRITANNIA		-1.44		4498.65		273153
 
 Bullish_Hammer_15m_N500								 
 ======================= 
