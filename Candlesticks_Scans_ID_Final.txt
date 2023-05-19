@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.48		104.7		8955994
-ONGC		-0.9		164.85		1445403
-KOTAKBANK		0.19		1931.0		1144798
+TATASTEEL		-0.57		104.6		9179187
+ONGC		-0.99		164.7		1454670
+KOTAKBANK		0.19		1931.0		1180014
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.53		21564.65		12548
-LAXMIMACH		-0.1		11182.1		2468
+VINATIORGA		-0.65		1933.35		9886
