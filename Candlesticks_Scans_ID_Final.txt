@@ -8,4 +8,5 @@ BPCL		-0.54		358.75		826661
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PRINCEPIPE		-2.07		568.6		151552
