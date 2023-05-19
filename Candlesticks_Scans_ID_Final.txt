@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.29		3118.0		84754
-DIXON		0.81		3008.0		75133
-GARFIBRES		0.2		2986.05		11286
+ASIANPAINT		0.27		3117.5		89146
+DIXON		0.76		3006.45		77968
+JBMA		-0.56		760.6		26501
+TORNTPHARM		-0.49		1641.9		14592
+AAVAS		-0.41		1390.85		8823
+3MINDIA		-0.04		23353.3		68
