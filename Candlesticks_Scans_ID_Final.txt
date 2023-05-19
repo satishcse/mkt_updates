@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.14		800.5		1887850
-MARUTI		0.41		9090.0		447105
+BHARTIARTL		0.17		800.7		1891999
+MARUTI		0.38		9088.0		447172
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-THERMAX		-0.88		2260		72725
+THERMAX		-0.88		2259.95		72743
