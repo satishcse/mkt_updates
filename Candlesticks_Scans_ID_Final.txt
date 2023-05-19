@@ -1,12 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATACONSUM		-1.78		762.5		731178
+APOLLOHOSP		0.07		4445.0		85267
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PEL		-0.86		740.95		353256
-BIRLACORPN		-1.27		984.5		46550
-LINDEINDIA		-0.74		3926.95		7400
-PGHH		-0.39		13725.0		1097
+ATUL		-1.04		6607.9		6474
+PGHH		-0.39		13725.0		1083
