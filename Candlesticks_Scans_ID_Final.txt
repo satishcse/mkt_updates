@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		1.02		4528.95		288942
+HCLTECH		2.19		1119.35		1505690
+BAJAJ-AUTO		1.02		4529.0		290381
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 CHEMPLASTS		-5.46		440.5		180808
-PGHH		-0.28		13552.0		6114
+PGHH		-0.28		13552.0		6034
