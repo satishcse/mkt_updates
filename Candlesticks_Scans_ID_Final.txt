@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.05		7685.45		82500
+TATAMOTORS		-0.76		520.95		7276933
+BAJAJ-AUTO		1.15		4534.9		263045
+EICHERMOT		-0.88		3539.45		205637
+NESTLEIND		-0.89		21497.95		33073
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SPARC		0.51		195.4		1019268
-NESTLEIND		-0.89		21497.75		32918
+CRAFTSMAN		-0.55		3482.45		12647
