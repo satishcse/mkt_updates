@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.32		803.15		5906430
-WIPRO		1.22		390.9		2091229
-COALINDIA		0.46		241.0		1156133
-ASIANPAINT		0.36		3095.45		262593
+BHARTIARTL		-0.33		803.1		5939570
+ONGC		0.82		166.25		3346646
+COALINDIA		0.4		240.85		1172674
+ASIANPAINT		0.3		3093.7		263803
 
 Bullish_Hammer_15m_N500								 
 ======================= 
