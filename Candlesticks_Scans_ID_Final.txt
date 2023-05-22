@@ -9,6 +9,5 @@ BRITANNIA		0.0		4500.0		168069
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VINATIORGA		-5.1		1794.9		134060
-HLEGLAS		-1.93		606.5		35391
-PGHH		-0.74		13490.0		7264
+VINATIORGA		-5.09		1795		134514
+PGHH		-0.74		13490		7403
