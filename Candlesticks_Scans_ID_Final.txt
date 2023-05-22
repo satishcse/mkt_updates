@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.13		1155.6		17797
+SBILIFE		0.15		1155.9		18319
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SANOFI		-0.17		6289.55		3324
+TATACONSUM		-0.05		765.1		82497
+HOMEFIRST		-0.04		700.0		24650
+BRIGADE		-0.41		540.5		10614
+SANOFI		0.15		6309.8		4013
+AETHER		0.13		919.0		3291
