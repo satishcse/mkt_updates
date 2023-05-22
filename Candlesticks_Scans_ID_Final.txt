@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.4		240.85		963213
-EICHERMOT		-0.67		3547.0		98806
-MARUTI		0.59		9159.4		70455
+COALINDIA		0.4		240.85		971012
+EICHERMOT		-0.69		3546.25		99184
+MARUTI		0.56		9156.5		70547
 
 Bullish_Hammer_15m_N500								 
 ======================= 
