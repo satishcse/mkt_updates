@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.24		425.05		12920524
-ULTRACEMCO		0.02		7683.0		81367
+ULTRACEMCO		0.06		7685.75		81840
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ALKYLAMINE		-1.9		2481.65		26182
+
