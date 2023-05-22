@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.13		390.55		1632399
-JSWSTEEL		-0.27		692.0		755205
-BPCL		0.18		360.95		452628
-EICHERMOT		-0.71		3545.5		82439
-ULTRACEMCO		0.22		7698.55		36590
+WIPRO		1.18		390.75		1638852
+JSWSTEEL		-0.25		692.1		756103
+EICHERMOT		-0.66		3547.25		82969
 
 Bullish_Hammer_15m_N500								 
 ======================= 
