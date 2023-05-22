@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.41		920.3		4090647
-HINDALCO		-0.52		404.65		1326782
-DRREDDY		1.58		4461.3		141903
-EICHERMOT		-0.59		3549.75		93360
+AXISBANK		-0.39		920.45		4108973
+HINDALCO		-0.55		404.5		1333209
+DRREDDY		1.47		4456.55		142325
+EICHERMOT		-0.59		3549.75		93689
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		0.03		11237.65		2563
+ENDURANCE		-1.03		1379.15		9237
+LAXMIMACH		0.03		11237.65		2538
