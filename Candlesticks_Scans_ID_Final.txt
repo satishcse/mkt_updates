@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		0.0		4500.0		103837
-ULTRACEMCO		0.06		7686.1		82485
+ULTRACEMCO		0.05		7685.45		82500
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SPARC		0.18		194.75		985064
-NESTLEIND		-0.91		21492.4		32900
+SPARC		0.51		195.4		1019268
+NESTLEIND		-0.89		21497.75		32918
