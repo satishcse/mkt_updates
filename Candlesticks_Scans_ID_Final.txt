@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.1		359.95		401275
-ULTRACEMCO		0.15		7692.8		28232
+BPCL		0.01		360.35		404521
+ULTRACEMCO		0.24		7699.85		28522
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LICHSGFIN		0.04		372.95		478022
-PVRINOX		-1.28		1355.0		71569
-PIDILITIND		-0.61		2551.0		27651
-ZYDUSWELL		-0.65		1454.95		6463
-NESTLEIND		-0.37		21609.6		4612
+SBIN		0.03		575.35		5014193
+OBEROIRLTY		-0.54		913.45		79465
+PVRINOX		-1.28		1355.1		72198
