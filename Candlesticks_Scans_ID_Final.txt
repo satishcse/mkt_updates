@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.06		360.5		409851
-ULTRACEMCO		0.22		7698.5		29454
+TATASTEEL		0.24		104.9		6179022
+NTPC		1.88		176.55		3369699
+TECHM		1.45		1087.7		451277
 
 Bullish_Hammer_15m_N500								 
 ======================= 
