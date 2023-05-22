@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		1.53		4551.9		160307
-EICHERMOT		-0.74		3544.55		101526
+BAJAJ-AUTO		1.52		4551.25		161070
+EICHERMOT		-0.74		3544.55		101684
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PAGEIND		0.26		41782.7		4024
+
