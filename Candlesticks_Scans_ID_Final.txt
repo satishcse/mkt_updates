@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.14		104.8		15341946
-BAJFINANCE		0.01		6784.85		307899
-BAJAJ-AUTO		1.04		4530.0		263901
-EICHERMOT		-0.88		3539.4		206527
-BRITANNIA		-0.04		4498.05		105846
-NESTLEIND		-0.88		21498.95		33383
+BAJAJ-AUTO		1.04		4530.0		264146
+NESTLEIND		-0.93		21489.3		33489
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CRAFTSMAN		-0.41		3487.4		12898
