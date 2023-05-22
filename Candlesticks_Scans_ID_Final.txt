@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.29		1285.25		3049433
-EICHERMOT		-0.65		3547.85		92603
+AXISBANK		-0.31		921.2		4025594
+JSWSTEEL		0.41		696.7		896019
+COALINDIA		0.42		240.9		857820
+GRASIM		0.31		1721.5		60793
 
 Bullish_Hammer_15m_N500								 
 ======================= 
