@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		1.04		4530.0		264146
-NESTLEIND		-0.93		21489.3		33489
+BAJAJ-AUTO		1.04		4530.0		264368
+BRITANNIA		0.0		4499.75		106421
+NESTLEIND		-0.91		21491.8		33939
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRAFTSMAN		-0.41		3487.4		12898
+HOMEFIRST		-0.98		693.4		72652
+CRAFTSMAN		-0.42		3487.25		12900
