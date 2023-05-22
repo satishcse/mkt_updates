@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BRITANNIA,0.0,4500.0,102260
-ULTRACEMCO,0.1,7688.9,79583
+ULTRACEMCO,-0.01,7680.85,80604
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PIDILITIND,-1.39,2531.0,123932
+LINDEINDIA,-1.11,3884.9,8960
