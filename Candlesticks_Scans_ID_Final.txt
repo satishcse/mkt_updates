@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.35		802.95		5468558
-AXISBANK		-0.52		919.25		4329729
-HINDALCO		-0.54		404.55		1375459
-EICHERMOT		-0.6		3549.3		96942
+BHARTIARTL		-0.35		802.95		5479596
+AXISBANK		-0.5		919.4		4341306
+HINDALCO		-0.57		404.45		1382826
+EICHERMOT		-0.6		3549.4		97365
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SRF		-0.79		2417.15		89269
+BAYERCROP		0.06		4138.9		4035
