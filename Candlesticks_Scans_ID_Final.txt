@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.35		920.85		4058466
-HINDALCO		-0.47		404.85		1324191
-DRREDDY		1.63		4463.6		141790
-GRASIM		0.34		1722.0		60956
+AXISBANK		-0.41		920.3		4090647
+HINDALCO		-0.52		404.65		1326782
+DRREDDY		1.58		4461.3		141903
+EICHERMOT		-0.59		3549.75		93360
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		0.03		11237.9		2517
+LAXMIMACH		0.03		11237.65		2563
