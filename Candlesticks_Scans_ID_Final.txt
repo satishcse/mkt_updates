@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.77		520.9		7309586
-BAJAJ-AUTO		1.04		4530.0		263471
-EICHERMOT		-0.91		3538.5		206117
-NESTLEIND		-0.95		21485.05		33238
+BAJFINANCE		0.0		6784.5		307220
+BAJAJ-AUTO		1.04		4530.0		263604
+EICHERMOT		-0.89		3539.0		206294
+BRITANNIA		-0.04		4498.0		105783
+NESTLEIND		-0.9		21494.55		33338
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KALPATPOWR		-1.79		511.6		115311
+KALPATPOWR		-1.81		511.45		115779
