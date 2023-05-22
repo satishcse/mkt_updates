@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.08		2710.9		31928
+BPCL		0.19		361		352085
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANYAVAR		-1.0		1217.95		449437
-AVANTIFEED		-0.68		364.1		18745
+MANYAVAR		-0.93		1218.75		473060
+SUMICHEM		0.98		390.25		78903
+AVANTIFEED		-0.68		364.1		18751
