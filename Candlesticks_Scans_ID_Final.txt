@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.46		421.8		1507882
-SBILIFE		0.22		1156.7		15122
+ITC		0.42		421.6		1559324
+SBILIFE		0.23		1156.85		15355
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+OLECTRA		1.09		685		215770
