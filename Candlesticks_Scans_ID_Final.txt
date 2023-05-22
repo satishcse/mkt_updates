@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.38		105.05		20254474
-BAJAJFINSV		-0.13		1413.2		550255
-BRITANNIA		0.0		4500.0		157297
+BAJAJFINSV		-0.11		1413.5		552259
+BRITANNIA		0.0		4499.95		158090
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MRF		-0.43		95824.85		6432
+PGHH		-0.71		13494.05		7089
