@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.26		407.8		3530076
-ASIANPAINT		0.32		3094.2		542568
+HINDALCO		0.26		407.8		3538538
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAPMYINDIA		-0.03		1072		42334
+MAPMYINDIA		-0.01		1072.15		41529
