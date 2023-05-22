@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		0.2		2718.5		26986
+HEROMOTOCO		0.18		2717.9		27305
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LAXMIMACH		0.36		11275.45		1470
+
