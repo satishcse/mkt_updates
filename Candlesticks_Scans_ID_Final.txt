@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.63		7729.5		55839
+POWERGRID		0.98		236.0		3543495
+HINDALCO		-0.55		404.5		1549048
+COALINDIA		0.46		241.0		1136380
 
 Bullish_Hammer_15m_N500								 
 ======================= 
