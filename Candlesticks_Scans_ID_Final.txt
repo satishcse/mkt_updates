@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.49		165.7		5220067
-UPL		0.02		668.15		1601809
+ONGC		0.55		165.8		5225860
+UPL		0.04		668.25		1602805
+SBILIFE		-0.04		1153.7		207537
+GRASIM		-0.12		1714.1		183717
+BRITANNIA		0.0		4499.9		109090
 
 Bullish_Hammer_15m_N500								 
 ======================= 
