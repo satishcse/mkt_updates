@@ -2,15 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.83		233.7		7553771
-BAJFINANCE		-0.08		6784.2		592834
-MARUTI		0.58		9105.95		543472
+POWERGRID		0.43		234.7		18417
+BAJFINANCE		0.0		6784.2		798
+MARUTI		-0.18		9090.0		536
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TEJASNET		-1.12		642.75		310324
-AARTIDRUGS		-1.6		459.45		101981
-POLYMED		-0.83		971.95		40014
-ATUL		-0.93		6615.15		12431
-TCIEXP		-1.82		1470.15		11521
+
