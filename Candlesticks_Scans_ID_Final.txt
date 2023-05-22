@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBILIFE		0.13		1155.6		17797
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLENMARK		-6.3		585.0		964792
-JSWSTEEL		-0.14		692.85		515707
+SANOFI		-0.17		6289.55		3324
