@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.69		174.5		10773388
-TATAMOTORS		-0.5		522.35		8175381
-TECHM		2.89		1103.15		2329290
-COALINDIA		-0.42		238.9		2230927
-BRITANNIA		0.0		4499.9		113885
-ULTRACEMCO		0.2		7697.0		92666
+NTPC		0.69		174.5		10806243
+TATAMOTORS		-0.5		522.35		8182334
+TECHM		2.86		1102.8		2333437
+COALINDIA		-0.44		238.85		2239946
+BRITANNIA		0.0		4499.8		114197
+ULTRACEMCO		0.2		7697.0		92865
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MEDPLUS		-0.29		685		20431
+MEDPLUS		-0.29		685		20557
