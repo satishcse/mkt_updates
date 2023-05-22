@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.42		391.7		2875019
-COALINDIA		0.27		240.55		1750076
+WIPRO		1.44		391.75		2880003
+COALINDIA		0.1		240.15		1791238
+TATACONSUM		0.1		766.25		358133
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		0.42		1160.7		105250
+UBL		-1.08		1399.9		207463
