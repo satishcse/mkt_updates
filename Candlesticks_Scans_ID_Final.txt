@@ -2,8 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		3.03		1104.6		2251361
-ULTRACEMCO		0.24		7700.0		90379
+NTPC		0.78		174.65		10301564
+TECHM		3.01		1104.45		2257332
+COALINDIA		-0.27		239.25		2174792
+APOLLOHOSP		3.06		4583.3		275444
+EICHERMOT		-0.91		3538.55		219124
+BRITANNIA		0.0		4499.9		112110
+ULTRACEMCO		0.24		7699.55		90486
 
 Bullish_Hammer_15m_N500								 
 ======================= 
