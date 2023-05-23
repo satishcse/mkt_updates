@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		15.0		2675.0		4482493
-ITC		0.79		428.1		1419662
-WIPRO		0.8		398.9		1106112
+HDFCBANK		0.13		1643.15		1827249
+ITC		0.8		428.15		1501968
+WIPRO		0.63		398.25		1178541
+BAJFINANCE		0.95		6857.7		253722
+HEROMOTOCO		-0.16		2687.85		35076
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-0.07		1999.3		18775
+SUNDRMFAST		-0.5		1066		6504
