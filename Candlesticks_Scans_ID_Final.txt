@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.11		800.95		1205131
+BHARTIARTL		-0.11		800.95		1211611
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-0.75		1773.75		143249
-HAVELLS		-1.1		1249.8		105856
-DATAPATTNS		-0.49		1598.6		24126
-VINATIORGA		-0.17		1790.75		19200
-BBTC		0.68		968.75		17619
+HDFCAMC		-0.74		1774.0		143539
+VINATIORGA		-0.17		1790.7		19326
+BBTC		0.64		968.4		17622
+ENDURANCE		0.43		1376.7		6815
