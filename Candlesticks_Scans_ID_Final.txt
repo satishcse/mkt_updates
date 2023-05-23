@@ -2,15 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.91		582.4		10744495
-ONGC		-0.36		165.0		7626472
-INFY		1.17		1307.9		5676218
-UPL		1.5		680.45		1633907
-TATACONSUM		0.38		769.0		592766
-EICHERMOT		1.45		3596.95		224646
+TATASTEEL		0.81		105.85		13155837
+DIVISLAB		4.53		3413.0		1086056
+APOLLOHOSP		-0.42		4586.0		227677
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DMART		0.21		3432.45		92291
-GODREJIND		-0.9		470.5		72050
+
