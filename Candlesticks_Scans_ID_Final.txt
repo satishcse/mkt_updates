@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.41		579.5		5334123
-HDFCBANK		0.21		1644.45		3811478
+SBIN		0.33		579.05		5364983
+HDFCBANK		0.15		1643.45		3876371
+JSWSTEEL		0.72		709.7		964324
 
 Bullish_Hammer_15m_N500								 
 ======================= 
