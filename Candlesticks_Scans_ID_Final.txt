@@ -8,7 +8,4 @@ COALINDIA		0.13		239.0		1030507
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ACC		0.22		1817.45		1154801
-JKLAKSHMI		-1.38		714.1		262720
-RATNAMANI		-0.43		2341.45		4549
+
