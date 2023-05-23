@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		4.26		3404		1110736
+AXISBANK		0.25		919.8		4726649
+NTPC		0.55		175.05		4660486
+HINDALCO		1.15		412.4		2711210
+DIVISLAB		4.02		3396.15		1119486
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUSTDIAL		-1.4		679.5		108516
+PFIZER		-0.15		3834.85		5378
