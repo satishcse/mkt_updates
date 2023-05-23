@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.87		527.05		7573707
-NTPC		0.63		175.2		3337951
-BHARTIARTL		-0.02		801.7		3311418
-M&M		0.04		1266.05		1152212
-SBILIFE		1.13		1163.85		696909
-BAJAJ-AUTO		0.16		4530.5		88580
+TATAMOTORS		0.88		527.1		7590380
+BHARTIARTL		-0.02		801.7		3327155
+M&M		0.07		1266.4		1154043
+SBILIFE		1.13		1163.8		697597
+BAJAJ-AUTO		0.16		4530.6		88663
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BEML		-1.1		1422.25		38058
+BEML		-1.06		1422.9		38059
