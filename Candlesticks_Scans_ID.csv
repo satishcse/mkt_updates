@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,-0.01,1640.9,9102516
-ITC,1.28,430.2,7045699
+HDFCBANK,-0.04,1640.45,9123248
+ITC,1.26,430.1,7090387
+NTPC,0.14,174.35,6260320
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-TITAN,-0.68,2694.0,409137
-LTIM,-2.45,4865.2,332058
+TITAN,-0.68,2694.0,413861
+LTIM,-2.43,4866.3,332944
+CRAFTSMAN,-3.08,3391.05,21654
