@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.64		930.9		1328015
+CIPLA		0.62		930.7		1329786
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-1.52		4304.45		247731
-TEAMLEASE		-0.06		2233.1		19279
+RELIANCE		0.04		2455.95		2152701
+BAJFINANCE		0.19		6806.25		656030
+COFORGE		-1.47		4306.6		248028
+POLYCAB		-1.67		3374.0		204625
