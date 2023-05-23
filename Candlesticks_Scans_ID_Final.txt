@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.05		1641.9		8981007
-POWERGRID		0.02		234.4		7534516
-ITC		1.29		430.25		6897201
+HDFCBANK		0.02		1641.35		9019704
+POWERGRID		-0.04		234.25		7540332
+ITC		1.28		430.2		6904142
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-2.45		4865.1		328183
+LTIM		-2.47		4864.4		328893
+CRAFTSMAN		-3.05		3392.1		21272
