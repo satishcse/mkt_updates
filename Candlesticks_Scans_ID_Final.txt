@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.63		1126.85		213314
+ICICIBANK		0.09		951.25		1852271
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKLAKSHMI		-1.26		714.95		76303
-SANOFI		-0.75		6271.5		3446
-3MINDIA		-0.57		24164.95		123
+RHIM		1.51		689.25		43110
+PFIZER		0.4		3856.0		1299
+3MINDIA		-0.58		24164.0		141
