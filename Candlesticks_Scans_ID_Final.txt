@@ -2,16 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.21		1644.5		2104691
-ITC		0.77		428.0		1660289
-WIPRO		0.73		398.65		1341384
-BAJFINANCE		0.73		6842.65		274819
-HEROMOTOCO		-0.31		2683.85		37777
+BHARTIARTL		-0.11		800.95		1159335
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GODREJCP		0.57		1022.7		210090
-CREDITACC		-2.82		1222.1		53964
-SOLARINDS		-0.08		3811.15		9142
-AETHER		-0.4		906.0		6351
+
