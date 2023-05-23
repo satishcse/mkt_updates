@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.28		412.9		2127484
-HDFC		0.12		2707.95		1949793
+ADANIPORTS		2.76		749.85		28845284
+NTPC		0.52		175.0		3096135
+TECHM		0.05		1104.95		726950
+TITAN		-0.09		2710.05		216436
 
 Bullish_Hammer_15m_N500								 
 ======================= 
