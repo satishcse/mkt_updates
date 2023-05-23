@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.54		238.6		2890842
-BRITANNIA		0.0		4500.0		172170
+COALINDIA		-0.5		238.7		2891415
+BRITANNIA		-0.02		4498.95		172174
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VINATIORGA		-5.09		1795.0		137528
-GUJALKALI		-1.21		681.95		99148
-NESTLEIND		-0.71		21535.1		51077
-TCIEXP		1.96		1499.0		9259
-PGHH		-0.74		13490.0		7561
+VINATIORGA		-5.16		1793.75		137542
+GUJALKALI		-1.25		681.7		99323
+AAVAS		-0.36		1387.45		77134
+NESTLEIND		-0.9		21494.8		51095
+TCIEXP		1.24		1488.4		9267
+PGHH		-0.63		13505.2		7564
