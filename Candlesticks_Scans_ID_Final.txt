@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.82		399.0		4772421
-AXISBANK		0.18		919.2		4169104
-COALINDIA		0.48		239.85		1622804
+WIPRO		0.76		398.75		4806139
+AXISBANK		0.23		919.7		4177215
+COALINDIA		0.48		239.85		1630302
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-0.87		2197.4		1558495
-ANURAS		-1.76		1190.1		318137
+ANGELONE		-2.13		1222.75		326326
+ANURAS		-1.28		1195.85		319826
