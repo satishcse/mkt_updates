@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.36		165.0		7560991
-UPL		1.53		680.65		1617490
-TATACONSUM		0.5		769.9		587192
+ONGC		-0.36		165.0		7566064
+UPL		1.44		680.05		1620627
+TATACONSUM		0.41		769.25		588260
+EICHERMOT		1.51		3599.0		221616
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PNCINFRA		-0.47		317.4		77820
+PHOENIXLTD		-1.12		1411.4		36780
