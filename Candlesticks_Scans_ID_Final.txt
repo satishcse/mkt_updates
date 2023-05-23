@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		2.54		748.25		33530700
-TATASTEEL		0.86		105.9		15659875
-BHARTIARTL		0.0		801.85		4295274
-BRITANNIA		0.57		4524.7		246063
+ADANIPORTS		2.59		748.6		33557672
+TATASTEEL		0.86		105.9		15678371
+BHARTIARTL		-0.01		801.8		4301335
+HDFCLIFE		-0.41		564.65		2754466
+BAJFINANCE		0.69		6840.05		593721
+BRITANNIA		0.6		4526.1		246162
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TIMKEN		-1.3		3201.25		15785
