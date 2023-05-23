@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.01		801.75		3994013
+SBIN		1.06		583.25		11509367
+BHARTIARTL		-0.01		801.75		4027697
+KOTAKBANK		-0.79		1924.9		2882316
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DALBHARAT		-0.39		2069.55		107401
+
