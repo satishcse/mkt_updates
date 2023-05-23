@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.78		398.85		4860701
+WIPRO		0.82		399		4878488
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANURAS		-1.14		1197.55		324971
-RHIM		0.43		681.95		128259
-CARBORUNIV		-1.37		1205.0		47718
+ANURAS		-1.11		1198.0		325401
+LTIM		-1.77		4898.95		282239
+CARBORUNIV		-1.37		1205.0		47776
