@@ -8,4 +8,5 @@ ULTRACEMCO		-0.11		7707.0		53487
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ACC		0.12		1815.5		1174955
+ACC		0.17		1816.55		1176749
+3MINDIA		-0.9		24085.15		487
