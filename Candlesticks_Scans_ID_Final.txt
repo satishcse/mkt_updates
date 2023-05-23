@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.11		800.95		1211611
+BHARTIARTL		-0.12		800.9		1221750
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-0.74		1774		144147
+HDFCAMC		-0.74		1774.0		145069
+NAZARA		-0.37		599.75		87115
