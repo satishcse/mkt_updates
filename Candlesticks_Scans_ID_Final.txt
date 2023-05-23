@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		2.6		748.7		29119243
-TATAMOTORS		1.03		527.9		7392500
+ADANIPORTS		2.54		748.2		29137723
+BHARTIARTL		-0.02		801.7		3211378
+MARUTI		0.52		9204.2		115976
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROBRAND		-0.99		889.85		77934
+METROBRAND		-0.99		889.85		77941
