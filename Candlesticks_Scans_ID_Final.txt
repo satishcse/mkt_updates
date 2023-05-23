@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.81		398.95		4884294
+ONGC		-0.39		164.95		7513415
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 ANGELONE		-2.19		1222.0		333039
-ANURAS		-1.23		1196.55		326379
+ANURAS		-1.23		1196.55		326205
 CARBORUNIV		-1.4		1204.7		48219
