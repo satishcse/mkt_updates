@@ -7,6 +7,4 @@ NTPC		0.37		174.75		1556867
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-0.74		1774.0		147137
-FINCABLES		0.48		883.0		42368
-DATAPATTNS		-0.47		1598.9		24755
+JBCHEPHARM		0.07		1965		7398
