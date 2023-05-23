@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		2.54		748.2		29137723
-BHARTIARTL		-0.02		801.7		3211378
-MARUTI		0.52		9204.2		115976
+TATASTEEL		0.81		105.85		11692407
+TATAMOTORS		0.99		527.65		7434418
+ITC		1.2		429.85		4855515
+BHARTIARTL		-0.01		801.8		3231044
+COALINDIA		0.15		239.05		1261922
+M&M		0.05		1266.15		871427
 
 Bullish_Hammer_15m_N500								 
 ======================= 
