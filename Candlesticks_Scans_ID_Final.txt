@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.02		801.7		4081988
-HINDALCO		1.08		412.1		2774882
-HDFCLIFE		-0.43		564.55		2673009
-HCLTECH		-0.29		1116.55		1449083
-TITAN		-0.5		2699.0		352277
+HINDALCO		1.07		412.05		2777031
+HDFCLIFE		-0.43		564.55		2677108
+HCLTECH		-0.42		1115.1		1451708
+TITAN		-0.57		2697.0		357037
+BRITANNIA		0.67		4529.0		239296
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAYERCROP		-0.74		4096.65		6662
+BAYERCROP		-0.74		4096.65		6473
