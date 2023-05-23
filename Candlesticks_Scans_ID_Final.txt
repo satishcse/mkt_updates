@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.65		931		1331404
+BAJAJ-AUTO		-0.58		4496.85		184694
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-3.43		1206.45		469633
+ANGELONE		-3.39		1207.0		470555
+GALAXYSURF		0.49		2597.7		7517
