@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		4.54		3413.1		1093757
-APOLLOHOSP		-0.35		4589.0		236263
+WIPRO		0.81		398.95		5024391
+DIVISLAB		4.53		3412.75		1096874
+TITAN		-0.31		2704.2		320095
+APOLLOHOSP		-0.35		4589.0		237139
 
 Bullish_Hammer_15m_N500								 
 ======================= 
