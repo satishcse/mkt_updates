@@ -2,16 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.24		398.6		2266230
-COALINDIA		0.36		240.15		1395093
-M&M		-0.25		1265.4		732744
-CIPLA		0.5		935.05		650339
-BAJAJ-AUTO		0.6		4525.0		241354
-NESTLEIND		-0.49		21298.3		26674
+WIPRO		0.24		398.6		2278849
+COALINDIA		0.33		240.1		1398757
+M&M		-0.26		1265.25		733302
+CIPLA		0.49		935.0		663750
+BAJAJ-AUTO		0.6		4524.95		241511
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UNOMINDA		-2.71		519.0		323012
+UNOMINDA		-2.71		519.0		331841
 PNCINFRA		-0.46		315.7		101777
 ZFCVINDIA		-0.96		10395.1		1232
