@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.11		174.35		2097717
-BAJAJ-AUTO		0.78		4533.1		208573
+NTPC		0.2		174.5		2136657
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GUJALKALI		-0.29		662		60424
+
