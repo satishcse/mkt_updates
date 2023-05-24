@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.89		432.95		3705425
-BHARTIARTL		0.23		801.75		1270152
-TECHM		0.52		1096.2		431448
+BPCL		0.38		368.0		702795
+TECHM		0.57		1096.7		432644
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PFIZER		-0.32		3826		2149
