@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		2.32		953.2		2270813
-LT		-0.61		2184.35		1687871
-HCLTECH		0.24		1110.0		1045673
-M&M		0.6		1276.1		897035
-ULTRACEMCO		0.04		7656.95		110278
+TATASTEEL		-0.24		105.35		13469408
+LT		-0.61		2184.3		1692897
+M&M		0.65		1276.8		899312
+ULTRACEMCO		0.05		7658.45		110653
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		-0.8		2173.15		38986
-FLUOROCHEM		-0.33		3318.35		29776
+HDFCAMC		-1.08		1747.5		217822
+ABBOTINDIA		-0.08		21490.85		14081
