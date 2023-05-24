@@ -36,7 +36,8 @@ GODREJPROP		-0.39		1340.0		114510
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+BALRAMCHIN		1.01		390.9		654852
 
 Open_High								 
 ========= 
@@ -53,10 +54,10 @@ ADANIPORTS		-2.79		713.55		9052867
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-COLPAL		1.2		1604.5		194218
-MARICO		0.93		531.85		592725
-GLENMARK		0.36		611.2		1068553
-CIPLA		0.33		933.5		533213
-TCS		0.27		3306.05		512856
-MGL		0.11		1031.0		159722
-GNFC		-0.06		596.5		410026
+COLPAL		1.17		1604.0		194321
+MARICO		0.92		531.8		593463
+GLENMARK		0.34		611.1		1072143
+CIPLA		0.29		933.1		534177
+TCS		0.25		3305.2		515216
+MGL		0.12		1031.15		159724
+GNFC		0.02		596.95		410563
