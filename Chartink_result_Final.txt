@@ -23,16 +23,22 @@ NMDC		-0.24		105.5		2744167
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-NMDC		-0.24		105.5		2744167
-EXIDEIND		-1.22		206.85		543282
-MFSL		0.92		682.5		63400
-BANKNIFTY		-0.16		43883.95		0
-NIFTY		0.05		18357.65		0
+NMDC		-0.43		105.3		2838665
+RBLBANK		-0.24		147.1		1373951
+HDFC		-0.39		2695.4		736324
+EXIDEIND		-1.38		206.5		570280
+LAURUSLABS		0.7		316.65		274343
+DIVISLAB		-0.8		3358.85		210176
+VOLTAS		-0.42		802.45		164283
+MFSL		0.91		682.45		64168
+METROPOLIS		-0.71		1250.0		47097
+DEEPAKNTR		0.01		1950.15		44625
+BANKNIFTY		-0.17		43879.8		0
+NIFTY		0.04		18355.55		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-HAL		-0.28		3038		273505
+
 
 Open_High								 
 ========= 

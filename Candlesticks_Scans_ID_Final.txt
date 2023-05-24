@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.38		1442.75		352248
+BAJAJFINSV		0.2		1440.15		355465
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+ALKYLAMINE		-0.78		2485.2		3286
 PFIZER		-0.18		3831.45		1885
