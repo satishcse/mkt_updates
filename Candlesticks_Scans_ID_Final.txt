@@ -2,14 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.23		398.55		2282782
-COALINDIA		0.36		240.15		1400236
-M&M		-0.24		1265.55		734712
-CIPLA		0.39		934.05		670674
-BAJAJ-AUTO		0.59		4524.85		242174
+WIPRO		0.24		398.6		2283945
+COALINDIA		0.4		240.25		1404203
+M&M		-0.23		1265.65		736906
+CIPLA		0.33		933.5		672482
+SBILIFE		0.84		1175.4		661311
+BAJAJ-AUTO		0.6		4524.95		242583
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.86		1905.0		2144428
+KOTAKBANK		-0.84		1905.35		2149977
+UNOMINDA		-2.58		519.7		337204
+MCX		-2.45		1354.45		292373
 ZFCVINDIA		-0.96		10395.1		1292
