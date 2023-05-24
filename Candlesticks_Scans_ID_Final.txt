@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.36		404.7		3407011
-LT		-0.58		2184.85		1675474
-M&M		0.6		1276.15		885457
-HEROMOTOCO		1.17		2742.1		293753
-ULTRACEMCO		0.01		7654.8		108127
+HINDALCO		-1.38		404.65		3416089
+LT		-0.59		2184.75		1677793
+HCLTECH		0.24		1110.0		1031222
+M&M		0.63		1276.5		889340
+ULTRACEMCO		0.04		7656.95		108658
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFC		-1.19		2673.7		2093122
+CERA		-1.51		7574.15		26784
