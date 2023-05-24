@@ -10,5 +10,5 @@ ULTRACEMCO		0.05		7658.45		110653
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-1.08		1747.5		217822
-ABBOTINDIA		-0.08		21490.85		14081
+HDFCAMC		-1.08		1747.5		217930
+FLUOROCHEM		-0.34		3318.05		29928
