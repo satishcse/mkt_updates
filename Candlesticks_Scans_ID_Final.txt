@@ -1,14 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		0.67		166.1		5017594
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.26		1616.65		13948406
-KOTAKBANK		-0.88		1904.5		2880282
-ASIANPAINT		-0.59		3102.1		358419
-BALAMINES		-2.05		2165.85		91801
-SUNDARMFIN		-1.28		2489.25		28984
+HDFCBANK		-1.26		1616.65		13962393
+KOTAKBANK		-0.83		1905.5		2886853
+GLAND		-1.32		929.0		814711
+BALAMINES		-2.07		2165.35		92060
