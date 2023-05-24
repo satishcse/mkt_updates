@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.26		174.6		6391864
-ONGC		0.64		166.05		5104516
-TATACONSUM		0.1		770.85		749539
-APOLLOHOSP		-0.29		4537.1		193701
+TATASTEEL		-0.43		105.15		16237533
+NTPC		0.29		174.65		6418081
+ONGC		0.67		166.1		5123362
+TATACONSUM		0.13		771.05		754413
+MARUTI		0.76		9270.2		390215
+APOLLOHOSP		-0.27		4538.15		194100
 
 Bullish_Hammer_15m_N500								 
 ======================= 
