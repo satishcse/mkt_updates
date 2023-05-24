@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.35		934.9		665341
+SUNPHARMA		0.33		934.65		668600
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VINATIORGA		-0.23		1789.1		12690
-MFL		-0.01		929.35		9359
-JBCHEPHARM		-0.26		1946.95		5700
+
