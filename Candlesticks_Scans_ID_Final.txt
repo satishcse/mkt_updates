@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.24		682.25		1651521
+ONGC		0.67		166.1		5017594
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALAMINES		-2.08		2165.0		91173
-FLUOROCHEM		-0.62		3308.75		32807
+KOTAKBANK		-0.88		1904.6		2874942
+RHIM		-0.42		674.5		112248
+BALAMINES		-2.12		2164.2		91354
+SUNDARMFIN		-1.28		2489.25		28984
