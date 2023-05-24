@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.43		2444.1		2369713
-TITAN		1.25		2717.0		514704
-BAJAJ-AUTO		0.61		4525.5		248147
+RELIANCE		-0.39		2444.9		2374822
+TITAN		1.29		2717.95		517153
+BAJAJ-AUTO		0.58		4524.1		249033
 
 Bullish_Hammer_15m_N500								 
 ======================= 
