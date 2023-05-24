@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.73		166.2		5769924
+ONGC		0.82		166.35		5803314
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LODHA		-0.88		980.65		417793
-VGUARD		-0.38		249.35		81411
-CERA		-1.31		7589.0		34563
+BIKAJI		-0.7		381.9		816291
+ABBOTINDIA		-0.11		21484.6		15385
