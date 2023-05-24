@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.16		801.2		8979999
+BHARTIARTL		0.13		801		9022897
+ULTRACEMCO		0.04		7657		160042
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEJASNET		-1.1		644.5		231109
-CDSL		0.22		988.75		160198
-CERA		-1.17		7600.0		35220
-MFL		-0.26		927.0		24512
+TEJASNET		-1.02		645.0		232872
+SOBHA		-0.2		516.85		202764
+GODFRYPHLP		-1.26		1734.55		26369
