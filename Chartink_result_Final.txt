@@ -26,9 +26,14 @@ RBLBANK		-0.54		146.65		1742790
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-0.25		3038.65		447528
-CUMMINSIND		0.73		1697.0		371505
-SHREECEM		-3.14		23989.05		46746
+ICICIGI		-0.88		1075.05		646396
+BAJAJFINSV		0.02		1437.5		544903
+CONCOR		0.64		665.4		483325
+HAL		-0.29		3037.55		448876
+INTELLECT		1.9		568.3		403332
+CUMMINSIND		0.73		1697.0		372446
+SHREECEM		-3.16		23982.8		46834
+NIFTY		0.1		18367.15		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
