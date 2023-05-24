@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.56		2185.4		2498756
-JSWSTEEL		-0.93		697.55		1166072
+BHARTIARTL		0.16		801.2		8979999
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEJASNET		-0.97		645.3		226137
-CERA		-1.24		7594.55		34948
-GODFRYPHLP		-1.23		1735.1		25992
-MFL		-0.89		921.2		23095
+BIKAJI		-0.68		382.0		826039
+TEJASNET		-1.1		644.5		229932
+CERA		-1.17		7600.0		35168
