@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.0		397.65		1436200
-M&M		-0.25		1265.4		518438
+TATASTEEL		-0.09		105.5		6088868
+WIPRO		0.03		397.75		1438172
+M&M		-0.21		1265.9		519637
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AWL		-3.6		471.1		9027926
-PAGEIND		-1.14		41315.0		4709
+AWL		-3.6		471.1		9039804
+PAGEIND		-1.03		41362.15		4711
