@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.43		105.15		16237533
-NTPC		0.29		174.65		6418081
-ONGC		0.67		166.1		5123362
-TATACONSUM		0.13		771.05		754413
-MARUTI		0.76		9270.2		390215
-APOLLOHOSP		-0.27		4538.15		194100
+NTPC		0.32		174.7		6423808
+INDUSINDBK		0.86		1271.0		2344726
+TATACONSUM		0.1		770.85		754695
+MARUTI		0.75		9270.0		391500
+APOLLOHOSP		-0.28		4537.85		194672
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KPRMILL		-1.85		568.6		415391
+CHEMPLASTS		-5.28		425.0		242949
+POWERINDIA		-4.07		3840.0		79794
