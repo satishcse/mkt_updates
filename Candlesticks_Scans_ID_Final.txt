@@ -7,4 +7,6 @@ M&M		-0.25		1265.35		713230
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LT		-0.44		2187.95		1052827
+CERA		-1.28		7591.55		22458
