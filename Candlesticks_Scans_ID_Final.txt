@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.19		801.5		5811410
-WIPRO		0.16		398.3		1946098
-UPL		0.21		682.05		944657
+BHARTIARTL		0.21		801.6		5822210
+WIPRO		0.18		398.35		1949671
+UPL		0.24		682.3		947706
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+WESTLIFE		-0.16		732.25		78283
