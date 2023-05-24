@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.2		801.55		5783168
-COALINDIA		0.31		240.05		1239428
+UPL		0.2		682		941211
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIPOWER		-1.19		257.15		19552392
-KPRMILL		-0.91		574.0		330882
+
