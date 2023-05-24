@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.26		802.0		6299437
-NTPC		0.49		175.0		2998214
-COALINDIA		0.36		240.15		1350056
-BAJAJFINSV		-0.22		1434.05		751892
+NTPC		0.49		175.0		3018865
+COALINDIA		0.36		240.15		1351535
+BAJAJFINSV		-0.3		1433.0		752397
+M&M		-0.22		1265.75		721123
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAPMYINDIA		-0.58		1064.4		33849
+SOLARINDS		-0.65		3796.4		32770
