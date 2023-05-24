@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.2,174.5,2136657
+NTPC,0.2,174.5,2148004
+COALINDIA,0.36,240.15,1042736
+BAJAJ-AUTO,0.79,4533.85,209116
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+RATNAMANI,-1.04,2347.7,19916
