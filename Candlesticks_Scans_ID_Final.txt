@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.7		1277.4		922527
-ULTRACEMCO		0.02		7655.8		113527
+BHARTIARTL		0.21		801.6		7292234
+NTPC		0.32		174.7		5927960
+POWERGRID		0.81		236.0		5368501
+INFY		-0.08		1299.0		4032117
+INDUSINDBK		1.13		1274.4		1901226
+BAJAJ-AUTO		0.57		4523.55		263825
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		-0.4		2444.8		2733500
-HDFCAMC		-1.09		1747.3		219005
-FLUOROCHEM		-0.32		3318.75		29990
+
