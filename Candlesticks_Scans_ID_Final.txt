@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.49		175.0		3018865
-COALINDIA		0.36		240.15		1351535
-BAJAJFINSV		-0.3		1433.0		752397
-M&M		-0.22		1265.75		721123
+NTPC		0.49		175.0		3031896
+COALINDIA		0.38		240.2		1352753
+BAJAJFINSV		-0.36		1432.1		753339
+M&M		-0.23		1265.65		722018
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SOLARINDS		-0.65		3796.4		32770
+
