@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.52		431.4		8086492
-BHARTIARTL		0.04		800.25		6999992
-HINDALCO		-1.39		404.6		3281332
-ULTRACEMCO		0.08		7660.0		101427
+ITC		0.54		431.45		8095952
+AXISBANK		-0.04		915.8		3526995
+HINDALCO		-1.4		404.55		3284303
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CAMS		-0.78		2173.75		37922
