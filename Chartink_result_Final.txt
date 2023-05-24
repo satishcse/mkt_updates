@@ -54,7 +54,7 @@ NIFTY		0.08		18362.95		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-AARTIIND		2.18		518.2		663577
+AARTIIND		2.18		518.2		683159
 
 Open_High								 
 ========= 
@@ -72,10 +72,10 @@ ASHOKLEY		-2.17		148.9		13650133
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-COLPAL		1.08		1602.55		181919
-MARICO		0.97		532.05		519868
-TCS		0.42		3310.9		462044
-GLENMARK		0.28		610.7		1000407
+COLPAL		1.08		1602.7		182022
+MARICO		0.94		531.9		522197
+TCS		0.38		3309.55		463066
+GLENMARK		0.33		611.0		1002125
+GNFC		0.21		598.1		373512
 MGL		0.2		1032.0		141830
-CIPLA		0.18		932.1		428805
-GNFC		0.09		597.4		373001
+CIPLA		0.19		932.2		429351
