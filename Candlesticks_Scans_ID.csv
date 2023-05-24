@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,0.35,583.65,12657223
-ITC,0.47,431.15,8157190
-NTPC,0.46,174.95,5069174
-AXISBANK,-0.13,914.95,3540826
-HINDALCO,-1.38,404.65,3321676
+ITC,0.48,431.2,8184051
+AXISBANK,-0.09,915.35,3549815
+HINDALCO,-1.34,404.8,3332229
+ULTRACEMCO,0.08,7660.0,105029
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HINDUNILVR,-0.61,2612.25,416920
+PHOENIXLTD,-0.76,1404.6,26920
