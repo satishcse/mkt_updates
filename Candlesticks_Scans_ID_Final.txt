@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.19		105.4		14101023
-POWERGRID		0.64		235.6		5439960
-ASIANPAINT		-0.3		3111.2		317907
+TATASTEEL		-0.28		105.3		14131475
+POWERGRID		0.68		235.7		5446441
+HDFCLIFE		0.6		566.05		1284167
+ASIANPAINT		-0.25		3112.9		318246
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 BIKAJI		-0.27		383.55		717150
 BRITANNIA		-0.17		4514.0		237907
-ANURAS		0.09		1211.9		46131
+ANURAS		0.09		1211.9		46251
