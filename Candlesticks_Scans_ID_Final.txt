@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.16		771.3		771380
-APOLLOHOSP		-0.3		4536.75		201623
+TATACONSUM		0.17		771.35		785594
+APOLLOHOSP		-0.34		4535.0		204996
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CHEMPLASTS		-4.71		427.55		249858
-LAXMIMACH		-1.46		11232.45		3456
+
