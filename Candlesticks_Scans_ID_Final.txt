@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.67		166.1		4979829
+UPL		0.24		682.25		1651521
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-0.7		2437.25		3176372
+VARROC		-3.14		303.7		571106
+HINDUNILVR		-0.62		2612.0		483313
