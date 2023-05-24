@@ -10,8 +10,4 @@ NESTLEIND		-0.11		21380.95		36387
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HDFCBANK		-1.26		1616.6		13976228
-HDFC		-1.37		2668.75		2309336
-BALAMINES		-2.0		2166.95		92197
-FLUOROCHEM		-0.61		3309.25		32889
+
