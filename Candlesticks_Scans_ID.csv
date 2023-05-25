@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HINDALCO,-1.5,400.8,4105539
-ADANIPORTS,-0.26,716.4,4029527
-WIPRO,-0.4,398.1,2259287
+ADANIPORTS,-0.22,716.65,4033207
+WIPRO,-0.4,398.1,2261559
+BAJAJ-AUTO,2.02,4608.85,612760
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-GNFC,-1.13,589.85,326695
+GNFC,-1.11,589.95,327915
+SUNDRMFAST,-1.49,1061.95,27389
