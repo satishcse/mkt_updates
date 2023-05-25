@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.45		165.5		3439603
-MARUTI		-0.18		9253.65		94193
+TATASTEEL		-0.62		104.55		11139921
+ONGC		-0.45		165.5		3453309
+MARUTI		-0.18		9253.75		94379
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DEEPAKNTR		-3.42		2062.0		708536
-JKCEMENT		-1.15		2907.85		40129
+
