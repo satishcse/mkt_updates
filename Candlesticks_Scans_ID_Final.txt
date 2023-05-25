@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.62		104.55		12144370
-ICICIBANK		-0.12		939.5		7401390
-WIPRO		-0.41		398.05		2257594
+HINDALCO		-1.5		400.8		4105539
+ADANIPORTS		-0.26		716.4		4029527
+WIPRO		-0.4		398.1		2259287
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GNFC		-1.13		589.85		326695
