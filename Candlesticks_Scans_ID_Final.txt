@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.64		237.3		6129579
-HDFCBANK		-0.62		1605.8		3797220
-ADANIENT		-2.17		2422.0		3713794
-BAJAJFINSV		0.05		1427.2		237175
+POWERGRID		0.68		237.4		6134844
+HDFCBANK		-0.63		1605.7		3801434
+BAJAJFINSV		0.03		1426.85		237723
 
 Bullish_Hammer_15m_N500								 
 ======================= 
