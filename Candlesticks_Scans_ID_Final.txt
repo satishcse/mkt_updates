@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.67		104.5		19773141
-ONGC		-0.6		165.25		6213224
-HINDALCO		-0.98		402.9		5623202
-KOTAKBANK		0.61		1922.0		4368846
-M&M		-0.36		1271.05		1601045
-BAJFINANCE		0.12		6794.0		379131
+TATASTEEL		-0.71		104.45		19816130
+ONGC		-0.54		165.35		6319739
+M&M		-0.37		1271.0		1604001
+BAJFINANCE		0.13		6794.85		379810
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAXHEALTH		-4.28		533.9		3357814
+MAXHEALTH		-4.22		534.2		3363843
+FLUOROCHEM		0.29		3309.95		46377
 ZYDUSWELL		-0.78		1466.0		6411
