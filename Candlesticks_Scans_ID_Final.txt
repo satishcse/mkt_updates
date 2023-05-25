@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-2.28		2419.15		3694570
-ADANIPORTS		-0.43		715.15		3245498
+ADANIENT		-2.36		2417.1		3698716
+ADANIPORTS		-0.38		715.5		3252329
+BAJFINANCE		-0.18		6773.9		157216
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		-0.9		3273.55		230741
-JKCEMENT		-0.52		2926.4		27993
-PGHH		-0.62		13444.05		676
+TCS		-0.88		3274.4		232182
+JKCEMENT		-0.36		2931.2		28023
+GARFIBRES		-0.12		3009.5		1264
