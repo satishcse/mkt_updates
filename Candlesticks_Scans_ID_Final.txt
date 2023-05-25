@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.67		104.5		14988631
-HINDALCO		-1.41		401.15		4753396
-TITAN		-0.86		2684.0		365498
-ASIANPAINT		0.24		3108.95		265940
+POWERGRID		0.51		237.0		7715097
+HINDALCO		-1.4		401.2		4756903
+TITAN		-0.83		2684.65		366812
+ASIANPAINT		0.27		3109.85		267006
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TRITURBINE		-2.47		393.1		542246
