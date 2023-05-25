@@ -10,6 +10,5 @@ SBILIFE		0.01		1175.45		418989
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-0.45		4580.8		25038
-BOSCHLTD		-0.2		18714.25		5205
-KSB		-0.57		2174.9		4454
+KSB		-0.51		2176.15		4630
+BLUEDART		-0.34		6052.15		2736
