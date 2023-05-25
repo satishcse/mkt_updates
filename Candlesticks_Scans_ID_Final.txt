@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.69		776.5		246512
+TATACONSUM		0.71		776.65		249362
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AJANTPHARM		-0.58		1292.3		7480
