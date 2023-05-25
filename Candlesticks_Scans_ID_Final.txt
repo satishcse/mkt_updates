@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		2.38		820.45		2814087
+ADANIPORTS		-0.34		715.8		3220333
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-2.08		1450.0		10486
-ZYDUSWELL		-0.3		1473.1		1677
-GARFIBRES		-0.05		3011.8		953
-PGHH		-0.58		13449.95		648
+ZYDUSWELL		-0.3		1473.05		1680
+PGHH		-0.62		13444.05		676
