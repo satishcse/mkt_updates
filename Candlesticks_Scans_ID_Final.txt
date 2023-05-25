@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.44		361.7		1337457
-APOLLOHOSP		0.08		4540.0		162149
+BPCL		-0.47		361.6		1342970
+APOLLOHOSP		0.12		4542.0		166464
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRINCEPIPE		0.58		584		82292
+PRINCEPIPE		0.57		583.95		82342
