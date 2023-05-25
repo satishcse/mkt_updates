@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.51		237.0		7725947
-HINDALCO		-1.4		401.2		4764814
-TITAN		-0.86		2683.85		368656
-ASIANPAINT		0.27		3109.75		268732
+HINDALCO		-1.36		401.35		4774430
+TITAN		-0.85		2684.2		370326
 
 Bullish_Hammer_15m_N500								 
 ======================= 
