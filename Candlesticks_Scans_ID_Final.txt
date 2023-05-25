@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.44		580.15		7907092
-BAJAJ-AUTO		2.04		4609.95		629874
+SBIN		-0.44		580.15		7915519
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-3.07		1913.55		80203
-AIAENG		-1.73		2888.0		20307
+INDIAMART		-1.7		5448.6		30083
