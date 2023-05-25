@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.48		165.45		3714382
-JSWSTEEL		-0.37		693.4		679792
-GRASIM		-0.01		1700.25		219049
+BHARTIARTL		2.07		818.0		4555111
+ONGC		-0.48		165.45		3716660
+JSWSTEEL		-0.4		693.25		679922
+GRASIM		0.03		1700.85		219391
 
 Bullish_Hammer_15m_N500								 
 ======================= 
