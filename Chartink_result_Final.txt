@@ -22,8 +22,14 @@ TATACOMM		-1.0		1247.15		285125
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSLIFE		-0.36		502.15		446053
-DALBHARAT		-0.58		2037.35		50209
+COALINDIA		-1.22		238.05		2242429
+RBLBANK		-0.38		144.9		2023430
+INFY		-0.05		1298.05		1887810
+UPL		-0.77		677.0		1467405
+VOLTAS		0.88		810.5		508392
+ZYDUSLIFE		-0.47		501.6		454272
+BANKNIFTY		-0.49		43461.7		0
+NIFTY		-0.35		18222.25		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -52,7 +58,7 @@ CUB		-2.54		136.45		1045517
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-BATAINDIA		2.28		1570.0		357499
-TATACONSUM		1.06		779.35		669031
-BEL		0.64		109.5		7322994
-GMRINFRA		-0.33		44.75		2891181
+BATAINDIA		2.28		1570.0		358891
+TATACONSUM		1.01		778.95		669810
+BEL		0.64		109.5		7334279
+GMRINFRA		-0.33		44.75		2892433
