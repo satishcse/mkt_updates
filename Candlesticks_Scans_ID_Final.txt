@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.11		1297.25		1815130
+NTPC		-0.6		173.9		3602826
+INFY		-0.12		1297.05		1821917
+M&M		-0.82		1265.2		1125229
+BAJAJ-AUTO		1.97		4606.55		633919
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AIAENG		-1.93		2882.25		22549
-BAYERCROP		0.66		4144.95		19584
+GLAND		-0.49		929.9		296561
+BAYERCROP		0.68		4145.75		19604
