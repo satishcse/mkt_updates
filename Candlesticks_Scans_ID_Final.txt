@@ -1,17 +1,17 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		0.23		175.35		574616
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CYIENT		-0.86		1310.0		322442
-NAZARA		1.1		628.0		216223
-VBL		-0.43		1607.9		166124
-NAUKRI		-1.04		3837.9		22874
-DALBHARAT		-0.44		2040.1		8798
-CARBORUNIV		-0.3		1165.0		6386
-MRF		0.09		95725.05		1216
-HONAUT		-0.03		39877.0		535
+NAZARA		1.1		628.0		218089
+VBL		-0.43		1607.9		166563
+JKLAKSHMI		-0.13		697.6		55674
+DRREDDY		-0.18		4511.0		29649
+MPHASIS		-0.74		1933.3		27097
+ICICIGI		-0.2		1072.45		24259
+LTIM		-0.29		4812.35		24145
+CARBORUNIV		-0.24		1165.7		6435
+HONAUT		0.03		39900.0		558
