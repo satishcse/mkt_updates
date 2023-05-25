@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.51		165.4		3064613
-NTPC		-0.14		174.7		2164915
-BPCL		-0.22		362.5		579403
-SBILIFE		0.0		1175.4		413701
+ONGC		-0.51		165.4		3082209
+NTPC		-0.11		174.75		2172117
+BPCL		-0.23		362.45		579914
+SBILIFE		-0.03		1175.05		418635
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-0.57		4575.5		24785
+KAJARIACER		-0.11		1263.1		37704
+NAVINFLUOR		-0.46		4580.55		24992
