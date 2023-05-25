@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.51		165.4		5671839
-SUNPHARMA		-0.83		944.25		1760124
-TITAN		-0.83		2684.85		419320
-APOLLOHOSP		0.23		4546.7		143472
+ONGC		-0.48		165.45		5688071
+SUNPHARMA		-0.85		944.05		1762610
+CIPLA		0.83		945.75		1378765
+APOLLOHOSP		0.21		4546.0		143712
 
 Bullish_Hammer_15m_N500								 
 ======================= 
