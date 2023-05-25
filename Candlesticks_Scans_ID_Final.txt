@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.71		104.45		15880645
-POWERGRID		0.32		236.55		7850667
-WIPRO		-1.44		393.95		3740161
-BPCL		-0.65		360.95		1160561
-HDFCLIFE		0.71		570.0		934129
-MARUTI		-0.2		9251.95		148160
+POWERGRID		0.34		236.6		7863735
+WIPRO		-1.45		393.9		3747075
+BPCL		-0.63		361.0		1161680
+HDFCLIFE		0.7		569.95		934586
+MARUTI		-0.2		9251.9		148625
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MTARTECH		-0.42		1874.85		57756
+
