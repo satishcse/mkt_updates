@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.54		165.35		3088132
-NTPC		-0.09		174.8		2193412
-BPCL		-0.32		362.15		583107
-SBILIFE		0.01		1175.5		421931
+ONGC		-0.54		165.35		3093535
+NTPC		-0.11		174.75		2198178
+BPCL		-0.26		362.35		585481
+SBILIFE		-0.03		1175.0		422051
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COLPAL		-1.41		1571.5		135874
-KSB		-0.49		2176.6		4474
+DEEPAKNTR		-3.08		2069.3		654439
+TANLA		-1.18		729.8		99329
+BOSCHLTD		-0.2		18714.0		5207
+KSB		-0.42		2178.15		4480
+BLUEDART		-0.27		6056.1		2781
