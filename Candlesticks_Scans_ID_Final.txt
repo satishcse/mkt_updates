@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.22		2190		1036840
+LT		0.24		2190.45		1043438
+EICHERMOT		0.61		3632.9		476151
+ULTRACEMCO		-0.46		7618.85		124885
 
 Bullish_Hammer_15m_N500								 
 ======================= 
