@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.71		239.3		3185306
+TATACONSUM		1.15		780.05		851622
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PRINCEPIPE		0.53		583.75		83003
-POLYMED		-1.14		964.45		12894
-TEAMLEASE		-0.52		2227.0		7208
+
