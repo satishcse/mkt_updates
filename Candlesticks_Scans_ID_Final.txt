@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.35		439.35		14092970
-ADANIPORTS		-0.5		714.65		4854751
-RELIANCE		-0.86		2419.25		2625254
-TITAN		-0.87		2683.8		340881
+ITC		1.31		439.2		14110796
+ADANIPORTS		-0.45		715.0		4867408
+TITAN		-0.82		2685.0		341732
 
 Bullish_Hammer_15m_N500								 
 ======================= 
