@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.57		165.3		3631053
-JSWSTEEL		-0.37		693.4		675122
-TECHM		-0.8		1090.0		447273
-BAJFINANCE		-0.13		6777.0		231644
+ONGC		-0.54		165.35		3643305
+JSWSTEEL		-0.35		693.55		678797
+BAJFINANCE		-0.16		6775.1		232102
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-2.8		1919.0		68832
-LINDEINDIA		-1.16		3952.3		7371
+LINDEINDIA		-1.16		3952.3		7379
