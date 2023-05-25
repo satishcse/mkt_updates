@@ -53,12 +53,7 @@ BANKNIFTY		-0.53		43445.15		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-BHEL		1.38		81.1		6816503
-RECLTD		0.69		131.8		4706021
-IEX		0.22		156.1		2195379
-GRANULES		-2.17		272.85		855902
-HAVELLS		0.42		1278.7		241592
+
 
 Open_High								 
 ========= 
@@ -83,7 +78,7 @@ DEEPAKNTR		-2.42		2083.35		885360
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-BATAINDIA		2.28		1570.05		369524
-TATACONSUM		1.04		779.15		682323
-BEL		0.6		109.45		7605520
-GMRINFRA		-0.33		44.75		2937009
+BATAINDIA		2.25		1569.55		371648
+TATACONSUM		1.05		779.25		684515
+BEL		0.69		109.55		7642759
+GMRINFRA		-0.45		44.7		2945899
