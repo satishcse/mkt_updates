@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.43		104.75		7026703
+TATASTEEL		-0.48		104.7		7108144
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-0.72		1412.1		163918
-RAINBOW		-1.73		918.3		39556
-LINDEINDIA		-0.83		3965.7		5222
+PHOENIXLTD		-0.63		1413.45		165064
 SUNDARMFIN		0.16		2512.6		4548
