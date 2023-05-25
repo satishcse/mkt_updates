@@ -7,4 +7,5 @@ APOLLOHOSP		0.08		4540.0		162149
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PRINCEPIPE		0.58		584		82292
