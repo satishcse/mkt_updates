@@ -1,13 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BHARTIARTL		2.38		820.45		2814087
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-2.0		1934.7		48046
-CLEAN		-0.53		1457.7		12084
-ECLERX		-2.08		1450.0		10426
-BASF		-0.79		2456.05		1655
-GARFIBRES		-0.04		3011.9		952
+ECLERX		-2.08		1450.0		10486
+ZYDUSWELL		-0.3		1473.1		1677
+GARFIBRES		-0.05		3011.8		953
+PGHH		-0.58		13449.95		648
