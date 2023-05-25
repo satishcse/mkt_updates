@@ -6,10 +6,11 @@ Hanging_Man_N100
 Bullish_Hammer_Daily_N50								 
 ======================== 
 nsecode		per_chg		close		volume
-ONGC		-0.06		166.15		7541629
-M&M		0.21		1278.35		1914115
-TECHM		0.02		1099.0		1083563
-TITAN		0.2		2712.6		614911
+TATAMOTORS		-0.97		515.15		11199536
+ONGC		-0.06		166.15		7576808
+M&M		0.14		1277.5		1927971
+TECHM		0.04		1099.15		1105766
+TITAN		0.22		2713.1		618271
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 

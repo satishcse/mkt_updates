@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.78		441.2		17664230
-ADANIPORTS		0.89		724.65		7079086
-UPL		-0.94		675.85		2132713
+ITC		1.8		441.3		17757044
+UPL		-0.92		675.95		2139844
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 BDL		-6.29		997.6		915396
-CARBORUNIV		-1.25		1153.95		74185
+CARBORUNIV		-1.25		1153.95		74350
