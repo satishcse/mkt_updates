@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.75		441.1		17872985
-BAJFINANCE		0.85		6843.9		514581
+ITC		1.75		441.1		17909445
+TATAMOTORS		-0.91		515.45		11339170
+UPL		-0.93		675.9		2165738
+BAJFINANCE		0.82		6841.9		517378
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		-6.21		998.5		961018
-LODHA		-1.21		968.35		388800
-ZFCVINDIA		1.48		10667.35		25465
-TEAMLEASE		-0.43		2228.95		8223
+BDL		-6.4		996.5		975981
+BIRLACORPN		0.47		993.85		83854
+ECLERX		-4.82		1409.45		46503
+HLEGLAS		-0.2		600.45		32370
+TEAMLEASE		-0.43		2229.0		8290
