@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.55		1264.75		2197662
-BAJAJ-AUTO		2.56		4633.35		904154
-TATACONSUM		1.18		780.25		854449
+INDUSINDBK		-0.57		1264.45		2204194
+TATACONSUM		1.23		780.6		858054
 
 Bullish_Hammer_15m_N500								 
 ======================= 
