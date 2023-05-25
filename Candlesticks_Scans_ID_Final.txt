@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.99		778.8		764299
-TITAN		-0.84		2684.45		414980
-APOLLOHOSP		0.19		4545.0		142453
+SUNPHARMA		-0.81		944.4		1756428
+APOLLOHOSP		0.2		4545.5		142816
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-3.64		1427		29240
+ECLERX		-3.64		1427		28667
