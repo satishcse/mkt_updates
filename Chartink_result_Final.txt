@@ -10,14 +10,14 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IDFC		2.41		93.65		4616893
-BAJAJ-AUTO		2.0		4608.0		607356
-ASTRAL		0.91		1729.95		246295
-EICHERMOT		0.84		3641.05		422970
-PIIND		0.79		3446.0		158249
-BRITANNIA		0.51		4542.95		625315
-TATACOMM		-0.77		1250.0		245918
-M&M		-0.82		1265.2		937462
+IDFC		2.35		93.6		5309082
+BAJAJ-AUTO		2.04		4609.7		607913
+ASTRAL		0.91		1729.95		246966
+EICHERMOT		0.83		3640.7		423841
+PIIND		0.83		3447.35		158321
+BRITANNIA		0.36		4536.0		626513
+TATACOMM		-0.8		1249.65		246032
+M&M		-0.81		1265.4		945175
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -32,7 +32,8 @@ NIFTY		-0.21		18246.45		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+MUTHOOTFIN		-0.32		1100.1		206187
 
 Open_High								 
 ========= 
@@ -58,7 +59,7 @@ DEEPAKNTR		-3.24		2065.9		746744
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-BATAINDIA		1.64		1560.2		262035
-TATACONSUM		0.84		777.65		612418
-BEL		0.6		109.45		6540908
-GMRINFRA		-0.22		44.8		2176484
+BATAINDIA		1.65		1560.3		262732
+TATACONSUM		0.85		777.7		612740
+BEL		0.64		109.5		6546063
+GMRINFRA		-0.11		44.85		2180704
