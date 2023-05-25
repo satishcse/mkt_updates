@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.34		236.6		7863735
-WIPRO		-1.45		393.9		3747075
-BPCL		-0.63		361.0		1161680
-HDFCLIFE		0.7		569.95		934586
-MARUTI		-0.2		9251.9		148625
+POWERGRID		0.36		236.65		7893470
+WIPRO		-1.44		393.95		3757947
+BPCL		-0.56		361.25		1168258
+HDFCLIFE		0.74		570.2		940348
+MARUTI		-0.22		9250.0		149967
 
 Bullish_Hammer_15m_N500								 
 ======================= 
