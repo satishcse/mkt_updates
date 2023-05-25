@@ -6,4 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GARFIBRES		-0.06		3011.3		945
+MASTEK		-2.0		1934.7		48046
+CLEAN		-0.53		1457.7		12084
+ECLERX		-2.08		1450.0		10426
+BASF		-0.79		2456.05		1655
+GARFIBRES		-0.04		3011.9		952
