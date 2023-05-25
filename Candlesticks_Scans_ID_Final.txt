@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.08		917.0		3542803
-WIPRO		-0.49		397.75		2304761
+ONGC		-0.45		165.5		3824117
+AXISBANK		-0.15		916.3		3564391
+WIPRO		-0.43		398.0		2328162
+SUNPHARMA		-0.79		944.65		1217298
+BAJAJ-AUTO		2.04		4609.95		615817
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SUNDRMFAST		-1.48		1062.05		28026
