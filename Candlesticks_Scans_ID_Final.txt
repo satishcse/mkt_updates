@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.61		817.7		3199704
-RELIANCE		1.92		2486.75		3148206
-ASIANPAINT		0.12		3127.2		301144
+AXISBANK		0.39		924.6		2446871
+COALINDIA		0.6		241.5		1770601
+BPCL		0.37		364.65		708337
+TATACONSUM		0.84		786.85		509788
+HINDUNILVR		0.91		2621.0		413130
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DEEPAKNTR		-0.69		2064.7		230916
+
