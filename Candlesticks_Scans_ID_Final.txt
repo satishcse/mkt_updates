@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		0.69		4534.9		72372
+DRREDDY		0.69		4534.9		72775
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 FINEORG		0.11		4466.8		20118
-ABBOTINDIA		-0.54		21722.0		2701
+ABBOTINDIA		-0.54		21722.0		2700
