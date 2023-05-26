@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		0.35		21549.75		49480
+NTPC		0.0		174.5		5612723
+ADANIPORTS		0.36		727.1		3957632
+WIPRO		1.85		401.4		3074213
+TITAN		1.11		2738.0		734866
+TATACONSUM		1.24		789.95		722621
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NH		-1.86		843.4		347843
-PGHH		0.2		13447.3		2023
+
