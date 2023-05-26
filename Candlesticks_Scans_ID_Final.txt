@@ -2,7 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.5		400		1669140
+WIPRO		1.5		400.0		1672657
+UPL		1.42		685.4		1337188
 
 Bullish_Hammer_15m_N500								 
 ======================= 
