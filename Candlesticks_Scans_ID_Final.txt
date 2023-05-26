@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.86		2485.45		3086261
-BPCL		0.3		364.4		673003
-EICHERMOT		0.52		3670.4		232287
+RELIANCE		1.85		2485		3097512
+EICHERMOT		0.51		3670		232527
+MARUTI		1.22		9395		169296
 
 Bullish_Hammer_15m_N500								 
 ======================= 
