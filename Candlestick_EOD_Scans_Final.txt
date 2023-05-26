@@ -2,14 +2,15 @@
 Hanging_Man_N100								 
 ================ 
 nsecode		per_chg		close		volume
-M&M		0.3		1281.65		3410742
+M&M		0.32		1281.9		3429957
 
 Bullish_Hammer_Daily_N50								 
 ======================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.32		1614.8		13032320
-POWERGRID		-0.29		237.25		4865200
-KOTAKBANK		0.8		1945.35		3204295
+HDFCBANK		0.34		1615.05		13078730
+ITC		0.57		443.65		12691172
+POWERGRID		-0.27		237.3		4880174
+KOTAKBANK		0.8		1945.45		3219377
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
@@ -63,5 +64,5 @@ OFSS		0.94		3599.05		101276
 INDIAMART		1.11		5559.7		92224
 NAVINFLUOR		0.42		4622.05		79043
 NESTLEIND		0.6		21603.25		59618
-BOSCHLTD		0.88		18946.95		11025
+BOSCHLTD		0.88		18946.95		11031
 BANKNIFTY		0.73		43998.95		0
