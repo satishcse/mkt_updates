@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.43		443.05		9324428
-INFY		1.14		1319.2		3802258
-BPCL		0.28		364.3		753859
-EICHERMOT		0.59		3673.2		258190
-MARUTI		1.22		9394.95		197588
-BRITANNIA		1.04		4610.9		156696
+ITC		0.41		442.95		9327699
+ICICIBANK		0.76		946.95		6646310
+INFY		1.15		1319.4		3805892
+BPCL		0.28		364.3		754491
+MARUTI		1.2		9393.3		198325
+BRITANNIA		1.04		4610.85		157166
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CYIENT		0.45		1310.95		405376
+CYIENT		0.46		1311		405698
+ROUTE		-0.91		1446		82139
