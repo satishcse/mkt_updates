@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.5		236.75		3312002
-ADANIPORTS		0.1		725.2		3084451
-AXISBANK		0.55		926.1		2719123
-CIPLA		0.4		949.2		744750
-BAJAJ-AUTO		-0.19		4634.95		246774
+POWERGRID		-0.46		236.85		3315656
+ADANIPORTS		0.08		725.05		3091783
+AXISBANK		0.55		926.15		2724222
+CIPLA		0.4		949.25		745631
 
 Bullish_Hammer_15m_N500								 
 ======================= 
