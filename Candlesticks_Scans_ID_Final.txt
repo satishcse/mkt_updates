@@ -2,18 +2,18 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.51		166.85		485305
+ONGC		0.33		166.55		569410
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EPL		1.5		189.8		41988
-KEC		0.23		524.4		28859
-TRENT		-0.16		1512.85		6527
-RAINBOW		0.1		953.95		4600
-TCI		1.04		708.8		4042
-TATACOMM		0.17		1262.95		2388
-BEML		0.65		1420.0		1775
-ALKEM		-0.06		3322.45		1530
-PFIZER		-0.27		3810.05		432
-GARFIBRES		-0.12		2987.0		159
+TRIVENI		5.27		278.7		294491
+JUBLFOOD		-0.26		487.9		114455
+KEC		0.22		524.35		32627
+TRENT		-0.19		1512.35		8095
+AVANTIFEED		0.51		377.3		5558
+TATACOMM		0.17		1262.9		4604
+PATANJALI		-0.53		1028.0		2174
+MFL		0.42		915.0		798
+RELAXO		0.25		877.6		640
+PFIZER		-0.27		3810.05		436
