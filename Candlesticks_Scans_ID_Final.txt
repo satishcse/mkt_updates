@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.6		400.4		2541213
-COALINDIA		0.77		241.9		1923129
-TECHM		1.02		1109.25		1474488
-ULTRACEMCO		1.62		7745.0		168825
+WIPRO		1.6		400.4		2555205
+COALINDIA		0.77		241.9		1926467
+TECHM		1.05		1109.6		1477261
+ULTRACEMCO		1.63		7746.0		170410
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-0.36		3401.45		98554
-RAYMOND		-1.75		1569.0		65201
+POLYCAB		-0.36		3401.45		98632
+RAYMOND		-1.73		1569.3		65929
