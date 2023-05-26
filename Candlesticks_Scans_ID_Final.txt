@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.61		236.5		3202480
-COALINDIA		0.56		241.4		1772888
-BPCL		0.39		364.7		708565
-TATACONSUM		0.84		786.85		510516
+COALINDIA		0.56		241.4		1774950
+BPCL		0.39		364.7		708811
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HGS		-0.25		1157.2		12599
