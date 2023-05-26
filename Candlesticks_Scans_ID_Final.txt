@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.78		163.05		5688277
-POWERGRID		-1.24		235.0		2138978
-TECHM		1.72		1117.0		814926
-TATACONSUM		0.98		787.95		396480
+ONGC		-1.78		163.05		5690285
+HDFCLIFE		-0.02		571.95		546912
+TATACONSUM		0.98		787.95		397556
 
 Bullish_Hammer_15m_N500								 
 ======================= 
