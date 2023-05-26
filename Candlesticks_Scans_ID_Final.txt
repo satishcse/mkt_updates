@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.48		106.4		28359854
+TATASTEEL		1.48		106.4		28360954
 JSWSTEEL		0.72		701.7		1461760
-TATACONSUM		1.2		789.7		961206
-ULTRACEMCO		1.31		7721.85		252389
+TATACONSUM		1.2		789.7		961256
+ULTRACEMCO		1.31		7721.85		252399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
