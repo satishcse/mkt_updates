@@ -2,7 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.95		787.75		385632
+ICICIBANK		0.07		940.5		3297468
+NTPC		0.49		175.35		2643219
+TATACONSUM		0.94		787.65		386793
+DRREDDY		0.69		4534.95		69334
 
 Bullish_Hammer_15m_N500								 
 ======================= 
