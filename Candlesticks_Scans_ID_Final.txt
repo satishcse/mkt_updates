@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.97		787.85		364921
-BAJFINANCE		0.46		6872.35		220298
+COALINDIA		0.75		241.85		1232764
+BPCL		0.19		364.0		492493
+TATACONSUM		0.88		787.2		368433
 
 Bullish_Hammer_15m_N500								 
 ======================= 
