@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,-1.78,163.05,5639216
-POWERGRID,-1.24,235.0,2124031
-TECHM,1.76,1117.4,805873
-TATACONSUM,0.99,788.0,394577
-LT,0.55,2216.8,385321
+ONGC,-1.81,163.0,5651112
+POWERGRID,-1.24,235.0,2128447
+TECHM,1.76,1117.4,809009
+TATACONSUM,0.99,788.0,395141
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ADANITRANS,-4.18,854.5,1624155
+HGS,0.04,1160.55,8146
