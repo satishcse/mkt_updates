@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.61		400.45		2572227
-COALINDIA		0.71		241.75		1933103
-TECHM		1.03		1109.45		1479311
-APOLLOHOSP		0.87		4607.75		186436
-ULTRACEMCO		1.63		7745.95		171318
+TATAMOTORS		0.86		519.3		6183084
+HINDALCO		2.4		413.95		5123293
+ASIANPAINT		0.2		3129.65		383500
+BRITANNIA		0.96		4607.25		170902
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAPPHIRE		-1.36		1331.95		13204
+SAPPHIRE		-1.36		1331.95		13283
