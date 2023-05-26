@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.1		1318.65		3863539
-BRITANNIA		1.0		4609.0		159572
+TATAMOTORS		0.81		519.0		5733513
+NTPC		-0.03		174.45		4698551
+LT		0.08		2206.45		800394
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CYIENT		0.73		1314.55		412178
-RELAXO		-0.37		872.2		55604
+
