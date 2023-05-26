@@ -2,9 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		0.67		4594		33137
+BRITANNIA		0.63		4592.05		35827
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CERA		-0.63		7639		3516
+ROUTE		-0.78		1447.85		29979
+NAVINFLUOR		-0.16		4595.6		9411
+VIPIND		-0.27		614.35		5544
+KIMS		0.35		1598.45		5046
+CERA		-0.61		7640.4		3631
+LAXMIMACH		-0.31		11473.4		1036
