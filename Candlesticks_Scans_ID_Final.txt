@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		1.18		3476.2		191394
+DIVISLAB		1.12		3474.1		193484
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+METROBRAND		-2.01		950.1		86137
+TEAMLEASE		-0.71		2213.0		3572
+LAXMIMACH		-0.79		11418.15		1793
