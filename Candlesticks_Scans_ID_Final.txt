@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.67		817.15		3124271
-RELIANCE		1.86		2485.3		3113139
-EICHERMOT		0.51		3670.0		233451
+BHARTIARTL		-0.64		817.4		3131927
+RELIANCE		1.86		2485.3		3119500
+EICHERMOT		0.51		3670.25		233705
 
 Bullish_Hammer_15m_N500								 
 ======================= 
