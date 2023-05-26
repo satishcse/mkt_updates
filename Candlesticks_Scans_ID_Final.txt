@@ -11,4 +11,5 @@ HEROMOTOCO		0.44		2744.75		112139
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CLEAN		-0.87		1434.95		34131
