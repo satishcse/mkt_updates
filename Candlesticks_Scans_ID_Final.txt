@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.3		163.85		9021559
-SBIN		0.63		584.9		5487482
+ONGC		-1.3		163.85		9042172
+SBIN		0.62		584.85		5490413
+RELIANCE		1.96		2487.85		3345803
+BAJFINANCE		1.01		6910.35		445313
+MARUTI		1.22		9395.3		188902
 
 Bullish_Hammer_15m_N500								 
 ======================= 
