@@ -37,13 +37,21 @@ ABCAPITAL		-0.21		164.55		816049
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-IGL		0.09		480.7		900723
+ZEEL		3.19		184.55		16363584
+INDUSTOWER		6.47		157.2		12690200
+IOC		1.07		90.1		5915595
+TATAPOWER		0.33		211.5		3560444
+COFORGE		3.46		4445.95		280176
+PIDILITIND		1.66		2565.1		171775
+NAUKRI		0.99		3939.0		100491
+TORNTPHARM		-0.34		1695.5		90089
+JKCEMENT		-0.12		2969.95		29727
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-DABUR		1.06		535.75		1163982
-IGL		0.16		481.0		901303
+DABUR		1.06		535.75		1167156
+IGL		0.16		481.0		902290
 
 Open_High								 
 ========= 
