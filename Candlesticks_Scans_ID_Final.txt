@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.54		163.45		12835392
-ADANIPORTS		0.3		726.7		3983433
-TITAN		1.15		2739.0		739935
+ADANIPORTS		0.32		726.85		3988989
+TITAN		1.15		2739.0		742526
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GMMPFAUDLR		-0.95		1459.85		408176
