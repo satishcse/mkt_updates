@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCBANK		0.5		1617.65		9175879
-BPCL		0.44		364.9		816897
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-1.64		1016.5		138616
-INGERRAND		-1.63		2747.4		43364
+PATANJALI		-1.64		1016.5		138666
+INGERRAND		-1.63		2747.4		43367
