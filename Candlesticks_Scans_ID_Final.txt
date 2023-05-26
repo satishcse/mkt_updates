@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.07		1318.3		2148211
-BPCL		0.19		364.0		494708
-TATACONSUM		0.87		787.05		369825
+BPCL		0.23		364.15		496078
+TATACONSUM		0.9		787.35		370853
 
 Bullish_Hammer_15m_N500								 
 ======================= 
