@@ -7,6 +7,5 @@ DRREDDY		0.69		4534.9		74514
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NH		-1.38		847.5		226110
-FINEORG		0.11		4467.0		20130
-ABBOTINDIA		-0.54		21722.0		2700
+NH		-1.36		847.7		226866
+FINEORG		0.17		4469.35		20374
