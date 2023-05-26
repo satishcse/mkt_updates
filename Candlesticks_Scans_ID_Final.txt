@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.27		163.9		10185335
-TATAMOTORS		0.79		518.9		5807750
-LT		0.05		2205.8		814037
-HEROMOTOCO		0.46		2745.5		110520
+ONGC		-1.33		163.8		10202566
+TATAMOTORS		0.77		518.8		5822800
+NTPC		-0.06		174.4		4765109
+M&M		0.52		1284.5		1970794
+LT		0.04		2205.65		818226
+HEROMOTOCO		0.39		2743.55		110637
 
 Bullish_Hammer_15m_N500								 
 ======================= 
