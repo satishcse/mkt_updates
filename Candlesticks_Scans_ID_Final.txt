@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.14		174.75		2186039
-RELIANCE		1.96		2487.8		2004854
-WIPRO		1.31		399.25		1028552
+HCLTECH		1.25		1129.95		377884
+TATACONSUM		0.92		787.45		347059
+JSWSTEEL		0.5		700.1		266000
 
 Bullish_Hammer_15m_N500								 
 ======================= 
