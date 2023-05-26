@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		0.74		4597		29649
+BRITANNIA		0.71		4595.75		30426
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GMMPFAUDLR		2.29		1507.5		157391
-NAVINFLUOR		-0.31		4588.65		7114
-TIMKEN		0.04		3122.95		1503
+APARINDS		-0.19		2729.75		12509
+NAVINFLUOR		-0.13		4596.7		7297
