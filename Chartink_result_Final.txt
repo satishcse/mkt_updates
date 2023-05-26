@@ -93,7 +93,7 @@ DALBHARAT		1.13		2064.15		141477
 OFSS		0.96		3600.0		108636
 NAVINFLUOR		0.27		4615.2		85720
 MRF		0.9		97600.0		6690
-ABBOTINDIA		0.27		21899.0		6057
+ABBOTINDIA		0.27		21899.0		6063
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
