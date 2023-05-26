@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.17		174.8		2085544
-ICICIBANK		-0.27		937.3		2014598
-UPL		1.28		684.45		1006200
-TATACONSUM		0.84		786.85		333536
+NTPC		0.23		174.9		2089456
+RELIANCE		2.11		2491.4		1952922
+UPL		1.29		684.55		1009570
+TATACONSUM		0.84		786.85		334123
 
 Bullish_Hammer_15m_N500								 
 ======================= 
