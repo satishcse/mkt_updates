@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SUNPHARMA		-0.19		943.25		250348
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAPPSTMNDS		0.31		884.65		43331
-BALAMINES		-0.39		2146.85		11097
-TEAMLEASE		-0.49		2218.0		3012
 BAYERCROP		-0.04		4117.7		1638
-VMART		-0.44		2033.95		1612
