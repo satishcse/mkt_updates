@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.26		174.95		4118429
-COALINDIA		0.6		241.5		1794719
-UPL		1.43		685.45		1445577
-MARUTI		1.19		9392.0		180848
+NTPC		0.17		174.8		4142873
+COALINDIA		0.58		241.45		1796914
+UPL		1.46		685.7		1450574
+MARUTI		1.19		9392.0		181245
 
 Bullish_Hammer_15m_N500								 
 ======================= 
