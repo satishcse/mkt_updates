@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.17		174.8		2171288
-RELIANCE		1.97		2488.0		1995537
-WIPRO		1.32		399.3		1021067
+NTPC		0.14		174.75		2186039
+RELIANCE		1.96		2487.8		2004854
+WIPRO		1.31		399.25		1028552
 
 Bullish_Hammer_15m_N500								 
 ======================= 
