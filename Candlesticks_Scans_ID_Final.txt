@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RATNAMANI		-0.44		2302.15		3161
+RATNAMANI		-0.46		2301.55		3190
+BAYERCROP		-0.1		4114.95		1186
