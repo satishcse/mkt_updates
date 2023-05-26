@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		0.91		4604.6		186488
+BRITANNIA		0.9		4604.5		187326
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-STARHEALTH		-8		537.05		9221182
+
