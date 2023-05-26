@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.89		586.45		6875029
+SBIN		0.82		586		6885547
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-1.6		1017.0		141826
-INGERRAND		-1.62		2747.9		43427
+STARHEALTH		-7.84		538.0		8977275
+INGERRAND		-1.73		2744.75		43550
