@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.12		363.75		501355
-TATACONSUM		0.97		787.9		372026
+BPCL		0.25		364.2		505935
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JINDWORLD		0.07		348.35		13180
