@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.47		1617.15		9010392
+HDFCBANK		0.43		1616.45		9046530
+BRITANNIA		0.96		4607.1		172934
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GMMPFAUDLR		0.3		1478.2		353586
+
