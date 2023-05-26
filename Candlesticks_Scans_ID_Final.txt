@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.34		106.25		20008339
-ONGC		-1.27		163.9		10493462
-WIPRO		1.56		400.25		2538855
-COALINDIA		0.77		241.9		1922786
-TECHM		1.02		1109.3		1471695
-ULTRACEMCO		1.63		7745.7		166033
+WIPRO		1.6		400.4		2541213
+COALINDIA		0.77		241.9		1923129
+TECHM		1.02		1109.25		1474488
+ULTRACEMCO		1.62		7745.0		168825
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAYMOND		-1.75		1569		65047
+POLYCAB		-0.36		3401.45		98554
+RAYMOND		-1.75		1569.0		65182
