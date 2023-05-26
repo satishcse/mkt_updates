@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		0.53		21587.85		46247
+NESTLEIND		0.35		21550.3		46684
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-1.69		1016		153655
+PATANJALI		-1.69		1016		153874
