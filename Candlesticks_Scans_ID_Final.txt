@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFCLIFE		0.43		579.7		2161443
+BAJAJ-AUTO		0.28		4629.0		149880
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		7.73		1185		6353768
+ASIANPAINT		-0.24		3120.9		311953
