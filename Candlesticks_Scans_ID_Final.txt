@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.91		733.5		2329553
-HDFCLIFE		0.37		579.35		2084782
-WIPRO		0.15		402.3		2084372
+ADANIPORTS		0.83		732.9		2345641
+WIPRO		0.04		401.85		2126618
+HDFCLIFE		0.29		578.9		2092900
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-0.34		39880		985
+LINDEINDIA		-0.29		3979.95		8721
+HONAUT		-0.35		39877.6		986
