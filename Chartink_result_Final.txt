@@ -6,7 +6,7 @@ Nifty_1Hr_OBV_DIV
 BN_1Hr_OBV_DIV								 
 ============== 
 nsecode		per_chg		close		volume
-AUBANK		0.68		783.5		920549
+AUBANK		0.73		783.85		921734
 
 Intraday_Buy_PSAR								 
 ================= 
@@ -37,10 +37,16 @@ BATAINDIA		-0.51		1573.85		47350
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-NTPC		1.43		177.0		2144159
-ACC		0.83		1799.85		181147
-RAMCOCEM		0.22		877.35		53878
-NIFTY		0.74		18635.9		0
+NTPC		1.4		176.95		2148332
+BAJAJFINSV		1.82		1465.35		833284
+INTELLECT		0.93		572.25		318159
+GRANULES		0.81		279.1		195504
+ACC		0.91		1801.2		182754
+COROMANDEL		2.6		961.8		116524
+TRENT		0.08		1531.35		86832
+RAMCOCEM		0.22		877.35		53987
+MGL		0.84		1044.0		47804
+NIFTY		0.73		18634.9		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
