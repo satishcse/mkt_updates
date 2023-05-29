@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.41		4634.75		54127
+BAJAJ-AUTO		0.41		4635		54195
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARUTI		-0.55		9348.2		76782
+APARINDS		0.53		2766.05		17961
+BBTC		-0.63		941.5		10211
