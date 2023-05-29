@@ -10,6 +10,6 @@ WIPRO		0.22		402.6		1502372
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCNSBRANDS		-1.19		411.9		74950
-GARFIBRES		0.12		3024.0		5598
-ZFCVINDIA		-0.97		10446.9		1036
+TCNSBRANDS		-1.19		411.9		75616
+GARFIBRES		0.12		3023.85		5624
+ZFCVINDIA		-0.97		10446.9		1037
