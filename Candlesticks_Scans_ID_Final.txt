@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-1.47		955.6		2238591
-BAJAJFINSV		1.24		1457.05		627068
-NESTLEIND		0.3		21647.4		12710
+BAJAJFINSV		1.23		1456.9		629771
+NESTLEIND		0.29		21644.6		12734
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RUSTOMJEE		1.07		508.05		19215
+RUSTOMJEE		1.1		508.2		19218
