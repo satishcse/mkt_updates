@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.15		236.95		4380256
+TATASTEEL		1.22		107.7		13831057
+POWERGRID		-0.13		237.0		4397321
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINCABLES		-5.19		799.45		394451
-MANYAVAR		-0.55		1267.9		29343
-GARFIBRES		0.12		3023.9		5677
+ICICIGI		9.37		1203.0		5113909
+FINCABLES		-5.2		799.4		396413
+MANYAVAR		-0.55		1267.85		29362
+JINDWORLD		0.44		344.85		27580
+GARFIBRES		0.15		3024.8		5688
