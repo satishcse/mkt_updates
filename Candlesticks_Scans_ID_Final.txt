@@ -12,4 +12,6 @@ DRREDDY		0.64		4559.9		94701
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+BAJAJ-AUTO		0.47		4637.7		72572
+WHIRLPOOL		-0.6		1427.85		21262
 VMART		-0.39		2026.9		7154
