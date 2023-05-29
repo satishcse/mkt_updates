@@ -2,8 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.47		955.2		1353230
+ICICIBANK		0.49		955.4		1365400
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ELGIEQUIP		1.09		549.5		206893
+GODREJPROP		-0.33		1367.55		83152
+CANFINHOME		0.47		680.0		34494
+VINATIORGA		0.46		1782.95		13322
+KSB		-0.11		2195.65		2322
