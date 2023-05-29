@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.83		732.85		1902712
-JSWSTEEL		0.83		707.55		468344
-ULTRACEMCO		1.01		7799.65		57616
+ADANIPORTS		0.87		733.2		1908359
+JSWSTEEL		0.83		707.5		470013
+ULTRACEMCO		0.96		7796.0		58128
 
 Bullish_Hammer_15m_N500								 
 ======================= 
