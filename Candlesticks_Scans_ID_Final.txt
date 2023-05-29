@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		0.43		4550.6		38815
+DRREDDY		0.6		4558		43007
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDARMFIN		-0.72		2493.7		5877
+CGPOWER		0.27		388.05		704861
+EICHERMOT		-0.08		3687.5		80840
+VIJAYA		-0.68		373.5		10513
