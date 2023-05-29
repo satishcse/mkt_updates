@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.41		4635		54195
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APARINDS		0.53		2766.05		17961
-BBTC		-0.63		941.5		10211
+RELIANCE		0.19		2511.25		1045928
+ANURAS		-1.91		1196.5		22667
+NESTLEIND		0.3		21647.35		9654
+GOCOLORS		-0.91		1105.0		4972
