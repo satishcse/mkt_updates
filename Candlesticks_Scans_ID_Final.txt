@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		-0.53		9349.85		143049
-BRITANNIA		0.08		4599.65		65316
-ULTRACEMCO		0.93		7794.0		62240
+MARUTI		-0.53		9349.85		143255
+BRITANNIA		0.08		4600.0		65427
+ULTRACEMCO		0.99		7798.35		62362
 
 Bullish_Hammer_15m_N500								 
 ======================= 
