@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.55		108.05		18353675
-MARUTI		-0.58		9345.55		142171
-BRITANNIA		0.08		4600.0		64535
-ULTRACEMCO		0.96		7795.65		61727
+TATASTEEL		1.55		108.05		18408855
+MARUTI		-0.55		9348.65		142552
+BRITANNIA		0.08		4599.75		64775
+ULTRACEMCO		0.91		7792.3		61986
 
 Bullish_Hammer_15m_N500								 
 ======================= 
