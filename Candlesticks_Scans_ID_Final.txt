@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.06		950.15		8186649
-MARUTI		-0.55		9347.9		179446
+ICICIBANK		0.02		950.85		8204379
+INDUSINDBK		1.82		1291.1		2291143
+MARUTI		-0.54		9348.8		179713
 
 Bullish_Hammer_15m_N500								 
 ======================= 
