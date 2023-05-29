@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-2.69		159.35		35020845
-CIPLA		0.17		953.0		1449687
+ONGC		-2.75		159.25		35103880
+CIPLA		0.19		953.2		1450841
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JINDWORLD		0.35		344.55		43889
