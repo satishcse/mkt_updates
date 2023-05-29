@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		2.02		108.55		27125439
-ADANIPORTS		0.88		733.25		2481835
-UPL		0.41		690.9		748500
-DRREDDY		0.74		4564.45		134588
-BRITANNIA		-0.03		4594.95		91942
+TATASTEEL		2.02		108.55		27202096
+UPL		0.39		690.8		749454
+DRREDDY		0.73		4564.0		134820
+BRITANNIA		-0.03		4594.95		92938
 
 Bullish_Hammer_15m_N500								 
 ======================= 
