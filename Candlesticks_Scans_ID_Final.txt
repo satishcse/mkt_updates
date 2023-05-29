@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.01		950.65		8344431
-WIPRO		0.12		402.2		2642244
-MARUTI		-0.58		9345.0		180917
+ICICIBANK		-0.01		950.6		8356887
+POWERGRID		-0.55		236.0		6902763
+WIPRO		0.1		402.1		2644835
+MARUTI		-0.58		9345.0		181005
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+IFBIND		-1.99		817.85		27902
