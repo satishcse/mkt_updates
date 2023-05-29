@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		2.11		108.65		29873593
+HDFCLIFE		0.16		578.1		2397273
+SBILIFE		1.69		1216.0		1006961
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IFBIND		-1.99		817.85		27902
+IFBIND		-1.99		817.85		28020
