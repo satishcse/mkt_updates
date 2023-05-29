@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.13		237		4233104
+POWERGRID		-0.13		237		4249450
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCNSBRANDS		-1.19		411.9		75426
-GARFIBRES		0.15		3024.9		5482
+TCNSBRANDS		-1.19		411.9		74780
+GARFIBRES		0.02		3020.75		5515
+ZFCVINDIA		-1.2		10422.0		1014
