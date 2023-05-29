@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.47		450.1		15079952
-HDFCLIFE		0.22		578.45		2399453
+ITC		1.43		449.95		15090427
+BHARTIARTL		0.22		819.75		2534623
+HDFCLIFE		0.23		578.55		2400441
+GRASIM		0.75		1701.0		469671
 
 Bullish_Hammer_15m_N500								 
 ======================= 
