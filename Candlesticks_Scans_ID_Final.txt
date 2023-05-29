@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.59		589.45		3843509
-TATAMOTORS		0.72		522.2		2060382
-WIPRO		0.16		402.35		1192473
-COALINDIA		0.43		242.55		601642
-UPL		0.23		689.65		349295
+WIPRO		0.19		402.45		1203539
+HDFC		1.67		2694.8		959688
+COALINDIA		0.41		242.5		607467
+NESTLEIND		0.3		21647.35		11198
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGCL		0.42		709.75		42513
+KOTAKBANK		0.44		1953.6		1039557
+AMBER		0.2		2127.95		26897
