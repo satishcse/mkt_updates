@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.82		732.8		2350434
-WIPRO		0.07		402.0		2136047
-HDFCLIFE		0.36		579.25		2103333
+ONGC		-2.84		159.1		24839757
+ADANIPORTS		0.89		733.35		2361659
+WIPRO		-0.05		401.5		2167653
+HDFCLIFE		0.32		579.05		2110469
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+ASIANPAINT		-0.21		3121.95		235731
 HONAUT		-0.29		39898.7		987
