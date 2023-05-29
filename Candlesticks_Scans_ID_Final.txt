@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.4		690.85		751329
-DRREDDY		0.7		4562.7		135215
+UPL		0.39		690.8		753028
+BAJAJ-AUTO		0.28		4628.8		165864
+DRREDDY		0.62		4559.0		135896
 
 Bullish_Hammer_15m_N500								 
 ======================= 
