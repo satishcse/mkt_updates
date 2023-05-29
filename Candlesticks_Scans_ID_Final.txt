@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-2.69		159.35		27656498
-TCS		-0.23		3321.1		900507
-UPL		0.29		690.1		772531
-EICHERMOT		0.05		3692.35		308198
+TCS		-0.23		3321.2		902109
+UPL		0.28		690.05		775986
+EICHERMOT		0.04		3692.0		308320
 
 Bullish_Hammer_15m_N500								 
 ======================= 
