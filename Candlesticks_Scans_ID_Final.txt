@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.66		2522.95		4307074
-GRASIM		1.44		1712.55		602330
+RELIANCE		0.59		2521.25		4336231
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIAMART		-0.27		5544.8		27436
-SUPREMEIND		-0.39		2809.4		22112
+INGERRAND		-1.83		2697.4		27728
