@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ICICIBANK,0.02,950.85,8282333
-WIPRO,0.1,402.1,2635154
-GRASIM,0.7,1700.1,467212
-MARUTI,-0.55,9347.9,180374
+ICICIBANK,0.04,951.05,8306999
+WIPRO,0.1,402.1,2639336
+GRASIM,0.7,1700.15,467467
+MARUTI,-0.55,9348.0,180501
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HAL,-0.34,3010.05,707828
