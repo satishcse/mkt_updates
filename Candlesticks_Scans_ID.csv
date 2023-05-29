@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ADANIPORTS,0.82,732.8,1912137
-JSWSTEEL,0.78,707.15,470371
-ULTRACEMCO,0.95,7795.0,58286
+ADANIPORTS,0.81,732.75,1916299
+JSWSTEEL,0.83,707.5,471777
+ULTRACEMCO,1.01,7799.75,58584
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TECHM,-0.11,1113.5,522354
+PERSISTENT,-0.45,5066.0,127326
+HONAUT,-0.26,39911.9,795
