@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.27		3337.85		431523
-TITAN		0.96		2768.5		161358
-DRREDDY		0.73		4563.8		91753
+SBIN		0.75		590.4		4386202
+BPCL		-0.27		363.3		472125
+TCS		0.28		3338.25		432041
+TITAN		0.95		2768.2		162125
+DRREDDY		0.72		4563.4		92031
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+WHIRLPOOL		-0.66		1426.95		20782
