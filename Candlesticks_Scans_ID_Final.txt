@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.0		950.7		8336397
-WIPRO		0.12		402.2		2640834
-GRASIM		0.69		1700.0		467555
-MARUTI		-0.58		9345.0		180875
+ICICIBANK		-0.01		950.65		8344431
+WIPRO		0.12		402.2		2642244
+MARUTI		-0.58		9345.0		180917
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HAL		-0.34		3010.05		707828
+
