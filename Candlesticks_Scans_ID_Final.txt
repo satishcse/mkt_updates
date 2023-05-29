@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.03		1114.45		565155
+TECHM		-0.04		1114.25		565828
+ULTRACEMCO		1.0		7799.0		66365
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJIND		-0.73		481.65		191320
-LTTS		0.11		3882.45		73373
+GODREJIND		-0.72		481.7		191701
+LTTS		0.11		3882.35		73400
