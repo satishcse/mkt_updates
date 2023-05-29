@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.42		1638.7		6691188
+HDFCBANK		1.36		1637.8		6732490
+HDFCLIFE		0.43		579.7		2166846
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ASIANPAINT		-0.09		3125.5		315501
+
