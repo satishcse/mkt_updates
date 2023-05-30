@@ -2,13 +2,18 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1		176.25		9479239
+NTPC		1.03		176.3		9943211
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		-2.35		1472.0		407369
-CEATLTD		-3.87		2025.0		354769
-HEG		-0.9		1137.0		86286
-BAJAJELEC		-0.4		1154.25		57913
-PFIZER		0.01		3806.0		5188
+INDIGOPNTS		-2.37		1471.75		478607
+BERGEPAINT		-0.95		640.95		362750
+CEATLTD		-3.88		2024.9		359382
+SONATSOFTW		-1.33		962.9		359379
+KEI		-0.43		1993.1		183379
+RHIM		-0.28		682.45		100644
+HLEGLAS		-1.6		596.95		64875
+BOSCHLTD		-3.41		18296.0		62648
+BAJAJELEC		-0.4		1154.3		61169
+BALAMINES		-0.74		2142.7		50360
