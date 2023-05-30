@@ -10,4 +10,5 @@ DIVISLAB		-0.6		3457.0		176964
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOBHA		3.59		525.15		2831799
+SOBHA		3.51		524.75		2834868
+DMART		0.07		3505.8		98888
