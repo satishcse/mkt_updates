@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.88		107.5		18752036
-SBIN		-0.34		593.0		10798137
-AXISBANK		0.59		935.25		4629912
-POWERGRID		0.23		235.05		4294358
-ADANIPORTS		-0.3		735.3		3399320
-ULTRACEMCO		1.01		7920.0		300041
+TATASTEEL		-0.88		107.5		18770702
+ADANIPORTS		-0.29		735.35		3401909
+ULTRACEMCO		1.01		7920.0		300338
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GARFIBRES		0.5		3044.05		9887
+GARFIBRES		0.47		3043.05		9906
