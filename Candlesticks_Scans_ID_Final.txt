@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.11		1315.9		2065842
-TATAMOTORS		-0.09		521.0		1977913
-TECHM		-0.96		1103.4		772456
-ULTRACEMCO		1.13		7929.0		256956
+INFY		0.15		1316.35		2070721
+TATAMOTORS		-0.11		520.9		1981085
+TECHM		-0.96		1103.3		773434
+ULTRACEMCO		1.13		7929.0		257426
 
 Bullish_Hammer_15m_N500								 
 ======================= 
