@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.2		450.0		13951441
-SBIN		-0.38		592.75		9864430
-UPL		-0.31		687.85		497942
-EICHERMOT		-0.42		3695.9		444481
+ITC		0.18		449.9		13965551
+SBIN		-0.37		592.8		9873206
 
 Bullish_Hammer_15m_N500								 
 ======================= 
