@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.26		235.1		6417867
-INFY		0.58		1322.05		4689300
-BRITANNIA		-0.09		4571.0		187648
+M&M		-0.11		1328.7		2357668
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DELHIVERY		-1.08		365.95		1368796
-VBL		-2.85		1643.55		1065417
+DELHIVERY		-1.11		365.85		1371883
