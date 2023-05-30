@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.09		928.95		2626038
-LT		-0.2		2220.0		483229
-TATACONSUM		-0.33		791.65		219889
-ASIANPAINT		0.15		3142.0		205217
-DIVISLAB		-0.61		3456.65		175585
+LT		-0.2		2220.0		485476
+TATACONSUM		-0.34		791.55		220624
+DIVISLAB		-0.6		3457.15		175724
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		-1.29		11533.45		2879
+LAXMIMACH		-1.23		11540.4		2930
