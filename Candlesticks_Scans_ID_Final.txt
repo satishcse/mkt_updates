@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.51		161.4		4424612
-HINDUNILVR		0.35		2659.65		168090
-ULTRACEMCO		1.57		7964.0		154411
-BAJAJ-AUTO		0.13		4624.65		36561
+ONGC		1.45		161.3		4459319
+HINDUNILVR		0.35		2659.65		168980
+ULTRACEMCO		1.55		7962.3		155141
+BAJAJ-AUTO		0.12		4624.25		37441
 
 Bullish_Hammer_15m_N500								 
 ======================= 
