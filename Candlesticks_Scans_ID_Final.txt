@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.11		361.3		633679
-LT		-0.34		2216.95		497400
-TATACONSUM		-0.51		790.2		251808
-DIVISLAB		-0.61		3456.6		177616
+HINDUNILVR		0.37		2660.0		336113
+TATACONSUM		-0.4		791.05		263501
 
 Bullish_Hammer_15m_N500								 
 ======================= 
