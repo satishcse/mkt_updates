@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-0.2		2220.0		423958
-VBL		-0.96		1675.5		325798
-PERSISTENT		-0.04		5037.25		105902
+PEL		-0.77		769.35		191637
