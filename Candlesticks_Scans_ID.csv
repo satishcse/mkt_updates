@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-KOTAKBANK,1.11,1974.85,6343038
-POWERGRID,0.23,235.05,5728913
-WIPRO,0.75,402.8,3076243
-HINDUNILVR,0.29,2657.9,720681
+POWERGRID,0.21,235.0,5744698
+WIPRO,0.69,402.55,3094874
+HINDUNILVR,0.2,2655.65,728377
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PRINCEPIPE,-0.39,634.8,521296
+EIDPARRY,-2.65,482.15,496814
+TCI,-1.73,691.9,29223
