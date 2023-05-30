@@ -9,4 +9,5 @@ ULTRACEMCO		1.01		7919.55		281226
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MFL		-0.65		922.3		17378
