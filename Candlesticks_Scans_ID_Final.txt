@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.26		235.1		6323605
-INFY		0.59		1322.2		4651562
-BRITANNIA		-0.1		4570.8		186382
+POWERGRID		0.26		235.1		6364628
+INFY		0.58		1322.0		4668319
+BRITANNIA		-0.12		4569.55		186964
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-1.33		1282.5		470683
-ZYDUSWELL		-0.36		1458.45		22193
+COLPAL		-0.96		1590.45		154804
+GODFRYPHLP		-1.06		1749.3		39942
+ZYDUSWELL		-0.4		1457.75		22318
