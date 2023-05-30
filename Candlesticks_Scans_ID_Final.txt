@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.21		235		1010848
+POWERGRID		0.23		235.05		1012445
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CLEAN		0.43		1434.85		40440
+NATCOPHARM		-0.24		631.55		453639
+NAUKRI		-2.38		4106.8		148859
+DIVISLAB		-1.03		3442.05		108277
