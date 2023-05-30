@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.23		108.2		7606031
+TATASTEEL		-0.28		108.15		7658296
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANITRANS		-3.46		803.4		1419158
-ICICIGI		-1.42		1174.05		496873
-ECLERX		-0.29		1607.9		95728
+ICICIGI		-1.41		1174.2		498933
