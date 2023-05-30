@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.06		1634.6		7383613
-BPCL		-0.14		361.2		654105
-TATACONSUM		-0.57		789.75		290351
-BRITANNIA		0.65		4605.0		106398
+ULTRACEMCO		1.13		7928.95		254748
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MEDANTA		-0.25		593.2		64529
+
