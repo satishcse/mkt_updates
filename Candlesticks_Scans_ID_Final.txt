@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.83		403.1		2472320
+WIPRO		0.81		403.05		2474809
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.37		4601.25		101570
+BAJAJELEC		0.36		1158.4		57812
+FLUOROCHEM		-1.07		3309.85		21190
