@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.64		732.8		2758799
-ULTRACEMCO		1.13		7929.0		255539
-ASIANPAINT		0.23		3144.6		226895
-MARUTI		0.45		9375.9		189849
+ULTRACEMCO		1.13		7928.95		255818
+ASIANPAINT		0.21		3144.1		227233
+MARUTI		0.47		9376.95		190042
 
 Bullish_Hammer_15m_N500								 
 ======================= 
