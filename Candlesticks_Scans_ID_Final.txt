@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.88		107.5		18817191
-ADANIPORTS		-0.24		735.75		3404590
-WIPRO		0.85		403.2		2530549
-ULTRACEMCO		1.01		7920.0		300483
+TATASTEEL		-0.88		107.5		18842318
+ADANIPORTS		-0.27		735.5		3406875
+WIPRO		0.85		403.2		2532517
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GARFIBRES		0.5		3044.05		9951
+GARFIBRES		0.5		3044.05		9967
