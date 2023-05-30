@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.21		450.05		13937650
-SBIN		-0.34		593.0		9831306
-AXISBANK		0.37		933.25		4189022
-RELIANCE		0.09		2522.9		3382956
-TATAMOTORS		-0.35		519.65		2717824
-TITAN		-0.08		2809.9		847579
+ITC		0.2		450.0		13951441
+SBIN		-0.38		592.75		9864430
+UPL		-0.31		687.85		497942
+EICHERMOT		-0.42		3695.9		444481
 
 Bullish_Hammer_15m_N500								 
 ======================= 
