@@ -2,15 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.72		160.15		1752524
-BPCL		0.21		362.45		160457
+ONGC		0.69		160.1		1835754
+BPCL		0.18		362.35		164914
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIJAYA		1.5		386.0		67431
-VINATIORGA		-0.35		1819.55		8415
-BEML		0.2		1426.85		6276
-JBCHEPHARM		0.25		2107.0		3814
-GRINDWELL		-0.15		2110.0		2101
-SKFINDIA		-0.38		4389.35		634
+VINATIORGA		-0.32		1820		8432
+ZFCVINDIA		-0.19		10403		262
