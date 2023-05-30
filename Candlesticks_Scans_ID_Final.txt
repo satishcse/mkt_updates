@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.34		176.9		4677077
-COALINDIA		-0.77		244.2		2767111
-INDUSINDBK		0.22		1287.8		901710
-HINDUNILVR		0.37		2660.0		449234
+NTPC		0.34		176.9		4682332
+COALINDIA		-0.83		244.05		2781836
+INDUSINDBK		0.2		1287.5		902891
+HINDUNILVR		0.37		2660.0		449708
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BBTC		-0.38		935.05		19043
-MRF		-0.39		97399.95		2169
+INDIGOPNTS		0.4		1477.7		165657
+BBTC		-0.38		935.05		19047
