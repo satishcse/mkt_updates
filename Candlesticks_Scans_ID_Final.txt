@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.9		959.7		1381952
-TITAN		-0.12		2808.85		836813
-UPL		-0.41		687.2		487660
-ULTRACEMCO		1.01		7919.6		281053
+SUNPHARMA		-0.93		959.4		1385463
+TITAN		-0.14		2808.35		837777
+UPL		-0.4		687.25		489357
+ULTRACEMCO		1.01		7919.55		281226
 
 Bullish_Hammer_15m_N500								 
 ======================= 
