@@ -21,14 +21,21 @@ PIDILITIND		-0.37		2573.45		78779
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-INFY		-0.3		1310.5		1277371
-LT		-0.21		2219.95		313593
-NIFTY		0.03		18603.8		0
+HDFCBANK		-0.24		1631.65		4235643
+IRCTC		-2.52		629.5		3720437
+INFY		-0.29		1310.65		1375340
+LICHSGFIN		-0.61		377.75		763257
+BIOCON		-1.07		239.45		611103
+LT		-0.18		2220.5		355787
+APOLLOTYRE		-0.59		390.0		348367
+DIXON		-1.05		3678.0		133862
+LTIM		0.23		5000.55		64339
+NIFTY		0.03		18604.2		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-LT		-0.19		2220.25		354718
+LT		-0.18		2220.5		355787
 
 Open_High								 
 ========= 
@@ -51,7 +58,7 @@ NAUKRI		-2.68		4094.4		203921
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-MCX		1.48		1412.8		187272
-ABCAPITAL		1.42		168.0		1721456
-ICICIBANK		0.01		948.25		4978706
-ITC		-0.66		446.15		6508530
+MCX		1.43		1412.15		187362
+ABCAPITAL		1.42		168.0		1722689
+ICICIBANK		0.03		948.45		4992162
+ITC		-0.75		445.75		6594171
