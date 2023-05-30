@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.69		160.1		1835754
-BPCL		0.18		362.35		164914
+ONGC		0.69		160.1		1978677
+BPCL		0.11		362.1		192014
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VINATIORGA		-0.32		1820		8432
-ZFCVINDIA		-0.19		10403		262
+MFL		-0.54		923.3		5884
