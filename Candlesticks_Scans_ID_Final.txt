@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.44		519.15		3621467
-LT		-0.52		2212.9		1378567
+TATAMOTORS		-0.44		519.15		3628862
+LT		-0.53		2212.75		1383435
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GALAXYSURF		-1.95		2495.05		8185
+CEATLTD		-4.68		1930.2		348059
+GALAXYSURF		-1.95		2495.05		8219
