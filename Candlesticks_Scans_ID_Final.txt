@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.88		107.5		18598019
-SBIN		-0.26		593.45		10735106
-POWERGRID		0.23		235.05		4236554
-ULTRACEMCO		0.99		7918.55		298409
+TATASTEEL		-0.88		107.5		18619691
+SBIN		-0.26		593.45		10743458
+AXISBANK		0.61		935.45		4598726
+POWERGRID		0.23		235.05		4242796
+ULTRACEMCO		1.01		7919.85		298538
 
 Bullish_Hammer_15m_N500								 
 ======================= 
