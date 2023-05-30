@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ITC,0.23,450.15,14247511
-HINDALCO,-1.73,412.65,3402995
-EICHERMOT,-0.65,3687.15,448518
+HINDALCO,-1.8,412.35,3414449
+EICHERMOT,-0.59,3689.6,450385
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SOLARINDS,-0.57,3775.75,24256
+FLUOROCHEM,-1.01,3311.8,19734
