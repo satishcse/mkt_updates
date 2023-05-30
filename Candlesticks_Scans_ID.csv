@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ULTRACEMCO,1.13,7928.95,255818
-ASIANPAINT,0.21,3144.1,227233
-MARUTI,0.47,9376.95,190042
+ADANIPORTS,-0.62,732.9,2770058
+BAJFINANCE,0.47,6964.9,388898
+ULTRACEMCO,1.13,7928.95,256237
+MARUTI,0.47,9376.95,190301
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+VBL,-1.42,1667.75,485184
+FINCABLES,-2.28,777.55,415535
