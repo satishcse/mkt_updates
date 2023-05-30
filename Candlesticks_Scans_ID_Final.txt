@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.15		820.05		2073995
-SUNPHARMA		-0.81		960.6		1217521
-TCS		-0.25		3312.0		661332
-GRASIM		0.53		1722.4		284561
-BAJAJ-AUTO		0.02		4619.55		75071
+BHARTIARTL		-0.3		818.8		2129156
+SUNPHARMA		-0.81		960.65		1247769
+TCS		-0.25		3312.2		662948
+HINDUNILVR		0.33		2658.95		412545
+GRASIM		0.5		1721.85		285038
+BAJAJ-AUTO		0.02		4619.55		75284
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ESCORTS		-0.33		2085		82575
+VBL		-1.32		1669.4		516586
+ESCORTS		-0.35		2084.45		82577
