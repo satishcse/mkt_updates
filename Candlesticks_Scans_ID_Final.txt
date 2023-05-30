@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		0.21		235.0		1772741
-BPCL		-0.15		361.15		528276
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		-0.14		5032.05		104287
+LAXMIMACH		-0.43		11633.25		2191
+MRF		-0.32		97472.4		1591
