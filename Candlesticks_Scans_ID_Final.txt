@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BPCL		0.24		362.55		205245
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SBILIFE		-1.06		1205.15		82522
-SONATSOFTW		-0.45		958.55		43394
+EICHERMOT		-0.09		3708.0		30687
+JBMA		-0.36		797.15		27724
+MFL		-0.52		923.5		6249
+SKFINDIA		-0.21		4396.65		855
