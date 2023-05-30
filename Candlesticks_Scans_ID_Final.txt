@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.88		107.5		19316668
-M&M		-0.03		1329.75		1821123
-BAJFINANCE		0.55		6970.0		521154
+TATASTEEL		-1.01		107.35		19551510
+M&M		-0.04		1329.6		1823695
+BAJFINANCE		0.55		6970.0		522245
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-0.66		1269.85		160856
+TATACOMM		-0.65		1269.9		160866
