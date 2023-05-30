@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.62		732.9		2770058
-BAJFINANCE		0.47		6964.9		388898
-ULTRACEMCO		1.13		7928.95		256237
-MARUTI		0.47		9376.95		190301
+INFY		0.13		1316.15		2054495
+TECHM		-0.94		1103.55		771206
+ULTRACEMCO		1.13		7929.0		256609
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-1.42		1667.75		485184
-FINCABLES		-2.28		777.55		415535
+VBL		-1.42		1667.75		485779
