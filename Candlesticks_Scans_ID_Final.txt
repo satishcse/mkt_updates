@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.8		960.75		1198588
-BAJAJFINSV		-0.16		1447.2		679908
-TCS		-0.16		3314.9		651626
-HINDUNILVR		0.4		2660.95		395148
-GRASIM		0.56		1722.9		282045
-ULTRACEMCO		1.13		7929.0		262958
+SUNPHARMA		-0.82		960.5		1203466
+BAJAJFINSV		-0.11		1447.95		681431
+TCS		-0.18		3314.5		653271
+HINDUNILVR		0.4		2660.95		398859
+GRASIM		0.53		1722.3		282721
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ESCORTS		-0.34		2084.7		81170
+
