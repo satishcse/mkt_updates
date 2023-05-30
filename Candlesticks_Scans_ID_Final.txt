@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.8		412.35		3414449
-EICHERMOT		-0.59		3689.6		450385
+TATASTEEL		-0.92		107.45		17682585
+HINDALCO		-1.73		412.65		3416421
+EICHERMOT		-0.63		3688.0		451354
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOLARINDS		-0.57		3775.75		24256
-FLUOROCHEM		-1.01		3311.8		19734
+SOLARINDS		-0.65		3772.85		24385
