@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.84		403.15		2486561
+TATASTEEL		-0.88		107.5		18571765
+SBIN		-0.28		593.35		10728745
+POWERGRID		0.23		235.05		4224671
+ULTRACEMCO		1.01		7919.55		298258
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		0.49		3530.0		594940
-BAJAJELEC		0.37		1158.55		57913
-ATUL		0.09		6871.05		39404
-FLUOROCHEM		-1.07		3309.85		21238
+SIEMENS		0.49		3530.0		595408
+BAJAJELEC		0.39		1158.8		57923
+FLUOROCHEM		-1.1		3308.85		21273
