@@ -19,16 +19,17 @@ HAL,-0.63,3082.7,704467
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-TATAMOTORS,1.27,525.4,2432375
-RAIN,-0.59,151.7,418977
-SYNGENE,0.77,720.45,95911
-COLPAL,0.54,1599.45,39858
-BANKNIFTY,-0.78,44089.55,0
-NIFTY,-0.46,18548.95,0
+TATAMOTORS,1.18,524.9,2500640
+BIOCON,0.89,243.8,601890
+JINDALSTEL,-0.7,519.15,600935
+RAIN,-0.56,151.75,420567
+SYNGENE,0.92,721.5,104081
+COLPAL,0.54,1599.45,39951
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
-
+nsecode,per_chg,close,volume
+OBEROIRLTY,-0.11,932.1,154749
 
 Open_High,,,, 
 ========= 
