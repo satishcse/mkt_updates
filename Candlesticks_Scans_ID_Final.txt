@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGCL		-0.95		701.3		289517
-METROBRAND		-1.08		958.2		116277
-BAJAJELEC		-1.16		1141.05		84850
+CGCL		-0.95		701.3		275156
+METROBRAND		-1.08		958.2		116117
+BAJAJELEC		-1.16		1141.05		84660
