@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TITAN		0.15		2806.7		123009
-ECLERX		-2.2		1581.35		24736
-AETHER		0.02		913.15		2288
+ECLERX		-1.73		1589.0		25136
+AETHER		0.02		913.15		2296
