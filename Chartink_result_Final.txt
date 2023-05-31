@@ -21,22 +21,26 @@ HAL		-2.02		3039.5		1376205
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		-0.12		1045.0		684959
-WHIRLPOOL		-0.05		1432.25		19383
+BIOCON		1.59		245.5		1906582
+RAIN		-0.39		152.0		1614678
+ZYDUSLIFE		-0.83		501.55		756492
+COFORGE		1.64		4472.45		277600
+NIFTY		-0.56		18529.35		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+BIOCON		1.55		245.4		1949281
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-TATACHEM		0.05		969.55		500008
-BAJAJFINSV		-0.75		1454.8		799954
-MARUTI		-0.99		9290.0		324380
-COALINDIA		-1.27		241.2		10576716
-LICHSGFIN		-1.28		374.7		535458
-NTPC		-1.41		174.3		9891936
+TATACHEM		0.08		969.9		501272
+BAJAJFINSV		-0.76		1454.75		802453
+MARUTI		-0.99		9290.15		324978
+COALINDIA		-1.21		241.35		10768440
+LICHSGFIN		-1.28		374.7		535558
+NTPC		-1.56		174.05		9924474
 
 Open_Low								 
 ======== 
