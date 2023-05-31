@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.47		240.7		7232532
-LT		0.41		2219.95		504030
-UPL		-0.29		687.05		369037
-TITAN		0.22		2808.65		250449
+COALINDIA		-1.47		240.7		7239907
+UPL		-0.26		687.25		371510
+TITAN		0.22		2808.55		250780
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ABBOTINDIA		-0.57		21928.45		1477
