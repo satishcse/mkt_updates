@@ -7,5 +7,5 @@ Bullish_Hammer_15m_N500
 ======================= 
 nsecode		per_chg		close		volume
 HAL		-0.1		3099.1		537864
-TCIEXP		-1.04		1578.95		4286
+TCIEXP		-1.04		1578.95		4247
 PGHH		-0.25		13500.0		1522
