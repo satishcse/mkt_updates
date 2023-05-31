@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.63		1610.0		20020576
-COALINDIA		-1.23		241.3		12963786
-WIPRO		0.16		403.15		3753159
+COALINDIA		-1.23		241.3		13069626
+WIPRO		0.19		403.25		3854769
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWSTEEL		-1.19		696.25		6868912
-AMBER		-0.77		2120.95		117878
+JSWSTEEL		-1.17		696.35		7472681
+BAJAJ-AUTO		-0.39		4573.8		525372
+WESTLIFE		0.4		774.3		100342
+SANOFI		-0.05		6800.45		12252
