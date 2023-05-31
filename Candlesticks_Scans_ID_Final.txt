@@ -9,4 +9,5 @@ WIPRO		0.22		403.4		3236581
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAYMOND		-0.97		1555.75		37421
+RAYMOND		-0.7		1560.0		46482
+SOLARINDS		-0.69		3763.45		18813
