@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		1.2		1230.55		1172224
+ONGC		-1.95		155.75		20202853
+INDUSINDBK		-0.59		1285.65		2213599
+BAJAJ-AUTO		-0.5		4569.1		384149
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAUKRI		-0.57		4041.95		492800
-BAJAJELEC		0.19		1156.65		59587
+NAUKRI		-0.39		4049.25		501425
