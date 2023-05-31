@@ -10,12 +10,12 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IPCALAB		2.6		705.85		616360
-HINDPETRO		2.14		262.4		3267906
-HAVELLS		1.94		1313.4		506472
-BSOFT		1.6		342.1		2029605
-NAVINFLUOR		0.15		4679.65		36504
-HAL		-2.04		3039.0		1339630
+IPCALAB		2.59		705.75		617671
+HINDPETRO		2.2		262.55		3268995
+HAVELLS		1.94		1313.4		506756
+BSOFT		1.63		342.2		2030271
+NAVINFLUOR		0.11		4678.0		36531
+HAL		-2.03		3039.25		1344234
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -25,18 +25,20 @@ LTTS		0.85		3905.9		108529
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+DRREDDY		-0.45		4498.45		256889
+LTTS		0.91		3908.0		109658
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-TATACHEM		-0.06		968.5		487815
-IDEA		-0.7		7.05		64379669
-BAJAJFINSV		-0.91		1452.5		776071
-MARUTI		-0.99		9290.05		315915
-COALINDIA		-1.25		241.25		10333385
-LICHSGFIN		-1.4		374.25		494582
-NTPC		-1.56		174.05		9527579
+IDEA		0.7		7.15		68277552
+TATACHEM		-0.06		968.55		491057
+BAJAJFINSV		-0.87		1453.1		780482
+MARUTI		-0.99		9290.65		318520
+COALINDIA		-1.27		241.2		10343439
+LICHSGFIN		-1.33		374.5		496431
+NTPC		-1.56		174.05		9552721
 
 Open_Low								 
 ======== 
