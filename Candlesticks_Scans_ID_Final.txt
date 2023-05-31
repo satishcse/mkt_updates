@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.42		404.2		2405168
-MARUTI		-1.09		9281.3		353027
+HDFCBANK		-1.56		1611.25		19254345
+TATAMOTORS		1.38		525.95		7704371
+TATACONSUM		1.01		798.9		649624
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOLARINDS		-0.57		3768.2		16112
+KOTAKBANK		0.61		1986.8		15316662
