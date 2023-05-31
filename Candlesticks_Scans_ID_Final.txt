@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.46		1329.95		3812674
+ONGC		-1.76		156.05		18077446
+TATACONSUM		0.38		793.9		288286
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TITAN		-0.25		2795.45		390220
-MARUTI		-1.1		9279.95		290100
+
