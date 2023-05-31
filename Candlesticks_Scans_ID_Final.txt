@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.95		155.75		15576493
-TATASTEEL		-0.09		106.95		13227783
-NTPC		-2.18		172.95		6113222
-TATACONSUM		0.2		792.5		213704
-BAJAJ-AUTO		0.17		4599.9		185269
+ONGC		-1.92		155.8		15681831
+TATASTEEL		-0.19		106.85		13257533
+NTPC		-2.23		172.85		6237563
+TATACONSUM		0.21		792.55		214445
+BAJAJ-AUTO		0.2		4601.0		185618
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GRASIM		-0.52		1716.1		257665
+
