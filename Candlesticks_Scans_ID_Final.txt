@@ -7,5 +7,7 @@ ITC		-0.88		445.95		13910509
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CEATLTD		0.77		1929.9		337480
-WHIRLPOOL		-0.31		1428.5		27783
+CEATLTD		0.57		1926.0		338790
+CGCL		-0.57		704.0		275010
+METROBRAND		-1.18		957.2		119176
+SHYAMMETL		-0.72		297.0		101738
