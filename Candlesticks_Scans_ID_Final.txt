@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.26		2205		808541
-HINDUNILVR		-0.17		2652		647117
+HINDUNILVR		-0.17		2652		648052
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFC		-1.77		2645.8		3889379
-ZYDUSWELL		0.48		1464.95		25063
-BBTC		-0.34		929.1		7731
+BBTC		-0.34		929.1		7729
