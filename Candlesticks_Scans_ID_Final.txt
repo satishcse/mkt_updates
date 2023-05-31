@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-1.36		2485.6		4118898
+RELIANCE		-1.36		2485.6		4139199
+INFY		0.45		1329.75		3778716
+WIPRO		0.36		403.95		1678623
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.93		1281.25		1751288
-TITAN		-0.24		2795.9		386960
-HEROMOTOCO		-1.28		2743.45		145452
+TITAN		-0.24		2795.9		387401
+HEROMOTOCO		-1.28		2743.5		145943
