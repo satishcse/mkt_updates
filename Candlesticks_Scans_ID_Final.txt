@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.23		106.8		11543997
-INFY		0.05		1324.5		2920500
-CIPLA		0.03		960.1		498002
+TATASTEEL		-0.28		106.75		11625665
+INFY		0.01		1324.0		2928384
+CIPLA		0.08		960.6		501856
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABBOTINDIA		-0.7		21900		2044
+MARUTI		-0.56		9330.55		191038
+LTIM		-0.53		4965.0		183790
+ABBOTINDIA		-0.7		21899.75		2063
