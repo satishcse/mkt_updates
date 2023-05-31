@@ -8,5 +8,7 @@ WIPRO		0.3		403.7		4073559
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWSTEEL		-1.16		696.45		8216517
-GRINDWELL		-1.59		2087.4		13802
+JSWSTEEL		-1.16		696.45		8508832
+KPRMILL		-1.15		577.05		126042
+WESTLIFE		0.36		774.0		107566
+GRINDWELL		-1.71		2084.9		14238
