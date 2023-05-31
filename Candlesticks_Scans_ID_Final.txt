@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AWL		-1.25		430.25		322810
-SHOPERSTOP		-0.4		748.0		1699
-KSB		0.24		2176.85		1283
+
