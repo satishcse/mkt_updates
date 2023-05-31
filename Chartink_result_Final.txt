@@ -10,12 +10,12 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IPCALAB		2.66		706.25		566070
-HINDPETRO		2.04		262.15		3167096
-HAVELLS		1.53		1308.0		446473
-BSOFT		1.37		341.3		1891895
-NAVINFLUOR		0.14		4679.15		31756
-HAL		-1.88		3043.8		1239299
+IPCALAB		2.57		705.65		566972
+HINDPETRO		2.1		262.3		3167857
+HAVELLS		1.78		1311.3		448732
+BSOFT		1.41		341.45		1898118
+NAVINFLUOR		0.18		4681.05		31764
+HAL		-1.85		3044.85		1241258
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -37,8 +37,8 @@ BOSCHLTD		0.33		18602.95		7212
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-RAIN		-0.56		151.75		1570888
-DABUR		0.08		550.35		860694
+RAIN		-0.56		151.75		1570970
+DABUR		0.02		550.0		863412
 
 Open_High								 
 ========= 
@@ -54,9 +54,9 @@ NTPC		-1.87		173.5		7985992
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-TATACOMM		1.28		1291.0		232509
-BIOCON		0.95		243.95		1766519
-CONCOR		0.34		672.75		150205
-INDIACEM		0.2		200.15		2264108
-UPL		0.15		690.05		690989
-TATACONSUM		0.07		791.45		273887
+TATACOMM		1.25		1290.65		232668
+BIOCON		0.95		243.95		1766654
+CONCOR		0.4		673.15		151142
+UPL		0.18		690.3		694694
+INDIACEM		0.15		200.05		2264695
+TATACONSUM		0.06		791.4		274136

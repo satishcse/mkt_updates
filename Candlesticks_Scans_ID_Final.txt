@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.19		524.95		6217172
-HINDALCO		-0.85		409.6		4776087
-RELIANCE		-1.42		2484.2		4056011
-HCLTECH		0.8		1144.9		1836626
-WIPRO		0.31		403.75		1649389
+RELIANCE		-1.38		2485.1		4063079
+HCLTECH		0.8		1144.9		1839760
+WIPRO		0.31		403.75		1652980
 
 Bullish_Hammer_15m_N500								 
 ======================= 
