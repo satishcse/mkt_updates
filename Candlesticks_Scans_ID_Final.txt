@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		-0.88		445.95		13910509
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGCL		-0.9		701.7		290946
-BAJAJELEC		-1.1		1141.7		86162
-WHIRLPOOL		-0.35		1428.0		27713
+CEATLTD		0.77		1929.9		337480
+WHIRLPOOL		-0.31		1428.5		27783
