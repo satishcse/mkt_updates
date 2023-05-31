@@ -7,6 +7,4 @@ POWERGRID		-0.98		232.8		3795889
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AMBER		-0.57		2125.25		51774
-ABBOTINDIA		-1.18		21793.9		3851
+
