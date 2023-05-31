@@ -19,8 +19,11 @@ HAL		-0.89		3074.45		767883
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-PNB		-0.1		51.4		10708251
-NIFTY		-0.47		18545.35		0
+PNB		0.0		51.45		10736660
+ADANIPORTS		0.26		735.95		3146355
+ADANIENT		-0.8		2476.6		984841
+ABBOTINDIA		-0.59		21925.0		1103
+NIFTY		-0.47		18545.85		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -41,10 +44,10 @@ NTPC		-1.56		174.05		2862685
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-BIOCON		0.7		243.35		685997
-IEX		0.39		154.3		694477
-TATACOMM		0.27		1278.1		94470
-TATACONSUM		0.23		792.75		109602
-INDIACEM		0.2		200.15		1450017
-CONCOR		0.13		671.35		70509
-UPL		-0.34		686.7		345490
+BIOCON		0.77		243.5		687468
+IEX		0.36		154.25		694656
+INDIACEM		0.28		200.3		1454187
+TATACOMM		0.26		1278.05		94581
+CONCOR		0.24		672.05		71899
+TATACONSUM		0.19		792.4		110023
+UPL		-0.33		686.75		345972
