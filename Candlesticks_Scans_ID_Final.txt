@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.4		526.05		3753798
+TATAMOTORS		1.42		526.15		3766352
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHREECEM		-1.12		25301.55		18646
+SHREECEM		-1.05		25318.05		18777
