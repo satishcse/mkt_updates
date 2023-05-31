@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.92		155.8		20446065
-WIPRO		0.55		404.7		2313973
-MARUTI		-1.07		9283.2		347710
+ONGC		-1.89		155.85		20522662
+WIPRO		0.4		404.1		2340670
+TECHM		2.63		1127.25		1757389
+MARUTI		-1.05		9285.0		349437
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POWERINDIA		-1.42		3826.7		18339
+SOLARINDS		-0.54		3769.45		15825
