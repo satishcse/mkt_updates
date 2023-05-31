@@ -1,13 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.37		106.65		11788508
-INFY		0.02		1324.05		2961043
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ZYDUSLIFE		-1.03		500.55		488878
-TITAN		-0.09		2800.0		301832
-ABBOTINDIA		-0.7		21899.95		2068
+
