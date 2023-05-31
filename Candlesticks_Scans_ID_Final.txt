@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.68		1609.25		19382436
-COALINDIA		-1.25		241.25		11973885
-TATAMOTORS		1.28		525.45		8047602
-WIPRO		0.43		404.25		2843217
+HDFCBANK		-1.68		1609.2		19544657
+COALINDIA		-1.29		241.15		12285678
+TATAMOTORS		1.37		525.9		8382300
+WIPRO		0.32		403.8		3078095
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RAYMOND		-0.97		1555.75		37421
