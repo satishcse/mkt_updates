@@ -9,5 +9,4 @@ DRREDDY		0.94		4543.3		123314
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SRF		-1.45		2483.3		131396
-THERMAX		0.18		2339.3		7809
+SRF		-1.43		2483.6		131761
