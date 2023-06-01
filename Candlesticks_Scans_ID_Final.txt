@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.9		153.5		12875198
-HINDUNILVR		1.21		2699.95		1469729
+ONGC		-0.87		153.55		12945933
+HINDUNILVR		1.11		2697.05		1477482
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRAFTSMAN		-1.35		3678		105933
+TEJASNET		0.47		700.25		751844
+RHIM		-0.21		654.0		463273
+AAVAS		-0.42		1392.0		150075
+CRAFTSMAN		-1.35		3678.0		107295
