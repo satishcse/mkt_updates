@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.53		529.1		5073246
-WIPRO		0.82		406.95		2364341
-SUNPHARMA		0.58		981.05		1416785
-HINDUNILVR		1.48		2707.0		917306
-ULTRACEMCO		-0.32		7845.0		79320
+TATAMOTORS		0.57		529.3		5095039
+WIPRO		0.84		407.05		2372250
+SUNPHARMA		0.57		980.9		1425483
+HINDUNILVR		1.44		2706.05		922076
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PIIND		-1.9		3548.2		133949
-RUSTOMJEE		-0.38		513.45		2695
+
