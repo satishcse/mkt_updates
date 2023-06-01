@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.06		2491.95		1523232
+ADANIENT		-0.06		2491.95		1540245
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SRF		-1.65		2478.15		427107
+ELGIEQUIP		1.27		541.25		582220
+SRF		-1.65		2478.05		431135
