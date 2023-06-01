@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		-4.27		230.95		6617532
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARUTI		-1.05		9269.25		31921
-MASTEK		-0.05		2055.0		16297
+ADANITRANS		4.14		808.85		1297345
