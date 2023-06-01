@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-2.03		1209.9		886825
+TATASTEEL		0.14		105.95		18089358
+ADANIENT		0.23		2499.0		1425498
+TECHM		0.59		1122.15		1204136
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDIGO		-1.16		2345		364766
-NAVINFLUOR		-0.95		4621		71671
+
