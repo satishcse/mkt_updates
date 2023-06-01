@@ -2,16 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.43		106.25		4192579
-ADANIPORTS		0.02		739.0		1548298
-HDFC		0.86		2663.0		917453
-INFY		0.67		1327.15		657497
-TCS		1.16		3327.6		316803
+ONGC		0.68		155.95		2831907
+POWERGRID		-0.51		232.65		1320011
+EICHERMOT		1.16		3714.7		130686
+MARUTI		-1.04		9270.1		61717
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AFFLE		0.72		966.1		87294
-ANURAS		-2.2		1140.35		50045
-POLYMED		0.17		976.95		6933
-INGERRAND		-0.34		2728.45		2235
+
