@@ -7,4 +7,6 @@ TECHM		0.82		1124.75		890686
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MAZDOCK		-0.95		800.55		502668
+ZYDUSWELL		0.1		1458.3		20384
