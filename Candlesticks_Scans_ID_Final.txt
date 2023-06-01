@@ -8,4 +8,6 @@ ADANIENT		0.11		2496.1		1445645
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SRF		-1.64		2478.5		412192
+APLLTD		0.94		551.7		58201
