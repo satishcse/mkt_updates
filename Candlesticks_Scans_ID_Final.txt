@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.06		2491.95		1534252
+ONGC		-0.84		153.6		12709128
+HINDUNILVR		1.21		2699.85		1460907
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CRAFTSMAN		-1.35		3678		105933
