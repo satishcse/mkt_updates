@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.19		106.0		17632781
-ADANIENT		0.25		2499.5		1405130
-BRITANNIA		-0.48		4634.5		163878
+ADANIENT		0.25		2499.55		1402393
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTTS		0.15		3909.0		103646
-NAVINFLUOR		-0.92		4622.0		59760
-RATNAMANI		-0.78		2294.95		44040
+LTTS		0.14		3908.35		103909
+RATNAMANI		-0.65		2297.9		46063
