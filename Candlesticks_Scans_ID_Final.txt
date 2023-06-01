@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.55		1293.65		2870122
-SBILIFE		-2.2		1207.85		840287
+INDUSINDBK		0.49		1292.9		2876360
+SBILIFE		-2.2		1207.85		842748
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-1.18		1610.4		47931
-GALAXYSURF		0.2		2469.5		7014
+ECLERX		-1.21		1610		48432
