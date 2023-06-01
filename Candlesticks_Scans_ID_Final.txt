@@ -1,10 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIPORTS		0.16		740.0		1463103
+INFY		0.81		1328.95		593538
+TCS		1.19		3328.75		284637
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BORORENEW		0.98		551.0		215998
-ZFCVINDIA		-0.73		10574.45		149
+ANURAS		-2.07		1141.9		49122
+SOLARINDS		-0.6		3729.75		8234
+SCHAEFFLER		-0.91		2939.95		7763
+POLYMED		0.26		977.8		4961
