@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.93		531.2		7164807
-ASIANPAINT		1.33		3235.3		765352
-BAJAJ-AUTO		1.73		4646.05		453947
-MARUTI		-0.16		9353.0		273462
+ASIANPAINT		1.35		3235.95		770970
+BAJAJ-AUTO		1.75		4647.0		455496
+MARUTI		-0.16		9353.0		273858
 
 Bullish_Hammer_15m_N500								 
 ======================= 
