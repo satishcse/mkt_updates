@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.38		106.2		14073276
-KOTAKBANK		-3.68		1940.3		3689897
-TECHM		0.78		1124.3		1008301
-CIPLA		0.71		959.85		458973
-TITAN		-0.1		2820.5		327812
-DRREDDY		0.89		4541.0		170434
+TATASTEEL		0.38		106.2		14276057
+KOTAKBANK		-3.65		1940.75		3739437
+TECHM		0.74		1123.75		1012735
+CIPLA		0.69		959.6		465958
+TITAN		-0.13		2819.5		332358
+DRREDDY		0.84		4538.95		171844
 
 Bullish_Hammer_15m_N500								 
 ======================= 
