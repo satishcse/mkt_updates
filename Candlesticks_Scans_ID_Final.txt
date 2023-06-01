@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.33		106.15		14637185
-KOTAKBANK		-3.66		1940.55		4053329
-ADANIPORTS		-0.38		736.05		2588995
-HINDUNILVR		1.18		2699.0		1050082
-TCS		1.29		3331.9		739470
-LT		0.25		2211.15		658282
+TATASTEEL		0.33		106.15		14672103
+KOTAKBANK		-3.69		1940.1		4076616
+TCS		1.23		3329.8		742784
+LT		0.31		2212.55		660819
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INGERRAND		-0.8		2715.85		8532
