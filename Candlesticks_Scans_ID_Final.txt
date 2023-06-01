@@ -2,7 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.17		2474		3719424
+RELIANCE		0.17		2474.2		3808269
+INDUSINDBK		0.6		1294.35		2397585
 
 Bullish_Hammer_15m_N500								 
 ======================= 
