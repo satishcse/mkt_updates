@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.3		233.15		3080227
-HINDUNILVR		1.62		2710.65		901200
-ULTRACEMCO		-0.28		7847.7		78181
+POWERGRID		-0.28		233.2		3087030
+SUNPHARMA		0.67		981.9		1408687
+HINDUNILVR		1.53		2708.45		908960
+ULTRACEMCO		-0.32		7844.5		78484
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+APARINDS		-2.14		2720.0		50915
+ZFCVINDIA		-0.77		10569.85		732
