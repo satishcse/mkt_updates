@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.9		585.05		5653516
+WIPRO		0.76		406.7		1813299
+SUNPHARMA		0.42		979.4		901967
+DIVISLAB		2.86		3541.95		388328
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AAVAS		0.01		1397.95		63853
 ZFCVINDIA		-0.7		10577.05		581
