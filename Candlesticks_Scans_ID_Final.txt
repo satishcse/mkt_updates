@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		1.37		3236.6		829204
-BAJAJFINSV		0.12		1452.8		768320
-GRASIM		-0.74		1705.55		259300
+ASIANPAINT		1.37		3236.6		818036
+BAJAJFINSV		0.12		1452.8		764748
+GRASIM		-0.74		1705.55		258623
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFC		0.44		2652.05		2975555
+HDFC		0.55		2654.9		2836122
