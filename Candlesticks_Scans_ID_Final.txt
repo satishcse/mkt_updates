@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.14		105.95		19158149
-ADANIENT		0.07		2495.2		1470415
+ADANIENT		-0.13		2490.15		1479914
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SRF		-1.65		2478.15		416225
-GRASIM		-0.79		1704.8		332996
+SRF		-1.67		2477.7		417966
