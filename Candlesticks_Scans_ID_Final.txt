@@ -10,5 +10,6 @@ ULTRACEMCO		-0.32		7844.5		78484
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APARINDS		-2.14		2720.0		50915
-ZFCVINDIA		-0.77		10569.85		732
+PIIND		-1.86		3549.7		133114
+MTARTECH		-0.23		1895.0		88102
+ZFCVINDIA		-0.77		10569.85		734
