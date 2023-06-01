@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.71		982.25		1819313
-ASIANPAINT		1.35		3236.2		757043
-BAJAJ-AUTO		1.75		4647.0		451207
-MARUTI		-0.12		9356.0		272227
+ASIANPAINT		1.35		3236.05		758920
+BAJAJ-AUTO		1.75		4647.0		452239
+MARUTI		-0.15		9353.75		272658
 
 Bullish_Hammer_15m_N500								 
 ======================= 
