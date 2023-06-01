@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.74		680.05		521757
-TATACONSUM		-0.18		797.25		90999
-NESTLEIND		1.0		21889.95		10591
+UPL		-0.73		680.1		529479
+TATACONSUM		-0.14		797.5		93773
+NESTLEIND		1.0		21889.55		10852
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZFCVINDIA		-0.54		10594.55		450
+ZFCVINDIA		-0.53		10595.4		459
