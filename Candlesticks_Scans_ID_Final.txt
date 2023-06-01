@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-4.81		229.65		16805487
-KOTAKBANK		-3.72		1939.45		3685124
-TECHM		0.82		1124.7		1004638
-TITAN		-0.1		2820.5		328810
-DRREDDY		0.93		4543.0		169933
+COALINDIA		-4.81		229.65		16235223
+KOTAKBANK		-3.76		1938.6		3660924
+TECHM		0.79		1124.35		1005253
+CIPLA		0.72		959.95		456856
+TITAN		-0.11		2820.05		326316
+DRREDDY		0.96		4544.35		169880
 
 Bullish_Hammer_15m_N500								 
 ======================= 
