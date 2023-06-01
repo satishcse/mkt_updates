@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.38		106.2		14403605
-TECHM		0.81		1124.6		1017559
-CIPLA		0.68		959.5		471850
-TITAN		-0.11		2820.15		334422
-DRREDDY		0.84		4538.65		172803
+TATASTEEL		0.33		106.15		14322760
+TECHM		0.82		1124.75		1016003
+TITAN		-0.1		2820.5		331140
+DRREDDY		0.8		4537.15		172446
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MTARTECH		-0.57		1888.55		601061
+
