@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.46		154.35		6149671
-BRITANNIA		0.46		4656.45		278836
+ONGC		0.42		154.3		6189708
+ADANIPORTS		0.68		737.0		4099106
+LT		1.28		2236.05		840305
 
 Bullish_Hammer_15m_N500								 
 ======================= 
