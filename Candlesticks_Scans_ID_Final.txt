@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.99		107.0		15506647
-AXISBANK		0.47		924.05		5071923
-RELIANCE		-0.23		2457.5		4104103
-ONGC		0.1		153.8		3524253
-INDUSINDBK		0.0		1290.2		1140536
+TATASTEEL		0.99		107.0		15538729
+AXISBANK		0.47		924.05		5080787
+RELIANCE		-0.25		2457.05		4110528
+ONGC		0.03		153.7		3564374
+INDUSINDBK		-0.01		1290.0		1145987
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MGL		-2.52		1042.05		242712
+TEAMLEASE		-0.9		2228.25		7066
