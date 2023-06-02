@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.29		1124.1		1276053
-BRITANNIA		0.48		4657.4		258442
+TATASTEEL		0.99		107.0		17836571
+JSWSTEEL		0.44		696.9		1753106
+TECHM		0.29		1124.0		1286789
+BRITANNIA		0.43		4655.35		258556
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-1.73		2448.95		1625862
-NATCOPHARM		0.36		625.2		643649
-VIPIND		0.44		606.05		336518
+ADANIENT		-1.77		2448.0		1642708
+BAJAJ-AUTO		0.23		4654.45		439542
+VIPIND		0.43		606.0		336626
