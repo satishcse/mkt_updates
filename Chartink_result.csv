@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-DLF,1.4,483.9,5266751
-LTTS,1.02,3937.9,122021
+DLF,1.37,483.75,5287995
+LTTS,1.02,3938.0,122216
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -25,7 +25,7 @@ ADANIENT,0.17,2496.5,747037
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-EICHERMOT,-1.08,3675.9,522320
+EICHERMOT,-1.24,3670,532751
 
 Open_High,,,, 
 ========= 
