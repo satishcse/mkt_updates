@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.99		107.0		21589680
-EICHERMOT		-0.86		3684.0		815116
-NESTLEIND		0.59		22002.85		41492
+TATASTEEL		0.99		107.0		21743571
+EICHERMOT		-0.88		3683.25		817467
+NESTLEIND		0.61		22007.2		41655
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ESCORTS		-0.76		2179.85		144072
+
