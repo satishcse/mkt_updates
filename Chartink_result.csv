@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-DLF,1.61,484.9,5831031
-LTTS,1.15,3942.95,139738
+DLF,1.48,484.25,5849048
+LTTS,1.16,3943.25,140176
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -40,8 +40,9 @@ NIFTY,0.25,18534.3,0
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-M&M,0.69,1328.0,604986
-ACC,0.64,1811.75,258721
+LAURUSLABS,0.53,342.3,1365007
+M&M,0.69,1328.0,617648
+ACC,0.65,1812.0,271872
 
 Open_High,,,, 
 ========= 
