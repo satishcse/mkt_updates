@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DLF		1.31		483.45		4602156
-LTTS		0.59		3921.0		109369
+DLF		1.62		484.95		4656970
+LTTS		0.58		3920.7		109768
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -29,16 +29,16 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-LTIM		0.46		4992.25		58548
-ONGC		0.36		154.2		1716395
-BAJAJFINSV		0.27		1454.0		346101
-MARUTI		0.21		9348.0		63519
-NTPC		0.03		174.45		1788781
-NESTLEIND		-0.06		21861.0		11394
-HINDPETRO		-0.44		259.1		708566
-IGL		-0.94		467.3		318487
-ICICIPRULI		-0.98		473.3		361831
-BIOCON		-3.24		237.35		4157403
+LTIM		0.44		4991.1		58811
+BAJAJFINSV		0.34		1455.05		349518
+ONGC		0.33		154.15		1731503
+MARUTI		0.2		9347.0		63673
+NTPC		0.06		174.5		1794669
+NESTLEIND		-0.04		21864.6		11476
+HINDPETRO		-0.44		259.1		714829
+IGL		-0.98		467.15		319681
+ICICIPRULI		-1.0		473.2		363563
+BIOCON		-3.26		237.3		4168527
 
 Open_Low								 
 ======== 
