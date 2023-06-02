@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-1.17		1304.05		5060267
-ADANIPORTS		1.18		740.7		2353338
-HEROMOTOCO		2.38		2867.1		1265573
-SUNPHARMA		-0.26		985.15		599564
-UPL		0.67		682.5		524520
-DRREDDY		1.01		4598.0		189986
+TATASTEEL		0.99		107.0		14713101
+HINDALCO		2.05		414.7		4415323
+ADANIPORTS		1.16		740.55		2363328
+SUNPHARMA		-0.29		984.8		601886
+UPL		0.66		682.45		526125
 
 Bullish_Hammer_15m_N500								 
 ======================= 
