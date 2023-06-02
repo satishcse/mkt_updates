@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.04		107.05		16352114
-EICHERMOT		-1.06		3676.6		668508
-LT		0.52		2219.25		391705
+TATASTEEL		1.09		107.1		16382437
+ADANIPORTS		1.11		740.2		2653467
+M&M		0.77		1329.0		953137
+EICHERMOT		-1.04		3677.25		668648
+LT		0.55		2219.95		392532
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJ-AUTO		0.31		4657.85		399805
