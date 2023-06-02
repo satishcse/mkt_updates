@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DLF		1.75		485.55		5792884
-LTTS		1.12		3941.6		139278
+DLF		1.75		485.55		5801238
+LTTS		1.1		3941.0		139466
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -23,7 +23,8 @@ NIFTY		0.23		18529.45		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+M&M		0.69		1327.95		591295
 
 Open_High								 
 ========= 
@@ -42,14 +43,14 @@ BIOCON		-2.3		239.65		4975591
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		2.59		2872.95		1283550
-AMBUJACEM		2.17		438.55		3064104
-HINDALCO		2.1		414.9		4431040
-PNB		1.45		52.45		12301207
-CONCOR		1.17		667.15		166414
-TATASTEEL		0.99		107.0		14784139
-TATACHEM		0.61		974.85		228534
-ULTRACEMCO		0.57		7887.2		108427
-NAVINFLUOR		0.56		4618.05		33364
-OFSS		0.52		3635.35		10796
-NAUKRI		0.09		4222.4		338107
+HEROMOTOCO		2.66		2875.0		1289579
+AMBUJACEM		2.17		438.55		3070767
+HINDALCO		2.12		414.95		4454520
+PNB		1.26		52.35		12316711
+CONCOR		1.19		667.3		166522
+TATASTEEL		0.94		106.95		14803263
+TATACHEM		0.63		975.05		229679
+NAVINFLUOR		0.61		4620.45		33387
+OFSS		0.6		3638.4		10848
+ULTRACEMCO		0.54		7885.0		109200
+NAUKRI		0.03		4220.0		338910
