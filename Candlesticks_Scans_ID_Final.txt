@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.99		107.0		13430915
-HINDALCO		2.03		414.6		4204286
-HDFCBANK		0.21		1607.35		3500079
-POWERGRID		0.3		233.7		1482141
+TATASTEEL		0.99		107.0		13439661
+HINDALCO		2.04		414.65		4205762
+HDFCBANK		0.22		1607.5		3542382
+POWERGRID		0.3		233.7		1492597
+CIPLA		-0.47		960.2		373385
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		-0.34		2454.9		2997629
-CEATLTD		-0.33		1921.8		94172
-SHYAMMETL		0.03		296.05		54057
+
