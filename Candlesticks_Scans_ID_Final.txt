@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.48		585.55		3903881
-JSWSTEEL		0.71		698.8		875927
-SUNPHARMA		-0.45		983.3		402384
-SBILIFE		0.14		1209.5		305152
-ASIANPAINT		-0.1		3237.3		300544
+JSWSTEEL		0.61		698.05		879539
+SUNPHARMA		-0.49		982.9		411634
+SBILIFE		0.18		1209.95		306391
 
 Bullish_Hammer_15m_N500								 
 ======================= 
