@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.92		928.15		7892217
-HINDALCO		2.55		416.7		6977888
-ONGC		0.26		154.05		6526333
-M&M		1.33		1336.4		1449170
-LT		1.13		2232.65		878216
+AXISBANK		0.9		927.95		7911340
+HINDALCO		2.56		416.75		6995971
+ONGC		0.26		154.05		6560079
+M&M		1.33		1336.4		1451594
+LT		1.16		2233.35		880414
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AVANTIFEED		0.04		384.25		114234
