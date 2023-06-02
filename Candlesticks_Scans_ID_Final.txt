@@ -1,8 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATAMOTORS		-0.01		535.15		5173442
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ATGL		-2.98		673.65		2562721
+TCS		-0.3		3314.0		421362
+METROPOLIS		-0.24		1304.0		16822
