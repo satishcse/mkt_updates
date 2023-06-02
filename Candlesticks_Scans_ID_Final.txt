@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.76		106.75		10592552
-ADANIENT		0.6		2507.1		650174
-TITAN		0.5		2841.5		312717
+COALINDIA		-0.26		229.75		14276507
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DEEPAKFERT		-1.35		557.55		482145
-CDSL		0.65		1075.8		436887
-HDFCAMC		-0.62		1938.0		82010
+
