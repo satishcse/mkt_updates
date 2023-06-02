@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		1.06		2726.6		863429
+HINDUNILVR		1.04		2726		866374
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PVRINOX		-1.08		1400.85		185782
+
