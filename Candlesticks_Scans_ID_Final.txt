@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.99		107.0		16728847
-NTPC		-0.37		173.75		4070622
-EICHERMOT		-1.09		3675.7		673590
+TATASTEEL		1.09		107.1		16761538
+NTPC		-0.4		173.7		4084306
+EICHERMOT		-1.08		3676.0		674069
 
 Bullish_Hammer_15m_N500								 
 ======================= 
