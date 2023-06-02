@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.89		107.95		35984672
-HINDALCO		3.57		420.85		10092256
-RELIANCE		-0.32		2455.25		6514398
-ADANIENT		-1.57		2453.05		5234266
-LT		1.29		2236.2		1056441
+TATASTEEL		1.89		107.95		36299220
+HINDALCO		3.56		420.8		10114681
+RELIANCE		-0.28		2456.45		6538162
+ADANIENT		-1.67		2450.45		5240064
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RATNAMANI		0.23		2304.9		16029
+POLYPLEX		-1.23		1327.0		93947
+RATNAMANI		0.23		2304.9		16063
