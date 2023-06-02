@@ -6,9 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-0.39		774.85		124017
-KALPATPOWR		-0.84		534.35		37163
-FINEORG		0.22		4515.0		7688
-BOSCHLTD		0.16		18631.85		1966
-GRINDWELL		-0.28		2111.0		1859
-ZFCVINDIA		-0.03		10532.4		352
+TANLA		-0.42		774.65		125973
+NESTLEIND		0.07		21890.0		9998
+MRF		-0.11		97463.75		1589
+ZFCVINDIA		0.07		10542.8		354
