@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-DLF,1.53,484.5,5883078
-LTTS,1.1,3940.85,141033
+DLF,1.52,484.45,5886865
+LTTS,1.1,3941.0,141098
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -30,7 +30,9 @@ LALPATHLAB,0.54,2016.15,43452
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
-
+nsecode,per_chg,close,volume
+NMDC,1.03,108.0,3705362
+JSWSTEEL,0.49,697.25,1426146
 
 Open_High,,,, 
 ========= 
@@ -58,5 +60,5 @@ TATASTEEL,0.99,107.0,15239568
 TATACHEM,0.69,975.65,232865
 NAVINFLUOR,0.66,4622.55,33840
 ULTRACEMCO,0.52,7883.5,110434
-OFSS,0.52,3635.5,10877
+OFSS,0.52,3635.5,10832
 NAUKRI,0.0,4218.75,342465
