@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		2.09		414.85		4423232
-ADANIPORTS		1.2		740.8		2383804
-KOTAKBANK		0.32		1936.25		1721908
-WIPRO		-0.14		406.6		1403980
-SUNPHARMA		-0.3		984.7		611199
-UPL		0.72		682.85		527895
+HINDALCO		2.09		414.85		4429408
+ADANIPORTS		1.19		740.75		2392898
+KOTAKBANK		0.3		1935.9		1725154
+WIPRO		-0.2		406.35		1407916
+SUNPHARMA		-0.3		984.75		619125
+UPL		0.68		682.55		528986
 
 Bullish_Hammer_15m_N500								 
 ======================= 
