@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ATGL		-2.36		677.95		2038133
+ADANITRANS		-1.56		802.75		1368101
+SBILIFE		-0.02		1207.45		98932
