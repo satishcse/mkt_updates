@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-JSWSTEEL,0.45,696.95,1729110
-TECHM,0.29,1124.1,1271722
-BRITANNIA,0.47,4657.1,257550
+TECHM,0.29,1124.05,1273536
+BRITANNIA,0.47,4657.0,257884
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ADANIENT,-1.89,2445.0,1588788
+NATCOPHARM,0.42,625.55,643606
