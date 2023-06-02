@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.12		535.85		10370185
-EICHERMOT		-0.78		3687.0		849956
+TATAMOTORS		0.1		535.75		10385856
+EICHERMOT		-0.73		3689.0		851280
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		-0.4		1467.5		34914
+INDIGOPNTS		-0.4		1467.5		34953
