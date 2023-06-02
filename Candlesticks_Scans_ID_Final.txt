@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.07		929.55		7605499
-ONGC		0.36		154.2		6260150
-ADANIENT		-1.71		2449.5		3777858
-M&M		1.37		1336.95		1431309
-LT		1.21		2234.6		854965
+AXISBANK		0.98		928.75		7639255
+ONGC		0.39		154.25		6272539
+ADANIENT		-1.75		2448.45		3805181
+M&M		1.36		1336.85		1433493
+LT		1.18		2233.9		857736
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCIEXP		-1.37		1598.3		11570
+JKCEMENT		-0.94		3180.0		88967
+TCIEXP		-1.3		1599.5		11571
