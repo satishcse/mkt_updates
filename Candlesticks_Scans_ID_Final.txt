@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.61		736.5		3818097
-HDFCLIFE		-0.33		580.3		2311212
-BAJFINANCE		0.23		7057.0		425107
+ADANIPORTS		0.4		735.0		3880017
+HDFCLIFE		-0.41		579.8		2312976
+BAJFINANCE		0.22		7056.0		425562
 
 Bullish_Hammer_15m_N500								 
 ======================= 
