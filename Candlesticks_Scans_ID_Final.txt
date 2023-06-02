@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.99		4689.5		213552
-GRASIM		0.09		1703.95		181600
+TATASTEEL		0.94		106.95		12483595
+BAJAJ-AUTO		1.05		4692.45		214495
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TTKPRESTIG		-0.33		673.9		102870
+
