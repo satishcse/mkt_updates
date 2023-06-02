@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.29		1124.05		1353840
-SUNPHARMA		0.35		991.2		990054
-DRREDDY		1.24		4608.35		289968
-BRITANNIA		0.43		4655.35		266973
+TECHM		0.31		1124.25		1354998
+DRREDDY		1.2		4606.8		290557
+BRITANNIA		0.49		4657.9		267290
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAYERCROP		-0.09		4290.1		9552
+BAYERCROP		-0.09		4290.1		9847
