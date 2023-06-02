@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.09		230.15		15319547
-TATASTEEL		0.9		106.9		11177516
-ITC		0.34		441.2		2523710
-NTPC		0.11		174.6		1840930
-SUNPHARMA		-0.44		983.4		386692
-TATACONSUM		0.37		796.55		202802
+COALINDIA		-0.04		230.25		15382714
+TATASTEEL		0.85		106.85		11196368
+NTPC		0.09		174.55		1846105
+SUNPHARMA		-0.44		983.4		387637
+M&M		0.58		1326.6		363590
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KENNAMET		0.09		2390.95		3157
+KENNAMET		0.09		2390.95		3159
