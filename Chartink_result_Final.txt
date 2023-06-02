@@ -10,15 +10,16 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DLF		2.2		487.7		7833389
-LT		0.99		2229.65		923603
-LTTS		0.91		3933.65		178843
+DLF		2.26		488.0		7842074
+LT		0.98		2229.5		925131
+LTTS		0.93		3934.2		179187
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-0.29		2456		5921337
-MRF		-0.84		96750		4899
+RELIANCE		-0.25		2457.0		5930552
+SUNPHARMA		0.72		994.8		1466963
+SHREECEM		-0.27		25098.4		30196
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -27,13 +28,13 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-LTIM		0.42		4990.0		187333
-ONGC		0.16		153.9		6799911
-NTPC		0.14		174.65		5758778
-HINDPETRO		-0.88		257.95		1604543
-ICICIPRULI		-1.31		471.75		945485
-BIOCON		-2.24		239.8		6092721
-IGL		-2.59		459.55		1374942
+LTIM		0.45		4991.7		187652
+NTPC		0.17		174.7		5763427
+ONGC		0.13		153.85		6811473
+HINDPETRO		-0.88		257.95		1606254
+ICICIPRULI		-1.28		471.9		946950
+BIOCON		-2.22		239.85		6099067
+IGL		-2.5		459.95		1376716
 
 Open_Low								 
 ======== 
