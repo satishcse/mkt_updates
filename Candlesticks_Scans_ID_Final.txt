@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.5		405.1		2627649
-M&M		1.37		1337.0		1672433
-MARUTI		1.31		9450.65		290894
+TATASTEEL		1.93		108.0		35697289
+HEROMOTOCO		3.4		2895.75		1896663
+LT		1.24		2235.25		1039318
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SUNDRMFAST		-1.84		1114.85		186542
+

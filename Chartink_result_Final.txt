@@ -10,9 +10,9 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DLF		2.4		488.65		8393231
-LT		1.28		2236.1		1030264
-LTTS		1.0		3937.0		192195
+DLF		2.58		489.5		8440984
+LT		1.24		2235.25		1039318
+LTTS		1.02		3937.95		193270
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -49,9 +49,7 @@ BANKNIFTY		0.35		43945.2		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-ZYDUSLIFE		0.77		517.35		1304227
-CONCOR		1.14		667.0		749965
-ESCORTS		-0.53		2185.0		169316
+GAIL		-0.71		104.6		7792195
 
 Open_High								 
 ========= 
@@ -67,11 +65,11 @@ IGL		-2.64		459.3		1531833
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-HINDALCO		3.67		421.25		9929645
-HEROMOTOCO		3.37		2894.8		1889035
-AMBUJACEM		1.97		437.7		4726277
-TATASTEEL		1.89		107.95		35039355
-NAUKRI		1.46		4280.05		564665
-PNB		1.16		52.3		20969609
-CONCOR		1.07		666.5		748451
-NAVINFLUOR		0.6		4620.0		51324
+HINDALCO		3.67		421.25		10014837
+HEROMOTOCO		3.4		2895.75		1896663
+AMBUJACEM		2.09		438.2		4769573
+TATASTEEL		1.93		108.0		35697289
+NAUKRI		1.4		4277.55		567522
+PNB		1.35		52.4		21149034
+CONCOR		1.14		667.0		755661
+NAVINFLUOR		0.7		4624.4		51762
