@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.99		107.0		14713101
-HINDALCO		2.05		414.7		4415323
-ADANIPORTS		1.16		740.55		2363328
-SUNPHARMA		-0.29		984.8		601886
-UPL		0.66		682.45		526125
+HINDALCO		2.09		414.85		4423232
+ADANIPORTS		1.2		740.8		2383804
+KOTAKBANK		0.32		1936.25		1721908
+WIPRO		-0.14		406.6		1403980
+SUNPHARMA		-0.3		984.7		611199
+UPL		0.72		682.85		527895
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJFINANCE		-0.29		7019.95		323553
