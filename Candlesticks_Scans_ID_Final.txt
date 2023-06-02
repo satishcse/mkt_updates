@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.37		1125		1269665
-BRITANNIA		0.47		4657		257394
+JSWSTEEL		0.45		696.95		1729110
+TECHM		0.29		1124.1		1271722
+BRITANNIA		0.47		4657.1		257550
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.2		4652.9		435720
+
