@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.79		927.0		6142442
-TECHM		0.34		1124.65		1347902
-BAJAJFINSV		0.53		1457.8		633832
-BRITANNIA		0.45		4655.95		266174
+TECHM		0.34		1124.6		1350151
+BAJAJFINSV		0.51		1457.6		634840
+DRREDDY		1.27		4609.9		288913
+BRITANNIA		0.46		4656.6		266283
 
 Bullish_Hammer_15m_N500								 
 ======================= 
