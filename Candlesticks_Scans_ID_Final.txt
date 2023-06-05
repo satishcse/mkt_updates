@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.03		443.25		2453265
-WIPRO		0.01		405.0		2179018
-EICHERMOT		0.12		3704.0		126068
-ULTRACEMCO		0.69		7904.75		63118
+ITC		0.0		443.4		2458977
+EICHERMOT		0.12		3704.0		126157
+ULTRACEMCO		0.71		7906.55		63223
 
 Bullish_Hammer_15m_N500								 
 ======================= 
