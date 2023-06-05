@@ -1,11 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-AXISBANK		2.44		948.7		8065485
-SBIN		0.1		587.8		7538474
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		0		7023.6		325239
+BAJFINANCE		-0.01		7023.05		327313
+HEROMOTOCO		-0.55		2876.7		315034
+ELGIEQUIP		-1.55		536.2		215156
+SHRIRAMFIN		-0.25		1409.75		184388
+LTIM		-0.48		4970.0		85409
+CHOLAHLDNG		0.09		811.9		30872
