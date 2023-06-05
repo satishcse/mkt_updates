@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		1.71		1016.7		1982479
-INDUSINDBK		0.53		1295.0		1208622
-DRREDDY		0.44		4630.6		109970
+SUNPHARMA		1.74		1016.95		1990795
+INDUSINDBK		0.53		1295.0		1228477
+DRREDDY		0.44		4630.6		110192
 
 Bullish_Hammer_15m_N500								 
 ======================= 
