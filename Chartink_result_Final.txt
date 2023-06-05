@@ -40,20 +40,16 @@ SIEMENS		-0.08		3549.95		121829
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-NMDC		0.05		108.95		5158838
-BALRAMCHIN		-0.01		392.0		343057
-IPCALAB		0.5		717.75		320501
-SHRIRAMFIN		-0.4		1407.75		213562
+
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-COFORGE		0.33		4606.0		87208
-TITAN		-0.31		2852.7		437445
-VEDL		-0.5		278.7		4648694
-ASIANPAINT		-1.21		3198.1		314261
-INDIAMART		-1.55		5612.3		72698
+COFORGE		0.35		4606.7		88129
+TITAN		-0.33		2852.25		438550
+VEDL		-0.5		278.7		4651250
+ASIANPAINT		-1.18		3199.15		315067
+INDIAMART		-1.43		5619.2		72788
 
 Open_Low								 
 ======== 
