@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,0.01,1606.7,7837686
-DRREDDY,0.0,4610.4,174264
+HDFCBANK,-0.02,1606.25,7850763
+DRREDDY,0.01,4611.0,174649
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-UTIAMC,-1.15,702.5,37376
+UTIAMC,-1.15,702.5,37469
+CERA,0.1,7598.9,4982
