@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.97		109.05		25775121
-ADANIPORTS		0.39		739.5		4250506
-LT		1.4		2265.9		1874594
-GRASIM		1.33		1733.3		562781
+TATASTEEL		0.93		109.0		25822056
+TATAMOTORS		2.31		548.3		12362088
+ADANIPORTS		0.33		739.0		4267382
+GRASIM		1.33		1733.3		564114
 
 Bullish_Hammer_15m_N500								 
 ======================= 
