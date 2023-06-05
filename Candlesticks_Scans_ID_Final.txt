@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.89		356.85		2786441
-MARUTI		1.0		9580.0		420782
+BPCL		-0.9		356.8		2800553
+MARUTI		1.0		9580.0		423862
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUSTDIAL		-0.89		714.2		561402
-TEJASNET		-0.77		692.75		225112
-ENDURANCE		-0.37		1496.95		150001
-MASTEK		-2.27		2042.25		118942
-TIMKEN		0.22		3358.6		17336
-GARFIBRES		0.6		3093.8		10188
+RHIM		-0.81		656.55		164409
+ENDURANCE		-0.37		1497.0		150085
+SONATSOFTW		-1.53		969.5		140007
+DCMSHRIRAM		-0.85		847.0		42356
+BBTC		-0.99		938.8		24666
+GARFIBRES		0.82		3100.55		10370
