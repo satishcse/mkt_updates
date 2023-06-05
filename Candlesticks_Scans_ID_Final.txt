@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.05		108.05		9125454
-ICICIBANK		0.91		946.7		3137089
-M&M		2.8		1379.0		1804266
-WIPRO		-0.05		404.75		1799931
-ADANIPORTS		0.71		741.85		1504871
-HCLTECH		0.38		1141.4		339263
+ICICIBANK		0.93		946.9		3197944
+WIPRO		-0.1		404.55		1805242
+ADANIPORTS		0.64		741.35		1521170
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIMKEN		-0.19		3345		6873
+TIMKEN		-0.19		3345		6879
