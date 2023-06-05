@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ITC,-0.02,443.3,2420461
-ADANIPORTS,0.82,742.65,2121714
-ULTRACEMCO,0.71,7906.4,62552
+ITC,-0.03,443.25,2453265
+WIPRO,0.01,405.0,2179018
+EICHERMOT,0.12,3704.0,126068
+ULTRACEMCO,0.69,7904.75,63118
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PGHH,0.29,13740.75,1626
