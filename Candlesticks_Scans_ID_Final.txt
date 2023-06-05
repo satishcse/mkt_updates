@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.09		443.8		2388469
-ADANIPORTS		0.82		742.65		2088402
-ULTRACEMCO		0.72		7907.0		61985
+ITC		0.01		443.45		2405975
+WIPRO		0.01		405.0		2168971
+ADANIPORTS		0.82		742.65		2104829
+ULTRACEMCO		0.72		7906.95		62253
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PATANJALI		-0.29		1031		69322
+
