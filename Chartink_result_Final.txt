@@ -10,32 +10,34 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-TATACHEM		4.45		1012.95		3166919
-AXISBANK		2.14		945.95		4932473
-POWERGRID		0.81		236.5		2881759
-BOSCHLTD		0.66		18875.0		8379
-COLPAL		-0.17		1606.85		104274
-LICHSGFIN		-0.38		377.75		1056404
+TATACHEM		4.56		1014.0		3193070
+AXISBANK		2.17		946.2		4945097
+POWERGRID		0.9		236.7		2914124
+BOSCHLTD		0.63		18869.5		8391
+COLPAL		-0.16		1606.95		106830
+LICHSGFIN		-0.33		377.95		1059473
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.1		837.3		2084416
+TATAMOTORS		1.15		542.05		4493098
+BHARTIARTL		0.1		837.3		2086019
+SUNTV		1.73		463.9		400633
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.1		837.3		2086019
+BHARTIARTL		0.17		837.9		2091565
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-UPL		0.38		685.95		302328
-COFORGE		-0.01		4590.15		47954
-TITAN		-0.27		2853.9		272416
-ASIANPAINT		-0.63		3216.7		150471
-VEDL		-0.84		277.75		3508443
-INDIAMART		-0.93		5648.0		33587
+UPL		0.36		685.8		302830
+COFORGE		0.05		4592.95		48055
+TITAN		-0.34		2852.0		273357
+ASIANPAINT		-0.65		3216.25		150990
+VEDL		-0.82		277.8		3515774
+INDIAMART		-1.0		5643.8		33736
 
 Open_Low								 
 ======== 

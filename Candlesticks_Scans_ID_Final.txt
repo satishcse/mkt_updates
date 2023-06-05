@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.93		946.9		3197944
-WIPRO		-0.1		404.55		1805242
-ADANIPORTS		0.64		741.35		1521170
+ICICIBANK		0.91		946.7		3228410
+WIPRO		-0.11		404.5		1808663
+JSWSTEEL		-0.28		704.6		557429
+HEROMOTOCO		-0.33		2883.1		206506
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIMKEN		-0.19		3345		6879
+TIMKEN		-0.13		3347		6905
