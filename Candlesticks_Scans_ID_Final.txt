@@ -6,4 +6,5 @@ GRASIM		1.35		1733.7		278957
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CDSL		-1.29		1054.1		244152
