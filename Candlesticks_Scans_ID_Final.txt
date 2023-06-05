@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		2.31		947.5		7716306
-ONGC		0.55		155.55		5661926
-INFY		0.7		1308.05		2313473
-LT		1.31		2263.9		1239598
-HDFCLIFE		0.18		577.45		962343
-TATACONSUM		-0.09		795.3		242915
+BHARTIARTL		-0.29		834.1		3327368
+INFY		0.7		1308.05		2321780
+TATACONSUM		-0.25		794.1		247261
 
 Bullish_Hammer_15m_N500								 
 ======================= 
