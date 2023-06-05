@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ITC,-0.07,443.1,2491488
-EICHERMOT,0.15,3704.95,126914
-ULTRACEMCO,0.69,7905.2,63608
+ITC,0.0,443.4,2496941
+WIPRO,0.01,405.0,2219370
+EICHERMOT,0.15,3705.0,127095
+ULTRACEMCO,0.66,7902.8,63695
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TITAN,-0.41,2850,327262
