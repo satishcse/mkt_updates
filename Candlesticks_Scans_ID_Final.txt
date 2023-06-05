@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.0		108.0		8467162
-ADANIPORTS		0.65		741.4		1338709
-TCS		0.18		3311.6		427357
+TATASTEEL		0.0		108.0		8492575
+ADANIPORTS		0.67		741.55		1348015
+TCS		0.19		3311.9		428008
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-0.58		1225.7		115231
+POWERINDIA		0.29		3922.8		3375
