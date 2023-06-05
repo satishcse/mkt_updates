@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.43		229.9		15864950
-JSWSTEEL		0.13		707.5		1716615
+COALINDIA		-0.41		229.95		15919303
+JSWSTEEL		0.1		707.3		1716882
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJHLDNG		-0.89		6927.55		17019
-CERA		-0.04		7587.95		4134
+CERA		0.05		7595		4136
