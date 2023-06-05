@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.28		108.3		15912826
-BHARTIARTL		-0.22		834.7		3723728
-ADANIPORTS		0.69		741.65		3483249
-WIPRO		-0.01		404.9		2631493
-ADANIENT		0.98		2469.0		1778181
+TATASTEEL		0.28		108.3		15999361
+ONGC		0.55		155.55		7384292
+BHARTIARTL		-0.22		834.65		3727390
+ADANIPORTS		0.67		741.55		3499829
+WIPRO		0.0		404.95		2639934
+ADANIENT		0.94		2468.0		1781717
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDIAMART		-1.68		5605		52413
+
