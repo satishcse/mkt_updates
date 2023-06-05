@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.89		356.85		2822117
-TECHM		-1.17		1110.0		1719572
-MARUTI		1.0		9580.25		424770
+TATASTEEL		1.39		109.5		38081220
+BPCL		-0.87		356.9		2845589
+TECHM		-1.15		1110.2		1724185
+MARUTI		1.0		9579.95		426451
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ELGIEQUIP		-2.32		532.0		311431
+TEJASNET		-0.72		693.05		233356
+TATAELXSI		0.07		7701.5		128955
+TIMKEN		0.47		3367.0		17940

@@ -2,8 +2,8 @@
 Hanging_Man_N100								 
 ================ 
 nsecode		per_chg		close		volume
-IOC		-0.45		89.4		8951715
-VEDL		-0.62		278.35		6092178
+IOC		-0.5		89.35		8985334
+VEDL		-0.61		278.4		6127670
 
 Bullish_Hammer_Daily_N50								 
 ======================== 
