@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.01		405.0		2520500
-HCLTECH		0.73		1145.35		870706
+SBIN		0.13		587.95		7618017
+WIPRO		0.01		405.0		2523774
+RELIANCE		0.44		2466.1		2438950
+BAJFINANCE		0.02		7025.0		330984
+BRITANNIA		0.96		4698.85		186841
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LAXMIMACH		0.29		11519.25		1470
