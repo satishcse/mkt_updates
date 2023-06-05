@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.51		740.35		3876443
-SBILIFE		0.72		1211.1		1292992
-BAJFINANCE		0.33		7047.05		426294
+COALINDIA		-0.41		229.95		14972373
+ONGC		0.65		155.7		8723647
+HINDALCO		-0.25		419.7		5840097
+ASIANPAINT		-1.15		3200.0		341545
 
 Bullish_Hammer_15m_N500								 
 ======================= 
