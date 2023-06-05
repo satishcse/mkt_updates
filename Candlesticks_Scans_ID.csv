@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,0.4,235.55,18693937
-SUNPHARMA,1.1,1010.6,2714077
-SBILIFE,0.79,1211.95,1030360
-UPL,0.86,689.25,593536
+POWERGRID,0.34,235.4,18706694
+SUNPHARMA,1.02,1009.8,2750493
+SBILIFE,0.75,1211.55,1031353
+UPL,0.89,689.4,597769
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CENTURYPLY,-0.51,571.95,46077
+OFSS,0.07,3615.9,38917
