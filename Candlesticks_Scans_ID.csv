@@ -2,8 +2,15 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-JSWSTEEL,-0.3,704.45,575490
+NTPC,0.37,175.2,2082267
+ADANIPORTS,0.86,742.95,1681542
+BPCL,-0.99,356.5,1421373
+RELIANCE,0.5,2467.5,1414013
+HDFCLIFE,0.02,576.5,757815
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+MPHASIS,-1.03,1996.9,200142
+FLUOROCHEM,-0.76,3276.05,36999
+TIMKEN,0.11,3355.0,7162
