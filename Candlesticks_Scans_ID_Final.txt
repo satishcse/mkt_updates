@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.49		235.75		18180102
-RELIANCE		0.4		2465.0		2520712
+POWERGRID		0.55		235.9		18182747
+RELIANCE		0.39		2464.85		2526428
+BAJFINANCE		0.02		7025.0		344131
+BAJAJ-AUTO		0.61		4697.75		128745
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASIANPAINT		-1.15		3200.0		298418
+CHOLAHLDNG		-0.18		809.7		32332
