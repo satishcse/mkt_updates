@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.19		834.95		3764724
-ADANIPORTS		0.69		741.7		3528928
-WIPRO		-0.01		404.9		2647766
-SUNPHARMA		1.33		1012.85		2620473
-ADANIENT		0.98		2468.95		1785537
-BRITANNIA		0.96		4699.0		203734
+ADANIPORTS		0.7		741.75		3536513
+WIPRO		-0.02		404.85		2649278
+HDFCLIFE		0.22		577.65		1101713
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ABBOTINDIA		-0.76		21759.95		2366
