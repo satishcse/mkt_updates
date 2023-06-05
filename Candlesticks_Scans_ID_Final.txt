@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.97		1112.2		564077
-CIPLA		-0.08		965.1		286946
+TATASTEEL		0		108		8381304
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BBTC		0.52		953.05		7842
+ICICIGI		-0.57		1225.9		114114
