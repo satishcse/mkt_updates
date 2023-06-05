@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.49		235.75		18632683
-COALINDIA		-0.43		229.9		13937083
-AXISBANK		2.61		950.3		9512340
-SUNPHARMA		1.22		1011.8		2655770
+POWERGRID		0.49		235.75		18634900
+COALINDIA		-0.45		229.85		13993680
+ADANIPORTS		0.73		742.0		3595218
+SUNPHARMA		1.23		1011.85		2660999
+UPL		0.86		689.25		566917
 
 Bullish_Hammer_15m_N500								 
 ======================= 
