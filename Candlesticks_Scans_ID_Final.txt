@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.43		2465.65		2443344
-BAJFINANCE		0.02		7025.0		332614
-BRITANNIA		0.96		4699.0		186983
+POWERGRID		0.53		235.85		17893868
+RELIANCE		0.37		2464.3		2468907
+BRITANNIA		0.95		4698.55		187719
 
 Bullish_Hammer_15m_N500								 
 ======================= 
