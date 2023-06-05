@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.49		235.75		18638979
-TATAMOTORS		2.14		547.35		10894697
-SUNPHARMA		1.22		1011.8		2665790
-UPL		0.85		689.15		574960
+POWERGRID		0.4		235.55		18661389
+SUNPHARMA		1.23		1011.85		2678159
+SBILIFE		0.8		1212.1		1029120
+UPL		0.88		689.35		580692
 
 Bullish_Hammer_15m_N500								 
 ======================= 
