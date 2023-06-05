@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.58		155.6		9172492
-BHARTIARTL		-0.13		835.45		4168532
-UPL		1.01		690.25		726541
-BAJAJ-AUTO		0.68		4701.0		163686
+COALINDIA		-0.41		229.95		15456070
+WIPRO		-0.14		404.4		2900797
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 HDFC		0.15		2649.85		3447667
-VMART		0.37		2029.95		64784
+VMART		0.37		2029.95		64808
