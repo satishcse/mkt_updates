@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		0.93		4697.45		56900
+BRITANNIA		0.93		4697.45		56994
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		0.08		5230.75		39913
-FLUOROCHEM		0.33		3312.0		16246
-CERA		0.62		7638.0		1676
+PNBHOUSING		1.24		537.0		276570
+TITAN		-0.44		2849.0		230061
+HEROMOTOCO		-0.44		2880.0		170226
+PERSISTENT		0.02		5227.35		41077
+COFORGE		-0.19		4582.0		37064
+THERMAX		0.25		2383.55		3773
