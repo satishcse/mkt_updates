@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.26		155.1		2569533
-ADANIPORTS		0.31		738.9		704354
+ONGC		0.26		155.1		2587033
+HDFCBANK		0.5		1614.6		1426563
+M&M		1.72		1364.5		1151019
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHH		-0.13		13682.95		616
+GODREJCP		-0.56		1055.05		161201
+VBL		0.22		1698.8		160739
+HINDUNILVR		-0.56		2701.5		134199
+PGHH		-0.15		13681.1		625
