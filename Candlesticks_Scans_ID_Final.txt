@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.55		155.55		8892744
-BHARTIARTL		-0.18		835.0		4098754
-BAJAJ-AUTO		0.65		4699.55		162147
+ONGC		0.55		155.55		8979315
+BHARTIARTL		-0.18		835.0		4101856
+BAJAJ-AUTO		0.65		4699.6		162315
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+OFSS		-0.19		3606.85		44360
