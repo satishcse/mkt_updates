@@ -1,12 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ICICIBANK		0.9		946.6		1059517
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HOMEFIRST		1.24		771.4		110628
-GODREJIND		-0.27		479.95		13538
-PAGEIND		0.07		38594.7		5206
+
