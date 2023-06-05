@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.49		235.75		18634900
-COALINDIA		-0.45		229.85		13993680
-ADANIPORTS		0.73		742.0		3595218
-SUNPHARMA		1.23		1011.85		2660999
-UPL		0.86		689.25		566917
+POWERGRID		0.49		235.75		18638979
+TATAMOTORS		2.14		547.35		10894697
+SUNPHARMA		1.22		1011.8		2665790
+UPL		0.85		689.15		574960
 
 Bullish_Hammer_15m_N500								 
 ======================= 
