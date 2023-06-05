@@ -49,20 +49,17 @@ MRF		0.43		96780.9		1700
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-DIXON		0.48		3985.0		368824
-OBEROIRLTY		-0.35		955.45		264558
-HDFCAMC		-0.25		1960.0		190275
+
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-UPL		0.5		686.75		423123
-COFORGE		0.11		4596.0		81502
-TITAN		-0.43		2849.35		409703
-VEDL		-0.55		278.55		4543281
-ASIANPAINT		-1.18		3199.2		302128
-INDIAMART		-1.27		5628.55		41352
+UPL		0.54		687.05		427361
+COFORGE		0.09		4595.1		81663
+TITAN		-0.49		2847.65		410379
+VEDL		-0.52		278.65		4547059
+ASIANPAINT		-1.2		3198.35		302778
+INDIAMART		-1.26		5629.1		41391
 
 Open_Low								 
 ======== 
