@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.03		712.35		479171
-MARUTI		0.99		9676.5		110699
+JSWSTEEL		0.03		712.35		493660
+MARUTI		1.04		9681.4		113253
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-2.33		4828.0		313566
-PERSISTENT		-3.48		5028.0		232786
+COFORGE		-2.36		4484.1		117708
+AMBER		0.37		2195.9		19113
 BAYERCROP		-0.12		4407.05		3425
