@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.82		396.85		3638642
-KOTAKBANK		1.39		1951.75		1883363
-TECHM		-2.87		1077.55		1589355
-ULTRACEMCO		1.87		8029.0		308559
+SBIN		-0.53		584.1		4461412
+KOTAKBANK		1.36		1951.0		1895794
+TECHM		-2.89		1077.25		1592831
+SBILIFE		0.0		1215.45		421663
+ULTRACEMCO		1.84		8026.8		309066
 
 Bullish_Hammer_15m_N500								 
 ======================= 
