@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,-0.58,583.8,4620948
-ITC,0.31,442.0,2542727
-KOTAKBANK,1.27,1949.35,1932878
-SBILIFE,0.04,1215.85,425657
+SBIN,-0.63,583.5,4675827
+ITC,0.25,441.75,2593305
+KOTAKBANK,1.26,1949.2,1939268
+SBILIFE,0.05,1215.95,426331
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+FIVESTAR,1.21,574.7,118831
