@@ -2,8 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TITAN		0.92		2882.0		296097
-TATAMOTORS		0.49		548.9		3359412
+TITAN		1.07		2886.3		301913
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -15,7 +14,9 @@ Intraday_Buy_PSAR
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HINDCOPPER		0.57		115.0		786204
+NIFTY		-0.06		18583.35		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
