@@ -11,20 +11,25 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		0.06		1049.2		464817
+CHOLAFIN		0.1		1049.6		465231
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-EXIDEIND		-0.8		209.85		781701
-SUNTV		0.47		462.0		402391
-ASIANPAINT		0.18		3205.55		355660
-CONCOR		-0.77		666.35		186283
+BANDHANBNK		0.08		263.7		1343430
+EXIDEIND		-0.69		210.1		813188
+TITAN		0.17		2860.5		812784
+SUNTV		0.43		461.85		402417
+ASIANPAINT		0.14		3204.3		356910
+CONCOR		-0.77		666.35		186462
+BANKNIFTY		-0.08		44066.85		0
+NIFTY		-0.25		18547.9		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-EXIDEIND		-0.73		210		766049
+EXIDEIND		-0.69		210.1		813188
+BERGEPAINT		-0.12		649.35		646976
 
 Open_High								 
 ========= 
