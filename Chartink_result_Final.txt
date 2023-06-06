@@ -2,8 +2,8 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.22		552.9		6814246
-TITAN		0.72		2876.25		475692
+TATAMOTORS		1.24		553.0		6847953
+TITAN		0.68		2875.05		477101
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -16,15 +16,21 @@ Intraday_Buy_PSAR
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.78		108.55		10693066
-BSOFT		-3.54		334.2		1459796
-M&M		0.6		1403.75		824608
-PEL		-0.81		782.45		421118
-GNFC		-0.65		579.15		152285
+TATASTEEL		-0.78		108.55		10728133
+ICICIBANK		-0.73		939.85		3373817
+BSOFT		-3.46		334.45		1488849
+BPCL		0.31		357.9		892637
+M&M		0.76		1406.0		853124
+PEL		-0.7		783.35		422798
+DIXON		-0.94		3943.0		171329
+GNFC		-0.51		579.95		155830
+MCX		0.53		1477.0		131364
+METROPOLIS		0.12		1318.4		39149
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+M&M		0.76		1406		853124
 
 Open_High								 
 ========= 
@@ -59,9 +65,9 @@ PERSISTENT		-5.07		4945.3		384175
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-ACC		1.91		1845.0		697711
-ULTRACEMCO		1.75		8020.0		291731
-AXISBANK		0.88		959.25		4402338
-BAJFINANCE		0.42		7072.85		207682
-ITC		0.25		441.75		2053210
-GLENMARK		0.08		618.55		112930
+ACC		1.98		1846.3		702226
+ULTRACEMCO		1.74		8019.0		292263
+AXISBANK		0.88		959.25		4418499
+BAJFINANCE		0.42		7073.1		209387
+ITC		0.31		442.0		2064153
+GLENMARK		0.16		619.05		113230
