@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.69		743.9		2300127
-SUNPHARMA		-0.06		1008.1		635225
-ULTRACEMCO		1.9		8032.0		335715
+INDUSINDBK		0.82		1312.45		1613069
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CLEAN		-0.93		1404.5		51898
+RELIANCE		-0.5		2464.8		1473062
