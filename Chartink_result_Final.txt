@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.41		553.95		9865944
+TATAMOTORS		1.4		553.9		9877441
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,22 +11,25 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		0.22		1050.85		444651
+CHOLAFIN		0.22		1050.85		444817
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIPRULI		1.69		493.95		1664814
-LAURUSLABS		-0.51		339.9		768497
-BERGEPAINT		-0.09		649.5		626459
-NIFTY		-0.19		18558.65		0
+BSOFT		-1.33		341.85		2590933
+ICICIPRULI		1.68		493.9		1686081
+UPL		0.5		693.45		1135111
+M&MFIN		-2.64		293.05		1078449
+LAURUSLABS		-0.53		339.85		769049
+CONCOR		-0.75		666.45		180601
+SYNGENE		0.27		723.25		146912
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-ZEEL		-1.67		197.85		6321924
-ICICIPRULI		1.68		493.9		1686081
-BERGEPAINT		-0.12		649.3		627134
+ZEEL		-1.67		197.85		6322643
+ICICIPRULI		1.66		493.8		1692478
+BERGEPAINT		-0.08		649.55		627620
 
 Open_High								 
 ========= 
@@ -60,8 +63,8 @@ PERSISTENT		-4.98		4950.05		604542
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		2.52		8081.0		438547
-ACC		2.38		1853.45		1093641
-AXISBANK		1.51		965.2		9135004
-BAJFINANCE		0.55		7082.0		424391
-GLENMARK		0.23		619.5		179521
+ULTRACEMCO		2.51		8080.0		439727
+ACC		2.38		1853.55		1094570
+AXISBANK		1.53		965.4		9143608
+BAJFINANCE		0.52		7079.9		425655
+GLENMARK		0.22		619.4		180074
