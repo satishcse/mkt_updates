@@ -6,4 +6,6 @@ JSWSTEEL		0.1		712.85		404884
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PERSISTENT		-3.97		5002.45		205114
+PGHH		-0.95		13862.3		513
