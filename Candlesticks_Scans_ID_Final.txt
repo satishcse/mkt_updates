@@ -9,5 +9,4 @@ ULTRACEMCO		1.9		8032.0		335715
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAJARIACER		-2.79		1224.3		58824
-CLEAN		-0.97		1403.95		51717
+CLEAN		-0.93		1404.5		51898
