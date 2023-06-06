@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.34		553.55		9570716
+TATAMOTORS		1.32		553.45		9600739
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,37 +11,16 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		0.32		1051.9		428245
+CHOLAFIN		0.32		1051.95		428680
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-GMRINFRA		-0.24		41.45		6197159
-SAIL		-0.36		83.4		5332456
-WIPRO		-1.15		399.55		4575722
-INDHOTEL		-0.64		387.3		3775159
-KOTAKBANK		1.23		1948.65		2291228
-BIOCON		-0.56		240.05		1191871
-HCLTECH		-1.85		1117.25		905763
-AARTIIND		-0.47		514.15		654368
-MPHASIS		-3.97		1908.4		652118
-CHAMBLFERT		-0.11		281.25		461766
-BAJFINANCE		0.53		7080.7		402462
-SUNTV		0.38		461.6		372202
-ASTRAL		-0.01		1884.6		338263
-LICHSGFIN		-0.75		373.0		287170
-SHRIRAMFIN		0.57		1409.0		158623
-SIEMENS		0.97		3556.0		145198
 ATUL		-0.39		6751.7		14850
-PAGEIND		-0.14		38820.1		12057
-NIFTY		-0.25		18547.0		0
-BANKNIFTY		-0.03		44090.6		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-INDHOTEL		-0.64		387.3		3775159
-BIOCON		-0.56		240.05		1191871
+
 
 Open_High								 
 ========= 
