@@ -2,16 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.42		442.5		874955
-INDUSINDBK		0.38		1306.7		456661
+ITC		0.4		442.4		883164
+INDUSINDBK		0.32		1306.0		462692
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-0.39		1698.5		813064
-M&M		-0.03		1395.05		361955
-CDSL		-0.86		1040.4		109359
-SONATSOFTW		-0.48		967.45		26898
-AMBER		0.47		2198.15		14343
-RATNAMANI		0.83		2336.9		3542
-BBTC		0.15		940.0		3212
+PEL		-0.39		785.8		142503
+CDSL		-0.9		1040.0		110767
+FINEORG		0.95		4815.0		33076
+AMBER		0.47		2198.0		14498
+RATNAMANI		0.83		2336.9		3558
+BBTC		0.15		940.0		3237
