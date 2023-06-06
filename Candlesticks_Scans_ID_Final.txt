@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.05		792.85		89576
+POWERGRID		0.25		236.2		622414
+BRITANNIA		0.22		4692.95		26460
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CEATLTD		-0.94		1909.0		24056
-BAYERCROP		-0.12		4407.05		3425
+CEATLTD		-0.95		1908.85		25110
