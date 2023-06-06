@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.81		939.1		4863663
-ULTRACEMCO		2.0		8039.95		355264
-ASIANPAINT		0.44		3213.75		298101
+ICICIBANK		-0.8		939.15		4869087
+INDUSINDBK		0.85		1312.9		1740473
+ASIANPAINT		0.44		3213.95		299253
 
 Bullish_Hammer_15m_N500								 
 ======================= 
