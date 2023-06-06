@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.66		743.7		2263098
+ADANIPORTS		0.68		743.8		2273160
+SUNPHARMA		-0.06		1008.1		631275
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IFBIND		0.03		800.2		145187
+IFBIND		0.03		800.2		145541
