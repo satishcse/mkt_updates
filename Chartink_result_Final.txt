@@ -12,14 +12,19 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		0.56		1054.45		316167
+CHOLAFIN		0.52		1053.95		318780
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		0.35		4619.5		81111
-BANKNIFTY		-0.1		44056.65		0
-NIFTY		-0.26		18545.5		0
+AXISBANK		1.35		963.7		6198107
+HINDCOPPER		-1.05		113.15		3983157
+VOLTAS		-2.87		799.6		686090
+HEROMOTOCO		1.05		2900.7		336054
+HINDUNILVR		-0.49		2682.65		189185
+APOLLOHOSP		-1.03		4899.1		175726
+BANKNIFTY		-0.09		44062.75		0
+NIFTY		-0.27		18544.4		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -58,9 +63,9 @@ PERSISTENT		-5.08		4944.6		498999
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-ACC		1.96		1846.0		840876
-ULTRACEMCO		1.93		8034.05		314401
-AXISBANK		1.34		963.55		6107746
-BAJFINANCE		0.72		7093.9		290176
-GLENMARK		0.36		620.25		140318
-ITC		0.25		441.75		2593305
+ACC		2.02		1846.95		841533
+ULTRACEMCO		1.86		8028.4		315066
+AXISBANK		1.35		963.7		6198107
+BAJFINANCE		0.78		7098.0		293501
+GLENMARK		0.36		620.3		140328
+ITC		0.25		441.75		2595727
