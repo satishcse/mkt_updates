@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.58		583.8		4571122
-KOTAKBANK		1.31		1950.15		1919232
-TECHM		-2.93		1076.85		1601224
-SBILIFE		0.01		1215.55		423466
+SBIN		-0.57		583.85		4582086
+KOTAKBANK		1.3		1949.9		1924029
+TECHM		-2.83		1077.95		1608416
+SBILIFE		0.01		1215.55		423694
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FIVESTAR		1.22		574.75		112517
