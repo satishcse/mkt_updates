@@ -2,8 +2,8 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.24		553		7500057
-TITAN		0.85		2880		521836
+TATAMOTORS		1.33		553.5		7532982
+TITAN		0.9		2881.3		523566
 
 BN_1Hr_OBV_DIV								 
 ============== 
