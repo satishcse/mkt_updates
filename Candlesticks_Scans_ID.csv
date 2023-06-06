@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-WIPRO,-1.92,396.45,3472402
-UPL,0.5,693.45,900854
-BAJAJ-AUTO,0.24,4721.15,80022
-BRITANNIA,0.28,4695.75,63967
+WIPRO,-1.92,396.45,3478730
+UPL,0.5,693.45,901695
+BAJAJ-AUTO,0.23,4720.85,80188
+BRITANNIA,0.28,4695.9,64543
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TATACHEM,-0.44,991.15,585531
+NESTLEIND,-0.18,21795.3,23883
