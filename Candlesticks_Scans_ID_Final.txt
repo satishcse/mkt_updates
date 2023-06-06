@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.13		713.1		463343
+JSWSTEEL		0.03		712.35		471538
+MARUTI		0.98		9676.25		108966
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		-3.68		5017.9		220375
-GESHIP		0.85		714.0		163007
-BAYERCROP		-0.04		4410.55		3065
-HONAUT		-0.14		41075.5		305
+LTIM		-2.33		4827.9		306447
+PERSISTENT		-3.56		5024.0		223698
+GESHIP		0.65		712.6		163894
+BAYERCROP		-0.12		4407.0		3283
