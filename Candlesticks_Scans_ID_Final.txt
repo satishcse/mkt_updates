@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.83		227.8		9770948
-ONGC		-1.29		153.4		5069011
-ADANIENT		0.25		2440.15		4757796
-POWERGRID		-0.25		235.0		3569117
-NTPC		0.34		174.7		3347278
+COALINDIA		-0.83		227.8		9783056
+ONGC		-1.29		153.4		5088348
+ADANIENT		0.03		2434.6		4807491
+NTPC		0.4		174.8		3347612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GESHIP		0.01		708.05		403602
-CDSL		-1.91		1029.45		391973
+CDSL		-2.01		1028.4		392760
