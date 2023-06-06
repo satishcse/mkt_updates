@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.51		693.5		906442
-BAJAJ-AUTO		0.3		4724.0		81051
+UPL		0.49		693.4		906724
+BAJAJ-AUTO		0.26		4722.2		81300
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MAZDOCK		3.02		1015.85		11415233
+ADANIENT		0.43		2444.45		2297433
+JKLAKSHMI		0.3		724.3		174490
+GRINDWELL		-1.67		2054.45		5574
