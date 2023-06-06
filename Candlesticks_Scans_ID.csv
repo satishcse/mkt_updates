@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,-1.25,153.45,6219561
-ADANIENT,0.41,2443.9,5362045
+ONGC,-1.25,153.45,6244741
+ADANIENT,0.4,2443.65,5373277
+HINDALCO,-1.19,414.7,3505261
+EICHERMOT,0.84,3704.1,261438
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-VBL,-1.18,1685.0,1308966
-AARTIDRUGS,-2.15,460.5,180087
+VBL,-1.18,1684.95,1311583
+AARTIDRUGS,-2.21,460.2,180264
