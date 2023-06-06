@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.18		1397.95		729634
+M&M		0.16		1397.65		733648
+HEROMOTOCO		0.94		2897.5		226142
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUBANK		-1.05		743.1		1166858
-APLAPOLLO		-0.92		1156.75		99802
-STARHEALTH		0.25		541.7		83236
-ESCORTS		-0.05		2194.6		30592
-OFSS		-1.41		3577.95		15054
+OFSS		-1.42		3577.75		15167
