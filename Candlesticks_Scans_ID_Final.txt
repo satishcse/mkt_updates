@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.55		108.8		8915370
-EICHERMOT		0.81		3703.0		78016
+TATASTEEL		-0.5		108.85		8928201
+EICHERMOT		0.84		3704.0		78351
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-3.62		1915.35		374654
-ROSSARI		-1.27		795.05		84077
-SAPPHIRE		-1.05		1427.65		10389
+ADANITRANS		-1.72		813.75		968147
+MPHASIS		-3.58		1916.3		376261
+ROSSARI		-1.25		795.15		84268
+SUNDRMFAST		-0.25		1130.25		8954
