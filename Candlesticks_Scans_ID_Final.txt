@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.81		227.85		9921136
-SBIN		-0.46		584.5		8145641
-ONGC		-1.22		153.5		5314607
-ADANIENT		0.21		2438.95		4884415
-NESTLEIND		-0.74		21673.25		53971
+TATASTEEL		-0.37		109.0		19938346
+ONGC		-1.25		153.45		5360382
+BPCL		-0.28		355.8		1575762
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-IFBIND		0.81		806.45		587100
-ASIANPAINT		0.01		3200.0		427481
+
