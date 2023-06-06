@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.76		227.95		9657112
-ADANIPORTS		1.02		746.35		3929010
-BPCL		-0.34		355.6		1537962
-TCS		-1.73		3232.0		1300137
+COALINDIA		-0.78		227.9		9687747
+ONGC		-1.32		153.35		4932702
+POWERGRID		-0.25		235.0		3528984
+NTPC		0.52		175.0		3333743
+DIVISLAB		1.24		3505.35		334629
 
 Bullish_Hammer_15m_N500								 
 ======================= 
