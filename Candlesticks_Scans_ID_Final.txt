@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.35		153.3		6280603
-ADANIENT		0.2		2438.75		5416535
-HINDALCO		-1.24		414.5		3544281
-EICHERMOT		0.76		3701.15		264132
+ONGC		-1.29		153.4		6305480
+ADANIENT		0.12		2436.85		5439817
+HINDALCO		-1.25		414.45		3560746
+CIPLA		-0.41		970.85		1692574
+EICHERMOT		0.76		3701.0		264813
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AARTIDRUGS		-2.15		460.5		181252
+AARTIDRUGS		-2.15		460.5		182080
