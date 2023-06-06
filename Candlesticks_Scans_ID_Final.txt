@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.3		4724		75923
+ADANIENT		0.66		2449.9		1935193
+BHARTIARTL		-0.67		828.9		694660
+ULTRACEMCO		1.75		8020.0		293588
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AETHER		-0.43		918.05		8283
+POLYCAB		-1.28		3548.55		74524
+SWANENERGY		-0.65		243.3		45715
+AETHER		-0.43		918.05		8303
