@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.78		939.4		4884452
-ASIANPAINT		0.46		3214.4		300235
-DRREDDY		0.36		4620.0		104097
+ICICIBANK		-0.77		939.45		4892537
+ASIANPAINT		0.43		3213.45		300704
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 NAUKRI		-0.8		4104		239683
-MRF		-0.51		96299		2091
+MRF		-0.51		96299		2090
