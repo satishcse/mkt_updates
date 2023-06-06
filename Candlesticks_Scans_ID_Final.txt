@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.03		174.15		2544319
-BPCL		-0.5		355.0		1263527
-JSWSTEEL		-0.43		709.1		1069262
+BPCL		-0.46		355.15		1264125
+JSWSTEEL		-0.43		709.1		1070158
+EICHERMOT		1.05		3711.95		159078
 
 Bullish_Hammer_15m_N500								 
 ======================= 
