@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.25		553.1		9667385
-COALINDIA		-0.96		227.5		7941353
-ONGC		-1.13		153.65		4093143
-POWERGRID		-0.47		234.5		2643433
-BRITANNIA		0.26		4694.8		121235
+TATAMOTORS		1.25		553.1		9684140
+COALINDIA		-0.94		227.55		7965455
+ONGC		-1.13		153.65		4098692
+POWERGRID		-0.47		234.5		2652171
+BRITANNIA		0.26		4694.8		121297
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ANURAS		-1.69		1112		55024
+
