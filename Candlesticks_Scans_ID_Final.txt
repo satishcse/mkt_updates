@@ -2,15 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.8		154.15		1794862
-M&M		0.19		1398.0		744664
-HEROMOTOCO		0.98		2898.65		236207
-BAJAJ-AUTO		0.31		4724.75		72689
+ONGC		-0.8		154.15		1821537
+M&M		0.16		1397.7		750815
+HEROMOTOCO		0.99		2898.9		237823
+BAJAJ-AUTO		0.25		4721.8		73022
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HAVELLS		-0.61		1339.0		269111
-CDSL		-1.67		1031.95		223461
-UBL		-0.52		1441.2		51064
-OFSS		-1.42		3577.75		16170
+
