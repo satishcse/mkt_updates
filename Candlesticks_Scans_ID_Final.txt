@@ -2,16 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.23		4721		78091
+BAJAJ-AUTO		0.21		4720		78259
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-2.66		4811.95		493806
-COFORGE		-4.02		4407.95		225372
-GNFC		-0.73		578.7		203921
-LTTS		-2.82		3815.0		143373
-HDFCAMC		-0.01		1962.9		76846
-SRF		-0.66		2515.45		76496
-NAVINFLUOR		-0.5		4622.65		18631
-GRINFRA		-1.78		1253.2		10189
+COFORGE		-3.95		4411.0		227759
+LTTS		-2.85		3813.95		144641
+SRF		-0.66		2515.55		77120
+INDIGOPNTS		-0.6		1463.95		20060
+NAVINFLUOR		-0.5		4622.4		18663
+GRINFRA		-1.82		1252.65		10214
+JBCHEPHARM		0.01		2119.2		7609
