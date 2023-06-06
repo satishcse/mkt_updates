@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.62		2449.0		2032556
-BAJAJ-AUTO		0.3		4724.25		77084
+ADANIENT		0.55		2447.4		2043393
+BAJAJ-AUTO		0.31		4724.85		77166
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GNFC		-0.72		578.75		197084
-KEI		-0.24		2110.0		116857
-COROMANDEL		-1.27		948.1		109968
-GRINFRA		-1.78		1253.2		10187
+LTIM		-2.69		4810.0		492795
+PERSISTENT		-5.64		4915.85		440161
+COFORGE		-4.08		4405.05		224722
+PIDILITIND		-0.44		2626.85		42800
+GRINFRA		-1.78		1253.2		10188
