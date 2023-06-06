@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.4		236.55		712470
-M&M		0.19		1398.0		645487
-BRITANNIA		0.26		4694.85		27468
+POWERGRID		0.36		236.45		726983
+M&M		0.19		1398.0		651776
+BRITANNIA		0.26		4695.0		31873
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-0.32		712.15		483944
-TCS		-1.15		3251.0		379838
-RELAXO		-0.77		910.55		13136
+PAYTM		-0.31		712.25		485520
+MEDANTA		-0.17		602.35		120632
+JUSTDIAL		-0.06		715.9		39570
+VARROC		-0.86		304.5		23527
