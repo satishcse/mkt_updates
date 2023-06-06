@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.96		227.5		8811556
+COALINDIA		-0.91		227.6		8831826
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIENT		0.04		2434.9		4128789
-STARHEALTH		-0.37		538.35		224147
+
