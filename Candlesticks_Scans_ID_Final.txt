@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.6		397.75		4211578
-NTPC		0.03		174.15		2410616
-ADANIPORTS		0.73		744.2		2365724
-BPCL		-0.41		355.35		1255412
-JSWSTEEL		-0.36		709.6		1054999
-BAJAJFINSV		0.76		1470.05		792834
+WIPRO		-1.61		397.7		4216074
+NTPC		0.03		174.15		2413974
+BPCL		-0.42		355.3		1256580
+JSWSTEEL		-0.34		709.75		1059463
 
 Bullish_Hammer_15m_N500								 
 ======================= 
