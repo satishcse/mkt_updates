@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.68		555.4		12353198
+TATAMOTORS		1.7		555.55		12406629
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,7 +11,7 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		0.52		1054		527184
+CHOLAFIN		0.51		1053.9		527806
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -30,7 +30,7 @@ ACC		2.47		1855.15		1235907
 TITAN		0.54		2871.05		918392
 GRANULES		-1.11		281.6		594335
 ASTRAL		1.17		1906.85		575317
-BALRAMCHIN		-0.12		390.4		350879
+BALRAMCHIN		-0.12		390.4		350899
 SRF		-0.13		2528.9		235757
 GLENMARK		0.64		622.0		233844
 CONCOR		-0.12		670.7		221282
@@ -47,7 +47,11 @@ NIFTY		-0.19		18559.15		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-HINDALCO		-1.22		414.6		2946606
+MANAPPURAM		-0.5		109.95		4062681
+HINDALCO		-1.19		414.7		2975347
+NATIONALUM		-0.54		83.4		2684712
+BALRAMCHIN		-0.13		390.35		352792
+CONCOR		-0.13		670.65		221414
 
 Open_High								 
 ========= 
