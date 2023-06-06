@@ -12,12 +12,17 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-CHOLAFIN,1.04,1059.5,704029
+CHOLAFIN,1.04,1059.5,722767
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-BEL,1.99,117.95,17974367
+BEL,1.82,117.75,18155315
+CUB,0.04,125.4,2328510
+DELTACORP,-0.65,236.55,1497909
+HEROMOTOCO,1.37,2910.0,709571
+LICHSGFIN,-0.63,373.45,661311
+BAJAJ-AUTO,0.53,4735.0,344164
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
