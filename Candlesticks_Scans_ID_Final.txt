@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.41		442.45		939156
-INDUSINDBK		0.26		1305.15		548307
+JSWSTEEL		0.33		714.5		370055
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PEL		-0.39		785.75		155374
-FINEORG		0.91		4813.1		34876
-CARBORUNIV		0.2		1169.0		13604
-BBTC		0.2		940.45		3320
+
