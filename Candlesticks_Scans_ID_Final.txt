@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.87		227.7		8883869
-ICICIBANK		-0.63		940.75		6719564
+COALINDIA		-0.81		227.85		8936373
+ITC		0.28		441.9		4094730
+LT		0.16		2271.9		1248504
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIENT		0.02		2434.45		4155252
+
