@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.95		396.3		3454892
-ONGC		-0.87		154.05		2650424
-UPL		0.54		693.75		900614
-BAJAJ-AUTO		0.21		4719.9		79761
+WIPRO		-1.92		396.45		3472402
+UPL		0.5		693.45		900854
+BAJAJ-AUTO		0.24		4721.15		80022
+BRITANNIA		0.28		4695.75		63967
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NAVINFLUOR		-0.45		4625		18763
+
