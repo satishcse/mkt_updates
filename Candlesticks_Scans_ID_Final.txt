@@ -6,4 +6,6 @@ COALINDIA		-0.96		227.5		8811556
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ADANIENT		0.04		2434.9		4128789
+STARHEALTH		-0.37		538.35		224147

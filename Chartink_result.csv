@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-TATAMOTORS,1.42,554,10476881
+TATAMOTORS,1.43,554.05,10485621
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
@@ -11,19 +11,25 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-CHOLAFIN,0.11,1049.75,467795
+CHOLAFIN,0.14,1050,468182
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-ITC,0.19,441.5,4043526
-TRENT,0.07,1600.15,129198
-PAGEIND,-0.19,38800.0,13673
-NIFTY,-0.26,18546.05,0
+INFY,-2.11,1277.0,6987576
+M&MFIN,-2.71,292.85,1197568
+TVSMOTOR,2.42,1326.05,1007952
+IPCALAB,1.33,734.95,721056
+RAMCOCEM,1.2,922.65,665412
+LUPIN,-0.38,817.15,246139
+TRENT,0.08,1600.25,129519
+PAGEIND,-0.19,38800.0,13847
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
-
+nsecode,per_chg,close,volume
+RAMCOCEM,1.16,922.3,664811
+TRENT,0.07,1600.15,129198
 
 Open_High,,,, 
 ========= 
