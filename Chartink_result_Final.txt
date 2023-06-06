@@ -17,7 +17,15 @@ CHOLAFIN		0.72		1056.05		642978
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-CANFINHOME		0.62		718.3		398329
+IDFCFIRSTB		0.2		73.85		22593258
+WIPRO		-1.13		399.65		6427038
+ADANIPORTS		0.94		745.75		5060775
+TVSMOTOR		2.84		1331.45		1517238
+TATACHEM		-0.24		993.15		898155
+LTIM		-1.68		4860.15		838682
+CANFINHOME		0.67		718.6		399016
+DALBHARAT		0.95		2160.0		287559
+GODREJPROP		0.5		1421.2		203001
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
