@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.02		227.35		8228065
-ONGC		-1.13		153.65		4181729
-NTPC		0.46		174.9		3052058
-POWERGRID		-0.23		235.05		2716057
-SUNPHARMA		0.11		1009.9		762207
+COALINDIA		-0.96		227.5		8264781
+ONGC		-1.13		153.65		4192977
+POWERGRID		-0.21		235.1		2727569
+SUNPHARMA		0.12		1009.95		763398
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SANOFI		-0.31		7137.55		9687
+ABBOTINDIA		-0.98		21617.75		3022
