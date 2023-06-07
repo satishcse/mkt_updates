@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.76		2498.15		4759063
+RELIANCE		0.76		2498.15		4759341
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-3.28		553.6		1972355
-RITES		0.22		383.05		1055349
-VARROC		0.3		315.05		323161
+COCHINSHIP		-3.28		553.6		1973438
+RITES		0.22		383.05		1055248
+VARROC		0.3		315.05		323141
 IFBIND		1.71		816.9		243811
-DCMSHRIRAM		-0.54		850.95		125363
+DCMSHRIRAM		-0.54		850.95		125288
 WHIRLPOOL		0.66		1442.0		108506
 MASTEK		-0.11		2017.5		59141
