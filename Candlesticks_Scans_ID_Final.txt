@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.45		588.0		5334735
-HINDALCO		-0.07		415.25		1671498
-EICHERMOT		0.2		3712.5		190068
+SBIN		0.45		588.0		5357871
+HINDALCO		-0.06		415.3		1675047
+EICHERMOT		0.23		3713.45		190375
 
 Bullish_Hammer_15m_N500								 
 ======================= 
