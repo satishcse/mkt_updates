@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.06		110.15		18959391
-ONGC		-0.1		153.5		7656587
-NESTLEIND		3.01		22357.85		89178
+ONGC		-0.1		153.5		7673845
+HDFC		0.24		2641.75		1728230
+NESTLEIND		3.01		22357.8		89305
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TORNTPHARM		0.33		1793.95		139460
+
