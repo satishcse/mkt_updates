@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		2.32		593.15		2724228
-KOTAKBANK		-1.02		1939.0		2259975
-HCLTECH		0.35		1132.6		1811965
-ASIANPAINT		0.18		3218.45		265227
+COALINDIA		1.45		231.1		9466902
+SBIN		0.59		588.8		9033545
+DIVISLAB		0.3		3548.65		310891
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAYERCROP		-0.38		4391.35		4304
