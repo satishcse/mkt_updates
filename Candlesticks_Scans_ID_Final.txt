@@ -8,4 +8,6 @@ BHARTIARTL		1.2		839.4		1731134
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RADICO		-1.05		1194.1		152508
+GODFRYPHLP		-1.03		1704.45		31652
