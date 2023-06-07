@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.52		588.4		5013651
-TATACONSUM		2.52		812.05		1693531
-HINDALCO		0.05		415.75		1602743
-EICHERMOT		0.54		3724.95		182029
+SBIN		0.56		588.65		5060302
+TATACONSUM		2.52		812.05		1694628
+HINDALCO		0.0		415.55		1607070
+EICHERMOT		0.5		3723.45		182340
 
 Bullish_Hammer_15m_N500								 
 ======================= 
