@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.99		1939.75		2671270
-BAJAJFINSV		0.46		1481.9		728979
-TITAN		0.99		2909.95		719248
+KOTAKBANK		-0.98		1939.95		2684738
+BAJAJFINSV		0.45		1481.7		733179
+TITAN		0.98		2909.7		725071
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KRBL		0.1		361.3		401902
