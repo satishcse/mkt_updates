@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.14		230.4		8004562
-ONGC		-0.1		153.5		7934663
-WIPRO		0.75		402.95		2833241
-ASIANPAINT		0.19		3219.0		243672
-EICHERMOT		0.32		3716.8		237974
-BAJAJ-AUTO		0.65		4757.0		151063
+ONGC		-0.1		153.5		7999931
+WIPRO		0.73		402.85		2840548
+ASIANPAINT		0.19		3219.0		244124
+EICHERMOT		0.31		3716.4		238323
 
 Bullish_Hammer_15m_N500								 
 ======================= 
