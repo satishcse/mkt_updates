@@ -33,17 +33,19 @@ NIFTY		0.58		18707.75		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-TRENT		-0.32		1597.55		537700
+CHAMBLFERT		0.7		281.0		986628
+AARTIIND		1.73		520.7		695336
+TRENT		-0.34		1597.15		538946
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-HCLTECH		0.36		1132.7		1833381
-VOLTAS		0.22		805.05		380014
-MUTHOOTFIN		0.0		1126.7		110597
-M&M		-0.66		1401.95		1878464
-KOTAKBANK		-1.03		1938.9		2286510
-POLYCAB		-1.78		3531.55		344949
+HCLTECH		0.36		1132.65		1836842
+VOLTAS		0.29		805.6		381054
+MUTHOOTFIN		-0.04		1126.2		110779
+M&M		-0.61		1402.6		1882762
+KOTAKBANK		-1.0		1939.4		2289176
+POLYCAB		-1.81		3530.55		348676
 
 Open_Low								 
 ======== 
