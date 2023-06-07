@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-0.02		1766.05		297940
+GRASIM		-0.02		1766.05		298171
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-UTIAMC		-0.25		729.25		36682
-POLYPLEX		-0.47		1324.95		33601
+
