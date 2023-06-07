@@ -10,12 +10,12 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-HINDPETRO		3.58		271.75		3481039
-MFSL		2.0		701.9		779752
-GMRINFRA		1.56		42.3		6245941
-ASHOKLEY		1.03		151.7		3372578
-SIEMENS		0.94		3619.85		225480
-NTPC		0.29		175.9		2256362
+HINDPETRO		3.68		272.0		3489048
+MFSL		1.95		701.55		779983
+GMRINFRA		1.68		42.35		6247135
+ASHOKLEY		1.07		151.75		3382473
+SIEMENS		0.93		3619.55		225812
+NTPC		0.26		175.85		2259331
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -33,7 +33,9 @@ NIFTY		0.29		18653.55		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+RECLTD		0.03		146.2		1730383
+EICHERMOT		0.52		3724.5		175741
 
 Open_High								 
 ========= 
