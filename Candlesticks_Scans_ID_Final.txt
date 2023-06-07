@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.32		109.35		7899174
-ITC		0.09		443.2		3168371
-RELIANCE		0.03		2480.05		1200393
+TATASTEEL		0.28		109.3		7942458
+ITC		0.14		443.4		3175578
+RELIANCE		0.06		2480.75		1203975
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHOPERSTOP		-1.65		779		9306
+SHOPERSTOP		-1.65		779.05		9439
