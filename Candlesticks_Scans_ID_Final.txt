@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.58		588.75		9103811
-POWERGRID		1.04		237.75		5792557
-ASIANPAINT		0.2		3219.1		270016
+SBIN		0.57		588.7		9121494
+LT		1.56		2313.5		1737188
+ASIANPAINT		0.19		3219.0		272197
 
 Bullish_Hammer_15m_N500								 
 ======================= 
