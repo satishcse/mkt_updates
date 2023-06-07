@@ -10,34 +10,34 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-HINDPETRO		3.77		272.25		3373371
-MFSL		2.27		703.75		768694
-GMRINFRA		1.68		42.35		5889591
-SIEMENS		0.8		3615.1		220814
-NTPC		0.37		176.05		2040917
+HINDPETRO		3.74		272.15		3408534
+MFSL		1.92		701.35		773663
+GMRINFRA		1.68		42.35		5935377
+SIEMENS		0.78		3614.3		221707
+NTPC		0.4		176.1		2051215
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDPETRO		3.77		272.25		3373371
-GUJGASLTD		0.32		480.65		227730
-TITAN		0.06		2883.15		189410
-NIFTY		0.27		18648.65		0
+HINDPETRO		3.74		272.15		3408534
+HEROMOTOCO		2.06		2964.6		535434
+GRANULES		0.92		284.9		368543
+GUJGASLTD		0.52		481.6		235715
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-ZYDUSLIFE		0.28		516.9		272957
+ZYDUSLIFE		0.29		516.95		273008
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-VOLTAS		0.09		804.0		246220
-HCLTECH		0.04		1129.0		1117747
-MUTHOOTFIN		-0.13		1125.2		71094
-M&M		-0.51		1404.0		891172
-KOTAKBANK		-0.61		1947.05		933064
-POLYCAB		-1.15		3553.95		157751
+VOLTAS		0.09		804.0		246560
+HCLTECH		0.07		1129.4		1125279
+MUTHOOTFIN		-0.13		1125.15		71105
+M&M		-0.45		1404.85		892651
+KOTAKBANK		-0.6		1947.2		934534
+POLYCAB		-1.18		3553.0		159084
 
 Open_Low								 
 ======== 
