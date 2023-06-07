@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		2.45		593.9		2217427
+HDFCLIFE		2.42		593.7		2225781
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BALKRISIND		-0.31		2290.3		112716
+KENNAMET		0.47		2501.85		6276
