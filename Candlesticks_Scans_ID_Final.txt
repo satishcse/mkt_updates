@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.32		230.8		6836498
-TATACONSUM		3.54		820.15		2343548
-HINDUNILVR		0.89		2715.15		866920
-EICHERMOT		0.48		3722.8		222490
+HDFCBANK		0.14		1601.65		7745328
+COALINDIA		1.34		230.85		6864826
+TATACONSUM		3.49		819.75		2347975
+HINDUNILVR		0.89		2715.15		867479
+EICHERMOT		0.46		3722.0		222661
 
 Bullish_Hammer_15m_N500								 
 ======================= 
