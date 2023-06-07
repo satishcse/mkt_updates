@@ -6,4 +6,5 @@ NIFTY		0.34		18662.85		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHOPERSTOP		-1.62		779.3		8680
