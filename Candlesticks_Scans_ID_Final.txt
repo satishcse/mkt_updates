@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		2.47		594.0		2193389
-LT		1.25		2306.5		1203762
+HDFCLIFE		2.5		594.2		2199378
+LT		1.23		2306.05		1205478
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIVISLAB		-0.11		3533.9		241844
+BALKRISIND		-0.31		2290.3		112447
