@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.3		1309.95		1404341
-UPL		0.14		694.95		603478
-GRASIM		-0.08		1765.05		440676
+HDFCBANK		0.18		1602.2		7807796
+UPL		0.13		694.9		604953
+EICHERMOT		0.35		3717.95		223986
 
 Bullish_Hammer_15m_N500								 
 ======================= 
