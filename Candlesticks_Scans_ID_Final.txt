@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.1		153.5		7699196
-HDFC		0.24		2641.8		1740881
-NESTLEIND		2.97		22350.0		89811
+ONGC		-0.1		153.5		7715164
+HDFC		0.24		2641.55		1742319
+NESTLEIND		2.97		22350.05		89940
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		-1.21		1192.15		173175
+RADICO		-1.21		1192.15		173268
