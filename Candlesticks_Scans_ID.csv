@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,-0.1,153.5,9549341
-NTPC,0.63,176.5,4382898
-HDFCLIFE,2.48,594.05,2836628
-BAJAJ-AUTO,1.1,4778.45,179332
+ONGC,-0.13,153.45,9564176
+NTPC,0.63,176.5,4392567
+HDFCLIFE,2.48,594.1,2841197
+SBILIFE,1.71,1243.9,814254
+BAJAJ-AUTO,1.03,4774.95,180024
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ECLERX,-1.37,1687,71880
