@@ -1,13 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBILIFE		1.28		1238.6		176089
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.17		7101.55		90546
-NAUKRI		0.74		4146.6		42741
-ELGIEQUIP		-0.06		534.85		37224
-CHEMPLASTS		-0.53		453.1		11335
-BAJAJHLDNG		0.09		6978.1		1767
+BDL		-0.44		1186.0		298654
+BAJFINANCE		-0.2		7100.0		97224
+MARUTI		0.23		9758.95		68967
+MOTILALOFS		0.2		664.15		30288
