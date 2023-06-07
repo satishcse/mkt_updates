@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		1.11		177.35		5645174
-HDFCLIFE		2.59		594.7		3311384
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RITES		0.2		382.95		1032287
+IFBIND		1.78		817.45		239393
+GARFIBRES		-0.07		3098.85		11028
