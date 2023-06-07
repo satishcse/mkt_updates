@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.02		1305.75		973146
-HINDUNILVR		1.02		2718.5		695265
+HINDUNILVR		0.96		2717		712875
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIVISLAB		-0.17		3532		254203
