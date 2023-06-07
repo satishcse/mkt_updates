@@ -1,10 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+RELIANCE		0.79		2499		4736206
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RITES		0.21		383.0		1048708
-MASTEK		-0.14		2017.05		57667
+COCHINSHIP		-3.25		553.75		1958310
+RITES		0.24		383.1		1053047
+IFBIND		1.84		817.95		242535
+AMBER		-1.27		2135.5		62170
+MASTEK		0.01		2019.95		58556
+POLYMED		0.37		969.25		23762
