@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.32,109.35,7445354
-BPCL,2.77,366.0,2425932
-HDFCLIFE,2.26,592.8,1831178
-NTPC,0.48,176.25,1479529
-BHARTIARTL,0.43,833.0,1124398
-ADANIENT,0.63,2448.9,910035
+HDFCBANK,0.12,1601.35,3049227
+BPCL,2.84,366.25,2453815
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HDFC,0.17,2639.85,689327
+DALBHARAT,-0.66,2145.6,49805
