@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.78		403.05		2522142
-INDUSINDBK		0.14		1307.8		1457111
-UPL		0.14		695.0		609284
-APOLLOHOSP		1.64		5020.95		428456
-EICHERMOT		0.31		3716.75		224980
+WIPRO		0.78		403.05		2539602
+INDUSINDBK		0.19		1308.5		1483391
+UPL		0.08		694.55		612466
+APOLLOHOSP		1.57		5017.85		429789
+EICHERMOT		0.23		3713.8		225894
 
 Bullish_Hammer_15m_N500								 
 ======================= 
