@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.16		2430.05		6470685
-JSWSTEEL		0.02		712.3		2436881
-ULTRACEMCO		2.96		8115.0		635105
-DRREDDY		0.78		4639.6		232280
+ADANIENT		-0.01		2433.65		6473608
+JSWSTEEL		0.1		712.85		2436996
+ULTRACEMCO		2.89		8109.55		635244
+DRREDDY		0.72		4636.65		232331
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-0.69		709.55		1056286
-NH		-0.54		905.0		197706
+PAYTM		-0.69		709.55		1057193
+NH		-1.04		900.45		197716
