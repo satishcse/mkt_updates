@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.14		1601.7		7488155
-ITC		0.29		444.1		4675520
-WIPRO		0.73		402.85		2260601
-HINDALCO		0.14		416.15		2248426
-BHARTIARTL		1.1		838.6		1753935
-GRASIM		-0.15		1763.7		421522
+HDFCBANK		0.14		1601.6		7508870
+ITC		0.28		444.05		4686081
+WIPRO		0.75		402.95		2269594
+HINDALCO		0.14		416.15		2254414
+BHARTIARTL		1.11		838.65		1755410
+UPL		0.06		694.45		575265
+GRASIM		-0.22		1762.5		421973
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RADICO		-1.04		1194.25		156457
