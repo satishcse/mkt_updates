@@ -2,16 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.17		1602.1		7534146
-WIPRO		0.76		403.0		2291837
-HINDALCO		0.14		416.15		2265913
-BHARTIARTL		1.07		838.35		1765433
-UPL		0.01		694.1		580638
-GRASIM		-0.14		1764.0		424570
+HDFC		0.17		2639.9		1480236
+ADANIENT		0.71		2450.95		1424943
+HINDUNILVR		0.91		2715.6		860691
+EICHERMOT		0.46		3722.0		220519
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FACT		0.42		333.6		1264976
-POLYCAB		-1.77		3531.95		270542
-RADICO		-1.04		1194.25		156960
+
