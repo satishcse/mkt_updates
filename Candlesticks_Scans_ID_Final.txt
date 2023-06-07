@@ -6,7 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-1.02		3558.9		85026
-TEJASNET		-0.23		700.75		73441
-ROSSARI		-0.4		801.0		26668
-HONAUT		-0.3		40776.0		253
+POLYCAB		-1.02		3558.8		85169
+TEJASNET		-0.19		701.0		73518
+ROSSARI		-0.4		800.95		26772
+BIRLACORPN		0.03		1193.25		24346
+APLLTD		-0.51		550.0		17501
+HONAUT		-0.26		40795.55		259
