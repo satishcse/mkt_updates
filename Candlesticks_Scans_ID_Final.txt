@@ -8,6 +8,4 @@ NESTLEIND		2.97		22350.05		90980
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RADICO		-1.21		1192.15		173347
-TORNTPHARM		0.33		1793.95		140955
+
