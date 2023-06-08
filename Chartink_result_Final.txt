@@ -10,10 +10,10 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DIXON		2.86		4034.9		634047
-MOTHERSON		1.18		81.45		5306396
-HDFC		0.56		2663.3		1392412
-GODREJCP		-1.24		1052.15		467628
+DIXON		2.9		4036.45		635694
+MOTHERSON		1.24		81.5		5329203
+HDFC		0.6		2664.4		1393726
+GODREJCP		-1.25		1052.05		468462
 
 Intraday_Volume_Shocker								 
 ======================= 
