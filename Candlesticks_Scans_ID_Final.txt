@@ -1,18 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ICICIBANK		0.85		948.2		6240100
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATGL		-1.49		669.95		1166430
-TECHM		-0.58		1089.35		806276
-KPITTECH		-2.19		1127.9		544578
-ANGELONE		-1.73		1432.85		206428
-FINCABLES		0.05		799.15		153036
-NH		0.52		929.15		149384
-ICICIGI		-0.24		1254.3		134143
-MFSL		-0.79		697.75		97328
-THERMAX		0.11		2331.45		10104
+MARUTI		-0.75		9635.0		139599
+CRAFTSMAN		-2.03		3879.95		22585
+INGERRAND		-0.97		2789.95		21035
