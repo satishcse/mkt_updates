@@ -6,9 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.52		739.9		1077032
-EICHERMOT		-1.61		3667.25		240517
-ROUTE		-1.77		1503.95		69677
-METROPOLIS		-0.96		1299.0		62324
-GRINFRA		-1.35		1275.2		15251
-BOSCHLTD		-0.47		18884.4		3754
+UBL		-0.41		1495.4		131393
+GRINFRA		-1.23		1276.75		15433
+BOSCHLTD		-0.48		18883.4		3763
