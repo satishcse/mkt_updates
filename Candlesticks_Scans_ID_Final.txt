@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.11		228.15		6936260
+COALINDIA		-1.11		228.15		6962075
+DRREDDY		-0.52		4649.55		187889
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IEX		-6.02		139.75		12478466
-PHOENIXLTD		-0.41		1615.0		167638
-NAVINFLUOR		-2.57		4584.7		126608
-BALKRISIND		-1.02		2276.8		112703
-ATUL		-1.64		6817.0		22931
+DRREDDY		-0.52		4649.55		187889
+PHOENIXLTD		-0.41		1615.0		167689
+NAVINFLUOR		-2.59		4583.85		126736
+BALKRISIND		-1.03		2276.6		112824
