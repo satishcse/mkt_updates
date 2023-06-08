@@ -10,22 +10,23 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DIXON		3.55		4061.95		1001181
-MOTHERSON		1.86		82.0		9724880
-HDFC		0.66		2666.05		1594377
-GODREJCP		-0.52		1059.8		583054
+DIXON		3.54		4061.25		1003613
+MOTHERSON		1.8		81.95		9774263
+HDFC		0.57		2663.6		1601654
+GODREJCP		-0.58		1059.2		591755
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ZEEL		-2.24		196.55		3847000
-PVRINOX		-1.1		1427.1		160997
+HINDPETRO		-3.31		267.5		6784366
+IBULHSGFIN		-0.44		112.0		3999789
+ZEEL		-2.21		196.6		3852932
+PVRINOX		-1.04		1428.0		161424
+MRF		-0.42		97143.4		7662
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-DABUR		-0.67		552.75		1253418
-LUPIN		-0.53		813.35		306199
+
 
 Open_High								 
 ========= 
@@ -48,9 +49,9 @@ INDIACEM		-3.38		215.5		2496661
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-POWERGRID		2.05		244.1		11361975
-ALKEM		1.06		3443.55		66486
-ASHOKLEY		0.76		153.1		7040877
-HDFC		0.69		2666.7		1598444
-HDFCBANK		0.61		1617.5		15052188
-ICICIBANK		0.26		942.6		12953127
+POWERGRID		1.92		243.8		11374754
+ALKEM		1.06		3443.55		66543
+ASHOKLEY		0.89		153.3		7060389
+HDFCBANK		0.58		1616.95		15056809
+HDFC		0.57		2663.6		1601654
+ICICIBANK		0.29		942.9		12964765
