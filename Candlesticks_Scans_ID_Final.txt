@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+WIPRO		-0.7		400		1374320
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		0.61		1455.0		1091505
-DIVISLAB		-0.74		3515.95		85050
-GRASIM		-0.34		1763.1		60524
-NAUKRI		-0.33		4170.6		55813
+BAJAJ-AUTO		0.3		4795.15		91949
+ABB		-1.13		4104.05		52946
