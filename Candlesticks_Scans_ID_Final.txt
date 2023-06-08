@@ -1,14 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NESTLEIND		-0.7		22212.25		34457
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANITRANS		-1.55		824.25		862717
-HAL		0.03		3489.05		775809
-OBEROIRLTY		-1.43		966.95		164462
-PVRINOX		-0.89		1430.1		91080
-NAUKRI		-1.18		4134.95		87473
-FIVESTAR		-3.43		579.2		63173
+PEL		-0.16		792.3		716714
+TEJASNET		-1.75		708.55		287139
+ICICIGI		-0.07		1256.5		124874
+NAUKRI		-1.22		4133.2		87667
+FIVESTAR		-3.29		580.0		63593
+GALAXYSURF		-1.57		2622.65		5272
+HONAUT		-0.54		40840.25		1561
