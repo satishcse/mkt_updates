@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.13		230.4		1921610
-DIVISLAB		-0.77		3515.0		99031
+COALINDIA		-0.17		230.3		1936104
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		0.34		1032.6		4412955
+MAZDOCK		0.36		1032.9		4422729
 LUXIND		0.32		1510.35		15604
-GARFIBRES		-0.29		3088.0		4750
+GARFIBRES		-0.26		3088.75		4793
