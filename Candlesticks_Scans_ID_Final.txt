@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.43		156.05		8390390
-KOTAKBANK		-1.52		1909.85		3074703
-TITAN		-0.61		2889.35		382786
+ONGC		1.43		156.05		8392234
+KOTAKBANK		-1.59		1908.65		3087918
+TITAN		-0.59		2889.75		384100
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LODHA		-2.25		580.35		1814492
+ACC		-1.47		1824.6		445446
+WHIRLPOOL		-0.63		1432.85		27301
 JBCHEPHARM		-1.11		2137.85		19568
