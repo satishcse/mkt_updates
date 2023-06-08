@@ -7,4 +7,7 @@ TITAN		-0.58		2890.0		357606
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INTELLECT		-1.5		578.5		262946
+COFORGE		-1.19		4399.0		85614
+CRAFTSMAN		-1.87		3886.2		49147
