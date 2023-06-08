@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.57		400.5		4042265
-HDFCLIFE		0.13		595.25		1146521
-CIPLA		0.75		967.65		627027
-TITAN		-0.68		2887.2		399445
-DRREDDY		-0.47		4652.0		153028
+ICICIBANK		0.47		944.6		10804260
+WIPRO		-0.55		400.6		4046151
+HDFCLIFE		0.14		595.3		1149153
+CIPLA		0.74		967.6		630037
+TITAN		-0.65		2888.0		400292
 
 Bullish_Hammer_15m_N500								 
 ======================= 
