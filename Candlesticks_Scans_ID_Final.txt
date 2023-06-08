@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-1.06		3240.05		1013912
-TITAN		-0.58		2890.0		350876
+TCS		-1.02		3241.35		1023392
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KRBL		-0.69		357.55		282989
+MPHASIS		-1.77		1875.0		331049
+COFORGE		-1.26		4396.05		83115
