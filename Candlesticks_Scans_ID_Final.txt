@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GMMPFAUDLR		0.19		1468		4229
-BAJAJHLDNG		0.07		6997		1550
+CHOLAFIN		-0.02		1073.0		174584
+CAMS		-0.12		2177.5		6724
+KSB		-0.34		2132.35		4422
+BAJAJHLDNG		0.07		6997.0		1555
