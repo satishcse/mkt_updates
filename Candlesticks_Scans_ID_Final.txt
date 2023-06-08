@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.43		156.05		8774909
-KOTAKBANK		-1.62		1907.95		3170761
-ADANIPORTS		-0.64		739.0		1495283
-TITAN		-0.64		2888.35		387946
+NTPC		2.65		182.05		21752020
+SBIN		0.42		591.65		9021130
+BPCL		-1.62		362.15		2426446
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JBCHEPHARM		-1.11		2137.9		19615
+
