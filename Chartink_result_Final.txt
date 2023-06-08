@@ -10,21 +10,31 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DIXON		3.5		4060.0		1055187
-MOTHERSON		0.75		81.1		11227569
-HDFC		0.43		2659.95		1707904
-GODREJCP		-0.72		1057.65		651806
+DIXON		3.5		4060.0		1056169
+MOTHERSON		0.68		81.05		11255319
+HDFC		0.39		2658.95		1710451
+GODREJCP		-0.77		1057.15		652840
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BANDHANBNK		-1.76		260.05		4013572
-ZYDUSLIFE		-0.52		512.4		821622
-BANKNIFTY		-0.47		44067.35		0
+POWERGRID		1.17		242.0		12497101
+BANKBARODA		-0.03		187.35		11710564
+GAIL		-0.57		105.0		5406581
+KOTAKBANK		-2.6		1889.0		4406081
+ADANIPORTS		-0.94		736.75		1786606
+ZYDUSLIFE		-0.52		512.4		825181
+LUPIN		-0.67		812.15		385041
+BERGEPAINT		-0.34		650.3		236437
+DRREDDY		-0.53		4649.0		188903
+ABBOTINDIA		-0.85		21679.95		3642
+BANKNIFTY		-0.48		44064.6		0
+NIFTY		-0.45		18641.75		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+BERGEPAINT		-0.34		650.3		236437
 
 Open_High								 
 ========= 
