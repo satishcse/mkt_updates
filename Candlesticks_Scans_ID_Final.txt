@@ -1,19 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+JSWSTEEL		2.44		747.55		1015463
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VEDL		0.72		280.45		874666
-HINDALCO		0.47		424.6		655793
-TANLA		0.61		843.9		136236
-SIEMENS		0.44		3670.0		54317
-CENTURYPLY		0.81		577.55		36193
-ACI		-0.43		594.8		32168
-MAHLIFE		-0.29		462.55		10200
-PATANJALI		-0.06		1035.0		3985
-ZYDUSWELL		0.93		1503.5		2847
-GARFIBRES		0.1		3100.0		553
-BAJAJHLDNG		0.23		7008.0		490
+ZYDUSWELL		0.93		1503.5		2877
