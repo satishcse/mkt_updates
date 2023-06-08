@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TITAN		-0.59		2889.9		382429
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GESHIP		-0.78		707.95		140277
-JBCHEPHARM		-1.11		2137.85		19568
+LODHA		-2.25		580.35		1814492
+JBCHEPHARM		-1.11		2137.85		19572
