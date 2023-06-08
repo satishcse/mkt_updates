@@ -9,4 +9,5 @@ ULTRACEMCO		0.48		8197.0		103348
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAINBOW		-1.79		952		41806
+LTIM		-1.36		4835.7		178663
+RAINBOW		-1.8		951.95		41908
