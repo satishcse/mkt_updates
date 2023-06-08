@@ -1,12 +1,16 @@
 
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
-
+nsecode,per_chg,close,volume
+ICICIBANK,0.51,945.0,1910124
+INFY,-0.08,1287.9,956252
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-CHOLAFIN,-0.02,1073.0,176549
-KSB,-0.29,2133.5,4425
-GMMPFAUDLR,0.19,1468.0,4279
-BAJAJHLDNG,0.07,6996.8,1559
+ACC,0.21,1855.7,99084
+GRASIM,-0.33,1763.15,59526
+ABB,-1.17,4102.35,50825
+COFORGE,-0.61,4425.0,33400
+CRISIL,-1.93,3915.95,8883
+BAYERCROP,-0.17,4382.95,614
