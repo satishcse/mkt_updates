@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.09		111.4		29978588
-ONGC		1.4		156.0		7705107
-HDFCLIFE		0.08		594.95		900054
+TATASTEEL		-0.09		111.4		30116876
+ONGC		1.46		156.1		7735299
+SBIN		0.2		590.4		7265356
+HDFCLIFE		0.09		595.0		903993
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.61		558.8		14203875
-TATACOMM		-2.35		1412.2		2226297
-MRF		-0.41		97150.0		6556
+TATACOMM		-2.31		1412.8		2227770
+MRF		-0.4		97166.5		6562
