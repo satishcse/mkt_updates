@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-0.06		985.0		60730
-BAJAJHLDNG		0.17		7003.75		342
-GARFIBRES		0.1		3100.0		166
+ADANIGREEN		0.2		987.5		75963
+ACI		-0.51		594.3		31835
+SONATSOFTW		0.71		990.0		18099
+PATANJALI		0.08		1036.4		3905
+ZYDUSWELL		0.9		1503.0		2747
+BAJAJHLDNG		0.24		7009.0		485
