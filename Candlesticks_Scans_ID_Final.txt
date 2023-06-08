@@ -6,4 +6,10 @@ RELIANCE		0.31		2506		75557
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+COCHINSHIP		-3.28		553.6		1974755
+RITES		0.22		383.05		1055648
+IFBIND		1.71		816.9		243812
+DCMSHRIRAM		-0.54		850.95		125289
+WHIRLPOOL		0.65		1441.95		108505
+MASTEK		-0.11		2017.5		59115
