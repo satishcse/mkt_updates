@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UPL		0.04		694.2		115519
-ADANIGREEN		-0.1		984.6		54331
-BAJAJHLDNG		0.17		7004.05		308
-GARFIBRES		0.1		3100.0		163
+ADANIGREEN		-0.06		985.0		60730
+BAJAJHLDNG		0.17		7003.75		342
+GARFIBRES		0.1		3100.0		166
