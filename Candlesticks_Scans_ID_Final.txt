@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.09		111.4		29303228
-ITC		-0.26		442.8		3651850
-HINDALCO		-0.75		419.45		3554370
-WIPRO		-0.57		400.5		3412018
-NESTLEIND		-0.91		22165.0		37517
+ITC		-0.26		442.8		3662457
+HINDALCO		-0.69		419.7		3572245
+HDFCLIFE		0.05		594.75		882136
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.74		8097.1		166003
-TCIEXP		0.76		1661.0		79177
+TCIEXP		0.76		1661		79177
