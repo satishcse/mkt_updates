@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		-1.74		2129.5		92078
-CRAFTSMAN		-2.02		3880.0		22627
-CRISIL		-2.46		3894.95		17571
+HAL		-0.06		3486.05		828386
+CRAFTSMAN		-2.02		3880.0		22674
+INGERRAND		-1.09		2786.5		22417
+CRISIL		-2.4		3897.4		17653
+BOSCHLTD		-0.95		18792.5		4717
+HONAUT		-0.64		40795.9		1845
