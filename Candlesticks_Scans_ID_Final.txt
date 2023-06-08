@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-1.02		3241.35		1023392
+ONGC		1.4		156		7813056
+TCS		-1.04		3241		1026139
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-1.77		1875.0		331049
-COFORGE		-1.26		4396.05		83115
+INTELLECT		-1.57		578.1		243509
+COFORGE		-1.24		4397.0		83500
