@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,0.2,590.35,7626457
-HINDALCO,-0.66,419.8,3805201
-TITAN,-0.58,2889.95,363412
+SBIN,0.18,590.25,7631482
+HINDALCO,-0.63,419.95,3809864
+TITAN,-0.58,2889.95,363861
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GODREJCP,-1.06,1054.05,442885
+ESCORTS,-3.1,2160.65,178317
