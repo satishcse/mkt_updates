@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.36		111.9		36649283
-ONGC		1.43		156.05		9466701
-TECHM		-1.66		1077.55		2801950
-HDFC		0.79		2669.45		1517032
-HINDUNILVR		-1.26		2682.0		527587
-SBILIFE		0.29		1249.45		517073
+TECHM		-1.68		1077.25		2807189
+BPCL		-1.45		362.75		2630686
+HDFC		0.77		2669.0		1518642
+SBILIFE		0.18		1248.0		518946
 
 Bullish_Hammer_15m_N500								 
 ======================= 
