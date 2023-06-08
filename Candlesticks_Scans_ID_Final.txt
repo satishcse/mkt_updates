@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-1.07		3240		1060696
-TITAN		-0.58		2890		357865
+SBIN		0.2		590.4		7552405
+HINDALCO		-0.47		420.6		3767850
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INTELLECT		-1.5		578.5		262946
-COFORGE		-1.19		4399.0		85614
-CRAFTSMAN		-1.87		3886.2		49147
+INTELLECT		-1.48		578.6		266441
+COFORGE		-1.17		4399.8		85942
+ZFCVINDIA		-0.76		11432.1		9256
+BAYERCROP		-0.15		4383.5		2331
