@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		0.97		2674.25		988861
-BAJAJ-AUTO		0.47		4803.0		127109
-ULTRACEMCO		0.48		8197.0		104525
+NTPC		3.72		183.95		15514815
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AAVAS		-0.35		1385.15		66234
+
