@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.07		1127.5		192732
+HCLTECH		0		1126.8		194292
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		-0.94		12048.9		2063
+GRINDWELL		-0.54		2126.85		2343
+LAXMIMACH		-1.02		12039.95		2127
