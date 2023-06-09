@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.35		154.0		5166546
-TECHM		-0.52		1065.75		1118744
-CIPLA		0.07		966.1		216628
+ONGC		-1.35		154.0		5173021
+TECHM		-0.53		1065.65		1119664
+CIPLA		0.07		966.05		216650
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.84		3626.85		141671
-LTTS		-0.37		3815.0		55957
+LTTS		-0.31		3817.2		57596
+VMART		-1.09		1987.1		16700
