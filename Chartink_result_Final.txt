@@ -10,16 +10,16 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-RAMCOCEM		1.57		930.9		547382
+RAMCOCEM		1.7		932.15		550262
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-IBULHSGFIN		-1.52		109.85		3663735
-L&TFH		-0.62		105.0		3559653
-TRENT		1.33		1609.8		329526
-BOSCHLTD		-0.09		18750.0		4847
-NIFTY		-0.37		18566.45		0
+IBULHSGFIN		-1.48		109.9		3691948
+PETRONET		-0.18		222.3		1059751
+TRENT		1.34		1609.95		329653
+OFSS		0.11		3545.0		35698
+NIFTY		-0.35		18569.65		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -50,9 +50,9 @@ HDFCAMC		-2.96		1934.55		368825
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-INDIACEM		6.76		229.9		18821329
-POLYCAB		0.95		3545.0		150122
-IOC		0.17		90.2		8208333
-OFSS		0.0		3541.1		35281
-SBILIFE		-0.31		1235.1		1645447
-ITC		-0.95		438.7		4935771
+INDIACEM		6.76		229.9		18883646
+POLYCAB		1.01		3547.1		153086
+IOC		0.33		90.35		8262092
+OFSS		0.0		3541.2		35367
+SBILIFE		-0.25		1235.85		1651333
+ITC		-0.96		438.65		4983623
