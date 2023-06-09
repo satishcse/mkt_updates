@@ -2,11 +2,18 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.21		443.0		6595671
-BPCL		-1.97		360.85		3364432
-CIPLA		0.4		964.25		1369729
+LT		1.07		2340.3		2556995
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		-1.32		1444		49096
+TORNTPOWER		-2.92		667.7		7294249
+COCHINSHIP		-1.87		543.25		978041
+CDSL		0.53		1038.7		542369
+FINCABLES		-0.78		792.5		281640
+COFORGE		-1.49		4385.55		128873
+GMMPFAUDLR		-1.19		1447.75		64094
+MFL		-3.18		1033.65		63583
+INDIGOPNTS		-1.57		1440.35		55615
+BAJAJHLDNG		-2.2		6838.2		17536
+PGHH		-0.24		13744.35		3789
