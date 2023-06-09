@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KRBL		0.83		362.75		44903
-BEML		0.05		1513.0		20363
-FLUOROCHEM		-0.51		3195.0		5736
-BAYERCROP		0.09		4347.95		106
+IEX		-11.98		120.1		27896547
+KRBL		0.83		362.75		45796
+BEML		0.09		1513.55		20511
+FLUOROCHEM		-0.52		3194.7		5785
