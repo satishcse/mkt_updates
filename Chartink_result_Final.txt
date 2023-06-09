@@ -10,9 +10,9 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DELTACORP		4.1		245.0		2960839
-MCDOWELL-N		1.79		886.6		1010434
-RAMCOCEM		1.75		932.55		651132
+DELTACORP		4.1		245.0		3001030
+RAMCOCEM		1.85		933.5		652528
+MCDOWELL-N		1.77		886.45		1012218
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -71,8 +71,8 @@ HDFCAMC		-3.19		1930.0		434901
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-INDIACEM		6.99		230.4		21226766
-POLYCAB		1.1		3550.25		180444
-OFSS		-0.09		3537.95		42002
-SBILIFE		-0.61		1231.35		1836924
-ITC		-1.05		438.25		6634379
+INDIACEM		6.85		230.1		21255859
+POLYCAB		1.1		3550.25		181348
+OFSS		-0.13		3536.5		42333
+SBILIFE		-0.6		1231.45		1847967
+ITC		-1.07		438.15		6682116
