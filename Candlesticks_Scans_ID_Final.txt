@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.83		589		798937
+HDFCLIFE		-0.84		588.9		802928
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SANOFI		-0.6		7000		4009
+ASIANPAINT		-0.32		3202.0		617607
+NAVINFLUOR		-0.7		4549.0		32200
+SAPPHIRE		-0.05		1394.05		19325
