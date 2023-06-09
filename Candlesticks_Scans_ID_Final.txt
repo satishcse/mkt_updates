@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IEX		-11.32		121.0		34014209
-MPHASIS		-0.48		1854.95		72736
-FLUOROCHEM		-0.35		3199.9		6268
+IEX		-10.85		121.65		36320409
+STARHEALTH		-0.58		524.0		746165
+MPHASIS		-0.43		1855.85		75808
+TEJASNET		-0.51		706.1		67965
+SWANENERGY		0.19		238.7		16612
+HONAUT		-0.32		40885.35		199
