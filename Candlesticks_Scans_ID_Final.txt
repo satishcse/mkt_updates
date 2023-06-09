@@ -7,6 +7,4 @@ CIPLA		0.27		968.05		455383
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJCP		-2.74		1029.0		382809
-PIDILITIND		-0.7		2615.9		75054
-BAJAJHLDNG		-0.72		6788.85		11463
+BAJAJHLDNG		-0.74		6787.9		11544
