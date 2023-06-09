@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.93		588.4		825900
+HDFCLIFE		-0.91		588.5		827838
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IPCALAB		-0.61		731.3		713010
-HCLTECH		-0.39		1122.4		601050
-COLPAL		-0.86		1607.35		98068
-BAYERCROP		-0.65		4315.8		1595
+INFY		-1.23		1267.0		1926707
+IPCALAB		-0.16		734.65		719221
+COLPAL		-0.86		1607.35		98629
+NESTLEIND		-0.13		22121.15		22282
+BAYERCROP		-0.64		4315.85		1600
