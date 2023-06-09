@@ -14,9 +14,9 @@ Intraday_Buy_PSAR
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-WIPRO		-0.63		397.05		2214916
-LALPATHLAB		-0.86		1990.2		49491
-ATUL		-0.26		6787.85		10311
+DABUR		-0.62		548.7		359520
+LUPIN		0.3		814.3		149543
+LALPATHLAB		-1.07		1986.0		51799
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
