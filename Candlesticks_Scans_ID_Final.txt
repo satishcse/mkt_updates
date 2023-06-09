@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.87		2450.25		1342985
-TATACONSUM		-0.72		801.25		601671
+WIPRO		-0.43		397.85		4418382
+BHARTIARTL		-0.6		831.0		2495368
+M&M		-0.46		1374.65		1209751
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GLENMARK		-1.53		638.5		938189
-POWERINDIA		-1.02		3874.95		9176
-BAYERCROP		-1.15		4294.0		6225
+
