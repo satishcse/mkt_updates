@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.66		801.75		599675
-ULTRACEMCO		0.59		8148.0		195070
+TATACONSUM		-0.64		801.95		601034
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POWERINDIA		-0.97		3876.8		9155
