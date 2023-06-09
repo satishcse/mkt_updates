@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.55		363.1		413657
+BPCL		0.47		362.8		416562
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUVENPHAR		-0.86		471.0		141151
-FINEORG		-0.85		5018.6		18416
-KSB		0.34		2147.25		2533
-GALAXYSURF		-0.8		2612.95		1566
+CRAFTSMAN		-0.59		3887.05		3227
+KSB		0.34		2147.35		2534
