@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-1.19		1364.65		998868
-TITAN		-0.12		2873.5		484800
-APOLLOHOSP		0.26		4939.4		181502
+M&M		-1.17		1364.9		1004536
+TITAN		-0.17		2872.1		485441
+APOLLOHOSP		0.23		4938.2		182285
 
 Bullish_Hammer_15m_N500								 
 ======================= 
