@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.51		397.5		4477758
-ITC		-0.65		440.0		4103665
-M&M		-0.76		1370.55		1284081
+WIPRO		-0.53		397.45		4484787
+ITC		-0.65		440.0		4110315
+M&M		-0.8		1370.0		1286872
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HEROMOTOCO		-1.43		2922.3		562748
+ICICIGI		-2.73		1218.4		436127
+ALKYLAMINE		-0.68		2544.0		40299
+WHIRLPOOL		-1.59		1410.65		26345
