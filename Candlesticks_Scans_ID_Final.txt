@@ -2,9 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.39		1067.15		1801160
-APOLLOHOSP		0.25		4939.0		176276
+TECHM		-0.37		1067.3		1803653
+M&M		-1.18		1364.8		976499
+APOLLOHOSP		0.19		4935.8		176790
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASIANPAINT		-1.07		3178.0		800777
+HEROMOTOCO		-1.19		2929.5		511731
+DIVISLAB		-1.48		3447.95		153662
+LALPATHLAB		-1.35		1980.5		93689
+RELAXO		-0.73		893.8		33259
