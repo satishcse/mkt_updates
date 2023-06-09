@@ -2,7 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.55		1065.45		1031856
+TECHM		-0.58		1065.05		1037594
+BAJFINANCE		0.64		7054.95		166868
 
 Bullish_Hammer_15m_N500								 
 ======================= 
