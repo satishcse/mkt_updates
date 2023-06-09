@@ -10,7 +10,4 @@ HCLTECH		-0.05		1126.15		836361
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAPPHIRE		-1.17		1378.55		30433
-FLUOROCHEM		-1.54		3161.95		29614
-ATUL		-0.97		6739.8		16085
-ABBOTINDIA		-0.46		21545.95		3176
+FLUOROCHEM		-1.6		3159.95		30061
