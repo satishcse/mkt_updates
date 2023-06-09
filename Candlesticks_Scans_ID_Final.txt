@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.41		242.65		3759013
-ITC		-0.15		442.25		2974501
-HCLTECH		0.0		1126.8		835540
+ONGC		-1.12		154.35		5684535
+POWERGRID		0.39		242.6		3762730
+ITC		-0.17		442.15		2980949
+HCLTECH		-0.05		1126.15		836361
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-1.53		3162.1		29602
-ATUL		-1.12		6729.9		15983
-KSB		-0.53		2128.7		5285
+SAPPHIRE		-1.17		1378.55		30433
+FLUOROCHEM		-1.54		3161.95		29614
+ATUL		-0.97		6739.8		16085
 ABBOTINDIA		-0.46		21545.95		3176
