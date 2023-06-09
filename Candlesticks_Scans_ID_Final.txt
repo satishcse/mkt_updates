@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+MARUTI		-0.32		9628		146216
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DELHIVERY		-1.59		348.9		343047
+DELHIVERY		-1.62		348.8		344529
+BAJAJ-AUTO		-1.22		4741.95		189920
