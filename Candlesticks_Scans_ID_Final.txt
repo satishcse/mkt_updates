@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-1.44		3165		22206
+NAVINFLUOR		-1.84		4497		80605
+FLUOROCHEM		-1.44		3165		22318
