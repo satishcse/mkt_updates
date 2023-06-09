@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ABB		0.12		4117.4		57778
-FINEORG		-0.71		5025.55		18875
-CRAFTSMAN		-0.55		3888.6		3233
+
