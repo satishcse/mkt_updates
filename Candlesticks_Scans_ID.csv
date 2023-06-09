@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-COALINDIA,0.02,228.15,3347372
+ONGC,-1.03,154.5,8144494
+COALINDIA,-0.02,228.05,3349790
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ENDURANCE,-0.27,1514.85,35822
+BOSCHLTD,0.11,18788.45,4678
