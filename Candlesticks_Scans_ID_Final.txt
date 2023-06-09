@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.12		154.35		5655438
-POWERGRID		0.41		242.65		3744360
-ITC		-0.16		442.2		2963058
-HCLTECH		-0.03		1126.45		825479
+ONGC		-1.12		154.35		5662989
+POWERGRID		0.41		242.65		3750441
+ITC		-0.16		442.2		2968619
+HCLTECH		-0.06		1126.05		826466
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATUL		-1.11		6730		15948
+ATUL		-1.19		6725.05		15966
+ABBOTINDIA		-0.51		21535.25		3117
