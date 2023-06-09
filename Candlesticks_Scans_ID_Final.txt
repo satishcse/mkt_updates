@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.24		1470.9		318531
+TATACONSUM		-0.64		801.9		599149
+BAJAJFINSV		0.24		1470.95		319246
+ULTRACEMCO		0.58		8147.0		194733
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		-1.09		3177.3		948377
-GLENMARK		-1.84		636.5		933040
-DIVISLAB		-1.61		3443.45		183283
-CLEAN		-1.16		1389.95		170103
+MEDPLUS		-3.37		784.2		298131
