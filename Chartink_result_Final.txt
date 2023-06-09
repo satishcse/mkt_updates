@@ -10,20 +10,23 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-RAMCOCEM		1.9		934.0		315952
-TRENT		1.44		1611.5		312163
+RAMCOCEM		1.96		934.5		316965
+TRENT		1.41		1611.0		312424
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		1.44		1611.5		312163
-MPHASIS		-0.22		1859.8		235718
-BANKNIFTY		0.22		44090.55		0
-NIFTY		-0.12		18612.05		0
+NTPC		0.03		182.1		6776353
+HAL		3.86		3663.55		2555400
+TRENT		1.41		1611.0		312424
+SBICARD		0.99		924.2		297299
+MPHASIS		-0.3		1858.25		236979
+NIFTY		-0.13		18610.55		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+NTPC		0.03		182.1		6776353
 
 Open_High								 
 ========= 

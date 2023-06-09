@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-1.17		1364.95		980606
-APOLLOHOSP		0.24		4938.6		177906
+M&M		-1.17		1364.95		985312
+APOLLOHOSP		0.25		4938.95		178264
+NESTLEIND		-0.26		22092.4		37719
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELAXO		-0.39		896.9		33829
+ASIANPAINT		-0.98		3180.8		805212
