@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.33		181.45		4123853
-POWERGRID		0.46		242.75		3541065
-TECHM		-0.54		1065.5		1134661
+SBIN		-1.43		580.1		8247831
+NTPC		-0.33		181.45		4133771
+TECHM		-0.57		1065.15		1140007
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-1.82		4497.8		72313
-BLUESTARCO		-0.13		1458.05		29467
+COLPAL		-0.95		1605.95		125844
+NAVINFLUOR		-1.8		4498.6		72817
+BLUESTARCO		0.02		1460.25		30186
