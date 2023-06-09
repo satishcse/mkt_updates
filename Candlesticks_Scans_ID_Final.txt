@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TITAN		1.34		2915.45		165748
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-1.6		2097.45		19316
-BEML		-0.22		1508.95		16830
+CAMS		-0.41		2159.8		2862
 SUNDARMFIN		0.26		2569.7		691
