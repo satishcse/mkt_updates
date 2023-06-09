@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.12		109.9		9487986
-HCLTECH		0.06		1127.4		185847
+TATASTEEL		-1.12		109.9		9525191
+HCLTECH		0.09		1127.75		187922
+BAJAJFINSV		0.35		1472.55		102200
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 GRINDWELL		-0.55		2126.5		2281
-GALAXYSURF		-0.72		2615.0		748
+GALAXYSURF		-0.72		2615.0		739
