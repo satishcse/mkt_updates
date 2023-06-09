@@ -8,4 +8,6 @@ NESTLEIND		-0.27		22089.25		37802
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UTIAMC		-1.59		706.45		67427
+GRAPHITE		-0.46		378.5		1078689
+MFSL		-1.49		693.25		248679
+UTIAMC		-1.59		706.45		67971
