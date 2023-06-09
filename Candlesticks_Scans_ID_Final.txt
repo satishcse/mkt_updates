@@ -2,16 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-0.82		3210		1774751
-HEROMOTOCO		-2.19		2900		826214
+TCS		-0.84		3209.3		1774813
+HEROMOTOCO		-2.21		2899.3		826286
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		0.66		1334.9		804934
+TVSMOTOR		0.75		1336.0		805208
 360ONE		-0.23		420.95		532079
-DELHIVERY		-1.33		349.85		372798
+DELHIVERY		-1.35		349.75		372821
 SAPPHIRE		-2.14		1365.0		56386
-ALKYLAMINE		-1.82		2515.0		52089
+ALKYLAMINE		-2.05		2508.9		52100
 GRINFRA		-1.17		1240.0		20434
 SANOFI		-0.97		6974.0		11629
