@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.27		968		435106
+CIPLA		0.27		968		438120
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CERA		-1.26		7876.7		20771
+LALPATHLAB		-2.61		1955.2		127617
+PIDILITIND		-0.69		2616.35		74277
+CERA		-1.31		7873.0		20775
