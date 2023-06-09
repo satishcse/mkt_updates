@@ -9,4 +9,5 @@ TECHM		-0.54		1065.5		1134661
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-1.82		4498.1		72196
+NAVINFLUOR		-1.82		4497.8		72313
+BLUESTARCO		-0.13		1458.05		29467
