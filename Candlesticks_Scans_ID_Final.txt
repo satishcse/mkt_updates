@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.41		181.3		4176116
+NTPC		-0.44		181.25		4178814
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CARBORUNIV		-0.75		1188.2		173163
+COLPAL		-0.96		1605.75		126266
+AJANTPHARM		0.0		1469.55		59567
+BLUESTARCO		0.07		1461.05		31356
