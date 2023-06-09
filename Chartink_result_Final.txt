@@ -10,13 +10,21 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-RAMCOCEM		1.97		934.6		508296
+RAMCOCEM		1.71		932.2		512220
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BHEL		1.78		85.8		14562138
-ESCORTS		-1.19		2143.85		103813
+MANAPPURAM		3.47		116.45		28104652
+BHEL		1.84		85.85		15017906
+ICICIBANK		-0.07		937.25		7612928
+PFC		1.24		199.3		4409956
+INDHOTEL		0.22		381.65		3454400
+CANFINHOME		0.32		743.6		400122
+TRENT		1.1		1606.15		320135
+ESCORTS		-1.32		2141.0		104657
+BANKNIFTY		-0.07		43966.1		0
+NIFTY		-0.36		18566.9		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
