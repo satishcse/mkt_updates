@@ -2,16 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.7		185.9		14999883
-ONGC		0.39		154.85		8121645
-POWERGRID		-1.06		242.3		4258821
-BPCL		2.27		367.6		2611477
-RELIANCE		0.11		2484.75		2399471
+NTPC		1.72		185.95		15012020
+ONGC		0.36		154.8		8154992
+POWERGRID		-1.12		242.15		4268719
+BPCL		2.23		367.45		2612603
+RELIANCE		0.11		2484.6		2405994
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.54		1601.85		5367620
-SONATSOFTW		-1.11		1021.4		707513
-JYOTHYLAB		1.19		204.85		327482
-JBMA		-0.1		921.4		295321
+HDFCBANK		-0.54		1601.9		5390330
+JBMA		-0.2		920.55		295601
