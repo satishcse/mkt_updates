@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.56		185.65		14833883
-ONGC		0.32		154.75		7977875
-POWERGRID		-1.12		242.15		4223202
-BPCL		2.24		367.5		2592462
-RELIANCE		0.05		2483.25		2371506
+NTPC		1.56		185.65		14870410
+ONGC		0.32		154.75		8024472
+POWERGRID		-1.12		242.15		4227082
+BPCL		2.3		367.7		2598241
+RELIANCE		0.06		2483.55		2376331
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+KAJARIACER		-0.17		1259.0		33413
 BBTC		-0.43		948.1		13936
