@@ -10,7 +10,7 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INTELLECT		3.13		595.5		1038756
+INTELLECT		3.2		595.85		1038807
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -26,7 +26,7 @@ GNFC		2.41		579.25		607614
 MCDOWELL-N		-0.59		883.0		518784
 DEEPAKNTR		0.15		2023.0		181470
 LTTS		2.11		3888.9		141296
-MGL		-0.28		1022.35		114191
+MGL		-0.28		1022.35		114160
 BATAINDIA		0.0		1575.05		59013
 BANKNIFTY		-0.04		43969.65		0
 NIFTY		0.24		18607.15		0
@@ -34,7 +34,9 @@ NIFTY		0.24		18607.15		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.26		583.2		1649049
+HDFCLIFE		0.35		583.75		1651645
+ULTRACEMCO		0.39		8185.0		120655
+MGL		-0.28		1022.35		114160
 
 Open_High								 
 ========= 
@@ -58,7 +60,7 @@ INDIGO		-2.63		2398.0		783855
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-BSOFT		2.89		338.0		2431580
-MUTHOOTFIN		1.18		1130.0		254075
-TATASTEEL		0.96		109.95		15768544
-BATAINDIA		0.0		1575.05		59013
+BSOFT		2.89		338.0		2432499
+MUTHOOTFIN		1.11		1129.15		255170
+TATASTEEL		0.96		109.95		15786177
+BATAINDIA		0.0		1575.05		59034
