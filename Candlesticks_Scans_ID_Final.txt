@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.49		155.0		7380844
-WIPRO		-0.01		397.25		3803074
-HDFC		-0.34		2643.75		2495796
-DIVISLAB		0.48		3445.2		634790
-BAJAJFINSV		0.04		1467.15		294362
+ONGC		0.52		155.05		7399395
+WIPRO		0.0		397.3		3808641
+HDFC		-0.35		2643.5		2499799
+DIVISLAB		0.5		3445.9		635773
 
 Bullish_Hammer_15m_N500								 
 ======================= 
