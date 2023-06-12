@@ -10,30 +10,20 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INTELLECT		4.17		601.45		906557
+INTELLECT		4.1		601.1		907988
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-IOC		0.89		91.1		4380711
-ITC		-0.67		435.5		3699376
-HINDPETRO		2.17		267.9		2402016
-INTELLECT		4.17		601.45		906557
-SBILIFE		1.3		1248.45		829977
-COROMANDEL		-0.47		927.4		702914
-MARICO		0.03		533.35		412022
-AARTIIND		-0.54		503.75		368892
-GRANULES		0.99		280.05		357114
-DEEPAKNTR		0.28		2025.65		163127
-TORNTPHARM		-0.46		1797.6		107858
-SIEMENS		-0.19		3651.65		54254
-NIFTY		0.22		18605.0		0
+IPCALAB		0.77		733.55		812294
+PIIND		3.81		3757.9		412268
+MFSL		0.78		691.55		84214
+NIFTY		0.22		18603.85		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-HINDPETRO		2.19		267.95		2426165
-ZYDUSLIFE		-0.34		506.0		520165
+IPCALAB		0.77		733.55		812294
 
 Open_High								 
 ========= 
@@ -58,7 +48,7 @@ INDIGO		-2.75		2395.0		524161
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-BSOFT		3.2		339.0		2255925
-MUTHOOTFIN		1.63		1135.0		187283
-TATASTEEL		1.24		110.25		12913903
-BATAINDIA		0.07		1576.25		49620
+BSOFT		3.2		339.0		2256938
+MUTHOOTFIN		1.63		1135.0		187470
+TATASTEEL		1.24		110.25		12947283
+BATAINDIA		0.03		1575.65		49765
