@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		1.21		743.85		1145686
-CIPLA		0.33		972.4		206780
+INFY		1.71		1287.55		1631651
+COALINDIA		0.31		228.35		1477333
+ADANIPORTS		1.09		742.95		1205997
+ASIANPAINT		-0.43		3166.75		381309
+ULTRACEMCO		-0.35		8125.0		38171
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-0.34		3720.35		1886116
-HDFC		-0.21		2647.25		1674792
-PATANJALI		-0.49		1019.0		13738
+ADANIENT		-0.39		2441.65		636239
+FLUOROCHEM		-1.07		3114.05		62540
+CERA		-0.5		7847.6		4377
