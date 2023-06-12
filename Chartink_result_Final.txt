@@ -10,7 +10,7 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INTELLECT		3.22		596		954143
+INTELLECT		3.3		596.45		956694
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -33,9 +33,10 @@ NIFTY		0.17		18594.2		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.33		3170.0		611336
-ZYDUSLIFE		-0.31		506.2		554464
-BERGEPAINT		0.14		648.6		444677
+ASIANPAINT		-0.39		3168.05		613360
+ZYDUSLIFE		-0.3		506.25		554501
+BERGEPAINT		0.15		648.7		461729
+ABB		-0.31		4138.25		113629
 
 Open_High								 
 ========= 
@@ -44,7 +45,7 @@ DRREDDY		0.43		4686.85		55482
 ABFRL		0.35		199.95		779970
 GLENMARK		0.15		637.0		495351
 CUB		0.08		124.6		827579
-CROMPTON		0.07		275.45		1035163
+CROMPTON		0.07		275.45		1035057
 WIPRO		0.04		397.45		2908015
 CIPLA		0.02		969.45		295441
 SBICARD		0.02		926.0		223545
