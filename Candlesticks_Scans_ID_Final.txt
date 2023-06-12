@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.03		578.9		2454995
+SBIN		0.04		578.95		2538887
+HINDALCO		0.65		417.75		793047
+CIPLA		0.36		972.7		191411
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RATNAMANI		-0.43		2349.2		13080
