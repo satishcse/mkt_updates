@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.02		242.4		3850952
-CIPLA		0.03		969.5		365739
-SUNPHARMA		0.29		986.8		340640
+POWERGRID		-1.04		242.35		3880978
+UPL		-0.04		679.95		1060152
+LT		-0.85		2342.9		892919
+CIPLA		0.08		970.0		366509
+SUNPHARMA		0.27		986.6		342000
 
 Bullish_Hammer_15m_N500								 
 ======================= 
