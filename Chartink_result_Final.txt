@@ -10,7 +10,7 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INTELLECT		4.09		601		909460
+INTELLECT		3.95		600.2		913842
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -35,7 +35,7 @@ Open_High
 nsecode		per_chg		close		volume
 ABFRL		0.43		200.1		756935
 GLENMARK		0.37		638.4		483578
-CROMPTON		0.2		275.8		1010681
+CROMPTON		0.2		275.8		1010575
 DRREDDY		0.18		4675.0		47621
 CUB		0.16		124.7		811195
 WIPRO		0.15		397.9		2719038
