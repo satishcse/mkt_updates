@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.06		242.3		3989675
-JSWSTEEL		0.07		749.0		1349160
+POWERGRID		-1.04		242.35		3995424
+JSWSTEEL		0.05		748.9		1353134
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINDWELL		-0.75		2092.65		10506
+GRINDWELL		-0.77		2092.25		10533
