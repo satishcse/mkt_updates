@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.78		186.05		14498355
-ONGC		0.49		155.0		7451087
-HDFC		-0.35		2643.55		2514009
-DIVISLAB		0.42		3443.0		637284
-BAJAJFINSV		0.08		1467.65		295619
+NTPC		1.75		186.0		14520688
+ONGC		0.49		155.0		7551664
+POWERGRID		-1.04		242.35		4094374
+WIPRO		0.0		397.3		3830094
+HDFC		-0.35		2643.5		2515647
+DIVISLAB		0.44		3443.95		638390
 
 Bullish_Hammer_15m_N500								 
 ======================= 
