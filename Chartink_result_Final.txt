@@ -10,7 +10,7 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INTELLECT		3.48		597.5		1024721
+INTELLECT		3.45		597.3		1025683
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -31,8 +31,9 @@ NIFTY		0.22		18604.7		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-AXISBANK		0.16		976.3		4552800
-RAMCOCEM		0.25		934.85		138875
+AXISBANK		0.19		976.65		4559633
+RAMCOCEM		0.25		934.85		139025
+GRASIM		0.61		1726.2		100237
 
 Open_High								 
 ========= 
@@ -56,7 +57,7 @@ INDIGO		-2.55		2400.0		734264
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-BSOFT		3.0		338.35		2396152
-MUTHOOTFIN		1.47		1133.25		240984
-TATASTEEL		0.96		109.95		15526561
-BATAINDIA		0.08		1576.35		57647
+BSOFT		2.98		338.3		2396648
+MUTHOOTFIN		1.38		1132.25		241492
+TATASTEEL		0.96		109.95		15538115
+BATAINDIA		0.05		1575.9		57760
