@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.49		155.0		5990887
-POWERGRID		-0.96		242.55		3515060
-BPCL		2.16		367.2		2098952
-BAJAJ-AUTO		0.32		4758.6		67549
+POWERGRID		-1.0		242.45		3528655
+BPCL		2.14		367.15		2101839
+DIVISLAB		0.56		3448.1		565780
+BRITANNIA		0.3		4893.2		179663
+BAJAJ-AUTO		0.33		4758.95		68490
+DRREDDY		0.54		4692.0		65079
 
 Bullish_Hammer_15m_N500								 
 ======================= 
