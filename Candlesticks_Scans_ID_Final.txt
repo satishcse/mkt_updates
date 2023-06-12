@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.52		155.05		6620620
-BPCL		2.02		366.7		2290184
-TECHM		1.41		1078.0		1144208
-SUNPHARMA		0.26		986.5		332692
+ONGC		0.52		155.05		6633274
+BPCL		2.02		366.7		2321836
+SUNPHARMA		0.23		986.25		335500
 
 Bullish_Hammer_15m_N500								 
 ======================= 
