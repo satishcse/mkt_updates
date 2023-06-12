@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.45		154.95		5503324
-POWERGRID		-0.84		242.85		3214924
-WIPRO		-0.01		397.25		2800798
-COALINDIA		0.35		228.45		2366852
-ADANIPORTS		1.23		744.0		2156181
-KOTAKBANK		0.25		1876.65		1185814
+ONGC		0.45		154.95		5585653
+POWERGRID		-0.92		242.65		3232779
+WIPRO		-0.05		397.1		2843929
+COALINDIA		0.26		228.25		2375411
+ADANIPORTS		1.27		744.25		2171621
+KOTAKBANK		0.21		1876.0		1192705
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HOMEFIRST		-1.61		802.8		43986
