@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-0.96,242.55,3501130
-BPCL,2.23,367.45,2087915
-DIVISLAB,0.59,3449.0,563434
-BAJAJ-AUTO,0.33,4758.9,66966
+ONGC,0.49,155.0,5973956
+POWERGRID,-0.94,242.6,3507831
+BPCL,2.16,367.2,2094334
+BAJAJ-AUTO,0.32,4758.5,67052
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ZENSARTECH,-1.68,391.85,498425
