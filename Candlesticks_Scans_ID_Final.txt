@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.49		155.0		8798640
-WIPRO		-0.11		396.85		4573381
-M&M		0.9		1382.95		1153543
-ASIANPAINT		0.58		3199.0		896174
+WIPRO		-0.08		397.0		4577897
+ASIANPAINT		0.61		3199.85		897254
+SUNPHARMA		0.17		985.6		421474
 
 Bullish_Hammer_15m_N500								 
 ======================= 
