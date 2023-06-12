@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.56		185.65		16062907
-ONGC		0.52		155.05		9680737
-BPCL		3.45		371.85		4166661
-COALINDIA		0.53		228.85		3660913
+NTPC		1.61		185.75		16145584
+ONGC		0.55		155.1		9789134
+BPCL		3.37		371.55		4202911
+COALINDIA		0.59		229.0		3705671
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RATNAMANI		-1.74		2318.35		44529
+RATNAMANI		-1.84		2316		44993
