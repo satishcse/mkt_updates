@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.56		185.65		15396186
-BRITANNIA		0.37		4896.75		206262
+WIPRO		0.03		397.4		4389274
+BAJAJ-AUTO		0.88		4785.0		96745
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+THERMAX		-0.97		2323.7		8138
