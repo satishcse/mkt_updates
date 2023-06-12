@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.64		185.8		15216909
-INFY		2.27		1294.65		3953009
-ASIANPAINT		0.5		3196.45		828415
+NTPC		1.56		185.65		15237245
+ASIANPAINT		0.49		3196.0		829106
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CIPLA		-1.08		958.8		666004
