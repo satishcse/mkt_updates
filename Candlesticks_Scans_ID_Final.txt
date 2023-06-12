@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.16		1875.0		1112920
-JSWSTEEL		0.57		752.8		706522
-M&M		0.51		1377.6		685218
-HEROMOTOCO		0.42		2911.5		248835
-BAJAJ-AUTO		0.16		4750.9		57936
+ONGC		0.52		155.05		5100556
+KOTAKBANK		0.19		1875.6		1117823
+JSWSTEEL		0.51		752.3		708410
+M&M		0.46		1376.95		702398
+HEROMOTOCO		0.41		2911.2		252876
+BAJAJ-AUTO		0.07		4746.65		58042
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PATANJALI		-1.27		1011		32894
