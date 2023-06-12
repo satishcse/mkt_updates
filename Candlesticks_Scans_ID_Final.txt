@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.98		242.5		3550381
-COALINDIA		0.35		228.45		2504635
-BPCL		2.17		367.25		2120465
-DIVISLAB		0.59		3448.95		566223
-BRITANNIA		0.29		4893.0		180832
-DRREDDY		0.56		4693.0		66571
+POWERGRID		-1.04		242.35		3560841
+BPCL		2.17		367.25		2125271
+DIVISLAB		0.59		3449.1		566399
+BRITANNIA		0.29		4893.0		181065
+DRREDDY		0.58		4693.95		66759
 
 Bullish_Hammer_15m_N500								 
 ======================= 
