@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,0.03,578.85,3942186
-JSWSTEEL,0.59,752.95,636168
+SBIN,0.05,579.0,3956688
+JSWSTEEL,0.44,751.8,647531
+BAJAJ-AUTO,0.16,4751.0,57029
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+KSB,0.56,2157.95,4890
