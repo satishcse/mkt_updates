@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.96		109.95		15492320
-KOTAKBANK		0.3		1877.6		1723665
-SUNPHARMA		0.29		986.8		319536
+TATASTEEL		0.96		109.95		15502679
+KOTAKBANK		0.28		1877.2		1727200
+HINDALCO		0.81		418.4		1680607
+SUNPHARMA		0.26		986.5		320973
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		0.34		1933		94652
+MTARTECH		0.34		1933		94745

@@ -10,7 +10,7 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-INTELLECT		3.57		598		1022802
+INTELLECT		3.48		597.5		1023759
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -35,9 +35,11 @@ NIFTY		0.21		18602.0		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-BANKBARODA		1.16		187.0		3808446
-M&M		0.4		1376.15		936800
-CANFINHOME		1.73		754.6		377032
+BANKBARODA		1.22		187.1		3856466
+M&M		0.49		1377.4		965375
+GUJGASLTD		1.04		484.5		679131
+CANFINHOME		1.5		752.9		382357
+SHRIRAMFIN		1.29		1435.5		198903
 
 Open_High								 
 ========= 
@@ -62,7 +64,7 @@ INDIGO		-2.46		2402.1		720713
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-BSOFT		3.06		338.55		2391254
-MUTHOOTFIN		1.61		1134.75		237263
-TATASTEEL		0.87		109.85		15440222
-BATAINDIA		0.03		1575.65		57510
+BSOFT		3.12		338.75		2393334
+MUTHOOTFIN		1.54		1134.0		239225
+TATASTEEL		0.96		109.95		15502679
+BATAINDIA		0.08		1576.35		57559
