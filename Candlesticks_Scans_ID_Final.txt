@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.59		373.85		1930343
-HINDALCO		0.32		418.15		745359
-SUNPHARMA		0.67		992.05		255804
-ULTRACEMCO		0.64		8250.95		69142
+BPCL		0.61		373.9		1964249
+SUNPHARMA		0.56		990.95		375686
+ULTRACEMCO		0.66		8252.5		70874
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.68		1866.75		2153394
+KOTAKBANK		-0.65		1867.25		2181050
+CENTURYPLY		0.74		612.5		116230
