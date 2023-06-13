@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.51		111.15		23711708
-AXISBANK		0.98		983.7		11949817
-SBIN		-0.68		574.7		9515847
-NTPC		-0.19		185.35		6710477
-CIPLA		1.56		974.95		1770916
+TATASTEEL		1.42		111.05		23773372
+AXISBANK		1.04		984.3		12000151
+SBIN		-0.64		574.95		9545675
+CIPLA		1.6		975.3		1773060
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HCLTECH		-0.64		1132.4		1341988
+
