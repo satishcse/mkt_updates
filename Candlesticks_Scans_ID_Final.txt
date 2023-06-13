@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.23		155.4		6694851
-ADANIPORTS		-0.33		739.65		1656930
-SBILIFE		0.41		1244.0		675263
+ONGC		0.26		155.45		6699166
+WIPRO		-0.14		395.05		3495686
+ADANIPORTS		-0.32		739.75		1662250
+SUNPHARMA		0.87		994.0		1014521
+SBILIFE		0.44		1244.4		676297
 
 Bullish_Hammer_15m_N500								 
 ======================= 
