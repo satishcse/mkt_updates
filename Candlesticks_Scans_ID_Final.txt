@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.33		576.75		4345862
-BHARTIARTL		0.43		839.95		1115807
-HINDALCO		0.26		417.9		924230
-SUNPHARMA		0.66		991.95		772756
+SBIN		-0.34		576.7		4358386
+HINDALCO		0.19		417.6		929683
+SUNPHARMA		0.6		991.4		775321
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INTELLECT		-0.04		597.45		343040
+SRF		-0.01		2337.7		422616
