@@ -2,9 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.4		2519.05		3930696
-EICHERMOT		0.27		3600.4		525760
-NESTLEIND		0.95		22500.0		70554
+EICHERMOT		0.21		3598.15		528654
 
 Bullish_Hammer_15m_N500								 
 ======================= 
