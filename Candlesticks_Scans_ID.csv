@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-AXISBANK,1.07,984.6,12480398
-ONGC,0.32,155.55,8405059
-WIPRO,-0.11,395.15,5336709
+AXISBANK,1.1,984.95,12547776
+ONGC,0.35,155.6,8410886
+WIPRO,-0.1,395.2,5362814
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-CREDITACC,-0.67,1241,51008
+CREDITACC,-0.63,1241.45,51049
+SANOFI,0.17,6849.75,18896
