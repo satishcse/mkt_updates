@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.14		1603.1		4994008
-TITAN		2.12		2913.05		436901
-BRITANNIA		0.79		4939.1		197315
+AXISBANK		1.36		987.45		8259769
+HDFCBANK		0.17		1603.5		5004269
+TITAN		2.11		2912.7		438312
+BRITANNIA		0.79		4938.95		197604
 
 Bullish_Hammer_15m_N500								 
 ======================= 
