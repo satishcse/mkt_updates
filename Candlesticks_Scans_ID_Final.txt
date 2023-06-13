@@ -2,7 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.13		185.45		6023110
+TATASTEEL		1.64		111.3		21914657
+ONGC		0.32		155.55		7394358
+HDFCLIFE		0.05		584.7		2368592
+BHARTIARTL		0.15		837.6		1661095
+TITAN		2.01		2910.0		527735
+NESTLEIND		0.72		22449.95		59807
 
 Bullish_Hammer_15m_N500								 
 ======================= 
