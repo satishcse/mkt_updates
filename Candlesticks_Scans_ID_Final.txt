@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.58		243.05		1415382
-ADANIPORTS		-0.16		740.95		1222003
-MARUTI		0.02		9551.9		207981
+POWERGRID		0.62		243.15		1421225
+ADANIPORTS		-0.19		740.7		1228171
+MARUTI		0.02		9552.2		208286
 
 Bullish_Hammer_15m_N500								 
 ======================= 
