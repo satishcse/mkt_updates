@@ -8,6 +8,5 @@ HDFCLIFE		0.06		584.75		3188642
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		-0.08		3244.15		1325428
-KEC		-1.78		553.25		806831
-SHOPERSTOP		-0.98		770.0		84977
+KEC		-1.92		552.5		818508
+MPHASIS		0.51		1899.55		205847
