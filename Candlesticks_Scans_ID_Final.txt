@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.67		374.15		1969320
-HINDALCO		0.34		418.2		753587
-SUNPHARMA		0.44		989.75		514234
-ULTRACEMCO		0.67		8253.85		71164
+ONGC		0.61		156.0		3927976
+ADANIPORTS		-0.26		740.2		915768
+UPL		0.23		680.5		680514
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PFIZER		0.34		3907.95		1124
