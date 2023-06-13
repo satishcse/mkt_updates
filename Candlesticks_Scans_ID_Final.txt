@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.52		155.85		4393211
-ADANIENT		0.24		2490.85		599011
+ONGC		0.48		155.8		4406298
+ADANIENT		0.21		2490.1		601166
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONATSOFTW		0.61		1022.5		173046
-SUNDARMFIN		-1.16		2568.65		48706
-UBL		0.23		1485.75		46501
-BEML		-0.52		1507.85		29398
+SUNDARMFIN		-1.18		2568.1		48712
+UBL		0.23		1485.75		46536
+BEML		-0.51		1507.9		29458
 PFIZER		0.36		3908.8		1145
