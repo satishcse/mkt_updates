@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.05		836.75		1845076
-BRITANNIA		0.64		4931.7		233658
-NESTLEIND		0.7		22444.7		62799
+BHARTIARTL		-0.05		835.95		1881569
+BRITANNIA		0.71		4935.0		234081
+NESTLEIND		0.68		22440.1		62864
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KOTAKBANK		-1.25		1856		5885113
+
