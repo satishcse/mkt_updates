@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.46		111.1		22399075
-ONGC		0.32		155.55		7475074
-BHARTIARTL		0.17		837.8		1768075
+TATASTEEL		1.42		111.05		22523274
+ONGC		0.29		155.5		7487318
+BHARTIARTL		0.17		837.75		1778167
+NESTLEIND		0.68		22440.1		62302
 
 Bullish_Hammer_15m_N500								 
 ======================= 
