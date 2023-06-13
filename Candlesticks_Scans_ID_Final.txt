@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.09		984.85		12113933
-WIPRO		0.05		395.8		5068854
-ADANIENT		-0.64		2468.8		1889448
+AXISBANK		1.05		984.45		12141211
+ONGC		0.35		155.6		8137946
+WIPRO		0.05		395.8		5085975
+ADANIENT		-0.64		2468.9		1891166
 
 Bullish_Hammer_15m_N500								 
 ======================= 
