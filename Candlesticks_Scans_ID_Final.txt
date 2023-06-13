@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		0.22		2646.5		1160937
-JSWSTEEL		0.73		752.75		1148141
-HDFCLIFE		0.19		585.5		855870
+NTPC		0.13		185.95		3162506
+COALINDIA		-0.17		228.6		1715515
+JSWSTEEL		0.74		752.8		1148404
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MARUTI		0.09		9559.1		198304
+UBL		0.06		1483.3		51780
