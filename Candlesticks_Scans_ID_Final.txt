@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.53		3264		105487
+HCLTECH		-0.12		1138.25		199769
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKFERT		0.12		558.3		98238
-JBMA		1.1		932.0		57935
+AFFLE		-0.94		1007		53572
