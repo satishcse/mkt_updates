@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.2		740.65		1165876
-SBILIFE		0.31		1242.8		521579
+ADANIPORTS		-0.24		740.35		1174962
+SBILIFE		0.25		1242.0		522549
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PFIZER		0		3894.85		1530
+
