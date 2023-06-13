@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.48		443.4		11618527
-RELIANCE		1.27		2515.6		2848774
-HCLTECH		-0.26		1136.65		766201
+ITC		1.49		443.45		11628261
+ONGC		0.19		155.35		7007513
+RELIANCE		1.28		2515.9		2851741
+LT		0.41		2349.55		761607
 
 Bullish_Hammer_15m_N500								 
 ======================= 
