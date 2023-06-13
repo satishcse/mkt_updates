@@ -7,4 +7,6 @@ TITAN		2.0		2909.7		517022
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PVRINOX		0.26		1445.0		261514
+PHOENIXLTD		-1.1		1573.2		202150
