@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.24		740.35		1174962
-SBILIFE		0.25		1242.0		522549
+ADANIPORTS		-0.22		740.45		1182748
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SUNDARMFIN		-1.21		2567.4		147821
