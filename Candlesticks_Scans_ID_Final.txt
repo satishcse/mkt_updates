@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.73		110.3		8414904
-SBIN		-0.37		576.5		4226588
-HDFCBANK		0.36		1606.5		3383160
+TATASTEEL		0.78		110.35		8480556
+SBIN		-0.35		576.6		4233981
+HDFCBANK		0.39		1607.0		3392845
+SUNPHARMA		0.75		992.85		767848
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		0.28		1336.15		1106724
+BALRAMCHIN		-0.41		401.9		912518
