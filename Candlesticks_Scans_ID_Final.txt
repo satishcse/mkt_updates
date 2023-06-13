@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.19		155.35		7157225
-MARUTI		0.1		9559.95		298956
-NESTLEIND		0.72		22450.0		58766
+ONGC		0.19		155.35		7203268
+MARUTI		0.07		9557.6		299376
+NESTLEIND		0.72		22450.0		58884
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SANOFI		-0.03		6835.95		12896
+TCIEXP		-0.17		1677.25		10578
