@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.06		395.85		1562099
-HINDUNILVR		1.5		2683.0		500144
-BAJFINANCE		0.6		7140.5		158641
+WIPRO		0.16		396.25		1594026
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DCMSHRIRAM		0.46		865.45		24135
-JINDWORLD		-0.91		336.9		10875
+DCMSHRIRAM		0.42		865.05		24169
+POLYMED		0.03		983.5		11243
