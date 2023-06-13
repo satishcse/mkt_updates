@@ -2,7 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.45		940.15		2884005
+ICICIBANK		0.45		940.15		2900182
+COALINDIA		-0.17		228.6		1698253
+HDFC		0.2		2646.1		1155193
+JSWSTEEL		0.83		753.5		1140638
+HDFCLIFE		0.17		585.4		854719
 
 Bullish_Hammer_15m_N500								 
 ======================= 
