@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.36		1609.25		3569456
-ITC		0.03		445.55		3380635
-HEROMOTOCO		-0.82		2928.15		124759
+ITC		0.07		445.7		3388952
+HEROMOTOCO		-0.79		2929.05		124938
+BRITANNIA		0.56		4967.7		71627
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TCIEXP		0.09		1677.25		3422
