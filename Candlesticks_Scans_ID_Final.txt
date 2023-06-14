@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.34		446.9		4479137
-ONGC		0.84		156.95		4144838
-ASIANPAINT		0.21		3269.7		480332
-SBILIFE		-0.41		1238.15		371016
-MARUTI		0.34		9549.5		168066
+ONGC		0.84		156.95		4170288
+COALINDIA		-0.26		228.35		3630227
+SUNPHARMA		0.41		992.2		618152
+M&M		0.35		1377.95		504382
+ASIANPAINT		0.21		3269.75		482668
+TITAN		-0.36		2902.0		388194
+SBILIFE		-0.38		1238.6		371608
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-0.41		1608.35		1140942
+VBL		-0.38		1608.9		1143390
