@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.58		938.05		9466402
-HINDALCO		0.85		425.0		5254852
-ONGC		1.0		157.2		4771231
-BHARTIARTL		-0.73		828.25		3598137
-DRREDDY		-0.04		4700.0		86742
+HINDALCO		0.85		425.0		5259574
+ONGC		0.96		157.15		4783537
+BHARTIARTL		-0.69		828.6		3601464
+ADANIPORTS		0.28		739.9		2510575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SKFINDIA		-0.44		4780.05		6695
