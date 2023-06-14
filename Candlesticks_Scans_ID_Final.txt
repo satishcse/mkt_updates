@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-0.73		1992.4		220042
-ABBOTINDIA		0.01		22156.95		2495
+BBTC		-1.05		1044.0		252256
+ASTRAL		-0.7		1992.95		221336
+ABBOTINDIA		0.01		22158.0		2528
