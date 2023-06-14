@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.41		1610.05		3615115
-ADANIPORTS		0.24		739.65		1286930
+TATASTEEL		1.8		113.15		29674548
+HDFCBANK		0.38		1609.55		3648196
+ADANIPORTS		0.24		739.6		1308361
+DRREDDY		0.15		4709.0		37777
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TIMKEN		-0.48		3448.7		3656
+
