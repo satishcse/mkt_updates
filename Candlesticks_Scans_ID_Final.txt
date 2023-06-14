@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.4		1609.85		3707312
-ADANIPORTS		0.03		738.1		1415920
-UPL		-0.07		681.75		1374573
-CIPLA		-0.44		977.2		546291
-DRREDDY		0.08		4705.55		38561
+TATASTEEL		1.89		113.25		31352931
+HINDALCO		0.81		424.8		4560071
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAHLDNG		-0.35		868.55		23004
+APARINDS		-1.01		2963.3		27364
+ABBOTINDIA		-0.19		22114.6		2749
