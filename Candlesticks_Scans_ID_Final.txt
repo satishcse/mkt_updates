@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.83		424.9		4562636
+HINDALCO		0.81		424.8		4573374
+CIPLA		-0.45		977.05		550128
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ABBOTINDIA		-0.19		22114.55		2797
+
