@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.22		739.5		2724570
-BPCL		1.0		377.35		2127678
-TECHM		0.17		1081.25		940423
-NESTLEIND		0.75		22661.0		49561
+ADANIPORTS		0.22		739.45		2734854
+BPCL		1.02		377.4		2129203
+TECHM		0.19		1081.5		943490
+NESTLEIND		0.75		22661.0		49588
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFIZER		0.01		3855		15901
+DCMSHRIRAM		-0.16		865.0		33703
+PFIZER		0.09		3858.2		15941
