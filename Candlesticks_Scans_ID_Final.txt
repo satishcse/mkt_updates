@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.86		246.75		5129594
-TECHM		0.22		1081.75		922761
+TECHM		0.2		1081.55		924334
+HCLTECH		0.35		1135.25		589034
+BAJAJ-AUTO		-0.65		4725.0		94617
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ECLERX		-3.57		1608.95		68948
+
