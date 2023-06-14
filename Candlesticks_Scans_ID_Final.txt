@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		2.38		113.8		54402767
-HDFC		0.26		2652.8		4087673
-MARUTI		0.29		9545.0		248082
+TATAMOTORS		1.39		570.0		10101419
+ONGC		1.48		157.95		6409227
+COALINDIA		0.02		229.0		4889528
+HDFC		0.24		2652.25		4093003
+MARUTI		0.24		9540.25		248972
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KPRMILL		-0.81		633		129373
+
