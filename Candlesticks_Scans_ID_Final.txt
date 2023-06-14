@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.19		2550.9		4485650
+ICICIBANK		-0.51		938.7		10563500
+RELIANCE		1.19		2550.95		4503589
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-3.52		1609.9		79995
+ECLERX		-3.51		1610		82108
