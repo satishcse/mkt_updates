@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.12		445.95		3409416
-HEROMOTOCO		-0.76		2930.0		125695
-BRITANNIA		0.54		4966.95		72044
+ITC		0.1		445.85		3418236
+HEROMOTOCO		-0.77		2929.6		126287
+BRITANNIA		0.5		4964.75		72120
 
 Bullish_Hammer_15m_N500								 
 ======================= 
