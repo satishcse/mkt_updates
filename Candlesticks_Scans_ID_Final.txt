@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.86		376.8		1637303
-HDFCLIFE		0.21		586.0		803188
-CIPLA		-0.46		977.0		550624
-GRASIM		0.95		1754.5		161073
+BPCL		0.86		376.8		1639712
+HDFCLIFE		0.21		586.0		808192
+CIPLA		-0.48		976.75		551306
+GRASIM		0.94		1754.3		161480
 
 Bullish_Hammer_15m_N500								 
 ======================= 
