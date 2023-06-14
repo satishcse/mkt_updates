@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.84		424.95		4604056
-HDFCLIFE		0.22		586.1		827685
-CIPLA		-0.51		976.5		556008
-TECHM		-0.13		1078.0		444736
-GRASIM		0.92		1754.0		163518
+HINDALCO		0.84		424.95		4628540
+HDFCLIFE		0.21		586.05		836762
+CIPLA		-0.51		976.5		557555
+GRASIM		0.95		1754.5		164386
 
 Bullish_Hammer_15m_N500								 
 ======================= 
