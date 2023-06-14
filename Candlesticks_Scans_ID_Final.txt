@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.05		2353.25		382610
-MARUTI		0.16		9532.55		175191
-DIVISLAB		-0.11		3483.95		130005
+LT		-0.02		2353.9		383323
+MARUTI		0.18		9535.0		175510
+DIVISLAB		-0.1		3484.35		130171
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-1.79		1971.1		359198
+ASTRAL		-1.75		1971.75		359821
