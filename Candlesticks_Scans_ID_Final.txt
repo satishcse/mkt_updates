@@ -9,4 +9,5 @@ MARUTI		0.27		9543.1		250177
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MEDPLUS		0.33		779.45		47852
+KPRMILL		-0.74		633.45		133313
+MEDPLUS		0.32		779.4		47867
