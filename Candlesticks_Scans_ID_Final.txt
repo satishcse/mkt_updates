@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.16		739.0		2777179
-BPCL		1.04		377.5		2138841
-NESTLEIND		0.7		22650.1		49683
+TATAMOTORS		0.99		567.75		8264720
+RELIANCE		1.31		2553.9		4394835
+BHARTIARTL		-0.64		829.0		3704923
+HINDUNILVR		0.41		2686.8		1083631
+CIPLA		-0.32		978.4		986057
+HCLTECH		0.36		1135.4		605678
+ULTRACEMCO		0.69		8333.0		189382
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFIZER		0		3854.65		15989
+PFIZER		0		3854.65		15955
