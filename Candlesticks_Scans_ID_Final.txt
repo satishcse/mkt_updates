@@ -7,4 +7,5 @@ POWERGRID		1.32		245.45		2869846
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		-5.2		1035.9		2481167
+KPITTECH		-5.23		1035.6		2485124
+SKFINDIA		-0.65		4769.95		4534
