@@ -8,4 +8,5 @@ ITC		0.26		446.55		4177610
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		-0.79		1193.9		70195
+TORNTPOWER		-0.79		664.95		325650
+PNCINFRA		-0.44		315.2		139224
