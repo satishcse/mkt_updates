@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.85		425.0		5301004
-POWERGRID		1.67		246.3		4788216
-RELIANCE		1.31		2553.85		4107510
-BHARTIARTL		-0.72		828.35		3620164
-KOTAKBANK		-0.11		1853.9		3464181
-CIPLA		-0.38		977.75		942095
-TITAN		-0.46		2899.05		424064
-GRASIM		1.38		1762.0		339728
+RELIANCE		1.32		2554.0		4120914
+BHARTIARTL		-0.75		828.1		3624805
+KOTAKBANK		-0.16		1853.0		3476475
+CIPLA		-0.46		977.0		943687
+TITAN		-0.47		2898.85		425548
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SRF		0.09		2346.9		282058
+KANSAINER		0.32		442.95		176590
