@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.02		425.7		5709485
-COALINDIA		0.04		229.05		4811614
-ADANIPORTS		0.11		738.65		3057040
-M&M		0.55		1380.65		656620
-BAJAJ-AUTO		-0.75		4720.15		110259
+HINDALCO		1.03		425.75		5724940
+COALINDIA		0.02		229.0		4817868
+ADANIPORTS		0.09		738.5		3068194
+M&M		0.5		1380.0		658429
+BAJAJ-AUTO		-0.78		4718.8		127469
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONATSOFTW		-1.71		1019.95		189333
+SONATSOFTW		-1.71		1019.95		189459
