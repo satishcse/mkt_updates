@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.84		156.95		4294605
-COALINDIA		-0.28		228.3		3645848
-TITAN		-0.36		2902.0		392723
-MARUTI		0.34		9549.85		170588
+COALINDIA		-0.33		228.2		3651372
+RELIANCE		0.88		2543.1		3448703
+MARUTI		0.28		9544.3		170790
 
 Bullish_Hammer_15m_N500								 
 ======================= 
