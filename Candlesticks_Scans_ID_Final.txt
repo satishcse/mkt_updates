@@ -12,4 +12,5 @@ NESTLEIND		0.7		22650.0		41207
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAYERCROP		-0.82		4201.75		41643
