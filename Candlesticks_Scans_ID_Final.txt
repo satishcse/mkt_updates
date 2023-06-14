@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.91		826.75		3266349
-LT		-0.03		2353.8		376130
-MARUTI		0.34		9549.9		172492
-DIVISLAB		-0.04		3486.15		128618
+LT		0.01		2354.65		377060
+MARUTI		0.29		9545.0		172691
+DIVISLAB		-0.09		3484.7		129059
 
 Bullish_Hammer_15m_N500								 
 ======================= 
