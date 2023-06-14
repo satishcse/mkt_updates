@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFC		-0.04		2644.75		709340
+LT		-0.22		2349.15		117031
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-EDELWEISS		0.0		51.5		1785453
-LICI		-0.1		598.3		157314
-POLYPLEX		-0.25		1279.0		17243
-SKFINDIA		-0.14		4794.6		1574
+
