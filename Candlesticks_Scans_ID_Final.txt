@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.85		425.0		5283981
-ONGC		0.96		157.15		4797518
-BHARTIARTL		-0.71		828.4		3606192
-CIPLA		-0.41		977.45		935926
-TITAN		-0.4		2900.75		420133
+HINDALCO		0.85		425.0		5287212
+ONGC		1.0		157.2		4800535
+BHARTIARTL		-0.73		828.25		3608765
+CIPLA		-0.41		977.5		938370
+TITAN		-0.38		2901.5		420475
 
 Bullish_Hammer_15m_N500								 
 ======================= 
