@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		0.04		2646.95		816797
+UPL		-0.05		681.9		890343
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		0.1		2325		66499
+VBL		-0.01		1614.85		741058
