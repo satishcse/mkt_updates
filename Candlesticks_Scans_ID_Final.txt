@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.84		156.95		4117497
-GRASIM		1.05		1756.2		290108
+ONGC		0.84		156.95		4137140
+GRASIM		1.09		1756.85		290794
+MARUTI		0.34		9549.85		167872
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-0.42		1608.25		1108813
+VBL		-0.37		1609.05		1115693
