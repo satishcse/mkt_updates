@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.14		2351		314311
+LT		-0.17		2350.4		315690
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFL		-1.17		1024.85		15231
+ECLERX		-1.83		1638.0		36425
+MFL		-1.17		1024.85		15470
