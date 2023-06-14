@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.2		739.3		2062722
-M&M		0.21		1376.0		490418
+ADANIPORTS		0.28		739.95		2076817
+M&M		0.2		1375.85		491383
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKEM		-0.51		3372		48438
+ALKEM		-0.52		3371.85		48465
