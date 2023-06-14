@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.16		426.3		5654405
-COALINDIA		0.02		229.0		4768493
-M&M		0.55		1380.65		650093
-ASIANPAINT		0.11		3266.45		572059
-BAJAJ-AUTO		-0.65		4724.9		106737
-DRREDDY		0.14		4708.45		97610
+HINDALCO		1.14		426.2		5668864
+COALINDIA		0.04		229.05		4776305
+M&M		0.55		1380.65		651665
+ASIANPAINT		0.15		3267.65		574153
+BAJAJ-AUTO		-0.69		4722.95		107126
 
 Bullish_Hammer_15m_N500								 
 ======================= 
