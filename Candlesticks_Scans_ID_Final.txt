@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.37		2363.85		1057118
-SBILIFE		-0.33		1238.25		323970
-HEROMOTOCO		0.25		2939.0		174702
+LT		0.37		2363.85		1059049
+SBILIFE		-0.35		1237.95		324190
+HEROMOTOCO		0.27		2939.5		174878
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TIINDIA		-0.71		2814.1		22823
