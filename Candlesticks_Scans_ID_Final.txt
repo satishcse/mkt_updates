@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.56		447.0		3019802
-LT		0.32		2362.55		986971
+ITC		0.55		446.95		3028400
+LT		0.3		2362.2		987956
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-0.43		3699.8		575110
-PIDILITIND		0.0		2693.0		163541
-MASTEK		-0.99		1959.0		30364
+HAL		-0.42		3700.0		575971
+SBICARD		-0.87		913.55		217251
