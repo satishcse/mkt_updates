@@ -8,4 +8,5 @@ LT		0.37		2363.8		977853
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAYERCROP		0.55		4240		7530
+HAL		-0.48		3697.7		561251
+BAYERCROP		0.55		4240.0		7540
