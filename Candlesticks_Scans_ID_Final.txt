@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.12		571.0		8368772
-INFY		-0.72		1291.0		4126585
-COALINDIA		-0.28		228.3		3451453
-UPL		-0.25		681.05		1192823
-M&M		1.18		1394.95		1134703
-BRITANNIA		0.61		4972.0		277214
+TATAMOTORS		0.1		570.85		8379946
+INFY		-0.72		1291.1		4131901
+COALINDIA		-0.24		228.4		3461864
+UPL		-0.23		681.2		1194644
+M&M		1.17		1394.75		1137138
+BRITANNIA		0.67		4974.75		278677
 
 Bullish_Hammer_15m_N500								 
 ======================= 
