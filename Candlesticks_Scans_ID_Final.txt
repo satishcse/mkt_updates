@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.09		576.05		3618652
-INFY		-1.17		1285.2		2014851
-CIPLA		1.1		989.5		514925
-ASIANPAINT		0.77		3295.3		398701
+SBIN		-0.04		576.3		3652383
+INFY		-1.09		1286.2		2060702
+CIPLA		0.95		988.0		519507
+ASIANPAINT		0.67		3292.05		401748
+BRITANNIA		1.03		4992.3		160481
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AJANTPHARM		0.02		1476		10277
+AJANTPHARM		0.03		1476.1		10331
