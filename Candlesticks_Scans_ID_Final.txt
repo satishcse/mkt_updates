@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.09		570.8		8516765
-COALINDIA		-0.24		228.4		3511643
-UPL		-0.28		680.85		1200781
-M&M		1.06		1393.25		1157470
-BRITANNIA		0.57		4969.75		280587
+NTPC		-0.03		187.15		6349283
+MARUTI		1.26		9653.0		338557
+BAJAJ-AUTO		0.06		4733.1		98159
 
 Bullish_Hammer_15m_N500								 
 ======================= 
