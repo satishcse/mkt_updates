@@ -10,16 +10,16 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-DIVISLAB		2.33		3567.0		731605
-LICHSGFIN		1.6		378.8		1208591
-RAIN		1.35		168.8		7027887
-BIOCON		1.34		242.55		1937825
-METROPOLIS		1.24		1329.0		636064
-TORNTPHARM		0.52		1841.0		172683
-HCLTECH		0.35		1139.85		993732
+DIVISLAB		2.33		3567.2		731839
+LICHSGFIN		1.58		378.75		1209571
+BIOCON		1.27		242.4		1939558
+METROPOLIS		1.17		1328.15		637322
+RAIN		1.11		168.4		7035036
+TORNTPHARM		0.52		1841.0		172812
+HCLTECH		0.31		1139.4		996454
 MGL		-0.26		1045.0		142326
-EXIDEIND		-0.64		208.85		927711
-IGL		-0.84		465.5		511485
+EXIDEIND		-0.64		208.85		930557
+IGL		-0.85		465.45		511862
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -30,7 +30,8 @@ NIFTY		-0.15		18728.35		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+MOTHERSON		-0.78		82.4		4877433
 
 Open_High								 
 ========= 
