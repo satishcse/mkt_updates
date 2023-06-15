@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SCHAEFFLER		-0.76		3038.0		15818
-GRINDWELL		-0.24		2121.85		5530
+GRINDWELL		-0.23		2121.95		5530
