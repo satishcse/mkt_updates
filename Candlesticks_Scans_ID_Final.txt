@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.22		114.05		22646808
-ASIANPAINT		0.43		3284.1		520687
-NESTLEIND		0.46		22834.3		33993
+COALINDIA		-0.31		228.25		3069372
+ASIANPAINT		0.43		3284.1		522018
+NESTLEIND		0.5		22842.0		34058
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-1.36		4556.6		78583
-TCIEXP		-1.52		1637.4		7750
+TCIEXP		-1.52		1637.4		7783
