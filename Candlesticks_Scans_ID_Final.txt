@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.37		2917.85		166729
+ITC		0.6		447.15		2903072
+LT		0.37		2363.8		977853
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-1.86		1559.6		124183
+BAYERCROP		0.55		4240		7530
