@@ -10,4 +10,5 @@ BAJFINANCE		-0.05		7093.05		274172
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAYERCROP		-1.06		4171.95		77555
+BAYERCROP		-1.11		4170.0		77686
+BAJAJHLDNG		-1.03		6919.55		6501
