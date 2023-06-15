@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.36		2363.45		1027749
-GRASIM		-0.15		1776.65		514003
-MARUTI		1.13		9639.85		224251
+LT		0.36		2363.6		1033126
+GRASIM		-0.1		1777.6		520285
+MARUTI		1.12		9639.4		225200
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GALAXYSURF		0.35		2863.25		54475
+
