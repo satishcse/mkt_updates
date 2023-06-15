@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.69		447.55		5940197
-BPCL		1.22		378.1		5012466
-HINDUNILVR		-0.46		2686.45		1442521
-BAJFINANCE		0.0		7096.75		269103
+ITC		0.69		447.55		5963928
+BPCL		1.26		378.25		5035670
+HINDUNILVR		-0.44		2686.9		1448394
+BAJFINANCE		-0.06		7092.65		272034
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LINDEINDIA		-2.7		4465.8		84204
+
