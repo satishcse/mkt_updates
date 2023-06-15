@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.05		187.1		6435074
-HDFCLIFE		-1.22		577.9		1413959
-MARUTI		1.23		9649.45		340895
-BAJAJ-AUTO		0.02		4730.95		99471
+HDFCLIFE		-1.26		577.7		1417759
+MARUTI		1.27		9653.85		341445
+BAJAJ-AUTO		-0.02		4729.15		99495
 
 Bullish_Hammer_15m_N500								 
 ======================= 
