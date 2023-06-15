@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.73		244.7		2928082
-TCS		-0.85		3223.5		1171610
-GRASIM		-0.09		1777.7		501401
-MARUTI		1.13		9640.3		219893
+TCS		-0.82		3224.3		1172842
+GRASIM		-0.1		1777.5		506318
+MARUTI		1.07		9634.65		222571
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FIVESTAR		-1.73		593.45		41677
-JBCHEPHARM		-1.1		2153.25		7295
+HINDUNILVR		-0.37		2688.65		820674
+FIVESTAR		-1.72		593.5		42024
+JBCHEPHARM		-1.09		2153.3		7301
