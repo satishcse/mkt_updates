@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.43		3284.4		532172
+ASIANPAINT		0.45		3284.8		532749
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-0.07		1344.85		324761
-RAYMOND		-0.5		1661.9		132651
+TVSMOTOR		-0.07		1344.95		325652
