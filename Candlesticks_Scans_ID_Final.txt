@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		1.23		990.7		782236
-GRASIM		0.04		1780.0		569368
+TATASTEEL		-0.04		113.75		20476102
+SUNPHARMA		0.31		989.8		1086018
+HDFCLIFE		-1.47		576.45		990124
+MARUTI		1.13		9640.0		233891
+HEROMOTOCO		0.29		2940.0		178509
+BAJAJ-AUTO		0.1		4735.0		59113
 
 Bullish_Hammer_15m_N500								 
 ======================= 
