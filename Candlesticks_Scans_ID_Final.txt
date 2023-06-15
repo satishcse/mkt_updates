@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.46		742.75		5170500
-HDFCLIFE		-1.24		577.8		1440857
-MARUTI		1.26		9652.95		346143
+ADANIPORTS		0.43		742.55		5196686
+HDFCLIFE		-1.29		577.5		1446080
+MARUTI		1.21		9647.75		347500
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAJAJELEC		-0.79		1213.3		126885
+
