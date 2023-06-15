@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.43		3284.3		524731
-NESTLEIND		0.44		22828.0		34370
+ASIANPAINT		0.44		3284.5		525694
+NESTLEIND		0.45		22830.0		34393
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINDWELL		-0.2		2122.55		8461
+GRINDWELL		-0.2		2122.55		8475
