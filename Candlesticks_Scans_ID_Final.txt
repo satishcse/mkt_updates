@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.24		186.75		6820645
-ADANIPORTS		0.48		742.9		5233696
+NTPC		-0.19		186.85		6856965
+ADANIPORTS		0.41		742.35		5278270
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AARTIDRUGS		0.95		458.85		367701
-3MINDIA		-1.51		27717.4		3327
+STARHEALTH		-0.83		521.05		1903720
+LODHA		-0.74		644.95		1675867
+AARTIDRUGS		0.95		458.85		366741
