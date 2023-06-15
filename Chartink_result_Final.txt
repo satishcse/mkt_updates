@@ -24,11 +24,15 @@ IGL		-0.88		465.3		499062
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-NIFTY		-0.06		18743.9		0
+IBULHSGFIN		0.49		113.7		2918920
+MUTHOOTFIN		1.08		1166.35		377810
+OFSS		0.14		3890.0		77795
+BANKNIFTY		-0.55		43746.7		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+MUTHOOTFIN		1.08		1166.35		377810
 
 Open_High								 
 ========= 
@@ -52,9 +56,9 @@ BANDHANBNK		-2.1		247.25		3865096
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-AUROPHARMA		2.52		686.6		1687459
-DALBHARAT		1.76		2235.25		517402
-IEX		1.01		124.6		4276979
-BIOCON		0.98		241.7		1526979
-BERGEPAINT		0.64		674.6		444591
-ADANIPORTS		0.32		741.75		4086521
+AUROPHARMA		2.63		687.35		1704076
+DALBHARAT		1.7		2234.05		517467
+IEX		1.01		124.6		4289655
+BIOCON		1.0		241.75		1528492
+BERGEPAINT		0.68		674.85		444603
+ADANIPORTS		0.3		741.6		4096303
