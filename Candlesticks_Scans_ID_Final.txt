@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.32		577.35		1557686
+HDFCLIFE		-1.33		577.25		1559273
+BRITANNIA		0.4		4961.2		315818
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.52		2684.6		1305589
-HEROMOTOCO		-0.74		2910.0		350262
-SUNTV		-0.65		444.2		191940
+HEROMOTOCO		-0.76		2909.35		351500
+AMBER		0.27		2128.8		73291
+MRF		-0.13		99985.25		6240
