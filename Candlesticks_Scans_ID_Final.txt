@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFSL		-0.62		670.85		46236
-INDIGOPNTS		-0.52		1414.45		4650
+JSWSTEEL		-0.04		772.55		535937
+JUSTDIAL		0.44		782.05		47569
+INDIGOPNTS		-0.5		1414.7		4815
+MFL		-0.46		1026.9		4702
