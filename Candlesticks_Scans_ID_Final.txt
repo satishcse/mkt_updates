@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.0		113.8		34982657
-ITC		0.75		447.85		6401732
+TATASTEEL		0		113.8		35031988
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFL		-1.62		1014.85		23672
+ALKYLAMINE		-0.81		2689.95		43496
