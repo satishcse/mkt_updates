@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALAMINES		0.33		2248.95		29067
-WHIRLPOOL		-0.68		1456.6		16230
-GRINDWELL		-0.28		2121.0		5822
+HAL		-0.05		3713.8		507179
+CREDITACC		-1.22		1203.05		40472
+BALAMINES		0.33		2249.0		29103
