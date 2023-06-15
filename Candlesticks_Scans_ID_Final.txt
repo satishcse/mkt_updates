@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-0.81		3224.75		1173466
-JSWSTEEL		-0.24		771.0		1041269
-GRASIM		-0.09		1777.75		507819
-MARUTI		1.14		9640.8		223072
+LT		0.36		2363.45		1027749
+GRASIM		-0.15		1776.65		514003
+MARUTI		1.13		9639.85		224251
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.37		2688.75		821791
-FIVESTAR		-1.73		593.45		42056
-JBCHEPHARM		-1.09		2153.35		7305
+GALAXYSURF		0.35		2863.25		54475
