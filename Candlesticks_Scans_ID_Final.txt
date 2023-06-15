@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.22		378.1		3735282
-HINDUNILVR		-0.47		2686.0		1078035
+ASIANPAINT		0.43		3284.2		539487
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.16		8372		204847
+ULTRACEMCO		0.17		8372.3		206477
