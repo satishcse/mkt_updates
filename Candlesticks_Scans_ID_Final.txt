@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.1		576.0		4769335
-GRASIM		0.04		1780.0		489079
-TECHM		-0.18		1075.7		455738
-MARUTI		1.16		9643.0		215997
+SBIN		-0.11		575.9		4788275
+POWERGRID		-0.73		244.7		2882339
+GRASIM		-0.02		1779.0		491571
+MARUTI		1.16		9642.6		216659
 
 Bullish_Hammer_15m_N500								 
 ======================= 
