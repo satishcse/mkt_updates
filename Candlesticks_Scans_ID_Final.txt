@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.07		978.35		3029345
-SBIN		-0.16		575.6		2403574
-HDFCLIFE		-0.85		580.1		411696
-HINDUNILVR		0.53		2713.0		410345
+HDFCLIFE		-0.85		580.05		419960
+HINDUNILVR		0.54		2713.45		413649
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEAMLEASE		-0.59		2343		20900
+MOTILALOFS		-0.21		691.95		60174
+TEAMLEASE		-0.59		2342.8		20930
