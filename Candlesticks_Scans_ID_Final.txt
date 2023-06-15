@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.18		988.5		1058749
-SBILIFE		-0.29		1238.7		325215
-HEROMOTOCO		0.26		2939.25		175799
+SUNPHARMA		0.18		988.5		1064021
+CIPLA		1.24		990.8		769185
+GRASIM		-0.02		1779.0		560934
+SBILIFE		-0.27		1239.0		327283
+HEROMOTOCO		0.26		2939.15		176302
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		-0.67		2815.25		22947
-KENNAMET		-0.3		2569.95		11771
+TIINDIA		-0.74		2813.15		22956
+KENNAMET		0.03		2578.4		11777
