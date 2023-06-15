@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJELEC		-0.71		1214.25		86581
-GRINDWELL		-0.22		2122.15		5798
+BALAMINES		0.33		2248.95		29067
+WHIRLPOOL		-0.68		1456.6		16230
+GRINDWELL		-0.28		2121.0		5822
