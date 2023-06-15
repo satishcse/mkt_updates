@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		0.09		2648.35		1020917
-KOTAKBANK		-0.21		1860.65		650081
+HDFC		0.1		2648.5		1036548
+KOTAKBANK		-0.24		1860.25		651524
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ENDURANCE		-0.64		1523.95		12638
+
