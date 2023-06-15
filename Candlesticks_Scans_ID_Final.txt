@@ -7,4 +7,6 @@ ADANIPORTS		0.44		742.6		5223951
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LODHA		-0.68		645.35		1672611
+AARTIDRUGS		0.95		458.85		366741
