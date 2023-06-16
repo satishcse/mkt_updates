@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.63		386.5		2152173
-ADANIPORTS		0.39		742.4		852262
-INDUSINDBK		0.24		1300.2		786352
+WIPRO		-0.62		386.55		2168622
+ONGC		0.16		157.9		1376621
+INDUSINDBK		0.23		1300.1		791847
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		-0.63		4953.05		88917
-BASF		-0.32		2561.8		1817
+TANLA		-0.81		999.85		398546
+PERSISTENT		-0.38		4965.2		90057
+WESTLIFE		-0.64		835.5		30881
