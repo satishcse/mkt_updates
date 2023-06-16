@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.02		829.9		1601938
-TECHM		-0.69		1074.0		738118
-TITAN		0.74		2929.4		257216
-GRASIM		0.42		1780.0		199804
-MARUTI		0.38		9631.0		177217
+BHARTIARTL		0.02		829.9		1608510
+TECHM		-0.72		1073.7		739934
+TITAN		0.73		2929.35		257658
+MARUTI		0.37		9630.75		177493
 
 Bullish_Hammer_15m_N500								 
 ======================= 
