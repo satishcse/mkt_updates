@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.2		567.3		3536047
-SUNPHARMA		-0.08		987.65		1104879
-UPL		1.34		689.9		930997
-TITAN		0.72		2928.8		261737
-MARUTI		0.23		9616.75		185740
-ULTRACEMCO		0.33		8360.8		96389
+TATAMOTORS		-0.23		567.15		3549816
+UPL		1.34		689.95		932442
+TITAN		0.69		2928.05		262654
+MARUTI		0.25		9618.9		186608
+ULTRACEMCO		0.35		8362.0		96735
 
 Bullish_Hammer_15m_N500								 
 ======================= 
