@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.32		566.65		4403725
-ADANIPORTS		0.45		742.85		3021678
-COALINDIA		0.18		229.0		2214546
-NESTLEIND		0.08		22984.75		23018
+TATAMOTORS		-0.33		566.6		4408552
+ADANIPORTS		0.39		742.4		3032622
+COALINDIA		0.18		229.0		2222059
+NESTLEIND		0.12		22994.05		23021
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJHLDNG		-0.87		6927.1		6699
+BAJAJHLDNG		-0.87		6927.1		6717
