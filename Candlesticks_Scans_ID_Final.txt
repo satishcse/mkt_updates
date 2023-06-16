@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.43		742.65		3157692
-ONGC		-0.22		157.3		3146520
-NTPC		0.46		187.55		2981440
-COALINDIA		0.15		228.95		2826658
-POWERGRID		-0.63		244.9		1960269
-LT		0.19		2365.85		658548
-NESTLEIND		0.12		22992.95		23279
+ONGC		-0.22		157.3		3149886
+NTPC		0.48		187.6		2982892
+COALINDIA		0.13		228.9		2830964
+POWERGRID		-0.67		244.8		1964575
+LT		0.21		2366.3		659251
+NESTLEIND		0.13		22996.05		23288
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CHOLAHLDNG		-0.38		884.3		32795
