@@ -6,11 +6,12 @@ Hanging_Man_N100,,,,
 Bullish_Hammer_Daily_N50,,,, 
 ======================== 
 nsecode,per_chg,close,volume
-HCLTECH,0.47,1149,2410146
+HCLTECH,0.47,1148.95,2493875
 
 Bullish_Hammer_weekly_near_BB_N500,,,, 
 ================================== 
-
+nsecode,per_chg,close,volume
+CDSL,-0.68,1035.9,679615
 
 Wekly_NCPR_KGS,,,, 
 ============== 
@@ -69,9 +70,9 @@ LTTS,1.08,3877.8,243774
 PERSISTENT,-0.59,4954.9,234623
 POLYCAB,0.37,3572.0,205517
 RAMCOCEM,0.58,945.0,170348
-ALKEM,0.07,3396.75,70499
+ALKEM,0.07,3396.75,70474
 PAGEIND,0.47,38559.25,23778
-BOSCHLTD,-0.13,19000.0,22510
-MRF,-0.31,99771.1,8362
+BOSCHLTD,-0.13,19000.0,22463
+MRF,-0.31,99771.1,8361
 NIFTY,0.68,18814.55,0
 BANKNIFTY,0.97,43865.85,0
