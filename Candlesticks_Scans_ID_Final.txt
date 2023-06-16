@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.1		157.8		1468281
-NESTLEIND		0.8		23149.9		12204
+ONGC		0.06		157.75		1510248
+COALINDIA		0.26		229.2		642118
+NESTLEIND		0.76		23140.0		12465
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BASF		-0.32		2561.8		1835
+
