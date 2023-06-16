@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.44		114.25		20537322
-ITC		1.47		454.7		7907077
-HINDALCO		1.52		429.5		5130428
-KOTAKBANK		0.52		1842.95		2048496
+TATASTEEL		0.44		114.25		20571130
+ITC		1.5		454.8		7925192
+HINDALCO		1.51		429.45		5139611
+KOTAKBANK		0.57		1844.0		2057284
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUESTARCO		-0.17		1523.35		142991
+SHARDACROP		-1.37		542.9		96486
