@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		0.01		22968.2		63066
+SUNPHARMA		0.46		992.9		3223705
+LT		0.26		2367.45		1564659
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINFRA		-0.81		1267.9		26412
+ADANIENT		0.89		2507.7		4992470
+MEDANTA		-1.88		638.45		3537810
+HEG		-3.07		1589.0		2162061
+GRINFRA		0.45		1284.0		27014
