@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.06		584.25		559034
+TITAN		0.68		2927.85		108358
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GODREJPROP		-0.93		1555.0		180778
+CARBORUNIV		0.53		1245.25		50512
+GMMPFAUDLR		0.26		1460.0		12803
+BASF		0.04		2570.8		923
