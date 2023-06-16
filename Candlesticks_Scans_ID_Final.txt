@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.5		454.8		7987808
-HINDALCO		1.52		429.5		5158492
+INDUSINDBK		1.11		1311.55		2596267
+LT		0.28		2367.9		1024093
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHARDACROP		-1.35		543		96879
+
