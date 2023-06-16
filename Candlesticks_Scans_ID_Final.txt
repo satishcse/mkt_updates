@@ -10,5 +10,6 @@ ULTRACEMCO		0.28		8356.35		91105
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTTS		0.44		3853.05		142493
+LTTS		0.6		3859.4		143013
 TIMKEN		-0.82		3427.65		7191
+GARFIBRES		-0.44		3107.5		4689
