@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.71		244.7		1822316
-LT		0.28		2367.8		553337
-TITAN		0.72		2929.0		293972
-BAJAJ-AUTO		-1.9		4631.75		263352
-NESTLEIND		0.12		22992.95		21289
+SUNPHARMA		0.16		990.0		1429649
+ULTRACEMCO		0.07		8339.1		118472
 
 Bullish_Hammer_15m_N500								 
 ======================= 
