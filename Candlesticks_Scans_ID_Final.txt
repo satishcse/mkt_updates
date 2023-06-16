@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.68		386.3		2124128
-INDUSINDBK		0.25		1300.4		773343
-UPL		1.24		689.25		591766
+WIPRO		-0.66		386.4		2129773
+ADANIPORTS		0.43		742.7		827104
+INDUSINDBK		0.29		1300.85		781542
+TCS		-0.92		3186.8		660900
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVRINOX		-0.03		1498.4		310814
-PERSISTENT		-0.71		4948.8		87098
+PVRINOX		0.01		1498.9		311059
+PERSISTENT		-0.61		4953.85		87482
