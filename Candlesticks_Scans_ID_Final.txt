@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		0.7		114.55		5641730
+ADANIPORTS		0.46		742.9		431132
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATACHEM		0.64		964.6		294578
-OFSS		2.13		3933.95		112271
-VMART		-0.14		2130.0		7657
+
