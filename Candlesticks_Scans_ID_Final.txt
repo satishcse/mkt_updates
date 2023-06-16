@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.26		114.05		10281073
-ONGC		0.03		157.7		1921493
-BPCL		-0.96		375.25		660788
-SBILIFE		1.1		1254.75		283852
-TITAN		0.75		2929.95		216203
+TATASTEEL		0.22		114.0		10387546
+ONGC		0.03		157.7		1932158
+BPCL		-1.1		374.75		678645
+SBILIFE		1.16		1255.55		284389
+TITAN		0.75		2929.8		216984
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKEM		0.43		3409.0		42850
-ZYDUSWELL		-0.56		1497.9		13802
+BIRLACORPN		-1.25		1213.95		64619
+SUPREMEIND		-0.18		2999.1		8601
