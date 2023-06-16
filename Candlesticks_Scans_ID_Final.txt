@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.34		383.75		4328146
-ADANIPORTS		0.4		742.45		2916570
-COALINDIA		0.18		229.0		2171781
-INDUSINDBK		0.43		1302.65		2018685
-NESTLEIND		0.13		22995.3		22264
+ADANIPORTS		0.46		742.9		2926945
+INDUSINDBK		0.42		1302.6		2027542
+NESTLEIND		0.13		22995.35		22271
 
 Bullish_Hammer_15m_N500								 
 ======================= 
