@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		0.01		22969.2		61063
+NESTLEIND		0.01		22968.2		63066
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAND		0.07		1009.15		439854
-TATAELXSI		-2.05		7627.0		158448
-FLUOROCHEM		-0.21		3172.55		50426
-MRF		-0.15		99930.35		7572
+GLAND		0.15		1009.95		445882
