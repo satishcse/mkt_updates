@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.13		113.9		13534136
-COALINDIA		0.31		229.3		1187183
-TITAN		0.75		2929.85		257089
-MARUTI		0.39		9631.95		176903
+BHARTIARTL		0.02		829.9		1601938
+TECHM		-0.69		1074.0		738118
+TITAN		0.74		2929.4		257216
+GRASIM		0.42		1780.0		199804
+MARUTI		0.38		9631.0		177217
 
 Bullish_Hammer_15m_N500								 
 ======================= 
