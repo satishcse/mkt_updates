@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.95		452.35		4060513
-COALINDIA		0.18		229.0		1107897
-UPL		1.3		689.65		876703
+TATASTEEL		0.13		113.9		12322394
+ITC		0.98		452.5		4082120
+COALINDIA		0.26		229.2		1115193
+UPL		1.27		689.45		880016
+LT		0.18		2365.55		440814
+ULTRACEMCO		0.4		8366.2		86644
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AETHER		0.66		1005		10972
+CERA		-0.32		7869		4170
