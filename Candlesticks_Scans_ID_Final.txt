@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.74		2929.5		282220
-MARUTI		0.19		9612.95		213671
-NESTLEIND		0.12		22994.4		20652
+TITAN		0.75		2929.85		282334
+MARUTI		0.16		9610.1		214450
+NESTLEIND		0.12		22994.4		20694
 
 Bullish_Hammer_15m_N500								 
 ======================= 
