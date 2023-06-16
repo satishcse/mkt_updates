@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.13		113.9		12971298
-COALINDIA		0.26		229.2		1140402
-UPL		1.26		689.35		901254
-CIPLA		-0.1		997.2		480565
-TITAN		0.71		2928.7		250663
-ULTRACEMCO		0.44		8369.9		88467
+TATASTEEL		0.13		113.9		12988742
+UPL		1.31		689.75		903171
+TITAN		0.71		2928.7		251315
+ULTRACEMCO		0.28		8356.35		91105
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+LTTS		0.44		3853.05		142493
 TIMKEN		-0.82		3427.65		7191
-GARFIBRES		-0.58		3103.1		4683
