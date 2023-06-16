@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		1.0		2646.3		7633019
-ICICIBANK		0.26		929.0		4936942
-HCLTECH		-0.53		1137.55		690415
-GRASIM		0.36		1778.85		476444
+HDFC		1.02		2647.0		7638935
+ICICIBANK		0.22		928.6		4956813
+HCLTECH		-0.56		1137.2		693219
+GRASIM		0.36		1778.95		476796
 
 Bullish_Hammer_15m_N500								 
 ======================= 
