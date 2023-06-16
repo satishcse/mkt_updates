@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		1.04		2647.4		7619162
-HCLTECH		-0.47		1138.25		688908
-EICHERMOT		-0.71		3509.7		301036
+HDFC		1.02		2646.85		7623005
+ADANIENT		0.58		2499.95		1452056
+HCLTECH		-0.48		1138.15		689638
+GRASIM		0.37		1779.0		476094
 
 Bullish_Hammer_15m_N500								 
 ======================= 
