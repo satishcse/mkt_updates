@@ -10,12 +10,12 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-HDFCLIFE		3.52		598.5		2965974
-UBL		1.02		1504.45		237794
-M&MFIN		0.9		296.75		788758
-BAJFINANCE		0.72		7178.05		500541
-MARICO		0.46		547.9		620692
-NAVINFLUOR		0.42		4651.55		42058
+HDFCLIFE		3.64		599.2		2984022
+UBL		1.03		1504.65		238700
+M&MFIN		0.9		296.75		789479
+BAJFINANCE		0.77		7181.2		501501
+NAVINFLUOR		0.6		4659.75		42194
+MARICO		0.47		547.95		620822
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -41,19 +41,17 @@ ATUL		0.76		7050.0		22663
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-HDFC		0.86		2642.65		2927480
-IBULHSGFIN		1.06		114.35		2252926
+
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-GMRINFRA		-0.12		43.2		2115391
-HEROMOTOCO		-0.24		2836.15		569460
-DABUR		-0.45		566.5		466884
-PERSISTENT		-0.85		4942.0		125986
-AUROPHARMA		-1.23		677.0		513904
-GODREJCP		-2.59		1049.8		537830
+GMRINFRA		-0.12		43.2		2117896
+HEROMOTOCO		-0.27		2835.35		573450
+DABUR		-0.54		565.95		470183
+PERSISTENT		-0.85		4942.0		126549
+AUROPHARMA		-1.23		677.0		516631
+GODREJCP		-2.57		1049.95		561129
 
 Open_Low								 
 ======== 
