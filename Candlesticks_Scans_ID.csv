@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TITAN,0.72,2928.8,298425
-ULTRACEMCO,0.04,8336.6,120742
-NESTLEIND,0.15,23000.0,21622
+TITAN,0.74,2929.5,299008
+ULTRACEMCO,-0.03,8331.0,122092
+NESTLEIND,0.15,23000.0,21670
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-PVRINOX,-1.29,1479.45,648753
-SANOFI,0.15,6951.75,5226
+SANOFI,0.21,6955.95,5239
