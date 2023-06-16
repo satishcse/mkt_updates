@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.63		2926.45		109305
+TITAN		0.63		2926.4		114372
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		0.23		1633.0		358647
-SHREECEM		0.34		26235.4		6895
+TATACOMM		0.16		1631.85		366944
+GMMPFAUDLR		0.26		1460.0		14012
