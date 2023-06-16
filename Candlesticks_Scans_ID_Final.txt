@@ -8,4 +8,6 @@ TITAN		0.68		2927.7		233406
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AUROPHARMA		-0.95		678.9		478439
+JKLAKSHMI		-2.65		722.0		188216
