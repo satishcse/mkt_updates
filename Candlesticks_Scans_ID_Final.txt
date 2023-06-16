@@ -1,7 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BPCL		-0.86		375.65		832065
+TITAN		0.73		2929.35		278874
 
 Bullish_Hammer_15m_N500								 
 ======================= 
