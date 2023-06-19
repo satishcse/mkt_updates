@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.92		740.55		2310114
-TECHM		1.17		1089.85		1476864
-TATACONSUM		0.19		864.4		630318
-DRREDDY		0.05		4917.5		408069
+COALINDIA		-0.53		227.35		3473317
+ADANIPORTS		-0.92		740.5		2321002
+TATACONSUM		0.15		864.05		630914
+DRREDDY		0.07		4918.4		408589
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.45		3522.8		146579
+AUBANK		-0.58		774.25		340762
