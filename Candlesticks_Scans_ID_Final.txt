@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-1.58		966.0		6625582
-TATAMOTORS		-0.14		569.0		3714187
-JSWSTEEL		-0.27		774.0		760641
-DRREDDY		0.16		4922.8		442625
+COALINDIA		-0.48		227.45		3710431
+TATACONSUM		0.03		863.05		655321
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		0.0		3171.95		34321
 PFIZER		0.2		3863.7		30226
