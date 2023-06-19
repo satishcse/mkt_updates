@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.08		775.45		583790
-HCLTECH		-0.52		1142.2		578518
-HINDUNILVR		-0.98		2689.0		470612
-MARUTI		-0.37		9567.9		213122
+RELIANCE		-1.06		2550.0		1672163
+JSWSTEEL		-0.07		775.55		584529
+HCLTECH		-0.5		1142.5		579044
+HINDUNILVR		-0.98		2689.1		472516
+MARUTI		-0.31		9573.95		213337
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		-0.41		2686.75		162357
-BBTC		-1.62		1039.2		54633
-BLUESTARCO		-0.07		1528.6		48259
+BLUESTARCO		-0.08		1528.45		48344
+AMBER		0.08		2128.65		16453
