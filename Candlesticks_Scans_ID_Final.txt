@@ -8,7 +8,4 @@ DRREDDY		0.17		4923.55		421836
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PIDILITIND		-0.66		2680.0		189615
-SHARDACROP		-0.86		538.5		88343
-BRIGADE		0.27		582.95		63315
+
