@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.26		454.3		1203084
-ADANIPORTS		-0.5		743.7		515087
-SUNPHARMA		0.75		999.4		219102
+ITC		0.28		454.35		1206059
+ADANIPORTS		-0.48		743.85		528882
+SUNPHARMA		0.71		999.05		220776
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		0.35		1608.3		2332747
-SAPPHIRE		-1.25		1379.8		6551
+TEAMLEASE		0.46		2398.0		6858
+SAPPHIRE		-1.23		1380.1		6715
+THERMAX		0.09		2394.85		1969
