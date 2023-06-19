@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GESHIP		-1.36		744.65		95304
-INDIGOPNTS		0.42		1424.0		39614
+ADANIENT		-1.23		2478.8		978042
+DIVISLAB		0.19		3586.4		90578
+INDIGOPNTS		0.39		1423.55		39768
+COFORGE		-0.48		4572.25		28371
