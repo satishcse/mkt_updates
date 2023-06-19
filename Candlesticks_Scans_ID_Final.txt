@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.26		113.95		16444556
-M&M		0.51		1411.05		932741
+TATASTEEL		-0.26		113.95		16486194
+M&M		0.57		1411.9		933678
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHARDACROP		-0.53		540.25		86253
+JINDWORLD		-0.09		337.95		9631
