@@ -2,17 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-4.5		2396.75		5342468
-POWERGRID		-1.4		243.0		5103064
-ADANIPORTS		-1.71		734.6		3898490
-ITC		0.13		453.7		3272603
-DIVISLAB		0.25		3588.65		259195
-BAJAJ-AUTO		-0.93		4599.0		137672
+CIPLA		0.64		1012.45		716156
+MARUTI		-0.38		9567.25		292206
+BRITANNIA		-0.16		5036.75		163647
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AUROPHARMA		-0.1		681.95		1677417
-EICHERMOT		-0.96		3505.0		224593
-ALKEM		-0.39		3385.75		158934
-TRENT		-0.71		1702.0		151550
+
