@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.67		2974.0		1215021
-SUNPHARMA		1.13		1003.2		1094684
-BAJFINANCE		2.33		7371.0		963517
-GRASIM		-0.88		1765.0		451557
-BAJAJ-AUTO		-1.03		4594.35		163835
+TITAN		0.64		2973.3		1216733
+SUNPHARMA		1.13		1003.25		1098745
+BAJFINANCE		2.33		7370.85		965685
+GRASIM		-0.9		1764.75		452072
+BAJAJ-AUTO		-1.05		4593.25		163934
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-1.29		962.5		345883
+FINEORG		-0.44		4895.85		21284
