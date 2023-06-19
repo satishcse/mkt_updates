@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BIRLACORPN		-0.78		1190.0		96703
-BAYERCROP		0.05		4252.0		74281
+BIRLACORPN		-0.78		1190.0		96576
+BAYERCROP		0.05		4252.0		74279
 APARINDS		0.41		3136.15		39978
