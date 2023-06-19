@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.94		740.35		2190916
-ONGC		0.41		157.65		2025972
-INFY		-0.05		1291.05		1875658
-CIPLA		0.53		1011.4		496271
-ULTRACEMCO		-0.52		8290.0		88461
-BAJAJ-AUTO		-0.63		4612.5		74826
+ADANIPORTS		-0.94		740.35		2202105
+ONGC		0.45		157.7		2026970
+INFY		-0.04		1291.1		1884422
+CIPLA		0.48		1010.9		497360
+BAJAJ-AUTO		-0.6		4614.0		74997
 
 Bullish_Hammer_15m_N500								 
 ======================= 
