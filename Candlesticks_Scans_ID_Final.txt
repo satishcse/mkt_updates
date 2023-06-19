@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.67		2974.05		1211054
-SUNPHARMA		1.35		1005.35		1071776
-HEROMOTOCO		-1.53		2788.8		554477
-BAJAJ-AUTO		-0.93		4598.95		162617
+TITAN		0.65		2973.6		1212099
+SUNPHARMA		1.33		1005.2		1073307
+GRASIM		-0.76		1767.15		442090
+BAJAJ-AUTO		-0.94		4598.35		163148
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-4.48		2397.1		7732486
-ADANIGREEN		-1.27		962.7		345262
+ADANIGREEN		-1.26		962.8		345596
