@@ -5,12 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ICICIBANK		-0.19		932.4		970693
-BHARTIARTL		-0.02		837.65		263102
-METROPOLIS		1.17		1368.0		51770
-GSPL		-0.58		300.0		38874
-COROMANDEL		0.06		937.15		17531
-GMMPFAUDLR		1.65		1520.8		13242
-BLUESTARCO		1.3		1549.5		9881
-FLUOROCHEM		0.71		3194.45		5852
+
