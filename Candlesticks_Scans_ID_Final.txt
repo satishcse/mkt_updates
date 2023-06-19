@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		0.62		23110		7276
+NESTLEIND		0.56		23096.8		7328
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKLAKSHMI		0.43		729.05		37908
-CRISIL		-0.82		3852.6		2663
+RELIANCE		-0.49		2564.75		603274
+HDFC		0.45		2662.3		367429
+MARUTI		0.07		9610.0		89500
+NAUKRI		0.02		4417.95		71609
+UBL		0.24		1515.8		55963
+BALAMINES		0.67		2276.3		11505
+CRISIL		-0.76		3854.8		2677
