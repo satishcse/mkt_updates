@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.64		1012.45		716156
-MARUTI		-0.38		9567.25		292206
-BRITANNIA		-0.16		5036.75		163647
+CIPLA		0.67		1012.8		716382
+MARUTI		-0.33		9572.1		293085
+BRITANNIA		-0.17		5035.9		163898
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POLYPLEX		-0.71		1348		176917
