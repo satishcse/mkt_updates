@@ -20,13 +20,16 @@ BALKRISIND		-0.68		2352.95		155286
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		-0.43		4894.0		516974
-PIIND		-1.51		3845.35		121046
-BATAINDIA		0.61		1626.0		117753
+DRREDDY		-0.48		4891.65		518113
+MFSL		-0.85		684.25		442176
+PIIND		-1.39		3850.05		122751
+BATAINDIA		0.61		1626.0		118106
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+DRREDDY		-0.43		4894		516974
+BATAINDIA		0.61		1626		117753
 
 Open_High								 
 ========= 
@@ -48,9 +51,9 @@ INDHOTEL		-2.13		394.65		2118373
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-IEX		1.99		128.3		11156678
-ASTRAL		0.7		1973.95		399040
-ZYDUSLIFE		0.34		552.95		703509
-SYNGENE		0.19		743.8		180302
-AUROPHARMA		-0.36		680.15		1357162
-HINDALCO		-0.53		424.7		3232326
+IEX		1.95		128.25		11161570
+ASTRAL		0.71		1974.0		399301
+ZYDUSLIFE		0.31		552.75		704753
+SYNGENE		0.17		743.65		180851
+AUROPHARMA		-0.32		680.45		1362210
+HINDALCO		-0.61		424.35		3237413
