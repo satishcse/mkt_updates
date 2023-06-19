@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-AXISBANK,-1.6,965.85,8083447
-ADANIPORTS,-1.64,735.15,3785489
-ONGC,0.67,158.05,3228872
+POWERGRID,-1.42,242.95,4950089
+ADANIPORTS,-1.73,734.45,3794492
+ONGC,0.67,158.05,3234456
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+EICHERMOT,-1.1,3500.0,212761
+SUPREMEIND,-0.35,2998.6,28118
