@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.52		3191.55		691900
-MARUTI		-0.34		9571.0		210647
+HINDUNILVR		-0.95		2689.85		460380
+MARUTI		-0.34		9571.0		211092
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-0.7		1904.85		358237
+HAVELLS		-1.05		1336.65		186278
+PIDILITIND		-0.55		2682.95		151185
