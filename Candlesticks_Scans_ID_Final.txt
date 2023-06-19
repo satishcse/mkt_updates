@@ -2,8 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.97		4597.1		172536
+TATASTEEL		-0.13		114.1		32508035
+APOLLOHOSP		-0.97		5149.65		314931
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TATACONSUM		-0.67		857.0		1271295
+ELGIEQUIP		0.0		534.25		271183
+CEATLTD		-1.42		2047.0		177861
+SCHAEFFLER		-0.43		3170.95		147160
+AETHER		-0.02		997.3		90125
+FLUOROCHEM		-0.22		3165.0		50375
+CAMS		-0.84		2178.5		38010
+INGERRAND		-0.05		2901.9		26698
