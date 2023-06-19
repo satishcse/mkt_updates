@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		0.59		23105.1		6906
+NESTLEIND		0.53		23090.1		6936
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-0.19		1252.35		74430
-BALAMINES		0.64		2275.7		10024
-CRISIL		-0.92		3848.75		2508
+HDFC		0.36		2659.9		330361
+BALAMINES		0.64		2275.55		10237
