@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.13		114.1		14034871
-HDFC		0.48		2663.2		2546335
-INFY		-0.06		1290.85		1629446
-HCLTECH		-0.45		1143.0		561957
-UPL		-0.89		684.7		477366
-HINDUNILVR		-0.96		2689.65		463455
+INFY		-0.09		1290.45		1638714
+JSWSTEEL		-0.13		775.1		582730
+HCLTECH		-0.46		1142.95		574189
+HINDUNILVR		-1.0		2688.55		466731
+MARUTI		-0.39		9565.8		212571
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		-0.59		2681.9		154328
+PIDILITIND		-0.54		2683.0		160347
+ULTRACEMCO		-0.57		8286.1		85370
