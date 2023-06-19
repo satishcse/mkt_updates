@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.08		376.5		678881
-TCS		0.37		3186.5		652176
+BAJAJFINSV		1.23		1527.1		2110070
+BPCL		-0.19		376.1		682241
+TCS		0.38		3186.85		653009
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DMART		-2.73		3974		408573
+BLUESTARCO		0.02		1530		41090
