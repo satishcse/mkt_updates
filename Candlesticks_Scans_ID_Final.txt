@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		0.29		157.45		987501
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		0.36		1423.15		39259
-COFORGE		-0.45		4573.65		28213
+GESHIP		-1.36		744.65		95304
+INDIGOPNTS		0.42		1424.0		39614
