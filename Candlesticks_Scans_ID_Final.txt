@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANITRANS		-0.18		809.45		746976
-SONATSOFTW		-0.55		1012.8		129969
-JKCEMENT		0.22		3372.0		89900
-3MINDIA		0.02		27937.0		482
+JKCEMENT		0.19		3370.9		89996
+3MINDIA		0.02		27937.0		487
