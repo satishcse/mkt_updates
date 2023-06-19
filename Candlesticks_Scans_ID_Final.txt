@@ -6,10 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CDSL		0.34		1038.4		495773
-AARTIIND		-0.38		517.35		311004
-BALKRISIND		-0.51		2357.0		150181
-CEATLTD		0.02		2076.8		128357
-BLUESTARCO		-0.1		1528.1		64497
-KAJARIACER		-0.1		1288.8		62314
-WHIRLPOOL		-0.98		1453.2		25291
+CDSL		0.35		1038.5		497379
+JUSTDIAL		-0.67		763.95		148086
