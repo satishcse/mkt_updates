@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.5		227.4		3276355
-ADANIPORTS		-0.94		740.35		2050301
-ONGC		0.38		157.6		1975297
-TECHM		0.76		1085.4		1337639
-TCS		0.58		3193.2		741997
-HINDUNILVR		-0.94		2690.0		485679
+COALINDIA		-0.55		227.3		3284543
+ADANIPORTS		-0.98		740.1		2071995
+ONGC		0.35		157.55		1982359
+TECHM		0.8		1085.85		1343125
+TCS		0.57		3193.0		749518
+HINDUNILVR		-0.97		2689.3		487967
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ALKYLAMINE		0.17		2753.9		17696
