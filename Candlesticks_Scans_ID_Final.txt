@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.9		186.5		1380663
-TCS		0.28		3183.8		625231
-SBILIFE		-0.04		1280.9		314674
+NTPC		-0.9		186.5		1386754
+TCS		0.27		3183.6		626532
+SBILIFE		-0.03		1281.0		316720
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NH		-1.76		1017		88612
+LODHA		0.21		625.5		602590
