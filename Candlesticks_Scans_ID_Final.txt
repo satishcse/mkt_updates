@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		-0.19		5035		156180
+WIPRO		-0.58		379.1		4217279
+ADANIENT		-4.58		2394.55		4078699
+BRITANNIA		-0.19		5035.05		156563
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-1.58		1576.25		235942
-TIINDIA		-0.17		2983.6		205014
-PAGEIND		-0.12		38523.75		8345
+TIINDIA		-0.12		2985.1		205297
+PAGEIND		-0.12		38523.85		8346
