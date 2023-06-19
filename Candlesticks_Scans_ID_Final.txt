@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		1.34		7300.0		417608
-SUNPHARMA		0.59		997.85		350187
+HINDALCO		0.52		429.15		1774700
+ONGC		0.45		157.7		1480361
+BAJFINANCE		1.14		7285.05		422671
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHREECEM		-0.12		26181		11911
