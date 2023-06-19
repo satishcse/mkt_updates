@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.45		157.7		2401674
-TITAN		0.87		2980.0		1010165
-EICHERMOT		-0.41		3524.5		164622
+ONGC		0.41		157.65		2409416
+TITAN		0.87		2980.0		1010755
+EICHERMOT		-0.39		3525.0		164979
 
 Bullish_Hammer_15m_N500								 
 ======================= 
