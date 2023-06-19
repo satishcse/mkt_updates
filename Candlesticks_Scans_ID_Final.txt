@@ -2,14 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.74		226.85		5528914
-ADANIENT		-4.41		2399.0		4621542
-HDFC		0.06		2652.15		3995929
-HCLTECH		-0.94		1137.4		994111
-BAJAJ-AUTO		-0.94		4598.45		133452
+ADANIPORTS		-1.62		735.3		3765589
+ONGC		0.76		158.2		3197101
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ROUTE		-0.12		1572.45		113992
-GOCOLORS		-0.2		1128.2		90091
+
