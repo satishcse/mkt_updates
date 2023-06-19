@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.58		379.1		4213891
-ADANIENT		-4.58		2394.55		4078699
-BRITANNIA		-0.19		5035.05		156563
+WIPRO		-0.55		379.2		4217959
+ADANIENT		-4.57		2394.9		4104477
+NTPC		-1.2		185.95		3988264
+BRITANNIA		-0.17		5036.35		156799
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		0.06		1418.85		57955
+TIINDIA		0.03		2989.5		206024
+KFINTECH		-1.18		359.8		187421
