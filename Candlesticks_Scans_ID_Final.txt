@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-1.63		965.6		6605503
-TATAMOTORS		-0.06		569.45		3691139
-JSWSTEEL		-0.32		773.6		754060
-HEROMOTOCO		-1.15		2799.55		451018
-DRREDDY		0.14		4921.9		440774
+AXISBANK		-1.58		966.05		6616846
+TATAMOTORS		-0.1		569.25		3698414
+JSWSTEEL		-0.28		773.9		757959
+HEROMOTOCO		-1.15		2799.5		452096
+DRREDDY		0.16		4922.85		442303
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 HCLTECH		-0.74		1139.65		834861
-PFIZER		0.2		3863.7		30226
+PFIZER		0.2		3863.7		30236
