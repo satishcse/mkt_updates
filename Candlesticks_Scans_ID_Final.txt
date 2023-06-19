@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-1.84		878.65		4056188
-ADANIENT		-4.54		2395.55		3434854
-EICHERMOT		-0.76		3511.9		186030
-BOSCHLTD		-0.18		18961.0		4234
+HDFCAMC		-1.09		1897.3		523769
+EICHERMOT		-0.78		3511.45		186531
+BALKRISIND		-0.5		2357.2		148482
+PIIND		-1.16		3859.35		109376
+BOSCHLTD		-0.15		18967.5		4239
