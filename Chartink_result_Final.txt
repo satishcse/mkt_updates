@@ -10,25 +10,26 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-HDFCAMC		9.22		2067.0		5227137
-PEL		5.64		837.9		4388476
-RECLTD		2.63		157.9		9758697
-MFSL		2.11		703.9		835018
-TECHM		1.17		1106.35		2364130
-IBULHSGFIN		1.15		114.2		8279188
-IEX		0.85		129.85		17036597
-TATAPOWER		0.83		225.0		9591602
-VEDL		0.62		282.3		4807109
-INDIGO		0.44		2443.0		1005213
+HDFCAMC		9.38		2070.0		5336226
+PEL		5.6		837.65		4400185
+RECLTD		2.73		158.05		10058132
+MFSL		2.13		704.0		838799
+IBULHSGFIN		1.2		114.25		8287402
+TECHM		1.14		1106.05		2374976
+IEX		0.89		129.9		17051284
+TATAPOWER		0.83		225.0		9622238
+VEDL		0.61		282.25		4816137
+INDIGO		0.36		2441.15		1007508
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		9.22		2067		5227137
+HDFCAMC		9.11		2064.9		5255876
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+LAURUSLABS		0.15		365.05		941625
 
 Open_High								 
 ========= 
