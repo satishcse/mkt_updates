@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.35		2409.85		2142912
-BAJAJ-AUTO		1.27		4655.85		389128
+TATAMOTORS		3.07		583.45		15926743
+ADANIENT		0.27		2408.0		2151025
+LT		0.54		2379.2		1533835
+UPL		-0.38		683.0		1276949
+BAJAJ-AUTO		1.25		4655.0		391125
 
 Bullish_Hammer_15m_N500								 
 ======================= 
