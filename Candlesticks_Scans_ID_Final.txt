@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.64		565.2		8927934
+SBIN		-0.66		565.1		8936743
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-0.16		1447.25		17011
+WHIRLPOOL		-0.16		1447.25		16075
