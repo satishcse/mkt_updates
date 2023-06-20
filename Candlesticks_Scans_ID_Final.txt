@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+KOTAKBANK		0.08		1826		961412
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAUKRI		-0.61		4414.75		64351
-MASTEK		-0.47		1971.95		13836
-DCMSHRIRAM		0.02		860.45		4310
+NAUKRI		-0.55		4417.4		64577
