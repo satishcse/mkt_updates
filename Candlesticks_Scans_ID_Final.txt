@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.96		638.8		7350834
-WIPRO		0.87		383.45		3541129
-RELIANCE		-0.4		2541.6		1345313
-DRREDDY		0.61		4909.0		122927
+WIPRO		0.88		383.5		3543300
+RELIANCE		-0.4		2541.6		1346939
 
 Bullish_Hammer_15m_N500								 
 ======================= 
