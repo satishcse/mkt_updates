@@ -1,16 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		0.93		245.35		1960033
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		-0.15		3205.55		447601
-TATACONSUM		-0.85		849.75		277165
-HEG		-1.28		1611.0		227026
-ALKEM		-0.29		3392.75		50906
-COLPAL		-0.24		1645.55		39953
-PIIND		-0.44		3837.1		34019
-AJANTPHARM		-1.06		1458.45		7593
+DIXON		-1.06		4606.0		478173
+ULTRACEMCO		-0.88		8196.25		64703
+TORNTPOWER		-0.8		667.85		60292
+COLPAL		-0.21		1646.05		40046
+DALBHARAT		-0.44		2232.5		39584
