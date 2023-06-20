@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.37		226.3		959332
-HCLTECH		-0.06		1136.9		210056
-CIPLA		0.37		1014.95		177742
+SBIN		-0.31		567.1		1478244
+HCLTECH		-0.12		1136.2		240959
+CIPLA		0.31		1014.35		186679
+GRASIM		0.13		1763.55		38454
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCIEXP		-0.02		1638		1540
+SONATSOFTW		0.13		1016.85		135005
+BBTC		-0.39		1039.0		12746
+BAJAJELEC		-0.43		1223.85		10877
+TATAINVEST		-0.84		2392.4		9579
