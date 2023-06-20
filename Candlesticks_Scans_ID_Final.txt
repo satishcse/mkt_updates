@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.74		994.4		798329
+SBIN		-0.45		566.3		8564182
+UPL		-0.36		683.15		1078787
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANURAS		-1.01		1070.4		174844
+KSB		-0.79		2160.9		9615
