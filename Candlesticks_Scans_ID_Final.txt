@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKEM		0.43		3417.3		39468
-JKLAKSHMI		-0.28		724.0		37173
-BAJAJHLDNG		-0.7		6941.0		3111
-GARFIBRES		-0.02		3180.0		1638
+TCS		-0.16		3205.2		229079
+PIIND		-0.36		3840.0		30360
