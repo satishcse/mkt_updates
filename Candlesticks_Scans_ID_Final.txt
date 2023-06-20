@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.31		114.45		17011816
-ICICIBANK		-0.81		915.65		6593754
+TATASTEEL		0.31		114.45		17215096
+ICICIBANK		-0.82		915.55		6613803
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-0.53		3148		24446
+KPIL		-1.35		536.5		94655
+FLUOROCHEM		-0.53		3147.85		24470
