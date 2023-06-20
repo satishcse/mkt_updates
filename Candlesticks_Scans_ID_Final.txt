@@ -1,11 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+RELIANCE		-0.42		2541		700063
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BRIGADE		-1.32		588.85		33341
-ANURAS		-0.49		1075.95		23604
+BRIGADE		-1.32		588.85		33377
+SHOPERSTOP		-0.6		798.15		33356
+ANURAS		-0.51		1075.75		23166
 TCIEXP		-0.94		1622.95		6053
