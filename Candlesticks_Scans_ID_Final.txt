@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INFY		0.54		1300.95		3133157
+ADANIENT		0.35		2409.8		2136739
+BAJFINANCE		-2.01		7238.0		668589
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KAJARIACER		0.05		1289.95		92337
+
