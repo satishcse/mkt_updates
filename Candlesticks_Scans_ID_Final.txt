@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.61		1301.9		2874757
-BHARTIARTL		0.08		828.8		1909819
-RELIANCE		-0.19		2547.0		1885022
+TATASTEEL		0.31		114.45		24272914
+INFY		0.61		1301.85		2898106
+BHARTIARTL		0.04		828.5		1924145
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MFL		-1.67		1135.7		99608
-GALAXYSURF		0.0		2848.0		11916
+
