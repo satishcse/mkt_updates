@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		1.54		246.85		3250436
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-0.13		3525		123101
+CHOLAFIN		-1.1		1119.8		375212
+POLYCAB		-0.11		3525.85		123321
