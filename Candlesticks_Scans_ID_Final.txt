@@ -8,12 +8,4 @@ UPL		-0.74		680.5		350829
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CONCOR		-4.52		631.1		1231072
-DIXON		-0.86		4615.0		487650
-TCS		-0.13		3206.35		453956
-TATACONSUM		-0.85		849.75		281686
-ULTRACEMCO		-0.9		8194.0		65421
-COLPAL		-0.19		1646.3		40145
-MTARTECH		-0.38		1940.9		38021
-PIIND		-0.33		3841.15		34250
+
