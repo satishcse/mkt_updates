@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.08		186.0		1769508
-ASIANPAINT		-0.61		3289.5		310016
+NTPC		0.08		186.0		1772421
+ASIANPAINT		-0.6		3289.85		310619
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANURAS		-0.56		1075.2		43843
+ANURAS		-0.56		1075.2		43917
