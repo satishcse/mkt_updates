@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.62		565.3		8852335
-POWERGRID		1.91		247.75		4671974
-ADANIPORTS		-0.35		733.1		4468173
-UPL		-0.38		683.0		1082899
+SBIN		-0.67		565.05		8887619
+POWERGRID		1.97		247.9		4682031
+ADANIPORTS		-0.35		733.05		4485649
+UPL		-0.37		683.05		1092755
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJELEC		-1.31		1213		37710
