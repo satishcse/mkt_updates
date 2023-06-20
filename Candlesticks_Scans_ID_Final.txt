@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+LT		0.53		2378.95		894719
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJELEC		-1.57		1209.8		42211
-ZFCVINDIA		-0.88		11880.75		10945
+BAJAJELEC		-1.59		1209.55		42282
+ZFCVINDIA		-0.88		11880.85		11006
