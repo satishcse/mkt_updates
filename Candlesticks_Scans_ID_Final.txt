@@ -2,14 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.89		253.45		12015536
-ONGC		0.76		158.45		2685107
-WIPRO		0.69		385.15		2533534
-BPCL		0.31		373.6		639422
+SUNPHARMA		-0.11		990.9		656706
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SBILIFE		-0.45		1289.55		287815
-HOMEFIRST		-5.38		767.3		222168
-BAJAJHLDNG		-0.17		6989.25		9394
+
