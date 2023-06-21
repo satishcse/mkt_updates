@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.35		228.05		2487410
-BRITANNIA		0.17		5064.95		132576
+POWERGRID		2.09		253.95		12352093
+HDFC		0.9		2682.35		1838394
+BRITANNIA		0.16		5064.6		132768
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCIEXP		-0.17		1631.55		7282
+KSB		0.36		2172.1		6512
