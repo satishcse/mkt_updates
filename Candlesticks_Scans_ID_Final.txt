@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.53		113.65		27790860
-CIPLA		-0.11		1010.0		826211
+TATASTEEL		-0.61		113.55		27842632
+CIPLA		-0.11		1010.0		827051
+TITAN		-0.19		2968.4		354847
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRAPHITE		-0.87		418.0		1390069
-OLECTRA		-1.97		951.4		1084852
-AAVAS		0.72		1374.05		328110
+FACT		-0.9		413.0		5295857
+GODREJPROP		-0.9		1513.05		913540
+ULTRACEMCO		0.04		8246.8		301733
+SONATSOFTW		-1.25		1020.85		147187
+UBL		-0.86		1482.3		98642
