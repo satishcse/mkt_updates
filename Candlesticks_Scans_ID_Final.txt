@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		0.89		1067.9		1300712
-POLYCAB		-3.41		3421.7		384397
-PIDILITIND		-0.17		2673.95		257074
-JUSTDIAL		-0.74		774.95		127395
+KPITTECH		1.02		1069.25		1315598
+POLYCAB		-2.99		3436.7		395801
+PIDILITIND		-0.17		2674.0		270289
