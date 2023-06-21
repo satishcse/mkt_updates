@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.61		372.45		1208253
+BPCL		-0.61		372.45		1207938
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAND		-0.17		1022.0		300996
+GLAND		-0.17		1022.0		300994
 CCL		-0.96		653.5		157701
 METROBRAND		0.11		990.0		46313
-APARINDS		-1.81		3040.9		40019
+APARINDS		-1.81		3040.9		39965
 PFIZER		-1.14		3799.05		29216
