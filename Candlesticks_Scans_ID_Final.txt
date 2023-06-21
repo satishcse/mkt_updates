@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-COALINDIA		0.4		228.15		3810860
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CYIENT		-1.58		1473.0		403981
-POLYCAB		-3.66		3412.95		374294
+CYIENT		-1.58		1473.0		406609
+POLYCAB		-3.63		3414.0		381282
+JUSTDIAL		-0.77		774.7		126895
