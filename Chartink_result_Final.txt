@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-BRITANNIA		0.37		5075.1		162156
+BRITANNIA		0.3		5071.75		162467
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -24,15 +24,18 @@ NIFTY		0.19		18851.75		0
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-RECLTD		2.88		164.4		19774700
-CANBK		0.91		309.2		3990675
-PVRINOX		-1.21		1384.7		409082
-SIEMENS		0.2		3837.2		209169
-JKCEMENT		2.3		3440.0		57527
+RECLTD		2.85		164.35		19797490
+IDFC		-1.75		103.65		16731854
+PVRINOX		-1.16		1385.4		410835
+OBEROIRLTY		-1.4		1005.9		233088
+SIEMENS		0.22		3837.75		209459
+JKCEMENT		2.31		3440.3		57557
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+OBEROIRLTY		-1.4		1005.9		233088
+CANFINHOME		-0.33		748.75		180806
 
 Open_High								 
 ========= 
