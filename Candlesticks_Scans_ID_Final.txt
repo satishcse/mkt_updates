@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.3		922.75		4118841
-LT		0.76		2400.0		899576
-BRITANNIA		0.14		5063.65		130705
-BAJAJ-AUTO		0.17		4669.9		121462
+ICICIBANK		-0.34		922.4		4126688
+LT		0.76		2400.0		901779
+BRITANNIA		0.16		5064.7		131683
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ROUTE		-1.02		1625.45		181191
+ROUTE		-1.02		1625.45		181972
+TCIEXP		-0.35		1628.6		7182
