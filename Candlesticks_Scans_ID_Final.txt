@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.53		113.65		8524248
-BPCL		0.28		373.5		276795
+TATASTEEL		-0.48		113.7		8611204
+BPCL		0.2		373.2		285171
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BALAMINES		-0.76		2419		28689
