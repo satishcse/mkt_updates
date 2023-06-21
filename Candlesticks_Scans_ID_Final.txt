@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.03		991.7		1368390
+SUNPHARMA		-0.05		991.5		1380960
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRAPHITE		-1.03		417.3		1662485
-KPITTECH		0.43		1063.0		1441298
-JKLAKSHMI		-0.79		719.75		546383
-SONATSOFTW		-1.72		1016.0		193261
+GRAPHITE		-0.44		419.8		1709649
+KPITTECH		0.37		1062.4		1446022
+JKLAKSHMI		-0.78		719.8		547157
+SONATSOFTW		-1.73		1015.85		194543
