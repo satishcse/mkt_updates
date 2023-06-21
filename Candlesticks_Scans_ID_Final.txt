@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.08		567.85		2580548
-COALINDIA		0.35		228.05		858991
-ADANIENT		-0.26		2408.45		828323
-EICHERMOT		-0.23		3554.05		116577
+SBIN		0.04		567.65		2822724
+COALINDIA		0.35		228.05		866197
+ADANIENT		-0.13		2411.65		853945
+EICHERMOT		-0.29		3551.65		119026
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONATSOFTW		-0.56		1028		67535
+APOLLOHOSP		-1.05		5107.9		167334
