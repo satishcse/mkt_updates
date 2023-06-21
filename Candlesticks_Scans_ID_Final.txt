@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		0.04		4903.15		23358
+PVRINOX		-0.29		1397.6		77165
+GRINFRA		2.49		1297.0		53108
+ROUTE		-0.56		1633.0		49487
+DRREDDY		0.04		4903.05		24151
