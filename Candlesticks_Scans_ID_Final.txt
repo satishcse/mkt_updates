@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		0.83		2823.95		378381
+SUNPHARMA		0.1		992.9		1272490
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYPLY		0.14		631.15		76113
+KPITTECH		0.37		1062.4		1410661
+ALKYLAMINE		-1.93		2645.7		26256
