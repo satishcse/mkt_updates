@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		1.37		2694.9		2650159
-INDUSINDBK		-0.42		1293.0		787591
-UPL		0.31		685.6		485189
-ASIANPAINT		-0.11		3315.05		481579
+INDUSINDBK		-0.34		1294.0		789727
+UPL		0.35		685.85		487474
+ASIANPAINT		-0.16		3313.45		483820
+ULTRACEMCO		0.48		8282.85		252986
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-WESTLIFE		-1.68		854.55		63298
+
