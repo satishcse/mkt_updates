@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.13		8253.95		129634
+ULTRACEMCO		0.16		8257		130697
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-0.2		594.45		1428516
-HGS		0.15		1080.5		9636
-VMART		0.0		2100.0		8697
+HAL		-0.62		3825.0		606032
+TEJASNET		-1.72		741.5		386414
+CDSL		-0.48		1037.5		222984
+CENTURYPLY		0.14		631.15		38574
+NESTLEIND		-0.5		22840.9		17671
+TEAMLEASE		-0.3		2409.7		6882
