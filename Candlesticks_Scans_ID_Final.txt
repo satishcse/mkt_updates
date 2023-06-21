@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.1		3558.6		99709
-GRASIM		-0.23		1765.05		48044
+EICHERMOT		-0.06		3559.95		100787
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		0.32		4985.0		39260
-MFL		0.96		1140.9		22848
-FLUOROCHEM		-0.24		3141.3		17193
-SANOFI		0.46		6841.45		2611
+RAYMOND		0.3		1752.0		41538
+FLUOROCHEM		-0.32		3138.75		19295
+ENDURANCE		0.01		1568.35		4765
