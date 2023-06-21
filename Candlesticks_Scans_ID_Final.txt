@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TITAN		-0.37		2963		376153
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYPLY		-0.21		628.95		64292
-ABBOTINDIA		-1.44		22666.4		6381
+ABBOTINDIA		-1.44		22666.35		6399
