@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVRINOX		-0.37		1396.45		71797
-ROUTE		-0.6		1632.25		47911
-NESTLEIND		-0.09		22933.85		3940
-GARFIBRES		0.2		3163.15		629
+DRREDDY		0.04		4903.15		23358
