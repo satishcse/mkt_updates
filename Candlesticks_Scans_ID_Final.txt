@@ -1,8 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+EICHERMOT		-0.14		3556.95		91958
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MFL		0.62		1137		21269
+FLUOROCHEM		-0.28		3140		16311
