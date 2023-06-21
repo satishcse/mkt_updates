@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ITC,-1.17,447.55,3681266
-LT,0.75,2399.95,1291959
-TATACONSUM,0.13,860.05,1050487
-ASIANPAINT,-0.29,3309.0,539006
+ITC,-1.23,447.3,3758039
+LT,0.75,2399.75,1297394
+TATACONSUM,0.03,859.2,1054113
+ASIANPAINT,-0.29,3309.05,539683
+GRASIM,0.22,1772.95,226901
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+KIMS,0.75,1733.8,214523
