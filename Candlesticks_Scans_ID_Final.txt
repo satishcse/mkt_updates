@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		3.0		256.2		15937744
-NTPC		0.08		187.65		4314491
-BPCL		0.13		372.95		797749
-GRASIM		0.21		1772.8		226443
-BAJAJ-AUTO		-0.22		4651.85		204786
+ITC		-1.12		447.8		3668494
+TATACONSUM		0.18		860.45		1050214
+ASIANPAINT		-0.26		3310.0		538184
+BRITANNIA		0.47		5080.1		179569
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KSB		0.17		2167.95		7755
+KSB		0.17		2167.95		7763
