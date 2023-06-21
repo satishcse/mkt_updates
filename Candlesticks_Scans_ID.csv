@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BPCL,0.11,372.85,878087
-TITAN,-0.17,2968.85,362704
+BPCL,0.09,372.8,878142
+TITAN,-0.19,2968.4,363022
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HEG,-2.38,1661.45,526075
+THERMAX,-3.24,2275.95,65016
