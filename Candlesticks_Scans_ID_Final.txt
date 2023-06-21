@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.48		113.7		8937189
-BPCL		0.27		373.45		294144
+COALINDIA		0.4		228.15		848489
+BPCL		0.31		373.6		301806
+EICHERMOT		-0.06		3559.95		111422
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARUTI		-0.03		9489		66602
+ADANIENT		0.17		2419.0		775218
+LALPATHLAB		-1.0		2201.0		66977
+ASAHIINDIA		-1.21		489.3		20862
+CHALET		0.17		420.9		18792
