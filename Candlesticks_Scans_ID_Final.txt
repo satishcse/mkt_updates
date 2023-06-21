@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.19		568.5		7009369
-AXISBANK		-0.95		965.55		4261025
-NTPC		-0.11		187.3		3491542
-M&M		-0.83		1384.8		1045600
-INDUSINDBK		-0.38		1293.45		739197
-BAJAJ-AUTO		0.06		4665.0		172545
+SBIN		0.21		568.6		7039723
+AXISBANK		-0.95		965.55		4276969
+NTPC		-0.11		187.3		3523552
+INDUSINDBK		-0.45		1292.5		744841
+BAJAJ-AUTO		0.06		4665.0		173210
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.03		4663.2		172951
+JUBLPHARMA		-4.7		397.8		230419
+BAJAJ-AUTO		0.06		4665.0		173210
+PAGEIND		-0.65		38398.0		10376
