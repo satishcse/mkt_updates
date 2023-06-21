@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+JSWSTEEL		-1.88		758.65		2133104
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GARFIBRES		-0.85		3130.05		5146
+GARFIBRES		-0.85		3130.05		5148
