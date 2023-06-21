@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.48		113.7		8673830
-BPCL		0.24		373.35		288054
+TATASTEEL		-0.57		113.6		8869639
+BPCL		0.26		373.4		291868
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SBICARD		-0.33		890.85		128860
-MARUTI		-0.02		9490.0		64882
-BALAMINES		-0.72		2420.0		28805
-OFSS		0.03		3912.65		14352
+HDFCAMC		-1.57		2071.85		867029
+SBICARD		-0.3		891.1		132641
+MARUTI		0.0		9492.5		65546
+OFSS		0.03		3912.65		14384
