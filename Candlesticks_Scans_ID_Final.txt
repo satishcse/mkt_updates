@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.89		966.15		3934033
-M&M		-0.9		1383.9		1019439
-UPL		0.25		685.15		418819
+TATASTEEL		-0.61		113.55		18965215
+AXISBANK		-0.96		965.5		3978512
+M&M		-0.9		1383.9		1020630
+UPL		0.25		685.15		421781
 
 Bullish_Hammer_15m_N500								 
 ======================= 
