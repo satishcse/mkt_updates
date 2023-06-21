@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.86		966.5		4067459
-M&M		-0.86		1384.45		1027512
-UPL		0.31		685.55		432347
+AXISBANK		-0.9		966.1		4116605
+M&M		-0.82		1384.95		1028537
+UPL		0.3		685.5		434688
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TITAN		-0.38		2962.7		274785
-TATAELXSI		0.24		7789.0		104513
+TITAN		-0.27		2965.85		276866
