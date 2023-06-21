@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.12		447.8		3668494
-TATACONSUM		0.18		860.45		1050214
-ASIANPAINT		-0.26		3310.0		538184
-BRITANNIA		0.47		5080.1		179569
+ITC		-1.17		447.55		3681266
+LT		0.75		2399.95		1291959
+TATACONSUM		0.13		860.05		1050487
+ASIANPAINT		-0.29		3309.0		539006
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KSB		0.17		2167.95		7763
+
