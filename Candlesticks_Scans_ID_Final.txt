@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.48		113.7		19583096
-NTPC		-0.05		187.4		3449603
-HDFC		1.03		2685.9		2138552
-INDUSINDBK		-0.23		1295.45		714467
-APOLLOHOSP		-0.92		5114.5		277300
-BAJAJ-AUTO		0.17		4669.9		148442
+POWERGRID		2.47		254.9		13066152
+WIPRO		0.84		385.7		2754196
+INDUSINDBK		-0.23		1295.45		716269
+APOLLOHOSP		-0.92		5114.35		277514
+BAJAJ-AUTO		0.17		4669.7		148741
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAGEIND		-0.64		38400		10112
+JUBLPHARMA		-4.82		397.3		220826
+PAGEIND		-0.64		38400.0		10138
