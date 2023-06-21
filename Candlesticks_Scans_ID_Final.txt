@@ -12,4 +12,4 @@ Bullish_Hammer_15m_N500
 ======================= 
 nsecode		per_chg		close		volume
 SIEMENS		-0.35		3815.85		243271
-KSB		0.17		2167.95		7755
+KSB		0.17		2167.95		7763
