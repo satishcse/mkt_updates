@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-BRITANNIA		0.25		5069		155475
+BRITANNIA		0.27		5070		155560
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -24,8 +24,15 @@ NIFTY		0.19		18853.15		0
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BANKNIFTY		0.24		43870.1		0
-NIFTY		0.19		18853.15		0
+TATASTEEL		-0.31		113.9		21300607
+EXIDEIND		4.45		230.15		9329726
+HDFCBANK		1.55		1632.4		6425221
+RAIN		-0.09		171.6		997240
+HAL		-0.61		3825.1		746967
+GODREJPROP		-0.1		1525.35		725881
+GODREJCP		-1.02		1060.95		397597
+BANKNIFTY		0.24		43870.75		0
+NIFTY		0.19		18852.9		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -34,16 +41,16 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-TCS		0.46		3242.5		685830
-CANFINHOME		-0.17		749.9		169411
-GMRINFRA		-0.23		43.0		2442009
-NMDC		-0.28		106.9		4716423
-BHEL		-0.28		87.7		6943435
-TATASTEEL		-0.39		113.8		20917697
-COROMANDEL		-0.58		939.05		148585
-TRENT		-0.6		1709.05		166838
-AXISBANK		-0.88		966.25		4314390
-ABBOTINDIA		-1.18		22725.45		3552
+TCS		0.47		3242.75		686818
+CANFINHOME		-0.23		749.45		170486
+NMDC		-0.23		106.95		4717978
+GMRINFRA		-0.23		43.0		2442031
+BHEL		-0.28		87.7		6945471
+TATASTEEL		-0.31		113.9		21300607
+COROMANDEL		-0.56		939.25		148614
+TRENT		-0.6		1709.15		167695
+AXISBANK		-0.9		966.05		4319319
+ABBOTINDIA		-1.18		22724.85		3559
 
 Open_Low								 
 ======== 
