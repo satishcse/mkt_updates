@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		0.31		227.95		649773
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HEG		-0.35		1696.0		132323
-HOMEFIRST		1.27		821.2		20124
-GARFIBRES		0.29		3166.0		720
+
