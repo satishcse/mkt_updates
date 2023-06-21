@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ICICIBANK,-0.3,922.8,3982828
-WIPRO,0.67,385.05,2493812
+POWERGRID,2.25,254.35,11677150
+ONGC,0.83,158.55,2591443
+WIPRO,0.64,384.95,2501174
+ITC,-0.44,450.85,2023878
+BPCL,0.36,373.8,633881
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-BAJAJHLDNG,-0.16,6990,8764
+BAJAJHLDNG,-0.15,6991.15,8849
