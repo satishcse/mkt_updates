@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.57		2400.95		5046753
-NTPC		0.21		187.9		4248130
-BAJAJ-AUTO		-0.25		4650.35		201761
+NTPC		0.16		187.8		4250966
+BAJAJ-AUTO		-0.26		4649.8		201868
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KIMS		1.04		1738.85		212842
