@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.37		685.95		195507
-EICHERMOT		-0.09		3558.75		124614
+TATASTEEL		-0.48		113.7		10655281
+UPL		0.34		685.75		200629
+EICHERMOT		-0.12		3557.95		125188
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZFCVINDIA		0.73		11967.95		455
+BALAMINES		-1.58		2398.95		42249
+GALAXYSURF		1.04		2844.35		4045
