@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.1		1169.85		1578029
+HCLTECH		0.04		1169.15		1579028
+TITAN		-0.18		2968.65		356341
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PFIZER		-0.02		3798.3		8136
+
