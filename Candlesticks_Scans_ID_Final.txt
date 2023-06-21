@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.34		922.4		4089568
-ASIANPAINT		-0.15		3313.65		362220
-BRITANNIA		0.16		5064.3		129260
-BAJAJ-AUTO		0.13		4668.05		120145
-DRREDDY		0.48		4924.55		83933
+ICICIBANK		-0.33		922.5		4103365
+ASIANPAINT		-0.16		3313.5		364017
+BRITANNIA		0.15		5064.15		129787
+DRREDDY		0.47		4924.4		84495
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TCIEXP		-0.39		1628.05		7125
