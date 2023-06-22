@@ -1,14 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ULTRACEMCO		-0.09		8234.0		30334
-NESTLEIND		-0.45		22788.35		6791
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.72		1277.4		565324
-HOMEFIRST		-1.01		758.3		89747
-DRREDDY		-0.11		4904.8		34344
-RATNAMANI		0.11		2337.5		4623
+RATNAMANI		0.13		2338.05		4626
