@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		-0.21		4900.3		104077
+DRREDDY		-0.21		4900.3		104157
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CARBORUNIV		-2.02		1195.1		226179
+CARBORUNIV		-2.01		1195.25		228863
+SAPPHIRE		-0.87		1408.0		6936
