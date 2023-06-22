@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.12		158.4		4803513
-GRASIM		-1.26		1755.5		233708
-BAJAJ-AUTO		-0.46		4628.9		86607
+ONGC		-1.15		158.35		4880968
+GRASIM		-1.35		1753.9		237446
+BAJAJ-AUTO		-0.48		4628.0		86972
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NH		-2.82		1019.95		140481
+
