@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.81		743.35		8358169
-COALINDIA		-0.7		226.85		5190390
-DIVISLAB		0.87		3539.95		357644
+ADANIPORTS		-0.91		742.6		8418024
+COALINDIA		-0.72		226.8		5212619
+ITC		0.15		447.7		4762451
+DIVISLAB		0.86		3539.7		359553
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-0.69		866.95		1931905
+PAYTM		-0.69		866.9		1938005
+LALPATHLAB		-1.96		2188.2		278064
