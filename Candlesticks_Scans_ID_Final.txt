@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		-0.19		2227.65		184592
+LALPATHLAB		-0.17		2227.95		186223
+KEC		-0.08		555.15		61884
