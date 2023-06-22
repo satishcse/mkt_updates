@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.33		2398.1		7957907
+ADANIENT		-0.37		2397.05		7991896
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		-2.49		3821.9		259046
-RADICO		-0.36		1221.7		177043
-MFL		1.8		1135.8		141850
-TATAELXSI		-1.4		7682.0		86206
-RELAXO		-1.07		907.1		59124
+DMART		-2.53		3820.35		260356
+MFL		1.56		1133.2		142134
+TATAELXSI		-1.39		7682.1		87205
