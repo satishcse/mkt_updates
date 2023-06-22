@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.98		111.65		24343057
-ADANIPORTS		-0.33		747.0		7656104
-INFY		-1.09		1285.25		4537112
-ITC		0.2		447.95		4147663
-EICHERMOT		0.46		3587.05		425024
+TATASTEEL		-2.06		111.55		24375597
+ADANIPORTS		-0.36		746.75		7684250
+INFY		-1.12		1284.85		4548932
+ITC		0.16		447.75		4164866
+EICHERMOT		0.48		3587.6		425603
 
 Bullish_Hammer_15m_N500								 
 ======================= 
