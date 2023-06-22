@@ -7,7 +7,4 @@ INFY		-1.37		1281.5		2894789
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		-0.34		1185.75		175436
-MTARTECH		-0.16		1988.9		135825
-TATAINVEST		-0.55		2434.7		20234
-BOSCHLTD		-0.74		19060.0		6372
+BDL		-0.42		1184.85		177113
