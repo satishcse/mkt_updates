@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.71		382.75		1137775
-HEROMOTOCO		0.45		2836.15		124676
-ULTRACEMCO		-0.13		8231.0		29522
+WIPRO		-0.7		382.8		1142963
+HEROMOTOCO		0.53		2838.45		126052
+ULTRACEMCO		-0.11		8232.35		29798
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		-0.23		4899.0		33186
-FLUOROCHEM		0.07		3125.65		6550
-RATNAMANI		0.09		2337.1		4570
-HGS		-0.11		1078.15		3705
+DRREDDY		-0.27		4897.05		33539
+FLUOROCHEM		0.11		3127.1		6630
+RATNAMANI		0.09		2337.2		4595
