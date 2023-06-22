@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.33		229.2		2320421
-HINDALCO		0.45		422.85		1353170
-BHARTIARTL		0.04		839.3		525891
+HDFCLIFE		1.17		650.0		2635065
+HEROMOTOCO		0.8		2846.1		166822
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAYERCROP		-0.2		4313.9		2706
+INDIGOPNTS		-0.6		1457.4		23202
