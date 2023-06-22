@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.37		2397.05		7991896
+ADANIENT		-0.29		2398.95		8019911
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-STARHEALTH		-1.75		540.6		849382
-DMART		-2.54		3820.05		261942
-MFL		1.65		1134.2		143648
+DMART		-2.54		3820.0		263194
+RADICO		-0.18		1223.95		177199
+MFL		1.47		1132.1		142429
+NAVINFLUOR		-2.32		4560.95		111312
