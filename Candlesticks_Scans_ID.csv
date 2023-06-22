@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,-0.22,159.85,3519815
-CIPLA,-1.6,992.8,1264227
-TCS,-0.51,3241.45,733458
-HINDUNILVR,-0.78,2655.65,241751
+ONGC,-0.22,159.85,3545104
+NTPC,-1.15,185.35,2446105
+RELIANCE,-0.45,2552.7,1647464
+CIPLA,-1.63,992.5,1269307
+HINDUNILVR,-0.78,2655.6,243192
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ASIANPAINT,-0.83,3288.6,300880
