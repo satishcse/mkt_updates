@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-COALINDIA,0.33,229.2,2243469
-HINDALCO,0.61,423.5,1317915
-BHARTIARTL,0.19,840.6,498579
+COALINDIA,0.31,229.15,2275144
+HINDALCO,0.62,423.55,1325667
+BHARTIARTL,0.07,839.6,508699
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BBTC,0.0,1047.05,11927
+BAYERCROP,-0.17,4315.0,2660
