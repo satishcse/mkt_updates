@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.17		650.0		2635065
-HEROMOTOCO		0.8		2846.1		166822
+ICICIBANK		0.78		931.9		7567305
+COALINDIA		0.31		229.15		2374338
+LT		0.18		2398.65		329028
+HEROMOTOCO		0.79		2845.85		167569
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		-0.6		1457.4		23202
+INDIGOPNTS		-0.6		1457.4		23203

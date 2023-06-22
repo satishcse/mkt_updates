@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-HDFC		0.64		2719.4		2360007
+HDFC		0.67		2720.15		2380751
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,20 +11,41 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-BALRAMCHIN		3.03		411.9		2672786
-COROMANDEL		2.43		965.15		1590915
-BEL		2.32		125.65		10216440
-EICHERMOT		1.36		3618.85		240035
-TATACHEM		0.45		1001.7		697555
+BALRAMCHIN		3.04		411.95		2710036
+COROMANDEL		2.67		967.4		1605154
+BEL		2.44		125.8		10252918
+EICHERMOT		1.36		3619.1		241274
+TATACHEM		0.43		1001.45		698355
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ABBOTINDIA		-0.68		22524.05		2270
+IDFC		-2.24		100.5		6779336
+SAIL		-0.47		85.45		2603721
+HINDCOPPER		0.99		116.95		1757673
+ABCAPITAL		-2.72		175.2		1499477
+HDFCAMC		-1.53		2017.2		517730
+M&M		0.56		1382.0		418828
+HAL		-0.36		3806.7		412262
+VOLTAS		-0.28		784.7		378172
+CONCOR		-0.75		648.25		270028
+HEROMOTOCO		0.76		2845.0		172259
+COFORGE		-1.34		4542.95		141737
+MCDOWELL-N		0.84		903.95		130958
+TATACOMM		-0.84		1600.0		130041
+SYNGENE		-1.4		735.0		92844
+LTIM		-0.16		4992.55		84580
+ACC		-0.31		1840.15		81186
+ASTRAL		-0.55		1974.4		80752
+PIIND		-1.49		3913.25		80202
+ABBOTINDIA		-0.67		22526.65		2291
+NIFTY		0.0		18856.15		0
+BANKNIFTY		0.18		43936.65		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+MCDOWELL-N		0.84		903.95		130958
 
 Open_High								 
 ========= 
@@ -56,5 +77,5 @@ RECLTD		-4.09		157.15		4883796
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-IOC		0.82		92.75		2316000
-SUNPHARMA		-0.03		991.65		440002
+IOC		0.76		92.7		2321307
+SUNPHARMA		-0.04		991.55		440858
