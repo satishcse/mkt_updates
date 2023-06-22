@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.25		2399.95		7857966
+ADANIENT		-0.26		2399.75		7896067
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		-2.54		3820.05		254968
-RADICO		-0.32		1222.2		176581
+DMART		-2.52		3820.9		256168
+RADICO		-0.32		1222.2		176747
