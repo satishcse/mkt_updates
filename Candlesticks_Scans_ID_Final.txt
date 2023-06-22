@@ -8,4 +8,7 @@ ULTRACEMCO		-0.14		8230.15		29320
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+DRREDDY		-0.25		4898.05		33176
+FLUOROCHEM		0.04		3125.0		6481
+RATNAMANI		0.07		2336.75		4568
 HGS		-0.11		1078.15		3705
