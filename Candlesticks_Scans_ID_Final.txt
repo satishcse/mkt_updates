@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		0.32		3581.95		381567
-TITAN		-0.09		2968.35		296581
-ULTRACEMCO		-0.81		8174.65		85270
+EICHERMOT		0.11		3574.5		383352
+TITAN		-0.1		2968.15		297838
+ULTRACEMCO		-0.86		8171.0		85432
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAPPSTMNDS		-1.96		985.45		673437
-SBILIFE		-0.38		1290.0		276909
+HAPPSTMNDS		-1.92		985.85		675636
