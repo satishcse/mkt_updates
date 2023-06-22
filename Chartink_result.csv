@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-HDFC,0.92,2726.95,4016250
+HDFC,1.02,2729.55,4038161
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
@@ -11,27 +11,35 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-BALRAMCHIN,2.19,408.55,5359498
-COROMANDEL,1.2,953.55,2004427
-BEL,1.1,124.15,17874398
-TATACHEM,0.46,1001.75,1082516
-EICHERMOT,0.4,3584.8,395648
+BALRAMCHIN,2.11,408.25,5362103
+BEL,1.1,124.15,17893500
+COROMANDEL,1.06,952.2,2006786
+TATACHEM,0.46,1001.75,1086561
+EICHERMOT,0.42,3585.4,396318
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HDFCBANK,0.89,1650.15,13376997
+GAIL,-0.7,105.95,7601829
+AUBANK,-1.5,738.3,1312600
+UBL,1.42,1508.2,344894
+MCDOWELL-N,0.51,901.0,329433
+GRASIM,-1.09,1758.55,267768
+BANKNIFTY,-0.04,43841.6,0
+NIFTY,-0.19,18820.75,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-GAIL,-0.66,106,7580829
+GAIL,-0.7,105.95,7601829
 
 Open_High,,,, 
 ========= 
 nsecode,per_chg,close,volume
 LTTS,-0.32,3983.8,87363
 WIPRO,-0.36,384.1,3116534
-BATAINDIA,-0.51,1641.7,304249
+BATAINDIA,-0.51,1641.7,303236
 UPL,-0.82,680.45,857781
 CONCOR,-1.04,646.35,949384
 COLPAL,-1.05,1635.0,100127
@@ -55,4 +63,4 @@ RECLTD,-3.57,158.0,9751626
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-SUNPHARMA,0.01,992,4635884
+SUNPHARMA,0.02,992.05,4636869
