@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.11		447.55		4427655
+ITC		0.1		447.5		4439052
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DATAPATTNS		-3.62		1840.6		121245
+VBL		-1.56		806.95		937632
+DATAPATTNS		-3.6		1841.0		121572
