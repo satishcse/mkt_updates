@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-HDFC,0.75,2722.2,4947801
+HDFC,0.75,2722.15,5055044
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
@@ -20,7 +20,13 @@ EICHERMOT,0.07,3573.0,453765
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-COFORGE,-1.48,4536.8,249545
+HDFC,0.57,2717.5,5102545
+LAURUSLABS,-2.73,354.8,1142210
+PETRONET,-1.55,222.4,1133434
+HINDUNILVR,-0.74,2656.75,504702
+COFORGE,-1.55,4533.65,249749
+BANKNIFTY,-0.19,43775.65,0
+NIFTY,-0.35,18790.65,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -54,4 +60,4 @@ INDHOTEL,-3.36,383.45,2680395
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-SUNPHARMA,0.12,993.05,4837136
+SUNPHARMA,0.14,993.3,4840291
