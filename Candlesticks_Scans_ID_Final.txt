@@ -8,6 +8,7 @@ COALINDIA		0.31		229.15		2719119
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		-0.39		1185.2		174048
-MTARTECH		-0.2		1988.2		135362
-BOSCHLTD		-0.76		19056.25		6338
+BDL		-0.4		1185.0		174454
+TATACOMM		-1.11		1595.65		172279
+ASTERDM		-1.46		284.4		136316
+BOSCHLTD		-0.76		19056.5		6340
