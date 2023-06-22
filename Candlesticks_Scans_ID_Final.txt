@@ -1,13 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIENT		0.29		2412.9		549970
+BPCL		0.24		373.7		150884
+TITAN		-0.01		2970.75		74268
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-0.79		3790.0		274237
-AFFLE		-1.18		1106.25		95814
-FIVESTAR		0.01		655.95		52205
-ULTRACEMCO		-0.21		8224.5		23399
-LUXIND		-0.27		1551.4		3161
+GODREJPROP		-0.72		1518.9		75603
+PATANJALI		-1.48		1161.0		39865
+KIMS		0.4		1736.0		15990
+ATUL		-0.54		7021.5		5156
