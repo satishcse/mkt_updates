@@ -11,16 +11,16 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-BEL		3.5		127.1		4179163
-BALRAMCHIN		1.3		405.0		425322
-COROMANDEL		1.13		952.9		223263
-TATACHEM		0.97		1006.9		381622
-EICHERMOT		0.32		3582.0		48086
+BEL		3.34		126.9		4610064
+COROMANDEL		1.26		954.1		227328
+BALRAMCHIN		1.25		404.8		434608
+TATACHEM		0.83		1005.5		392384
+EICHERMOT		0.48		3587.55		50473
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-NIFTY		0.07		18869.5		0
+NIFTY		0.05		18866.6		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -59,8 +59,8 @@ RAMCOCEM		-1.91		931.2		69861
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-CANFINHOME		1.24		753.45		65794
-MCX		0.41		1621.45		20344
-IOC		0.33		92.3		411123
-CROMPTON		-0.27		292.9		70682
-SUNPHARMA		-0.29		989.0		120009
+CANFINHOME		1.31		753.95		70611
+MCX		0.33		1620.1		20638
+IOC		0.27		92.25		418543
+SUNPHARMA		-0.2		989.9		124566
+CROMPTON		-0.41		292.5		86590
