@@ -1,14 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HCLTECH		-0.43		1165.45		448592
+HINDUNILVR		-0.79		2655.5		281222
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACHEM		-0.08		996.4		880263
-ACI		-0.47		534.85		81166
-BAJAJ-AUTO		-0.48		4627.65		81146
-ROSSARI		-0.59		841.25		49798
-BRIGADE		-1.29		578.95		29895
-POWERINDIA		-0.61		4135.9		6163
+TANLA		-2.0		1031.15		412453
+METROPOLIS		-2.31		1422.5		266122
+BRITANNIA		-0.8		5029.0		65247
+ROSSARI		-0.6		841.15		49871
+BOSCHLTD		-1.15		18981.55		8618
+POWERINDIA		-0.63		4135.1		6213
