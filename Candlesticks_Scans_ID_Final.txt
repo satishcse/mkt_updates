@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.8		382.4		4002677
-BHARTIARTL		0.1		839.85		3703332
+WIPRO		-0.79		382.45		4004173
+BHARTIARTL		0.08		839.65		3707955
+GRASIM		-1.12		1758.0		330393
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ADANIPORTS		-0.41		746.35		8744505
+ROUTE		-2.67		1573.0		124464
