@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.33		1839.5		1205836
-BPCL		1.1		376.9		1107547
-HEROMOTOCO		1.15		2856.15		288804
+ONGC		-0.22		159.85		3519815
+CIPLA		-1.6		992.8		1264227
+TCS		-0.51		3241.45		733458
+HINDUNILVR		-0.78		2655.65		241751
 
 Bullish_Hammer_15m_N500								 
 ======================= 
