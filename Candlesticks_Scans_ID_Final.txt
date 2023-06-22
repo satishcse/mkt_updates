@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		0.15		3575.65		388035
-TITAN		-0.13		2967.2		303590
-ULTRACEMCO		-0.93		8165.0		87574
+EICHERMOT		0.23		3578.5		388938
+TITAN		-0.17		2965.95		305907
+ULTRACEMCO		-0.93		8164.95		87667
 
 Bullish_Hammer_15m_N500								 
 ======================= 
@@ -12,7 +12,7 @@ nsecode		per_chg		close		volume
 RAJESHEXPO		-0.95		550.0		2581068
 APOLLOTYRE		-1.13		414.7		2454402
 MARUTI		-0.41		9402.35		169101
-DATAPATTNS		-3.02		1852.1		90729
+DATAPATTNS		-3.02		1852.1		90714
 NESTLEIND		-1.28		22599.65		20576
 CERA		-1.19		7862.95		14929
-MRF		-0.79		99624.35		3817
+MRF		-0.79		99624.35		3808
