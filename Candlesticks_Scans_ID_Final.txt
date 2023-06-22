@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-2.24		111.35		29585943
+TATACONSUM		-1.82		844.5		728290
+DIVISLAB		0.92		3542.0		372869
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		-0.86		2542.2		2919340
-DELTACORP		-1.28		239.95		1406912
+
