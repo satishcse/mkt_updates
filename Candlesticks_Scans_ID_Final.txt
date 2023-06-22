@@ -5,4 +5,8 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AARTIIND		0.32		533.85		786142
+ULTRACEMCO		-0.24		8222.1		21231
+BALAMINES		-1.11		2373.9		14683
+SHREECEM		-0.18		25615.0		8097
