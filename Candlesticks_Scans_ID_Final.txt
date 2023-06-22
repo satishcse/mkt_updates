@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.1		839.85		3712108
+WIPRO		-0.82		382.35		4035450
+BHARTIARTL		0.09		839.75		3714418
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DELTACORP		-1.46		239.5		1349716
+ROUTE		-2.67		1573		124618
