@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-HDFC		0.85		2724.9		3905701
+HDFC		0.83		2724.35		3917416
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,18 +11,22 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-BALRAMCHIN		2.4		409.4		5333633
-BEL		1.14		124.2		17530874
-COROMANDEL		1.06		952.2		1989979
-EICHERMOT		0.45		3586.35		393813
-TATACHEM		0.41		1001.25		1058458
+BALRAMCHIN		2.18		408.5		5347276
+COROMANDEL		1.19		953.5		1995310
+BEL		1.18		124.25		17608520
+TATACHEM		0.47		1001.9		1060715
+EICHERMOT		0.38		3584.0		394817
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-SBICARD		-1.2		875.15		630489
-DIXON		-0.92		4545.1		406211
-MRF		-0.4		100024.9		4033
+ZEEL		0.22		180.7		14174711
+WIPRO		-0.43		383.85		3104519
+AARTIIND		-1.17		525.9		1785488
+SBICARD		-1.22		875.0		634451
+DIXON		-0.8		4550.5		406793
+MCDOWELL-N		0.26		898.75		303052
+SHREECEM		0.01		25663.0		25144
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -33,7 +37,7 @@ Open_High
 nsecode		per_chg		close		volume
 LTTS		-0.46		3978.0		85098
 WIPRO		-0.51		383.55		3035250
-BATAINDIA		-0.78		1637.2		303011
+BATAINDIA		-0.78		1637.2		301998
 UPL		-0.92		679.8		848737
 COLPAL		-1.08		1634.5		99338
 INFY		-1.14		1284.55		4225114
@@ -57,4 +61,4 @@ RECLTD		-3.78		157.65		9580541
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.08		991.15		4630958
+SUNPHARMA		-0.06		991.35		4632380
