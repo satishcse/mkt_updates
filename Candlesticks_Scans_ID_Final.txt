@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.15		447.7		4369854
-BRITANNIA		-0.79		5029.7		86325
+ITC		0.18		447.85		4379552
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-0.2		1858.55		146734
+DATAPATTNS		-3.62		1840.75		120395
