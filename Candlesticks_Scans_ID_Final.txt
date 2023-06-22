@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.37		111.2		23054101
-ONGC		-1.34		158.05		6064450
-BPCL		0.36		374.15		1465836
+TATASTEEL		-2.37		111.2		23090893
+ONGC		-1.34		158.05		6099960
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.63		1834.0		1668484
-RAYMOND		-2.96		1677.65		97460
-GARFIBRES		0.15		3136.0		6984
+KOTAKBANK		-0.62		1834.2		1698393
