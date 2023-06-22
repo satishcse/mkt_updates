@@ -2,12 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.33		1839.5		1204841
-BPCL		1.1		376.9		1106213
-HEROMOTOCO		1.1		2854.55		288106
+KOTAKBANK		-0.33		1839.5		1205836
+BPCL		1.1		376.9		1107547
+HEROMOTOCO		1.15		2856.15		288804
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-0.86		1339.35		231489
-SUNDRMFAST		-0.12		1173.0		20960
+CIPLA		-1.51		993.7		1250443
+TVSMOTOR		-0.85		1339.4		231539
+MTARTECH		-0.64		1979.4		153003
+BAJAJ-AUTO		-0.43		4630.0		72083
+GOCOLORS		-0.94		1113.05		34194
+SUNDRMFAST		-0.09		1173.35		20970
