@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.75		931.65		7650206
-ITC		0.29		448.35		2115740
-HEROMOTOCO		0.76		2845.0		173244
+COALINDIA		0.33		229.2		2412687
+ITC		0.2		447.95		2348487
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INDIGOPNTS		-0.58		1457.65		23405
