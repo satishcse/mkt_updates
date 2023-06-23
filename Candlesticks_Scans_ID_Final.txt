@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.71		1655.3		3136351
+HDFCBANK		0.78		1656.35		3156797
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GARFIBRES		-0.15		3125		3175
+GARFIBRES		-0.15		3125		3154
