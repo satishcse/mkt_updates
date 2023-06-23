@@ -1,8 +1,7 @@
 
 Nifty_1Hr_OBV_DIV								 
 ================= 
-nsecode		per_chg		close		volume
-HDFC		0.86		2739.35		1617878
+
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -17,15 +16,16 @@ BHARTIARTL		1.64		856.65		4499147
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-INDHOTEL		0.55		384.75		2399977
-MRF		-0.22		99650.0		2758
+PNB		-0.49		50.75		17819895
+TATAPOWER		-1.49		217.8		6353341
+GMRINFRA		-0.24		42.3		4106686
+INDHOTEL		0.57		384.85		2427363
+GRASIM		-1.39		1725.95		180195
+BANKNIFTY		0.02		43735.15		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-IBULHSGFIN		0.65		115.3		9666649
-INDHOTEL		0.29		383.75		2372888
-SBILIFE		-0.55		1269.45		711160
+
 
 Open_High								 
 ========= 
