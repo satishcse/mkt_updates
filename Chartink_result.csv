@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-AUROPHARMA,2.85,690.8,2064321
-BHARTIARTL,1.79,857.85,4865979
+AUROPHARMA,2.83,690.65,2069206
+BHARTIARTL,1.77,857.75,4870937
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -44,10 +44,7 @@ NIFTY,-0.32,18711.4,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
-nsecode,per_chg,close,volume
-IOC,-1.25,90.85,9161178
-HINDUNILVR,-0.75,2634.35,562250
-DIXON,-3.04,4311.6,478385
+
 
 Open_High,,,, 
 ========= 
