@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.9		110.1		10224632
-M&M		-0.17		1376.4		673357
+TATASTEEL		-0.9		110.1		10269652
+M&M		-0.19		1376.1		675038
+HCLTECH		-0.42		1158.5		671338
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPORTS		-4.92		708.95		6396460
-ADANIGREEN		-2.96		945.95		1534173
-ACC		-2.45		1786.95		406871
-LINDEINDIA		-3.36		4381.5		23557
+ADANIPORTS		-4.47		712.3		6498207
+ADANIGREEN		-2.81		947.5		1549688
+AEGISCHEM		-4.44		312.15		823379
+ACC		-2.43		1787.25		408067
+LINDEINDIA		-3.22		4387.8		23722
