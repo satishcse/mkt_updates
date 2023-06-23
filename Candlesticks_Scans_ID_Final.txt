@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.49		1169.05		1094577
-HINDUNILVR		-0.76		2634.05		518865
-EICHERMOT		-0.4		3544.5		172536
-BRITANNIA		-0.23		4975.55		110893
+BHARTIARTL		1.79		857.85		4865979
+EICHERMOT		-0.41		3543.95		173288
+BRITANNIA		-0.26		4974.2		111584
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAXO		-1.97		1409.45		37178
+AMBER		-2.1		2302.1		83721
