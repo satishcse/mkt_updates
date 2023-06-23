@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.66		444.7		3414049
-HINDALCO		-2.12		411.15		2958569
-HDFCLIFE		-1.1		631.95		2841151
-UPL		-0.85		668.65		1009799
-MARUTI		-0.46		9360.0		140161
+ITC		-0.7		444.5		3418208
+UPL		-0.85		668.7		1013723
+MARUTI		-0.44		9362.0		140655
 
 Bullish_Hammer_15m_N500								 
 ======================= 
