@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,-0.85,157.6,6069994
-TATACONSUM,0.42,845.45,601341
-EICHERMOT,-0.11,3554.8,195388
+ONGC,-0.88,157.55,6081444
+TATACONSUM,0.32,844.6,603337
+BAJAJ-AUTO,0.17,4619.85,255354
+EICHERMOT,-0.1,3554.95,196272
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ACC,-3.06,1775.75,755734
+GRASIM,-1.78,1719.15,270045
+ZYDUSWELL,-0.67,1482.95,15576
