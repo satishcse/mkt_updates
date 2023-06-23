@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.34		1115.3		2580884
-ASIANPAINT		1.59		3299.8		1108477
-M&M		-0.22		1375.6		1099122
-BAJAJ-AUTO		0.12		4617.7		297994
+TECHM		-0.45		1114.0		2586242
+ASIANPAINT		1.59		3299.8		1111156
+M&M		-0.27		1375.0		1099873
+BAJAJ-AUTO		0.12		4617.45		298523
 
 Bullish_Hammer_15m_N500								 
 ======================= 
