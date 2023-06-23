@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-AUROPHARMA,4.21,699.95,3674083
-BHARTIARTL,1.7,857.1,6765260
+AUROPHARMA,4.25,700.2,3717650
+BHARTIARTL,1.71,857.25,6796040
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -61,4 +61,4 @@ ADANIENT,-6.66,2237.65,14629449
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-DRREDDY,1.89,4992.15,527381
+DRREDDY,1.89,4992,530116

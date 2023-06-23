@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.27		1116		3034717
+TECHM		-0.27		1116.05		3083968
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBER		-4.1		2255.2		134193
-MOTILALOFS		-1.15		674.15		91832
+CARBORUNIV		-2.07		1194.25		145344
+MOTILALOFS		-1.17		674.0		92976
