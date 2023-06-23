@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-HDFC		0.89		2740		1193446
+HDFC		0.92		2740.95		1248562
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,39 +11,17 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.84		858.3		4118254
+BHARTIARTL		1.74		857.5		4142655
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-IBULHSGFIN		0.79		115.45		6785153
-HDFCBANK		0.92		1658.65		4547282
-IDFC		-0.45		99.45		4316485
-MANAPPURAM		-1.9		123.7		3782317
-PFC		-1.43		200.35		3272957
-ICICIBANK		-0.72		919.1		3092968
-ITC		-0.83		443.95		2960962
-BALRAMCHIN		-2.37		397.35		1828550
-HDFC		0.89		2740.0		1193446
-M&M		-0.41		1373.0		720364
-GUJGASLTD		-1.46		461.95		482648
-GODREJPROP		-0.91		1484.2		274829
-DRREDDY		1.05		4951.1		183559
-BHARATFORG		-0.79		808.5		173078
-HEROMOTOCO		-0.07		2823.15		166603
-GRASIM		-1.09		1731.25		153464
-PVRINOX		-0.56		1373.75		142243
-EICHERMOT		-0.31		3547.4		129803
-ABB		0.09		4274.55		98135
-BRITANNIA		-0.5		4961.95		73967
-TORNTPHARM		-0.07		1861.4		68671
-NAVINFLUOR		-2.1		4458.45		59678
-ATUL		-1.73		6952.75		24334
+HDFC		0.92		2740.95		1248562
+TRENT		0.38		1717.2		374403
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-GUJGASLTD		-1.46		461.95		482648
+
 
 Open_High								 
 ========= 
@@ -90,4 +68,4 @@ ADANIENT		-6.27		2247.0		8392054
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-DRREDDY		1.11		4954		184065
+DRREDDY		1.08		4952.5		184317
