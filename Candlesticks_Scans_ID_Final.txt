@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-4.12		714.9		14223250
-ASIANPAINT		1.56		3298.6		1136409
-BAJAJ-AUTO		0.17		4619.9		303037
+ASIANPAINT		1.57		3298.95		1138713
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBMA		-2.6		1013.05		289546
+CENTURYPLY		-3.19		614.3		396366
+ABB		-0.69		4241.2		173686
+BBTC		-2.07		1010.0		27505
