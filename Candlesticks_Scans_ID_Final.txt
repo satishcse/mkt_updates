@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.88		157.55		6263976
-TATACONSUM		0.22		843.75		623336
-EICHERMOT		-0.34		3546.45		206190
+TITAN		-1.12		2937		681608
+BAJAJ-AUTO		0.17		4620		262621
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AARTIDRUGS		-1.95		443.1		88069
+
