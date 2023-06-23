@@ -1,8 +1,7 @@
 
 Nifty_1Hr_OBV_DIV								 
 ================= 
-nsecode		per_chg		close		volume
-HDFC		0.85		2739		1152970
+
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,20 +10,17 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.79		857.85		4094542
+BHARTIARTL		1.81		858.05		4112284
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BANKNIFTY		0.04		43744.0		0
-NIFTY		-0.29		18717.25		0
+GODREJPROP		-0.72		1487.0		273548
+ABB		0.04		4272.25		95884
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-BSOFT		-0.25		343.35		3212618
-RAIN		0.55		166.0		932040
-MCDOWELL-N		0.53		899.0		360009
+
 
 Open_High								 
 ========= 
@@ -71,4 +67,4 @@ ADANIENT		-6.18		2249.0		8232122
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-DRREDDY		1.21		4958.9		180215
+DRREDDY		1.09		4953		181398
