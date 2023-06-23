@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-HDFC,0.86,2739.15,1487810
+HDFC,0.85,2739,1500087
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
@@ -11,17 +11,29 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-BHARTIARTL,1.7,857.15,4331444
+BHARTIARTL,1.79,857.9,4364675
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-CANBK,-1.13,297.5,2959786
-HINDCOPPER,-0.56,114.6,2872325
+BANKBARODA,-0.26,192.8,7278115
+CANBK,-1.13,297.5,2970313
+LUPIN,1.09,861.65,1088445
+ICICIPRULI,-0.95,557.2,857242
+JSWSTEEL,-0.84,746.05,834600
+PETRONET,-1.37,219.8,622851
+ZYDUSLIFE,1.09,558.9,587495
+SUNTV,-1.5,433.15,447545
+CUMMINSIND,-0.79,1829.9,286670
+RAMCOCEM,0.06,933.35,237927
+OBEROIRLTY,-1.14,986.45,223009
+MGL,-1.39,1023.25,214930
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
-
+nsecode,per_chg,close,volume
+SAIL,-0.18,85.0,6699019
+LUPIN,1.09,861.65,1088445
 
 Open_High,,,, 
 ========= 
@@ -66,4 +78,4 @@ ADANIENT,-5.81,2257.9,9233302
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-DRREDDY,1.24,4960,194480
+DRREDDY,1.14,4955.4,196442
