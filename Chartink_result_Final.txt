@@ -10,20 +10,21 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-AUROPHARMA		3.58		695.7		2388798
-BHARTIARTL		1.92		858.95		5038115
+AUROPHARMA		3.42		694.6		2407726
+BHARTIARTL		1.95		859.2		5080847
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-DIVISLAB		-1.02		3507.6		296421
+TECHM		-0.61		1112.25		1992468
+INDIGO		0.58		2491.3		559764
+PIDILITIND		1.06		2664.2		536389
+DIVISLAB		-1.07		3506.0		310013
+SYNGENE		-0.71		723.05		253565
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-nsecode		per_chg		close		volume
-SBILIFE		-0.67		1268.0		892616
-SRF		-1.35		2334.6		504839
-METROPOLIS		-2.63		1388.05		254849
+
 
 Open_High								 
 ========= 
@@ -66,4 +67,4 @@ ADANIENT		-7.14		2226.0		11874174
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-DRREDDY		2.04		4999.5		341632
+DRREDDY		2.05		5000		342762
