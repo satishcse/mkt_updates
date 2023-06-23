@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.68		110.35		13620039
-WIPRO		-0.07		382.05		1892773
-TECHM		-0.23		1116.5		1630933
-HCLTECH		0.46		1168.75		1079600
-EICHERMOT		-0.51		3540.45		169889
+EICHERMOT		-0.44		3542.85		170752
+BRITANNIA		-0.12		4981.05		109499
 
 Bullish_Hammer_15m_N500								 
 ======================= 
