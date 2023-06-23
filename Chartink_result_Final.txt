@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-HDFC		0.85		2739		1602463
+HDFC		0.85		2739		1608161
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,26 +11,31 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-AUROPHARMA		2.44		688.05		1739659
-BHARTIARTL		1.76		857.65		4476193
+AUROPHARMA		2.49		688.35		1741959
+BHARTIARTL		1.71		857.2		4478668
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-M&MFIN		-1.87		307.0		3310461
-NATIONALUM		-1.61		82.5		3090547
-BPCL		-2.02		365.85		2064807
-LUPIN		1.09		861.65		1406493
-ZYDUSLIFE		1.28		560.0		641083
-CUMMINSIND		-0.59		1833.6		298764
-PERSISTENT		-0.57		4842.05		104137
-ESCORTS		-0.2		2157.65		100373
-SIEMENS		-0.57		3667.75		85765
+IBULHSGFIN		0.26		114.85		9472397
+M&MFIN		-1.87		307.0		3320786
+HINDALCO		-1.94		411.9		3007624
+HDFCLIFE		-0.95		632.95		2876348
+BPCL		-2.06		365.7		2073785
+LUPIN		1.04		861.25		1411602
+BERGEPAINT		0.4		672.75		459943
+CUMMINSIND		-0.58		1833.7		299577
+LTIM		-0.96		4977.65		133695
+PERSISTENT		-0.57		4842.15		104411
+ESCORTS		-0.15		2158.8		100426
+SIEMENS		-0.54		3669.0		85918
+PAGEIND		-0.78		37661.0		5938
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-IBULHSGFIN		-0.13		114.4		9380175
+IBULHSGFIN		0.26		114.85		9472397
+SBILIFE		-0.67		1268.0		686933
 
 Open_High								 
 ========= 
@@ -75,4 +80,4 @@ ADANIENT		-5.12		2274.55		9645338
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-DRREDDY		1.16		4956.3		199710
+DRREDDY		1.24		4960		200250
