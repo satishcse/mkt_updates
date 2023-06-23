@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.3		250.25		2803131
+POWERGRID		-1.3		250.25		2807965
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		-0.69		1482.6		14661
+ZYDUSWELL		-0.67		1483		14703
