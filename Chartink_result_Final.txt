@@ -16,19 +16,21 @@ BHARTIARTL		1.99		859.55		5175534
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BHEL		-0.82		85.05		12842821
-PFC		-1.45		200.3		5225925
-MARICO		0.74		528.15		630731
-GUJGASLTD		-1.13		463.5		622261
-MUTHOOTFIN		1.26		1225.1		344990
-UBL		-1.14		1490.9		143573
-NIFTY		-0.26		18721.65		0
+IOC		-1.74		90.4		10513111
+PFC		-1.45		200.3		5231302
+MCDOWELL-N		1.54		908.0		697244
+GLENMARK		1.04		634.2		675404
+MARICO		0.72		528.05		636795
+GUJGASLTD		-1.12		463.55		622413
+ASTRAL		0.31		1957.75		350533
+MUTHOOTFIN		1.25		1225.0		345612
+UBL		-1.13		1491.0		143584
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-MARICO		0.74		528.15		630731
-GUJGASLTD		-1.13		463.5		622261
+MARICO		0.72		528.05		636795
+GUJGASLTD		-1.12		463.55		622413
 
 Open_High								 
 ========= 
@@ -71,4 +73,4 @@ ADANIENT		-7.05		2228.2		12071218
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-DRREDDY		2.27		5010.8		358893
+DRREDDY		2.19		5006.6		362401
