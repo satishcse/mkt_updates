@@ -10,7 +10,7 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-BHARTIARTL,2,859.65,3247261
+BHARTIARTL,1.8,858,3283357
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -24,7 +24,7 @@ MRF,-0.07,99800.0,2109
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-GAIL,0.29,104.75,2467805
+GAIL,0.29,104.75,2548986
 
 Open_High,,,, 
 ========= 
@@ -72,4 +72,4 @@ ADANIENT,-6.53,2240.8,4176379
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-DRREDDY,0.95,4945.85,156047
+DRREDDY,0.98,4947.45,156149
