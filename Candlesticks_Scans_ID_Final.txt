@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.22		109.75		19402180
-WIPRO		-0.65		379.8		2936988
+TECHM		-0.27		1116		3034717
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-3.5		1691.0		39273
-SAPPHIRE		-1.81		1364.45		15480
+AMBER		-4.1		2255.2		134193
+MOTILALOFS		-1.15		674.15		91832
