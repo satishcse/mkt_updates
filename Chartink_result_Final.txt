@@ -10,19 +10,23 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.86		858.5		3959757
+BHARTIARTL		1.84		858.3		3967255
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-NTPC		1.38		187.05		7418664
-HINDUNILVR		-0.13		2650.8		213612
-ABBOTINDIA		-0.13		22524.5		3056
-NIFTY		-0.33		18709.05		0
+NTPC		1.38		187.05		7522823
+IOC		-1.03		91.05		4953726
+INDIACEM		-2.8		212.1		2340331
+JINDALSTEL		-1.37		576.1		766990
+HINDUNILVR		-0.34		2645.45		221541
+ABBOTINDIA		-0.11		22530.1		3066
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+NTPC		1.38		187.05		7522823
+HINDUNILVR		-0.34		2645.45		221541
 
 Open_High								 
 ========= 
@@ -70,4 +74,4 @@ ADANIENT		-7.27		2223.0		7248348
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-DRREDDY		1.2		4958.35		172038
+DRREDDY		1.12		4954.4		172268
