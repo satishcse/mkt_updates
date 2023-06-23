@@ -10,7 +10,7 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.76		857.6		4061882
+BHARTIARTL		1.74		857.45		4086576
 
 Intraday_Volume_Shocker								 
 ======================= 
@@ -27,7 +27,8 @@ NIFTY		-0.33		18708.7		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+MCDOWELL-N		0.54		899.05		345586
 
 Open_High								 
 ========= 
