@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV,,,, 
 ================= 
 nsecode,per_chg,close,volume
-HDFC,0.94,2741.45,1749252
+HDFC,0.94,2741.3,1751589
 
 BN_1Hr_OBV_DIV,,,, 
 ============== 
@@ -11,13 +11,16 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-AUROPHARMA,2.49,688.4,1785706
-BHARTIARTL,1.78,857.8,4541054
+AUROPHARMA,2.48,688.3,1786982
+BHARTIARTL,1.75,857.55,4543357
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-BAJFINANCE,-0.02,7028.85,466571
+VOLTAS,-3.27,756.55,3110515
+BAJAJFINSV,0.3,1512.1,594073
+BAJFINANCE,0.04,7033.05,471026
+TATACONSUM,0.46,845.8,410523
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -65,4 +68,4 @@ ADANIENT,-5.14,2273.95,10067990
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-DRREDDY,1.32,4963.95,209637
+DRREDDY,1.18,4957.15,210662
