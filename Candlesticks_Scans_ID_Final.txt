@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.41		187.1		8853803
-TATAMOTORS		-1.49		560.85		5531124
-POWERGRID		-0.81		251.5		2320432
-COALINDIA		-0.22		226.45		1524352
+NTPC		1.41		187.1		8869986
+ITC		-0.41		445.8		3619919
+POWERGRID		-0.81		251.5		2324602
+COALINDIA		-0.22		226.45		1536632
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LALPATHLAB		-1.73		2142.65		169788
+
