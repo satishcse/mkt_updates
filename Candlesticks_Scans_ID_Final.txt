@@ -1,13 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TECHM		-0.27		1116.05		3139113
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-4.92		1169.4		3007252
-ACC		-3.64		1765.0		978011
-MASTEK		-2.21		1912.85		46514
-CERA		-1.27		7670.05		25004
+ACC		-3.59		1765.9		997637
+HEROMOTOCO		-1.83		2773.3		360008
+CERA		-1.01		7690.05		25846
