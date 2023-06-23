@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TECHM		-0.27		1116.05		1625139
-EICHERMOT		-0.44		3543.05		166574
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		-4.88		1114.05		627768
-TVSMOTOR		-1.73		1303.15		466231
+BDL		-4.8		1114.9		629568
+TVSMOTOR		-1.75		1303.0		468540
