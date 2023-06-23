@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.61		992.2		1258283
-M&M		-0.55		1371.1		933451
+CIPLA		-0.62		992.15		1259536
+M&M		-0.62		1370.15		934273
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-2.88		1194.45		1786072
+MAZDOCK		-2.82		1195.15		1795262
