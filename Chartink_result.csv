@@ -10,8 +10,8 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-AUROPHARMA,2.76,690.2,2081600
-BHARTIARTL,1.77,857.75,4896083
+AUROPHARMA,2.75,690.15,2096151
+BHARTIARTL,1.78,857.8,4903406
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
@@ -48,10 +48,13 @@ ABBOTINDIA,0.02,22560.0,5348
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
 nsecode,per_chg,close,volume
-NATIONALUM,-1.91,82.25,3587989
-LICHSGFIN,-1.88,395.0,2603951
-DABUR,0.06,563.0,979506
-IPCALAB,-0.35,728.0,635013
+SAIL,-0.29,84.9,7654897
+NATIONALUM,-1.97,82.2,3612277
+LICHSGFIN,-1.86,395.05,2604265
+KOTAKBANK,0.23,1840.3,1320011
+DABUR,0.02,562.75,1021591
+IPCALAB,-0.35,728.0,681598
+AUBANK,-0.01,740.75,355541
 
 Open_High,,,, 
 ========= 
@@ -94,4 +97,4 @@ ADANIENT,-5.93,2255.15,11465709
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-DRREDDY,2.05,5000.1,313361
+DRREDDY,2.17,5005.9,318710

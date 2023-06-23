@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.8		857.95		4899839
-EICHERMOT		-0.38		3544.95		175297
-BRITANNIA		-0.37		4968.65		112902
+BHARTIARTL		1.78		857.8		4903406
+EICHERMOT		-0.39		3544.65		175578
+BRITANNIA		-0.32		4970.95		113574
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYPLY		-1.54		624.75		370221
-GLAXO		-1.98		1409.35		37632
-JBCHEPHARM		-2.11		2342.45		21162
+PHOENIXLTD		-0.97		1531.85		52597
