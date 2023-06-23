@@ -10,16 +10,20 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-BHARTIARTL,1.75,857.55,1873153
+BHARTIARTL,1.9,858.8,1936944
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-APOLLOHOSP,-0.97,5017.1,85717
-COFORGE,-0.79,4498.9,41434
-ALKEM,0.21,3356.45,16398
-BANKNIFTY,-0.12,43673.9,0
-NIFTY,-0.44,18689.5,0
+APOLLOTYRE,1.18,420.0,674433
+PETRONET,-1.86,218.7,421671
+GRANULES,-1.93,282.4,317139
+APOLLOHOSP,-1.01,5015.05,86665
+MPHASIS,-1.33,1830.3,81406
+COFORGE,-1.23,4479.0,46743
+ALKEM,-0.03,3348.25,18029
+BANKNIFTY,-0.13,43667.9,0
+NIFTY,-0.45,18686.05,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
