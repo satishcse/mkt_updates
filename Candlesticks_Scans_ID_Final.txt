@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.44		187.15		4766169
-AXISBANK		-0.42		962.5		1402948
+COALINDIA		-0.4		226.05		956280
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+COROMANDEL		-2.7		924.65		224876
