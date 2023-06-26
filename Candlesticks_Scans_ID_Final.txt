@@ -6,9 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BHARATFORG		-0.51		802.9		69484
-TORNTPOWER		-0.65		636.6		69155
-AETHER		-2.26		1103.2		59750
-SCHAEFFLER		-0.86		3177.35		11423
-SUNDRMFAST		-0.43		1156.5		6959
-CRISIL		-1.19		3738.0		3427
+RELIANCE		-0.47		2502.9		1722016
+SUNDRMFAST		-0.4		1156.95		6957
+KENNAMET		-0.09		2745.5		4871
