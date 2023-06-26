@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.6		563.0		3238260
-POWERGRID		-0.86		247.95		2229223
-CIPLA		2.44		1013.55		891152
-MARUTI		0.79		9400.95		129806
+TATAMOTORS		0.58		562.9		3242559
+POWERGRID		-0.86		247.95		2240167
+CIPLA		2.42		1013.35		892884
+MARUTI		0.82		9403.75		130903
 
 Bullish_Hammer_15m_N500								 
 ======================= 
