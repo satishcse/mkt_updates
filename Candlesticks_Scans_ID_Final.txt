@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.09		445.15		3719478
-AXISBANK		0.08		959.2		3589388
-BPCL		-0.64		357.3		1799337
-ASIANPAINT		-0.08		3294.95		248951
+TATASTEEL		-0.73		108.8		15664825
+TATACONSUM		1.9		856.8		2225090
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-0.79		2494.85		3227970
-LT		-0.66		2373.75		404166
+INDIGO		-1.12		2447.35		353782
