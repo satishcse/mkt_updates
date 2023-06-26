@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.11		445.25		3650183
-ONGC		-0.06		156.8		1801578
-WIPRO		0.22		380.8		1240297
-ASIANPAINT		-0.08		3294.95		239163
-MARUTI		0.65		9388.0		188068
-EICHERMOT		-0.01		3538.9		167904
+ITC		0.01		444.8		3659988
+ONGC		-0.06		156.8		1803904
+ASIANPAINT		-0.08		3294.95		240201
+MARUTI		0.64		9386.85		188978
+EICHERMOT		-0.01		3538.7		168183
 
 Bullish_Hammer_15m_N500								 
 ======================= 
