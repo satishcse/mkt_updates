@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.41		157.55		2457499
-INFY		0.4		1270.0		2227396
-BAJFINANCE		-0.34		6966.0		356573
+ONGC		0.32		157.4		2482061
+BAJFINANCE		-0.35		6965.5		357269
+APOLLOHOSP		-0.2		5035.4		312101
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-2.1		1157		36808
+GARFIBRES		-0.97		3099.35		28640
