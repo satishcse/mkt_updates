@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.5		109.05		17869494
-ADANIPORTS		1.18		722.75		4738293
-HDFCLIFE		0.34		629.05		2976654
-CIPLA		3.06		1019.65		1765826
-HCLTECH		0.05		1165.75		799020
-NESTLEIND		0.01		22540.0		19921
+ICICIBANK		0.24		925.7		8940489
+ADANIPORTS		1.21		722.95		4760675
+CIPLA		2.99		1019.0		1773821
+NESTLEIND		0.01		22540.0		20016
 
 Bullish_Hammer_15m_N500								 
 ======================= 
