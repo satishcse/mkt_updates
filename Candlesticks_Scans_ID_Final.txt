@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		0.01		22538.9		19482
+NESTLEIND		0.01		22538.2		19545
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GALAXYSURF		-1.7		2697.95		26952
-KENNAMET		-1.22		2714.55		8301
+GALAXYSURF		-1.7		2697.95		26956
+KENNAMET		-1.22		2714.55		8308
