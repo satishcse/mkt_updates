@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		1.2		722.85		4853606
-CIPLA		3.0		1019.1		1804539
+ADANIPORTS		1.22		723.0		4864259
+CIPLA		3.0		1019.05		1806879
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIAMART		-1.03		2875.65		107916
-GALAXYSURF		-1.66		2699.0		27610
+INDIAMART		-1.02		2875.85		107977
