@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.82		679		2550304
+UPL		1.85		679.2		2550546
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.4		4603.9		298502
-TCI		-0.9		714.0		35254
-IFBIND		-0.58		799.05		17841
-GRINFRA		-1.11		1273.0		16220
-BLUEDART		-1.26		7160.0		11308
+BAJAJ-AUTO		-0.34		4606.9		298625
+TCI		-1.22		711.7		35552
+IFBIND		-0.65		798.5		17939
+GRINFRA		-1.55		1267.3		16256
+BLUEDART		-1.26		7160.0		11326
