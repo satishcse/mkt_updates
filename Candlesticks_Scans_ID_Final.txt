@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SUNPHARMA		0.33		994.7		130765
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TCS		-1.04		3182.95		500757
+NAVINFLUOR		-0.63		4430.2		14376
