@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		0.01		22539		19364
+NESTLEIND		0		22536.05		19409
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		-0.88		1567.45		14733
+INDIAMART		-1.03		2875.45		104008
+ENDURANCE		-0.84		1568.05		14746
