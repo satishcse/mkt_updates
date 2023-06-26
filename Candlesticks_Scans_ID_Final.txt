@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.28		5031.25		322785
+APOLLOHOSP		-0.3		5030.5		323313
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GARFIBRES		-0.95		3100		28946
+PVRINOX		-0.66		1372.65		340979
+GARFIBRES		-0.95		3100.0		28956
