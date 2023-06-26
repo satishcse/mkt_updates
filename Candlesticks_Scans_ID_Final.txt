@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.83		679.05		1484081
-TCS		-0.69		3194.0		1242705
-WIPRO		0.25		380.9		1164440
-TECHM		0.71		1123.45		711929
-HINDUNILVR		0.62		2658.1		384095
-HEROMOTOCO		1.43		2816.1		183921
+TATACONSUM		1.9		856.8		2145513
+UPL		1.83		679.05		1487885
+WIPRO		0.25		380.9		1166635
+TECHM		0.76		1124.0		720698
+HINDUNILVR		0.62		2658.0		384625
+HEROMOTOCO		1.43		2816.0		185001
 
 Bullish_Hammer_15m_N500								 
 ======================= 
