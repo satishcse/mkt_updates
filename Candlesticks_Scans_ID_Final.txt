@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-0.47		2502.9		1722016
-SUNDRMFAST		-0.4		1156.95		6957
-KENNAMET		-0.09		2745.5		4871
+BHARATFORG		-0.5		803.0		73548
+AETHER		-1.59		1110.8		61064
+KPIL		-0.31		519.6		24370
+KENNAMET		-0.08		2746.0		4888
+CRISIL		-1.15		3739.7		3688
+BAJAJHLDNG		0.27		6850.45		1723
