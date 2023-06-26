@@ -1,14 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATAMOTORS		0.72		563.7		2235885
+KOTAKBANK		-0.11		1826.55		448289
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LT		-0.11		2386.95		162262
-BEML		-2.51		1588.4		69399
-NAZARA		-0.89		679.75		37871
-KPIL		-0.31		519.6		24444
-KENNAMET		-0.08		2746.0		4901
-BAJAJHLDNG		0.27		6850.45		1723
+
