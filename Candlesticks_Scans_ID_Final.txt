@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.47		2503.0		2202247
-CIPLA		1.85		1007.75		675818
-MARUTI		0.55		9379.0		94146
-NESTLEIND		0.06		22550.0		8997
+RELIANCE		-0.56		2500.55		2247296
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-0.5		41319.05		618
+HONAUT		-0.48		41326		622
