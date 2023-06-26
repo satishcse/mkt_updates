@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.94		184.95		3289562
-HINDUNILVR		0.69		2659.7		374549
+NTPC		-0.96		184.9		3291450
+HINDUNILVR		0.61		2657.6		376600
+HEROMOTOCO		1.45		2816.75		181830
+BRITANNIA		-0.18		4962.0		70298
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MFL		-1.54		1118.95		38406
