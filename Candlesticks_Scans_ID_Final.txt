@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.06		445.0		3669491
-AXISBANK		0.0		958.4		3451568
-BPCL		-0.57		357.55		1766955
-INDUSINDBK		-0.09		1307.55		1602799
-BAJAJFINSV		-0.04		1501.4		367065
-ASIANPAINT		-0.09		3294.85		242665
+ITC		0.1		445.2		3679533
+AXISBANK		0.0		958.4		3463435
+BPCL		-0.56		357.6		1769512
+INDUSINDBK		-0.09		1307.5		1605996
+BAJAJFINSV		-0.01		1501.85		367297
+ASIANPAINT		-0.08		3295.0		243205
 
 Bullish_Hammer_15m_N500								 
 ======================= 
