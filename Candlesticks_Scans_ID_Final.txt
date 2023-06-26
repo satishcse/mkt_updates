@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.33		5028.95		281466
+POWERGRID		-0.84		248.0		3275130
+WIPRO		0.2		380.7		1353989
+GRASIM		-0.46		1708.15		192102
+BAJAJ-AUTO		-0.25		4611.0		159632
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POONAWALLA		-1.23		336.7		695671
-POLYMED		-0.66		1142.85		16393
+
