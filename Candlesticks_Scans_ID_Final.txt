@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.16		157.15		1613570
-BPCL		-0.72		357.0		1593434
-HEROMOTOCO		1.42		2815.9		178440
+ONGC		0.13		157.1		1616844
+BPCL		-0.71		357.05		1604280
+HEROMOTOCO		1.44		2816.25		178612
+ULTRACEMCO		0.62		8130.0		108772
 
 Bullish_Hammer_15m_N500								 
 ======================= 
