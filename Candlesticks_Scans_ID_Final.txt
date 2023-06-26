@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.53		630.25		2682794
-ONGC		-0.06		156.8		1799082
-MARUTI		0.69		9391.35		180073
-EICHERMOT		0.0		3539.1		167166
+ITC		0.11		445.25		3650183
+ONGC		-0.06		156.8		1801578
+WIPRO		0.22		380.8		1240297
+ASIANPAINT		-0.08		3294.95		239163
+MARUTI		0.65		9388.0		188068
+EICHERMOT		-0.01		3538.9		167904
 
 Bullish_Hammer_15m_N500								 
 ======================= 
