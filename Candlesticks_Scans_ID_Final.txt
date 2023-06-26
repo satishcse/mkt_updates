@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.33		5029		281080
+APOLLOHOSP		-0.33		5028.95		281466
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POONAWALLA		-1.23		336.7		695671
+POLYMED		-0.66		1142.85		16393
