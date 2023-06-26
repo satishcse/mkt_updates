@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.13		157.1		1530910
-HCLTECH		0.41		1169.95		556566
-HEROMOTOCO		1.36		2814.15		168808
+HINDUNILVR		0.76		2661.6		351074
+SBILIFE		0.55		1269.6		260703
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FLUOROCHEM		-1.28		3020		19140
+
