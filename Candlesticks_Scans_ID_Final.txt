@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.49		1315.15		2202479
+INDUSINDBK		0.53		1315.65		2205909
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BEML		-3.52		1572		242575
+BAJAJ-AUTO		-0.4		4604.05		283016
+BEML		-3.52		1571.9		243811
+AETHER		-3.5		1089.2		131833
+IFBIND		-0.59		799.0		16967
