@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.16		557.95		2888362
-AXISBANK		0.81		968.35		2084750
-WIPRO		0.54		382.95		820514
-APOLLOHOSP		1.39		5106.95		297187
+SBIN		0.13		557.8		2907551
+AXISBANK		0.75		967.8		2101884
+WIPRO		0.55		383.0		822921
+TECHM		0.16		1113.7		382918
+APOLLOHOSP		1.37		5106.0		298063
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OFSS		-0.45		3810.1		16490
-SUNDARMFIN		-0.07		2608.0		4088
+OFSS		-0.45		3810.3		16534
