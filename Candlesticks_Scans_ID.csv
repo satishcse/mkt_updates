@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-WIPRO,0.59,383.15,938513
-ASIANPAINT,0.62,3328.75,534971
-BAJAJ-AUTO,0.99,4652.7,217489
+WIPRO,0.55,383.0,941630
+ASIANPAINT,0.51,3325.0,537146
+BAJAJ-AUTO,0.99,4652.55,217626
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-KEI,-0.11,2346.65,38085
+KEI,-0.05,2348.0,38293
+GOCOLORS,-0.54,1137.4,25808
