@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.65		186.1		5454645
+NTPC		0.62		186.05		5457280
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ZYDUSWELL		0.06		1490.95		22106
+CERA		-0.11		7624.0		17357
+CRISIL		-0.09		3878.45		5935
