@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.37		8197.6		125999
+TECHM		0.29		1115.15		623455
+ULTRACEMCO		0.37		8197.45		126521
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJELEC		-1.19		1215.7		150137
-LTIM		-0.05		5004.55		103364
+GOCOLORS		-1.41		1127.5		30869
+OFSS		-0.68		3801.35		28089
+MFL		-0.26		1112.7		24706
