@@ -2,15 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.19		444.85		3095361
-TCS		-0.09		3186.75		595460
-BAJAJFINSV		0.6		1516.6		453688
+TATASTEEL		0.59		110.5		18046679
+UPL		-0.64		674.85		1453340
+MARUTI		-0.34		9438.3		211595
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHREECEM		0.33		23780.0		115564
-MOTILALOFS		-0.46		681.65		37915
-NESTLEIND		-0.14		22599.6		30234
-LINDEINDIA		-0.22		4374.85		9981
-TEAMLEASE		-0.52		2402.1		6326
+
