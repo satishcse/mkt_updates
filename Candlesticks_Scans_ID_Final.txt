@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.55		110.45		18076841
-ICICIBANK		0.2		929.35		7846164
-RELIANCE		-0.02		2495.15		3308301
-UPL		-0.64		674.85		1455908
+TATASTEEL		0.55		110.45		18106367
+ICICIBANK		0.11		928.5		7869916
+RELIANCE		-0.02		2495.0		3315524
 
 Bullish_Hammer_15m_N500								 
 ======================= 
