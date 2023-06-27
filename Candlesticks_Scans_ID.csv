@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,0.1,248.75,2401517
-HINDALCO,0.23,415.65,1305451
+POWERGRID,0.08,248.7,2421435
+HINDALCO,0.24,415.7,1309960
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+EICHERMOT,-0.06,3549.65,89830
