@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.2		925.6		3018099
-CIPLA		-1.0		1011.7		489307
+CIPLA		-1.02		1011.45		491622
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALRAMCHIN		-0.89		384.5		649254
-CEATLTD		0.62		2063.3		222067
-ZFCVINDIA		0.37		12125.7		313
+BALRAMCHIN		-0.89		384.5		649698
