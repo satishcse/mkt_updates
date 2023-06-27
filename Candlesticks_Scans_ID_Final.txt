@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.52		1644.0		1468957
-BHARTIARTL		0.59		856.95		808032
-TCS		0.17		3195.2		156170
+HDFCBANK		0.5		1643.7		1487498
+BHARTIARTL		0.55		856.6		811619
+TCS		0.18		3195.3		157166
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-0.61		4405.0		152397
-POLYPLEX		0.35		1318.85		9213
+SUNPHARMA		-0.57		989.3		538767
+POLYPLEX		0.35		1318.9		9214
+SOLARINDS		-0.36		3739.6		4693
