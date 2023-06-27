@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-1.02		1011.45		491622
+TATAMOTORS		1.11		574.15		3771537
+KOTAKBANK		0.35		1829.35		336076
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALRAMCHIN		-0.89		384.5		649698
+VINATIORGA		0.22		1826.05		8311
