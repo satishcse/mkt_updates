@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.43		1309.4		1958422
-KOTAKBANK		0.63		1834.4		1115871
-TATACONSUM		-0.68		856.7		901784
-GRASIM		-0.34		1721.0		223356
+INDUSINDBK		-0.44		1309.25		1963433
+KOTAKBANK		0.61		1834.0		1123510
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEG		-0.54		1613.15		125940
+HEG		-0.55		1612.9		126020
