@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.46		721.1		3775504
-RELIANCE		-0.02		2495.05		3407224
-WIPRO		0.39		382.4		2484597
-EICHERMOT		-0.62		3529.6		220356
+ADANIPORTS		-0.61		720.0		3854272
+RELIANCE		-0.02		2495.0		3420372
+WIPRO		0.47		382.7		2490116
+EICHERMOT		-0.61		3529.95		221422
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.31		4621.35		310272
+BAJAJ-AUTO		0.37		4624.05		312004
