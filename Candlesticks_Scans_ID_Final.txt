@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.0		248.5		2169828
-CIPLA		-1.16		1010.05		460324
+POWERGRID		0.0		248.5		2189265
+CIPLA		-1.07		1010.95		469698
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CLEAN		0.41		1381.45		34015
+MCX		-1.8		1604.05		152015
+SOLARINDS		-0.97		3716.95		11828
