@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		3.01		649.2		5935781
+COALINDIA		0.45		225.3		2999406
+WIPRO		0.55		383.0		844171
+CIPLA		-1.11		1010.6		710582
+BRITANNIA		-0.58		4980.3		65046
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BEML		-0.01		1572.65		64523
+HAL		0.08		3704		1153944
