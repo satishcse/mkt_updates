@@ -2,17 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.54		1644.35		1633390
-BHARTIARTL		0.6		857.1		859871
-TCS		0.12		3193.55		180090
+UPL		-0.63		674.95		495321
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PRESTIGE		-0.05		578.05		92155
-SRF		-0.02		2338.15		77317
-MAHLOG		1.07		381.8		39426
-AFFLE		-0.32		1092.2		37813
-CENTURYPLY		0.45		631.85		33636
-QUESS		-0.29		425.25		16030
-SCHAEFFLER		0.18		3137.1		12218
+
