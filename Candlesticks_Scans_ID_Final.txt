@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.08		926.75		3780699
-POWERGRID		0.1		248.75		2480733
-HINDALCO		0.08		415.05		1347542
+ONGC		0.76		158.1		4642664
+ADANIENT		0.52		2307.5		1800833
+INFY		0.39		1275.35		983828
+SBILIFE		-0.51		1259.95		482674
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BDL		0.3		1096.7		326700
-BIKAJI		-0.76		416.3		54335
+
