@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.42		382.5		2335000
-ULTRACEMCO		0.38		8197.95		138608
+ULTRACEMCO		0.38		8198		139085
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ALKYLAMINE		0.19		2651.8		10527
+
