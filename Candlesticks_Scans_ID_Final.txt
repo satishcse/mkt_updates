@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.29		575.2		5950612
-WIPRO		0.59		383.15		916730
-ASIANPAINT		0.75		3332.95		525018
-HINDUNILVR		-0.31		2643.85		372960
-BAJAJ-AUTO		1.01		4653.45		213108
+TATAMOTORS		1.29		575.2		5968269
+WIPRO		0.62		383.25		918698
+ASIANPAINT		0.71		3331.55		526368
+HINDUNILVR		-0.31		2644.0		373730
+BAJAJ-AUTO		1.01		4653.45		213402
 
 Bullish_Hammer_15m_N500								 
 ======================= 
