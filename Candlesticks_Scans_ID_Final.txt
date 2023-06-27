@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.48		157.65		5578983
+ONGC		0.51		157.7		5583364
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GALAXYSURF		-1.04		2675.1		9238
+CARBORUNIV		-0.16		1174.8		48338
+GALAXYSURF		-1.04		2675.1		9258
 SANOFI		-0.3		6896.4		2762
