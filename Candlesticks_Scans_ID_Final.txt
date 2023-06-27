@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.76		158.1		4750110
-ADANIENT		0.39		2304.65		1824312
-HDFC		0.28		2727.95		1485040
+ONGC		0.7		158.0		4771224
+ADANIENT		0.52		2307.65		1827483
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		0.24		1945.9		35952
-BOSCHLTD		0.11		18609.6		3210
+BOSCHLTD		0.11		18609.5		3220
