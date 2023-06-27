@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.5		999.95		3708822
-ADANIPORTS		-0.75		719.0		2338280
-LT		0.71		2394.45		496166
-MARUTI		-0.53		9420.0		172403
+SUNPHARMA		0.5		999.9		3710058
+ADANIPORTS		-0.79		718.65		2346050
+LT		0.69		2393.9		497057
+MARUTI		-0.61		9412.55		173060
 
 Bullish_Hammer_15m_N500								 
 ======================= 
