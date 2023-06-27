@@ -2,16 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.72		571.95		1633679
-TCS		0.29		3198.85		138594
+BHARTIARTL		0.65		857.5		771728
+TCS		0.2		3196.1		141646
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KPITTECH		0.62		1082.0		181506
-COCHINSHIP		-0.08		585.8		160527
-MCX		-0.99		1617.25		70766
-UBL		-0.32		1491.45		21220
-SCHAEFFLER		0.39		3143.75		8436
-CAMS		-0.06		2148.5		5160
-POWERINDIA		-0.61		4166.0		2391
+
