@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.43		1514		385294
+BAJAJFINSV		0.43		1514		385663
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		-1.08		2363.35		79539
-OFSS		-0.69		3800.95		28165
-MFL		-0.25		1112.8		24931
-BLUEDART		-0.51		7117.45		11274
+OFSS		-0.65		3802.4		28178
+MFL		-0.16		1113.85		24950
+BLUEDART		-0.47		7120.0		11276
+IFBIND		0.19		800.0		7089
