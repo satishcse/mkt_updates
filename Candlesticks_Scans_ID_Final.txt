@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.76		158.1		4833577
-COALINDIA		0.45		225.3		2875811
-ADANIENT		0.45		2306.0		1835101
+ICICIBANK		0.1		928.4		4113567
+HDFCBANK		0.36		1641.4		3619518
+POWERGRID		0.1		248.75		2679657
+WIPRO		0.55		383.0		797367
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FIVESTAR		-1.09		652.5		80565
-BOSCHLTD		0.12		18609.95		3233
+
