@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.51		157.7		5583364
+TATAMOTORS		1.29		575.2		5950612
+WIPRO		0.59		383.15		916730
+ASIANPAINT		0.75		3332.95		525018
+HINDUNILVR		-0.31		2643.85		372960
+BAJAJ-AUTO		1.01		4653.45		213108
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CARBORUNIV		-0.16		1174.8		48338
-GALAXYSURF		-1.04		2675.1		9258
-SANOFI		-0.3		6896.4		2762
+
