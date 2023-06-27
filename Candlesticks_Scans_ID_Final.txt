@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.61		1645.6		5316493
-WIPRO		0.5		382.8		2147916
-SBILIFE		-0.02		1266.15		790792
-ASIANPAINT		0.55		3326.2		540638
-HEROMOTOCO		-0.17		2846.35		207293
+HDFCBANK		0.68		1646.75		5333996
+WIPRO		0.53		382.9		2150884
+SBILIFE		-0.04		1265.9		867477
+ASIANPAINT		0.54		3326.0		541506
+HEROMOTOCO		-0.2		2845.45		207567
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KEI		-0.05		2348.0		38678
-GOCOLORS		-0.52		1137.6		25861
+
