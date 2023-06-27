@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.49		382.75		2322568
-ULTRACEMCO		0.38		8198.0		136108
+WIPRO		0.47		382.7		2324579
+ULTRACEMCO		0.38		8198.0		136478
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-0.28		2342.65		45281
-HLEGLAS		-0.99		647.75		37312
+KEI		-0.22		2344.15		45370
+HLEGLAS		-1.04		647.45		38021
