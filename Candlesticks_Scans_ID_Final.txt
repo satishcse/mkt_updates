@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.04		573.75		8407943
+TATAMOTORS		0.99		573.45		8532535
+HINDUNILVR		0.05		2653.45		607763
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INGERRAND		-0.07		2949.1		9768
+CENTURYTEX		-0.2		794.35		139941
