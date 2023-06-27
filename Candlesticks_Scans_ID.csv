@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.59,110.5,18129117
-ICICIBANK,0.18,929.1,7913993
-RELIANCE,-0.02,2495.05,3320898
-HINDALCO,0.84,418.2,2219714
+RELIANCE,-0.03,2494.9,3326370
+HINDALCO,0.82,418.1,2222250
+APOLLOHOSP,1.7,5122.75,428009
+EICHERMOT,-0.57,3531.35,211612
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GARFIBRES,-0.59,3087.15,24652
