@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.83		158.2		5185260
+ONGC		0.8		158.15		5197403
+SBILIFE		-0.19		1264.0		542839
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FLUOROCHEM		-0.08		3009.4		27562
