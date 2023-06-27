@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.6		383.2		928030
-ASIANPAINT		0.63		3329.15		532255
-HINDUNILVR		-0.34		2643.05		376955
-BAJAJ-AUTO		0.98		4652.1		216326
-HEROMOTOCO		-0.12		2847.8		205570
+COALINDIA		0.49		225.4		3363151
+WIPRO		0.53		382.9		937094
+ASIANPAINT		0.66		3329.9		533174
+HINDUNILVR		-0.34		2643.0		378187
+BAJAJ-AUTO		0.97		4651.5		217161
+HEROMOTOCO		-0.14		2847.4		205577
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-0.03		2348.55		37773
+KEI		-0.14		2346.05		37920
