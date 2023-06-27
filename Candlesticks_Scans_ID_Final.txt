@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.37		8197.1		123859
+ULTRACEMCO		0.38		8197.95		124075
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKCEMENT		-0.12		3421.8		84777
-BOSCHLTD		-0.43		18509.0		6587
+BAJAJELEC		-1.17		1215.95		149710
+LTIM		-0.09		5002.95		102121
+JKCEMENT		-0.11		3422.0		85482
+BOSCHLTD		-0.37		18519.95		6588
