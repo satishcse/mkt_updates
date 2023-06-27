@@ -2,14 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.14		111.1		10416168
-WIPRO		0.53		382.9		840300
-TCS		0.11		3193.0		348036
-APOLLOHOSP		1.42		5108.5		300727
+HDFCLIFE		3.01		649.2		5935781
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBCHEPHARM		-0.05		2340.35		103778
-CARBORUNIV		0.04		1177.15		43671
-RELAXO		-0.49		904.9		20859
+BEML		-0.01		1572.65		64523
