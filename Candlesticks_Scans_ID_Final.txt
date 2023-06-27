@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.86		110.8		22375853
-SUNPHARMA		0.77		1002.6		4443551
+TATASTEEL		0.86		110.8		22530670
+NTPC		0.62		186.05		6240086
+SUNPHARMA		0.77		1002.6		4455170
+NESTLEIND		0.07		22647.2		40774
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PHOENIXLTD		-0.24		1524.85		42986
+GRINFRA		-0.41		1262.1		9187
