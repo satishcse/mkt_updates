@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ULTRACEMCO		0.38		8197.9		123068
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKCEMENT		-0.23		3418		83183
+JKCEMENT		-0.18		3419.75		83652
+NAVINFLUOR		-0.75		4424.0		39764
