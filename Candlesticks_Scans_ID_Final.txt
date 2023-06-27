@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.75		1647.85		6180637
-COALINDIA		0.45		225.3		3989042
-WIPRO		0.51		382.85		2303003
-GRASIM		-0.42		1719.55		171786
-ULTRACEMCO		0.38		8197.95		132025
+HDFCBANK		0.74		1647.65		6185051
+WIPRO		0.53		382.9		2304340
+JSWSTEEL		0.61		753.4		1820393
+ULTRACEMCO		0.38		8197.9		132413
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-IFBIND		0.22		800.25		7153
+
