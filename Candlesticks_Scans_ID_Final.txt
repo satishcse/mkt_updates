@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.2		444.8		3065230
-TCS		-0.05		3188.05		585214
-BAJAJFINSV		0.56		1516.0		452023
+ONGC		0.86		158.25		7228167
+ITC		-0.2		444.8		3071520
+TCS		-0.11		3186.05		589685
+BAJAJFINSV		0.53		1515.5		452322
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BRITANNIA		-0.91		4963.65		113185
 PATANJALI		-1.43		1173.95		65714
-MOTILALOFS		-0.47		681.6		37284
-CERA		0.03		7635.0		15113
+MOTILALOFS		-0.47		681.6		37442
