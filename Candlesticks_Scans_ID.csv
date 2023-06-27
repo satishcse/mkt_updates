@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,0.76,158.1,4642664
-ADANIENT,0.52,2307.5,1800833
-INFY,0.39,1275.35,983828
-SBILIFE,-0.51,1259.95,482674
+ONGC,0.83,158.2,4645186
+ADANIENT,0.43,2305.4,1805531
+INFY,0.41,1275.5,987418
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CLEAN,0.09,1377.1,37794
+POWERINDIA,-1.83,4114.95,5399
