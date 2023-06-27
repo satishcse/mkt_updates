@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-1.13		1010.35		1273100
+COALINDIA		0.45		225.3		5006954
+CIPLA		-1.1		1010.65		1274036
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AETHER		-1.27		1074.65		112187
+INDIAMART		-0.91		2847.0		103611
