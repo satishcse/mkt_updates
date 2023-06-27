@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		0.59		4483.45		10075
-JKCEMENT		-0.08		3423.2		7810
-CAMS		-0.03		2149.0		3678
+NAVINFLUOR		0.51		4480.0		10580
+SCHAEFFLER		0.36		3142.7		7962
+JKCEMENT		-0.04		3424.4		7878
