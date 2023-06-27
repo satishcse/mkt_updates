@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.51		382.85		2310842
-ULTRACEMCO		0.38		8198.0		133439
+WIPRO		0.5		382.8		2314734
+BAJAJFINSV		0.48		1514.8		390393
+ULTRACEMCO		0.38		8198.0		134240
 
 Bullish_Hammer_15m_N500								 
 ======================= 
