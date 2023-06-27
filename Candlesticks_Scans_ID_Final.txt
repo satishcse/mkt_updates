@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.14		248.85		4427375
-HINDALCO		0.64		417.35		1892230
-HEROMOTOCO		-0.22		2845.0		209836
+POWERGRID		0.12		248.8		4449055
+HINDALCO		0.57		417.05		1893354
+HEROMOTOCO		-0.17		2846.35		209936
 
 Bullish_Hammer_15m_N500								 
 ======================= 
