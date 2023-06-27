@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.02		2495.0		3380117
-WIPRO		0.41		382.45		2474568
-EICHERMOT		-0.69		3527.0		216753
+RELIANCE		-0.02		2495.0		3393348
+WIPRO		0.39		382.4		2476605
+EICHERMOT		-0.61		3530.0		218399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AIAENG		-2.08		3250		20891
+GOCOLORS		-1.66		1124.65		37216
