@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.81		718.5		2373064
-LT		0.61		2392.05		502333
+ADANIPORTS		-0.84		718.35		2384014
+LT		0.64		2392.65		503302
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KAJARIACER		-0.7		1264.05		72325
