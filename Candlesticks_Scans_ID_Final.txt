@@ -1,12 +1,19 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-APOLLOHOSP		-0.33		5125.95		355540
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBER		-2.94		2191.35		358052
-APLAPOLLO		-1.57		1316.8		236128
-RADICO		-1.02		1212.85		71926
+MAXHEALTH		-1.25		602.0		5701166
+360ONE		-2.4		445.75		376015
+AMBER		-3.0		2190.0		359345
+LALPATHLAB		-0.68		2205.0		301942
+DEEPAKNTR		-0.99		2177.5		260004
+APLAPOLLO		-1.53		1317.3		237171
+CHOLAHLDNG		-0.57		914.7		200388
+FLUOROCHEM		-1.76		2956.0		79732
+RADICO		-1.18		1210.9		72168
+WHIRLPOOL		-0.04		1460.0		35664
+MASTEK		0.58		1917.65		31074
