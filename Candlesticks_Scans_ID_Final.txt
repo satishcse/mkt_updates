@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		3.22		1334.95		11736653
-HDFCLIFE		0.02		652.1		8095045
-WIPRO		1.9		388.95		4001741
-UPL		1.08		687.7		1572563
-BAJFINANCE		1.04		7163.65		819665
+INFY		3.22		1334.95		11903833
+HDFCLIFE		0.1		652.6		8178639
+BAJFINANCE		1.04		7163.95		828633
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DALBHARAT		-2.42		2165.85		119781
