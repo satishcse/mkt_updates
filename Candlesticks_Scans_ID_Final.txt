@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.09		111.45		8537327
-JSWSTEEL		0.56		787.75		631215
-BAJAJ-AUTO		-0.27		4703.75		237908
+JSWSTEEL		0.08		784.0		678395
+BAJAJ-AUTO		-0.3		4701.95		240616
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MUTHOOTFIN		-0.79		1237.65		133103
-MAPMYINDIA		-0.25		1221.3		24640
+GALAXYSURF		-0.11		2649.1		4248
