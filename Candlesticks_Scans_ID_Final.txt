@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.01		160.15		5093546
-WIPRO		1.32		386.75		2450235
+ONGC		1.04		160.2		5103951
+ADANIPORTS		-1.54		744.85		4937031
+WIPRO		1.36		386.9		2452501
 
 Bullish_Hammer_15m_N500								 
 ======================= 
