@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.19		784.85		2252586
-EICHERMOT		0.85		3574.85		657884
-DIVISLAB		-0.18		3594.95		367396
+WIPRO		1.87		388.85		3884787
+JSWSTEEL		0.15		784.55		2283922
+EICHERMOT		0.85		3574.9		666202
+DIVISLAB		-0.31		3590.5		371721
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IFBIND		-0.59		813.95		17628
+PFIZER		-1.38		3778.35		121214
+DALBHARAT		-2.28		2168.9		110967
