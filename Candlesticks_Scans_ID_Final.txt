@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.08		229.7		3296221
-KOTAKBANK		0.15		1843.3		2344529
-JSWSTEEL		-0.09		782.7		1484561
-MARUTI		2.19		9750.0		521403
+COALINDIA		1.08		229.7		3305841
+KOTAKBANK		0.19		1844.0		2354729
+JSWSTEEL		-0.06		782.9		1485030
+MARUTI		2.18		9748.95		522236
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRAFTSMAN		-0.77		4017.15		8525
+CRAFTSMAN		-0.57		4025		8539
