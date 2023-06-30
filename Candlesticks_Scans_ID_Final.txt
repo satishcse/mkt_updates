@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.18		111.75		12664882
-ITC		0.21		450.3		3862207
-MARUTI		2.08		9739.0		390286
+TATASTEEL		0.18		111.75		12702030
+ITC		0.24		450.45		3876610
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASTRAL		0.09		1983.25		326927
