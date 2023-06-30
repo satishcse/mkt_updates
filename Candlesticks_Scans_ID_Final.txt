@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.23		571.1		3189740
-AXISBANK		0.13		979.5		2440116
-BPCL		-0.62		363.15		1585551
+SBIN		0.34		571.75		3213459
+AXISBANK		0.16		979.75		2445846
+BPCL		-0.62		363.15		1588844
+HINDUNILVR		-0.13		2657.7		335082
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFIZER		-0.58		3808.9		5719
-BASF		-0.33		2610.95		4401
+PFIZER		-0.47		3813.1		5720
