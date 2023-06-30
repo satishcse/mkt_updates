@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-0.03		1742.65		242509
+COALINDIA		0.99		229.5		3040160
+GRASIM		-0.03		1742.65		242625
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SAPPHIRE		-1.46		1395		143230
