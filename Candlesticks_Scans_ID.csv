@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCLIFE,-0.48,648.85,8616092
-ONGC,1.1,160.3,7748968
-BAJFINANCE,1.05,7164.6,877720
+HDFCLIFE,-0.33,649.8,8661598
+ONGC,1.17,160.4,7821003
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+FSL,-2.41,127.3,3480515
+RAINBOW,-1.48,963.0,213675
+AETHER,-0.49,1067.1,64283
+IFBIND,-0.47,814.9,22605
