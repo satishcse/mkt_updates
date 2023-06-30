@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-10.51		1469.75		1014342
-CCL		-0.95		659.15		12086
-MFL		0.94		1125.1		9745
-GRINDWELL		0.04		2263.6		1359
+AETHER		0.24		1075.0		14926
+MFL		0.89		1124.55		9769
+GRINDWELL		0.06		2264.0		1360
 ZFCVINDIA		-0.08		12167.45		324
