@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		3.35		1378.75		2763689
-TCS		2.33		3290.45		1600697
-GRASIM		0.05		1743.95		240643
+INDUSINDBK		3.34		1378.6		2773978
+WIPRO		1.34		386.8		2394485
+TCS		2.32		3290.0		1603242
+APOLLOHOSP		-1.02		5074.85		253363
+GRASIM		0.05		1743.95		240890
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SAPPHIRE		-1.61		1392.9		140248
