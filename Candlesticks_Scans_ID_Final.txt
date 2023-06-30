@@ -1,9 +1,21 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-COALINDIA		0.29		227.9		16935
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RELIANCE		0.56		2543.6		227000
+KOTAKBANK		0.27		1845.45		127286
+QUESS		1.41		451.1		18159
+PIDILITIND		0.52		2612.1		6863
+SOLARINDS		-2.06		3763.75		4959
+ICICIGI		-0.26		1329.2		3340
+BAJAJELEC		0.43		1265.4		987
+GOCOLORS		0.93		1139.95		941
+BBTC		0.4		1030.0		897
+MANYAVAR		0.81		1265.0		457
+TCIEXP		1.01		1566.7		117
+BAYERCROP		0.16		4357.3		55
+GARFIBRES		0.44		3114.8		15
