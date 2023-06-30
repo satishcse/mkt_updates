@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.32		253.45		7922002
-TECHM		1.23		1121.7		1432451
-TITAN		0.53		3044.0		550843
-SBILIFE		0.66		1308.5		448155
+POWERGRID		1.34		253.5		7946406
+KOTAKBANK		0.11		1842.6		1949322
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JKCEMENT		-1.15		3389.6		53711
+
