@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.46		595.2		7510473
-COALINDIA		0.99		229.5		2938178
-WIPRO		1.38		386.95		2330834
-BAJAJ-AUTO		-0.24		4705.0		366849
-DRREDDY		0.83		5150.0		289077
-NESTLEIND		0.06		22758.0		18088
+TATAMOTORS		1.43		595.05		7556141
+COALINDIA		0.97		229.45		2972010
+WIPRO		1.34		386.8		2345044
+BAJAJ-AUTO		-0.24		4704.8		368216
+DRREDDY		0.73		5145.05		291906
+NESTLEIND		0.06		22758.0		18120
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DEEPAKNTR		-0.31		2170.5		134972
