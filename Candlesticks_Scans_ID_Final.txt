@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		3.33		1378.5		2784264
-WIPRO		1.38		386.95		2400366
+WIPRO		1.38		386.95		2404641
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAPPHIRE		-1.62		1392.7		140918
+AJANTPHARM		0.57		1487.1		18217
