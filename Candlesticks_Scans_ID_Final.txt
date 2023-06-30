@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.32		571.6		3230106
-HINDALCO		0.55		422.5		1766827
-BPCL		-0.57		363.3		1589589
-TATACONSUM		-0.24		852.9		419552
-HINDUNILVR		-0.12		2658.0		337093
+TATASTEEL		0.18		111.75		11972698
+NTPC		-0.03		189.05		4301830
+ONGC		0.95		160.05		4021123
+BRITANNIA		-0.24		4980.25		62033
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFIZER		-0.46		3813.7		5734
+GODREJPROP		-0.65		1572.8		378152
+MEDPLUS		0.21		772.95		43877
