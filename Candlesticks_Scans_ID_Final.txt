@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATAMOTORS		1.59		595.95		4955068
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BASF		0.03		2620.2		3162
+MTARTECH		0.32		1925.75		32418
+AIAENG		-0.74		3236.0		24913
+BASF		0.02		2619.95		3175
