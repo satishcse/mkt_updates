@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.32		649.85		8464091
-ONGC		1.14		160.35		7563236
-BAJFINANCE		1.0		7161.2		856396
+HDFCLIFE		-0.45		649.0		8500320
+ONGC		1.1		160.3		7618832
+BAJFINANCE		0.98		7159.65		860251
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROBRAND		-3.05		937.8		185420
+FSL		-0.92		129.25		3358180
+TORNTPOWER		-0.86		614.0		367658
+GMMPFAUDLR		-1.06		1482.15		95826
+IFBIND		-0.53		814.45		22065
+LAXMIMACH		0.63		12661.45		4978
