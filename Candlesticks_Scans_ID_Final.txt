@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		0.76		5146.75		372372
-GRASIM		-0.5		1734.4		339673
+DRREDDY		0.82		5149.8		373283
+GRASIM		-0.47		1734.95		339888
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SANOFI		-0.32		6888.2		7106
