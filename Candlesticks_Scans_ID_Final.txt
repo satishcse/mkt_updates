@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.27		111.85		13266906
-POWERGRID		1.2		253.15		7662949
-WIPRO		1.43		387.15		2145431
-BAJAJFINSV		0.47		1526.05		468596
+TATAMOTORS		1.7		596.65		7006571
+WIPRO		1.4		387.05		2153126
+M&M		3.8		1447.95		1981866
+BAJAJFINSV		0.46		1525.9		469318
 
 Bullish_Hammer_15m_N500								 
 ======================= 
