@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.35		934.2		4537304
-HINDALCO		-0.02		420.1		1420930
-UPL		0.65		684.75		873981
+NTPC		0.16		189.4		3899986
+UPL		0.68		685.0		877820
 
 Bullish_Hammer_15m_N500								 
 ======================= 
