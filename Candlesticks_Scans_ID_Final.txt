@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.99		229.5		3051538
-WIPRO		1.38		386.95		2416407
-GRASIM		-0.01		1743.0		244077
+COALINDIA		0.95		229.4		3073726
+WIPRO		1.36		386.9		2420594
+GRASIM		-0.08		1741.7		245102
 
 Bullish_Hammer_15m_N500								 
 ======================= 
