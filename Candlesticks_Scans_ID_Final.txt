@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.36		111.95		24243794
-WIPRO		1.87		388.85		3958701
-JSWSTEEL		0.11		784.25		2308805
-EICHERMOT		0.93		3577.65		675218
-DIVISLAB		-0.51		3583.35		382645
+INFY		3.22		1334.95		11736653
+HDFCLIFE		0.02		652.1		8095045
+WIPRO		1.9		388.95		4001741
+UPL		1.08		687.7		1572563
+BAJFINANCE		1.04		7163.65		819665
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PFIZER		-1.35		3779.4		121530
+
