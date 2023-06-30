@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.31		111.9		19779264
-ICICIBANK		-0.35		934.15		9332161
-WIPRO		1.28		386.6		2679959
-KOTAKBANK		0.01		1840.8		2532988
-BPCL		-0.08		365.1		2468267
-TECHM		1.32		1122.75		1748357
-DRREDDY		0.83		5150.0		336752
+ICICIBANK		-0.34		934.3		9345745
+WIPRO		1.3		386.65		2683582
+KOTAKBANK		0.09		1842.25		2538006
+BPCL		-0.1		365.05		2500215
+DRREDDY		0.83		5150.0		338881
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KAJARIACER		-1.01		1255		93243
+
