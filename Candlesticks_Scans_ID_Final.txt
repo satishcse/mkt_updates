@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.38		386.95		2404641
+WIPRO		1.38		386.95		2406752
+GRASIM		0.05		1743.95		241859
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AJANTPHARM		0.57		1487.1		18217
+SAPPHIRE		-1.56		1393.5		141206
