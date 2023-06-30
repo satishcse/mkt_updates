@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.56		983.65		4179594
-EICHERMOT		0.7		3569.65		543001
+WIPRO		1.34		386.8		2660688
+KOTAKBANK		0.2		1844.3		2492190
+BPCL		-0.07		365.15		2429402
+BAJAJ-AUTO		-0.35		4700.0		424925
+DRREDDY		0.83		5150.0		331808
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KEI		-0.97		2296.4		63738
+
