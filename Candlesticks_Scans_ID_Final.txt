@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ITC		0.19		450.2		4024003
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIJAYA		-5.11		467.2		181307
-ECLERX		-0.47		1679.95		60159
-METROBRAND		-0.44		963.0		33648
-SUNDARMFIN		-0.14		2610.0		16019
+ECLERX		-0.49		1679.6		60465
+SUNDARMFIN		-0.15		2609.85		16335
