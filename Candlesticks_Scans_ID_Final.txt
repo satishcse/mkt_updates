@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		2.14		3284.2		1503902
-TITAN		0.53		3044.0		555548
+ASIANPAINT		0.31		3358.75		882705
+TITAN		0.53		3044.0		556582
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FLUOROCHEM		-0.89		2928.6		163186
+
