@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.31		934.5		9353896
-WIPRO		1.3		386.65		2685579
-KOTAKBANK		-0.03		1840.0		2561256
-BPCL		-0.08		365.1		2501924
+ICICIBANK		-0.31		934.5		9372928
+WIPRO		1.28		386.6		2690248
+KOTAKBANK		-0.03		1840.0		2585743
+BPCL		-0.1		365.05		2512863
 
 Bullish_Hammer_15m_N500								 
 ======================= 
