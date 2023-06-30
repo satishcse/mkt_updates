@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.59		984.0		4150269
-EICHERMOT		0.68		3569.1		540712
+AXISBANK		0.56		983.65		4179594
+EICHERMOT		0.7		3569.65		543001
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-0.97		2296.2		63500
+KEI		-0.97		2296.4		63738
