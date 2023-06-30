@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.48		572.55		1431491
-COALINDIA		0.15		227.6		843582
-RELIANCE		0.49		2541.85		774973
+ONGC		0.5		159.35		2688178
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JINDALSTEL		0.3		577.8		418406
-BSE		-0.85		609.55		304820
-DALBHARAT		-0.43		2209.9		20835
+
