@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.08		189.25		5323055
-SBIN		0.3		571.5		4364362
-INDUSINDBK		3.32		1378.35		2778696
-TCS		2.33		3290.35		1606290
-GRASIM		0.05		1743.95		240944
+INDUSINDBK		3.33		1378.5		2784264
+WIPRO		1.38		386.95		2400366
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAPPHIRE		-1.56		1393.5		140771
+SAPPHIRE		-1.62		1392.7		140918
