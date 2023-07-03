@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.52		592.45		8469212
-ONGC		1.37		162.5		5901791
-POWERGRID		-1.61		251.05		5887902
-NTPC		1.27		191.55		5289435
-TECHM		-0.79		1121.95		1466829
+TATAMOTORS		-0.49		592.65		8474373
+POWERGRID		-1.61		251.05		5896862
+NTPC		1.22		191.45		5296220
+TECHM		-0.77		1122.15		1468210
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SIEMENS		-0.93		3731.5		94175
+
