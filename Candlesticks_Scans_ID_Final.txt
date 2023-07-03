@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.74		250.7		3597125
-WIPRO		0.32		390.4		2193834
-BAJFINANCE		0.7		7211.0		404554
-BAJAJ-AUTO		-1.74		4609.7		197734
+ITC		0.54		454.05		2673542
+WIPRO		0.28		390.25		2198088
+BAJFINANCE		0.73		7213.0		405866
+BAJAJ-AUTO		-1.76		4608.8		198522
 
 Bullish_Hammer_15m_N500								 
 ======================= 
