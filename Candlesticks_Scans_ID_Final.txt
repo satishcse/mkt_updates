@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.24		1332.35		4114357
-HCLTECH		-0.73		1179.3		765812
-BAJAJ-AUTO		-1.76		4609.15		214194
-BRITANNIA		-0.47		5001.0		52776
+KOTAKBANK		0.08		1847.95		1552511
+HCLTECH		-0.68		1179.85		767058
+BAJAJ-AUTO		-1.76		4609.2		214408
+BRITANNIA		-0.51		4998.9		52923
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRAFTSMAN		-0.93		3989.05		9416
+BIRLACORPN		-0.34		1236		31156
+CRAFTSMAN		-0.76		3996		9463
