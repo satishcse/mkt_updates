@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.94		2599.75		3307083
-M&M		1.65		1477.65		2730227
-LT		-0.25		2469.45		626376
+TATASTEEL		1.07		113.2		21529971
+BPCL		2.8		374.9		4829854
+ULTRACEMCO		1.63		8430.15		244147
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DCMSHRIRAM		-1.19		892		35500
+
