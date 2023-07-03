@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.53		648.5		8680997
-ONGC		1.14		160.35		7845435
+HDFCLIFE		-0.12		651.2		8681796
+ONGC		1.1		160.3		7840112
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FSL		-1.53		128.45		3521881
-VGUARD		-0.18		284.0		559595
-DIVISLAB		-0.41		3586.8		432566
-RAINBOW		-1.27		965.0		214571
-AJANTPHARM		0.14		1480.7		35754
+FSL		-2.41		127.3		3528984
+VGUARD		-0.7		282.5		559556
+DIVISLAB		-0.5		3583.6		432628
+RAINBOW		-1.67		961.1		214640
+AJANTPHARM		0.04		1479.15		35754
