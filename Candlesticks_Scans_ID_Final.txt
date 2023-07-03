@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-1.84		4605.1		209549
+BAJAJ-AUTO		-1.79		4607.75		210482
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANYAVAR		0.75		1248.35		39549
-DCMSHRIRAM		-1.01		893.65		25254
-ABBOTINDIA		-0.86		23218.85		2466
+WESTLIFE		-0.85		848.6		28177
+DCMSHRIRAM		-1.0		893.7		25403
+BOSCHLTD		-0.51		18944.4		6360
