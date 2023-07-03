@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.24		1332.3		4082504
-TECHM		-1.15		1117.8		1180147
-HCLTECH		-0.69		1179.7		759147
-BRITANNIA		-0.41		5004.1		52192
+INFY		-0.26		1332.05		4101769
+BAJAJ-AUTO		-1.76		4609.0		212776
+BRITANNIA		-0.41		5004.15		52553
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CRAFTSMAN		-0.93		3989.05		9413
