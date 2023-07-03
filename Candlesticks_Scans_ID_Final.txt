@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.52		982.3		1211128
+AXISBANK		-0.59		981.6		1263835
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFSL		-0.65		805.6		174694
-ZFCVINDIA		-0.02		12160.0		1518
+POWERINDIA		-0.43		4139.95		2070
+ZFCVINDIA		-0.03		12158.9		1576
