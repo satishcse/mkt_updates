@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.97		2600.5		3253658
-M&M		1.76		1479.2		2699712
-LT		-0.22		2470.0		610537
+RELIANCE		1.86		2597.7		3278478
+M&M		1.74		1478.9		2707585
+LT		-0.23		2469.8		619274
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TORNTPHARM		-0.43		1896.8		105021
+
