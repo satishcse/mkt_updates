@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.02		578.7		5725274
-WIPRO		0.26		390.15		2229215
-UPL		-0.66		683.0		959085
-BAJAJ-AUTO		-1.77		4608.6		203273
+SBIN		1.02		578.7		5736167
+WIPRO		0.24		390.1		2233885
+UPL		-0.66		683.0		959927
+BAJAJ-AUTO		-1.74		4609.95		203636
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.25		1841.95		1397920
-DIXON		-0.24		4377.9		146153
+KOTAKBANK		-0.25		1841.95		1400459
