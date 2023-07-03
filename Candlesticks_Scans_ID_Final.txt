@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.24		858.8		720070
-BAJAJ-AUTO		-1.77		4608.5		283626
+TATACONSUM		-0.26		858.7		720515
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KIMS		-1.92		1753.2		184867
