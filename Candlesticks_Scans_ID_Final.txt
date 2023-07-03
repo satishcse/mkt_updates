@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.86		424.55		977818
-TECHM		-0.56		1124.5		820187
-BAJFINANCE		0.91		7226.0		305932
+HINDALCO		0.82		424.4		987878
+TECHM		-0.56		1124.5		826076
+BAJFINANCE		0.88		7223.95		308851
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CERA		-0.26		7640.95		4561
+DIXON		0.06		4391.4		114862
