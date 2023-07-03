@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ITC,0.54,454.05,2673542
-WIPRO,0.28,390.25,2198088
-BAJFINANCE,0.73,7213.0,405866
-BAJAJ-AUTO,-1.76,4608.8,198522
+WIPRO,0.27,390.2,2217545
+BAJAJ-AUTO,-1.77,4608.35,201953
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TORNTPHARM,-0.26,1900.0,86780
+APOLLOHOSP,-0.28,5084.05,68959
+COFORGE,-1.19,4655.35,58794
