@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.43		113.6		9083492
-UPL		-0.42		684.65		377707
-HINDUNILVR		-0.12		2674.95		134190
-APOLLOHOSP		0.43		5120.25		42320
+HINDUNILVR		-0.15		2674.2		136192
+TITAN		-0.03		3046.85		118416
+APOLLOHOSP		0.37		5117.25		42790
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CENTURYTEX		-1		852.85		172699
