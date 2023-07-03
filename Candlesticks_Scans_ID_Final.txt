@@ -1,12 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		1.43		113.6		9083492
+UPL		-0.42		684.65		377707
+HINDUNILVR		-0.12		2674.95		134190
+APOLLOHOSP		0.43		5120.25		42320
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-STARHEALTH		0.22		586.4		187708
-ALKYLAMINE		-0.32		2716.75		10740
-BAJAJHLDNG		-0.58		6963.7		5087
-GRINDWELL		0.38		2289.05		3327
+
