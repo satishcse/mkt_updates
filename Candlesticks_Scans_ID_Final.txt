@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.41		983.45		3480226
-LT		-0.28		2468.6		595915
-ASIANPAINT		-0.3		3352.05		271111
+AXISBANK		-0.41		983.4		3484717
+LT		-0.26		2469.15		596877
+ASIANPAINT		-0.23		3354.45		271533
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIXON		-0.31		4375.0		162033
+KAJARIACER		-1.11		1243.65		63763
