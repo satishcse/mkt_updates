@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.16		191.35		5891475
-BPCL		3.15		376.2		5560310
-M&M		1.19		1470.95		3084448
-ADANIPORTS		-0.16		738.1		2152410
-TECHM		-0.82		1121.55		1575789
-BAJAJ-AUTO		-1.8		4607.2		297121
+NTPC		1.22		191.45		5908904
+BPCL		3.15		376.2		5574076
+ADANIPORTS		-0.17		738.0		2154257
+TECHM		-0.81		1121.7		1576999
+BAJAJ-AUTO		-1.78		4608.0		297640
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		-1.07		2345		77476
+BALKRISIND		-1.03		2345.95		77594
