@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.68		163.0		8833216
-HEROMOTOCO		-0.38		2898.95		770323
+ONGC		1.68		163		9095912
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AAVAS		-0.03		1536.45		608663
-TEJASNET		-0.73		718.9		233667
-SUNDRMFAST		-0.57		1210.0		65734
-SOLARINDS		-0.33		3727.8		47491
-TIMKEN		-0.73		3398.5		39842
+KIMS		-1.99		1751.85		195305
+BALAMINES		-0.62		2302.1		49167
+MASTEK		-0.86		1926.7		34805
+INGERRAND		-2.55		2786.2		30837
