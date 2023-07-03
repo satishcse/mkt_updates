@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.47		162.65		6824074
-M&M		1.13		1470.05		3065860
-ADANIPORTS		-0.17		738.0		2138469
-TECHM		-0.8		1121.75		1569752
-BAJAJ-AUTO		-1.77		4608.55		295247
+ONGC		1.43		162.6		6848618
+NTPC		1.19		191.4		5867971
+M&M		1.19		1470.85		3068758
+ADANIPORTS		-0.15		738.15		2140824
+TECHM		-0.84		1121.4		1570744
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MRF		-1.54		99700		6611
+
