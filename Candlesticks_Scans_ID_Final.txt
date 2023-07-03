@@ -2,12 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.68		163		9095912
+ONGC		1.68		163		9141447
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KIMS		-1.99		1751.85		195305
-BALAMINES		-0.62		2302.1		49167
-MASTEK		-0.86		1926.7		34805
-INGERRAND		-2.55		2786.2		30837
+TEJASNET		-0.76		718.7		256762
+DIXON		-0.54		4364.9		234961
+KIMS		-1.94		1752.8		195534
+QUESS		-1.28		444.15		130474
+PRINCEPIPE		-0.95		664.85		128050
+MTARTECH		0.11		1919.95		88240
+MASTEK		-0.85		1927.0		34847
+INGERRAND		-2.47		2788.55		31235
+CRAFTSMAN		-1.43		3968.95		23744
