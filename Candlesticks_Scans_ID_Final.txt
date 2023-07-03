@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-1.78		4607.9		211583
+INFY		-0.24		1332.3		4082504
+TECHM		-1.15		1117.8		1180147
+HCLTECH		-0.69		1179.7		759147
+BRITANNIA		-0.41		5004.1		52192
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDIAMART		-1.89		2761.0		55006
-WESTLIFE		-0.85		848.55		28235
-BOSCHLTD		-0.41		18963.4		6422
+
