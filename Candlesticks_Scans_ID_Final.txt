@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.16		113.3		26134427
-ONGC		1.65		162.95		7774094
-ITC		1.82		459.8		7714147
-TATACONSUM		-0.26		858.7		1003195
+ONGC		1.65		162.95		7822807
+TATACONSUM		-0.28		858.5		1011399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUMICHEM		-0.17		435.55		163635
-JKCEMENT		-0.65		3359.9		36070
-THERMAX		-0.67		2266.35		22616
+HAL		-0.59		3770.0		594789
+JKCEMENT		-0.67		3359.2		36206
+THERMAX		-0.61		2267.85		22629
