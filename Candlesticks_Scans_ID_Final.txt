@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.27		390.2		2217545
-BAJAJ-AUTO		-1.77		4608.35		201953
+WIPRO		0.31		390.35		2219707
+UPL		-0.66		683.0		956070
+BAJAJ-AUTO		-1.78		4608.1		202614
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-0.26		1900.0		86780
-APOLLOHOSP		-0.28		5084.05		68959
-COFORGE		-1.19		4655.35		58794
+KOTAKBANK		-0.25		1841.9		1393675
+DIXON		-0.31		4375.1		145610
+APOLLOHOSP		-0.23		5086.3		69055
