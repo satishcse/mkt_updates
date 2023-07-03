@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-LT,-0.33,2467.35,549753
-HINDUNILVR,-0.49,2664.95,350831
-DIVISLAB,1.36,3632.2,311618
+HINDUNILVR,-0.49,2664.95,352082
+DIVISLAB,1.31,3630.4,311980
+ULTRACEMCO,1.69,8434.6,227150
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+LUXIND,0.01,1509,13649
