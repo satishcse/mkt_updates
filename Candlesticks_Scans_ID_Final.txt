@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.52		393.65		3472990
-TATAMOTORS		0.69		594.9		3324280
+WIPRO		0.49		393.5		3480010
+TATAMOTORS		0.7		594.95		3334312
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CREDITACC		0.41		1268.05		478515
+
