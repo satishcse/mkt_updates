@@ -1,13 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ITC		0.24		464.35		6094131
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.22		592.1		5780005
-APLAPOLLO		-1.1		1313.65		269292
-CAMS		-0.41		2283.1		195585
-AFFLE		-0.65		1066.9		114818
+APLAPOLLO		-1.11		1313.55		270491
