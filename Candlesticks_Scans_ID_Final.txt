@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+LT		0.64		2469.85		326843
+ULTRACEMCO		-0.54		8417.85		60004
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANURAS		-0.46		999.95		46036
-ALKYLAMINE		-1.25		2698.05		8026
+ALKYLAMINE		-1.25		2698.05		8032
