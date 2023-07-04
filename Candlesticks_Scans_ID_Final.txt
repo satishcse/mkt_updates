@@ -2,16 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.94		193.05		4513072
-KOTAKBANK		0.68		1856.5		3383583
-JSWSTEEL		0.46		797.65		1716924
-BPCL		0.32		376.5		1701749
-CIPLA		0.18		1003.6		692928
-NESTLEIND		-0.39		22544.85		14064
+NTPC		0.92		193.0		4523988
+KOTAKBANK		0.65		1855.95		3390099
+JSWSTEEL		0.46		797.65		1718890
+CIPLA		0.12		1003.0		693256
+NESTLEIND		-0.43		22535.05		14086
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HAL		-0.85		3738.0		359697
-PIDILITIND		-0.1		2569.0		202797
-NESTLEIND		-0.39		22544.85		14064
+
