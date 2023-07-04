@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAUKRI		-1.04		4430.0		263237
-HEG		-3.11		1583.25		130591
+FIVESTAR		-2.89		649.25		206398
+HEG		-2.87		1587.25		130903
+SUNDARMFIN		-0.29		2628.9		15345
+ZFCVINDIA		-1.2		12150.35		1405
