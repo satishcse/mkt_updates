@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.46		393.4		3409116
-BPCL		0.08		375.6		1093416
-HINDALCO		-0.2		424.8		1054912
+WIPRO		0.46		393.4		3415184
+BPCL		0.04		375.45		1103523
+HINDALCO		-0.14		425.05		1057568
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CREDITACC		0.48		1268.85		476091
-SRF		-0.01		2274.05		216524
+CREDITACC		0.49		1269		476407
