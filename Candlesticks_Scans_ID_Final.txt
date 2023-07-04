@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-1.12		2586.4		2873285
-SUNPHARMA		0.42		1037.05		980555
+BHARTIARTL		-1.6		865.05		6411703
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CAMS		0.1		2294.95		180275
