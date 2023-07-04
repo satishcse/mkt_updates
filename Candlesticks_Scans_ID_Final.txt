@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.04		463.05		4259240
-COALINDIA		0.37		232.5		2125920
-HEROMOTOCO		2.63		2975.0		1329905
-TCS		0.47		3287.7		886349
+ITC		-0.04		463.05		4267497
+NTPC		0.78		192.75		3960808
+COALINDIA		0.41		232.6		2129702
+HEROMOTOCO		2.61		2974.4		1330549
+TECHM		0.81		1130.5		727950
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BALKRISIND		-0.77		2330.65		65121
