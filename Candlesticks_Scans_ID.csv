@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-WIPRO,1.1,395.9,5969163
-HINDALCO,0.07,425.95,2569676
-BPCL,0.31,376.45,2526294
-HINDUNILVR,-0.01,2700.7,676421
+WIPRO,1.11,395.95,5984815
+HINDALCO,0.07,425.95,2573536
+BPCL,0.33,376.55,2538459
+HCLTECH,0.78,1190.85,999944
+HINDUNILVR,-0.03,2700.15,677927
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TEJASNET,-0.7,714,271045
