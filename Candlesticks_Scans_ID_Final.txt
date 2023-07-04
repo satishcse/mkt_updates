@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.64		595.05		13268040
-WIPRO		0.45		393.35		3753862
-ITC		-0.4		461.4		3612740
-ONGC		-1.01		161.25		3276608
-LT		0.64		2469.7		422644
-BAJAJ-AUTO		1.03		4658.0		126794
+SBIN		1.67		595.2		13302897
+WIPRO		0.47		393.45		3771415
+ITC		-0.33		461.7		3654412
+ONGC		-1.01		161.25		3288400
+LT		0.64		2469.65		423290
+BAJAJ-AUTO		0.88		4651.35		127399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CREDITACC		0.28		1266.35		672467
+BASF		-0.38		2612.05		2902
