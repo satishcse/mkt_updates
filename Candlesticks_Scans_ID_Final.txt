@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.18		112.9		17977440
-WIPRO		0.6		393.95		4325451
-KOTAKBANK		0.76		1857.9		3430388
-COALINDIA		0.19		232.1		2290157
-ADANIENT		0.44		2396.05		1725533
-M&M		0.44		1474.45		1084283
+WIPRO		0.61		394.0		4331534
+ADANIENT		0.45		2396.2		1725954
+M&M		0.47		1474.8		1085321
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.39		22544.9		14552
+NESTLEIND		-0.38		22545.75		14582
