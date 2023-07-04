@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.61		394.0		4331534
-ADANIENT		0.45		2396.2		1725954
-M&M		0.47		1474.8		1085321
+TATAMOTORS		0.26		592.35		4738098
+WIPRO		0.6		393.95		4334883
+ADANIENT		0.41		2395.3		1732149
+M&M		0.45		1474.5		1086364
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.38		22545.75		14582
+NESTLEIND		-0.39		22544.85		14609
