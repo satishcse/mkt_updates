@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.58		1476.4		383264
+M&M		0.59		1476.65		384933
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IIFL		0.84		503.6		158242
-INDIGO		-0.97		2612.5		70824
+CEATLTD		-0.42		2063.3		22981
