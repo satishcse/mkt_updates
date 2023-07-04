@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.98		2590		3341677
+RELIANCE		-0.97		2590.25		3358587
+HCLTECH		0.74		1190.3		974390
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-1.02		1304.95		527003
-TIMKEN		-1.15		3349.85		61720
-AJANTPHARM		-1.8		1448.4		50311
-CHEMPLASTS		-1.03		444.85		29831
-LUXIND		-0.11		1502.6		13555
+RAYMOND		0.53		1721.7		218924
+VGUARD		-1.53		282.8		172690
+TIMKEN		-1.21		3348.0		62075
