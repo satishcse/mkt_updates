@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUROPHARMA		-0.25		710.6		457533
-ESCORTS		-0.22		2236.75		51033
+APOLLOHOSP		0.13		5075.0		82632
+MARUTI		-0.29		9645.05		58188
+MRF		-0.38		99518.8		1851
