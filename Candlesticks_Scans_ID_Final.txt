@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		-1.17		161		4745147
+RELIANCE		-1.02		2589		3230647
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZFCVINDIA		-1.15		12156.55		1476
+AJANTPHARM		-1.78		1448.75		49505
