@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.01		161.25		5252757
-BPCL		0.44		376.95		2630036
+BPCL		0.43		376.9		2644263
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANITRANS		-0.29		771.0		1021837
-TATACOMM		-3.0		1542.45		321180
-MOTILALOFS		-2.76		718.4		108893
-MRF		-0.72		99182.75		5510
+ADANITRANS		-0.29		771.0		1024096
+TORNTPOWER		-2.6		590.4		606457
+TATACOMM		-2.97		1543.05		323552
+MRF		-0.73		99175.1		5564
