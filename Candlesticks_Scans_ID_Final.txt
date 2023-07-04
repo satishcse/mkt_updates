@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.33		592.75		4287791
-COALINDIA		0.19		232.1		2194203
+KOTAKBANK		0.76		1857.9		3268296
+BRITANNIA		-0.15		5000.85		63188
+NESTLEIND		-0.36		22550.0		13336
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ICICIGI		-0.72		1328.45		283841
-ESCORTS		-1.5		2208.0		141663
+
