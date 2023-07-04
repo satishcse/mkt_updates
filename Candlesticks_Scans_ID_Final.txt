@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.03		463.1		4275661
-TATAMOTORS		0.36		592.9		4210579
-COALINDIA		0.39		232.55		2135847
-HEROMOTOCO		2.62		2974.75		1331685
-TECHM		0.81		1130.5		728786
+ITC		-0.04		463.05		4283137
+TATAMOTORS		0.31		592.65		4215715
+COALINDIA		0.41		232.6		2144315
+HEROMOTOCO		2.6		2974.1		1332330
 
 Bullish_Hammer_15m_N500								 
 ======================= 
