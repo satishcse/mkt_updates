@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.37		593.0		4037697
-ADANIENT		0.55		2398.7		1491899
-M&M		0.78		1479.4		901876
-ULTRACEMCO		-0.04		8460.05		102259
+TATAMOTORS		0.37		593.0		4043318
+ADANIENT		0.57		2399.05		1493925
+M&M		0.79		1479.5		902392
+ULTRACEMCO		-0.04		8460.0		102642
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BALKRISIND		0.07		2350.45		54125
+
