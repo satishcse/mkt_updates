@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSL		-0.65		337.9		70580
+JSL		-0.62		338.0		77283
+PERSISTENT		-0.18		4853.0		56643
+ULTRACEMCO		-0.77		8398.6		46937
+ATUL		0.01		6916.25		13729
