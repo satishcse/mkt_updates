@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		5.7		1627.85		5368304
-TATAMOTORS		0.3		592.55		4939542
-RELIANCE		-0.89		2592.5		2721648
-INDUSINDBK		-0.17		1378.05		1486587
+NTPC		0.92		193.0		4947174
+ONGC		-1.2		160.95		4080012
+HINDUNILVR		0.06		2702.8		460568
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BLUESTARCO		1		775		127307
+
