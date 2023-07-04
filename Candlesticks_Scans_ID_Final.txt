@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.72		1478.55		869941
-UPL		0.72		685.2		677741
-DRREDDY		0.36		5116.8		141052
-ULTRACEMCO		-0.01		8462.9		98134
+M&M		0.75		1478.95		870903
+UPL		0.71		685.1		678777
+DRREDDY		0.42		5119.7		141481
+ULTRACEMCO		-0.01		8463.05		98430
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-0.34		1642.7		157370
-AIAENG		-0.26		3147.5		63305
+BATAINDIA		-0.34		1642.7		157371
