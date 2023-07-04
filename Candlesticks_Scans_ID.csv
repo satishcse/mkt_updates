@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-INFY,-0.13,1332.0,2292433
-EICHERMOT,-4.41,3470.6,1591553
-TITAN,1.51,3084.1,370782
+INFY,-0.12,1332.05,2296315
+EICHERMOT,-4.38,3471.8,1595070
+TITAN,1.56,3085.8,373139
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PVRINOX,-0.28,1375.0,168099
+TORNTPHARM,-0.39,1883.5,40495
