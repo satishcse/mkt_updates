@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		1.5		3084.0		348846
-MARUTI		-0.24		9649.9		67481
+ONGC		-1.23		160.9		2686857
+TITAN		1.47		3083.0		350279
+MARUTI		-0.27		9647.0		67822
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ESCORTS		-1.06		2218.05		69646
+ESCORTS		-0.79		2224		70661
