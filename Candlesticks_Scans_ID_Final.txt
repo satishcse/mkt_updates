@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.34		592.8		3879257
-POWERGRID		0.16		250.9		3213043
-M&M		0.82		1479.95		885501
-ULTRACEMCO		0.0		8464.0		100037
+TATAMOTORS		0.35		592.85		3882601
+POWERGRID		0.2		251.0		3223520
+HINDUNILVR		-0.24		2694.6		361289
+ULTRACEMCO		0.0		8463.65		100114
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SYNGENE		-0.86		753.1		461486
+
