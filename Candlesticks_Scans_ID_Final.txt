@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.97		193.1		4966063
-ONGC		-1.23		160.9		4098597
-HINDUNILVR		0.06		2702.7		464686
-MARUTI		-0.29		9644.85		171608
+TATAMOTORS		0.32		592.7		4990776
+NTPC		0.94		193.05		4975858
+ONGC		-1.23		160.9		4101186
+HINDUNILVR		0.03		2701.85		466120
+MARUTI		-0.32		9642.4		172022
 
 Bullish_Hammer_15m_N500								 
 ======================= 
