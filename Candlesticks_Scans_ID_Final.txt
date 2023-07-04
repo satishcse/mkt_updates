@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.94		193.05		4629638
-WIPRO		0.59		393.9		4316228
-TCS		0.68		3294.55		933519
-ASIANPAINT		-0.35		3347.0		295562
+ITC		0.14		463.9		4676477
+NTPC		0.92		193.0		4634960
+WIPRO		0.57		393.85		4321585
+JSWSTEEL		0.47		797.7		1732443
+ASIANPAINT		-0.35		3347.0		296522
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-5.94		3415		2810265
+NESTLEIND		-0.4		22543		14298
