@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.61		394.0		3351536
-HINDALCO		-0.08		425.3		1031596
-TITAN		1.54		3085.05		408329
+WIPRO		0.6		393.95		3354714
+HINDALCO		-0.13		425.1		1033333
 
 Bullish_Hammer_15m_N500								 
 ======================= 
