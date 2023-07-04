@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		5.25		1621.0		3955818
-ITC		-0.3		461.85		3318727
-HINDALCO		-0.12		425.15		1105751
-UPL		0.64		684.65		657551
-MARUTI		-0.36		9638.5		84137
+BAJAJFINSV		5.29		1621.5		3959345
+ITC		-0.3		461.85		3321220
+HINDALCO		-0.14		425.05		1110339
+UPL		0.69		685.0		657723
+MARUTI		-0.41		9633.45		84522
 
 Bullish_Hammer_15m_N500								 
 ======================= 
