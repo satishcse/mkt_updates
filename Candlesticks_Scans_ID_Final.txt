@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.53		112.5		7533718
-NTPC		-0.29		190.7		1415508
-TATACONSUM		-0.47		854.85		268009
-ULTRACEMCO		-0.64		8410.0		63079
+TATACONSUM		-0.39		855.5		268892
+ULTRACEMCO		-0.59		8413.6		63910
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GALAXYSURF		-0.47		2645.85		5370
+GALAXYSURF		-0.47		2645.85		5373
+GRINDWELL		-0.65		2231.15		4277
