@@ -2,7 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.12		651.5		1641836
+ITC		-0.04		463.05		4259240
+COALINDIA		0.37		232.5		2125920
+HEROMOTOCO		2.63		2975.0		1329905
+TCS		0.47		3287.7		886349
 
 Bullish_Hammer_15m_N500								 
 ======================= 
