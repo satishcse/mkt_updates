@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.52		1475.6		390817
+M&M		0.41		1474		415770
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAELXSI		-0.47		7510.7		24488
-ROSSARI		0.13		860.65		16109
-CRAFTSMAN		0.51		3994.8		4768
-BASF		-0.03		2621.2		1969
+BSE		-0.46		666.35		1734881
+VARROC		0.56		339.6		39559
+TATAELXSI		-0.48		7510.0		25085
+ROSSARI		0.15		860.8		16305
