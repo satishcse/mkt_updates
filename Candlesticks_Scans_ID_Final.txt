@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.2		160.95		4769240
-RELIANCE		-1.06		2588.05		3255395
-CIPLA		0.87		1010.55		975977
+ONGC		-1.23		160.9		4784446
+RELIANCE		-0.97		2590.25		3270263
+CIPLA		0.89		1010.75		977661
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TIMKEN		-1.24		3346.8		59204
+CHEMPLASTS		-1.43		443.05		29313
+SHREECEM		-0.46		24009.9		12019
