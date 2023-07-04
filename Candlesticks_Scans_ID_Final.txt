@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.31		461.8		3335848
-HINDALCO		-0.12		425.15		1120053
-UPL		0.69		685.0		658714
-MARUTI		-0.42		9632.7		85048
+ITC		-0.28		461.95		3390650
+UPL		0.72		685.2		659455
+MARUTI		-0.38		9635.85		85236
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUBLPHARMA		-2.22		393.75		45634
+BATAINDIA		0.1		1649.95		118670
+APOLLOHOSP		-0.16		5060.55		118591
