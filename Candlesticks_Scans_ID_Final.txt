@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.68		163		9221549
+ONGC		1.62		162.9		9548822
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CIPLA		-1.3		1001.75		1434390
-PRINCEPIPE		-0.95		664.85		128560
-JINDWORLD		-0.92		311.0		69733
-SOLARINDS		-0.39		3725.85		49053
-INGERRAND		-2.52		2787.05		31377
-TEAMLEASE		-1.13		2465.0		17950
+AMBER		0.08		2258.05		113016
+KEI		-0.96		2293.4		86057
+JINDWORLD		-1.45		309.35		70437
+GUJALKALI		-0.29		676.05		58305
+MASTEK		-0.86		1926.7		36129
+INGERRAND		-2.43		2789.75		33099
+CRISIL		-1.02		3863.0		10805
