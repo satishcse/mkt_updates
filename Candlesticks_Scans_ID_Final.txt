@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.59		393.9		4379184
-ADANIENT		0.47		2396.8		1743806
-TATACONSUM		-0.51		854.5		514667
+BAJAJFINSV		5.85		1630.25		5284519
+TATAMOTORS		0.33		592.75		4815669
+RELIANCE		-0.81		2594.4		2661027
+INDUSINDBK		0.09		1381.55		1418635
+TATACONSUM		-0.51		854.5		516905
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SIEMENS		-1.41		3675.0		125297
-NESTLEIND		-0.4		22543.0		15054
-SUNDARMFIN		-0.29		2628.9		13487
+
