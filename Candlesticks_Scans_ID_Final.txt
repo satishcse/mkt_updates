@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.48		854.75		260629
-ULTRACEMCO		-0.62		8410.95		61498
+ITC		-0.44		461.2		2738206
+CIPLA		-0.13		1000.5		335638
+TATACONSUM		-0.55		854.15		260998
+ULTRACEMCO		-0.77		8398.5		62098
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKYLAMINE		-1.19		2699.75		8090
+ALKYLAMINE		-1.18		2699.95		8222
