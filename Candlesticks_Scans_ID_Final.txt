@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.55		393.75		4182529
-KOTAKBANK		0.7		1856.85		3278656
-CIPLA		0.18		1003.65		686598
-BRITANNIA		-0.16		5000.5		63216
-NESTLEIND		-0.41		22540.0		13380
+KOTAKBANK		0.69		1856.75		3284203
+CIPLA		0.19		1003.7		687056
+BRITANNIA		-0.16		5000.5		63276
+NESTLEIND		-0.37		22548.9		13427
 
 Bullish_Hammer_15m_N500								 
 ======================= 
