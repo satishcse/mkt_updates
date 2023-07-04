@@ -2,9 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-1.02		2589.15		3313680
+RELIANCE		-1		2589.6		3326322
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LUXIND		-0.08		1503		13245
+BERGEPAINT		-0.53		671.45		238324
+VMART		-0.55		2275.95		77031
+GMMPFAUDLR		-1.15		1475.75		63814
+TIMKEN		-1.15		3350.0		60968
+AJANTPHARM		-1.8		1448.5		50232
+LUXIND		-0.08		1503.0		13286
+SHREECEM		-0.47		24006.55		12353
