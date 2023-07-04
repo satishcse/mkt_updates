@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NTPC		-0.13		191		1578244
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MRF		-0.57		99332.8		2089
+RAMCOCEM		-0.05		940		76043
