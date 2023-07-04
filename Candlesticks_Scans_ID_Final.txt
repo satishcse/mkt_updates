@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.32		945.55		5718501
+ICICIBANK		0.33		945.7		5731770
+HDFCLIFE		0.12		651.45		1635502
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ZYDUSWELL		-0.34		1475.25		16461
+
