@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.03		591.25		1269412
-M&M		-0.1		1463.0		297085
+TATAMOTORS		-0.08		591.0		1328662
+M&M		-0.03		1464.05		306760
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HDFC		-2.35		2817.05		1076548
+INTELLECT		0.16		611.05		83729
+CREDITACC		-0.12		1249.95		44320
+MAHLIFE		-0.92		477.15		33811
