@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.12		866.2		397271
+M&M		0.19		1467.3		278280
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MAHLIFE		-1.39		474.9		32064
+ATUL		-1.53		6819.0		12352
