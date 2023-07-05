@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.33		674.75		513492
+UPL		-0.33		674.7		514746
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		1.51		849.4		1632567
-ELGIEQUIP		1.01		544.45		81293
-AMBER		-0.43		2232.0		14261
-BAJAJHLDNG		-1.12		7059.7		7991
+PAYTM		1.58		850.0		1644988
+AMBER		-0.39		2232.9		14989
+SUNDRMFAST		-0.12		1233.1		13304
+BAJAJHLDNG		-1.12		7059.7		7999
