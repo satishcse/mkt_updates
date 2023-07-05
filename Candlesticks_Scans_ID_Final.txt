@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BHARTIARTL		0.13		866.25		389612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SYNGENE		0.4		744.2		131856
-METROPOLIS		-0.21		1459.4		32721
+ATUL		-1.42		6826.85		10092
