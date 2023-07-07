@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-1.23		664.5		2323247
-LT		-1.37		2454.5		1164087
-BAJFINANCE		-1.56		7645.0		811074
-DRREDDY		-0.85		5187.2		452143
-NESTLEIND		-0.71		22936.3		33760
+POWERGRID		-2.51		256.1		7212722
+UPL		-1.22		664.55		2324328
+LT		-1.41		2453.6		1168080
+BAJFINANCE		-1.58		7643.4		812945
+DRREDDY		-0.83		5188.25		452381
+NESTLEIND		-0.65		22949.4		34136
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MEDPLUS		-1.77		821.25		86881
+MEDPLUS		-1.78		821.15		86984
 HGS		-0.2		1087.9		12873
