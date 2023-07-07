@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-1.15		665		2168958
+M&M		1.19		1567.25		5329587
+COALINDIA		-0.04		234.5		3950340
+WIPRO		-0.3		395.0		3016257
+UPL		-1.15		665.0		2176488
+SUNPHARMA		-0.24		1040.0		1113732
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TANLA		-2.34		1029.4		291555
-KSB		-1.53		2105.0		10950
+
