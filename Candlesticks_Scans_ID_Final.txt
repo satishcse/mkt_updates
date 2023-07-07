@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.11		2641.75		3964881
-COALINDIA		-0.26		234.0		3789066
+RELIANCE		0.1		2641.5		3969732
+COALINDIA		-0.23		234.05		3792751
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HINDUNILVR		-0.89		2732.55		778613
+FINCABLES		-2.4		808.9		148911
