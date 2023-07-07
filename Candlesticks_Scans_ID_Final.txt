@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-1.04		1329.9		3693297
-TITAN		1.98		3168.0		2748456
+TITAN		1.91		3165.7		2772951
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		-2.63		678.35		304761
-TTKPRESTIG		-1.9		742.5		126216
+NATCOPHARM		-2.63		678.35		305969
 LAXMIMACH		-1.91		13530.55		2638
