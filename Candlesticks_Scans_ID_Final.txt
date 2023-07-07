@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		2.21		3174.95		2711227
-EICHERMOT		-0.85		3194.75		1323463
+TITAN		2.15		3173.05		2714547
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CDSL		-1.35		1174.85		447558
-BLUEDART		-1.28		7248.2		6888
+
