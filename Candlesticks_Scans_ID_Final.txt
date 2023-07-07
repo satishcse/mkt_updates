@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.28		593.1		5128196
-BPCL		-0.84		390.0		2097422
+TATAMOTORS		-1.29		593.05		5138036
+BPCL		-0.84		390.0		2104860
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-2.8		1721.7		749203
+SHRIRAMFIN		-2.76		1722.45		750614
+PIIND		-3.27		3728.0		303701
+ELGIEQUIP		-0.18		538.6		118788
