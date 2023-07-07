@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DLF		-1.94		503.65		3497156
-BALKRISIND		-2.06		2393.65		189624
-CLEAN		-0.64		1365.5		162844
-FLUOROCHEM		-2.22		2874.9		161531
+DLF		-1.95		503.6		3514160
+BALKRISIND		-1.9		2397.6		191301
+FLUOROCHEM		-2.23		2874.55		162750
