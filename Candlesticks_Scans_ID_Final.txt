@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-1.2		664.7		2203121
-SUNPHARMA		-0.24		1040.0		1135401
-BAJFINANCE		-1.63		7639.95		672766
+UPL		-1.26		664.25		2213344
+BAJFINANCE		-1.64		7639.0		673423
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CAMS		-0.76		2283.85		79657
