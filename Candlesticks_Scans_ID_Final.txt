@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-0.4		1761.05		198767
+GRASIM		-0.35		1761.8		198916
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		0.12		1656.25		59346
+TATACOMM		0.0		1536.5		692745
+ENDURANCE		0.15		1656.7		59347
+GLAXO		-0.53		1408.0		12381
