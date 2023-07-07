@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.81		422.95		5552671
-ONGC		-1.27		163.3		5251623
-UPL		-1.26		664.3		2304418
-LT		-1.4		2453.8		1145606
-BAJFINANCE		-1.55		7646.25		788275
-DRREDDY		-0.76		5192.0		448091
-NESTLEIND		-0.52		22979.95		33074
+HINDALCO		-0.81		422.95		5558089
+UPL		-1.28		664.15		2308711
+LT		-1.41		2453.45		1149074
+BAJFINANCE		-1.5		7649.4		788886
+DRREDDY		-0.76		5192.0		448498
+NESTLEIND		-0.59		22962.7		33256
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDIGOPNTS		-0.67		1439.5		29904
+
