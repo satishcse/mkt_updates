@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		1.89		3165		2779941
+TATASTEEL		-1.07		111.45		21286706
+COALINDIA		-0.26		234.0		3647388
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-3.08		1785.4		465297
+SIEMENS		-0.96		3694.95		86921
+ABB		-0.93		4359.35		61837
 LAXMIMACH		-1.91		13530.55		2639
