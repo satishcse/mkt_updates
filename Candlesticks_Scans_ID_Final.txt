@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-2.46		256.25		6235200
-SBIN		-1.02		586.45		5533590
-RELIANCE		0.12		2641.85		3973769
-COALINDIA		-0.26		234.0		3796403
+POWERGRID		-2.42		256.35		6248362
+COALINDIA		-0.23		234.05		3803424
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LODHA		-3.83		700.2		531107
+
