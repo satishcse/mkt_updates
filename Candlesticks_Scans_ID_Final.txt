@@ -2,16 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.02		234.65		4567328
-UPL		-1.16		664.95		2330560
-LT		-1.39		2454.05		1188781
-BAJFINANCE		-1.6		7642.35		816064
-DRREDDY		-0.78		5191.1		454425
-ULTRACEMCO		-0.83		8340.1		226897
-NESTLEIND		-0.6		22959.75		34481
+ONGC		-0.79		164.1		5617463
+UPL		-1.16		664.95		2336168
+JSWSTEEL		-0.82		789.0		1754775
+LT		-1.35		2454.9		1192954
+BAJAJFINSV		-0.24		1616.0		1172575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CAMS		-0.93		2279.95		89094
-MEDPLUS		-1.88		820.3		87162
+
