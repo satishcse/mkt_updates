@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.47		1299		668595
+JSWSTEEL		-0.82		789		1911598
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-APOLLOHOSP		-1.67		5195		399708
-NAVINFLUOR		-2.32		4509		139252
-HEG		-0.6		1583		86931
+
