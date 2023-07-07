@@ -5,4 +5,6 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+METROPOLIS		-1.27		1455.0		142031
+OFSS		-1.23		3820.75		37360
