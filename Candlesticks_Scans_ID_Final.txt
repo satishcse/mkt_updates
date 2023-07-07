@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.04		234.5		3962310
-WIPRO		-0.3		395.0		3036573
-UPL		-1.17		664.85		2182950
-SUNPHARMA		-0.3		1039.35		1116826
-BAJFINANCE		-1.62		7640.25		667413
+COALINDIA		-0.04		234.5		3967375
+WIPRO		-0.32		394.95		3039852
+UPL		-1.22		664.55		2192154
+SUNPHARMA		-0.24		1040.0		1119754
+BAJFINANCE		-1.61		7640.95		668073
 
 Bullish_Hammer_15m_N500								 
 ======================= 
