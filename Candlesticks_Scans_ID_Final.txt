@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		-1.89		2397.9		193783
+ACC		-1.68		1789.85		960586
+APOLLOHOSP		-2.71		5140.1		505211
+PIDILITIND		-1.44		2610.85		279450
+KIMS		0.34		1787.9		56918
