@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.85		164.0		5846407
-UPL		-1.21		664.6		2382937
-JSWSTEEL		-0.9		788.4		1798138
-DRREDDY		-0.8		5190.2		472533
+ONGC		-0.88		163.95		5859070
+UPL		-1.23		664.5		2385726
+JSWSTEEL		-0.88		788.55		1800019
+DRREDDY		-0.78		5190.8		472889
 
 Bullish_Hammer_15m_N500								 
 ======================= 
