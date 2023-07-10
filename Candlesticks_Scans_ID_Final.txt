@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.23		948.6		5746437
-NTPC		-1.4		189.9		4250917
+ICICIBANK		0.23		948.6		5751717
+NTPC		-1.32		190.05		4270031
+TATACONSUM		-0.95		825.35		481155
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NESTLEIND		-1.42		22581.75		16128
