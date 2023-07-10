@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.16		661.95		791445
+KOTAKBANK		0.42		1861.35		2300907
+ADANIENT		0.82		2399.0		1327106
+UPL		-0.2		661.65		793026
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TRENT		-1.37		1679.5		154456
