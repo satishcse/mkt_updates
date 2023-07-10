@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAPPSTMNDS		-2.17		959.85		183970
-SOLARINDS		-1.32		3618.9		19285
-BOSCHLTD		-1.47		19450.0		9684
+HAPPSTMNDS		-2.16		960.0		185289
+FLUOROCHEM		-2.2		2810.15		164874
+MFL		-1.9		1019.0		28947
+SOLARINDS		-1.31		3619.0		19297
+NESTLEIND		-1.41		22583.2		16537
