@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		0.11		1745.3		423356
-DIVISLAB		-0.8		3639.2		266928
+BAJAJFINSV		-0.95		1599.5		1696455
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		-0.58		1473		22582
+BSE		-1.61		696.0		1360769
+BALKRISIND		-4.41		2283.8		487650
+CYIENT		-5.58		1399.0		430255
+TORNTPOWER		-2.33		618.8		414359
+COFORGE		-1.66		4614.0		134099
+KPIL		-1.93		543.2		90052
+INGERRAND		-1.17		2730.15		13665
