@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIPIND		-1.11		599.6		252129
-ATUL		-1.5		6676.0		31220
-SKFINDIA		-0.43		5108.1		10356
+VIPIND		-1.05		600.0		253894
+APLAPOLLO		-0.84		1306.55		244489
+MARUTI		-0.85		9766.85		199401
+SKFINDIA		-0.56		5101.35		10364
