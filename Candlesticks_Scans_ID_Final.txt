@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+EICHERMOT		-0.29		3175.45		1533838
+SHYAMMETL		-0.47		351.75		207619
+METROPOLIS		-0.02		1452.9		192919
