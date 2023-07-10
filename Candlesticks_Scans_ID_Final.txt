@@ -6,7 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		-1.91		2023.0		176861
-RHIM		-0.25		618.5		24929
-PHOENIXLTD		0.16		1617.1		16031
-CARBORUNIV		-0.21		1194.7		9779
+BAJFINANCE		-1.84		7482.35		325035
+APLLTD		-1.38		647.85		12874
+CARBORUNIV		-0.16		1195.3		10040
+VMART		-1.0		2157.35		2517
+KENNAMET		-0.18		2663.65		733
+PGHH		-1.19		14743.7		512
