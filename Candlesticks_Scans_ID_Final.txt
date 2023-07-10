@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		-1.49		22565.4		20874
+NESTLEIND		-1.46		22570.65		20911
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-2.62		2798		217607
+FLUOROCHEM		-2.62		2798.2		217628
