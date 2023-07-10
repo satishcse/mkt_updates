@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.21		592.35		9476811
-CIPLA		-0.28		1017.75		907937
+SBIN		-0.21		592.35		9488837
+CIPLA		-0.25		1018.05		910070
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-1.2		1577.55		216766
-PIIND		-2.32		3678.2		105250
+TCIEXP		-0.14		1521.25		14068
