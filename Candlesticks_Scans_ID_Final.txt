@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.19		948.2		6212048
+ICICIBANK		0.19		948.2		6222515
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RAMCOCEM		-0.7		920.0		170020
-HEG		-1.87		1553.0		70233
-MFL		-2.23		1015.55		33583
-SKFINDIA		0.01		5130.85		7059
+
