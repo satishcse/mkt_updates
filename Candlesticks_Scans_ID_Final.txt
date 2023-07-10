@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.79		2676.75		531087
+HINDUNILVR		-0.8		2676.5		532329
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZEEL		-1.92		202.2		24515273
-SOLARINDS		-0.86		3635.8		15330
+ZEEL		-2.33		201.35		24892859
+M&M		-0.39		1558.0		1202592
+LTIM		-2.46		4988.65		271470
+LTTS		-2.0		3864.3		136074
+HDFCAMC		-0.97		2231.0		99499
+SOLARINDS		-0.83		3636.85		15410
+KSB		-0.58		2097.45		8202
