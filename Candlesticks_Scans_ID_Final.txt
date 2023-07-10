@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.75		622.85		18868483
-ADANIENT		0.93		2401.8		1461075
+TATAMOTORS		0.78		623.0		18877429
+ADANIENT		0.97		2402.6		1464548
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CREDITACC		-1.32		1264.9		312520
-KEI		0.19		2313.2		44679
+KEI		0.27		2315		44746
