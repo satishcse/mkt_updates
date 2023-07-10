@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ICICIBANK,0.2,948.3,5770586
-NTPC,-1.22,190.25,4409468
-TATACONSUM,-0.88,825.95,482638
+ICICIBANK,0.26,948.9,5802655
+NTPC,-1.27,190.15,4416461
+TATACONSUM,-0.88,825.9,483099
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PRSMJOHNSN,-3.92,127.4,1498277
+HEG,-1.55,1558.1,66198
+SOLARINDS,-1.33,3618.6,19186
+ZYDUSWELL,-0.11,1479.85,16554
