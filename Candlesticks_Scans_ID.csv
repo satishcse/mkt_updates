@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-WIPRO,-1.02,391.8,1193024
-TECHM,-1.64,1137.1,733595
-HINDUNILVR,-0.87,2674.7,549334
+WIPRO,-1.0,391.9,1194428
+TECHM,-1.62,1137.3,735655
+HINDUNILVR,-0.86,2674.95,549755
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HEG,-1.44,1559.7,61046
