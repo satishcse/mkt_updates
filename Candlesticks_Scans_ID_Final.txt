@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.12		592.9		10615310
-GRASIM		0.1		1745.1		394154
+GRASIM		0.11		1745.3		423356
+DIVISLAB		-0.8		3639.2		266928
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ZYDUSWELL		-0.58		1473		22582
