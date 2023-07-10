@@ -1,24 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+AXISBANK		0.8		984.5		953191
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BALKRISIND		-2.98		2318.0		96162
-PERSISTENT		-1.07		4778.0		51372
-MARUTI		0.47		9896.95		35881
-AVANTIFEED		-0.12		404.95		34789
-UNOMINDA		0.17		569.5		28337
-COFORGE		-0.65		4661.0		27383
-NH		0.0		1008.9		22618
-NAUKRI		-0.38		4388.05		21858
-TATAELXSI		-0.35		7515.2		15854
-DRREDDY		-0.32		5166.0		15397
-DATAPATTNS		-0.73		1883.9		14134
-SIEMENS		-0.28		3679.95		11915
-METROBRAND		-0.1		1013.15		11692
-VINATIORGA		-0.52		1811.5		7107
-TIINDIA		-0.4		3173.0		5999
-NESTLEIND		-0.41		22811.3		4379
+
