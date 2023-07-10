@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ICICIBANK		0.37		949.9		6015131
+DIVISLAB		-0.56		3647.95		185743
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HAPPSTMNDS		-2.16		959.95		187008
-ZYDUSWELL		-0.03		1481.1		17449
-NESTLEIND		-1.4		22585.95		16625
-INGERRAND		-1.18		2729.85		7440
+
