@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+HAPPSTMNDS		-2.16		959.95		187008
 ZYDUSWELL		-0.03		1481.1		17449
-NESTLEIND		-1.43		22579.45		16601
+NESTLEIND		-1.4		22585.95		16625
+INGERRAND		-1.18		2729.85		7440
