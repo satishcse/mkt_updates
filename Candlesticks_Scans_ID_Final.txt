@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.23		948.6		5751717
-NTPC		-1.32		190.05		4270031
-TATACONSUM		-0.95		825.35		481155
+ICICIBANK		0.22		948.5		5760371
+NTPC		-1.35		190.0		4277678
+TATACONSUM		-0.91		825.65		482258
+APOLLOHOSP		0.83		5189.0		138557
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		-1.42		22581.75		16128
+MARUTI		-0.57		9794.1		146984
+KEI		0.24		2314.2		36033
