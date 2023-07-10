@@ -1,12 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SBIN		0.86		598.7		3451890
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DMART		0.04		3810.45		28956
-MAPMYINDIA		-0.69		1208.75		14349
-INGERRAND		-0.63		2745.0		3218
+
