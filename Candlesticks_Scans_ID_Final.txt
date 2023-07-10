@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.23		469.5		2151789
-NTPC		-0.18		192.25		1355521
-ONGC		0.34		164.05		1166829
-BAJAJ-AUTO		1.86		4924.0		225648
+NTPC		-0.18		192.25		1360673
+ONGC		0.31		164.0		1172566
+BAJAJ-AUTO		1.77		4919.6		227399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+COFORGE		-1.36		4628		56208
