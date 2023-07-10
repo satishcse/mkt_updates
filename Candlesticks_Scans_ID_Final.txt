@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.1		1855.4		2083486
-WIPRO		-1.0		391.9		1160994
-BAJAJ-AUTO		1.37		4900.0		276887
+WIPRO		-0.99		391.95		1164485
+HINDUNILVR		-0.79		2676.7		535885
+BAJAJ-AUTO		1.36		4899.75		278135
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEG		-1.41		1560.25		59275
+HEG		-1.3		1562		59605
