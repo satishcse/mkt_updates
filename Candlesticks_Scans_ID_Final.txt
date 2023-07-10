@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.8		191.05		5243769
-HDFC		-0.01		2769.2		3909060
-COALINDIA		-0.38		233.1		3311740
-ONGC		-0.28		163.05		2938571
-TECHM		-0.24		1153.25		1308726
-UPL		-0.17		661.9		799188
-NESTLEIND		-1.49		22565.05		18451
+NTPC		-0.83		191.0		5256329
+HDFC		0.02		2770.1		3919533
+COALINDIA		-0.36		233.15		3321128
+ONGC		-0.24		163.1		2948487
+TECHM		-0.23		1153.3		1309492
+UPL		-0.17		661.85		799633
+NESTLEIND		-1.47		22570.15		18496
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		-1.75		2245.95		48430
+CAMS		-1.64		2248.65		48449
