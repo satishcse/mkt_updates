@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		3.32		115.3		42204730
-NTPC		-0.78		191.1		6467178
-NESTLEIND		-1.41		22583.15		21857
+TATASTEEL		3.23		115.2		42415418
+NTPC		-0.75		191.15		6477887
+NESTLEIND		-1.41		22582.25		21881
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-2.79		2793.25		225818
-MEDANTA		0.44		693.85		199510
-BIKAJI		-1.25		410.25		79018
+INDIAMART		-4.12		2632.6		224404
