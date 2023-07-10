@@ -6,9 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		-1.84		7482.35		325035
-APLLTD		-1.38		647.85		12874
-CARBORUNIV		-0.16		1195.3		10040
-VMART		-1.0		2157.35		2517
-KENNAMET		-0.18		2663.65		733
+ADANIPORTS		-1.11		710.7		1283277
+ADANIGREEN		-1.08		940.7		116792
+KENNAMET		-0.17		2663.7		737
 PGHH		-1.19		14743.7		512
