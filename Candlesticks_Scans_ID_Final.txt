@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.24		948.65		6236301
-GRASIM		-0.51		1734.45		127331
+TATASTEEL		2.28		114.15		29241023
+ICICIBANK		0.24		948.7		6264235
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MFL		-2.21		1015.7		33899
+
