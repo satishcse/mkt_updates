@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.7		191.25		6325646
-COALINDIA		-0.04		233.9		3969004
+NTPC		-0.7		191.25		6344806
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FLUOROCHEM		-2.8		2792.85		219895
