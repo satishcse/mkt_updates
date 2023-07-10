@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.14		1019.2		901925
+INDUSINDBK		0.15		1359.15		1456151
+CIPLA		-0.17		1018.9		902968
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-1.18		1577.75		215134
+MCX		-1.18		1577.8		215358
+BOSCHLTD		-2.51		19245.9		16392
