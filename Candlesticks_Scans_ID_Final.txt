@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-2.56		248.9		3920438
-ONGC		-0.34		162.95		2143598
-BPCL		-1.69		385.05		1749240
-M&M		-0.48		1556.7		1331023
-SBILIFE		-0.56		1286.75		383015
+POWERGRID		-2.54		248.95		3949009
+ONGC		-0.34		162.95		2176126
+BPCL		-1.65		385.2		1754907
+M&M		-0.57		1555.3		1333332
+SBILIFE		-0.6		1286.2		383539
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GALAXYSURF		-0.84		2606.8		6647
+OLECTRA		5.63		1301.3		15621488
+NAVINFLUOR		-1.93		4445.0		51921
+KENNAMET		-0.25		2661.7		2726
