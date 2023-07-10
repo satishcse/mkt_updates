@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-MARUTI		-0.6		9790.85		162146
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-0.89		1310.3		385919
+TVSMOTOR		-0.86		1310.6		386256
+CERA		-0.51		7554.7		5166
