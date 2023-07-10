@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-0.05		1293.35		460201
+SBILIFE		-0.05		1293.3		460318
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		-0.68		5095.05		9311
+KPIL		-1.71		544.45		68732
+SKFINDIA		-0.68		5095.05		9317
