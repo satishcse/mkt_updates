@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.94		112.65		3805515
-SBIN		0.83		598.5		3275576
+SBIN		0.9		598.95		3312438
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATACONSUM		-0.58		828.45		208583
-DMART		0.0		3809.0		27955
-WHIRLPOOL		-1.05		1446.05		6518
+
