@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIPIND		-0.98		600.4		250344
+VIPIND		-0.98		600.4		251210
+SHOPERSTOP		-0.47		811.0		31156
