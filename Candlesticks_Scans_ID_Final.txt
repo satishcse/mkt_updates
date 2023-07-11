@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.71		629.25		11418106
-HINDALCO		-0.68		424.95		2841768
-MARUTI		1.7		9901.85		523180
-BRITANNIA		1.05		5084.8		350220
+TATAMOTORS		1.69		629.1		11561053
+HINDALCO		-0.71		424.8		2877339
+MARUTI		1.69		9901.1		526707
+BRITANNIA		1.04		5084.15		356197
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ASAHIINDIA		-1.14		528.65		192336
+
