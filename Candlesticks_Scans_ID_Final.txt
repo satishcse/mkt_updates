@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.43		889.25		1114880
-TATACONSUM		0.89		833.0		563199
+BHARTIARTL		0.43		889.25		1116930
+TATACONSUM		0.88		832.9		563681
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CGCL		-1.4		759.6		59310
+
