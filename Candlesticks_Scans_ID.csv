@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCLIFE,0.98,674.8,4243271
-LT,1.33,2471.2,935174
-CIPLA,0.93,1026.15,608428
-DIVISLAB,0.18,3646.6,199083
+HDFCLIFE,0.98,674.8,4245554
+LT,1.38,2472.5,936444
+CIPLA,0.93,1026.15,609379
+DIVISLAB,0.13,3644.5,199376
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TCIEXP,0.22,1518.7,15217
