@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.81		623.65		7142943
-COALINDIA		0.47		234.85		4725216
-BAJAJ-AUTO		0.76		4934.95		253905
+COALINDIA		0.49		234.9		4753308
+BAJAJ-AUTO		0.76		4934.95		254135
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SRF		-0.73		2171.9		332085
+SRF		-0.74		2171.7		332831
+BAYERCROP		0.07		4644.5		3239
