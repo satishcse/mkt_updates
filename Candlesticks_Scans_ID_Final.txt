@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-1.5		798.45		1939139
+JSWSTEEL		-1.46		798.8		1941436
+LT		1.39		2472.6		896138
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ATUL		-2.38		6539.3		71230
