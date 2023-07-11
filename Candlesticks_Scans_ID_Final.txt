@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.17		234.15		763771
+COALINDIA		0.17		234.15		770033
+CIPLA		0.77		1024.5		132066
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MEDANTA		-0.53		689.95		25392
-RUSTOMJEE		0.02		612.9		7037
+FDC		0.08		333.5		20996
