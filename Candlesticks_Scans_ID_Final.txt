@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.72		2427.5		1956488
-BAJFINANCE		-0.99		7458.55		1416520
-DIVISLAB		0.15		3645.25		211971
+ADANIENT		0.71		2427.35		1958229
+BAJFINANCE		-0.97		7460.05		1419875
+M&M		1.19		1569.85		1220256
+DIVISLAB		0.16		3645.6		212154
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		-0.24		2241		57674
+CAMS		-0.19		2242		57711
