@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-COALINDIA		0.32		234.5		783925
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FDC		0.08		333.5		21415
-BRIGADE		0.89		561.3		6862
+SOLARINDS		-1.6		3493.5		19195
