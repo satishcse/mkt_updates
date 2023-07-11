@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-1.09		7451.35		1442026
-DIVISLAB		0.21		3647.7		213149
+NTPC		0.13		191.8		9489836
+SUNPHARMA		2.75		1073.7		3570874
+JSWSTEEL		-1.68		797.0		2442525
 
 Bullish_Hammer_15m_N500								 
 ======================= 
