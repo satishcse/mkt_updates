@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0		191.55		1425754
+TITAN		0.67		3065.85		252320
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEAMLEASE		-0.73		2396.5		4327
+TEAMLEASE		-0.69		2397.55		4468
