@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AEGISCHEM		-0.57		358.8		809057
-RADICO		-0.68		1338.7		141172
-NAZARA		-0.07		725.9		66025
-KSB		-0.32		2107.2		1909
+NAZARA		-0.08		725.85		66445
