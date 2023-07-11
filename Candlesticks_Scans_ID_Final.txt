@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.2		962.1		4848935
-ADANIPORTS		0.87		726.35		2080799
-TITAN		0.28		3054.0		585915
-SBILIFE		0.34		1297.65		488719
-GRASIM		0.92		1759.0		351096
+TATASTEEL		0.3		115.65		24667861
+TITAN		0.31		3054.95		587077
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BLUESTARCO		-0.63		785.4		63397
+
