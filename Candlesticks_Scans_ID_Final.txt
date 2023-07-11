@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.12		625.6		8800154
-ITC		1.37		472.25		5698934
-TITAN		0.31		3054.95		663718
-BAJAJ-AUTO		0.69		4931.6		298919
+TATAMOTORS		1.12		625.55		8819998
+ITC		1.36		472.2		5705057
+TITAN		0.31		3054.95		665276
+ASIANPAINT		0.94		3374.5		513382
+BAJAJ-AUTO		0.69		4931.85		299067
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		-0.68		1430		27081
+VIJAYA		-1.29		462.3		44229
