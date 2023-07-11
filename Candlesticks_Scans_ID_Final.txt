@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.85		623.9		7192402
-COALINDIA		0.51		234.95		4790774
-TITAN		0.27		3053.85		570711
-BAJAJ-AUTO		0.76		4935.0		255515
+TATAMOTORS		0.82		623.75		7203823
+TITAN		0.29		3054.4		572640
+BAJAJ-AUTO		0.76		4935.0		255897
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		0.11		2248.8		42309
-GRINFRA		-0.91		1316.25		8208
+SRF		-0.73		2171.85		336765
+CAMS		0.11		2248.8		42335
+GRINFRA		-0.89		1316.6		8219
 LAXMIMACH		0.05		13675.0		2036
