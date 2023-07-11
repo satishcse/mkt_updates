@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-1.05		7453.9		1433498
-DIVISLAB		0.2		3647.4		212666
+BAJFINANCE		-1.02		7456.05		1438060
+DIVISLAB		0.17		3646.1		212946
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LODHA		-1.67		664.45		387184
