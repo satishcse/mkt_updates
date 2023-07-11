@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.74		163.95		2048154
+ONGC		0.77		164		2050985
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BIKAJI		-1.16		405.65		146131
-ULTRACEMCO		0.14		8362.95		78137
-KSB		-0.81		2096.95		4988
+BIKAJI		-1.16		405.65		146234
+ULTRACEMCO		0.16		8365.0		79646
