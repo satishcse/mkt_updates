@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.68		672.8		4274514
-CIPLA		0.93		1026.2		613672
-ULTRACEMCO		-0.26		8329.8		244289
-DIVISLAB		0.19		3646.85		203625
+HDFCLIFE		0.7		672.95		4284282
+CIPLA		0.92		1026.05		613907
+ULTRACEMCO		-0.26		8330.0		244658
+DIVISLAB		0.26		3649.4		203922
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VIJAYA		-1.55		461.1		52426
+
