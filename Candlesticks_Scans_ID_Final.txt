@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.47		234.85		6117630
-WIPRO		-0.01		389.9		3302155
-BHARTIARTL		0.58		890.55		2246136
-TECHM		1.3		1162.1		857719
+COALINDIA		0.49		234.9		6124824
+WIPRO		-0.04		389.8		3314875
+BHARTIARTL		0.58		890.55		2248556
+TECHM		1.31		1162.15		863707
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-0.2		1340.05		295282
-VMART		0.88		2182.85		15826
-GARFIBRES		-0.27		3140.0		4891
+VMART		0.74		2179.9		15860
