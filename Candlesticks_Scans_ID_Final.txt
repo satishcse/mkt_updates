@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.03		1567.35		1065038
-TITAN		0.28		3054.0		599060
-DRREDDY		0.47		5179.0		140184
+M&M		0.96		1566.3		1068303
+TITAN		0.28		3054.0		599558
+DRREDDY		0.46		5178.9		140264
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ABBOTINDIA		-0.4		23376		2525
+
