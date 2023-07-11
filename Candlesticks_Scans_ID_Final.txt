@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		2.18		3243.1		546821
-LT		1.38		2472.45		384638
+LT		1.36		2471.8		451757
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CHOLAFIN		0.67		1159.1		482875
+
