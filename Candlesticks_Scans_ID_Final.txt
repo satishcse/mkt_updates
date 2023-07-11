@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.01		624.9		6664341
-AXISBANK		-0.05		963.55		4014679
-TITAN		0.2		3051.5		527614
+TATAMOTORS		0.95		624.5		6736631
+AXISBANK		-0.05		963.55		4027939
+TITAN		0.21		3051.9		528313
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AETHER		0.33		1054.0		24528
+FIVESTAR		-1.55		657.6		54007
 KSB		-1.09		2090.95		6516
