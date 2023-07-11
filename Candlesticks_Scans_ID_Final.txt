@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.62		672.4		4293979
-CIPLA		0.9		1025.85		615275
-ULTRACEMCO		-0.25		8330.4		245335
+HDFCLIFE		0.65		672.6		4299118
+CIPLA		0.91		1025.95		615788
+ULTRACEMCO		-0.22		8332.9		245647
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GLAXO		-0.81		1386.0		168584
-VIJAYA		-1.55		461.1		54797
+
