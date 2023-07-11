@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.99		1672.8		5692840
-CIPLA		1.45		1031.45		449482
+HDFCBANK		0.94		1672.05		5716551
+INFY		1.12		1344.0		2383391
+CIPLA		1.48		1031.75		450499
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PFIZER		0.06		3795.25		4605
+
