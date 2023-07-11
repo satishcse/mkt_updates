@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.05		1567.7		1080992
+INDUSINDBK		0.75		1377.25		1461682
+M&M		1.04		1567.55		1081755
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIVISLAB		0.12		3644.35		182003
