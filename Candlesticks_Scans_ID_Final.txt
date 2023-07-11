@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.03		191.5		5255682
-ONGC		0.65		163.8		2509729
-BHARTIARTL		0.64		891.05		1521827
-TITAN		0.28		3054.15		554817
+NTPC		0.03		191.6		5281533
+ONGC		0.65		163.8		2526163
+BHARTIARTL		0.63		891.0		2001148
+TITAN		0.27		3053.85		556539
+CIPLA		1.27		1029.6		508166
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKYLAMINE		-0.17		2526.95		18082
+ALKYLAMINE		-0.14		2527.7		18093
 ABBOTINDIA		-0.3		23400.0		2297
