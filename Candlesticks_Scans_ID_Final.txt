@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.03		625.0		8936342
-TECHM		1.36		1162.7		904632
-ASIANPAINT		0.95		3374.95		518829
+TATAMOTORS		1.02		624.95		8945977
+LT		1.41		2473.05		925997
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWSTEEL		-1.74		796.5		2120802
-INDIGOPNTS		-0.63		1430.65		27794
+JSWSTEEL		-1.77		796.25		2124285
+CLEAN		-0.96		1340.5		55143
