@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.03		625.0		8966082
-LT		1.39		2472.7		930081
-ASIANPAINT		0.93		3374.15		521658
+HDFCLIFE		1.03		675.1		4233148
+LT		1.41		2473.05		932625
+CIPLA		0.94		1026.3		607686
+DIVISLAB		0.23		3648.5		197157
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NAZARA		-2.3		709.7		379988
