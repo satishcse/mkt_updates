@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.08		191.7		4585409
-ONGC		0.71		163.9		2437087
-BHARTIARTL		0.68		891.4		1492404
-LT		0.81		2458.55		646932
-BAJAJ-AUTO		0.76		4935.0		244457
+NTPC		0.05		191.65		4612845
+ONGC		0.71		163.9		2446535
+BHARTIARTL		0.66		891.2		1494726
+LT		0.78		2457.8		648033
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAZARA		-0.11		725.6		253479
+NAZARA		-0.25		724.55		261858
