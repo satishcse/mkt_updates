@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.15		389.35		799834
+WIPRO		-0.12		389.5		809382
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FLUOROCHEM		-0.59		2770.95		21645
-SAPPHIRE		-0.6		1391.45		4903
+
