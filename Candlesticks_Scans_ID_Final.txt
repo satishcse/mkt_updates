@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		1.33		2471.25		460930
+ITC		1.43		472.5		2705432
+SUNPHARMA		1.89		1064.7		2110659
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CHOLAFIN		0.68		1159.2		499610
+
