@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-0.5		246.8		78892
-COLPAL		0.39		1805.8		17865
-BALKRISIND		0.2		2345.0		15132
-SCHAEFFLER		0.74		3089.3		2023
-KENNAMET		0.4		2706.55		70
+UPL		0.57		647.95		218865
+BALKRISIND		0.45		2350.9		16362
+SCHAEFFLER		0.68		3087.5		2414
+TMB		-0.15		433.5		1523
