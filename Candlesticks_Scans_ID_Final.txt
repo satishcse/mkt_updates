@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.0		1114.9		2960059
-UPL		0.39		646.75		1619645
-BHARTIARTL		-0.34		888.9		1575529
-SBILIFE		0.52		1301.7		645694
+HCLTECH		-0.02		1114.7		2964121
+UPL		0.4		646.85		1622645
+BHARTIARTL		-0.35		888.75		1582097
+TECHM		0.64		1168.9		902508
+SBILIFE		0.51		1301.55		647292
 
 Bullish_Hammer_15m_N500								 
 ======================= 
