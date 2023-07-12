@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BEML		0.63		1624.0		34585
-OFSS		-1.06		3793.5		8550
+PVRINOX		1.13		1442.5		797299
+OBEROIRLTY		-1.4		1026.4		45821
+BEML		0.69		1625.0		35032
+OFSS		-0.96		3797.35		8594
+CRAFTSMAN		0.51		4037.9		7926
