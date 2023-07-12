@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.25		670.85		2468978
-BAJFINANCE		-0.15		7433.0		1001552
+HDFCLIFE		-0.16		671.5		2495433
+BAJFINANCE		-0.13		7434.5		1006752
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIPRULI		0.55		597.5		1494082
+POLYMED		-3.62		1103.35		1355262
+BAJAJ-AUTO		-0.83		4876.75		257094
+ECLERX		-1.82		1740.0		60848
+LINDEINDIA		0.4		4448.45		16771
