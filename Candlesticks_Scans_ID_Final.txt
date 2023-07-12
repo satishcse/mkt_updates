@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-INFY		-1.08		1334.0		857204
-UPL		0.43		647.05		842678
-BHARTIARTL		-0.43		888.05		377595
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LTIM		-0.93		4878.4		195935
