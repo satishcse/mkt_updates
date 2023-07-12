@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.28		254.2		4047185
+POWERGRID		0.26		254.15		4058107
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVRINOX		-0.38		1421.0		1662372
-JKCEMENT		-0.95		3320.05		57862
+JKCEMENT		-0.92		3320.8		57866
+PAGEIND		-0.81		36000.0		24631
