@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-1.38		4856.45		345614
-PERSISTENT		-0.93		4674.15		191683
-MASTEK		-0.34		1954.95		10771
+CGPOWER		1.39		404.6		935096
+TITAN		0.45		3101.5		553211
+JSL		-1.64		363.95		268862
+SRF		-0.57		2163.0		222320
+PHOENIXLTD		0.53		1581.95		17285
+MASTEK		-0.34		1954.95		10791
