@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DELTACORP		-23.23		189.4		33149367
+LTIM		-1.38		4856.45		345614
+PERSISTENT		-0.93		4674.15		191683
+MASTEK		-0.34		1954.95		10771
