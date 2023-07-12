@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.01		194.35		1930686
-M&M		-0.97		1554.15		1060540
-UPL		0.23		645.75		1033642
-BAJAJFINSV		-0.39		1586.25		458722
+NTPC		0.96		194.25		1936972
+M&M		-0.97		1554.2		1061215
+UPL		0.19		645.5		1042803
+BAJAJFINSV		-0.46		1585.0		473448
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVRINOX		-0.19		1423.7		1434043
-CYIENT		-2.42		1413.55		184789
-JUBLPHARMA		-0.18		394.1		110679
+JUBLPHARMA		-0.32		393.55		112056
