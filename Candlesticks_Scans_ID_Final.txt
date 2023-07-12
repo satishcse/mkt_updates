@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.16		671.45		2548563
-BAJFINANCE		-0.19		7430.1		1023373
+HDFCLIFE		-0.1		671.85		2573829
+BAJFINANCE		-0.16		7432.25		1028063
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUBLPHARMA		-0.35		393.4		147317
+TCNSBRANDS		-1.13		416.65		56252
+LINDEINDIA		0.43		4450.0		17178
