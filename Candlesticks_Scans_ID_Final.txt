@@ -1,12 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		2.04		167.95		7422866
-ITC		0.26		474.4		2913783
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NATCOPHARM		-0.05		672.95		179519
-UBL		-0.05		1483.65		63648
+
