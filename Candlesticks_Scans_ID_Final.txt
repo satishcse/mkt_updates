@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.12		472.6		6437078
-BAJAJFINSV		-0.04		1591.75		638458
-GRASIM		0.13		1770.0		258161
+KOTAKBANK		0.93		1883.9		1820690
+BAJAJFINSV		-0.03		1592.0		639241
+GRASIM		0.13		1770.0		258454
+BRITANNIA		-0.47		5060.0		88985
 
 Bullish_Hammer_15m_N500								 
 ======================= 
