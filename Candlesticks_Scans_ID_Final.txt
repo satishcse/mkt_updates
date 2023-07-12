@@ -5,4 +5,8 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FACT		-0.49		473.35		228701
+BEML		0.38		1620.0		31023
+TCI		-0.14		729.3		9173
+GALAXYSURF		-0.31		2590.0		1758
