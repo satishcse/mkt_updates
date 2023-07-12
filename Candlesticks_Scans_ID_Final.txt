@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFC		0.28		2754.95		3651047
-SBILIFE		0.45		1300.85		274172
+SBILIFE		0.46		1300.95		274732
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAND		-1.31		1089.8		290781
-DIXON		-0.75		4353.4		140000
-UBL		-0.52		1476.75		78363
-DCMSHRIRAM		-1.26		896.35		17722
+TATACOMM		-1.61		1612.0		596134
+DIXON		-0.75		4353.45		140085
+UBL		-0.52		1476.8		78527
+BRITANNIA		-0.65		5051.05		48121
