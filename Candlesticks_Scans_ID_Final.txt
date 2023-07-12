@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.39		888.4		1568540
-SBILIFE		0.53		1301.85		639409
+UPL		0.4		646.85		1608573
+BHARTIARTL		-0.39		888.45		1570625
+SBILIFE		0.53		1301.8		640940
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BASF		-1.13		2562.95		8572
+
