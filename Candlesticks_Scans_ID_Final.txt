@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.4		800.55		2607265
+JSWSTEEL		0.54		801.7		2660032
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-0.6		1949.85		13354
+CENTURYTEX		-0.59		889.95		190002
+PAGEIND		-0.69		36046.2		16062
+LAXMIMACH		-0.63		13494.75		2602
