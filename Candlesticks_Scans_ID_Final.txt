@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-INFY		-1.21		1332.25		3241765
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KSB		-1.03		2049.15		7953
-KENNAMET		-1.44		2657.0		3786
+KENNAMET		-1.55		2654		3859
