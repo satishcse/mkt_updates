@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.17		473.95		2335337
+ITC		0.13		473.75		2474573
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-0.65		1896.35		54207
-BALAMINES		-1.32		2179.95		21544
+JSWSTEEL		-0.26		795.35		1488670
+TVSMOTOR		0.07		1343.85		144339
+APOLLOHOSP		-0.65		5223.0		73546
+BALAMINES		-1.15		2183.6		21789
+TCIEXP		0.72		1522.95		2694
+ABBOTINDIA		-0.47		23581.8		1455
