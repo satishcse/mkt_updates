@@ -1,13 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SBIN		0.83		593.45		7521368
-NTPC		0.29		192.95		4179208
-DIVISLAB		-0.3		3630.5		180133
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAMCOCEM		-1.19		923.3		272984
-JKCEMENT		-0.53		3334.2		44542
+JKCEMENT		-0.46		3336.55		44574
