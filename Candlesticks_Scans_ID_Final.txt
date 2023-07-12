@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-0.22		2469.2		184191
-HAPPSTMNDS		-1.27		982.0		116906
+INFY		-0.9		1336.5		676241
+ADANIENT		-0.74		2405.0		417876
+LT		-0.26		2468.2		185333
+GUJALKALI		-0.53		678.05		23938
