@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.28		234.65		3201648
-M&M		-0.97		1554.25		980721
-ULTRACEMCO		-1.82		8174.0		120638
-MARUTI		0.16		9915.55		107907
+COALINDIA		0.34		234.8		3208939
+M&M		-0.96		1554.45		981880
+ULTRACEMCO		-1.82		8174.4		120965
+MARUTI		0.12		9912.3		108612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-0.92		4878.95		247314
-CYIENT		-1.63		1424.9		109109
+CYIENT		-1.63		1424.95		115344
+BBTC		-0.83		1135.0		21613
