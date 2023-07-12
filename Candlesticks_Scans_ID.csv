@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCLIFE,-0.16,671.45,2401923
-BAJFINANCE,-0.13,7434.45,978318
-ULTRACEMCO,-1.33,8214.95,433965
+HDFCLIFE,-0.11,671.8,2414931
+BAJFINANCE,-0.12,7434.75,982278
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ECLERX,-1.98,1737.1,59030
+LINDEINDIA,0.41,4449.0,16522
