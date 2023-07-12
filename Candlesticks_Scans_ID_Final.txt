@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		0.2		254.0		3471557
+TITAN		0.23		3094.8		720647
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKCEMENT		-0.46		3336.55		44574
+RAMCOCEM		-1.15		923.75		275374
+GRINFRA		-1.07		1325.5		6837
