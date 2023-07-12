@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		2.04		167.95		8346702
-JSWSTEEL		0.46		801.05		2602275
+JSWSTEEL		0.4		800.55		2607265
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-1.29		952.7		203923
-MASTEK		-0.63		1949.25		13338
+MASTEK		-0.6		1949.85		13354
