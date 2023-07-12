@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.2		254		1813865
+AXISBANK		-0.28		950.5		3948006
+POWERGRID		0.2		254.0		1820766
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.39		1873.85		1268563
-DIXON		-0.71		4355.0		134408
-SAPPHIRE		-0.42		1373.8		58821
-PAGEIND		-0.69		36046.0		16139
+SAPPHIRE		-0.54		1372.15		58883
+PAGEIND		-0.68		36049.95		16162
 LAXMIMACH		-0.53		13509.15		2621
