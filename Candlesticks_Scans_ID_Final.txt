@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.27		680.2		3120385
+HDFCLIFE		1.23		679.95		3129466
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AEGISCHEM		-4.34		341.45		499808
-TIINDIA		-1.47		3234.35		114512
-HEG		-1.05		1558.7		62113
-POWERINDIA		-1.14		4171.95		11002
+SRF		-1.59		2175		895526
+JKCEMENT		-1.0		3304		34157
