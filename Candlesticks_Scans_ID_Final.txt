@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-1.01		1759.95		302259
+GRASIM		-1.01		1759.9		304037
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAJARIACER		-1.85		1297.45		950612
-GOCOLORS		-0.06		1119.95		109827
-HEG		-1.73		1548.0		90665
-POWERINDIA		-1.43		4159.95		13190
+HINDUNILVR		-0.66		2656.0		1392101
+KAJARIACER		-1.84		1297.65		950993
+GOCOLORS		0.0		1120.55		110499
+HEG		-1.73		1548.0		91325
+KIMS		-1.42		1854.05		81945
