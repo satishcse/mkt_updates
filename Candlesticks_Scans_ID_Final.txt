@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.9		229.95		19804197
-HINDUNILVR		-0.8		2652.2		1447722
-ADANIPORTS		-0.95		717.3		1306105
+COALINDIA		-1.9		229.95		19873804
+HINDUNILVR		-0.69		2655.3		1454152
+ADANIPORTS		-0.96		717.25		1309123
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JBCHEPHARM		-2.98		2525.95		317291
