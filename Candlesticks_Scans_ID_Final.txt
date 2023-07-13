@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BHARTIARTL		0.04		890.35		1702947
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		-0.63		4500		56144
+KRBL		-0.99		344.85		410513
+FINEORG		-0.58		4648.7		11296
