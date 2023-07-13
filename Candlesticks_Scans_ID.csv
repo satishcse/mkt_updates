@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-COALINDIA,-2.01,229.7,17722898
-NTPC,-1.7,187.55,7933279
-RELIANCE,0.01,2768.0,4765880
-GRASIM,-1.12,1757.9,261465
+COALINDIA,-2.01,229.7,17739189
+NTPC,-1.76,187.45,7963756
+RELIANCE,-0.01,2767.55,4782109
+GRASIM,-1.13,1757.7,261648
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+LT,0.09,2457.05,888712
+LINDEINDIA,-1.12,4397.6,13318
