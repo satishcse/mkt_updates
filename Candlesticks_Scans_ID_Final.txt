@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.4		802.5		2115806
+TATASTEEL		1.09		115.95		26842883
+JSWSTEEL		-0.42		802.3		2122489
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		1.03		289.5		590091
-MCX		-0.67		1592.45		315643
+SWSOLAR		1.03		289.5		590551
+MCX		-0.67		1592.45		315762
+DRREDDY		-0.43		5166.65		295191
