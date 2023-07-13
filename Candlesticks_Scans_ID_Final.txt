@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		0.41		3648.5		104760
+DIVISLAB		0.42		3648.7		104996
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-1.24		3250.75		391680
-AMBER		-1.13		2205.7		31226
+AMBER		-1.11		2206.1		31433
