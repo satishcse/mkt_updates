@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		0.21		7447.9		610851
-GRASIM		-1.01		1759.9		282886
+BAJFINANCE		0.24		7449.6		613586
+GRASIM		-1.01		1759.85		283537
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INDIGO		-1.78		2677.0		406049
+SIEMENS		-3.13		3709.0		360480
+RADICO		-3.16		1349.3		351364
+KSB		-0.51		2038.55		18877
