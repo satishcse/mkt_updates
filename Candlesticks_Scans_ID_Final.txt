@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.01		890.05		1708208
-SUNPHARMA		-0.07		1077.95		633694
+BHARTIARTL		0.01		890.05		1713516
+SUNPHARMA		-0.08		1077.9		635558
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KRBL		-0.65		346.05		443834
+KRBL		-0.79		345.55		458791
