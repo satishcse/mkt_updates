@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.93		2793.6		1701251
-M&M		1.17		1589.15		709723
+RELIANCE		0.91		2793.0		1735666
+M&M		1.19		1589.55		718787
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBMA		-1.41		1342.65		125947
+NAZARA		-0.7		683.6		302456
