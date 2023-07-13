@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-1.02		1759.8		286211
+WIPRO		0.63		394.3		6239150
+CIPLA		-0.15		1020.7		1246290
+APOLLOHOSP		-1.41		5177.85		307014
+GRASIM		-1.02		1759.75		290503
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.73		2654.0		1307255
-INDIGO		-1.77		2677.4		409916
+M&M		-0.5		1563.0		1638363
+PNBHOUSING		0.16		612.7		711733
+MARUTI		-2.05		9634.2		437597
+POWERINDIA		-1.69		4149.05		12965
