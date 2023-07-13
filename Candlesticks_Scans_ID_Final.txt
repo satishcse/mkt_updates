@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.09		115.95		27735012
-ULTRACEMCO		1.14		8314.45		145451
+ONGC		0.72		168.85		7088541
+BRITANNIA		0.81		5114.85		131399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIVISLAB		0.09		3636.7		161651
+LALPATHLAB		-0.91		2359.45		51772
