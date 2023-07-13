@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.69		168.8		7117963
+ONGC		0.63		168.7		7147649
+APOLLOHOSP		-0.42		5230.0		243139
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAJARIACER		-0.27		1318.35		891198
-HINDUNILVR		-0.32		2665.0		801150
-DIVISLAB		0.14		3638.45		161928
+HINDUNILVR		-0.32		2665		805218
