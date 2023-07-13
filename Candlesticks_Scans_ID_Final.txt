@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.04		889.6		2105703
-HINDUNILVR		-0.14		2669.85		690671
-ULTRACEMCO		1.2		8319.0		128065
-BRITANNIA		0.81		5114.9		125114
+BHARTIARTL		-0.06		889.45		2110366
+BPCL		-0.7		383.5		1272978
+HINDUNILVR		-0.14		2669.95		692398
+ULTRACEMCO		1.19		8317.95		128684
+BRITANNIA		0.81		5114.75		125162
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		-0.24		2375.25		46246
+MCX		-0.59		1593.65		302520
+BRIGADE		-0.23		579.55		224675
