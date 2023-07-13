@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIENT		0.67		2404		270677
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHALET		-0.56		456.0		31855
-GODFRYPHLP		0.27		1645.0		10653
-CARBORUNIV		0.23		1197.45		9422
+BATAINDIA		-0.62		1657		39927
+CHALET		-0.56		456		33213
