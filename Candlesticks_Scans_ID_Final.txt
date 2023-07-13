@@ -1,13 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBILIFE		1.03		1314		96108
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDIGO		0.11		2728.55		73010
-360ONE		-1.22		496.3		32332
-BATAINDIA		-0.54		1658.4		29988
-GMMPFAUDLR		0.18		1496.1		6413
-ECLERX		-0.2		1739.15		3530
+
