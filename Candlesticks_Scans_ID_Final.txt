@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-1.1		1758.3		274859
+GRASIM		-1.09		1758.45		275217
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ABB		-2.79		4402.0		166427
-KIMS		-1.11		1860.0		74885
-JKCEMENT		-1.03		3303.0		67993
-PFIZER		-0.16		3803.3		7565
+
