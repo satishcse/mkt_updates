@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAVELLS		-1.39		1272.75		224470
-MEDANTA		-0.38		698.9		29411
-MGL		-0.26		1110.7		25168
-ESCORTS		-0.1		2315.25		23043
+ESCORTS		-0.1		2315.3		23430
+IPCALAB		0.27		767.0		22903
+VMART		-0.45		2214.4		971
