@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-1.14		1757.6		276878
+GRASIM		-1.16		1757.3		277714
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GREENPANEL		0.51		356.9		447179
-PFIZER		-0.09		3805.9		7679
+KOTAKBANK		-0.13		1875.65		4570717
