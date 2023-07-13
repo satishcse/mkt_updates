@@ -6,5 +6,11 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SRF		-1.59		2175.05		848916
-JBCHEPHARM		-2.65		2534.5		274072
+SRF		-1.59		2175.05		849305
+ADANIENT		-0.7		2371.3		800616
+CONCOR		-0.61		678.95		528540
+KPITTECH		-1.11		1052.5		489473
+RAINBOW		-0.6		1058.2		125425
+FINEORG		-1.02		4628.0		16426
+WHIRLPOOL		-1.09		1439.15		16147
+MRF		-0.7		101519.05		1741
