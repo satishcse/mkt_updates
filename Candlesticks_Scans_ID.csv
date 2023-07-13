@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,0.48,168.45,7277135
-UPL,-1.58,633.65,3439339
-EICHERMOT,-1.11,3255.0,630246
+ONGC,0.39,168.3,7324349
+UPL,-1.64,633.3,3451887
+HDFCLIFE,1.38,680.95,3069087
+EICHERMOT,-1.11,3255.25,632318
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+KAJARIACER,-0.24,1318.75,904570
+TATAINVEST,-0.82,2330.65,24495
