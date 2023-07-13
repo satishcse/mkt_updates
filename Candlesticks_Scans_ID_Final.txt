@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.33		168.2		7407431
-UPL		-1.64		633.3		3485775
-HDFCLIFE		1.28		680.3		3080008
-EICHERMOT		-1.1		3255.45		652696
+ONGC		0.3		168.15		7436006
+UPL		-1.65		633.2		3498203
+HDFCLIFE		1.3		680.4		3083705
+EICHERMOT		-1.11		3255.0		654494
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-2.02		740.3		1846431
-VTL		-0.6		375.6		169437
-BATAINDIA		-1.22		1647.0		117665
+BSE		-2.0		740.5		1849968
+VTL		-0.61		375.55		169900
