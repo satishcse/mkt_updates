@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.64		394.35		6268027
-GRASIM		-1.08		1758.65		293398
+GRASIM		-1.07		1758.85		294587
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.29		1872.7		4810573
-MARUTI		-2.04		9635.2		445736
-INDIGO		-1.46		2685.65		415295
-COROMANDEL		-2.38		936.5		278045
-KSB		-0.49		2039.0		18961
-POWERINDIA		-1.77		4145.4		12977
+KOTAKBANK		-0.36		1871.4		4826045
+MARUTI		-1.94		9645.0		450409
+INDIGO		-1.45		2686.1		417882
+COROMANDEL		-2.34		936.9		279640
+GOCOLORS		-0.12		1119.25		109037
+HEG		-2.17		1541.0		88313
+POWERINDIA		-1.76		4146.0		13002
