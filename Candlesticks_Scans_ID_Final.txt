@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-2.64		245.4		10110487
-UPL		-0.77		638.9		2789208
-SUNPHARMA		-0.13		1077.3		685830
-HINDUNILVR		0.01		2673.8		591003
-GRASIM		0.17		1780.8		124079
+POWERGRID		-2.62		245.45		10122625
+SUNPHARMA		-0.09		1077.75		691772
+HINDUNILVR		-0.04		2672.45		592047
+GRASIM		0.13		1780.1		125189
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		-0.4		5168.35		247264
-LALPATHLAB		-0.07		2379.45		42094
+SRF		-0.69		2194.95		514321
+JBCHEPHARM		0.2		2608.8		204759
 BALAMINES		-0.55		2173.05		31649
