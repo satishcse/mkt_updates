@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.78		638.8		2837685
-ULTRACEMCO		1.3		8327.55		115601
+UPL		-0.83		638.5		2845866
+ULTRACEMCO		1.3		8327.0		115658
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BOSCHLTD		-0.38		19441.95		7008
+SWSOLAR		1.24		290.1		502337
