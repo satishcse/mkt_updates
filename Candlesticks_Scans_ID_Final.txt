@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ASTRAL		0.17		1842.75		283166
-AJANTPHARM		-0.74		1413.25		24213
-HONAUT		-0.5		43376.9		310
+
