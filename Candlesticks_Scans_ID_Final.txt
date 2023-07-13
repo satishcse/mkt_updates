@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.72		168.85		7088541
-BRITANNIA		0.81		5114.85		131399
+ONGC		0.69		168.8		7117963
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIVISLAB		0.09		3636.7		161651
-LALPATHLAB		-0.91		2359.45		51772
+KAJARIACER		-0.27		1318.35		891198
+HINDUNILVR		-0.32		2665.0		801150
+DIVISLAB		0.14		3638.45		161928
