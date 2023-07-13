@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.22		116.1		20228319
-UPL		-0.6		640.0		2248303
-DIVISLAB		0.43		3649.0		104582
+DIVISLAB		0.41		3648.5		104760
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+EICHERMOT		-1.24		3250.75		391680
+AMBER		-1.13		2205.7		31226
