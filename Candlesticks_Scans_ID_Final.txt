@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.15		679.4		3151739
+HDFCLIFE		1.16		679.5		3158675
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAURUSLABS		-1.94		345.9		975016
-SRF		-1.59		2175.05		921328
+LAURUSLABS		-1.96		345.85		980216
+TATACOMM		-2.3		1572.1		972447
+DALBHARAT		-0.29		2058.2		250043
+JKCEMENT		-1.0		3304.2		35911
 RUSTOMJEE		-0.18		601.3		22978
-SHREECEM		-0.6		24114.75		20585
-WHIRLPOOL		-1.09		1439.15		16761
