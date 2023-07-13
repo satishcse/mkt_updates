@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-0.52		43369.9		306
+ASTRAL		0.02		1840.0		278506
+CARBORUNIV		-0.4		1190.0		16859
+HONAUT		-0.5		43376.9		310
