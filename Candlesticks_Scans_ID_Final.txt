@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-2.07		229.55		17771216
-NTPC		-1.78		187.4		8006566
-RELIANCE		0.11		2770.7		4816581
-GRASIM		-1.2		1756.55		262459
+COALINDIA		-2.05		229.6		17779184
+NTPC		-1.81		187.35		8025474
+RELIANCE		0.14		2771.65		4867305
+GRASIM		-1.16		1757.25		262711
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-0.75		1792.0		1075355
-LT		0.1		2457.45		893038
+SHRIRAMFIN		-0.75		1792		1076347
+LINDEINDIA		-1.13		4397		13337
