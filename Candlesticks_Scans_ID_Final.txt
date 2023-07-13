@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.72		168.85		2254110
+ONGC		0.72		168.85		2278879
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCDOWELL-N		0.58		934.55		244203
-TRITURBINE		1.48		400.3		206992
-AARTIDRUGS		-0.53		490.05		174851
-UBL		0.38		1491.3		15659
-ECLERX		-0.73		1730.0		14928
-SUNDARMFIN		-0.21		2619.6		2481
+GRASIM		-0.03		1777.35		50696
+AETHER		0.82		1083.75		40492
+ECLERX		-0.73		1730.0		14947
+BLUEDART		-0.24		7338.65		1088
