@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.38		802.6		2091057
-SUNPHARMA		-0.07		1078.0		921955
-ADANIPORTS		0.25		726.0		688130
-MARUTI		-0.82		9755.0		234930
+TATASTEEL		1.13		116.0		26513243
+JSWSTEEL		-0.37		802.7		2091972
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-0.99		833.45		1326345
-LATENTVIEW		-0.56		362.9		288579
+LATENTVIEW		-0.56		362.9		288580
