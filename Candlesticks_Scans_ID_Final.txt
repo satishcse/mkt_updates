@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.87		117.0		27380803
-ONGC		0.8		169.15		8743393
-AXISBANK		-0.19		958.3		5023625
-ULTRACEMCO		-0.58		8186.05		219205
+ONGC		0.83		169.2		8780775
+ITC		0.15		472.7		4469694
+ULTRACEMCO		-0.57		8186.9		221254
 
 Bullish_Hammer_15m_N500								 
 ======================= 
