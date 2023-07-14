@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.6		8184.95		227541
+ULTRACEMCO		-0.61		8184.15		229576
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CEATLTD		-1.77		2433.0		327971
-CRISIL		-0.55		3839.4		15811
-3MINDIA		0.02		28849.95		2491
+CRISIL		-0.61		3837.15		15833
