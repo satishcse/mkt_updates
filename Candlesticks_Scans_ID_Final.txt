@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		-1.14		3049.65		404334
-BAJAJ-AUTO		-0.16		4858.6		208781
-ULTRACEMCO		-0.68		8178.0		126293
+TITAN		-1.19		3048.05		406208
+BAJAJ-AUTO		-0.15		4859.0		209206
+ULTRACEMCO		-0.67		8178.8		126736
 
 Bullish_Hammer_15m_N500								 
 ======================= 
