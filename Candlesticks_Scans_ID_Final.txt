@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.62		721.65		1231468
-BAJAJ-AUTO		-0.16		4858.6		212396
-ULTRACEMCO		-0.69		8177.4		128154
+TATASTEEL		0.74		115.7		13031694
+SBIN		-0.57		582.3		7321833
+HDFCBANK		0.31		1646.15		5357668
+ITC		0.35		473.65		2511136
+UPL		0.94		636.9		1194258
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDIANB		-0.59		319.95		642479
-GUJALKALI		-0.57		672.35		35471
+
