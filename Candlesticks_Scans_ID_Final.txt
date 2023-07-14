@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.38		473.8		768083
+ITC		0.35		473.65		810334
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MOTILALOFS		0.46		758.75		37735
+FIVESTAR		0.65		651.0		20609
+POLYPLEX		-0.12		1290.95		17135
