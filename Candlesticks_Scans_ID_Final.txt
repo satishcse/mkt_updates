@@ -2,16 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.28		240.0		39183664
-HINDALCO		1.46		441.55		5987820
-BHARTIARTL		-0.3		882.4		1339224
-BAJAJ-AUTO		-0.14		4859.65		166919
+POWERGRID		-1.28		240.0		39208524
+HINDALCO		1.44		441.45		6021417
+BHARTIARTL		-0.31		882.3		1344280
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.14		4859.65		166919
-MFL		0.43		999.2		25560
-SOLARINDS		0.07		3668.0		18541
-CERA		-1.71		7045.8		6268
 TCIEXP		0.26		1525.1		4721
