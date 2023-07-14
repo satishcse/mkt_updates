@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.3		115.2		6865276
-ITC		0.2		472.95		1453175
-M&M		-0.6		1557.45		527615
-JSWSTEEL		0.04		802.5		402159
+TATASTEEL		0.3		115.2		6883273
+ITC		0.16		472.75		1461897
+M&M		-0.58		1557.8		528688
+JSWSTEEL		0.07		802.75		403442
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ABB		-0.44		4388.1		53923
+ABBOTINDIA		-0.66		23239.0		1788
