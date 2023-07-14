@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.46		1878.3		4267534
-BPCL		0.25		380.5		1008114
+KOTAKBANK		0.44		1877.85		4333108
+BPCL		0.3		380.7		1028175
+HEROMOTOCO		0.7		3094.6		111062
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PRESTIGE		0.29		569.2		288076
+OBEROIRLTY		0.32		1031.85		78687
