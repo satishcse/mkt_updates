@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		1.39		848.95		1363624
-M&M		-0.91		1552.7		1299130
-TITAN		-0.97		3054.9		535717
-MARUTI		-0.33		9616.1		355304
+M&M		-0.94		1552.25		1304297
+MARUTI		-0.34		9615.05		355883
 
 Bullish_Hammer_15m_N500								 
 ======================= 
