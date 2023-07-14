@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HEROMOTOCO		0.66		3093.25		94512
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUMICHEM		-0.34		416.2		47105
+SBILIFE		0.25		1317.2		294805
+SUMICHEM		-0.3		416.35		47580
+ABB		0.17		4415.0		34869
