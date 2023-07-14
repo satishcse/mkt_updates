@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.72		186.55		9825884
-ONGC		0.69		168.95		7823594
-TATAMOTORS		0.52		623.9		5896676
+NTPC		-0.61		186.75		9872087
+ONGC		0.72		169.0		7829159
+TATAMOTORS		0.54		624.0		5906774
+ULTRACEMCO		-0.87		8162.1		184095
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFL		0.91		1004		35518
+MFL		0.83		1003.25		35544
