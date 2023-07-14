@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.42		583.2		6141469
+COALINDIA		0.61		231.3		3054627
+AXISBANK		-0.78		952.7		2516716
+GRASIM		0.01		1759.95		91446
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TCIEXP		0.26		1525.1		4721
+
