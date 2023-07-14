@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.72		169.0		7340199
-BPCL		0.09		379.9		2531434
-BHARTIARTL		-0.09		884.25		2298949
-UPL		0.92		636.8		1538222
-SBILIFE		0.35		1318.5		1027400
-BAJAJ-AUTO		-0.13		4859.95		250308
-BRITANNIA		0.74		5127.95		124413
+BPCL		0.03		379.65		2534699
+BHARTIARTL		-0.18		883.5		2317359
+UPL		0.81		636.1		1580769
+SBILIFE		0.37		1318.8		1029725
+BAJAJ-AUTO		-0.13		4860.0		250565
+BRITANNIA		0.74		5127.95		124623
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TIMKEN		-0.97		3436.1		18823
+PFIZER		0.15		3791.9		5590
