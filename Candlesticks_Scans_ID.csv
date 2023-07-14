@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.65,115.6,9783180
-DIVISLAB,0.79,3649.5,85455
+POWERGRID,-1.07,240.5,38639761
+TATASTEEL,0.7,115.65,9800290
+HINDALCO,1.87,443.35,5706747
+BHARTIARTL,-0.26,882.75,1275057
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CUMMINSIND,0.26,1897.35,132346
