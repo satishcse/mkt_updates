@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.57		184.95		7205833
-ICICIBANK		0.09		956.6		7116457
-TATAMOTORS		0.01		620.7		4750149
-BHARTIARTL		-0.09		884.25		2028251
+HINDALCO		1.94		443.65		7814029
+NTPC		-1.54		185.0		7217753
+ICICIBANK		0.08		956.5		7128105
+TATAMOTORS		0.01		620.7		4756427
+BHARTIARTL		-0.1		884.2		2033103
 
 Bullish_Hammer_15m_N500								 
 ======================= 
