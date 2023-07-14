@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.01		1314.1		384340
+SBILIFE		0.03		1314.35		386271
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HAL		-1.84		3783.0		432927
-THERMAX		-0.21		2330.15		6044
+
