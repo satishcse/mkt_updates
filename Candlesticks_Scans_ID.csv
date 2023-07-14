@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,-1.52,185.05,7680394
-TATAMOTORS,0.05,620.95,4909193
-BHARTIARTL,-0.11,884.05,2171350
+NTPC,-1.44,185.2,7740896
+BHARTIARTL,-0.1,884.15,2182940
+SUNPHARMA,-0.38,1071.55,1842949
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CHOLAHLDNG,-0.77,925.2,50755
