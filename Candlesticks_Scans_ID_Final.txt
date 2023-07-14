@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.0		1313.95		398170
-HEROMOTOCO		0.66		3093.45		188174
+TATASTEEL		0.22		115.1		6792398
+NTPC		-0.64		186.7		2211942
+JSWSTEEL		0.11		803.05		399784
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TIMKEN		-0.58		3449.9		5413
+
