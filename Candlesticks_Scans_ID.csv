@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-M&M,-1.05,1550.45,1282992
-MARUTI,-0.34,9615.0,353567
+BPCL,0.12,380.0,2621919
+M&M,-1.07,1550.2,1294711
+MARUTI,-0.36,9612.9,354607
+BAJAJ-AUTO,-0.13,4860.0,267916
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SHOPERSTOP,-0.77,813.95,15423
