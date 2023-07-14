@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.07		240.5		36743008
-ITC		0.21		473.0		1521687
-BPCL		0.53		381.55		1303326
-HEROMOTOCO		1.05		3105.3		245818
-APOLLOHOSP		-0.96		5132.15		194771
+ITC		0.21		473.0		1534734
+APOLLOHOSP		-0.85		5137.75		314631
 
 Bullish_Hammer_15m_N500								 
 ======================= 
