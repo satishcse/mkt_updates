@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.86		169.25		8646118
-ASIANPAINT		0.92		3429.65		740955
-ULTRACEMCO		-0.52		8191.05		213775
+TATASTEEL		1.87		117.0		26674353
+ONGC		0.8		169.15		8707425
+ULTRACEMCO		-0.63		8182.0		217495
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHOPERSTOP		-1.41		808.7		17885
