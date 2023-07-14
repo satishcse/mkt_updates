@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		-1.19		3048.05		406208
-BAJAJ-AUTO		-0.15		4859.0		209206
-ULTRACEMCO		-0.67		8178.8		126736
+UPL		0.78		635.95		1132260
+TITAN		-1.2		3047.85		406939
+BAJAJ-AUTO		-0.15		4858.95		209357
+ULTRACEMCO		-0.69		8177.05		126997
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		-0.37		1455		9379
+INDIANB		-0.59		319.95		625526
+ZYDUSWELL		-0.37		1455.0		9379
