@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.65,115.6,14039556
-NTPC,-1.46,185.15,7100358
-ICICIBANK,0.22,957.8,7093168
-BHARTIARTL,-0.04,884.7,2012407
+NTPC,-1.54,185.0,7194141
+ICICIBANK,0.16,957.25,7106277
+TATAMOTORS,0.02,620.75,4746465
+BHARTIARTL,-0.07,884.45,2020726
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TATAINVEST,-0.58,2313.25,13543
+GARFIBRES,-0.37,3085.3,3094
