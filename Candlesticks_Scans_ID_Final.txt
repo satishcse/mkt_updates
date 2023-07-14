@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.3		473.4		829072
+ITC		0.32		473.5		846927
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		1.39		1089.0		877959
-SIEMENS		-0.49		3709.9		43817
-MOTILALOFS		0.48		758.9		38461
+DRREDDY		-0.75		5103.85		60358
+HAPPSTMNDS		0.85		970.75		59941
+TVSMOTOR		0.69		1338.95		54090
+MOTILALOFS		0.49		759.0		39487
+FIVESTAR		0.81		652.05		21420
+WESTLIFE		0.37		901.9		12132
