@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.84		241.05		37989050
-SBILIFE		-0.02		1313.75		540051
+POWERGRID		-0.95		240.8		38008249
+SBILIFE		-0.06		1313.2		542941
+DIVISLAB		0.76		3648.55		81016
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CYIENT		-0.23		1424.0		249202
+HONAUT		0.05		43241.4		778
