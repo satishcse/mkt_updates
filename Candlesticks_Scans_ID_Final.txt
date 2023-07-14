@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.33		185.4		6920743
-ICICIBANK		0.39		959.45		6690034
-M&M		-0.57		1557.95		906772
-BAJAJ-AUTO		-0.16		4858.5		230197
+NTPC		-1.36		185.35		6926485
+ICICIBANK		0.35		959.05		6719152
+HCLTECH		3.35		1145.95		4190115
+BAJAJ-AUTO		-0.18		4857.55		230666
 
 Bullish_Hammer_15m_N500								 
 ======================= 
