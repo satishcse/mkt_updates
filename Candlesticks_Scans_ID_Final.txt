@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.65		115.6		13314344
-ADANIPORTS		0.56		721.25		1249623
-BAJAJFINSV		-0.27		1610.8		686884
-TITAN		-1.16		3048.9		426344
+TATASTEEL		0.7		115.65		13380611
+ADANIPORTS		0.57		721.3		1250284
+BAJAJFINSV		-0.25		1611.0		687822
+TITAN		-1.2		3047.6		427674
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIANB		-1.06		318.45		725506
-APLAPOLLO		-0.47		1341.2		210545
+APLAPOLLO		-0.4		1342.15		210920
+UBL		-0.28		1497.0		92452
