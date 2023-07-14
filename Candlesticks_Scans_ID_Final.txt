@@ -2,19 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.21		187.5		98228
+NTPC		-0.75		186.5		220020
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANITRANS		0.5		748.9		23601
-SBILIFE		0.37		1318.75		17538
-POLYMED		0.28		1128.9		12105
-JUSTDIAL		0.79		780.6		11632
-SRF		0.57		2185.8		11543
-GSPL		0.86		294.8		5704
-KEI		1.03		2458.7		4546
-NH		1.23		1031.95		4448
-MFL		1.23		1007.15		2904
-INDIGOPNTS		0.34		1432.55		755
-ALKYLAMINE		0.53		2473.85		516
+INDUSINDBK		0.35		1381.05		131255
+KEI		1.16		2461.95		9494
