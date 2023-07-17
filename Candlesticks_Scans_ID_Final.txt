@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.52		3447.45		646568
-SUNPHARMA		0.06		1073.6		639186
-BRITANNIA		-0.08		5129.0		175746
+ASIANPAINT		0.51		3447.2		647190
+SUNPHARMA		0.08		1073.8		639800
+BRITANNIA		-0.08		5129.0		176470
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INGERRAND		-2.82		2797.25		35224
+
