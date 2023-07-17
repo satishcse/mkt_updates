@@ -1,7 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		0.33		474.45		1535001
+BPCL		0.0		379.55		680252
 
 Bullish_Hammer_15m_N500								 
 ======================= 
