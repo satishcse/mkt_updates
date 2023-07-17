@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HINDALCO		0.6		449.65		3804371
-APOLLOHOSP		1.17		5232.3		263854
-BRITANNIA		0.75		5171.95		80018
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHREECEM		-0.63		24186.25		7641
