@@ -2,9 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		2.05		2797.0		7690368
-HINDALCO		0.83		450.65		6316433
+RELIANCE		1.99		2795.2		7715402
+HINDALCO		0.85		450.75		6327284
+ITC		0.04		473.1		4076397
+BHARTIARTL		-0.92		878.35		3865331
+MARUTI		-0.4		9565.0		219005
+BAJAJ-AUTO		-0.22		4849.05		172304
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GODFRYPHLP		-0.89		1635		42045
