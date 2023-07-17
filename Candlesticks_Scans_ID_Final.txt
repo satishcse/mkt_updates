@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		2.0		2795.55		7785007
-BHARTIARTL		-0.96		878.0		3887464
-MARUTI		-0.4		9564.95		221025
+RELIANCE		1.97		2794.6		7798266
+BHARTIARTL		-0.95		878.05		3894938
+MARUTI		-0.4		9565.0		221900
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TATAINVEST		0.66		2353.15		26585
