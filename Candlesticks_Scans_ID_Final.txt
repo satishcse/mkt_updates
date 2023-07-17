@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.85		619.6		3876663
-ONGC		-1.12		167.35		2474932
-BRITANNIA		0.52		5160.0		107755
+INDUSINDBK		0.1		1378.35		1488592
+HDFCLIFE		-0.97		663.55		984525
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HAL		-0.12		3832.0		810328
-AAVAS		0.34		1564.0		251583
-ZFCVINDIA		-0.06		12545.8		742
+
