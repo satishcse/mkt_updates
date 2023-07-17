@@ -1,13 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		3.67		419.9		10037435
-HCLTECH		1.45		1167.6		949498
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-0.57		1773.75		170336
-DIVISLAB		-0.02		3676.5		99083
-COLPAL		0.17		1839.7		73468
+COLPAL		0.18		1839.95		73538
