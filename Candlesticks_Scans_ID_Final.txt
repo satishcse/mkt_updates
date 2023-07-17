@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		2.01		2795.85		7744346
-BHARTIARTL		-1.01		877.55		3871606
-MARUTI		-0.4		9564.95		220148
-BAJAJ-AUTO		-0.2		4849.9		172362
+RELIANCE		2.03		2796.3		7755628
+BHARTIARTL		-0.96		877.95		3878548
+MARUTI		-0.4		9565.0		220612
+BAJAJ-AUTO		-0.24		4848.0		172708
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AJANTPHARM		-0.29		1440		47584
+
