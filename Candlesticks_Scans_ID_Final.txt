@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.73		1535.25		1168861
+M&M		-0.74		1535.1		1170990
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-2.65		1337.3		1511862
+OLECTRA		-2.74		1336		1515023
