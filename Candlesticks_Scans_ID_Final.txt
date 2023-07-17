@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.59		3449.9		662503
+KOTAKBANK		1.09		1889.45		2344344
+UPL		0.59		643.35		2225965
+ADANIPORTS		1.15		734.45		2017375
+SUNPHARMA		0.08		1073.85		661874
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ANURAS		-1.05		1008		34125
