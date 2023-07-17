@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.51		166.7		4106583
-ADANIPORTS		0.76		731.65		2299014
-GRASIM		2.32		1793.8		817616
+RELIANCE		2.15		2799.55		9450507
+ONGC		-1.68		166.4		4295729
+ADANIPORTS		0.63		730.65		2350452
+GRASIM		2.26		1792.85		832065
 
 Bullish_Hammer_15m_N500								 
 ======================= 
