@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.71		3539.5		1254759
-CIPLA		-0.2		1028.85		454860
-ULTRACEMCO		0.28		8205.8		95206
+TATAMOTORS		-0.82		619.8		3695490
+TCS		0.72		3540.0		1261327
+BRITANNIA		0.65		5166.4		102412
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NESTLEIND		-0.14		23105		19470
