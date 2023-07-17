@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.17		1152.95		2445086
-SUNPHARMA		0.19		1075.0		631107
-BRITANNIA		-0.11		5127.7		170944
+HCLTECH		0.26		1153.95		2449698
+ASIANPAINT		0.55		3448.5		638479
+SUNPHARMA		0.2		1075.05		631640
+BRITANNIA		-0.08		5129.1		171072
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ROUTE		-6.4		1521.3		4627802
+HEROMOTOCO		-1.81		3079.45		566704
