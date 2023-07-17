@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.19		958.2		10375761
-RELIANCE		1.79		2789.75		7988647
-TATACONSUM		-0.09		850.7		861155
-BAJAJ-AUTO		-0.36		4842.0		177505
+ICICIBANK		-0.08		959.3		10492228
+RELIANCE		1.94		2793.85		8008920
+TATACONSUM		-0.12		850.5		862198
+BAJAJ-AUTO		-0.39		4840.5		177668
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CCL		-5.7		688.3		538962
-BRITANNIA		-0.04		5131.0		165243
-SOLARINDS		-0.07		3681.6		36703
+CCL		-5.6		689.0		539923
+SOLARINDS		-0.01		3683.9		36719
