@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.53		188.45		3200065
-TCS		0.71		3539.6		1250619
-CIPLA		-0.15		1029.35		453041
-ULTRACEMCO		0.26		8203.75		94919
+TCS		0.71		3539.5		1254759
+CIPLA		-0.2		1028.85		454860
+ULTRACEMCO		0.28		8205.8		95206
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AETHER		1.54		1089.95		87266
+
