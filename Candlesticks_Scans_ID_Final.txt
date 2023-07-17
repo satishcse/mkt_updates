@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.83		619.7		3866075
-ONGC		-1.15		167.3		2471289
-BRITANNIA		0.53		5160.15		107528
+TATAMOTORS		-0.85		619.6		3876663
+ONGC		-1.12		167.35		2474932
+BRITANNIA		0.52		5160.0		107755
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-0.16		3830.75		809888
-AAVAS		0.4		1564.95		251540
+HAL		-0.12		3832.0		810328
+AAVAS		0.34		1564.0		251583
+ZFCVINDIA		-0.06		12545.8		742
