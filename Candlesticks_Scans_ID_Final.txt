@@ -6,9 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-1.63		1351.25		425635
-GREENPANEL		1.88		359.8		93674
-MTARTECH		-1.12		2089.3		70268
-GMMPFAUDLR		0.47		1492.4		7833
-SOLARINDS		0.64		3707.95		3863
-GARFIBRES		0.47		3140.9		1651
+GMMPFAUDLR		0.5		1492.9		9741
