@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.68		665.5		1076499
+BAJFINANCE		-0.29		7461		264191
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOLARINDS		-0.23		3675.95		28239
+RAINBOW		0.35		1100.95		664594
+GOCOLORS		-0.03		1130.15		237151
