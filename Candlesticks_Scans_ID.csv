@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ICICIBANK,-0.08,959.3,10125839
-RELIANCE,1.96,2794.5,7865617
-MARUTI,-0.39,9566.0,227043
-BAJAJ-AUTO,-0.22,4848.75,176517
+ICICIBANK,-0.1,959.1,10154543
+RELIANCE,1.93,2793.5,7913080
+TATACONSUM,-0.02,851.3,860349
+BAJAJ-AUTO,-0.35,4842.55,177075
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CCL,-5.69,688.35,537998
