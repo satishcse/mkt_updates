@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.35		7455.8		264467
+AXISBANK		-0.42		953.05		2913805
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAINBOW		0.34		1100.9		665128
+RAINBOW		0.34		1100.9		665305
+SOLARINDS		-0.31		3672.7		28905
