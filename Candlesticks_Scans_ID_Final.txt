@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.59		1537.4		1504280
-TATACONSUM		-0.06		851.0		1190996
+TATACONSUM		0		851.5		1199070
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUSTDIAL		-4.19		798.4		2456004
-ANGELONE		-7.16		1586.0		2145895
-BLUESTARCO		-0.14		792.6		49223
-HONAUT		-0.23		43130.0		1522
+AARTIDRUGS		1.46		505.25		2019009
+BSE		-0.73		751.9		889950
+CHOLAHLDNG		-1.01		915.7		61298
