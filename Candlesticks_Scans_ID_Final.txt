@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.07		118.4		34550259
-ITC		-0.39		471.05		3789135
-BAJAJ-AUTO		-0.31		4844.4		171295
+TATASTEEL		1.07		118.4		34607391
+LT		0.19		2476.95		554206
+BAJAJ-AUTO		-0.31		4844.45		171332
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		0.48		5315.0		97350
-NESTLEIND		-0.68		22981.75		25677
+RAINBOW		-3.5		1058.8		718150
+ASAHIINDIA		-1.45		532.45		170617
+SKFINDIA		0.48		5315.0		97380
+NESTLEIND		-0.65		22987.35		25757
 TATAINVEST		0.6		2351.8		23624
