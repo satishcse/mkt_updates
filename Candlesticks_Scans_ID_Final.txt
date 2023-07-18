@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATAMOTORS		-0.81		613.5		7538336
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MUTHOOTFIN		-1.09		1296.45		240287
-LAXMIMACH		-2.61		13960.0		7954
+MUTHOOTFIN		-0.92		1298.7		242260
+FINEORG		-1.37		4743.65		15516
+LAXMIMACH		-2.41		13988.7		8026
