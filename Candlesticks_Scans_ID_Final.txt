@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.59		640.0		2487395
-TECHM		-0.14		1240.7		1625530
+COALINDIA		-0.13		229.9		3300508
+TECHM		-0.11		1241.0		1627596
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GLAND		-0.87		1161.2		234106
