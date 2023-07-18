@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+KOTAKBANK		0.31		1902.9		774166
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.78		613.65		2879704
-INDIGO		-0.06		2675.9		63064
-MTARTECH		0.24		2103.0		50618
-GRINDWELL		-0.13		2192.85		2640
 BASF		-0.23		2595.25		1360
