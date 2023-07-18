@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		-0.13		414.7		3779010
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+APLAPOLLO		0.42		1380.9		312816
+VGUARD		-0.21		289.2		113125
+TIMKEN		-0.4		3357.9		8428
