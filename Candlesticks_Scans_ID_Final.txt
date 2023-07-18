@@ -6,8 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGO		-0.09		2675.0		62097
-ACC		-0.63		1800.0		56147
-WESTLIFE		-0.45		908.2		18966
-GRINDWELL		-0.15		2192.4		2633
-BASF		-0.33		2592.5		1356
+TATAMOTORS		-0.78		613.65		2879704
+INDIGO		-0.06		2675.9		63064
+MTARTECH		0.24		2103.0		50618
+GRINDWELL		-0.13		2192.85		2640
+BASF		-0.23		2595.25		1360
