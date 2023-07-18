@@ -1,14 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		0.17		241.4		6896209
-ITC		-0.06		472.05		3414662
-SUNPHARMA		-1.1		1065.75		914805
-LT		0.07		2470.55		512368
-ULTRACEMCO		-1.04		8165.05		137440
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AJANTPHARM		-0.63		1424.45		33088
+
