@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.91		1023.3		415074
-ULTRACEMCO		-1.04		8165.0		109793
-BRITANNIA		-1.08		5087.95		67288
+CIPLA		-0.98		1022.55		419116
+ULTRACEMCO		-1.04		8165.0		110334
+BRITANNIA		-1.08		5087.65		67466
 
 Bullish_Hammer_15m_N500								 
 ======================= 
