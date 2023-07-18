@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.13		471.75		2914066
-JSWSTEEL		-0.65		793.0		805027
-LT		0.28		2475.65		439930
-CIPLA		-0.88		1023.55		403758
-ULTRACEMCO		-1.05		8164.65		109118
-BRITANNIA		-1.18		5082.55		66712
+NTPC		0.59		187.6		4219254
+LT		0.28		2475.8		441411
+CIPLA		-0.9		1023.35		408600
+ULTRACEMCO		-1.08		8161.85		109436
+BRITANNIA		-1.12		5085.75		66968
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VMART		-1.53		2211.85		8771
+
