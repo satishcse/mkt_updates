@@ -2,16 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.06		853.1		511426
+TATACONSUM		0.05		853		519583
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-0.58		655.55		1846360
-SONATSOFTW		-1.55		1050.0		660228
-JBMA		-5.75		1393.15		344035
-COROMANDEL		-1.41		946.9		123962
-ANURAS		-1.07		997.0		44354
-RATNAMANI		-1.76		2581.7		30175
-SCHAEFFLER		-0.91		3136.35		29629
-GUJALKALI		-0.55		675.05		24959
+SONATSOFTW		-1.51		1050.4		660777
+ANURAS		-1.11		996.6		44385
+RATNAMANI		-1.75		2582.0		30287
+GUJALKALI		-0.55		675.05		25032
+HGS		-0.51		1073.0		8883
