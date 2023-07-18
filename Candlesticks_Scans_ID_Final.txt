@@ -1,12 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+AXISBANK		1.36		978		2507391
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.05		730.65		340287
-BAJAJFINSV		0.15		1612.7		155531
-SHREECEM		-0.34		24036.3		4901
-VINATIORGA		0.01		1825.95		4604
+RELAXO		-0.7		905.0		9612
+ALKYLAMINE		-0.57		2484.95		6177
+BASF		-0.32		2592.95		1291
+BLUEDART		-0.55		7355.7		993
