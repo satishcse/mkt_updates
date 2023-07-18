@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.59		640		2556276
+UPL		-0.59		640.0		2556563
+SUNPHARMA		-0.93		1067.6		1559992
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CRAFTSMAN		-4.58		4262.95		43140
+
