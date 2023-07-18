@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.17		117.55		10266118
+TATASTEEL		-0.13		117.6		10305557
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MARUTI		-0.15		9675.25		141948
-ECLERX		-1.06		1808.25		61507
-JKCEMENT		-1.24		3315.15		11743
+
