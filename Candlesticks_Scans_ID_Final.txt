@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.63		167.45		944057
-KOTAKBANK		0.22		1901.25		802163
+TATAMOTORS		-0.83		613.35		3062842
+KOTAKBANK		-0.11		1894.95		854647
+CIPLA		-0.11		1031.5		112540
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-1.15		1328.0		295462
-CRISIL		-0.13		3875.2		2309
+BRIGADE		-0.09		587		23427
