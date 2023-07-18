@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.38		117.3		8802701
-JSWSTEEL		-0.09		797.45		346015
+ICICIBANK		1.37		981.95		5710509
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-360ONE		-1.1		518		69628
+RADICO		-0.09		1376.4		90281
