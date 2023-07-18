@@ -1,10 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INFY		1.9		1450		6650153
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PIDILITIND		-0.48		2627		181957
-NAVINFLUOR		-0.8		4400		70726
+
