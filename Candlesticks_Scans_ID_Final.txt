@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.21		117.5		10153774
+TATASTEEL		-0.21		117.5		10171405
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.23		3342.1		262882
-JKCEMENT		-1.34		3312.0		10894
+EICHERMOT		-0.26		3341.1		263568
+CEATLTD		-1.14		2421.85		112508
+JKCEMENT		-1.34		3311.8		11030
