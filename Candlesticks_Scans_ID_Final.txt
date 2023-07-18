@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.23		240.45		8552990
-NTPC		0.27		187.0		5734138
-ONGC		0.18		166.7		3454152
+POWERGRID		-0.23		240.45		8597120
+NTPC		0.24		186.95		5738166
+ONGC		0.18		166.7		3464338
+UPL		-0.61		639.85		2695036
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-0.92		1352.7		638907
-MASTEK		-1.12		2143.95		125891
-MOTILALOFS		-2.53		728.5		77932
+MASTEK		-1.1		2144.4		125951
