@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.06		853.15		500395
+TATACONSUM		0.06		853.15		500837
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PEL		-1.53		971.55		593422
-INDIGO		-1.03		2649.8		176091
-INDIAMART		-2.18		2839.35		82240
-METROBRAND		-1.82		1067.75		43327
-SHOPERSTOP		-2.79		778.3		26507
-BLUEDART		-1.05		7318.3		2403
+SONATSOFTW		-1.51		1050.35		650387
+INDIGO		-1.02		2650.15		176452
+HEG		-0.91		1563.0		65234
+METROBRAND		-1.61		1070.0		44828
+BRIGADE		0.0		587.55		36801
+BIRLACORPN		-1.29		1205.55		14101
+BLUEDART		-1.03		7320.0		2421
