@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.04		2682.85		705979
+HINDUNILVR		0.04		2682.9		707876
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		-1.34		5159.85		175087
-CYIENT		-0.99		1441.55		139915
+DRREDDY		-1.34		5159.8		175244
+CYIENT		-0.99		1441.5		139962
