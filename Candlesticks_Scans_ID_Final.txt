@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.35		187.15		5663351
-TATACONSUM		0.63		858.0		1012404
+NTPC		0.27		187		5692400
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MASTEK		-1.11		2144.3		125550
+
