@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.65		792.95		797073
-LT		0.28		2475.65		434079
-ULTRACEMCO		-0.98		8170.0		107654
+ITC		-0.1		471.9		2891770
+JSWSTEEL		-0.65		793.0		798295
+LT		0.28		2475.7		435593
+ULTRACEMCO		-0.98		8170.0		107885
+BRITANNIA		-1.08		5087.95		65957
 
 Bullish_Hammer_15m_N500								 
 ======================= 
