@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.08		1898.55		901116
-CIPLA		-0.17		1030.9		116982
+INFY		1.2		1440.0		3323771
+ONGC		0.69		167.55		1085344
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		-0.04		2638.65		130461
-SRF		-0.32		2232.0		127400
-ESCORTS		0.15		2368.0		49190
-PIIND		0.0		3686.8		21800
+TATAINVEST		-0.44		2339.05		7486
