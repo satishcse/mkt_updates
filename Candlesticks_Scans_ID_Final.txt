@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.87		1449.55		6673138
+INFY		1.7		1447.15		6749461
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		-0.47		2627.25		182735
-NAVINFLUOR		-0.8		4399.9		71632
+PIDILITIND		-0.36		2630.05		185773
+COROMANDEL		-1.61		945.0		137074
+APLLTD		0.3		664.1		82410
+ECLERX		-1.43		1801.55		73199
+VARROC		-1.49		344.45		56610
+ANURAS		-1.4		993.65		46624
+MFL		-1.5		986.5		24228
