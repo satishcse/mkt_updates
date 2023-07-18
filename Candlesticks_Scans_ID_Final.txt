@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.33		229.45		3154841
-ITC		-0.13		471.75		2829793
-UPL		-0.62		639.8		2351632
+COALINDIA		-0.3		229.5		3157335
+ITC		-0.14		471.7		2838787
+UPL		-0.61		639.9		2359016
+JSWSTEEL		-0.66		792.85		773607
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLICYBZR		-0.47		737.85		281804
-SUNDARMFIN		-1.33		2554.0		22451
-FINEORG		-1.32		4745.8		13695
-TCIEXP		-0.95		1535.7		7495
+POLICYBZR		0.03		741.6		283111
+SUNDARMFIN		-1.33		2554.0		22595
+GALAXYSURF		-0.26		2600.3		5675
+3MINDIA		-1.22		27968.15		1002
