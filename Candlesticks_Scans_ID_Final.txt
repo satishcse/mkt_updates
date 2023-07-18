@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.12		471.8		3174085
-HINDUNILVR		0.05		2682.95		697196
+ITC		-0.15		471.65		3184037
+HINDUNILVR		0.02		2682.3		698720
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BLUESTARCO		-0.58		787.55		30276
