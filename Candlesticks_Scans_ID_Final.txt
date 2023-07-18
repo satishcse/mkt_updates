@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0		851.5		1199070
+JSWSTEEL		-0.83		798.15		1769593
+TATACONSUM		0.13		852.6		1200820
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AARTIDRUGS		1.46		505.25		2019009
-BSE		-0.73		751.9		889950
-CHOLAHLDNG		-1.01		915.7		61298
+ANGELONE		-7.05		1587.85		2155613
+AARTIDRUGS		1.45		505.2		2023580
+SUVENPHAR		0.14		488.1		247028
+PHOENIXLTD		-1.89		1673.15		109595
+TCI		-0.08		752.8		72407
+GARFIBRES		-0.6		3107.35		8702
