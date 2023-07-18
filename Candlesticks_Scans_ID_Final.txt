@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.96		228		4918291
+COALINDIA		-0.98		227.95		4924653
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHRIRAMFIN		0.58		1779.7		1251061
+OBEROIRLTY		-1.63		1052.25		517913
+DALBHARAT		-1.42		2027.75		116089
+BAJAJHLDNG		-1.19		7366.95		11783
