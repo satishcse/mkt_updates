@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.76		116.85		18036231
-INDUSINDBK		0.17		1392.8		2899001
-ULTRACEMCO		-1.02		8166.5		199449
+TATASTEEL		-0.76		116.85		18051210
+INDUSINDBK		0.06		1391.4		2905000
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-0.71		823.0		804156
-AETHER		-1.09		1067.85		112293
+AETHER		-1.39		1064.65		113131
