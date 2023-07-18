@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.93		228.05		4896022
+COALINDIA		-0.93		228.05		4903756
+BRITANNIA		-1.27		5078.0		105554
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KNRCON		-1.32		243.8		329781
+NAVINFLUOR		-0.9		4395.45		115467
