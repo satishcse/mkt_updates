@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-1.87		4873		164083
+COFORGE		-1.85		4874.05		167337
+ALKEM		-1.41		3614.95		73669
+OFSS		-0.38		3902.0		24319
