@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.57		229.55		1827325
-SUNPHARMA		0.78		1075.45		1575744
-TCS		-0.42		3482.0		1512062
+TCS		-0.43		3481.95		1516333
+BPCL		1.0		382.75		1146322
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POWERINDIA		0.08		4239		11046
+
