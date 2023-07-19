@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.08		439.7		2194876
-SBILIFE		-0.05		1313.95		315913
+ICICIBANK		-0.46		970.95		4275740
+WIPRO		-0.02		417.1		2736757
+BAJFINANCE		1.04		7496.9		375125
+BAJAJ-AUTO		-0.25		4848.5		64898
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CEATLTD		-1.23		2377.5		139802
-SHOPERSTOP		-0.28		780.9		19160
-ENDURANCE		-0.36		1688.2		8992
+
