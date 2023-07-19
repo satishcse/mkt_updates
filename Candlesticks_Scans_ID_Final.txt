@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.52		2487.5		533326
+LT		0.49		2486.9		534760
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.56		1728.6		561869
-CEATLTD		-1.54		2370.15		136356
-CDSL		0.29		1208.6		127757
-TIMKEN		-0.21		3332.65		8805
+FLUOROCHEM		-0.94		2818.7		33882
+TIMKEN		-0.2		3333.0		8848
