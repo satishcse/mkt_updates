@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.16		243.95		8647801
+POWERGRID		1.14		243.9		8653650
+EICHERMOT		0.02		3350.05		324430
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-0.18		4317.45		76076
-MUTHOOTFIN		0.5		1296.1		62838
+COFORGE		-1.53		4890.0		125799
+MUTHOOTFIN		0.49		1296.0		62884
 LALPATHLAB		-0.54		2351.75		61015
-FLUOROCHEM		-0.75		2824.2		32418
 PFIZER		0.15		3866.9		2957
