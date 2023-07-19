@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.21		116.35		8638871
-ICICIBANK		-0.62		969.4		4753151
-HINDALCO		-1.02		439.95		2245712
-COALINDIA		0.33		229.0		1213684
-HDFCLIFE		-0.11		655.85		1156487
-BAJAJ-AUTO		-0.24		4849.0		65396
+TATASTEEL		-0.17		116.4		8653034
+ICICIBANK		-0.6		969.55		4766103
+COALINDIA		0.35		229.05		1222930
+HDFCLIFE		-0.03		656.35		1158825
+BAJAJ-AUTO		-0.24		4849.0		65465
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.03		790.7		436131
+BALKRISIND		-0.12		2399.95		36999
+TIMKEN		-0.32		3329.0		9498
