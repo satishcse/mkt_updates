@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCLIFE		-0.04		656.3		716598
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LALPATHLAB		-0.21		2359.5		49679
+RHIM		-0.87		614.65		26592
+UTIAMC		-0.29		814.35		26428
