@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.82		382.05		719015
-LT		0.33		2482.9		520752
+BPCL		0.86		382.2		721841
+LT		0.39		2484.35		524029
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.94		3087.0		241058
-GLAXO		-0.8		1402.15		17334
+GLAXO		-0.75		1402.8		17595
+TIMKEN		-0.2		3332.75		8643
