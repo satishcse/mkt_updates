@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.21		166.55		4513703
-UPL		-0.15		639.0		2737550
-BPCL		1.21		383.55		1865776
+ONGC		-0.27		166.45		4541982
+UPL		-0.16		638.95		2738901
+BPCL		1.25		383.7		1869326
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIAMART		-0.84		2866.7		92442
 GRINFRA		-1.07		1297.4		13665
