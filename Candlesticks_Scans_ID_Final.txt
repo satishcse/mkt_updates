@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-DRREDDY		0.6		5222.3		21821
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MAZDOCK		0.39		1745.1		272646
+ECLERX		-0.53		1800.3		7258
