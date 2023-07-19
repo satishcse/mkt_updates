@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.24		1244.5		1412673
-BPCL		1.0		382.75		1035607
-SBILIFE		-0.28		1310.9		362964
-BAJAJ-AUTO		-0.3		4846.05		76477
+TECHM		-0.22		1244.85		1418333
+BPCL		1.0		382.75		1037350
+LT		0.4		2484.5		679959
+SBILIFE		-0.31		1310.5		364987
+BAJAJ-AUTO		-0.27		4847.55		76524
 
 Bullish_Hammer_15m_N500								 
 ======================= 
