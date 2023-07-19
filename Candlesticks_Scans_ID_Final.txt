@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.14		243.9		8653650
-EICHERMOT		0.02		3350.05		324430
+POWERGRID		1.08		243.75		8668631
+EICHERMOT		0.02		3350.0		325573
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-1.53		4890.0		125799
-MUTHOOTFIN		0.49		1296.0		62884
-LALPATHLAB		-0.54		2351.75		61015
-PFIZER		0.15		3866.9		2957
+COFORGE		-1.53		4889.95		126126
+ALKEM		-0.87		3634.8		61745
+PFIZER		0.14		3866.4		2981
