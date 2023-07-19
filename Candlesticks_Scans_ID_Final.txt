@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.46		3102.2		164778
-ULTRACEMCO		0.36		8205.75		25562
+HEROMOTOCO		-0.53		3099.9		165298
+ULTRACEMCO		0.33		8202.6		25709
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		0.27		2129.2		149198
-RHIM		-0.9		614.5		26645
-UTIAMC		-0.29		814.35		26428
+RHIM		-0.83		614.9		26738
+UTIAMC		-0.23		814.9		26491
+JKLAKSHMI		0.35		681.0		12151
