@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.04		875.1		4713227
-SUNPHARMA		0.75		1075.2		1593421
-TCS		-0.35		3484.6		1538212
-DRREDDY		0.2		5201.2		219423
+BHARTIARTL		-0.05		875.0		4717363
+SUNPHARMA		0.82		1075.9		1598188
+TCS		-0.34		3484.9		1539331
 
 Bullish_Hammer_15m_N500								 
 ======================= 
