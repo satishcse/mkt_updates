@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.12		166.7		5302666
-BPCL		1.41		384.3		2221894
+GRASIM		0.53		1784.5		397347
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHOPERSTOP		-1.05		774.85		30412
+TIINDIA		-1.86		3190.5		249829
