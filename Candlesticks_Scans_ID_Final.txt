@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.53		970.25		4314972
-HINDALCO		-1.1		439.6		2204418
-COALINDIA		0.42		229.2		1186395
-HDFCLIFE		-0.06		656.15		1122035
-BAJAJ-AUTO		-0.26		4848.0		64975
+TATASTEEL		-0.17		116.4		8554640
+ICICIBANK		-0.61		969.5		4422730
+HINDALCO		-1.05		439.85		2215125
+COALINDIA		0.42		229.2		1191111
+HDFCLIFE		-0.02		656.4		1141209
+BAJAJ-AUTO		-0.3		4846.2		65080
 
 Bullish_Hammer_15m_N500								 
 ======================= 
