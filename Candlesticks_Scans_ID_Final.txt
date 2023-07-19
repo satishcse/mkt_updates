@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.14		599.1		9707154
-ICICIBANK		-0.4		971.55		9070292
-HCLTECH		-0.33		1163.4		1574873
-DIVISLAB		0.59		3648.15		207805
+ICICIBANK		-0.44		971.15		9095323
+HCLTECH		-0.35		1163.1		1577666
+DIVISLAB		0.59		3648.0		207845
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GESHIP		-0.59		778.9		193551
+
