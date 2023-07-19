@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.14		876.65		4004338
-ONGC		0.57		167.85		986700
+BHARTIARTL		0.03		875.75		4007277
+ONGC		0.57		167.85		995715
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ZYDUSWELL		-0.14		1477.75		5750
+
