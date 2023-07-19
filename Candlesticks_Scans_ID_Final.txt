@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		-0.28		9639		101475
+MARUTI		-0.34		9633		104755
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIGREEN		0.54		979.05		126914
-ALKEM		-0.24		3657.9		41914
-VTL		1.01		375.45		22542
+
