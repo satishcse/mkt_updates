@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.5		2429.0		566892
-ULTRACEMCO		0.38		8206.7		22539
+ADANIENT		0.49		2428.65		568093
+ULTRACEMCO		0.37		8205.85		22603
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		1.88		1416.35		4437660
-ENDURANCE		0.33		1700.0		4298
-GARFIBRES		0.03		3129.65		1553
+INDUSINDBK		2.08		1419.2		4494110
+ENDURANCE		0.33		1700.0		4301
