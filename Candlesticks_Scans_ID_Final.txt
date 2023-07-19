@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-0.29		1310.7		368341
-BAJAJ-AUTO		-0.24		4848.95		76728
+SBILIFE		-0.3		1310.55		369503
+BAJAJ-AUTO		-0.25		4848.45		76820
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BALAMINES		0.06		2214.4		14011
+
