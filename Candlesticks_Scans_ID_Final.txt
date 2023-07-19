@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		0.63		5223.6		20400
+DRREDDY		0.6		5222.3		21821
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-METROPOLIS		0.03		1448.15		23229
-PFIZER		0.2		3869.0		315
+
