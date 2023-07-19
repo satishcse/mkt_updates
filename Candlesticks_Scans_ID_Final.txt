@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.13		116.75		11472401
-WIPRO		0.23		418.15		3680204
-TCS		-0.34		3484.8		1494349
+SUNPHARMA		0.81		1075.75		1560232
+TCS		-0.48		3479.9		1497625
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.34		4844		78933
+
