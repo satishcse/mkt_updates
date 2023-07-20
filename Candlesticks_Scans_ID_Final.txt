@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NTPC		0.13		192.8		12150575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRISIL		0.96		3904.7		24020
-SANOFI		-1.13		6943.25		9566
+ECLERX		-1.41		1766.1		46351
