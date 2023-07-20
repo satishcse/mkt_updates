@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.1		192.35		10255214
-UPL		0.1		639.8		2120965
-CIPLA		1.11		1047.25		1147483
-GRASIM		1.51		1811.1		566184
-DIVISLAB		0.27		3647.95		293511
+NTPC		-0.08		192.4		10258134
+POWERGRID		-0.16		242.85		6152231
+UPL		0.1		639.8		2121801
+CIPLA		1.0		1046.2		1150443
+GRASIM		1.42		1809.45		569584
+DIVISLAB		0.21		3645.75		293698
 
 Bullish_Hammer_15m_N500								 
 ======================= 
