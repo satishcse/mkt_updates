@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BPCL,0.94,388.15,2194392
-CIPLA,1.23,1048.55,1143499
+AXISBANK,-0.34,961.0,9547589
+BPCL,0.91,388.05,2196084
+UPL,0.09,639.75,2116760
+CIPLA,1.25,1048.75,1144093
+GRASIM,1.59,1812.6,563968
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+DIXON,-0.96,4288.95,201262
