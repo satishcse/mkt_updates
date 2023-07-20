@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.45		167.5		3390673
-UPL		0.13		639.95		2307537
+ONGC		0.45		167.5		3394368
+UPL		0.1		639.8		2308297
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-1.43		4268.6		225451
-ATUL		-0.36		6584.7		12555
+DIXON		-1.4		4270.0		225946
+ATUL		-0.36		6584.7		12556
 INGERRAND		-1.37		2814.55		11101
