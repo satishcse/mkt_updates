@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.04		639.4		2096678
-BAJAJ-AUTO		0.75		4859.75		400536
+UPL		0.05		639.5		2101111
+BAJAJ-AUTO		0.75		4860.0		401722
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-0.98		4828		232163
+COFORGE		-0.95		4829.6		232430
