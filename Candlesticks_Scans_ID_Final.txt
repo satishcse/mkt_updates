@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-1.16		832.5		313767
-MCX		-0.85		1600.75		22708
-PGHH		-0.54		15867.1		344
+JUSTDIAL		0.11		801.1		59912
+MCX		-0.85		1600.75		23673
+PIIND		0.05		3647.95		6523
+ECLERX		-0.36		1785.0		4616
+TIMKEN		-0.08		3326.95		2494
