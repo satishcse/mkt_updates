@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.34		117.1		21286852
-ONGC		0.48		167.55		3324575
-HEROMOTOCO		-0.6		3078.2		744671
+TATASTEEL		0.3		117.05		21385120
+ONGC		0.48		167.55		3335387
+UPL		0.09		639.75		2301625
+HEROMOTOCO		-0.55		3079.7		745536
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIXON		-1.47		4266.8		223487
+INGERRAND		-1.47		2811.55		10821
