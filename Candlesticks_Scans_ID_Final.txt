@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.13		640		1777670
+HINDALCO		0.56		441.65		4844458
+INDUSINDBK		0.59		1427.9		2398634
+COALINDIA		0.35		229.4		2140786
+UPL		0.13		640.0		1782255
+KOTAKBANK		0.39		1914.0		1740197
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ABB		-6.57		4198.5		772926
-JSWSTEEL		-0.22		790.15		728946
-LTTS		-2.28		4048.3		339996
-POWERINDIA		-0.54		4184.0		7567
+
