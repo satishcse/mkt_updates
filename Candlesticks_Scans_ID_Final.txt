@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.04		116.75		16973533
-WIPRO		-0.44		416.1		3933313
-HDFCLIFE		-0.34		656.8		2290396
+ASIANPAINT		0.25		3523.6		488167
+BAJAJ-AUTO		0.78		4861.05		394033
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KEC		-0.53		597.7		137907
-CRAFTSMAN		-0.92		4595.0		44174
-KSB		-0.42		2168.0		14727
+
