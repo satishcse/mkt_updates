@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.03,192.6,10898116
-GRASIM,1.65,1813.6,651622
+NTPC,0.08,192.7,10905797
+GRASIM,1.63,1813.3,652038
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TCIEXP,-0.8,1517.35,26978
+KIMS,-1.37,1909.65,15100
