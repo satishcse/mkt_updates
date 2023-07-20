@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.19		608.6		35285328
-TATACONSUM		1.02		869.25		1071903
+HDFCLIFE		0.05		659.35		2693618
+ULTRACEMCO		-1.46		8207.9		335004
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHARDACROP		-4.63		519.2		368502
-TIINDIA		-0.99		3162.7		97118
-GLAXO		-0.7		1392.0		30645
+
