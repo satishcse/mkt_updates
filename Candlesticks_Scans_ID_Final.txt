@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.13		116.85		12127599
-NTPC		0.03		192.6		6976562
-UPL		0.13		640.0		1584131
-BAJAJFINSV		-0.7		1632.6		894789
+TATASTEEL		0.13		116.85		12142688
+NTPC		-0.03		192.5		6986549
+UPL		0.12		639.9		1594615
+BAJAJFINSV		-0.72		1632.3		895315
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MFL		-0.15		982.1		38801
