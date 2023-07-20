@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-360ONE		0.16		516.8		190783
-CREDITACC		0.62		1315.0		119803
+360ONE		0.42		518.15		192216
+DIXON		-0.26		4319.1		143767
+INGERRAND		-0.3		2845.05		7314
