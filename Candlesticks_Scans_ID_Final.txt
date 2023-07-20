@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.82		606.4		23655819
-WIPRO		-0.36		416.45		3880902
-HDFCLIFE		-0.46		656.05		2155715
+SBIN		0.8		606.25		23686392
+TATASTEEL		0.13		116.85		16748447
+WIPRO		-0.37		416.4		3883288
+HDFCLIFE		-0.15		658.05		2206558
 
 Bullish_Hammer_15m_N500								 
 ======================= 
