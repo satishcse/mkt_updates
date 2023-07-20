@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.4		609.9		34307586
+SBIN		1.41		609.95		34408674
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TEJASNET		-0.08		870.7		2519083
+TIINDIA		-0.94		3164.05		96034
