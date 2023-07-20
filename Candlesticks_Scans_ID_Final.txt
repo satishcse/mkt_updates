@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.12		639.9		1823171
-EICHERMOT		-0.53		3312.6		481682
+UPL		0.11		639.85		1824161
+EICHERMOT		-0.59		3310.45		482568
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-0.37		4857.95		201925
+COFORGE		-0.38		4857.25		202150
 BASF		-0.58		2622.6		4295
