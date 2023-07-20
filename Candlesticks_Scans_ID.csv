@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BPCL,0.88,387.95,3037853
-EICHERMOT,-0.28,3320.75,812100
-ASIANPAINT,0.32,3526.05,645576
+BPCL,0.83,387.75,3085722
+EICHERMOT,-0.31,3319.9,813763
+ASIANPAINT,0.31,3525.7,647981
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-KPITTECH,-2.15,1061.0,1019663
-CDSL,-0.72,1200.75,405674
+KPITTECH,-2.14,1061.1,1020848
+CDSL,-0.69,1201.0,407198
+BEML,-0.26,1606.75,140206
