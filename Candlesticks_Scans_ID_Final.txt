@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.05		639.5		2106965
-BAJAJ-AUTO		0.55		4850.05		404183
+UPL		0.05		639.45		2111279
+BAJAJ-AUTO		0.56		4850.9		404325
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AJANTPHARM		-0.49		1395.85		44706
+
