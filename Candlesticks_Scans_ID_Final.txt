@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.14		242.9		5039833
-UPL		0.11		639.85		1932668
-ADANIPORTS		0.25		733.2		1484943
-HINDUNILVR		0.58		2687.1		714017
-APOLLOHOSP		0.37		5195.0		220541
+POWERGRID		-0.19		242.8		5050166
+UPL		0.12		639.9		1935829
+ADANIPORTS		0.25		733.2		1486100
+HINDUNILVR		0.55		2686.25		722271
+APOLLOHOSP		0.39		5196.0		220880
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRISIL		0.92		3903		20043
-SANOFI		-0.32		7000		6356
+CRISIL		0.92		3902.95		20048
+SANOFI		-0.32		7000.0		6359
