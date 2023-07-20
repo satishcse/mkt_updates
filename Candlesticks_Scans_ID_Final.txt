@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BPCL		0.88		387.95		3228913
-EICHERMOT		-0.36		3318.25		828124
-ASIANPAINT		0.41		3529.0		665419
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CRISIL		0.96		3904.7		24020
+SANOFI		-1.13		6943.25		9566
