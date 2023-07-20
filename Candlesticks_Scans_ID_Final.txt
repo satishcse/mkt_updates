@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.47		1238.8		879276
-GRASIM		-0.16		1781.35		132783
+BPCL		0.04		384.7		1141973
+TECHM		-0.38		1240.0		883483
+GRASIM		-0.2		1780.6		134838
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SRF		-0.06		2240.0		132961
-SUPREMEIND		-0.6		3464.0		35504
-PIIND		-0.05		3643.95		31227
+ANURAS		-0.46		986.95		40725
+SUPREMEIND		-0.52		3467.0		35809
