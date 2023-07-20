@@ -1,14 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-MARUTI		-0.08		9600.2		77477
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVRINOX		0.44		1445.55		170385
-PHOENIXLTD		-0.83		1622.7		21332
-JKCEMENT		-0.49		3265.25		10418
-JBCHEPHARM		-0.63		2507.4		1825
+ASIANPAINT		-0.32		3503.5		143778
+JBCHEPHARM		-0.63		2507.35		1826
 KENNAMET		0.13		2627.8		582
