@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.06		880.0		3265398
-DIVISLAB		0.25		3647.25		299015
+BHARTIARTL		1.05		879.9		3268564
+TATACONSUM		0.96		868.75		876365
+DIVISLAB		0.33		3649.95		299891
 
 Bullish_Hammer_15m_N500								 
 ======================= 
