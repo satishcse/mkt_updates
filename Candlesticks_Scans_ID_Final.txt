@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-UPL		0.11		639.85		1458226
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-360ONE		0.11		516.55		190645
-DIXON		-0.37		4314.35		141233
-BBTC		-0.46		1104.0		10370
+360ONE		0.16		516.8		190783
+CREDITACC		0.62		1315.0		119803
