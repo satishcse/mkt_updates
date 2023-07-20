@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.35		440.75		5232919
-UPL		0.13		640.0		1978517
+HINDALCO		0.38		440.85		5244045
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AMARAJABAT		-4.13		618.15		5155731
