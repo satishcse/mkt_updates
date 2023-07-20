@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-2.17		1442.95		6295665
-UPL		0.13		640.0		1842306
-TATACONSUM		0.12		861.45		392462
-APOLLOHOSP		0.39		5196.0		213413
+INFY		-2.16		1443.05		6308306
+TATACONSUM		0.12		861.5		393862
+APOLLOHOSP		0.38		5195.5		213594
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BOSCHLTD		-0.88		18932.5		11601
