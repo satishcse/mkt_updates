@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.76		606		22331148
+TATASTEEL		0.04		116.75		15105840
+UPL		0.13		640.0		1966658
+GRASIM		1.67		1814.0		385966
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CDSL		-0.3		1205.8		290186
-AETHER		0.07		1067.45		47978
+
