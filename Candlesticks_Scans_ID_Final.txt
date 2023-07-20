@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.13		640.0		1632346
-BAJAJFINSV		-0.72		1632.3		918952
+BAJAJFINSV		-0.72		1632.2		921750
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-0.05		3643.95		41409
+ABB		-6.8		4188.0		726149
+LTTS		-2.28		4048.5		338724
+ROUTE		0.28		1493.85		296292
 POLYMED		-0.65		1102.0		25194
+BASF		-0.47		2625.65		4053
