@@ -1,11 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BHARTIARTL		1.08		880.15		3389874
+UPL		0.13		639.95		2351115
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-1.4		4270.0		226786
-ATUL		-0.36		6584.7		12618
+DIXON		-1.46		4267.35		227049
+ATUL		-0.36		6584.7		12634
 INGERRAND		-1.32		2815.8		11138
