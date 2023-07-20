@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.36		416.45		3853579
-ONGC		0.3		167.25		2681643
-HDFCLIFE		0.1		659.7		2087611
-HEROMOTOCO		-0.34		3086.1		586141
+WIPRO		-0.37		416.4		3863145
+ONGC		0.3		167.25		2683031
+HDFCLIFE		0.12		659.85		2090224
+HEROMOTOCO		-0.35		3085.75		587727
 
 Bullish_Hammer_15m_N500								 
 ======================= 
