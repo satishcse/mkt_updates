@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.03		192.6		10808914
-TCS		-0.45		3454.55		1770162
+NTPC		0.0		192.55		10813054
+TCS		-0.52		3452.0		1773189
+GRASIM		1.72		1814.85		643130
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AIAENG		-1.04		3490.25		78990
+
