@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.13		640.0		1581422
-TATACONSUM		-0.35		857.45		314741
+POWERGRID		0.14		243.6		3825325
+UPL		0.13		640.0		1582186
+TATACONSUM		-0.29		857.95		315267
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIPRULI		-1.35		551.9		1417056
-HAVELLS		-0.89		1351.8		862452
-SIEMENS		-2.21		3628.25		437367
-RHIM		-0.32		613.7		70019
-OFSS		-0.68		3930.0		13849
+SIEMENS		-2.0		3636.0		444998
+RHIM		-0.3		613.8		70022
+OFSS		-0.63		3932.0		13991
+BOSCHLTD		-0.79		18950.0		10376
