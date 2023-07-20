@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-0.45		1636.65		434047
-KENNAMET		0.13		2627.8		582
+TCS		-0.72		3444.9		483055
+ASIANPAINT		-0.34		3502.6		152324
+GALAXYSURF		-0.53		2654.25		1214
