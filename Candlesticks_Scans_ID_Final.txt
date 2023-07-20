@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.03		192.5		9877588
-HDFCLIFE		0.08		659.6		2068633
-ASIANPAINT		0.27		3524.3		460316
+HDFCLIFE		0.04		659.3		2072396
+ASIANPAINT		0.29		3524.95		463755
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GARFIBRES		-1.07		3113.75		4311
-ZFCVINDIA		-1.76		12400.0		1805
+
