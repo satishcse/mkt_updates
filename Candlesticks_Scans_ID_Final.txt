@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.36		609.65		34486684
+SBIN		1.37		609.7		34573349
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		-0.95		3163.85		96097
+TIINDIA		-0.95		3163.85		96157
+BLUESTARCO		-0.62		788.95		52669
