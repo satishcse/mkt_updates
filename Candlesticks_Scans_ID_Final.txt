@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.41		1239.65		871173
-GRASIM		-0.14		1781.75		132138
+TECHM		-0.41		1239.55		874173
+GRASIM		-0.13		1781.85		132263
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SRF		-0.03		2240.65		129223
-BALKRISIND		-0.38		2420.95		64514
+BALKRISIND		-0.51		2417.85		66064
