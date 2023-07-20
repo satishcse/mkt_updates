@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ITC,1.95,488.2,10908646
-ADANIPORTS,0.34,733.85,1474130
-JSWSTEEL,-0.25,789.9,907848
+POWERGRID,-0.12,242.95,4980249
+UPL,0.12,639.9,1900157
+ADANIPORTS,0.32,733.75,1475801
+JSWSTEEL,-0.25,789.9,909627
+TITAN,-0.39,2983.95,689158
+ULTRACEMCO,-1.49,8205.0,235981
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SANOFI,-0.32,7000,6309
