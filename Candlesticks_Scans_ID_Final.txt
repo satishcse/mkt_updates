@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.73		116.1		9058930
-POWERGRID		0.2		244.75		4283848
-NTPC		0.16		193.2		1726679
-BAJAJ-AUTO		-0.53		4842.95		147666
+TATASTEEL		-0.64		116.2		9084035
+POWERGRID		0.12		244.55		4319531
+NTPC		0.18		193.25		1755111
+BAJAJ-AUTO		-0.53		4843.0		149277
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+M&M		-0.15		1543		278045
