@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.66		495.4		6749808
+SBIN		1.45		618.9		9854376
+ITC		0.67		495.45		6764621
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		-4.73		4805		569693
+PERSISTENT		-4.76		4803.85		572338
+ICICIGI		-0.48		1392.0		339265
+ATUL		-0.97		6518.8		23125
+SKFINDIA		-0.39		5216.8		1637
