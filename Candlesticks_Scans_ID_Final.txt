@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-3.22		1118.55		4968393
-COALINDIA		-0.3		229.05		3613328
-DRREDDY		-0.87		5292.65		218683
+ITC		-0.4		490.2		13115982
+HCLTECH		-3.22		1118.55		4989972
+DRREDDY		-0.89		5291.7		219190
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-1.81		4394		45973
+INDIGO		-1.88		2679.4		268687
