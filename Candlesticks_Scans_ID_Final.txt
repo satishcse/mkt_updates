@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		2.71		2557.25		2689108
-UPL		-0.69		635.0		949168
-ADANIPORTS		-0.15		731.35		787642
+LT		2.67		2556.1		2696511
+UPL		-0.69		635.0		950430
+ADANIPORTS		-0.14		731.4		788357
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CONCOR		-1.67		674.25		733029
+CONCOR		-1.66		674.3		733322
+AUBANK		-0.5		768.5		405308
+DALBHARAT		-3.63		1947.5		266561
