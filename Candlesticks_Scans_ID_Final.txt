@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-2.74		2548.0		5864706
-HCLTECH		-2.83		1123.05		2952191
-TCS		-1.89		3398.0		2149165
-UPL		-0.7		634.95		926518
-ADANIPORTS		-0.26		730.55		748423
-BRITANNIA		-0.15		5045.0		205249
+RELIANCE		-2.87		2544.7		5930185
+HCLTECH		-2.81		1123.35		2956006
+TCS		-1.87		3398.5		2151099
+UPL		-0.7		634.95		933006
+ADANIPORTS		-0.26		730.55		749040
+BRITANNIA		-0.16		5044.55		205363
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MFL		-0.93		969.85		18951
+
