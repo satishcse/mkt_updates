@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.4		490.2		13115982
-HCLTECH		-3.22		1118.55		4989972
-DRREDDY		-0.89		5291.7		219190
+ITC		-0.37		490.35		13155160
+DRREDDY		-0.91		5290.5		219892
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGO		-1.88		2679.4		268687
+HLEGLAS		-0.95		649.8		35445
