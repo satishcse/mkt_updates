@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.04,117.0,20786826
-NTPC,1.61,196.0,7292027
-ONGC,1.38,169.5,3334560
-BPCL,1.03,391.95,1364734
-UPL,-0.7,634.9,1058492
-ULTRACEMCO,-1.28,8119.15,208732
+TATASTEEL,0.04,117.0,20850555
+ONGC,1.35,169.45,3345642
+BPCL,1.03,391.95,1368847
+UPL,-0.71,634.85,1061049
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PERSISTENT,-5.39,4772,891099
