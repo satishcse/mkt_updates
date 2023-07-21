@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.7		634.95		2260245
+UPL		-0.72		634.8		2263175
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBCHEPHARM		-0.11		2499.8		9645
+JBCHEPHARM		-0.11		2499.8		9647
 3MINDIA		-0.65		27976.95		1280
