@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.7		634.95		937250
+UPL		-0.73		634.75		938854
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AUBANK		-0.75		766.55		356934
-CREDITACC		-0.53		1308.95		77774
+
