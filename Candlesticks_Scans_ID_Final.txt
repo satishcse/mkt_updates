@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.03		192.95		3022099
-HDFCLIFE		-1.15		653.45		1077287
-UPL		-0.69		635.0		838562
+NTPC		0.03		192.95		3024458
+HINDALCO		-1.05		436.9		1776660
+HDFCLIFE		-1.16		653.4		1085662
+UPL		-0.69		635.0		844960
+M&M		-0.11		1543.65		305330
 
 Bullish_Hammer_15m_N500								 
 ======================= 
