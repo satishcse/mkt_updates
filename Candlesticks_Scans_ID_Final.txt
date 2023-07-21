@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-2.56		406.95		7993377
-ONGC		1.32		169.4		3269832
-HINDALCO		-0.82		437.95		2685332
-SBILIFE		-0.33		1309.75		311768
+TATASTEEL		0.04		117.0		20689252
+COALINDIA		-0.24		229.2		2390556
+UPL		-0.69		635.0		1047230
+BAJAJFINSV		0.35		1641.5		627630
+SBILIFE		-0.31		1309.95		315985
+ULTRACEMCO		-1.29		8118.3		204567
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HINDUNILVR		-3.42		2610.85		3567526
-CEATLTD		-1.95		2435.0		246328
-ACC		-1.23		1778.3		188640
+
