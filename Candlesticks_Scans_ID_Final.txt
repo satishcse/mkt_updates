@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		4.07		2590.95		4007183
-COALINDIA		-0.44		228.75		3282081
-BAJAJFINSV		-0.18		1632.9		857541
+COALINDIA		-0.46		228.7		3289828
+BAJAJFINSV		-0.2		1632.55		858038
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUBANK		-0.93		765.2		641598
+PERSISTENT		-5.98		4742.1		1082764
+BAJAJELEC		-0.62		1261.45		46287
+CARBORUNIV		-1.49		1197.75		32763
