@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-1.13		1155.8		1990001
+HCLTECH		-3.96		1110		127897
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IPCALAB		-1.21		785.25		315248
-VAIBHAVGBL		-2.6		335.2		237030
-RATNAMANI		-1.33		2582.1		21383
-FINEORG		-0.59		4743.1		15283
+TATAINVEST		-0.1		2360		90
