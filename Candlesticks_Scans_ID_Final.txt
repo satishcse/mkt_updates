@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.37		991.9		4547600
+KOTAKBANK		0.62		1969.05		1721128
+HDFCLIFE		-0.94		654.85		1059602
+ADANIPORTS		-0.1		731.7		654672
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		-2.67		2549.95		4848524
+
