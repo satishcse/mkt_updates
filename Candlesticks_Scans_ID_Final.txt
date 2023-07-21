@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.05		1956		1369740
+TATASTEEL		-0.6		116.25		7973237
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDUSINDBK		-0.79		1413.95		491182
-CANFINHOME		-0.14		829.9		174353
+
