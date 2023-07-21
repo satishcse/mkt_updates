@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.72		495.7		6796593
+ITC		0.58		495.0		6821127
+COALINDIA		-0.2		229.3		981233
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		-4.73		4805.0		583030
-JKCEMENT		-1.58		3160.3		21425
-ALKYLAMINE		-0.72		2446.3		10797
-KENNAMET		-0.83		2589.85		1723
+PERSISTENT		-4.79		4802		586553
