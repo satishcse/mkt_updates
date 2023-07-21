@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.01		2419.5		2249384
-DRREDDY		-0.95		5288.5		224880
+ADANIENT		-0.03		2418.95		2254784
+DRREDDY		-0.99		5286.6		225457
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJAGRO		-0.97		486.25		115832
-HLEGLAS		-0.91		650.0		36248
+GLAND		-0.17		1235.0		761482
+GODREJAGRO		-0.98		486.2		116038
