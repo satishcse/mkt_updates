@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.72		634.8		944890
+UPL		-0.73		634.75		945821
+HEROMOTOCO		-0.5		3071.65		213373
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DALBHARAT		-3.64		1947.4		261084
+ZYDUSWELL		-0.95		1484.05		17412
