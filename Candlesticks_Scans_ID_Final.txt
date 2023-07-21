@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-1.61		1402.25		1491966
-ASIANPAINT		0.0		3525.85		649318
-EICHERMOT		-0.11		3313.45		371575
+INDUSINDBK		-1.6		1402.35		1494403
+ASIANPAINT		0.02		3526.7		650466
+EICHERMOT		-0.21		3310.05		381776
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAINBOW		-1.69		1100.8		235679
-KIMS		-1.88		1875.75		18952
-VINATIORGA		-0.44		1815.8		12589
-PGHH		-1.82		15695.6		2929
+RAINBOW		-1.66		1101.2		236110
+KIMS		-1.7		1879.2		19119
