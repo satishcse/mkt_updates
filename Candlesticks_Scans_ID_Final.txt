@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+UPL		-0.7		634.95		880459
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SBICARD		-0.45		849.65		384694
-BALKRISIND		-0.75		2391.5		49091
+BALKRISIND		-0.72		2392.2		49380
