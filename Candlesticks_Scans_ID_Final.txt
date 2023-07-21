@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.75		634.6		2285417
-SUNPHARMA		0.21		1100.0		1488830
+UPL		-0.74		634.65		2287004
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-1.0		660.4		1352837
-3MINDIA		-0.65		27976.95		1280
+COCHINSHIP		-0.94		660.8		1355743
+ZFCVINDIA		-2.56		11959.7		3239
+3MINDIA		-0.62		27986.0		1282
