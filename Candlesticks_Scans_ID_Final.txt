@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.26		229.15		1954781
-HDFCLIFE		-1.07		654.0		1368305
+HINDALCO		-0.53		439.2		2467557
+COALINDIA		-0.28		229.1		1966255
+HDFCLIFE		-1.04		654.15		1380285
+SUNPHARMA		-0.36		1093.75		747134
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JBMA		0.29		1406		136272
+
