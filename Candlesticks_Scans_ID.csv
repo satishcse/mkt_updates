@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-INDUSINDBK,-1.43,1404.75,1456357
-ASIANPAINT,-0.05,3524.3,633948
+INDUSINDBK,-1.49,1403.9,1461051
+ASIANPAINT,-0.04,3524.6,635283
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BASF,-1.43,2608.0,3670
+PGHH,-2.01,15665.4,2913
