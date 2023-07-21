@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-2.55		407.0		7928281
-ONGC		1.32		169.4		3249734
-HINDALCO		-0.84		437.85		2669939
-SBILIFE		-0.34		1309.55		310519
+WIPRO		-2.56		406.95		7964461
+ONGC		1.35		169.45		3255001
+HINDALCO		-0.8		438.0		2676807
+SBILIFE		-0.35		1309.45		311211
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-3.43		2610.65		3547934
+HINDUNILVR		-3.43		2610.55		3560238
