@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.2		244.75		4366080
-NTPC		0.13		193.15		1766144
-BAJAJ-AUTO		-0.53		4843.0		152893
+POWERGRID		0.16		244.65		4397680
+NTPC		0.13		193.15		2789720
+BAJAJ-AUTO		-0.53		4843.05		153359
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+M&M		-0.14		1543.25		279081
