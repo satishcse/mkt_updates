@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.65		438.7		2505571
-COALINDIA		-0.3		229.05		1981544
-HDFCLIFE		-1.11		653.7		1395160
-CIPLA		-0.72		1048.95		439950
-APOLLOHOSP		0.15		5203.2		203533
+HINDALCO		-0.69		438.5		2513313
+COALINDIA		-0.37		228.9		1982567
+HDFCLIFE		-1.13		653.6		1398298
+CIPLA		-0.77		1048.4		440720
+APOLLOHOSP		0.09		5200.0		204628
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-1.58		799.8		1011209
-GREENPANEL		-2.03		350.6		197517
-UTIAMC		-0.75		818.95		39367
+UTIAMC		-0.79		818.55		39427
