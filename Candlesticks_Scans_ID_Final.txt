@@ -6,8 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHARDACROP		-3.37		496.0		122046
-CEATLTD		-0.64		2413.95		63942
-AMBER		-0.33		2223.4		8142
-AETHER		-0.96		1056.85		7624
-TTKPRESTIG		-1.09		775.8		6806
+PAYTM		-0.36		841.3		1148356
+CEATLTD		-0.6		2414.85		65479
+ROSSARI		-0.73		867.0		6407
