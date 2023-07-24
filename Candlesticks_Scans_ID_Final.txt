@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.56		171.5		5106519
-BHARTIARTL		0.06		886.55		1729451
-BPCL		-0.09		390.3		941123
-GRASIM		0.8		1818.95		598214
-BRITANNIA		-1.24		4984.65		128082
+ONGC		0.56		171.5		5121180
+BHARTIARTL		0.08		886.7		1752037
+BPCL		-0.26		389.65		949751
+BRITANNIA		-1.28		4982.45		129088
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FLUOROCHEM		-1.44		2738.5		77226
+CRISIL		-1.68		3834.8		8005
