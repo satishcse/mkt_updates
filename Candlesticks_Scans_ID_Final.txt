@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-3.02		1159.0		2349047
-TRENT		-0.32		1708.45		362074
-POLYPLEX		-1.01		1273.0		61986
+MAHLOG		-3.56		394.45		544341
+POLYPLEX		-1.01		1273.0		62341
+PFIZER		-1.07		3845.95		10766
