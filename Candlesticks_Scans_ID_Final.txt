@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.23		243.55		3774077
-BHARTIARTL		-0.14		884.8		1369356
-ADANIPORTS		0.79		734.2		808073
+ADANIPORTS		0.79		734.2		808651
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BASF		0.35		2620		14939
