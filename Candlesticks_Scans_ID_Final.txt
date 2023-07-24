@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.56		171.5		5132265
-BPCL		-0.23		389.75		950947
-UPL		0.06		635.0		856322
-GRASIM		0.77		1818.45		599932
-HEROMOTOCO		0.95		3131.6		417704
-BRITANNIA		-1.25		4983.95		129598
+ONGC		0.56		171.5		5134602
+BPCL		-0.22		389.8		951481
+HEROMOTOCO		0.96		3131.95		418642
+BRITANNIA		-1.25		4984.05		129913
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCDOWELL-N		-5.68		980		4663687
+MCDOWELL-N		-5.68		980		4674467
