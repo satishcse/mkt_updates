@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MGL		-1.45		1049.85		110973
+PVRINOX		-0.61		1494.95		297005
+MGL		-1.46		1049.7		112167
+OFSS		-1.41		3802.0		23705
+SANOFI		-0.02		6911.35		1006
