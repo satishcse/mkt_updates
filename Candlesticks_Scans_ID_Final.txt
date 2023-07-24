@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.39		492.35		2132443
-NTPC		0.0		195.1		1804910
+ITC		0.4		492.4		2139213
+NTPC		-0.05		195.0		1810024
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIVISLAB		-0.53		3668.9		63790
+LAXMIMACH		-0.31		13864.6		1893
