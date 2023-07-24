@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.13		390.15		954067
-UPL		0.06		635.0		858702
+M&M		1.44		1545.5		1333269
+BPCL		-0.13		390.15		954697
+BRITANNIA		-1.25		4984.05		131530
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GODREJCP		-1.76		1038		883055
