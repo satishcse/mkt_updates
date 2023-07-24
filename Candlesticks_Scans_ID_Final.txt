@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.06		634.95		488444
+MARUTI		0.24		9793.1		101720
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCDOWELL-N		-4.82		989.0		2707074
-RAINBOW		0.66		1113.05		55511
+DIXON		-4.1		4005.0		287493
+NAUKRI		-0.62		4619.65		38000
+ZFCVINDIA		-1.62		12048.5		1154
