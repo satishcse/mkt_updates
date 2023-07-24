@@ -2,11 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.13		1673.6		7101660
-CIPLA		-0.19		1047.0		705607
-DIVISLAB		-0.69		3663.0		170260
-BRITANNIA		-1.28		4982.4		125788
-NESTLEIND		-0.59		22848.0		11943
+GRASIM		0.77		1818.55		594442
 
 Bullish_Hammer_15m_N500								 
 ======================= 
