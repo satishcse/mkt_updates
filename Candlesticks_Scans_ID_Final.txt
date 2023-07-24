@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.74		245.9		7178492
-WIPRO		0.2		405.5		2465332
-UPL		-0.02		634.45		1187934
-BAJAJFINSV		1.18		1652.15		993475
-CIPLA		0.31		1052.15		779549
+POWERGRID		0.76		245.95		7696942
+WIPRO		0.17		405.4		2469869
+UPL		-0.02		634.45		1206981
+BAJAJFINSV		1.14		1651.5		995312
+CIPLA		0.29		1052.0		780809
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PHOENIXLTD		-1.32		1620		26817
