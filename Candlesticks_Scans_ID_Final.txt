@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.31		389.45		889488
-ADANIPORTS		0.69		733.5		822937
+ITC		0.32		492.0		4404266
+BPCL		-0.36		389.25		890747
+ADANIPORTS		0.66		733.25		823502
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MEDPLUS		-2.14		921.15		157849
-ECLERX		-1.07		1750.0		17624
-BASF		0.2		2616.25		14971
+BASF		0.36		2620.35		15112
