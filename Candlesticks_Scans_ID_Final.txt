@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.3		1000.0		12134031
-COALINDIA		1.11		231.55		1970009
-BPCL		-0.13		390.15		978342
+ITC		0.72		494.0		5505479
+WIPRO		0.32		406.0		2278309
+BAJAJFINSV		1.32		1654.4		901083
 
 Bullish_Hammer_15m_N500								 
 ======================= 
