@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.92		246.35		7774898
-WIPRO		0.11		405.15		2488198
-UPL		-0.06		634.25		1211390
-BAJAJFINSV		1.15		1651.7		1026277
-CIPLA		0.15		1050.55		786134
+WIPRO		0.22		405.6		2496062
+UPL		-0.06		634.25		1212063
+BAJAJFINSV		1.23		1653.0		1027689
+CIPLA		0.17		1050.7		786746
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-1.54		2735.8		103759
-MFL		-1.13		953.0		46436
+LTIM		-0.56		4894.95		185100
+FLUOROCHEM		-1.64		2733.1		103875
