@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-KOTAKBANK		-3.58		1899.75		3190269
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LTTS		-0.88		4006.6		79022
+VMART		-0.1		2222.95		3743
