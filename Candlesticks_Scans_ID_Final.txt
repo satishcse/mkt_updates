@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.07		231.45		2114516
-LT		1.0		2612.0		1666045
-UPL		0.05		634.9		1094032
-ADANIENT		0.4		2425.95		679157
+TATASTEEL		-0.86		115.6		26110364
+TATAMOTORS		1.25		633.6		8707114
+HCLTECH		0.4		1119.9		2180985
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		-0.25		1684.5		39438
-GRINDWELL		-1.58		2152.05		12644
-GARFIBRES		-0.65		3070.75		4363
+CGCL		-0.23		801.2		86295
