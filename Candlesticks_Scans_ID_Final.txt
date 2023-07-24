@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.31		491.95		4418993
-BPCL		-0.33		389.35		891986
-ADANIPORTS		0.69		733.5		825195
+TATASTEEL		-1.59		114.75		19149277
+COALINDIA		1.14		231.6		1710174
+UPL		-0.02		634.5		818505
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MEDPLUS		-1.86		923.75		157874
-BASF		0.59		2626.3		15641
+
