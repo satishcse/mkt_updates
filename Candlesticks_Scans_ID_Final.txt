@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		-0.59		3666.5		168442
-BRITANNIA		-1.25		4983.75		123331
+DIVISLAB		-0.63		3665.15		168538
+BRITANNIA		-1.33		4979.9		124067
+NESTLEIND		-0.59		22847.55		11810
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TMB		2.61		440.4		387079
+ACI		0.3		531.5		94474
