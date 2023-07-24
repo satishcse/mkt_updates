@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.04		634.85		1265425
-NESTLEIND		-0.54		22858.55		30994
+UPL		0.05		634.9		1265975
+APOLLOHOSP		-0.03		5203.4		197073
+NESTLEIND		-0.61		22841.8		31028
 
 Bullish_Hammer_15m_N500								 
 ======================= 
