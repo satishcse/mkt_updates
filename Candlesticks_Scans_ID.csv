@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HINDALCO,0.16,435.2,1353233
-HCLTECH,0.49,1120.95,1199719
-HEROMOTOCO,0.63,3121.7,138669
+HINDALCO,0.12,435.0,1361373
+HCLTECH,0.47,1120.7,1226049
+BAJFINANCE,0.51,7620.75,141144
+HEROMOTOCO,0.61,3120.95,138975
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SANOFI,-0.12,6904.35,1347
+ZFCVINDIA,-1.32,12085.45,1023
