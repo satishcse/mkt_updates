@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIAMART		-2.41		3075.0		268724
+INDIAMART		-2.41		3075.15		268996
+CENTURYPLY		-0.43		673.1		22314
 DCMSHRIRAM		0.25		907.5		17697
+NESTLEIND		-0.64		22835.65		8235
