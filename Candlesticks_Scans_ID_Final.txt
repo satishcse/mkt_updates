@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		0.24		9793.1		101720
+TATASTEEL		-1.11		115.3		11961878
+BAJAJFINSV		0.74		1645.0		324897
+MARUTI		0.3		9799.4		103105
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-4.1		4005.0		287493
-NAUKRI		-0.62		4619.65		38000
-ZFCVINDIA		-1.62		12048.5		1154
+NAZARA		-0.6		650.0		84626
+ZFCVINDIA		-1.62		12047.9		1184
