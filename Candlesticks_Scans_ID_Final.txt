@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.33		247.35		8454263
-BPCL		-0.19		389.9		1128754
+POWERGRID		1.33		247.35		8471341
+HINDUNILVR		-0.76		2584.25		1360545
+UPL		0.05		634.9		1243807
+BPCL		-0.23		389.75		1129996
+EICHERMOT		-0.12		3311.55		382520
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-THERMAX		-1.09		2442.9		15911
-PFIZER		-0.98		3849.6		9164
+MANYAVAR		-0.45		1275.25		266374
+PFIZER		-0.94		3851.0		9184
