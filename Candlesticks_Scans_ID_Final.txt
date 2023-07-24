@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.54		618.4		9913875
-COALINDIA		1.27		231.9		2648712
-UPL		0.02		634.7		1287712
-BPCL		-0.13		390.15		1194020
+SBIN		0.54		618.4		9939435
+COALINDIA		1.2		231.75		2656058
+UPL		-0.05		634.3		1288845
+BPCL		-0.13		390.15		1196532
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-2.09		1170.1		1576187
-BAJAJELEC		-1.91		1235.3		57404
+RAINBOW		0.47		1110.95		158757
+BAJAJELEC		-1.91		1235.3		57485
