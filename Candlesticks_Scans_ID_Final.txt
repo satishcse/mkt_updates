@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.77		1645.5		326972
+TATASTEEL		-1.11		115.3		12053147
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 NAZARA		-0.5		650.6		85027
+NAUKRI		-0.67		4617.3		40556
+GUJALKALI		-0.68		665.35		34748
