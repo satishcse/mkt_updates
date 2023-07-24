@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HEROMOTOCO		0.58		3120.0		143492
-EICHERMOT		-0.7		3292.2		127977
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		0.55		1632.75		225848
-SANOFI		-0.11		6905.35		1363
+MCDOWELL-N		-4.92		987.9		2631032
+SANOFI		-0.11		6905.3		1365
+ZFCVINDIA		-1.36		12079.85		1063
