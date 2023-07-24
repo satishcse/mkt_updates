@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-1.07		3635.55		18454
-BAJAJHLDNG		-0.61		7371.2		1724
-INGERRAND		0.01		2774.9		1210
+BAJAJHLDNG		-0.53		7376.8		1940
