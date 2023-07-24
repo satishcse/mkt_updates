@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.86		115.6		26296986
-TATAMOTORS		0.96		631.75		8864639
-WIPRO		0.22		405.6		2414069
-UPL		0.04		634.85		1100439
-CIPLA		0.1		1050.0		760455
-BRITANNIA		-1.24		4984.45		155315
+TATASTEEL		-0.86		115.6		26450418
+TATAMOTORS		1.05		632.3		8939765
+ADANIPORTS		1.24		737.5		1212298
+UPL		0.05		634.9		1102493
+BRITANNIA		-1.24		4984.4		156054
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CGCL		-0.28		800.8		88095
+
