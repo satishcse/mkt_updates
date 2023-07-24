@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDWORLD		-1.37		316.1		74660
-VMART		-0.73		2209.0		11011
-ZFCVINDIA		-3.24		11849.3		4660
+ASTRAL		-1.49		1893.8		563916
+NAZARA		-0.45		650.95		170388
+JINDWORLD		-1.28		316.4		74749
+JKCEMENT		-1.11		3150.0		58279
+POWERINDIA		-1.11		4155.95		28493
+VMART		-0.73		2208.8		11053
