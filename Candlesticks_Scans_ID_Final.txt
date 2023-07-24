@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.9		115.55		26138034
-TATAMOTORS		1.16		633.0		8788774
-M&M		1.86		1551.85		1494445
-BRITANNIA		-1.24		4984.4		154703
+TATASTEEL		-0.86		115.6		26254459
+TATAMOTORS		1.07		632.45		8825955
+WIPRO		0.2		405.5		2411761
+UPL		0.03		634.8		1099821
+CIPLA		0.06		1049.55		760123
+BRITANNIA		-1.28		4982.35		155135
 
 Bullish_Hammer_15m_N500								 
 ======================= 
