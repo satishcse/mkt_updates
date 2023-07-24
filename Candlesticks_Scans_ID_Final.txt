@@ -5,4 +5,8 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PAYTM		-0.31		841.7		1243091
+SHARDACROP		-3.38		495.95		132808
+ADANIGREEN		-0.49		990.65		75109
+AETHER		-0.75		1059.0		8268
