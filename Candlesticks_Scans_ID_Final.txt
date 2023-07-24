@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+UPL		0.06		634.95		488444
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCDOWELL-N		-4.93		987.8		2682711
+MCDOWELL-N		-4.82		989.0		2707074
+RAINBOW		0.66		1113.05		55511
