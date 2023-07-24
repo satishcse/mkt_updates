@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		-0.57		3667.35		174122
-BRITANNIA		-1.24		4984.55		132733
+ICICIBANK		0.47		1001.7		11553744
+WIPRO		0.3		405.9		2167294
+ADANIPORTS		1.19		737.1		985666
+DIVISLAB		-0.53		3668.7		174450
+BRITANNIA		-1.27		4983.05		133191
 
 Bullish_Hammer_15m_N500								 
 ======================= 
