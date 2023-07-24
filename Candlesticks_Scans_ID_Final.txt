@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.03		115.4		26797078
-TATAMOTORS		0.84		631.0		9137842
-JSWSTEEL		-1.25		776.6		2168503
-UPL		0.02		634.7		1149309
-GRASIM		0.97		1822.05		640028
-BRITANNIA		-1.31		4980.65		158783
+TATASTEEL		-1.11		115.3		26849564
+TATAMOTORS		0.93		631.55		9166227
+JSWSTEEL		-1.2		777.0		2171040
+UPL		-0.01		634.55		1151069
+GRASIM		0.93		1821.45		640414
+BRITANNIA		-1.27		4982.85		159018
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BASF		0.46		2623		42381
+MFL		-1.21		952.15		45112
