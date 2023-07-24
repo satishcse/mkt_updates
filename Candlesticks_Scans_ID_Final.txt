@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.31		1670.6		5862328
+HDFCBANK		-0.32		1670.4		5904892
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-2.74		1294.0		229805
+PATANJALI		-2.78		1293.5		229895
 CENTURYPLY		-1.14		668.3		32518
-ROSSARI		-1.07		864.0		18786
+SUNDARMFIN		-1.82		2564.7		27774
+TIINDIA		-0.86		3191.6		14772
