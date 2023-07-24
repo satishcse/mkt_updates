@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		0.45		3116.1		141798
+HEROMOTOCO		0.49		3117.4		143084
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SANOFI		-0.1		6906		1352
+SANOFI		-0.08		6907.5		1357
