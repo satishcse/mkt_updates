@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CREDITACC		4.66		1374.7		1264518
-BAJAJHLDNG		-0.62		7370.55		2168
-LAXMIMACH		-0.19		13880.0		1448
+CREDITACC		4.58		1373.7		1268368
+BAJAJHLDNG		-0.49		7379.95		2235
