@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.27		999.65		12122230
-BPCL		-0.14		390.1		977022
+ICICIBANK		0.3		1000.0		12134031
+COALINDIA		1.11		231.55		1970009
+BPCL		-0.13		390.15		978342
 
 Bullish_Hammer_15m_N500								 
 ======================= 
