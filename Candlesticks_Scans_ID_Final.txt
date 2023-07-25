@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.41		996.1		13231709
-SUNPHARMA		-0.08		1099.5		964531
-MARUTI		0.62		9755.35		158515
+ICICIBANK		0.38		995.8		13273291
+SUNPHARMA		-0.08		1099.5		965910
+MARUTI		0.61		9753.55		158713
 
 Bullish_Hammer_15m_N500								 
 ======================= 
