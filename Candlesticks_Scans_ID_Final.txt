@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.82		626.95		845212
+UPL		-0.84		626.85		865770
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AMARAJABAT		-0.12		624.3		226254
+UBL		-0.57		1488.1		30142
