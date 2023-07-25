@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.04		385.5		1331489
-UPL		-0.82		626.95		1276821
-GRASIM		0.36		1819.55		309628
+UPL		-0.85		626.75		1280040
+GRASIM		0.37		1819.8		309804
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIAMART		-3.48		2940.7		302424
-BAJAJ-AUTO		-0.53		4857.0		174674
+BAJAJ-AUTO		-0.53		4857		174791
