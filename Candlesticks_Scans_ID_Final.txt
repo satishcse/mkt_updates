@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.27		402.95		1462484
-DIVISLAB		1.11		3727.0		171239
+WIPRO		-0.28		402.9		1466049
+DIVISLAB		1.11		3727.0		171409
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-0.15		4691.5		515640
-BORORENEW		-0.9		490.5		97327
-BOSCHLTD		-0.46		18936.45		9420
+POLYCAB		-0.15		4691.4		515997
+BORORENEW		-0.92		490.4		97515
