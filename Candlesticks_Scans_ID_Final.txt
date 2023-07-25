@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.18		1098.45		632382
+SUNPHARMA		-0.14		1098.9		636310
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RUSTOMJEE		-0.16		605.45		6904
+RUSTOMJEE		-0.18		605.35		6908
