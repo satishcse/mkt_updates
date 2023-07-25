@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		-2.42		459.95		15834826
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CREDITACC		0.79		1383.85		118857
+COLPAL		-0.73		1874.85		99007
+INDIAMART		0.15		3051.3		77681
+TRENT		-0.09		1707.7		47162
