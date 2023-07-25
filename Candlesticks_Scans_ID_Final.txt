@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.13		22789.45		16515
+NESTLEIND		-0.17		22780.25		16588
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PAYTM		-4.98		762.05		5208661
+
