@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.07		250.1		4763144
-LT		-1.26		2572.45		1130221
+POWERGRID		1.07		250.1		4774996
+LT		-1.36		2569.75		1143740
+NESTLEIND		-0.56		22692.15		26616
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GRINFRA		-1.57		1256.75		16468
+
