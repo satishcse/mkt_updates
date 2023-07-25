@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.32		173.25		8159182
-TATACONSUM		0.38		866.4		665474
+ONGC		1.29		173.2		8194218
+TITAN		1.4		3020.85		684502
+TATACONSUM		0.37		866.25		667475
 
 Bullish_Hammer_15m_N500								 
 ======================= 
