@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.53		1054.5		395980
+CIPLA		0.45		1053.7		396706
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-0.61		4670.0		636969
-ASTRAL		-0.78		1876.05		156097
-MASTEK		-2.44		2083.3		60509
-PFIZER		-0.14		3850.4		4598
+DLF		-2.43		481.8		4197421
+ASTRAL		-0.76		1876.4		156176
+UBL		-1.48		1474.45		87628
+PFIZER		-0.15		3850.0		4603
