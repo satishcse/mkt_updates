@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.82		172.4		6945000
-WIPRO		-0.52		401.95		2128630
-UPL		-1.17		624.75		1624131
-SUNPHARMA		-0.06		1099.75		1086614
-APOLLOHOSP		0.27		5194.55		449228
+ONGC		0.85		172.45		6949780
+WIPRO		-0.56		401.8		2132807
+UPL		-1.14		624.95		1625713
+SUNPHARMA		-0.06		1099.75		1088475
+APOLLOHOSP		0.24		5193.45		449452
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BLUEDART		-0.77		7165		10713
