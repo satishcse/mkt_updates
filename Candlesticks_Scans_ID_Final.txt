@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.17		22782.35		16671
+HDFCLIFE		0.79		658.3		1909609
+INDUSINDBK		-0.11		1434.05		1527480
+TATACONSUM		-0.42		859.45		192930
 
 Bullish_Hammer_15m_N500								 
 ======================= 
