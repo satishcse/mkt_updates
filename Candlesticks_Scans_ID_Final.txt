@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.27		402.95		1381069
-TATACONSUM		-0.39		859.75		201284
+WIPRO		-0.33		402.7		1384478
+TATACONSUM		-0.52		858.6		201925
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVRINOX		-1.37		1474.0		182270
-AAVAS		0.12		1605.35		78895
+POLICYBZR		0.54		748.9		209896
+PVRINOX		-1.38		1473.9		182989
+CRAFTSMAN		-0.04		4754.0		72899
