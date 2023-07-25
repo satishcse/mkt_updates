@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-1.13		625		1867433
+HDFCBANK		1.13		1697.3		25314171
+ADANIENT		1.7		2459.4		2132504
+UPL		-1.13		625.0		1952909
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TCIEXP		-0.89		1476.45		13099
