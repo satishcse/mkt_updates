@@ -2,21 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.41		195.9		9981788
-ADANIPORTS		0.94		735.3		1919024
+NTPC		0.31		196.5		13271
+ADANIPORTS		0.32		737.65		2902
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PEL		-0.33		991.8		1678934
-CGPOWER		-1.52		401.85		1076880
-MARUTI		-0.77		9694.8		358506
-BORORENEW		-1.29		494.95		226384
-APLLTD		-0.47		687.5		194376
-PIIND		-1.19		3631.2		146776
-NH		0.61		1036.3		109389
-CHEMPLASTS		1.24		436.45		102508
-TIINDIA		-1.4		3174.25		40490
-JBCHEPHARM		-2.94		2437.45		23633
-GRINFRA		-1.09		1276.75		19405
-KENNAMET		-0.34		2580.0		3412
+
