@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.56		251.3		7125766
+POWERGRID		1.6		251.4		7182819
+ULTRACEMCO		2.19		8399.45		548537
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+OLECTRA		-9.17		1079.95		3281348
+JUSTDIAL		-0.72		793.5		111595
