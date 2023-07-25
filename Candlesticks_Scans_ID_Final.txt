@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.76		658.1		1914394
-TATACONSUM		-0.52		858.65		194945
+HDFCLIFE		0.76		658.1		1915810
+TATACONSUM		-0.52		858.65		195709
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PAGEIND		-0.8		37157.6		3636
