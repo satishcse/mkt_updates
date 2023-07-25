@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-1.4		7119.85		11852
-FINEORG		-0.75		4654.8		11623
+BLUEDART		-1.4		7120		11883
