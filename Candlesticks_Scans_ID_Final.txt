@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BHARTIARTL		-0.41		884.55		1588412
-SUNPHARMA		-0.13		1099.0		643173
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BLUESTARCO		-0.42		782.0		18741
+RUSTOMJEE		-0.06		606.1		6929
