@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.88		626.6		1287879
-ULTRACEMCO		2.34		8412.0		382046
+UPL		-0.89		626.5		1300095
+ULTRACEMCO		2.34		8411.9		382692
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGO		-3.44		2578.9		701540
-NESTLEIND		-0.54		22697.05		25244
-ZFCVINDIA		-0.71		11969.9		1055
-MRF		-0.41		102298.1		906
+NESTLEIND		-0.55		22695.3		25275
