@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.06		1099.7		1074723
-CIPLA		0.52		1054.45		398325
+CIPLA		0.52		1054.45		398495
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.06		1099.7		1074723
-ADANIENT		0.15		2421.8		987291
-FINCABLES		-2.29		1002.1		246057
-PAGEIND		-1.04		37067.8		5314
+SUNPHARMA		-0.06		1099.75		1077225
+ADANIENT		0.19		2422.85		989357
+FINCABLES		-2.32		1001.8		246218
+ASTRAL		-0.78		1876.05		157566
+TCIEXP		-0.76		1478.45		9817
+PAGEIND		-0.95		37100.0		5386
 MRF		-0.62		102091.8		1171
