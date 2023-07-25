@@ -6,5 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUPRAJIT		0.1		436.6		265127
-RAYMOND		-2.16		1745.05		51030
+BAJAJFINSV		-0.71		1645.65		333557
+CHOLAFIN		-1.15		1132.15		308703
+SUPRAJIT		0.23		437.15		266594
+BAJFINANCE		-0.3		7559.0		209243
+RAYMOND		-2.09		1746.2		51124
+TIINDIA		-0.54		3157.15		18035
