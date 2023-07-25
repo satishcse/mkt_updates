@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		3.51		119.55		55993815
-BPCL		-0.95		385.85		1319346
-UPL		-0.83		626.9		1270641
+BPCL		-1.04		385.5		1326180
+UPL		-0.83		626.9		1275239
+GRASIM		0.32		1818.9		309425
 
 Bullish_Hammer_15m_N500								 
 ======================= 
