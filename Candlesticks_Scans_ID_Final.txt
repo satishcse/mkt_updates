@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INTELLECT		-1.94		618.35		379382
-BERGEPAINT		-1.11		678.25		251427
-BAJFINANCE		-0.06		7577.0		163816
-COFORGE		-0.79		4688.55		48391
+BERGEPAINT		-1.07		678.5		253846
