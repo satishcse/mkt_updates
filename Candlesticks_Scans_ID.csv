@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,1.07,250.1,4714789
-LT,-1.22,2573.4,1118160
+POWERGRID,1.09,250.15,4724345
+LT,-1.21,2573.85,1119821
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PERSISTENT,-2.27,4665.7,267258
