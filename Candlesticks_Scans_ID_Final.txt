@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		1.11		3727		169073
+POWERGRID		0.91		249.7		3466166
+DIVISLAB		1.11		3726.8		169149
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		0.3		1497.65		21688
-BOSCHLTD		-0.46		18936.2		9061
+BOSCHLTD		-0.47		18934.6		9070
