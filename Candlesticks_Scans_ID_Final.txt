@@ -6,12 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNTV		-0.42		539.0		133179
-EIDPARRY		0.07		481.05		114221
-PATANJALI		-0.74		1288.0		18275
-CAMS		-0.38		2327.0		10594
-MASTEK		0.04		2136.15		9538
-GLAXO		-0.56		1384.1		6702
-RUSTOMJEE		-0.07		606.0		2650
-SUNDARMFIN		-0.33		2581.65		1424
-ABBOTINDIA		-0.33		23095.0		840
+CREDITACC		0.79		1383.85		118857
