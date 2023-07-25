@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.12		3398.8		443476
-DIVISLAB		1.09		3726.0		171100
+TATACONSUM		-0.4		859.65		211328
+DIVISLAB		1.11		3727.0		171123
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-0.15		4691.2		514395
-BORORENEW		-0.9		490.5		97032
+BORORENEW		-0.89		490.55		97054
