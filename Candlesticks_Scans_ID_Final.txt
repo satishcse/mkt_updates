@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.41		738.3		616162
+ADANIPORTS		0.44		738.5		617998
+BAJAJ-AUTO		-0.13		4876.55		81718
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		-1.53		1127.8		375241
+TCIEXP		-0.39		1484.0		6576
+PGHH		-1.87		15303.5		1688
