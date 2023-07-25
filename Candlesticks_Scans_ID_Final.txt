@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.89		626.5		1300095
-ULTRACEMCO		2.34		8411.9		382692
+ICICIBANK		0.43		996.3		13135870
+UPL		-0.81		627.0		1304378
+SUNPHARMA		-0.05		1099.9		953833
+MARUTI		0.63		9755.65		158067
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NESTLEIND		-0.55		22695.3		25275
+
