@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.41		1161.2		1172513
-HDFCLIFE		0.78		656.9		888196
+COALINDIA		0		229.95		2977458
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		0.11		1374.55		139895
+ULTRACEMCO		-0.38		8361		89819
