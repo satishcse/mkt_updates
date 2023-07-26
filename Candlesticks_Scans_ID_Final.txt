@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.56		1163.0		1162166
-HDFCLIFE		0.88		657.55		876300
+TECHM		0.56		1163.0		1164346
+HDFCLIFE		0.75		656.7		879895
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UTIAMC		0.46		814.0		786822
-LATENTVIEW		0.24		375.9		178574
-ULTRACEMCO		-0.1		8385.0		82160
+UTIAMC		0.44		813.85		788161
+LATENTVIEW		0.27		376.0		178592
