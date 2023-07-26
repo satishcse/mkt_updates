@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-1.62		2486.15		490915
+HDFCAMC		-1.39		2492		501961
+KAJARIACER		-4.02		1396		294066
