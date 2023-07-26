@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.55		612.95		3209088
-UPL		1.37		634.6		844911
-CIPLA		-0.48		1049.65		286641
-GRASIM		0.44		1837.1		227413
+UPL		1.39		634.7		847008
+CIPLA		-0.45		1050.0		287845
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARUTI		-0.09		9749.8		89043
+GODREJPROP		-0.48		1644.05		325617
