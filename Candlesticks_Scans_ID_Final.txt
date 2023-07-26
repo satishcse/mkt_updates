@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-3MINDIA		-0.61		28064.95		304
+ICICIPRULI		-1.32		569.4		323257
+SWSOLAR		-0.32		363.0		83198
+AETHER		0.64		1081.9		21426
