@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.01		390.3		2196496
-HCLTECH		0.31		1115.0		1366271
-UPL		1.24		633.75		1243495
-HDFCLIFE		0.9		657.65		1243036
-GRASIM		0.86		1844.75		321681
-NESTLEIND		0.11		22797.7		22798
+BPCL		0.96		390.1		2201184
+HCLTECH		0.32		1115.15		1367780
+HDFCLIFE		0.93		657.85		1244081
+GRASIM		0.82		1844.05		322067
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VINATIORGA		-0.03		1810		25630
+MAHLIFE		0.18		479.15		79443
