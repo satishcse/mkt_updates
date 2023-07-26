@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.24		647.35		24367654
-POWERGRID		0.06		251.3		6359222
-HEROMOTOCO		0.39		3152.7		351580
+TATAMOTORS		1.27		647.55		24390256
+POWERGRID		0.04		251.25		6369466
+HEROMOTOCO		0.42		3153.5		351881
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-0.28		1594.75		118336
+HDFCAMC		-1.19		2497		240251
