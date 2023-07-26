@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.5		201.65		9945549
-ONGC		-0.12		172.8		7271060
-UPL		1.27		633.95		1324389
-SUNPHARMA		1.03		1106.3		834232
+TATASTEEL		0.75		120.15		23736266
+SBILIFE		-0.71		1291.8		2086982
+ASIANPAINT		-0.3		3390.1		713912
+APOLLOHOSP		-0.6		5181.0		236063
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TECHM		-0.99		1145		2629138
+
