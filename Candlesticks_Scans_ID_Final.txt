@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.08		646.35		21965725
+TATAMOTORS		1.09		646.4		21992805
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-UTIAMC		-0.41		806.9		909841
-RHIM		-0.51		620.0		69725
+
