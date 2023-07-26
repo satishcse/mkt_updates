@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.13		229.65		6282657
-BHARTIARTL		0.79		890.6		2114467
-HEROMOTOCO		0.3		3149.85		378300
+NTPC		0.5		201.65		9229980
+JSWSTEEL		0.9		807.75		2090153
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AIAENG		-0.13		3488.95		52030
+INTELLECT		-4.02		594		1010567
