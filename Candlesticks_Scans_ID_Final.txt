@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.22		229.45		5638227
-WIPRO		0.45		402.2		1791341
-UPL		1.24		633.75		1263838
-BAJAJ-AUTO		0.58		4876.85		249383
+COALINDIA		-0.24		229.4		5644652
+WIPRO		0.47		402.3		1793041
+UPL		1.27		633.95		1264570
+BAJAJ-AUTO		0.63		4879.55		250330
 
 Bullish_Hammer_15m_N500								 
 ======================= 
