@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.2		229.5		5537734
-WIPRO		0.47		402.3		1770000
-HCLTECH		0.31		1115.0		1385586
-M&M		-1.55		1541.5		1310329
-ASIANPAINT		-0.2		3393.5		676028
+COALINDIA		-0.24		229.4		5543436
+WIPRO		0.49		402.35		1770882
+UPL		1.28		634.0		1257365
+GRASIM		0.86		1844.75		325384
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAND		-0.91		1216.0		125893
-HONAUT		-0.6		42342.6		589
+GLAND		-0.93		1215.75		126085
