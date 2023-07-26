@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		-0.53		3699.7		50579
+COALINDIA		0.33		230.7		722190
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFIZER		-0.03		3849.1		3373
+MFL		0.01		933.95		14467
+PFIZER		-0.16		3844.1		3406
