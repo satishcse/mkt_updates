@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.45		201.55		9470210
-ONGC		-0.06		172.9		7161242
-INDUSINDBK		0.66		1424.85		1078940
-SUNPHARMA		1.05		1106.5		822706
+NTPC		0.4		201.45		9552131
+ONGC		-0.09		172.85		7171205
+SUNPHARMA		1.05		1106.5		825186
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-0.99		1145.0		2533051
-LTIM		0.13		4875.0		308125
-ATUL		-0.04		6561.5		30310
+TECHM		-0.95		1145.55		2540832
+LTIM		0.13		4875.0		309537
