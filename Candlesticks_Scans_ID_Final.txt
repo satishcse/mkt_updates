@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.94		892.0		2101151
-HEROMOTOCO		0.32		3150.25		376715
+COALINDIA		-0.13		229.65		6265274
+BHARTIARTL		0.79		890.65		2106564
+HEROMOTOCO		0.31		3150.15		377577
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATAMTRDVR		12.06		419.55		30517448
+
