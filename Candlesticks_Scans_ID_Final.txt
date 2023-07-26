@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		1.37		1110.0		356535
-DIVISLAB		-0.6		3696.9		81067
+DIVISLAB		-0.62		3696.25		81123
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KIMS		-1.34		1947.3		12622
-GOCOLORS		0.1		1157.0		4624
+
