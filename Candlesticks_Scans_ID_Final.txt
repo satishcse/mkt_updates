@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.55		1162.85		1167082
-HDFCLIFE		0.68		656.25		887058
+TECHM		0.41		1161.2		1172513
+HDFCLIFE		0.78		656.9		888196
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ICICIGI		0.11		1374.55		139895
