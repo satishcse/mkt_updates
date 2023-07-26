@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-2.1		1532.9		1013947
+KOTAKBANK		0.96		1893.5		1266633
+M&M		-2.03		1533.95		1026842
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAJARIACER		-1.49		1432.85		98518
+KAJARIACER		-1.44		1433.55		98549
