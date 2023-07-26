@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.61		977.95		7759999
+LT		3.46		2649.6		5744466
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AETHER		-5.12		1020.0		197252
-VIJAYA		-0.89		452.6		36046
+SUNTECK		-3.6		353.55		377103
+LTTS		-1.02		3933.7		136866
+TEAMLEASE		-1.38		2380.0		57854
+INGERRAND		-0.2		2861.0		10645
