@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.01		892.6		2092956
-HEROMOTOCO		0.44		3154.05		375716
+TATASTEEL		0.8		120.2		22535318
+BHARTIARTL		0.94		892.0		2097504
+HEROMOTOCO		0.3		3149.65		376410
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AEGISCHEM		0.13		375.35		208906
+
