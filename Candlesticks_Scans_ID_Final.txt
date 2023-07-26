@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		3.47		2649.75		5751227
+LT		3.46		2649.5		5762552
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEAMLEASE		-1.67		2372.9		58354
+MANYAVAR		-1.51		1230.85		71273
+TEAMLEASE		-0.96		2389.95		58672
+GARFIBRES		-1.05		3011.25		13733
