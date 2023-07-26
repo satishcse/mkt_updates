@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-2.08		1533.2		992724
+M&M		-2.01		1534.35		1003373
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KAJARIACER		-1.48		1432.9		98476
