@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.04		390.4		2184368
-HCLTECH		0.3		1114.9		1359903
-NESTLEIND		0.11		22797.6		22616
+TATASTEEL		0.59		119.95		19282677
+AXISBANK		0.82		970.4		4419997
+BPCL		1.06		390.5		2187268
+HCLTECH		0.32		1115.1		1361366
+NESTLEIND		0.1		22795.35		22676
 
 Bullish_Hammer_15m_N500								 
 ======================= 
