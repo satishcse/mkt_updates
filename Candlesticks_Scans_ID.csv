@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BPCL,1.01,390.3,2205073
-HCLTECH,0.31,1115.05,1368730
-HDFCLIFE,0.94,657.9,1245649
-GRASIM,0.84,1844.4,322156
+BPCL,0.97,390.15,2208814
+HCLTECH,0.32,1115.1,1370163
+HDFCLIFE,0.9,657.65,1247865
+GRASIM,0.85,1844.55,322451
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HONAUT,-0.21,42508.4,556
