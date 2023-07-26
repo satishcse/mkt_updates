@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.48		648.9		17508860
-ONGC		-0.23		172.6		3035342
+TATAMOTORS		1.36		648.15		17712938
+ONGC		-0.23		172.6		3050163
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COLPAL		-0.32		1893		68217
+COLPAL		-0.36		1892.3		68486
