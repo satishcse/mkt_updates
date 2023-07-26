@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.31		1115.0		1357774
-NESTLEIND		0.12		22799.4		22598
+BPCL		1.04		390.4		2184368
+HCLTECH		0.3		1114.9		1359903
+NESTLEIND		0.11		22797.6		22616
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GARFIBRES		-0.84		3017.7		5894
+
