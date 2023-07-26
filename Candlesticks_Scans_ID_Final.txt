@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.27		647.6		24299397
-TATASTEEL		0.5		119.85		18595100
-HEROMOTOCO		0.4		3152.75		350599
-GRASIM		0.86		1844.75		313127
+TATAMOTORS		1.24		647.35		24332849
+TATASTEEL		0.5		119.85		18617242
+HEROMOTOCO		0.42		3153.5		351311
 
 Bullish_Hammer_15m_N500								 
 ======================= 
