@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.66		252.8		4165631
-SUNPHARMA		1.4		1110.4		345177
-DIVISLAB		-0.59		3697.45		79996
+SUNPHARMA		1.38		1110.15		348150
+DIVISLAB		-0.6		3696.95		80024
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POLYMED		0.04		1156.35		36630
+
