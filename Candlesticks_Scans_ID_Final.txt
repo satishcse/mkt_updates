@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.24		647.4		26003634
-NTPC		0.5		201.65		9321974
+TATAMOTORS		1.25		647.45		26028958
+NTPC		0.42		201.5		9380831
+UPL		1.27		633.95		1309182
 
 Bullish_Hammer_15m_N500								 
 ======================= 
