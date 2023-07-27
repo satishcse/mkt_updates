@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.71		645.65		4546867
-POWERGRID		0.4		252.0		2047920
+TATAMOTORS		0.73		645.75		4556131
+POWERGRID		0.4		252.0		2051404
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-0.61		1656.2		170569
-PAGEIND		-0.18		37605.45		4699
+ASIANPAINT		0.23		3380.65		320134
+MCX		-0.62		1656.1		170745
+KIMS		-1.18		1919.7		7702
+PAGEIND		-0.18		37604.05		4700
