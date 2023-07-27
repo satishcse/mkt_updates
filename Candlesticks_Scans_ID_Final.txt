@@ -2,12 +2,18 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.1		1426.25		251269
+INDUSINDBK		-0.09		1426.45		255374
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		0.18		1670.55		139626
-CEATLTD		-1.03		2469.85		61738
-ECLERX		0.17		1699.7		2366
+CANFINHOME		-2.39		752.75		1259673
+RELIANCE		-0.05		2524.95		625439
+MAZDOCK		0.83		1878.9		260718
+ZENSARTECH		-0.22		483.0		186843
+CEATLTD		-1.01		2470.45		62967
+THERMAX		0.63		2532.95		8876
+SHREECEM		-0.51		24150.0		3693
+ECLERX		0.11		1698.8		2368
+MRF		0.16		102368.7		249
 KENNAMET		0.44		2672.6		183
