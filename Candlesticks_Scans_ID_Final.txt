@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		10.0		1175.35		8524068
-ULTRACEMCO		-0.67		8296.1		102893
+CIPLA		10.0		1175.35		8529379
+ULTRACEMCO		-0.71		8292.85		103463
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JKCEMENT		-0.58		3198.3		45474
