@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.08		1426.55		271348
+INDUSINDBK		-0.09		1426.4		273535
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWENERGY		0.51		294.0		215589
-TITAN		0.47		3022.5		68981
-CREDITACC		-1.41		1398.0		58460
-LALPATHLAB		0.39		2426.0		27383
-MRF		0.21		102417.4		279
+CEATLTD		-1.01		2470.4		68436
+BDL		0.06		1199.3		35457
+KSB		0.05		2228.95		4238
