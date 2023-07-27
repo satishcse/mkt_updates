@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.63		2662.95		1299760
+LT		0.69		2664.45		1306639
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BEML		-0.1		1800.25		103425
+SONATSOFTW		-0.42		1051.9		230623
+BEML		-0.1		1800.2		103845
+MFL		-1.35		908.0		70098
