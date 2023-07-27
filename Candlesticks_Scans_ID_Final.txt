@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		0.21		2651.75		733629
-KAJARIACER		-3.17		1349.05		155728
-ICICIGI		-0.68		1359.95		142475
-TATAINVEST		-0.72		2435.05		31036
+KAJARIACER		-3.21		1348.55		157709
