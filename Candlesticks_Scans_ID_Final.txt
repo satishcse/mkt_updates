@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-1.49		1867		3984220
+KOTAKBANK		-1.48		1867.3		4003871
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AWL		-1.16		408.6		717227
+HDFCBANK		-0.88		1675.9		17185480
+AWL		-1.29		408.05		717854
+DMART		-1.16		3669.65		211001
+VTL		-1.9		363.5		100327
