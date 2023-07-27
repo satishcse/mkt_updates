@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.58		171.95		2394502
+ONGC		-0.58		171.95		2395807
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		-0.74		5146.85		4696
+KAJARIACER		-3.79		1340.45		196359
+SKFINDIA		-0.72		5147.85		4702
