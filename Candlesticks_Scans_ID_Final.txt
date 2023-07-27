@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.73		1417.3		3284454
-SBILIFE		0.31		1296.7		1913532
-DRREDDY		0.77		5517.95		1495409
+SBIN		0.3		617		17329054
+DRREDDY		0.72		5515		1499667
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CREDITACC		-3.38		1370.0		282852
-AFFLE		-1.0		1065.95		156342
-BAJAJELEC		-2.48		1242.0		50376
-ATUL		-0.69		6510.0		48802
+CREDITACC		-3.39		1369.9		290801
+AFFLE		-1.08		1065.1		157460
+NUVOCO		-0.1		357.8		61302
+JINDWORLD		-1.41		311.5		44226
