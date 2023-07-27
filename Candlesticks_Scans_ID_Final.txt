@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.71		120.8		7732185
+TATASTEEL		0.75		120.85		8018164
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KRBL		-1.02		373.55		139437
-GREENPANEL		-1.71		352.7		81087
-TEAMLEASE		-2.71		2314.85		9782
-ALKYLAMINE		-0.5		2409.7		4988
-BOSCHLTD		-0.38		19070.0		2246
+TATACOMM		-0.69		1656.05		243059
+GREENPANEL		-1.73		352.65		84852
+TEAMLEASE		-2.54		2318.8		9815
+KENNAMET		0.12		2663.95		636
+MRF		0.07		102277.55		470
