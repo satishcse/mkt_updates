@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.32		2518.05		1665105
-TATACONSUM		-1.37		861.95		1064497
+RELIANCE		-0.35		2517.25		1677038
+TATACONSUM		-1.25		863.0		1106796
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INTELLECT		-0.19		598.8		269847
-ALKYLAMINE		-0.29		2414.7		7262
+INTELLECT		-0.15		599.05		271189
+AFFLE		-0.69		1069.25		79481
+ALKYLAMINE		-0.3		2414.5		7302
