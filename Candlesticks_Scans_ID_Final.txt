@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONACOMS		-0.49		594.35		845183
-NAUKRI		0.04		4542.25		42213
+INDUSINDBK		-1.36		1408.3		1431265
+CEATLTD		-1.23		2464.95		129877
+NAUKRI		0.04		4542.0		42319
