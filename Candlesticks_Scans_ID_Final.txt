@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.59		229.15		7332010
-ADANIPORTS		-0.44		749.35		2005662
-NESTLEIND		-2.19		22300.0		165523
+ADANIPORTS		-0.48		749.05		2021514
+NESTLEIND		-2.19		22300.0		166534
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ATUL		-0.69		6510.55		45609
+
