@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.32		200.95		944724
+NTPC		-0.45		200.7		975161
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		-1.07		2475.5		38694
-ALKYLAMINE		-0.13		2418.55		3772
+PRAJIND		0.42		406.5		433853
