@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		0		251		4844291
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-0.73		2114.45		31311
-WHIRLPOOL		-1.05		1407.05		25295
+WHIRLPOOL		-1		1407.9		25313
