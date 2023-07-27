@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.39		229.6		5104288
+COALINDIA		-0.35		229.7		5111137
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-0.05		1238.75		532589
-RAMCOCEM		-1.3		880.0		89576
-THERMAX		-1.97		2467.55		30873
+TANLA		-0.13		1237.85		532933
+FIVESTAR		-0.57		716.85		246065
+BORORENEW		0.54		491.85		110611
