@@ -1,11 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		-0.04		250.9		3729213
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		-1.36		1408.3		1431265
-CEATLTD		-1.23		2464.95		129877
-NAUKRI		0.04		4542.0		42319
+HDFCBANK		-0.58		1680.85		10934999
+INDUSINDBK		-1.36		1408.35		1435965
+CEATLTD		-1.23		2464.9		130044
+NAUKRI		0.06		4543.0		42346
