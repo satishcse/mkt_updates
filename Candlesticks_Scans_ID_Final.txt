@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.61		1357.1		4151268
-GRASIM		-0.91		1822.4		211805
+INFY		0.59		1356.8		4163660
+GRASIM		-0.98		1821.05		212359
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATAINVEST		-1.01		2428		39707
+
