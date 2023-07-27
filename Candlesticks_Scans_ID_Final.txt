@@ -1,12 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BRITANNIA		-2.33		4867.3		411766
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AWL		-1.21		408.4		718915
-DMART		-0.97		3676.8		212052
-PIIND		-0.79		3564.45		194340
-VIJAYA		-0.39		450.95		15662
+HDFCBANK		-0.88		1675.8		17578412
+CANFINHOME		-3.59		743.5		4656745
+AWL		-1.2		408.45		720462
+DMART		-1.02		3674.95		212153
+VIJAYA		-0.39		450.95		16001
