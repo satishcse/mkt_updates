@@ -1,13 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		-0.1		1426.25		251269
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RECLTD		1.35		175.9		3987247
-MARICO		1.08		538.45		195377
-SHARDACROP		1.87		448.85		38269
-HAVELLS		0.13		1302.1		36890
-JBCHEPHARM		0.51		2462.25		630
+TATACOMM		0.18		1670.55		139626
+CEATLTD		-1.03		2469.85		61738
+ECLERX		0.17		1699.7		2366
+KENNAMET		0.44		2672.6		183
