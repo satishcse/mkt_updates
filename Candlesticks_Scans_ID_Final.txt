@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		-0.84		171.5		3831063
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-1.0		1407.85		25332
-CERA		-0.87		7725.0		24851
-SKFINDIA		-1.22		5122.0		8498
+WHIRLPOOL		-1.05		1407.05		25339
