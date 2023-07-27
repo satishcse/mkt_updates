@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.12		201.35		5954687
-ONGC		-0.64		171.85		2420221
+NTPC		-0.1		201.4		5988738
+ONGC		-0.66		171.8		2452148
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SKFINDIA		-0.7		5148.45		5107
+3MINDIA		-0.29		27874.5		578
+HONAUT		0.09		42333.3		478
