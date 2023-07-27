@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,0.32,617.1,2306321
-BHARTIARTL,0.8,896.55,845724
-APOLLOHOSP,1.14,5214.75,83171
+SBIN,0.28,616.85,2332834
+BHARTIARTL,0.78,896.3,846782
+APOLLOHOSP,1.1,5212.65,83355
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+OLECTRA,1.78,1211.3,1339912
+KEC,-4.29,645.55,172986
