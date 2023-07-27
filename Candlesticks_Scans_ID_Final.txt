@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.62		970.7		7000230
-WIPRO		0.12		403.25		1438217
+AXISBANK		-0.94		967.6		7099722
+WIPRO		0.04		402.9		1452897
+SBILIFE		0.31		1296.65		711487
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-0.51		3574.45		95649
-SHREECEM		-1.44		23924.75		12079
+PIIND		-0.43		3577.3		97980
+SIEMENS		-0.09		3759.9		87703
+SKFINDIA		-0.42		5163.1		4224
