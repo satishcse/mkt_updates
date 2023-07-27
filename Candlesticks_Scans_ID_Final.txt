@@ -1,12 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-LT		3.46		2649.5		5762552
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANYAVAR		-1.51		1230.85		71273
-TEAMLEASE		-0.96		2389.95		58672
-GARFIBRES		-1.05		3011.25		13733
+CIEINDIA		-0.09		477.65		678469
+HDFCAMC		-1.61		2486.25		641431
+COFORGE		0.61		4716.15		160886
+METROPOLIS		-0.57		1395.25		127781
+MEDPLUS		-1.4		935.3		68421
+WESTLIFE		-1.9		884.7		63258
+TEAMLEASE		-1.4		2379.3		60077
+CENTURYPLY		1.5		673.05		51255
