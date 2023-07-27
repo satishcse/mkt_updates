@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.24		1295.7		1583942
-BRITANNIA		-2.32		4868.15		473449
+HCLTECH		-0.06		1114.35		1414176
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VIJAYA		-0.51		450.4		20159
+
