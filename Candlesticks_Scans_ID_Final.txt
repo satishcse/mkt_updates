@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.66		1357.8		4122813
+INFY		0.67		1357.9		4130570
+GRASIM		-0.93		1822.05		209245
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		-1.3		1409.1		1191192
-KAJARIACER		-3.7		1341.75		213045
+KAJARIACER		-3.7		1341.7		215713
+BASF		0.52		2665.0		27577
