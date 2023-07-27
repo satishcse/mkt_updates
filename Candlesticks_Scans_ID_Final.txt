@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.11		1426.1		275793
+NTPC		-0.27		201.05		927922
+SBILIFE		1.27		1309.1		160710
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLAPOLLO		0.91		1508.0		189273
-FIVESTAR		1.17		729.4		96502
-APLLTD		0.83		714.05		35739
-LALPATHLAB		0.43		2426.95		29084
-ECLERX		0.19		1700.0		2677
-MRF		0.21		102419.8		310
+PRESTIGE		0.34		557.0		55032
+ALKYLAMINE		-0.1		2419.2		3688
