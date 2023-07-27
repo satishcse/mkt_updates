@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.94		967.6		7099722
-WIPRO		0.04		402.9		1452897
-SBILIFE		0.31		1296.65		711487
+AXISBANK		-0.88		968.25		7145668
+COALINDIA		-0.28		229.85		2931717
+WIPRO		0.09		403.1		1459279
+SBILIFE		0.32		1296.8		712175
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-0.43		3577.3		97980
-SIEMENS		-0.09		3759.9		87703
+SIEMENS		-0.07		3760.7		88217
 SKFINDIA		-0.42		5163.1		4224
+MRF		-0.21		101990.3		883
