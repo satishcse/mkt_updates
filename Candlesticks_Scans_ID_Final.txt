@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.28		616.85		2332834
-BHARTIARTL		0.78		896.3		846782
-APOLLOHOSP		1.1		5212.65		83355
+BHARTIARTL		0.82		896.65		847788
+APOLLOHOSP		1.08		5211.25		83516
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		1.78		1211.3		1339912
-KEC		-4.29		645.55		172986
+OLECTRA		1.8		1211.5		1350230
+KEC		-4.23		646.0		176747
