@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.86		380.0		7659981
-COALINDIA		-0.67		228.95		7257064
-ADANIPORTS		-0.37		749.9		1969381
-NESTLEIND		-2.16		22308.0		162711
+BPCL		-1.86		380.0		7728469
+COALINDIA		-0.61		229.1		7291892
+ADANIPORTS		-0.42		749.5		1989371
+NESTLEIND		-2.19		22300.05		163898
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-1.86		668.4		1037544
-SONATSOFTW		-0.68		1049.2		256565
+KPRMILL		-0.8		624.7		110075
