@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.3		201		941196
+NTPC		-0.32		200.95		944724
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRESTIGE		0.33		556.95		55324
-ALKYLAMINE		-0.13		2418.45		3725
+BALKRISIND		-1.07		2475.5		38694
+ALKYLAMINE		-0.13		2418.55		3772
