@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.73		2665.45		1267374
+LT		0.57		2661.35		1278471
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BEML		-0.04		1801.3		100155
-TATAELXSI		-0.1		7219.6		58772
+BEML		-0.11		1800.05		101183
