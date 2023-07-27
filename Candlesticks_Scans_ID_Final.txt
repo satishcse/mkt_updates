@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.48		749.05		2021514
-NESTLEIND		-2.19		22300.0		166534
+SBILIFE		0.36		1297.35		1901548
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PNBHOUSING		-2.6		637.0		367306
+DEEPAKNTR		-1.38		1978.1		318012
+KPRMILL		-0.36		627.5		201547
+AFFLE		-1.05		1065.4		155207
