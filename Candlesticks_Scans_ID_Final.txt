@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.64		1357.5		4869769
-BAJFINANCE		-0.12		7424.15		1167195
-ULTRACEMCO		-0.64		8299.15		107828
+ITC		-0.43		470.2		6515163
+HINDALCO		0.86		452.85		4040926
+ULTRACEMCO		-0.63		8299.95		108631
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDIANB		0.08		328.55		698746
-ABB		-0.15		4391.95		205174
+
