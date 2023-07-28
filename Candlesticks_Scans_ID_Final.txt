@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.0		171.0		7035213
-COALINDIA		-0.92		226.95		6624849
+ONGC		0.09		171.15		7159890
+COALINDIA		-0.87		227.05		6630250
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AWL		-0.21		406.65		1067097
