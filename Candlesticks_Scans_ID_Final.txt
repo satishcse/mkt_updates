@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SBILIFE		-0.34		1292.1		749802
-HINDUNILVR		0.28		2577.0		533763
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-2.09		1557.65		150602
-CGCL		-2.58		773.9		63071
+ASTRAL		-0.07		1899.45		264483
+CGCL		-2.59		773.85		63100
