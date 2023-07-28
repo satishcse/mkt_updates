@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.59		633.45		6917399
-HINDALCO		-0.31		450.0		2674889
-BPCL		-1.52		373.5		2619926
-BHARTIARTL		-0.22		893.15		1454495
+TATAMOTORS		-1.64		633.15		6928648
+HINDALCO		-0.29		450.1		2676855
+BPCL		-1.56		373.35		2621994
+BHARTIARTL		-0.29		892.55		1456150
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		-1.07		820.1		695049
-LALPATHLAB		-4.33		2374.6		567852
-JBCHEPHARM		-0.83		2403.55		19488
+JBCHEPHARM		-0.97		2400.15		19647
+HGS		0.02		1054.25		11224
