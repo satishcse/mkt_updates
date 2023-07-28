@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.42		1468.0		4465298
-TITAN		-0.42		2989.35		782970
+M&M		1.45		1468.45		4486160
+HINDALCO		0.09		451.8		3609482
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AJANTPHARM		4.12		1616.45		3009375
+
