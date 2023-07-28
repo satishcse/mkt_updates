@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.65		2586.5		189057
+HINDUNILVR		0.65		2586.6		192871
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-0.87		1090.3		1338274
-LTIM		-0.4		4843.1		54515
-LTTS		0.26		3949.0		34146
-KEI		-0.77		2478.25		32777
-APARINDS		-0.28		3716.45		24110
+MPHASIS		-1.13		2255.2		71211
+JBMA		-1.53		1407.2		57492
+LTIM		-0.39		4843.3		54717
+COFORGE		-0.85		4652.7		34131
+KEI		-0.84		2476.6		32824
+GLAXO		-0.37		1395.05		18248
