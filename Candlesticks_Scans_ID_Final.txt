@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.39		1467.5		1972675
-ASIANPAINT		0.2		3376.0		155505
-ULTRACEMCO		-0.08		8281.6		69847
+M&M		1.29		1466.0		1975533
+ASIANPAINT		0.17		3375.0		156086
+ULTRACEMCO		-0.08		8281.6		69952
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LUXIND		-2.2		1576		146757
