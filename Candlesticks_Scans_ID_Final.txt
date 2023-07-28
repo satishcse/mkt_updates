@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.39		1467.55		4673404
+M&M		1.38		1467.35		4702084
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIPIND		-0.37		596.45		177148
-SOLARINDS		-0.63		3816.35		85319
-BLUEDART		-3.96		6943.0		41693
+RHIM		-0.82		631.3		236138
+SOLARINDS		-0.6		3817.65		85464
+CGCL		-3.16		769.3		76116
