@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.69		1644.9		16391866
-SUNPHARMA		0.45		1140.0		2365409
+HDFCBANK		-1.68		1645.05		16473479
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JKLAKSHMI		-7.57		618.3		1035290
+HOMEFIRST		-1.26		857.8		296824
