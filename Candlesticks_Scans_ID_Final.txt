@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.15		171.25		7397910
-COALINDIA		-0.83		227.15		6656673
+ONGC		0.35		171.6		7425786
+COALINDIA		-0.81		227.2		6665112
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AWL		-0.16		406.85		1086257
-GREENPANEL		-3.4		341.45		941372
-MAPMYINDIA		-1.51		1473.4		79992
-ZYDUSWELL		-0.66		1480.0		22007
+GREENPANEL		-3.24		342.0		954711
+ZYDUSWELL		-0.66		1480.0		22014
 IFBIND		0.09		852.15		18820
