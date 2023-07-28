@@ -1,7 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		1.87		174.2		3991340
+KOTAKBANK		0.33		1880.0		1146589
+BHARTIARTL		0.21		897.0		927939
 
 Bullish_Hammer_15m_N500								 
 ======================= 
