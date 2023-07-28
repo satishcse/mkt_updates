@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.08		1655.0		5087912
-INFY		-0.68		1344.0		2250704
-BPCL		-0.76		376.35		1399790
-SUNPHARMA		0.13		1136.45		1005791
-TATACONSUM		0.85		857.3		802924
-DIVISLAB		0.1		3745.75		147885
+HDFCBANK		-1.13		1654.3		5114365
+INFY		-0.71		1343.5		2257247
+BPCL		-0.73		376.5		1401421
+SUNPHARMA		0.12		1136.35		1012090
+DIVISLAB		0.14		3747.0		148172
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DATAPATTNS		-1.57		1951.55		43541
+
