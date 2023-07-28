@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-1.26		947.85		5809188
-UPL		0.1		627.4		1178195
-GRASIM		-0.3		1817.0		265362
+AXISBANK		-1.26		947.8		5816673
+UPL		0.14		627.6		1179008
+GRASIM		-0.35		1816.05		266532
 
 Bullish_Hammer_15m_N500								 
 ======================= 
