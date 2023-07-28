@@ -1,13 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.5		119.2		7764794
-EICHERMOT		0.75		3353.0		66053
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KPITTECH		-1.17		1072.2		321390
-JUBLINGREA		0.43		425.0		89942
-AVANTIFEED		-0.45		398.0		42132
+
