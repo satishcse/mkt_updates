@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAZARA		0.4		664.65		231610
+ORIENTELEC		-1.84		227.35		4976255
+NAZARA		0.3		664.0		231615
+MASTEK		-4.0		2023.35		226816
