@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.66		2586.8		194070
+HDFCBANK		-1.0		1656.5		4911705
+INFY		-0.56		1345.6		1943593
+BPCL		-0.61		376.95		1377113
+SUNPHARMA		0.18		1136.95		947895
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-0.92		2259.95		72079
-JBMA		-1.39		1409.15		58244
-LTIM		-0.4		4842.95		55243
-KEI		-0.74		2479.1		33013
-GLAXO		-0.35		1395.45		18679
-TEAMLEASE		-1.26		2310.0		3601
+MEDANTA		-0.72		706.6		31605
