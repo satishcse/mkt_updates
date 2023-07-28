@@ -5,9 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SONATSOFTW		0.09		1051.45		56487
-CHOLAHLDNG		0.65		930.0		9618
-WHIRLPOOL		-0.96		1402.95		6975
-TTKPRESTIG		-1.03		763.0		6128
-KSB		0.33		2224.0		2830
+
