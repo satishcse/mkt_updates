@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.29		171.5		7450485
-COALINDIA		-0.85		227.1		6700789
+TATAMOTORS		-1.46		634.3		7417250
+BAJAJFINSV		-1.96		1582.95		2782418
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AWL		-0.25		406.5		1095958
-HOMEFIRST		-1.12		859.05		282481
-ANGELONE		-2.5		1551.0		232816
+
