@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		1.9		174.25		3843159
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-2.48		760.2		1742730
-KEI		-1.08		2470.6		68265
-APARINDS		-0.05		3724.8		52831
-SUNDARMFIN		1.46		2658.65		24071
+APARINDS		-0.03		3725.55		52895
+SUNDARMFIN		1.37		2656.25		24151
