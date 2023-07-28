@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.42		1467.95		4713221
+M&M		1.41		1467.8		4713361
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 LUXIND		-3.38		1557.0		288151
-RHIM		-0.75		631.8		237068
-AFFLE		-1.43		1051.0		215847
-NH		-0.57		1043.4		129342
+RHIM		-1.15		629.2		237121
+AFFLE		-1.82		1046.8		215887
+NH		-0.22		1047.1		129352
 SOLARINDS		-0.66		3815.05		85558
