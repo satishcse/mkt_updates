@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.35		1880.3		1150286
-BHARTIARTL		0.18		896.75		935818
+ONGC		1.87		174.2		4027315
+SUNPHARMA		-0.02		1134.75		1291687
+KOTAKBANK		0.39		1881.1		1256976
+BHARTIARTL		0.1		896.0		938712
 
 Bullish_Hammer_15m_N500								 
 ======================= 
