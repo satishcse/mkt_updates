@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-1.94		764.4		896300
-BAJFINANCE		-0.12		7275.35		239716
-PATANJALI		-0.54		1310.0		20034
+BAJFINANCE		0.04		7287.1		247483
+PATANJALI		-0.54		1310.0		20466
+TATAELXSI		-0.02		7229.65		10960
