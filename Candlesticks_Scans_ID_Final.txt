@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-0.09		1899.05		267346
-CLEAN		-0.14		1291.05		52173
+ASTRAL		-0.06		1899.7		267537
+CLEAN		-0.14		1291.0		52351
+ZFCVINDIA		-0.47		11933.6		23697
