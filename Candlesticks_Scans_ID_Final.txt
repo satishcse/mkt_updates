@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.43		991.9		1002093
-HDFCLIFE		-1.47		649.6		907298
-UPL		0.35		627.35		523125
+ICICIBANK		-0.46		991.6		1027881
+HDFCLIFE		-1.6		648.75		923708
+UPL		0.27		626.85		533384
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		-0.32		1397.5		149660
+PIDILITIND		-0.27		2608.7		22255
