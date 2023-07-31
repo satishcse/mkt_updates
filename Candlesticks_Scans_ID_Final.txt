@@ -6,8 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-STARHEALTH		-1.02		616.05		265777
-ATGL		1.06		664.8		205651
-BATAINDIA		0.0		1715.7		33545
-SHOPERSTOP		-0.84		785.0		15065
-PGHH		0.06		15979.4		420
+ATGL		1.16		665.5		211117
+BATAINDIA		-0.04		1715.0		33655
+CERA		-0.29		7650.1		1973
+TCIEXP		0.26		1577.45		1614
+PGHH		0.03		15976.0		433
