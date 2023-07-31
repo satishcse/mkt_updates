@@ -6,11 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		0.13		2653.1		128848
-MOTILALOFS		1.81		837.65		45503
-CENTURYTEX		0.96		1041.0		36813
-TVSMOTOR		-0.21		1355.0		35126
-HDFCAMC		0.17		2542.65		30658
-NH		0.94		1056.9		21376
-KIMS		-0.03		1928.6		4190
-SANOFI		0.33		6960.0		394
+PGHH		-0.28		15925.4		325
