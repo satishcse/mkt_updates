@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.21		214.65		18994804
-COALINDIA		0.81		228.95		4919541
-SBIN		0.4		618.5		2069369
-JSWSTEEL		1.35		815.0		1364142
+NTPC		2.24		214.7		19058688
+COALINDIA		0.81		228.95		4921594
+SBIN		0.45		618.8		2073026
+JSWSTEEL		1.37		815.15		1366408
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BSE		-0.84		795.3		1003762
+DEEPAKFERT		-1.12		546.2		262500
