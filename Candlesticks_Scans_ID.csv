@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ICICIBANK,-0.45,991.75,1145167
-HDFCLIFE,-1.71,648.0,1002229
-TATACONSUM,-0.07,858.75,402289
+ICICIBANK,-0.34,992.8,1286052
+HDFCLIFE,-1.67,648.3,1093799
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GLAND,3.75,1340.45,870949
+TATACOMM,-0.44,1764.1,193486
+LAXMIMACH,0.63,14003.45,1897
