@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.44		954.15		2505479
-ITC		-0.49		466.15		2295417
-ADANIPORTS		2.4		773.85		1983488
-ADANIENT		1.06		2489.35		1415660
-HINDALCO		1.36		457.65		1337185
+AXISBANK		0.44		954.15		2510210
+ITC		-0.52		466.0		2304257
+ADANIPORTS		2.35		773.45		1992631
+ADANIENT		1.1		2490.35		1421672
+HINDALCO		1.41		457.85		1343095
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ALKYLAMINE		-0.01		2466.85		9085
+
