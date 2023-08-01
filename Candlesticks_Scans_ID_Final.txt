@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TECHM		1.41		1131.2		930311
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PEL		-0.59		1005.75		752463
-TRENT		-1.02		1739.2		44231
+CONCOR		0.37		697.25		630021
+TRENT		-1.02		1739.2		46187
+UTIAMC		-0.64		796.95		27982
+JKCEMENT		-0.56		3256.3		9121
