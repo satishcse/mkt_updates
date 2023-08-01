@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-4.89		253.05		12188186
-DRREDDY		0.89		5690.5		193873
+POWERGRID		-4.89		253.05		12197685
+DRREDDY		0.86		5689.2		194801
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-0.08		2720.95		54440
-POWERINDIA		0.02		3943.15		4910
+GODREJPROP		-2.61		1695.0		289413
+FLUOROCHEM		-0.08		2721.0		54453
+CHOLAHLDNG		0.32		977.95		31557
