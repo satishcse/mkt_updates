@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		3.09		1150.0		3131204
-ASIANPAINT		-0.97		3344.75		484480
+TECHM		3.22		1151.4		3134231
+ASIANPAINT		-1.0		3343.5		485310
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CEATLTD		-0.33		2463.35		104060
-CENTURYPLY		-0.25		656.9		45013
+
