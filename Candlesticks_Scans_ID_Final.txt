@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.32		626.7		6384865
-TECHM		3.03		1149.3		3333256
-HINDUNILVR		-0.44		2549.5		1464903
-BAJFINANCE		-0.31		7277.5		625468
+UPL		0.29		626.5		6393199
+TECHM		3.01		1149.1		3336080
+HINDUNILVR		-0.46		2549.05		1469102
+BAJFINANCE		-0.42		7269.6		629226
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHOPERSTOP		1.81		811.85		141657
-TEAMLEASE		-1.62		2319.75		11747
+TEAMLEASE		-1.53		2321.75		11810
