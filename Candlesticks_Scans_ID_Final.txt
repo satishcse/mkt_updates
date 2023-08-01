@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		3.55		226.1		35387339
-TATAMOTORS		0.59		648.1		4360602
-ONGC		-0.34		176.45		2806970
-ADANIPORTS		-1.68		764.75		1371959
+NTPC		3.53		226.05		35589752
+TATAMOTORS		0.64		648.45		4368679
+ONGC		-0.31		176.5		2814971
+ADANIPORTS		-1.66		764.95		1376358
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-1.99		1722.2		87631
+TRENT		-1.98		1722.3		87734
+MEDANTA		-0.59		703.55		25989
