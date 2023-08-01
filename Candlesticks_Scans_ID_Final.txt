@@ -2,15 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		3.41		225.8		36236635
-TATAMOTORS		0.61		648.2		4435289
-ADANIPORTS		-1.52		766.0		1393363
+NTPC		3.48		225.95		36323778
+TATAMOTORS		0.56		647.9		4454415
+ADANIPORTS		-1.64		765.1		1397097
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-2.09		5065.15		491189
-HAL		-1.57		3899.35		382826
-DIVISLAB		-0.28		3674.15		123830
-MAHLOG		0.63		360.55		107235
 POLYMED		-1.65		1215.7		14001
