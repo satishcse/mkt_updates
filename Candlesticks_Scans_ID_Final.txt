@@ -2,17 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.21		998.3		14303116
-TATAMOTORS		1.42		644.3		7502361
-AXISBANK		0.42		953.9		6601991
-M&M		0.5		1475.2		2460789
-SUNPHARMA		0.43		1143.4		1718336
+ICICIBANK		0.34		1001.65		54371
+TATAMOTORS		0.11		645.0		29414
+AXISBANK		0.22		956.0		12880
+M&M		0.0		1475.2		7894
+SUNPHARMA		0.0		1143.4		2093
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FIVESTAR		1.03		732.55		2036382
-AAVAS		-3.52		1548.8		489114
-TATAELXSI		-0.88		7159.4		141580
-ZYDUSWELL		-0.05		1469.25		43668
-BLUEDART		-2.87		6728.15		23656
+
