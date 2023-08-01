@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.89		224.65		50909916
+NTPC		2.89		224.65		51012380
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCIEXP		-1.67		1563.05		151853
-UTIAMC		-0.75		796.05		62810
-CHOLAHLDNG		-0.5		969.95		59921
+TCIEXP		-1.67		1563.1		151865
+CHOLAHLDNG		-0.5		969.9		60056
