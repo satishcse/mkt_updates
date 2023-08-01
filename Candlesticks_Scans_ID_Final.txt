@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEG		-0.03		1802.2		341895
-ABB		-0.84		4514.45		51409
-SAPPHIRE		-0.6		1364.85		7536
+ADANIENT		-0.97		2467.95		810516
+TATACONSUM		-0.38		856.0		343706
+HEG		-0.04		1802.0		342364
+SAPPHIRE		-0.56		1365.3		7570
