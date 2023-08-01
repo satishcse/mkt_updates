@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		3.48		225.95		45725658
-HCLTECH		0.55		1122.8		1229343
-GRASIM		-1.13		1828.55		210089
+NTPC		3.39		225.75		45791137
+HCLTECH		0.56		1123.0		1231248
+GRASIM		-1.16		1828.0		210547
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-2.51		5043.6		616449
-TATACOMM		-0.5		1787.1		471632
+RAMCOCEM		-0.33		883.3		214311
