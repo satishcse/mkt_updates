@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.36		1120.75		1070137
+HCLTECH		0.42		1121.35		1071748
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANITRANS		-1.56		807.9		612296
+POLYCAB		-0.61		4787.65		302002
+TITAN		-0.18		2998.75		259879
+AJANTPHARM		-0.81		1683.45		119580
+PGHH		-0.82		15635.0		1844
