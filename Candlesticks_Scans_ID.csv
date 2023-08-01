@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ICICIBANK,0.34,1001.65,54371
-TATAMOTORS,0.11,645.0,29414
-AXISBANK,0.22,956.0,12880
-M&M,0.0,1475.2,7894
-SUNPHARMA,0.0,1143.4,2093
+TECHM,1.41,1131.2,930311
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PEL,-0.59,1005.75,752463
+TRENT,-1.02,1739.2,44231
