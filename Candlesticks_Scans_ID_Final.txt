@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.26		645.95		6236749
-HEROMOTOCO		-3.39		3095.0		1913088
-APOLLOHOSP		-2.5		5044.0		643866
-BRITANNIA		0.38		4812.0		204151
+TATAMOTORS		0.26		645.95		6246398
+HEROMOTOCO		-3.79		3082.4		1928628
+APOLLOHOSP		-2.5		5044.0		644327
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		-1.82		1391.95		900834
+INDUSINDBK		-1.82		1391.95		907448
+MGL		-1.05		1106.6		249783
