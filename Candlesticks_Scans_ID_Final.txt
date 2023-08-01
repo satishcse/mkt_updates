@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		3.55		226.1		44365256
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-1.66		1362.45		315151
+RELIANCE		-1.05		2522.4		2066422
+RAINBOW		-0.08		1103.1		581349
+AMBER		-1.27		2403.95		39964
