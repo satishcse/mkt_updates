@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,2.59,224.0,51562171
-INDUSINDBK,-1.69,1393.85,1021969
+NTPC,2.7,224.25,51933612
+INDUSINDBK,-1.7,1393.65,1023735
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-STARHEALTH,0.86,641.9,786602
-UTIAMC,-0.7,796.45,64025
+STARHEALTH,1.01,642.85,788610
+TCIEXP,-1.63,1563.8,152213
+UTIAMC,-0.78,795.85,64100
+CENTURYPLY,-0.06,658.15,40632
