@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.45		123.7		8991943
-UPL		-0.61		620.9		3324284
+TATASTEEL		0.37		123.6		9120375
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SIEMENS		-1.11		3938.9		77498
+
