@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		4.71		240.05		16874243
-SBIN		-1.17		612.95		7356616
-TATAMOTORS		0.26		645.95		6342290
-AXISBANK		0.28		956.55		4132080
-HCLTECH		1.01		1127.95		1369319
+COALINDIA		4.62		239.85		16945737
+SBIN		-1.2		612.75		7390677
+TATAMOTORS		0.24		645.85		6364540
+AXISBANK		0.26		956.4		4141207
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GODFRYPHLP		-2.93		2092.25		93521
