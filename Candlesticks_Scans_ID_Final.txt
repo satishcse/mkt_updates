@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		3.21		1151.3		3175145
-ASIANPAINT		-0.96		3345.0		491587
+COALINDIA		4.65		239.9		18398154
+AXISBANK		0.15		955.3		5774012
+HEROMOTOCO		-3.03		3106.5		2430969
+ADANIPORTS		-1.27		768.0		2072947
+LT		-0.39		2670.95		910150
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CEATLTD		-0.36		2462.55		104961
-VIJAYA		-0.6		446.7		26813
+
