@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		4.51		239.6		17124043
-SBIN		-1.26		612.4		7659792
-TATAMOTORS		0.24		645.85		6451141
-BHARTIARTL		0.33		892.8		1336535
+COALINDIA		4.54		239.65		17148288
+SBIN		-1.23		612.55		7676914
+TATAMOTORS		0.23		645.8		6456259
+NESTLEIND		-0.29		22489.0		33161
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POLYCAB		-2.77		4683.55		576090
