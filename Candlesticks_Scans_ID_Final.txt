@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.64		1123.8		1204145
-GRASIM		-1.08		1829.55		204986
+HCLTECH		0.58		1123.2		1206404
+GRASIM		-1.05		1829.95		205343
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		-0.57		5334.35		15972
+HAL		-2.45		3864.45		540387
