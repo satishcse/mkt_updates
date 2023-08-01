@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.36		22471		33588
+POWERGRID		-5.51		251.4		18831683
+TATAMOTORS		0.26		646.0		6526394
+NESTLEIND		-0.37		22470.05		33742
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		-1.56		13890.1		3038
+LAXMIMACH		-1.53		13894.15		3039
