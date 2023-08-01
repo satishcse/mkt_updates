@@ -1,8 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BRITANNIA		0.02		4794.9		166624
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TEAMLEASE		-0.96		2335.15		9348
