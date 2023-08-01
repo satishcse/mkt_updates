@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		2.19		1139.95		2279058
-BRITANNIA		0.4		4812.95		199985
+APOLLOHOSP		-2.49		5044.85		635055
+BRITANNIA		0.4		4812.95		200455
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POLYCAB		-2.71		4686.1		506962
