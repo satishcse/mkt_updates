@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BRITANNIA		0.39		4812.45		198582
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-3.55		3089.95		1703154
-MAZDOCK		-1.44		1869.7		557047
-CHALET		-0.78		485.2		54512
-SUNDARMFIN		-1.84		2598.95		22098
+HEROMOTOCO		-3.28		3098.6		1758267
+CHALET		-0.76		485.3		54655
