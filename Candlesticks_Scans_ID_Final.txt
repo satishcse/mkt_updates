@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		4.47		239.5		18514764
-INFY		0.77		1366.1		4636123
+COALINDIA		4.47		239.5		18558050
+INFY		0.77		1366.2		4648440
+INDUSINDBK		-1.69		1393.8		1120028
 
 Bullish_Hammer_15m_N500								 
 ======================= 
