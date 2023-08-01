@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.2		955.85		1592766
+AXISBANK		0.14		955.2		1684403
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAINBOW		0.42		1108.65		28831
+ACC		-1.36		1990.5		216403
+SUNTECK		-0.14		362.6		135685
+SIEMENS		-1.08		3939.8		83904
+MOTILALOFS		-0.47		834.55		43329
+3MINDIA		-0.9		28663.2		576
