@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.81		2528.5		2518199
-NESTLEIND		-0.3		22485.05		33447
+RELIANCE		-0.81		2528.7		2521347
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+ANURAS		-1.15		963.7		73914
 LAXMIMACH		-1.56		13890.1		3038
