@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-3.97		3076.6		1944723
-APOLLOHOSP		-2.53		5042.55		645153
+SBIN		-1.19		612.8		7273207
+TATAMOTORS		0.26		646.0		6295043
+AXISBANK		0.25		956.3		4069597
+HCLTECH		0.96		1127.45		1355373
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CCL		-0.13		614.15		78253
+
