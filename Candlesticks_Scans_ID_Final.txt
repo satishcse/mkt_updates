@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.03		465.85		5166885
-KOTAKBANK		-0.41		1848.9		3503415
+ITC		0.03		465.85		5172249
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TORNTPHARM		-1.07		1981.5		476473
