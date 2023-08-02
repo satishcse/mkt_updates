@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-3.49		118.9		53850702
+TATASTEEL		-3.45		118.95		54124684
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEC		1.32		633.6		9280735
-ANURAS		-3.52		926.0		100750
-SUNDRMFAST		-0.36		1249.9		59656
+KEC		1.77		636.4		9325990
+BAJAJ-AUTO		-1.9		4830.5		242566
+ANURAS		-3.49		926.35		103013
+BIRLACORPN		-0.35		1240.0		84580
+SUNDRMFAST		-0.36		1249.95		59727
