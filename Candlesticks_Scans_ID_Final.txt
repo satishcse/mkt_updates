@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AXISBANK		-1.26		947.85		1810464
-ADANIGREEN		-1.57		1070.0		387993
-SUNPHARMA		-0.78		1134.5		376896
-RAYMOND		-0.77		1870.0		48843
+TATACOMM		-1.4		1738.05		638723
+ACC		-0.73		1995.95		268992
+RAYMOND		-0.62		1873.0		49084
+UTIAMC		-1.39		791.0		25480
+BLUEDART		-0.84		6555.45		7299
