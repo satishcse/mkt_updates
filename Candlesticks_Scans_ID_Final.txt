@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.16		174.65		4545525
-WIPRO		-0.85		403.5		1050518
+ONGC		-1.13		174.7		4585170
+WIPRO		-0.84		403.55		1055679
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		-0.95		4476.8		84872
-MTARTECH		-0.37		2119.05		79675
-GALAXYSURF		-1.36		2678.95		3629
+ABB		-0.97		4476.0		85050
+FINEORG		-0.37		4490.4		12368
+GALAXYSURF		-1.36		2678.95		3641
