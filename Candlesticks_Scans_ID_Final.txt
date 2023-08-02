@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-2.97		3009.85		1669476
-CREDITACC		-1.65		1457.95		116236
-ABB		-1.55		4449.6		94416
-MOTILALOFS		-2.15		811.7		74569
+MCX		-1.84		1605.0		169410
+CREDITACC		-1.59		1458.85		116881
+INDIAMART		-2.88		3038.95		91413
