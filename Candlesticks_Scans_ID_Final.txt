@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.01		249.25		8844639
-TCS		-0.3		3441.6		1039209
-SUNPHARMA		-0.83		1134.0		714757
-DRREDDY		-0.16		5658.05		185700
+POWERGRID		-1.01		249.25		8859904
+TCS		-0.39		3438.65		1044895
+DRREDDY		-0.16		5658.05		186086
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CENTURYTEX		-4.34		1028.9		224236
