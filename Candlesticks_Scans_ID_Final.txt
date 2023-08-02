@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-1.05		1131.45		612963
-APOLLOHOSP		-0.65		4999.9		259751
+SUNPHARMA		-1.07		1131.25		616726
+GRASIM		-1.26		1814.5		236794
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 JUBLPHARMA		-0.16		372.45		29651
-IFBIND		-0.63		839.2		20772
