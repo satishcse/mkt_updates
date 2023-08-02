@@ -2,17 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		0.84		3669.95		524940
+ITC		-1.28		458.85		6246162
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWSTEEL		-1.75		806.5		1217067
-ZENSARTECH		-2.73		477.6		767971
-HEG		-3.6		1743.05		288340
-JBMA		-4.43		1339.0		152645
-RAYMOND		-2.12		1844.7		103238
-APARINDS		-2.92		3603.7		68127
-RELAXO		-0.89		922.75		61021
-DATAPATTNS		-1.42		1982.05		51038
-ALKYLAMINE		-0.82		2419.1		17490
+VARROC		-3.7		339.75		105625
+RAYMOND		-2.31		1841.0		103489
+NH		-0.58		1009.05		101535
+DATAPATTNS		-1.37		1983.1		51250
+ALKYLAMINE		-0.83		2418.65		17491
