@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-3.73		118.6		45474257
-POWERGRID		-1.73		247.45		12489802
-HCLTECH		-1.25		1124.25		1876905
+POWERGRID		-1.81		247.25		12520858
+HDFCBANK		-1.46		1637.95		11738496
+HCLTECH		-1.32		1123.45		1885020
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-3.55		3728.5		807215
-HOMEFIRST		-0.49		833.95		361602
+MAXHEALTH		-4.85		544.55		2156615
+HAL		-3.62		3726.0		809342
+ABB		-2.79		4393.5		147065
+RUSTOMJEE		-4.25		577.45		22709
