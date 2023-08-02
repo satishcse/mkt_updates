@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.47		639.7		474248
-SUNPHARMA		-0.55		1137.2		275647
+HDFCLIFE		-0.4		640.15		478953
+SUNPHARMA		-0.58		1136.8		280730
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DMART		0.14		3745.6		54627
+ZYDUSWELL		-0.13		1477.85		4641
+KENNAMET		-1.14		2795.95		2174
