@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.48		120.15		29114556
-GRASIM		-1.29		1814.0		245492
+GRASIM		-1.29		1814		247079
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-1.14		1442.15		82427
-RELAXO		-0.47		926.7		46660
+WHIRLPOOL		-0.75		1447.8		84122
+RELAXO		-0.49		926.45		46710
