@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.25		174.5		4413325
-WIPRO		-0.91		403.25		1027600
-TCS		-0.41		3437.95		890475
+ONGC		-1.13		174.7		4464060
+WIPRO		-0.84		403.55		1030110
+TCS		-0.42		3437.4		891496
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INDIAMART		-2.77		3042.5		73945
+BOSCHLTD		-2.96		18433.95		28926
+ALKYLAMINE		0.09		2441.15		12917
