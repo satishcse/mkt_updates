@@ -6,4 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIMKEN		-1		3499.55		4754
+TCS		-0.53		3433.6		397669
+PATANJALI		-0.99		1331.5		14817
+ALKYLAMINE		0.65		2454.8		7799
+SHREECEM		-0.49		23985.0		6941
+TIMKEN		-0.87		3504.15		4884
