@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.57		2498.95		1140842
+RELIANCE		-0.54		2499.75		1153189
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BRITANNIA		-0.38		4799		69973
+SHOPERSTOP		-0.35		807		6245
