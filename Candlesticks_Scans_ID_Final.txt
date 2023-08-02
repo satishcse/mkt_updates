@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-1.84		1604.95		169749
-CREDITACC		-1.58		1459.0		117481
-KIMS		-0.63		1887.55		34579
+HAL		-2.53		3768.2		502679
+MCX		-1.84		1604.95		169866
+CREDITACC		-1.51		1460.0		118025
+ABB		-1.39		4456.8		96018
+CEATLTD		-1.02		2425.5		59723
+KIMS		-0.63		1887.45		34594
