@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.59		2498.25		1210770
-BRITANNIA		-0.38		4798.9		75508
+RELIANCE		-0.7		2495.5		1225035
+BRITANNIA		-0.41		4797.45		75945
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTTS		-1.45		4104.0		58741
-WESTLIFE		-0.66		935.95		25173
-BLUEDART		-0.37		6587.0		4702
+BOSCHLTD		-1.54		18703.45		13272
+BLUEDART		-0.37		6586.85		4779
