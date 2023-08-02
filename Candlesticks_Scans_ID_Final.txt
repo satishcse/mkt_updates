@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.26		458.95		4683714
-GRASIM		-1.28		1814.15		242625
+GRASIM		-1.27		1814.45		242851
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPORTS		-1.03		757.45		1934017
-GODREJPROP		-0.22		1688.35		723660
-CDSL		-1.03		1231.7		269689
-WHIRLPOOL		-1.05		1443.45		70864
-MOTILALOFS		-1.74		815.1		68860
+BIKAJI		-0.76		480.5		1472431
+WHIRLPOOL		-1.03		1443.75		76394
+RELAXO		-0.48		926.55		46456
