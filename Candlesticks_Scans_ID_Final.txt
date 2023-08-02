@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-3.26		217.8		17612946
+NTPC		-3.42		217.45		17682555
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PEL		-3.68		966.3		1373501
-SBICARD		-2.56		858.8		1014597
-CEATLTD		-1.68		2409.25		72120
-BASF		-2.97		2681.95		8491
+SBICARD		-2.57		858.7		1016979
+BASF		-2.89		2684.15		8532
