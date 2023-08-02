@@ -1,13 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		-1.25		459.0		6333629
+BAJAJ-AUTO		-1.73		4838.8		160695
+NESTLEIND		1.0		22819.2		66560
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JBMA		-4.61		1336.5		156574
-MTARTECH		-0.89		2108.0		122988
-RELAXO		-0.89		922.75		61156
-ALKYLAMINE		-0.8		2419.45		17598
-3MINDIA		-1.09		28278.5		1936
+
