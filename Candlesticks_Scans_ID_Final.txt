@@ -1,13 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		-2.51		219.5		9023582
-TATAMOTORS		-2.07		630.3		4773510
-ONGC		-1.1		174.75		4196316
-BAJFINANCE		-1.21		7181.45		310890
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LAXMIMACH		-0.63		13919		2696
+
