@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.19		174.6		4506519
-WIPRO		-0.87		403.4		1038849
+ONGC		-1.19		174.6		4512246
+WIPRO		-0.87		403.4		1040144
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SWSOLAR		-1.81		386.85		1092700
-SANOFI		-1.52		6893.0		5072
+
