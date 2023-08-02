@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.92		1352.65		4685860
-BAJAJ-AUTO		-1.73		4838.95		163195
-NESTLEIND		1.0		22820.0		66772
+INFY		-0.9		1352.95		4695587
+UPL		-1.09		618.9		2117036
+BAJAJ-AUTO		-1.73		4838.55		163487
+NESTLEIND		0.98		22815.5		66842
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-1.92		1319		176269
+IIFL		-5.44		585.9		419043
+AETHER		-3.22		1058.0		79701
