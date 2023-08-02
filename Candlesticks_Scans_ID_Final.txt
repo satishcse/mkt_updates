@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-3.38		2997.2		1943826
-HDFCLIFE		-0.27		641.0		1581641
-DRREDDY		-0.2		5655.9		207005
-BAJAJ-AUTO		-1.77		4836.8		145311
+HEROMOTOCO		-3.29		3000.0		1954662
+HDFCLIFE		-0.3		640.85		1583202
+DRREDDY		-0.25		5653.05		207557
+BAJAJ-AUTO		-1.76		4837.35		145537
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-3.38		2997.2		1943826
-KRBL		-3.75		375.05		399937
+BHARTIARTL		-1.74		876.1		1821310
+KRBL		-3.79		374.9		400052
+SIEMENS		-2.08		3810.0		181733
