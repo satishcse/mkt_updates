@@ -2,16 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.56		120.05		27787230
-M&M		-1.31		1473.85		1306980
-TCS		-0.36		3439.55		947398
-ASIANPAINT		0.5		3359.5		341471
-ULTRACEMCO		-0.25		8261.45		73804
+TATASTEEL		-2.56		120.05		27847947
+M&M		-1.33		1473.45		1309898
+TCS		-0.36		3439.7		949813
+ASIANPAINT		0.51		3360.15		342866
+ULTRACEMCO		-0.26		8260.6		73947
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAINBOW		-1.62		1084.8		475803
-DMART		-0.93		3705.35		89163
-AETHER		-1.53		1076.55		63520
-CEATLTD		-1.0		2425.95		56101
+AETHER		-1.51		1076.7		63545
+CEATLTD		-0.98		2426.45		56336
