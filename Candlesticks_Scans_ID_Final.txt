@@ -2,16 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.56		1636.35		11440021
-ITC		-1.1		459.7		6992981
+COALINDIA		-3.06		233.0		22630141
+HCLTECH		-1.08		1126.25		1810661
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-1.0		2456.2		2170093
-SONACOMS		-2.76		551.4		1008511
-MCDOWELL-N		-2.87		988.55		640407
-SHYAMMETL		-0.7		391.0		239835
-TORNTPHARM		-1.04		1962.8		148071
-OFSS		-0.8		3838.95		70709
-TCIEXP		-0.29		1551.85		15085
+MEDANTA		-2.29		664.15		138523
