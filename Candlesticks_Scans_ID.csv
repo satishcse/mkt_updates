@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,-3.2,217.95,13670087
-APOLLOHOSP,-0.65,4999.8,260851
-GRASIM,-1.24,1814.9,240640
+NTPC,-3.26,217.8,13759640
+APOLLOHOSP,-0.65,4999.9,261057
+GRASIM,-1.28,1814.25,240916
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GODREJPROP,-0.65,1680.95,658302
+MOTILALOFS,-1.83,814.35,68526
