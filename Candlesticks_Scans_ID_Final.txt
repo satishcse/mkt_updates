@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-1.37		1738.6		623709
-SUNPHARMA		-0.97		1132.4		373628
-RAYMOND		-0.77		1870.0		48609
-KSB		-2.25		2284.7		16899
+TATACOMM		-1.36		1738.75		626534
+RAYMOND		-0.69		1871.6		48772
