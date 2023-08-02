@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.7		2495.5		1225035
-BRITANNIA		-0.41		4797.45		75945
+SUNPHARMA		-0.54		1137.25		256112
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BOSCHLTD		-1.54		18703.45		13272
-BLUEDART		-0.37		6586.85		4779
+ASAHIINDIA		-2.55		542.65		106982
+TIMKEN		-1.58		3478.95		7222
