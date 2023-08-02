@@ -1,13 +1,18 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		1.1		243		5915015
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIPIND		-2.07		587.15		118684
-LODHA		-0.93		753.7		68355
-TTKPRESTIG		-0.25		783.8		4603
+LODHA		-0.89		754.0		69359
+DEEPAKNTR		-0.64		2032.55		60392
+MEDANTA		0.91		685.9		35026
+JUSTDIAL		-0.67		774.45		31905
+MFL		-0.43		985.1		12088
+BOSCHLTD		-1.45		18719.95		7561
+TTKPRESTIG		-0.23		783.95		4822
 GALAXYSURF		-0.4		2705.2		1213
-BAYERCROP		0.01		4507.55		582
+VMART		-0.35		2282.9		688
