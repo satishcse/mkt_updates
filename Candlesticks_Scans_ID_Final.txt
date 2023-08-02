@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.43		1638.45		11844975
-HCLTECH		-1.23		1124.55		1909910
+HDFCBANK		-1.4		1638.9		11882839
+HCLTECH		-1.34		1123.3		1920833
+DIVISLAB		0.83		3669.75		577027
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		-2.34		3799.75		243707
-ABB		-2.79		4393.65		147831
-SUNDARMFIN		-1.39		2579.65		19095
-GALAXYSURF		-3.72		2615.0		11953
+HOMEFIRST		-0.24		836.0		363462
+ABB		-2.77		4394.45		148090
+RUSTOMJEE		-4.23		577.55		22782
+GALAXYSURF		-3.72		2615.0		12007
