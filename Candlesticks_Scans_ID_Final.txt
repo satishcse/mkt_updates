@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.26		458.95		5533456
+ITC		-1.27		458.9		5554234
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		-1.71		3824.25		168395
+SIEMENS		-1.76		3822.45		170503
+ABB		-1.54		4450.0		100945
+JBMA		-2.25		1369.5		100779
