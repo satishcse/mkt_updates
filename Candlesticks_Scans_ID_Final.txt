@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		0.8		3668.6		507257
+DIVISLAB		0.83		3669.85		508097
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		-0.97		3704.0		112436
-LAXMIMACH		-2.1		13713.75		3654
+MEDANTA		-1.16		671.8		106937
+GODREJIND		-0.08		478.05		93460
+LAXMIMACH		-2.08		13716.35		3666
+PGHH		-0.54		15486.95		1345
