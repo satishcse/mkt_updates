@@ -2,15 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.79		242.25		6141836
+ADANIENT		0.82		2501.45		489292
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HCLTECH		-0.5		1132.85		487246
-AFFLE		0.62		1145.9		153839
-VIPIND		-2.13		586.75		125129
-DEEPAKNTR		-0.55		2034.5		64465
-PERSISTENT		-1.44		4740.15		62234
-INDIGOPNTS		0.76		1591.5		16799
-MFL		-0.4		985.35		12389
+
