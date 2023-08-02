@@ -6,4 +6,10 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		0.34		14054.65		560
+MPHASIS		-2.47		2238.0		157064
+PERSISTENT		-1.84		4721.2		144917
+METROPOLIS		-0.46		1375.15		116543
+JSL		-2.15		392.8		102125
+COROMANDEL		-1.06		1032.35		87965
+SANOFI		-0.3		6978.0		1036
+LAXMIMACH		0.32		14052.0		755
