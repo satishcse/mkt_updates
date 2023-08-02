@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		0.73		3666		511596
+DIVISLAB		0.52		3658.45		512562
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAPPHIRE		-1.5		1337.1		78135
-LAXMIMACH		-2.01		13725.9		3733
-PGHH		-0.54		15486.95		1363
+SAPPHIRE		-1.43		1338.0		84944
+LAXMIMACH		-1.98		13730.9		3740
