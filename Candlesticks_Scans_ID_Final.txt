@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.12		624.95		945103
-HDFCLIFE		-0.47		639.7		483195
-SUNPHARMA		-0.54		1137.25		289718
+UPL		-0.13		624.9		954216
+HDFCLIFE		-0.51		639.45		485883
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.82		7210.0		198077
-CEATLTD		-0.32		2442.5		30857
-KENNAMET		-1.24		2793.05		2191
-HONAUT		-1.11		42755.65		611
+BAJFINANCE		-0.82		7210.0		198858
+JSL		-1.68		394.7		88505
+KENNAMET		-1.07		2798.0		2267
