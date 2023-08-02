@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.13		174.7		4585170
-WIPRO		-0.84		403.55		1055679
+TATASTEEL		-2.56		120.05		27264737
+JSWSTEEL		-1.4		809.4		776357
+ULTRACEMCO		0.05		8286.2		71762
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		-0.97		4476.0		85050
-FINEORG		-0.37		4490.4		12368
-GALAXYSURF		-1.36		2678.95		3641
+DMART		-0.94		3705.15		88112
