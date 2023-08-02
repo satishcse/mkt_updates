@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BIKAJI		-0.17		483.4		1377811
-ACC		-1.39		1982.6		315384
-GRASIM		-1.22		1815.2		185298
-ULTRACEMCO		-0.63		8229.95		61779
+COROMANDEL		-1.53		1027.4		134659
+ULTRACEMCO		-0.56		8235.4		62099
