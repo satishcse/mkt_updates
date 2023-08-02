@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.5		8240.45		51506
+GLENMARK		-1.26		778.25		296839
+ULTRACEMCO		-0.52		8239.0		51983
+RATNAMANI		-1.2		2618.55		4648
