@@ -1,10 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NTPC		-3.26		217.8		17612946
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		-1.61		7152.5		553337
-WESTLIFE		-2.44		919.25		59917
+PEL		-3.68		966.3		1373501
+SBICARD		-2.56		858.8		1014597
+CEATLTD		-1.68		2409.25		72120
+BASF		-2.97		2681.95		8491
