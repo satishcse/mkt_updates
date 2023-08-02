@@ -2,12 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-3.4		217.5		17996344
+NTPC		-3.31		217.7		18026041
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INTELLECT		-0.55		663.8		623927
-MCDOWELL-N		-2.15		995.9		505752
-HEG		-3.72		1741.0		281500
-ALKYLAMINE		-0.88		2417.55		17126
+HINDALCO		-2.45		452.75		4463866
+INTELLECT		-0.52		664.0		624128
+HEG		-3.63		1742.5		282288
+BALAMINES		-0.04		2202.3		109385
+KPRMILL		-1.22		622.55		88757
+CEATLTD		-1.5		2413.75		73228
+OFSS		-0.51		3850.15		60986
+ALKYLAMINE		-0.84		2418.5		17134
