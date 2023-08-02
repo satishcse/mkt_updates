@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.81		247.25		12520858
-HDFCBANK		-1.46		1637.95		11738496
-HCLTECH		-1.32		1123.45		1885020
+HDFCBANK		-1.4		1639.0		11767144
+HCLTECH		-1.34		1123.2		1893105
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAXHEALTH		-4.85		544.55		2156615
-HAL		-3.62		3726.0		809342
-ABB		-2.79		4393.5		147065
-RUSTOMJEE		-4.25		577.45		22709
+HAL		-3.54		3729.2		810656
+GALAXYSURF		-3.72		2615.0		11924
