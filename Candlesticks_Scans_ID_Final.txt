@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRASIM		-1.21		1815.5		178841
-MEDANTA		0.04		680.0		75234
-BOSCHLTD		-2.77		18470.0		26561
+LICI		-0.26		645.55		1478636
+ASAHIINDIA		-3.5		537.35		194191
+MEDANTA		0.04		680.0		75298
+BOSCHLTD		-2.77		18469.75		26667
