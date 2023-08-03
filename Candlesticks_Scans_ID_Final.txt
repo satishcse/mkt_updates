@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		1.21		5729.05		131247
+DRREDDY		1.26		5732		133654
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BASF		-0.94		2669.55		1420
+MFSL		-0.75		771.1		92101
+NAUKRI		-0.83		4533.8		56341
+BLUEDART		-0.65		6484.95		3494
