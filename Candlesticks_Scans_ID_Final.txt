@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-COALINDIA		-0.45		233.5		5827879
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYPLEX		-0.94		1263.4		24015
-HONAUT		-0.91		42535.9		669
+HONAUT		-0.86		42557.3		902
