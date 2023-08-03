@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-1.02		592.35		5667413
-ASIANPAINT		-0.43		3348.35		131736
+CIPLA		0.08		1169.2		1077097
+ASIANPAINT		-0.39		3349.85		132711
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LICHSGFIN		-0.08		414.0		1144261
-BSE		-0.85		830.1		813154
-MFSL		-1.07		768.55		209774
-DEEPAKFERT		-0.52		550.2		120755
+
