@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+DRREDDY		1.21		5729.05		131247
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGO		-3.77		2468.5		1854855
-TECHM		-0.71		1137.55		383567
+BASF		-0.94		2669.55		1420
