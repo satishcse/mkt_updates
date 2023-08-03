@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.4		839.65		458859
+TATACONSUM		-0.37		839.95		466800
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-2.35		2432.95		154900
+SIEMENS		0.0		3819.1		129049
+BLUEDART		-1.38		6437.55		16982
+GALAXYSURF		0.19		2647.95		4361
