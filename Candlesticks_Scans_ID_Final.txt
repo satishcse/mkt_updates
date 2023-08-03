@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.24		448.85		1259729
+TATASTEEL		-0.63		118.2		8043094
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-0.81		1981.2		27694
+MASTEK		-0.77		1982		29629
