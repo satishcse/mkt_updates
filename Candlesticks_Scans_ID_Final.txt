@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.53		3345		128345
+JSWSTEEL		-0.39		801.1		633528
+ASIANPAINT		-0.5		3346.0		129643
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GODREJPROP		-5.8		1563.55		955190
+PHOENIXLTD		-1.08		1704.35		71448
+ECLERX		-0.75		1690.7		5833
