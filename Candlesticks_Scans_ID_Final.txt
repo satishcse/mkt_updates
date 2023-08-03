@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.47		3347.2		121166
+BPCL		-0.5		367.25		890399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BSE		-0.66		831.7		753346
-RAINBOW		-2.52		1050.2		96793
+
