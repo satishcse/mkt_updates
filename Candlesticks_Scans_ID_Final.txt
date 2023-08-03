@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-2.67		602.6		4036651
-CIPLA		0.1		1169.45		1088286
-TATACONSUM		-0.37		839.95		392255
+SBIN		-0.81		593.6		5982983
+HDFCBANK		0.06		1641.45		4612239
+UPL		-2.71		602.4		4040655
+CIPLA		0.1		1169.45		1091140
+TATACONSUM		-0.42		839.5		394463
 
 Bullish_Hammer_15m_N500								 
 ======================= 
