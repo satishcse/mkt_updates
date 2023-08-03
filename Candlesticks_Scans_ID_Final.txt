@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.13		2489.5		1233235
-ASIANPAINT		-0.55		3344.3		119908
+RELIANCE		0.06		2487.75		1242134
+ASIANPAINT		-0.49		3346.55		120599
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-0.3		2201.35		110205
+RAINBOW		-3.26		1042.15		94979
+LUXIND		-0.39		1585.0		19044
+ECLERX		-0.95		1687.35		4336
