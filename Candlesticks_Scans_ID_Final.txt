@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.51		3345.6		114662
+RELIANCE		0.03		2487.0		1223414
+ASIANPAINT		-0.54		3344.9		118396
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SOLARINDS		-0.6		3855.65		9379
+
