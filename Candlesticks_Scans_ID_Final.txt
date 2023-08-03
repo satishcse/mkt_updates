@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-0.99		1511.9		1190544
+BAJAJFINSV		-0.98		1512.05		1193256
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BERGEPAINT		-0.62		707.25		1030934
+INDIAMART		-0.74		3010.65		77096
