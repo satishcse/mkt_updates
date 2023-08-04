@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		0.3		5676.6		175121
+DRREDDY		0.33		5678		175386
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-0.88		1026.9		496663
-POWERINDIA		-2.71		4160.15		14228
+ADANIGREEN		-0.87		1026.95		497147
+MFL		-1.87		957.6		39238
