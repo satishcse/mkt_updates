@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		1.12		975.85		8501001
-HDFCLIFE		0.69		637.05		647645
+TATASTEEL		0.51		118.8		8979999
+ICICIBANK		1.06		975.2		8535761
+HDFCLIFE		0.67		636.95		648663
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-0.11		1718.25		11344
+ECLERX		-0.18		1717.15		11350
