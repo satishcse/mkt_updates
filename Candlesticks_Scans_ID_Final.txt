@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		0.33		5678		175386
+ITC		-0.21		455.1		4437289
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-0.87		1026.95		497147
-MFL		-1.87		957.6		39238
+ECLERX		-0.88		1705.1		16010
