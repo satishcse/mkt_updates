@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		1.41		3379.7		601722
+EICHERMOT		1.19		3420		11931
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATAELXSI		-0.26		7168.85		56859
-DCMSHRIRAM		0.34		847.85		37122
-LAXMIMACH		-2.18		13444.5		7845
+
