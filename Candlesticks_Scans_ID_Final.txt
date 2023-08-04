@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.86		407.1		3600239
-HDFCLIFE		0.66		636.9		723730
-LT		1.19		2628.9		575071
+WIPRO		1.84		407.0		3603372
+LT		1.25		2630.7		576749
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTTS		0.74		4234.45		250986
+LTTS		0.74		4234.45		251169
