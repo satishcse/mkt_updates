@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		2.13		408.15		4186138
-DRREDDY		0.17		5669.0		206692
+WIPRO		2.09		408		4191390
+DRREDDY		0.17		5669		207024
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MASTEK		-0.82		1972		147754
+
