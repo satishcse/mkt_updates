@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.68		119.0		14182137
-HINDALCO		1.25		458.95		6646991
-ITC		-0.19		455.2		4641816
+TATASTEEL		0.68		119.0		14234028
+HINDALCO		1.28		459.1		6650167
+ITC		-0.19		455.2		4645772
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTTS		0.56		4227.15		273236
+LTTS		0.65		4231		273924
