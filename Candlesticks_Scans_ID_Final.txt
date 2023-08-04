@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.72		119.05		18852112
-HCLTECH		2.07		1148.8		2960059
-UPL		0.35		602.55		1539810
-TATACONSUM		-0.07		834.85		777396
-DIVISLAB		0.46		3743.3		242285
+TATASTEEL		0.68		119.0		19694399
+HCLTECH		1.79		1145.7		3001861
+UPL		0.46		603.2		1549714
+TATACONSUM		-0.05		834.95		784158
+DIVISLAB		0.47		3743.85		246480
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYTEX		0		1026.7		212579
+CENTURYTEX		0.02		1026.95		212886
