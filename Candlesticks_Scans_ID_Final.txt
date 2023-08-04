@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.9		407.25		3609053
-LT		1.18		2628.85		577491
+WIPRO		1.89		407.2		3611745
+LT		1.16		2628.25		578574
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+COLPAL		-0.28		1989.0		358514
+LTTS		0.77		4235.9		251993
