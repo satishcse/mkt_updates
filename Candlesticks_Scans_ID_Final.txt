@@ -1,15 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+EICHERMOT		1.41		3379.7		601722
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-1.4		1738.15		618898
-IGL		-1.23		454.55		447670
-ADANIGREEN		-1.75		1068.0		380567
-ACC		-0.81		1994.35		264288
-BDL		-2.57		1192.95		136990
-RAYMOND		-0.68		1871.8		48210
-FLUOROCHEM		-0.46		2771.05		40613
+TATAELXSI		-0.26		7168.85		56859
+DCMSHRIRAM		0.34		847.85		37122
+LAXMIMACH		-2.18		13444.5		7845
