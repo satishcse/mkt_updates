@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		0.42		1369.0		84046
-APLAPOLLO		0.39		1522.7		82610
-BLUESTARCO		-0.08		768.4		16989
-JBCHEPHARM		0.22		2565.25		1891
+TVSMOTOR		0.41		1368.9		84751
+TIINDIA		-0.47		3041.9		18622
+JBCHEPHARM		0.26		2566.2		1924
