@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.54		247.35		2654920
-BAJFINANCE		0.34		7132.3		287475
+POWERGRID		-0.58		247.25		2658185
+BAJFINANCE		0.3		7130.0		287944
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+STARHEALTH		0.37		643.0		95419
+POWERINDIA		-1.37		4217.45		10182
