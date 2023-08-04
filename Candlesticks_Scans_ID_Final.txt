@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.56		247.3		2698321
-SBILIFE		0.75		1263.1		309294
+POWERGRID		-0.56		247.3		2703220
+SBILIFE		0.86		1264.55		313377
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		-0.68		1182.05		84833
+HAL		0.09		3769.85		166905
