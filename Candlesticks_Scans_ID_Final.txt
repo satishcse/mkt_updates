@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		0.22		5671.95		209587
+DRREDDY		0.19		5670.15		209766
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROBRAND		-1.98		1052.6		45495
+FACT		0.38		474.5		335432
+GMMPFAUDLR		-0.18		1449.75		22093
