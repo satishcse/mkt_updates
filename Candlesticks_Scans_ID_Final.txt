@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		2.19		408.4		4265453
-DRREDDY		0.27		5674.9		207918
+DRREDDY		0.26		5674.2		208152
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TITAN		0.05		2903.65		468299
-BAJAJ-AUTO		-1.71		4743.55		258481
-MASTEK		-0.81		1972.15		149554
-SUNTECK		-0.41		364.05		125350
+MGL		-5.22		1062.15		2002234
+TITAN		0.06		2903.8		472304
