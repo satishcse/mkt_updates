@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.3		118.55		5209526
-TATAMOTORS		-0.36		616.75		2583327
+TATASTEEL		0.21		118.45		5300930
+TATAMOTORS		-0.49		615.9		2631516
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FIVESTAR		-0.56		730.7		53866
-NH		-0.39		1017.0		38801
-TIINDIA		-1.06		3024.05		32957
-GODFRYPHLP		-0.95		2009.95		18167
+MGL		-1.67		1101.95		767690
+ICICIGI		0.23		1350.4		55446
+TIINDIA		-1.06		3024.0		33206
+GODFRYPHLP		-1.03		2008.35		18248
 BAYERCROP		-0.38		4534.8		1333
