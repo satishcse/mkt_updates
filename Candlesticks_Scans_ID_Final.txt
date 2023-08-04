@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.18		640.15		1569619
-ULTRACEMCO		0.84		8204.65		155766
+HDFCLIFE		1.15		639.95		1577725
+ULTRACEMCO		0.84		8204.5		156098
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GESHIP		-0.23		801.45		578432
+
