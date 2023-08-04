@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.69		1133.15		2574252
-SBILIFE		0.27		1257.1		553743
+SUNPHARMA		-0.7		1133.0		2577736
+SBILIFE		0.28		1257.2		553994
+APOLLOHOSP		-0.35		4978.8		215082
 
 Bullish_Hammer_15m_N500								 
 ======================= 
