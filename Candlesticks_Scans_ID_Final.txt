@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		2.8		1174.75		2606275
-HINDUNILVR		-0.15		2547.5		1064223
-BRITANNIA		0.06		4801.95		301551
+TECHM		2.77		1174.5		2612909
+HINDUNILVR		-0.18		2546.75		1065704
+BRITANNIA		0.1		4803.6		303285
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSL		-1.64		389.85		350085
+JSL		-1.65		389.8		350848
