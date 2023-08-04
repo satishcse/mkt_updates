@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.74		637.4		544243
+HDFCLIFE		0.77		637.55		549780
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LATENTVIEW		0.45		382.8		147277
-HAL		0.25		3776.15		145186
-MCX		-0.37		1594.55		96890
+BAJAJFINSV		-0.62		1484.4		870220
+OBEROIRLTY		-0.67		1095.0		289038
+ASIANPAINT		0.34		3347.7		195466
+FINCABLES		0.05		1007.05		37107
+TCIEXP		-0.47		1528.7		5336
