@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.76		637.5		510315
-HEROMOTOCO		0.02		2953.1		282595
+TATASTEEL		0.25		118.5		7108439
+UPL		0.57		603.9		496300
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		0.25		2482.1		1811982
-HEG		-0.4		1749.0		90557
-NUVOCO		0.68		362.5		44624
-TIMKEN		-0.9		3424.7		4704
+
