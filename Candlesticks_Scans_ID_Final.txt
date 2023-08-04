@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.33		2484.05		1405020
-SBILIFE		1.28		1269.85		180473
+RELIANCE		0.3		2483.4		1426064
+SBILIFE		1.26		1269.5		181124
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAJAJFINSV		-0.41		1487.6		467449
-BAJFINANCE		0.15		7118.7		213715
+
