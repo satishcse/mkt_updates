@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.71		1132.9		2566765
-SBILIFE		0.28		1257.2		547130
+SUNPHARMA		-0.72		1132.8		2569777
+SBILIFE		0.27		1257.1		552612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MGL		-4.68		1068.3		1873557
+MGL		-4.62		1068.9		1887300
