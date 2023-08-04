@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		2.21		408.5		4668020
-BPCL		-1.68		361.8		2318947
-HINDUNILVR		-0.14		2547.65		1055049
-ASIANPAINT		0.11		3340.0		364322
-BRITANNIA		0.09		4803.15		299653
+HINDUNILVR		-0.14		2547.75		1059591
+ASIANPAINT		0.17		3342.0		367118
+BRITANNIA		0.04		4801.0		300312
 
 Bullish_Hammer_15m_N500								 
 ======================= 
