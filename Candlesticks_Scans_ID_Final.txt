@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		0.38		118.65		8814074
-NESTLEIND		0.32		22547.95		19121
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-0.48		1031		403642
+ALKYLAMINE		0.71		2417.35		7054
