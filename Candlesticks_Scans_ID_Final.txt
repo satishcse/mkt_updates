@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.11		219.85		8316462
+NTPC		-0.14		219.8		8333757
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RHIM		-0.84		684.0		248284
+VIJAYA		1.88		457.9		85788
