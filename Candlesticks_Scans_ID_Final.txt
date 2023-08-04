@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		0.31		1692.0		149430
-ATUL		0.27		7033.85		5978
-GARFIBRES		-0.23		3310.25		3877
-SUNDARMFIN		-0.37		2547.5		1370
+ENDURANCE		-1.56		1693.45		4140
+SUNDARMFIN		-0.36		2547.7		1373
