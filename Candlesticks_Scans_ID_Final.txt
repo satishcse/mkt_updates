@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.92		973.9		8840529
-HDFCLIFE		0.61		636.55		677278
+ICICIBANK		0.91		973.75		8875514
+HDFCLIFE		0.58		636.35		680060
+DRREDDY		0.3		5676.55		145291
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUESTARCO		-0.56		764.75		199474
-ECLERX		-0.15		1717.65		12170
-ALKYLAMINE		0.57		2413.95		7606
+BLUESTARCO		-0.54		764.9		199605
+MEDPLUS		-0.43		952.95		13521
+ECLERX		-0.16		1717.4		12242
