@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.22		950.15		2756970
-ADANIENT		0.06		2543.45		1210694
-HDFCLIFE		0.37		644.6		417920
+AXISBANK		-0.24		950.0		2759399
+ADANIENT		0.05		2543.0		1217417
+TCS		0.04		3444.9		426514
+HDFCLIFE		0.37		644.6		419080
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		-3.57		2394.0		362468
-NAVINFLUOR		-3.4		4352.85		114974
+BAJAJ-AUTO		-0.68		4680		118955
