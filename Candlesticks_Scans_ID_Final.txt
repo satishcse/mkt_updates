@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.2		246.85		3146847
-LT		0.5		2639.95		732886
+POWERGRID		-0.18		246.9		3152235
+LT		0.5		2639.95		734141
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CUMMINSIND		-2		1760.25		700428
+CUMMINSIND		-2.0		1760.25		704260
+ORIENTELEC		0.25		240.6		405593
