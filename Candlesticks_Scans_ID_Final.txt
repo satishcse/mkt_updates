@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ICICIBANK		0.59		976.25		2645143
-HINDUNILVR		0.35		2554.95		142377
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYPLY		-1.1		643.9		27273
-NESTLEIND		-0.81		22273.35		6266
+TIMKEN		-1.03		3356.7		5867
