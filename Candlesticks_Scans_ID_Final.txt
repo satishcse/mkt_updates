@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.56		611.55		6107233
-COALINDIA		-0.13		233.45		4832109
-RELIANCE		0.57		2523.75		1760843
-HDFCLIFE		0.44		645.0		832718
-DRREDDY		0.06		5653.2		247005
+ITC		0.06		455.2		6039112
+RELIANCE		0.56		2523.65		1766079
+HDFCLIFE		0.42		644.9		834233
+JSWSTEEL		1.0		814.0		729238
+DRREDDY		0.03		5651.4		247395
+ULTRACEMCO		0.21		8174.9		82091
 
 Bullish_Hammer_15m_N500								 
 ======================= 
