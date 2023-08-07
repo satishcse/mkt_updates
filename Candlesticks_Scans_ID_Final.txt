@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.46		947.85		9930067
-UPL		0.52		606.5		1335920
+AXISBANK		-0.43		948.2		9992354
+UPL		0.52		606.5		1336255
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MTARTECH		0.95		2229.05		261024
-KEI		-1.9		2378.9		188373
+
