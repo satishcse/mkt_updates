@@ -2,15 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.61		411.35		2430747
-ONGC		-0.46		172.55		1060883
-HDFCLIFE		0.4		644.8		688014
-JSWSTEEL		0.3		808.35		554999
-SBILIFE		1.27		1284.0		510593
-BAJAJFINSV		0.7		1496.75		488613
-ULTRACEMCO		0.14		8169.7		65141
+HDFCLIFE		0.38		644.65		689741
+SBILIFE		1.25		1283.75		512641
+BAJAJFINSV		0.71		1496.8		489061
+ULTRACEMCO		0.14		8169.7		65168
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DRREDDY		-0.09		5644.35		216031
+
