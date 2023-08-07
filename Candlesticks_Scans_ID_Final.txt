@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.08		118.9		14384441
-COALINDIA		-0.04		233.65		5203108
-POWERGRID		-0.16		246.95		3356822
-EICHERMOT		0.32		3370.25		318360
+TATASTEEL		0.04		119.05		14439561
+COALINDIA		-0.09		233.55		5217307
+POWERGRID		-0.18		246.9		3360813
+EICHERMOT		0.32		3370.35		318803
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BALAMINES		-0.33		2225.8		26211
