@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.97		412.8		3367530
-POWERGRID		-0.14		247.0		3251838
-HINDALCO		1.93		465.8		2639947
+M&M		3.77		1519.85		7502483
+WIPRO		0.94		412.7		3379696
+HINDALCO		1.93		465.8		2642081
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		-1.61		1362.05		176182
-TIINDIA		-1.18		3065.9		57345
+RADICO		-1.8		1359.45		178420
