@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.16		8171.3		115123
+ULTRACEMCO		0.13		8169		115785
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GAEL		-6.31		239.9		989339
-SUMICHEM		-1.44		413.1		177972
-LINDEINDIA		0.28		5126.95		25054
+GESHIP		-3.2		774.85		306385
+SUMICHEM		-1.52		412.8		182309
+LINDEINDIA		0.32		5128.9		25065
