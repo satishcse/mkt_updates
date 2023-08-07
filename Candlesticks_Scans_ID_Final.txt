@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.55		118.35		9262549
-M&M		3.07		1509.55		6561124
-TATAMOTORS		-0.61		611.25		4227623
-CIPLA		-0.48		1204.0		1332692
-HCLTECH		0.43		1149.3		599701
+TATASTEEL		-0.55		118.35		9281631
+M&M		3.03		1509.0		6565947
+TATAMOTORS		-0.59		611.4		4236484
+HCLTECH		0.41		1149.05		601995
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-0.01		3749.45		215320
-TATAELXSI		-0.17		7170.0		28768
-HGS		-0.01		1051.9		5745
+TATAELXSI		-0.17		7170.0		28778
+HGS		-0.02		1051.85		5747
