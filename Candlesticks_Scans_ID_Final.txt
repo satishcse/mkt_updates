@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.78		1389.1		2688291
-TCS		1.07		3480.4		1520437
-HEROMOTOCO		0.2		2950.5		337326
+INFY		0.81		1389.5		2693859
+TCS		1.15		3483.25		1524106
+HEROMOTOCO		0.26		2952.3		337645
 
 Bullish_Hammer_15m_N500								 
 ======================= 
