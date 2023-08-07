@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.38		644.65		689741
-SBILIFE		1.25		1283.75		512641
-BAJAJFINSV		0.71		1496.8		489061
-ULTRACEMCO		0.14		8169.7		65168
+HDFCLIFE		0.4		644.8		693947
+SBILIFE		1.39		1285.55		515571
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BRITANNIA		-3.51		4630.0		726730
+UFLEX		-1.01		417.6		84347
+NESTLEIND		-1.2		22184.7		14322
