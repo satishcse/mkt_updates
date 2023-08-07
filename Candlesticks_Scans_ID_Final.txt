@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.29		808.25		549952
-BAJFINANCE		-0.77		7093.85		320814
+HDFCLIFE		0.36		644.5		682981
+JSWSTEEL		0.29		808.25		550737
+SBILIFE		1.42		1285.85		505063
+ULTRACEMCO		0.19		8173.95		64430
 
 Bullish_Hammer_15m_N500								 
 ======================= 
