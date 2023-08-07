@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.21		950.25		7151742
-COALINDIA		-0.02		233.7		5064670
-WIPRO		0.92		412.6		3328211
-ADANIENT		0.15		2545.55		2707504
-HINDALCO		1.93		465.8		2602653
-INFY		0.69		1387.9		2062798
-CIPLA		0.02		1210.0		1640168
+AXISBANK		-0.25		949.85		7303145
+WIPRO		0.94		412.7		3336509
+POWERGRID		-0.14		247.0		3223296
+ADANIENT		0.2		2546.9		2771753
+HINDALCO		1.9		465.7		2613975
+RELIANCE		0.58		2524.0		1962037
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-3MINDIA		-1.55		27728.1		2473
+PFIZER		-0.51		3943.95		7179
