@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.27		949.7		7336688
-WIPRO		0.91		412.55		3341040
-POWERGRID		-0.14		247.0		3227738
-ADANIENT		0.13		2545.0		2799247
-HINDALCO		1.9		465.7		2615433
+AXISBANK		-0.1		951.3		7382842
+WIPRO		0.89		412.5		3345101
+POWERGRID		-0.14		247.0		3232482
+ADANIENT		0.13		2545.0		2804292
+HINDALCO		1.9		465.7		2619194
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RADICO		-1.82		1359.25		174090
+TIINDIA		-1.17		3066.2		57131
