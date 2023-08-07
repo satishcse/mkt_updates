@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.16		246.95		3377333
-RELIANCE		0.46		2521.0		2064240
-EICHERMOT		0.32		3370.2		319581
-HEROMOTOCO		0.25		2952.0		305144
+RELIANCE		0.45		2520.95		2067289
+EICHERMOT		0.37		3372.05		320038
+HEROMOTOCO		0.25		2952.0		305436
 
 Bullish_Hammer_15m_N500								 
 ======================= 
