@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.15		233.4		4822403
-GRASIM		1.89		1859.9		576651
-TITAN		-0.01		2904.0		303584
+COALINDIA		-0.13		233.45		4823860
+HDFCLIFE		0.44		645.0		827331
 
 Bullish_Hammer_15m_N500								 
 ======================= 
