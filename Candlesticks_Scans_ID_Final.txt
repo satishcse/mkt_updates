@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.18		246.9		3482794
-HINDALCO		1.75		465.0		2911808
-RELIANCE		0.29		2516.95		2155349
+M&M		4.05		1524.0		7924800
+ADANIENT		0.26		2548.4		3375565
+TCS		1.06		3479.9		1422350
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFIZER		-0.52		3943.35		8535
+CRAFTSMAN		-0.56		4611.75		16337
