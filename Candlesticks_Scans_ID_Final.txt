@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.12		2544.9		1288787
-TCS		0.01		3444.0		433274
-HDFCLIFE		0.28		644.0		424744
+TCS		0.04		3444.95		434244
+HDFCLIFE		0.28		644.0		424954
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.92		1826.95		1025201
-GESHIP		-0.94		793.0		157297
-BAJAJ-AUTO		-0.7		4679.2		121099
+MAZDOCK		-0.86		1828.05		1027279
+BRITANNIA		-3.15		4647.5		613107
+HEROMOTOCO		-0.13		2940.9		220031
+BAJAJ-AUTO		-0.68		4679.95		121462
