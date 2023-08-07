@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.5		118.4		6984360
-APOLLOHOSP		0.44		5002.0		378973
+NTPC		1.24		220.65		3442085
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		-1.13		5174		7845
+MRF		-1.38		109764.3		3732
