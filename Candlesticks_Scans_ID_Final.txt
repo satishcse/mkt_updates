@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.94		813.55		1402702
+JSWSTEEL		0.85		812.8		1407756
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALRAMCHIN		-2.27		403.35		4155666
-MAZDOCK		-1.9		1808.9		1534039
-CDSL		-1.24		1200.45		526585
-TANLA		-2.62		1130.7		509701
-DRREDDY		-0.32		5631.25		489871
-GUJALKALI		-0.9		669.1		67949
-POLYPLEX		-0.57		1263.65		54240
+VBL		-0.05		824.9		1549679
+CDSL		-1.21		1200.85		527934
+KEI		-1.92		2378.4		213044
+GUJALKALI		-0.99		668.5		68223
