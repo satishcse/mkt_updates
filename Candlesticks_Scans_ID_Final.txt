@@ -2,13 +2,19 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		0.59		5683.05		44930
+DRREDDY		0.6		5683.7		45222
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		1.74		2546.65		35335
-COLPAL		0.27		2000.9		29442
+BLS		1.88		246.5		765340
+INDUSINDBK		-0.4		1404.0		191655
+COCHINSHIP		-0.69		666.0		189670
+TCS		0.28		3453.3		138479
+PRESTIGE		0.42		576.35		61827
+TATAINVEST		1.8		2548.1		35521
 KFINTECH		-0.55		387.0		19210
-BAJAJHLDNG		0.1		7402.0		2674
+METROBRAND		0.1		1069.95		5754
+KIMS		-0.2		1843.0		4418
+BAJAJHLDNG		0.11		7402.45		2698
 BASF		-0.28		2611.95		690
