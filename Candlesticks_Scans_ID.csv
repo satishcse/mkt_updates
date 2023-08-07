@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-0.18,246.9,1071372
-ADANIPORTS,0.07,775.8,464444
-TCS,0.08,3446.45,284420
+POWERGRID,-0.18,246.9,1077360
+TCS,0.09,3446.8,285734
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+INDIGO,-1.45,2476.35,145729
+LUXIND,-0.42,1571.4,8255
