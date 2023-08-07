@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		1.28		3487.6		1551072
+TCS		1.19		3484.65		1558564
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BIRLACORPN		-0.87		1218.25		79882
+WHIRLPOOL		-0.56		1453.5		46192
