@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.14		8169.95		115903
+ULTRACEMCO		0.15		8170.05		116439
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUMICHEM		-1.48		412.95		182371
-LINDEINDIA		0.48		5137.2		25173
-PFIZER		-0.79		3932.65		9141
+GAEL		-6.35		239.8		993924
+SUNDRMFAST		-1.64		1212.05		60015
+LINDEINDIA		0.73		5150.0		25211
 GALAXYSURF		-0.07		2622.0		5201
