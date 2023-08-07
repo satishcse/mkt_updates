@@ -2,16 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.36		232.9		4395585
-UPL		0.64		607.2		545633
-DRREDDY		0.01		5650.0		196591
+TATASTEEL		-0.5		118.4		9000891
+M&M		3.42		1514.7		6471087
+CIPLA		-0.47		1204.1		1318801
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		-0.67		2027.7		339610
-ALKYLAMINE		-1.43		2387.85		19599
-SCHAEFFLER		-0.15		3052.85		6707
-GARFIBRES		-1.16		3262.0		6162
-KENNAMET		-0.03		2802.45		4714
-SHREECEM		-0.44		24117.9		3534
+KENNAMET		0.24		2810.1		4715
