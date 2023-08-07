@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.0		119.0		13128026
-AXISBANK		-0.14		950.9		6894398
-WIPRO		0.99		412.9		3288286
-ADANIENT		0.09		2544.0		2584391
-HINDALCO		2.04		466.3		2557822
+TATASTEEL		-0.08		118.9		13175342
+AXISBANK		-0.23		950.05		6929360
+WIPRO		0.87		412.4		3296161
+ADANIENT		0.11		2544.6		2591905
+HINDALCO		1.83		465.35		2572497
+INFY		0.64		1387.15		2022388
+BAJAJFINSV		1.32		1505.95		754817
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBCHEPHARM		-2.92		2567.8		29163
+3MINDIA		-1.66		27697.15		2404
