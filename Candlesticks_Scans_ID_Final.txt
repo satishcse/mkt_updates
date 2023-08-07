@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.2		8174.8		62299
+ULTRACEMCO		0.17		8172		62501
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MAZDOCK		-1.15		1822.6		1115937
+SUNDRMFAST		-0.37		1227.8		34086
