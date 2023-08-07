@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.85,219.8,1445285
-TECHM,0.41,1180.0,279872
-DRREDDY,0.64,5685.65,65657
+TECHM,0.44,1180.4,283902
+DRREDDY,0.66,5686.7,66238
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+INDIGO,-1.16,2483.7,121202
+TCIEXP,-1.64,1500.0,6286
