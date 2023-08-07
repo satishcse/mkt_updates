@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.5		1493.7		449033
-ULTRACEMCO		0.17		8171.85		61557
+BAJAJFINSV		0.45		1492.95		452933
+ULTRACEMCO		0.19		8174.0		61643
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		-0.03		5648.0		208540
-SUNDRMFAST		-0.32		1228.3		33838
+SUNDRMFAST		-0.27		1229		33912
