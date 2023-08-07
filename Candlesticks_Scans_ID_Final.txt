@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		4.0		1523.25		7937217
-ADANIENT		0.32		2549.95		3391863
-TCS		1.05		3479.8		1425443
+M&M		4.02		1523.5		7948474
+TCS		1.04		3479.2		1429316
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		0.07		1505		205242
+ANGELONE		0.09		1505.35		205397
+CRAFTSMAN		-0.38		4619.85		16386
