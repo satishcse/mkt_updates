@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.16		247.75		1696778
+TATASTEEL		-0.13		118.85		6535067
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TRENT		-0.73		1688.6		77272
+BALAMINES		0.26		2238.95		15519
