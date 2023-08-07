@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.04		3444.95		434244
-HDFCLIFE		0.28		644.0		424954
+COALINDIA		-0.41		232.8		4291298
+WIPRO		0.38		410.4		2118375
+UPL		0.64		607.2		529599
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAZDOCK		-0.86		1828.05		1027279
-BRITANNIA		-3.15		4647.5		613107
-HEROMOTOCO		-0.13		2940.9		220031
-BAJAJ-AUTO		-0.68		4679.95		121462
+
