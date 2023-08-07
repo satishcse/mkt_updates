@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.71		977.4		9148200
-ULTRACEMCO		0.14		8169.7		76930
+COALINDIA		-0.15		233.4		4822403
+GRASIM		1.89		1859.9		576651
+TITAN		-0.01		2904.0		303584
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ASAHIINDIA		-1.02		528.35		64423
-KSB		-1.29		2609.2		44792
-SUNDRMFAST		-0.85		1221.8		40833
+
