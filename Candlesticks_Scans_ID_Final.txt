@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.39		232.85		4325701
-UPL		0.51		606.4		535934
-DRREDDY		0.03		5651.15		193633
+COALINDIA		-0.41		232.8		4342272
+UPL		0.51		606.4		536303
+DRREDDY		0.01		5650.0		193925
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KRBL		1.97		393.7		660523
-GARFIBRES		-1.43		3252.9		5919
+GARFIBRES		-1.43		3253.0		5922
+KENNAMET		-0.16		2798.8		4708
