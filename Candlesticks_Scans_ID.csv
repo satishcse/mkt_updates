@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-0.16,246.95,3392291
-RELIANCE,0.42,2520.0,2070601
-BRITANNIA,-3.1,4649.75,886485
-EICHERMOT,0.33,3370.6,320368
-HEROMOTOCO,0.24,2951.9,305732
+RELIANCE,0.42,2520.0,2078675
+BRITANNIA,-3.1,4649.6,887106
+HEROMOTOCO,0.25,2952.0,306070
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GALAXYSURF,-0.19,2618.75,4833
