@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.12		173.15		1193236
-LT		0.15		2639.95		322574
-MARUTI		0.6		9580.6		204166
+ONGC		0.12		173.15		1195409
+BPCL		-0.5		358.85		959937
+LT		0.16		2640.0		324012
+MARUTI		0.6		9581.15		204409
 
 Bullish_Hammer_15m_N500								 
 ======================= 
