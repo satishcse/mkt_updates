@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.97		415.15		6004865
-ITC		-0.3		453.55		4805411
-BAJFINANCE		0.29		7142.55		577197
-ASIANPAINT		0.02		3343.75		320088
+WIPRO		0.95		415.05		6012836
+ITC		-0.35		453.3		4817604
+BAJFINANCE		0.38		7149.1		579468
+ASIANPAINT		0.05		3344.7		320714
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CRAFTSMAN		1		4711.15		22317
