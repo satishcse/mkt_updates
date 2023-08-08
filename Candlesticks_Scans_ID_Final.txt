@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.14		1648.95		20107302
-TATASTEEL		-0.5		118.25		18325480
-HDFCLIFE		-0.54		645.3		3202688
-HEROMOTOCO		3.89		3068.85		1848635
+HDFCBANK		-0.08		1649.9		20328469
+TATASTEEL		-0.5		118.25		18391962
+HDFCLIFE		-0.44		645.95		3230945
+SUNPHARMA		-0.96		1149.7		2813685
+HEROMOTOCO		3.85		3067.65		1851737
 
 Bullish_Hammer_15m_N500								 
 ======================= 
