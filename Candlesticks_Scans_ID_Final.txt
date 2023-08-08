@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+UPL		-0.37		604.55		2037966
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUMICHEM		-0.02		415.0		408116
+SUMICHEM		0.29		416.3		409116
 LAXMIMACH		-0.86		13363.7		3200
