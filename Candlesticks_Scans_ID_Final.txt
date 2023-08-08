@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.01		357.0		2071603
-HCLTECH		-1.01		1139.15		1040026
+TATASTEEL		-0.46		118.3		15310417
+HCLTECH		-1.02		1139.05		1042249
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BORORENEW		-3.8		482.65		496625
-PATANJALI		-1.4		1347.95		113633
+PATANJALI		-1.4		1347.95		113659
