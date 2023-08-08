@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		3.87		3068.45		1694720
-LT		0.25		2642.45		454750
+HEROMOTOCO		3.89		3069.05		1699043
+LT		0.23		2641.9		457759
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAUKRI		-2.61		4700.0		174499
-NESTLEIND		-1.43		22137.5		30752
+SCHAEFFLER		-0.19		3036.2		28209
+SUNDARMFIN		0.33		2609.0		19465
