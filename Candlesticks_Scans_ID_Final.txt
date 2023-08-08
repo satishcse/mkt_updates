@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.02		1651.0		14272082
-TATAMOTORS		-0.28		607.8		6913828
-BAJAJ-AUTO		-0.49		4647.0		328053
-ASIANPAINT		0.0		3343.1		302674
+HDFCBANK		-0.02		1650.95		14327215
+TATAMOTORS		-0.24		608.05		6921389
+BAJAJ-AUTO		-0.47		4648.2		328763
+ASIANPAINT		0.03		3343.9		303143
 
 Bullish_Hammer_15m_N500								 
 ======================= 
