@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.79		572.4		18086542
-POWERGRID		-2.46		241.85		8448550
-BPCL		-1.01		357.0		2045810
+BPCL		-1.01		357.0		2071603
+HCLTECH		-1.01		1139.15		1040026
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-1.43		1347.65		113631
+BORORENEW		-3.8		482.65		496625
+PATANJALI		-1.4		1347.95		113633
