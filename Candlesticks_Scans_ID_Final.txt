@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.22		608.15		7133835
-HCLTECH		-1.09		1138.3		1055662
+TATAMOTORS		-0.24		608.05		7142551
+HCLTECH		-1.05		1138.7		1057234
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-1.42		1347.8		115847
-SANOFI		-0.51		7302.4		11490
+PATANJALI		-1.55		1346		115922
