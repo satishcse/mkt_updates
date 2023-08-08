@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.25		118.55		13107844
-COALINDIA		-1.27		230.0		9348887
-ADANIPORTS		-2.45		772.05		4735030
-ONGC		0.09		173.1		1448470
-ASIANPAINT		-0.1		3339.65		270745
+TATASTEEL		-0.21		118.6		13122092
+ADANIPORTS		-2.45		772.0		4745304
 
 Bullish_Hammer_15m_N500								 
 ======================= 
