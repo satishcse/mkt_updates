@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GRASIM		-0.42		1847.85		81720
-JKCEMENT		-0.04		3241.0		40129
-PFIZER		0.59		3964.0		6413
+
