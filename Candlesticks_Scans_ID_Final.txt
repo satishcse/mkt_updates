@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.04		1650.65		14961384
-ASIANPAINT		0.01		3343.45		306838
+COALINDIA		-1.27		230.0		10480832
+HINDALCO		-2.27		454.3		5030687
+ITC		-0.32		453.45		4421917
+BAJFINANCE		0.46		7154.95		497310
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-WESTLIFE		-1.08		924		234566
+
