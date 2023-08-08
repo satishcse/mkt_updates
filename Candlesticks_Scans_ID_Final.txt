@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.84		983.8		12580202
-HCLTECH		-1.03		1139.0		1045738
+HCLTECH		-1.07		1138.45		1049843
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BORORENEW		-4.02		481.55		506083
-PATANJALI		-1.41		1347.9		113671
+KOTAKBANK		0.09		1833.2		2512767
