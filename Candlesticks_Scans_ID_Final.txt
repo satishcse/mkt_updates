@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+LT		0.22		2641.7		445714
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDARMFIN		0.22		2606		19193
+TTKPRESTIG		-1.13		776.5		21750
+SUNDARMFIN		0.27		2607.5		19262
