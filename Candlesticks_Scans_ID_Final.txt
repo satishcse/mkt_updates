@@ -6,10 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLICYBZR		-4.55		761.8		5300297
-KEC		-2.13		633.65		445917
-INDIGOPNTS		-0.76		1585.05		400564
-APTUS		-1.82		262.0		285691
-POLYMED		-4.28		1393.05		250732
-NAZARA		-1.75		672.5		116691
-HONAUT		-0.46		42169.9		771
+KEC		-2.25		632.9		447094
+APTUS		-1.86		261.9		288494
+NAZARA		-1.78		672.3		118848
+GUJALKALI		-1.2		660.85		51405
