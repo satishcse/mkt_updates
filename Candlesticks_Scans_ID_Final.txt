@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		0.19		3362.3		636969
+EICHERMOT		0.21		3362.75		637254
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-1.55		1346		85384
+PATANJALI		-1.55		1345.95		85394
