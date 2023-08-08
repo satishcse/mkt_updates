@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.24		608.05		7142551
-HCLTECH		-1.05		1138.7		1057234
+HDFCBANK		-0.01		1651.15		16278393
+TATASTEEL		-0.34		118.45		15571125
+ITC		-0.18		454.1		4719407
+BAJFINANCE		0.56		7162.2		561542
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PATANJALI		-1.55		1346		115922
+
