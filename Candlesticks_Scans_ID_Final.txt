@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.21		118.6		12856698
-UPL		-0.45		604.05		1648344
-GRASIM		-0.89		1839.15		174185
-NESTLEIND		-1.37		22150.5		26730
+TATASTEEL		-0.21		118.6		12874666
+HINDALCO		-1.7		456.95		2833851
+UPL		-0.46		604.0		1649225
+GRASIM		-0.87		1839.4		174317
+NESTLEIND		-1.37		22151.15		26800
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MAXHEALTH		-4.11		559.35		1941907
