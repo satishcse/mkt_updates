@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		-2.4		242		5364976
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-1.37		1376.55		123043
-ABB		-1.49		4458.65		74108
+VINATIORGA		0.24		1872.45		27013
