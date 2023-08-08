@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-1.16		782.25		1730220
+ADANIPORTS		-1.4		780.3		1779721
+HDFCLIFE		0.34		651.0		423289
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYPLY		-2.19		615.55		32882
+KEC		-1.54		637.45		109778
