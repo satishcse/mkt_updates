@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.97		415.15		5992783
-ITC		-0.29		453.6		4756880
-BAJFINANCE		0.51		7158.15		568252
+WIPRO		0.96		415.1		5994172
+ITC		-0.27		453.65		4762465
+ONGC		0.06		173.05		1801821
+BAJFINANCE		0.35		7147.0		571050
 
 Bullish_Hammer_15m_N500								 
 ======================= 
