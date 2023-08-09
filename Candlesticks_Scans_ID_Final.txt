@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.63		117.4		12156963
-AXISBANK		-0.85		944.8		2723266
-CIPLA		-0.78		1256.55		888388
-INDUSINDBK		-0.47		1397.4		581584
-HEROMOTOCO		-1.53		3020.0		292494
+AXISBANK		-0.88		944.5		2741126
+ADANIENT		1.19		2503.9		2642627
+INDUSINDBK		-0.52		1396.65		586269
+HEROMOTOCO		-1.33		3026.05		294595
 
 Bullish_Hammer_15m_N500								 
 ======================= 
