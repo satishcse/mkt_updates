@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-0.28		1138.15		962190
-BRITANNIA		-0.55		4580.0		736400
-HINDUNILVR		-0.7		2548.0		701286
-ASIANPAINT		-1.14		3309.8		356585
+HCLTECH		-0.37		1137.15		964578
+BRITANNIA		-0.55		4579.95		736545
+HINDUNILVR		-0.7		2547.85		702467
+ASIANPAINT		-1.15		3309.45		356938
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LALPATHLAB		-0.49		2358.0		65963
+SUNDRMFAST		-0.55		1185.9		37752
