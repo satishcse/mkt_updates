@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.5		1397		177911
+INDUSINDBK		-0.47		1397.4		179754
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBER		-0.73		2529.25		10460
+SUNTV		-0.59		540.0		92209
+UBL		-0.56		1550.45		51054
+CREDITACC		-0.84		1437.3		12486
