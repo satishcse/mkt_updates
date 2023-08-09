@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.92		174.95		2722098
-HCLTECH		-0.25		1138.5		981512
-BRITANNIA		-0.55		4579.95		746320
-HINDUNILVR		-0.7		2547.95		718215
+NTPC		0.02		217.6		8656541
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MCDOWELL-N		-0.85		1011		272080
-GOCOLORS		-1.89		1225		17909
+
