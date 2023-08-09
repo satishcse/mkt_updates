@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.82		120.3		32887052
+TATASTEEL		1.82		120.3		33063376
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IPCALAB		0.16		911.9		1073722
-CIEINDIA		-1.02		471.5		369053
-TATAELXSI		-0.06		7157.9		77307
-PGHH		-1.21		15488.95		3476
+IPCALAB		0.18		912.0		1077184
+SHOPERSTOP		-0.02		805.4		986802
+PGHH		-1.23		15486.0		3491
