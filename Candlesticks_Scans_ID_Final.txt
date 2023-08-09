@@ -1,14 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+AXISBANK		-0.42		948.9		1061574
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLS		0.04		247.2		977590
-BAJFINANCE		-0.68		7124.9		123695
-NAUKRI		0.02		4715.8		57470
-LTTS		-0.6		4250.75		27577
-LTIM		-0.55		5054.5		27453
-GMMPFAUDLR		-0.36		1456.0		16351
+BAJFINANCE		-0.67		7125.45		125763
