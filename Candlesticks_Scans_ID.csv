@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HCLTECH,-0.36,1137.2,975980
-BRITANNIA,-0.57,4579.3,743730
-HINDUNILVR,-0.7,2547.95,711753
-ASIANPAINT,-1.17,3309.0,361032
+HCLTECH,-0.36,1137.2,976918
+BRITANNIA,-0.55,4579.95,744703
+HINDUNILVR,-0.7,2547.95,714020
+ASIANPAINT,-1.17,3308.75,361718
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+MCDOWELL-N,-0.85,1010.95,269661
