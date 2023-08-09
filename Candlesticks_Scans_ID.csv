@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-GRASIM,-0.52,1834.95,364597
-MARUTI,-0.78,9468.6,234343
-BAJAJ-AUTO,-0.04,4648.25,155335
+EICHERMOT,1.03,3406.85,739571
+GRASIM,-0.52,1834.95,365505
+MARUTI,-0.79,9466.8,238910
+BAJAJ-AUTO,-0.05,4648.0,155524
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GRINDWELL,-2.75,2306.8,36843
+INGERRAND,-1.92,3105.85,29161
