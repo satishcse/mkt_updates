@@ -1,9 +1,14 @@
 
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
-
+nsecode,per_chg,close,volume
+INFY,0.08,1391.25,2598011
+HCLTECH,-0.14,1139.7,1018140
+SUNPHARMA,0.06,1149.3,872848
+BAJAJ-AUTO,-0.05,4647.95,170521
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-MARUTI,-1.09,9438.8,311906
+MARUTI,-1.03,9444.3,313354
+TCIEXP,-0.72,1447.95,31050
