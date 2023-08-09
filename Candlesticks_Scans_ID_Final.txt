@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.57		2488.6		1426256
-LT		-0.08		2630.0		300269
+COALINDIA		0.74		231.95		12653433
+ADANIENT		0.6		2489.5		1470722
+LT		-0.14		2628.55		304094
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VMART		1.98		2354.1		7690
-ABBOTINDIA		-0.31		23699.85		4320
+SWSOLAR		-1.86		377.45		171161
+ABBOTINDIA		-0.29		23705.0		4531
+BASF		-0.55		2587.3		2275
+LAXMIMACH		-0.93		13248.85		1181
