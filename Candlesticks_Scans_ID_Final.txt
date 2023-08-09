@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.38		1520.45		1399515
-HEROMOTOCO		-1.27		3028.0		244254
-BAJFINANCE		-0.72		7122.0		196926
+HEROMOTOCO		-1.26		3028.3		245068
+BAJFINANCE		-0.72		7121.95		197419
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BHARATFORG		-1.46		892.5		342680
+ADANIGREEN		-0.61		978.25		612134
+ABBOTINDIA		-0.34		23693.35		4769
