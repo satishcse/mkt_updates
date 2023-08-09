@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		-1.46		2960.1		32389
-COLPAL		0.06		1978.25		30365
-DMART		-0.29		3638.0		23872
-BASF		-0.48		2589.0		1715
+EICHERMOT		-0.85		3343.25		136525
+BALKRISIND		-1.84		2328.7		88179
+TIINDIA		-1.47		2960.0		32464
+COLPAL		0.06		1978.2		30399
+DMART		-0.28		3638.4		24985
