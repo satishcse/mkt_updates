@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.42		2498.1		3505022
-HCLTECH		-0.28		1138.2		960316
-SUNPHARMA		-0.12		1147.25		806756
-ASIANPAINT		-1.15		3309.55		354931
+HCLTECH		-0.26		1138.4		961178
+HINDUNILVR		-0.7		2547.95		699998
+ASIANPAINT		-1.15		3309.4		355993
+TITAN		0.39		2932.6		323907
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		-2.75		1355.8		93441
-LALPATHLAB		-0.49		2358.0		65522
+RADICO		-2.43		1360.35		94609
+LALPATHLAB		-0.49		2358.0		65628
