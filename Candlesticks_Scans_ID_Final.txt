@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.38		174.0		1652850
-JSWSTEEL		0.72		807.1		538616
-APOLLOHOSP		-0.78		4984.15		121281
+ONGC		0.38		174		1656429
+JSWSTEEL		0.71		807		539933
+APOLLOHOSP		-0.78		4984		121441
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VAIBHAVGBL		-1.03		385.6		163736
-JUBLINGREA		0.17		434.65		95397
-LODHA		-0.08		717.45		75084
-KIMS		0.83		1839.0		30748
+VAIBHAVGBL		-1.05		385.5		164565
+JUBLINGREA		0.17		434.65		95442
