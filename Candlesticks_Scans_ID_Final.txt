@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IPCALAB		0.26		912.8		1080887
-CIEINDIA		-0.98		471.7		372862
+IPCALAB		0.18		912.0		1085734
+SHOPERSTOP		0.17		806.95		995274
+KPRMILL		1.08		632.4		201726
+KNRCON		-0.47		243.0		98620
+MASTEK		-0.41		2040.35		57267
