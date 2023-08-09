@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.22		1400.8		720091
-ULTRACEMCO		-0.7		8100.0		49795
+ADANIENT		1.26		2505.65		3731794
+BPCL		0.6		360.0		1436955
+APOLLOHOSP		-1.04		4971.15		172000
+ULTRACEMCO		-0.71		8098.9		49999
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AMBER		-1.64		2506.25		50013
