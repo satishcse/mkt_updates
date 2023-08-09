@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.18		2926.65		303059
-APOLLOHOSP		-1.17		4964.5		174836
-ULTRACEMCO		-0.82		8089.9		57876
+APOLLOHOSP		-1.16		4964.95		174982
+ULTRACEMCO		-0.84		8088.0		57965
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.06		1818		1281508
+MAZDOCK		-0.02		1818.8		1284375
