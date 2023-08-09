@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.04		2631.05		440094
+LT		-0.06		2630.5		440935
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-2.97		1703.8		212201
+BATAINDIA		-2.81		1706.55		212587
