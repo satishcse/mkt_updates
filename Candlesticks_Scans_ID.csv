@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BPCL,0.6,360.0,1449217
-TITAN,0.1,2924.3,298664
-APOLLOHOSP,-1.15,4965.5,173464
-ULTRACEMCO,-0.73,8097.3,56115
+ITC,-0.95,448.05,4153590
+TITAN,0.14,2925.4,299214
+APOLLOHOSP,-1.16,4965.15,173575
+ULTRACEMCO,-0.73,8097.55,56662
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-ULTRACEMCO,-0.73,8097.3,56115
+MAZDOCK,-0.06,1818.0,1278054
+ULTRACEMCO,-0.73,8097.55,56662
