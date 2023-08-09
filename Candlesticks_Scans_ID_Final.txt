@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		2.52		1235.8		2603068
+ADANIENT		1.4		2509.1		4978876
+TECHM		2.46		1235.0		2606847
+HCLTECH		0.06		1142.0		1081697
 
 Bullish_Hammer_15m_N500								 
 ======================= 
