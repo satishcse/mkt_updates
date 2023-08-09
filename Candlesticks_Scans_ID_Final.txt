@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		-0.22		1400.8		720091
+ULTRACEMCO		-0.7		8100.0		49795
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BERGEPAINT		-2.74		689.85		1335617
-AMBER		-1.43		2511.55		43306
-PGHH		-1.17		15496.05		1904
+
