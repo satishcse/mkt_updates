@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-1.08		1129		462272
+HCLTECH		-1.06		1129.2		463670
+LT		-0.06		2630.6		286310
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SANOFI		-0.79		7267.25		2488
+VMART		0.94		2330.05		6440
