@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.5		1397.0		605613
-ASIANPAINT		-0.84		3319.95		263502
+HCLTECH		-0.45		1136.25		794473
+ASIANPAINT		-0.84		3319.95		263836
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKLAKSHMI		-0.34		652.5		76644
+JKLAKSHMI		-0.4		652.05		76652
