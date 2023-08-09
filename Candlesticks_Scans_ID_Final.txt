@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.56		240.15		8542859
-INDUSINDBK		-0.16		1401.75		815329
-HINDUNILVR		-0.73		2547.0		694952
+POWERGRID		-0.56		240.15		8557686
+INDUSINDBK		-0.16		1401.75		815846
+HINDUNILVR		-0.72		2547.5		696191
 
 Bullish_Hammer_15m_N500								 
 ======================= 
