@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.56		240.15		8706614
-EICHERMOT		0.94		3403.65		747106
-MARUTI		-0.88		9459.0		244073
-BAJAJ-AUTO		-0.07		4647.1		158604
+POWERGRID		-0.58		240.1		8722153
+EICHERMOT		0.89		3401.9		749707
+MARUTI		-0.94		9453.0		246472
+BAJAJ-AUTO		-0.09		4646.0		158946
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INGERRAND		-1.67		3114		29883
+INGERRAND		-1.65		3114.6		29884
