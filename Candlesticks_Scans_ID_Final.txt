@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.63		117.4		11827671
-NTPC		0.11		217.8		6412103
-POWERGRID		-0.6		240.05		4837946
-HDFCLIFE		0.7		650.0		1041071
-HCLTECH		-0.52		1135.4		724058
-EICHERMOT		-0.43		3357.5		251223
+TATASTEEL		-0.72		117.3		11895502
+NTPC		0.11		217.8		6424744
+HDFCLIFE		0.67		649.75		1044561
+HCLTECH		-0.5		1135.6		724873
+EICHERMOT		-0.42		3358.0		291466
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHH		-1.11		15504.8		1304
+PGHH		-1.04		15516.75		1306
