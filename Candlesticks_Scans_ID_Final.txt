@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.25		4655.0		134588
-INDIGO		-1.1		2559.05		129189
-TORNTPHARM		-0.71		2059.1		26308
+BAJAJ-AUTO		-0.25		4655.0		135221
+DALBHARAT		-1.16		1989.5		26932
