@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.12		240.65		4354484
-BAJAJ-AUTO		-0.34		4650.9		163396
+POWERGRID		0.12		240.65		4361625
+BAJAJ-AUTO		-0.32		4651.55		164001
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARICO		-0.87		580.05		1366473
-TATACOMM		-0.59		1680.85		182586
-GRINDWELL		-0.53		2307.4		8765
+MARICO		-0.86		580.1		1381216
+ADANIGREEN		0.34		974.65		633124
+MGL		-2.87		1034.05		351252
+AETHER		-0.11		1059.45		28142
 BAYERCROP		-1.3		4755.15		8573
