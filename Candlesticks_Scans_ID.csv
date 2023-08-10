@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-M&M,0.86,1547.95,3134689
-UPL,-0.93,609.5,1918068
-SUNPHARMA,-0.48,1147.3,1044986
-BAJFINANCE,-0.08,7119.55,483205
-MARUTI,-0.83,9384.95,421793
-BAJAJ-AUTO,-0.54,4641.45,250933
+M&M,0.75,1546.25,3141795
+SUNPHARMA,-0.48,1147.25,1048892
+BAJFINANCE,-0.13,7116.0,484262
+BAJAJ-AUTO,-0.53,4641.7,251951
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GARFIBRES,-2.32,3131.15,6334
