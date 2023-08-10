@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BAJFINANCE,-0.08,7119.75,530306
-MARUTI,-0.75,9392.0,473086
+INFY,-0.36,1389.4,3448367
+SBILIFE,-0.84,1338.05,660036
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SBILIFE,-0.84,1338.05,660036
