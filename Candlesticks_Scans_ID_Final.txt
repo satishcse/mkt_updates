@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIENT		1.56		2546.25		1050574
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		0.06		3630.9		22558
-ALKEM		-0.26		4216.2		13794
-BAJAJELEC		0.57		1253.85		9896
+DMART		0.06		3631.0		22707
+ALKEM		-0.27		4215.8		13795
