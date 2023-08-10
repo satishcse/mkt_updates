@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		-0.93		4558.3		164373
+BRITANNIA		-0.93		4558.05		165758
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LUPIN		-0.5		1094.0		258909
-GRINDWELL		-0.4		2310.55		5246
+HGS		-2.71		1024.9		43864
+AIAENG		-0.93		3564.95		13926
+CHOLAHLDNG		-0.89		919.8		8078
+GRINDWELL		-0.42		2310.05		5685
