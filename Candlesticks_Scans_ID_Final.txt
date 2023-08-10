@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.21		361.1		3367874
+BPCL		0.25		361.25		3377890
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TMB		-1.96		442.85		75909
+MAZDOCK		-0.64		1806.7		540001
