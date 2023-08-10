@@ -1,13 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCBANK		-0.21		1647.05		2108370
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLICYBZR		-0.68		739.7		210637
-HAVELLS		-0.6		1304.2		52174
-APLLTD		-0.32		783.65		8880
-TIMKEN		-0.7		3413.0		2499
+BHARATFORG		-1.07		952.75		1099415
+MEDPLUS		-0.96		888.3		12965
+AIAENG		-0.74		3572.0		10718
