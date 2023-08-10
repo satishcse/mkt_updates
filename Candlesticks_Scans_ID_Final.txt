@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.75		1546.25		3141795
-SUNPHARMA		-0.48		1147.25		1048892
-BAJFINANCE		-0.13		7116.0		484262
-BAJAJ-AUTO		-0.53		4641.7		251951
+M&M		0.68		1545.25		3146118
+SUNPHARMA		-0.54		1146.55		1049827
+BAJFINANCE		-0.14		7115.15		484808
+BAJAJ-AUTO		-0.61		4638.05		252453
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GARFIBRES		-2.32		3131.15		6334
+
