@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		1.36		179.3		2453832
-NTPC		0.57		219.95		816734
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		-0.88		1129.4		130120
+BHARTIARTL		-0.19		882		148367
+METROPOLIS		-0.16		1425		40761
