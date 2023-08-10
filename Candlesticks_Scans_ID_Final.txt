@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-0.93		2627		239124
-ZYDUSWELL		-1.56		1535		36408
-LALPATHLAB		-0.43		2373		24241
+LT		-0.86		2628.7		240774
+HAL		-0.16		3817.95		177003
+TATACOMM		-0.32		1685.5		121357
+ACI		-1.76		509.4		47583
+CREDITACC		-2.67		1408.45		44888
+SAPPHIRE		-1.53		1356.0		14340
