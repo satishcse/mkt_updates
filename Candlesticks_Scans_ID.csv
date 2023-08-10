@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-M&M,0.64,1544.5,3152160
-SUNPHARMA,-0.51,1146.95,1051091
-BAJFINANCE,-0.14,7115.1,487109
-BAJAJ-AUTO,-0.6,4638.45,252871
+M&M,0.65,1544.65,3156821
+SUNPHARMA,-0.54,1146.55,1051972
+BAJFINANCE,-0.12,7117.05,488004
+BAJAJ-AUTO,-0.59,4638.8,253481
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PNBHOUSING,-1.13,627.4,144801
