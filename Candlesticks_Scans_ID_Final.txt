@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.62		854.85		670555
+TATACONSUM		-0.63		854.75		670629
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INTELLECT		-0.81		682.35		217889
-CENTURYTEX		-2.01		1006.85		122131
-RAINBOW		-0.18		1038.1		108125
+GLENMARK		-1.74		814.15		355567
+METROPOLIS		-0.84		1415.3		264165
+CENTURYTEX		-2.05		1006.5		123275
