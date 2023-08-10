@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.73		4945.2		85338
+APOLLOHOSP		-0.64		4949.5		85806
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		0.01		3629.0		49022
-AIAENG		-0.71		3572.9		11422
-ZFCVINDIA		0.14		13268.5		320
+DMART		0.0		3628.9		49763
+CEATLTD		-0.53		2390.0		21290
+NAVINFLUOR		-0.94		4419.7		14884
+AIAENG		-0.69		3573.65		11440
+GARFIBRES		-0.44		3191.55		1635
+ZFCVINDIA		0.22		13279.35		321
