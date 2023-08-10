@@ -2,14 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.3		1394.4		4090828
+INFY		-0.2		1391.6		12140
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHOPERSTOP		-0.04		805.25		999183
-LODHA		-1.04		710.55		297136
-CENTURYTEX		-1.29		1027.55		120127
-KAJARIACER		-0.02		1457.9		76030
-ABBOTINDIA		-0.11		23749.1		23572
-LAXMIMACH		-0.99		13241.25		5070
+
