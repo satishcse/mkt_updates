@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.62		1544.3		3170828
-SUNPHARMA		-0.43		1147.8		1057692
-BAJFINANCE		-0.14		7115.5		490224
-BAJAJ-AUTO		-0.6		4638.5		255313
+M&M		0.56		1543.35		3175450
+SUNPHARMA		-0.49		1147.15		1059252
+BAJFINANCE		-0.15		7114.6		490578
+BAJAJ-AUTO		-0.61		4638.3		255472
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SIEMENS		-1.75		3666.9		237606
+KSB		0.24		2590.65		48976
