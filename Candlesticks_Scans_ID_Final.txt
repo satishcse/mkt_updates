@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.19		240.8		4297312
-HCLTECH		-0.72		1135.95		703094
-TATACONSUM		-0.91		852.35		466810
-MARUTI		-0.75		9392.2		258409
-DRREDDY		-0.08		5866.2		247244
+MARUTI		-0.77		9390.4		259276
+DRREDDY		-0.1		5865.15		247437
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJAGRO		-1		485.9		78330
+GODREJAGRO		-1.0		485.9		78330
+ABBOTINDIA		0.54		23876.65		41610
