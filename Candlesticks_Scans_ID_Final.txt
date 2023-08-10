@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-1.0		940.5		9034399
-KOTAKBANK		-1.47		1804.55		2898490
-HCLTECH		-0.82		1134.75		1066306
-HDFCLIFE		-0.85		640.3		884279
+AXISBANK		-1.01		940.45		9055936
+KOTAKBANK		-1.45		1804.9		2902783
+HCLTECH		-0.76		1135.4		1069218
+HDFCLIFE		-0.75		640.95		886640
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PVRINOX		-1.31		1618.8		624712
+
