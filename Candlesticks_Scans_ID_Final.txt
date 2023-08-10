@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		1.61		2547.5		3023438
-TATACONSUM		-0.95		852.0		409706
+ADANIENT		1.64		2548.1		3035059
+TATACONSUM		-0.91		852.35		410110
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AETHER		-0.04		1060.25		24012
-SCHAEFFLER		-0.39		3028.75		8218
-BAYERCROP		-0.75		4781.8		5779
+SCHAEFFLER		-0.38		3029.1		8240
+BAYERCROP		-0.73		4782.75		5780
