@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		0.45		3428.0		499376
-BAJAJ-AUTO		-0.6		4638.65		243727
+EICHERMOT		0.45		3428.05		500519
+BAJAJ-AUTO		-0.63		4637.0		243968
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRESTIGE		-4.47		560.2		907015
-BIKAJI		-0.94		486.95		268595
-VINATIORGA		-0.47		1865.8		18107
+PRESTIGE		-4.48		560.15		907477
+BIKAJI		-0.8		487.6		268901
