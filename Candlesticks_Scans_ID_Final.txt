@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-1.25		4919.0		158784
-KEI		-1.16		2384.9		47560
+APOLLOHOSP		-1.25		4919		159605
