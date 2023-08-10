@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TCS		-0.59		3441.95		346948
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGO		-1.18		2557.0		123367
-MCX		-1.42		1594.45		90132
-TORNTPHARM		-0.86		2056.0		25971
+DALBHARAT		-1.14		1990		26248
