@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.62		4950.7		87910
+ADANIENT		1.44		2543.2		1435713
+BRITANNIA		-0.95		4557.25		149747
+BAJAJ-AUTO		0.46		4687.9		92616
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CDSL		-0.67		1215.0		125237
-PNBHOUSING		0.26		636.2		37714
-NAVINFLUOR		-0.78		4427.0		15523
-ZFCVINDIA		0.23		13279.9		333
+MCX		-0.89		1603.0		37995
+AIAENG		-0.89		3566.3		12916
