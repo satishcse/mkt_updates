@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.36		1389.4		3448367
-SBILIFE		-0.84		1338.05		660036
+GRASIM		-0.8		1830.9		635733
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SBILIFE		-0.84		1338.05		660036
+METROPOLIS		-1.33		1408.3		307818
