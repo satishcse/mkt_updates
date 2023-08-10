@@ -2,16 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.3		1149.35		393422
+SUNPHARMA		-0.45		1147.6		395745
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		-1.22		1125.55		300777
-TATACONSUM		-1.12		850.6		255713
-HEG		-0.2		1738.0		45552
-INDIGOPNTS		-1.08		1582.0		23303
-MEDPLUS		-1.58		882.8		21537
-POLYPLEX		0.04		1258.55		17379
-SAPPHIRE		-1.46		1356.9		14514
-FINEORG		0.13		4595.45		3515
+KPITTECH		-1.13		1126.55		301799
+HEG		-0.23		1737.55		45628
+INDIGOPNTS		-1.09		1581.8		23360
+ATUL		-0.71		6849.95		8309
+FINEORG		0.12		4595.1		3526
