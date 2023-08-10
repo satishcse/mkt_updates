@@ -2,8 +2,23 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.2		1391.6		12140
+WIPRO		-0.13		417.25		110338
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AARTIIND		-0.81		469.35		78923
+SOBHA		1.93		592.0		20619
+DEEPAKFERT		1.01		554.75		17205
+APOLLOHOSP		-0.23		4969.8		10319
+SIEMENS		0.21		3740.0		8972
+VIJAYA		-0.25		486.9		7472
+MCX		-0.52		1609.05		2907
+ESCORTS		0.31		2596.7		1903
+SOLARINDS		0.36		3970.0		1360
+ALKYLAMINE		0.6		2338.9		441
+WESTLIFE		0.46		921.95		436
+LINDEINDIA		0.47		4970.0		405
+RUSTOMJEE		1.09		613.5		276
+MRF		0.06		106479.45		211
+CRISIL		0.04		3849.5		69
