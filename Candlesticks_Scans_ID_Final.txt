@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AXISBANK		-0.41		946.1		2454911
-CENTURYTEX		-1.55		1011.6		60440
-VINATIORGA		0.0		1874.75		4709
+ICICIBANK		-1.01		962.85		4110403
+HAL		-0.16		3818.0		174753
+CENTURYTEX		-1.56		1011.55		60800
+RHIM		0.01		678.95		55936
+SAPPHIRE		-1.67		1354.0		13742
