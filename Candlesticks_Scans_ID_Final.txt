@@ -2,11 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.02		178.7		9878086
+GRASIM		-0.8		1830.95		662212
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LATENTVIEW		-1.22		396.35		3546745
-KPITTECH		-1.75		1119.5		597876
-METROPOLIS		-1.36		1408.0		315762
+LATENTVIEW		-1.35		395.85		3554310
+NLCINDIA		-0.98		131.35		3328736
+KPITTECH		-1.75		1119.5		601927
+EIDPARRY		-2.54		458.75		601557
+RAMCOCEM		-0.92		856.45		388047
+METROPOLIS		-1.35		1408.05		316068
+JKLAKSHMI		-2.23		638.95		225460
+CEATLTD		-2.96		2331.65		129604
