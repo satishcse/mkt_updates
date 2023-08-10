@@ -2,11 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-1.01		940.45		9055936
-KOTAKBANK		-1.45		1804.9		2902783
-HCLTECH		-0.76		1135.4		1069218
-HDFCLIFE		-0.75		640.95		886640
+AXISBANK		-1.0		940.5		9082239
+KOTAKBANK		-1.38		1806.15		2921641
+HCLTECH		-0.76		1135.4		1070582
+HDFCLIFE		-0.72		641.15		887351
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KOTAKBANK		-1.32		1807.4		2935661
+AUBANK		-2.54		699.15		2343294
+BAJAJ-AUTO		-0.54		4641.35		231578
+UTIAMC		-0.88		767.95		75561
+PAGEIND		-0.79		38732.2		8604
