@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		-1.16		21961		24604
+DRREDDY		0.04		5873.35		284451
+NESTLEIND		-1.1		21975.0		28641
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-0.58		1681.1		213796
+TATACOMM		-0.59		1680.85		214034
+GMMPFAUDLR		0.12		1451.2		35578
