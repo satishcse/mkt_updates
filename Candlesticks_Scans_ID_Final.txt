@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-1.19		4922.0		161757
-JUBLINGREA		-1.11		428.25		129995
-TEAMLEASE		-0.82		2335.2		2463
+APOLLOHOSP		-1.19		4921.9		162109
+JUBLINGREA		-1.13		428.15		133685
+RADICO		0.71		1374.45		56512
