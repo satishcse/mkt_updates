@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-AXISBANK,-0.99,940.55,9003414
-KOTAKBANK,-1.39,1806.05,2878814
-HCLTECH,-0.83,1134.7,1063897
-HDFCLIFE,-0.88,640.1,883344
+AXISBANK,-1.0,940.5,9034399
+KOTAKBANK,-1.47,1804.55,2898490
+HCLTECH,-0.82,1134.75,1066306
+HDFCLIFE,-0.85,640.3,884279
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PVRINOX,-1.31,1618.8,624712
