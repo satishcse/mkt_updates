@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.71		854.1		641684
-BAJFINANCE		0.03		7127.35		408451
-BAJAJ-AUTO		-0.38		4649.0		209015
+TATACONSUM		-0.72		854.05		642559
+BAJFINANCE		-0.02		7124.2		408892
+BAJAJ-AUTO		-0.35		4650.05		209347
 
 Bullish_Hammer_15m_N500								 
 ======================= 
