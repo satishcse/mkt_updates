@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVRINOX		-0.02		1640		235744
+PVRINOX		-0.02		1639.95		251381
+KAJARIACER		-0.82		1446.0		39034
+ALKEM		-0.34		4213.0		13432
+SHREECEM		-0.7		24159.95		2431
