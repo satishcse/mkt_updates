@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		-1.07		21980.15		24456
+NESTLEIND		-1.13		21967.8		24573
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		-0.38		3614.9		183116
-MAPMYINDIA		-0.92		1587.05		118720
-GMMPFAUDLR		0.12		1451.2		35393
-BAJAJELEC		-0.46		1241.0		28965
+TATACOMM		-0.58		1681.1		213167
