@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.32		218		7274978
+TATACONSUM		-0.62		854.9		637931
+BAJAJ-AUTO		-0.33		4651.3		207690
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GRINDWELL		-1.33		2289		10875
