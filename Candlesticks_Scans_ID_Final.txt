@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.56		2539.45		5052151
+RELIANCE		0.58		2539.85		5070067
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		-0.64		2498.75		26245
+TORNTPHARM		-2.14		2029.4		61382
