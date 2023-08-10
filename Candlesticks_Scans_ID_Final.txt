@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.12		120.05		12059187
-COALINDIA		0.66		236.3		3768422
-ADANIENT		1.62		2547.8		3104942
-HINDALCO		-0.57		466.25		1862062
+ADANIENT		1.69		2549.55		3118022
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+APOLLOHOSP		-1.29		4917		155459
