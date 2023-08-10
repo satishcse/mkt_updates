@@ -1,13 +1,17 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBIN		-0.26		572.25		21697717
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-1.31		2332.4		224837
-LTTS		-1.43		4225.45		129002
-TORNTPHARM		-2.11		2030.0		62114
-BOSCHLTD		-0.64		18193.8		15514
-GRINDWELL		-1.34		2288.7		15385
+MARUTI		-1.05		9363.95		402737
+MPHASIS		-1.24		2333.95		226462
+MCDOWELL-N		-0.84		1010.0		169833
+MAPMYINDIA		-1.25		1581.7		168931
+BEML		-2.26		1980.0		144969
+ABB		-0.48		4499.05		128236
+TORNTPHARM		-2.08		2030.65		62234
+BOSCHLTD		-0.64		18193.8		15548
