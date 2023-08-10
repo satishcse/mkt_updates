@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		0.05		3630.55		23360
+POLYCAB		-0.51		4660.0		67335
+HAVELLS		-0.59		1304.25		51867
+DMART		0.06		3630.75		23527
+ALKEM		-0.38		4211.25		13904
