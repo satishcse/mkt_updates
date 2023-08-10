@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		-0.93		4558.1		150477
+BRITANNIA		-0.93		4558		151376
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-0.88		1603.1		38022
-ABBOTINDIA		1.12		24013.9		33869
-ALKEM		-0.53		4204.9		22228
+HGS		-2.71		1024.95		42835
+MCX		-0.88		1603.2		38974
+ALKEM		-0.64		4200.05		22364
+BAJAJELEC		0.42		1251.9		12016
 3MINDIA		-0.07		26810.15		1089
