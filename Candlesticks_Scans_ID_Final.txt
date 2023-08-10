@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		2.21		2562.5		4990225
-TCS		-0.56		3442.95		632136
+ADANIENT		2.1		2559.8		5035108
+TCS		-0.62		3441.15		634059
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATACOMM		-0.76		1678		253717
+
