@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		-0.77		9390.15		261266
-DRREDDY		-0.08		5866.5		248285
+MARUTI		-0.76		9390.8		261776
+DRREDDY		-0.07		5867.1		248483
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJAGRO		-0.98		486.0		78715
-ABBOTINDIA		0.64		23901.75		41693
+ICICIGI		-2.44		1360		892376
+ABBOTINDIA		0.64		23900		41695
