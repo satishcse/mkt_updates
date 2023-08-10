@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.1		240.6		4378018
+POWERGRID		-0.08		240.15		4460840
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		0.54		976.5		643714
-RAMCOCEM		-0.53		859.8		243970
-AETHER		-0.06		1060.0		28370
+AETHER		-0.06		1060.0		28460
+GRINDWELL		-0.51		2307.9		8825
