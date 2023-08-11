@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.08		119.9		5949835
-HDFCLIFE		0.03		640.2		158897
+TATASTEEL		-0.04		119.95		5997972
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBMA		-2.6		1248.9		66368
-JBCHEPHARM		0.15		2714.85		10113
-VINATIORGA		-0.05		1861.25		2865
+JBCHEPHARM		0.15		2715.05		10244
+MEDPLUS		-0.53		866.0		7757
