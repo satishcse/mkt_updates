@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BPCL		-0.81		359.7		767317
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCNSBRANDS		-1.12		433.8		161214
-SKFINDIA		-0.43		5086.8		1683
+DIXON		-0.1		4796.0		194317
+TCNSBRANDS		-1.09		433.9		163945
+SKFINDIA		-0.29		5094.3		1722
