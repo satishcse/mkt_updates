@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		0.0		120.0		5077153
+SBIN		0.13		574.4		2107201
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.95		1139.35		258124
-BRIGADE		-1.37		589.8		25541
+AFFLE		-1.67		1081.9		61554
+FINEORG		-0.19		4574.95		1140
