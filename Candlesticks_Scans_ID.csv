@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,0.32,575.5,7840030
-KOTAKBANK,-0.84,1785.75,2189799
-INDUSINDBK,-1.62,1407.0,770475
+KOTAKBANK,-0.84,1785.7,2197727
+INDUSINDBK,-1.58,1407.6,826501
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+JBMA,-3.65,1235.45,130951
+TORNTPHARM,-1.55,1998.9,70514
