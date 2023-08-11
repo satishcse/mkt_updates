@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-0.91		1224.5		1066251
-TEJASNET		-0.09		818.95		62241
-MEDPLUS		-0.7		864.5		11572
-RATNAMANI		-0.49		2608.05		1910
+LALPATHLAB		-1.52		2324.65		61487
+BAJAJELEC		-2.22		1192.95		45610
