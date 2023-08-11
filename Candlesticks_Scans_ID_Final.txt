@@ -5,13 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAXHEALTH		-2.4		536.75		1880862
-ICICIGI		-2.77		1355.45		1588599
-TATACONSUM		-1.12		850.55		941390
-MANYAVAR		-1.38		1267.75		294329
-CEATLTD		-3.06		2329.4		138090
-GODREJIND		-1.31		493.35		130919
-CCL		0.11		611.9		108702
-CAMS		0.29		2412.9		85651
-SCHAEFFLER		-0.86		3014.55		26811
+
