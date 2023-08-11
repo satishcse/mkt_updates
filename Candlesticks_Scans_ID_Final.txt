@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.92		177.0		2104979
-LT		-0.13		2640.15		652552
+ONGC		-0.95		176.95		2115679
+LT		-0.1		2640.95		654383
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SBICARD		-0.42		868.4		350574
