@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.15		234.55		4340949
-UPL		-1.28		601.85		1152360
+COALINDIA		-0.19		234.45		4346417
+UPL		-1.27		601.9		1154789
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-0.76		1154.85		302731
-DIVISLAB		-1.52		3688.75		253067
+VINATIORGA		-1.8		1828.75		34481
