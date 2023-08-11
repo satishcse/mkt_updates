@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-1.38		820.05		2962654
-GRASIM		-0.3		1824.8		689113
+ITC		-0.64		448.85		10257270
+JSWSTEEL		-1.32		820.55		2973893
+GRASIM		-0.31		1824.7		690024
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-0.93		2555.1		1032308
-DIVISLAB		-1.65		3683.8		294879
+ALKEM		-7.38		3835.95		864420
+DIVISLAB		-1.65		3683.8		295987
+PGHH		-1.78		15342.35		2023
