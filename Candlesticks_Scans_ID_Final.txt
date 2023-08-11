@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.13		4916.2		940109
-EICHERMOT		-0.41		3400.6		283183
+APOLLOHOSP		-0.13		4915.9		943121
+EICHERMOT		-0.41		3400.7		284829
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VMART		-2.11		2338.15		27666
-ABBOTINDIA		-0.26		23826.8		9701
+SHRIRAMFIN		-1.97		1814.25		826202
+CCL		-0.87		606.55		72398
+VMART		-2.1		2338.35		27673
