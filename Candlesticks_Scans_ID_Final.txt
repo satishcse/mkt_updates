@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.39		177.95		2934043
+EICHERMOT		-0.37		3401.9		274287
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHRIRAMFIN		-1.97		1814.3		800008
