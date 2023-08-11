@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.31		2528.7		2330573
-SBILIFE		-1.38		1315.95		379132
+SBIN		0.29		575.3		7604499
+COALINDIA		-0.4		233.95		2715260
+KOTAKBANK		-0.71		1788.0		2165448
+INDUSINDBK		-1.54		1408.2		760218
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INGERRAND		-1.17		2970.25		9585
+
