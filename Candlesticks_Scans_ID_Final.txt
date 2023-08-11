@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.42		449.85		2739947
+ITC		-0.44		449.75		2763033
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.43		21894.95		10907
-BAYERCROP		-0.37		4763.3		1840
+JINDWORLD		-1.26		367		197924
