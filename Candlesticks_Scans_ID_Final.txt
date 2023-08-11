@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		-1.35		2328.65		64135
-BAJAJELEC		-2.14		1193.95		45910
-RATNAMANI		-0.45		2609.0		1978
+BAJAJELEC		-2.14		1194		46009
+RATNAMANI		-0.45		2609		1978
