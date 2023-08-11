@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.29		2529.2		2074708
-KOTAKBANK		-0.85		1785.6		2057515
-HINDUNILVR		-1.05		2510.05		604236
-SBILIFE		-1.19		1318.5		323795
+RELIANCE		-0.37		2527.0		2107441
+KOTAKBANK		-0.82		1786.0		2062128
+SBILIFE		-1.19		1318.45		329353
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TECHM		-1.28		1220.0		1468214
+TVSMOTOR		-0.38		1344.45		283985
