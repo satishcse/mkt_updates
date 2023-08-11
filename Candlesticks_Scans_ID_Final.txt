@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.19		804.35		6153822
+ADANIPORTS		0.22		804.55		6168082
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPIL		-0.45		642.0		173069
-INDIAMART		-0.61		3140.75		53052
+KPIL		-0.34		642.7		177144
+NAUKRI		-0.67		4618.35		98280
+BLUESTARCO		-0.66		744.55		27261
