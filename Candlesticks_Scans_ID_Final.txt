@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.17		358.4		1797032
-CIPLA		-0.41		1253.8		916049
+BPCL		-1.21		358.25		1799243
+CIPLA		-0.41		1253.85		917614
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CANFINHOME		-2.43		733		3301764
+CANFINHOME		-2.45		732.85		3310319
