@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.33		119.6		5544540
-SBIN		0.12		574.35		2342228
-HDFCLIFE		0.01		640.05		155714
+TATASTEEL		-0.08		119.9		5949835
+HDFCLIFE		0.03		640.2		158897
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.44		1628.7		1670648
-HEROMOTOCO		-1.25		2998.0		255819
-KEI		-0.31		2358.8		16303
-JBCHEPHARM		0.12		2714.2		10104
-BLUEDART		-0.33		6247.35		586
+JBMA		-2.6		1248.9		66368
+JBCHEPHARM		0.15		2714.85		10113
+VINATIORGA		-0.05		1861.25		2865
