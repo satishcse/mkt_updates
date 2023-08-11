@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.8		956.4		8123860
+ICICIBANK		-0.74		957		8542952
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AUROPHARMA		-1.52		860.5		974588
+SBILIFE		-1.99		1307.8		539102
