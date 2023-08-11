@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.53		615		6919631
+TATAMOTORS		-0.54		614.9		6931890
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		-1.12		3558.0		522255
-CDSL		-0.4		1195.0		326817
-AJANTPHARM		-1.85		1713.65		54015
+CDSL		-0.4		1195.0		327556
 PGHH		-1.49		15387.15		1831
