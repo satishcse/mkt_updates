@@ -1,12 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-JSWSTEEL		-1.36		820.2		3081415
-APOLLOHOSP		-0.52		4897.1		1017639
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JBMA		-3.84		1233.1		191443
-INDIGOPNTS		-1.25		1548.0		52114
+
