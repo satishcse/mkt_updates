@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.36		2561.6		4143655
-COALINDIA		-0.32		234.15		3455884
-KOTAKBANK		-0.43		1793.1		2648869
+ADANIENT		0.35		2561.25		4159819
+COALINDIA		-0.32		234.15		3468224
+KOTAKBANK		-0.51		1791.6		2655994
+DIVISLAB		-1.43		3692.05		209330
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		-0.55		5819		254858
+VMART		-0.61		2374		24320
