@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.42		120.5		19508008
-UPL		-1.22		602.2		1127104
-EICHERMOT		-0.39		3401.3		241170
+TATASTEEL		0.46		120.55		19528771
+ONGC		-0.64		177.5		2694150
+UPL		-1.29		601.8		1131999
+EICHERMOT		-0.41		3400.7		241737
 
 Bullish_Hammer_15m_N500								 
 ======================= 
