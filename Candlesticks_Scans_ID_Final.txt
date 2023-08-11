@@ -1,14 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		0		120		6088359
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SBILIFE		-1.05		1320.4		226973
-SUNTECK		0.22		372.6		96587
-JBMA		-1.91		1257.8		69287
-KEI		-0.29		2359.1		17595
-VINATIORGA		0.17		1865.5		3213
+RAINBOW		-0.54		1022.1		21799
+RATNAMANI		-0.58		2605.6		1897
