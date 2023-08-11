@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.59		1790.3		2663345
-DIVISLAB		-1.39		3693.5		209730
+KOTAKBANK		-0.65		1789.1		2701483
+SUNPHARMA		-1.59		1132.05		1063970
+DIVISLAB		-1.45		3691.25		210835
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VMART		-0.61		2374		24320
+
