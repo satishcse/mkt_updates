@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.05		640.3		396093
+ICICIBANK		-0.71		957.3		8005940
+HDFCLIFE		0.04		640.25		397253
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUROPHARMA		-1.51		860.55		968643
+MCDOWELL-N		-1.94		991.25		295370
+MEDPLUS		-2.81		846.15		46840
