@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.1		244.45		11879200
-HCLTECH		3.9		1178.55		5755969
-INFY		-1.12		1373.5		3327425
+POWERGRID		1.1		244.45		11905934
+HCLTECH		3.91		1178.6		5782181
+INFY		-1.19		1372.55		3334571
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLENMARK		-1.64		797.1		380735
-TTKPRESTIG		-1.34		772.1		80733
-JBCHEPHARM		-1.51		2669.95		52718
+GLENMARK		-1.56		797.75		381859
+TTKPRESTIG		-1.6		770.0		81654
 NAZARA		-0.29		673.15		40977
