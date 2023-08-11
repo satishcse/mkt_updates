@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.91		244		9937225
+POWERGRID		0.93		244.05		10031531
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLICYBZR		-1.03		723.7		490074
+SUPREMEIND		4.37		4019.3		2188765
+DMART		-0.98		3563.0		211652
+ROUTE		-0.16		1516.95		113939
