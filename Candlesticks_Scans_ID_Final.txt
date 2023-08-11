@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.28		2559.45		5235717
-BPCL		-1.13		358.55		1767398
-CIPLA		-0.36		1254.4		903324
+ADANIENT		0.3		2560.05		5265813
+BPCL		-1.13		358.55		1769394
+CIPLA		-0.41		1253.85		905367
 
 Bullish_Hammer_15m_N500								 
 ======================= 
