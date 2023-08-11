@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.18		617.15		5196684
-ONGC		-0.98		176.9		2161637
-HDFCLIFE		0.05		640.3		461955
+TATAMOTORS		-0.2		617.0		5204827
+ADANIPORTS		0.25		804.8		5017204
+ONGC		-1.04		176.8		2166201
+HDFCLIFE		0.05		640.35		462436
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATUL		-0.19		6830.0		14947
+ATUL		-0.14		6833.95		14951
 KENNAMET		-2.51		2794.9		7643
