@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.8		1786.4		2241235
-INDUSINDBK		-1.64		1406.8		838855
+KOTAKBANK		-0.83		1785.9		2250946
+INDUSINDBK		-1.57		1407.75		841107
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBMA		-3.53		1237.0		132743
-JKCEMENT		-2.91		3239.3		108781
-METROPOLIS		-1.01		1394.8		53514
-ALKYLAMINE		0.18		2337.05		8579
+FINCABLES		0.07		1089.45		134707
+JKCEMENT		-2.76		3244.05		110125
+TORNTPHARM		-1.56		1998.8		75621
