@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BPCL,-0.77,359.85,874084
-M&M,0.27,1549.55,663801
-BHARTIARTL,-0.78,868.0,621133
-SBILIFE,-1.18,1318.6,290425
+NTPC,-0.74,215.8,1719385
+M&M,0.2,1548.55,678975
+BHARTIARTL,-0.78,868.0,652801
+SBILIFE,-1.17,1318.75,294727
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+DELHIVERY,1.03,425.0,619546
+HDFCAMC,-0.69,2561.3,536056
