@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.26		447.6		2800829
-BHARTIARTL		-1.33		859.0		1105122
+ITC		-0.33		447.25		2874132
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIMKEN		-4.61		3245		128980
+TANLA		-0.27		1109.5		341696
