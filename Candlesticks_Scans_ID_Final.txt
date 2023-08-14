@@ -2,17 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.41		357.55		2789401
+BPCL		0.13		358		3290
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFC		-1.12		264.05		19807328
-NATCOPHARM		-3.17		848.25		834032
-CDSL		-0.56		1193.05		386851
-SUNTECK		-0.4		370.3		332984
-BAJAJELEC		-2.93		1184.25		105436
-MANYAVAR		-0.06		1267.05		78109
-OFSS		-0.32		3958.4		53114
-TCIEXP		-0.92		1423.2		34113
-BASF		-0.15		2547.7		15141
+NATCOPHARM		-0.37		845.1		1148
