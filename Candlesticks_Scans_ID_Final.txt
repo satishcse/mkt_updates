@@ -1,10 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BPCL		0.13		358		3290
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		-0.37		845.1		1148
+ADANITRANS		-2.06		814.55		134453
+CGPOWER		-0.15		403.35		51449
+RADICO		-2.39		1307.25		21947
+JUSTDIAL		-0.99		762.7		6400
+BLUESTARCO		0.16		743.3		2172
+IFBIND		0.36		832.85		1073
+PGHH		-0.02		15280.95		31
