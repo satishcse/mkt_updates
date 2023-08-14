@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.93		600.0		6575104
-ICICIBANK		-0.18		951.1		2965721
-COALINDIA		-0.83		232.95		2917662
-WIPRO		-0.67		410.3		1082075
-LT		-0.32		2629.95		364353
+TATAMOTORS		-1.94		599.95		6590052
+ICICIBANK		-0.18		951.15		2973486
+COALINDIA		-0.75		233.15		2930441
+WIPRO		-0.67		410.3		1083441
+LT		-0.25		2631.95		366527
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-1.03		1356.4		60067
+BEML		-1.59		1934		77236
