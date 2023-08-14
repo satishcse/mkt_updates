@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.45		7028.55		430482
-DRREDDY		0.29		5839.85		256395
-NESTLEIND		0.15		21874.6		30827
+ITC		-0.4		446.95		4187090
+UPL		-1.74		589.25		1546742
+LT		0.41		2649.4		871652
+ASIANPAINT		0.69		3207.3		544532
+DRREDDY		0.28		5839.15		258869
 
 Bullish_Hammer_15m_N500								 
 ======================= 
