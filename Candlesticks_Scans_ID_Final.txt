@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.74		8073		469034
+ULTRACEMCO		-0.74		8073		469261
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FIVESTAR		-2.53		789.55		362446
+FIVESTAR		-2.65		788.6		364886
