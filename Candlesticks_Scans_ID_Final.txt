@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.02		232.5		2642426
-POWERGRID		-0.86		242.2		2050061
-BAJFINANCE		-1.05		6986.65		221019
+COALINDIA		-1.04		232.45		2663230
+BAJFINANCE		-1.04		6986.85		221917
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SONACOMS		-3.01		538.95		688500
