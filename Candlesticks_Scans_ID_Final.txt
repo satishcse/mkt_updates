@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-2.78		2469.0		8125571
-APOLLOHOSP		-1.97		4809.4		724426
+ADANIENT		-2.76		2469.3		8139832
+APOLLOHOSP		-2.04		4806.0		725325
+CIPLA		-0.84		1239.75		585407
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FIVESTAR		-1.3		799.5		313164
+FIVESTAR		-1.3		799.55		313209
