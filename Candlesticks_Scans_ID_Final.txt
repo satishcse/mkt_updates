@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.05		353.8		896117
+TATASTEEL		-1.25		118.8		7972379
+ASIANPAINT		-0.53		3168.35		212230
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		-5.67		4270		303986
+TIINDIA		-0.88		2825.05		31363
+GUJALKALI		-1.44		637.4		25668
