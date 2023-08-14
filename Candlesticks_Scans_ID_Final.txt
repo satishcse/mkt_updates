@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-1.24		859.75		809927
-ULTRACEMCO		-0.81		8067.0		353940
+BHARTIARTL		-1.28		859.4		818492
+ULTRACEMCO		-0.75		8071.6		354332
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBMA		-3.18		1189.85		108746
+JBMA		-3.08		1191		109130
