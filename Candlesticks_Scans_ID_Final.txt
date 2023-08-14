@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BHARTIARTL		-1.21		860		1038183
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIMKEN		-4.55		3246.95		124072
+TIMKEN		-4.51		3248.15		124209
+CHALET		-1.74		483.65		104225
+PGHH		-0.6		15192.4		608
