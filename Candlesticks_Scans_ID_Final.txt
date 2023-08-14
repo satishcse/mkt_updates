@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-3.15		2459.45		5947526
-ITC		-0.4		446.95		2955546
+ADANIENT		-3.13		2459.9		5963469
+ITC		-0.4		446.95		2966676
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JUBLPHARMA		-1.66		439.55		263331
