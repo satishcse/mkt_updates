@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-1.07		6984.75		225213
+BAJFINANCE		-1.06		6985.45		225535
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONACOMS		-2.83		539.9		706568
+SONACOMS		-2.76		540.3		712399
