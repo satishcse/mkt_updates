@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-3.28		2456.1		7796344
-DRREDDY		0.27		5838.7		255937
+BAJFINANCE		-0.45		7028.55		430482
+DRREDDY		0.29		5839.85		256395
+NESTLEIND		0.15		21874.6		30827
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BIRLACORPN		-5.88		1076		206756
-HONAUT		-1.74		41300		1040
+
