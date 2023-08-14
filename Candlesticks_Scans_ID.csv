@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,0.04,244.4,4975564
-APOLLOHOSP,-1.98,4809.05,730003
-CIPLA,-0.87,1239.35,603787
-BRITANNIA,-0.58,4484.05,429926
+POWERGRID,0.04,244.4,4988332
+APOLLOHOSP,-1.96,4810.0,730520
+CIPLA,-0.87,1239.3,604796
+BRITANNIA,-0.61,4483.0,430093
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HAVELLS,-1.98,1275.1,415338
+FIVESTAR,-1.03,801.7,318270
