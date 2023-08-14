@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.83		8065.65		350924
+ULTRACEMCO		-0.89		8060.2		351889
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RUSTOMJEE		-1.73		591.05		9544
+
