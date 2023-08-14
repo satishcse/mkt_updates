@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HINDUNILVR		0.92		2524.8		544722
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SWSOLAR		-1.13		365.9		837180
+FIVESTAR		0.85		816.9		246120
+ICICIGI		-1.03		1356.5		150172
