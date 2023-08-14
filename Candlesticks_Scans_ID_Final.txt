@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.89		606.35		11189375
-ULTRACEMCO		-0.73		8073.95		468537
+ULTRACEMCO		-0.74		8073		469034
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FIVESTAR		-2.53		789.55		362446
