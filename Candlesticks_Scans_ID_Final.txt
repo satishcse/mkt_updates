@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.4		446.95		4274265
-DRREDDY		0.24		5837.1		262610
+POWERGRID		-0.04		244.2		4660307
+DRREDDY		0.25		5837.45		263439
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SWANENERGY		0.5		270.75		1797494
