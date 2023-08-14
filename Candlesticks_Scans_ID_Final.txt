@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.4		446.95		4187090
-UPL		-1.74		589.25		1546742
-LT		0.41		2649.4		871652
-ASIANPAINT		0.69		3207.3		544532
-DRREDDY		0.28		5839.15		258869
+TATASTEEL		-1.87		118.05		20737919
+ONGC		0.96		178.9		9648320
+LT		0.41		2649.2		874315
+ASIANPAINT		0.71		3208.0		548057
+DRREDDY		0.27		5838.5		259504
 
 Bullish_Hammer_15m_N500								 
 ======================= 
