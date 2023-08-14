@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.87		178.75		9434267
-ADANIENT		-2.73		2470.1		7521393
-POWERGRID		-0.1		244.05		4313596
-JSWSTEEL		-2.77		797.9		1339485
-MARUTI		-0.29		9330.0		206394
+SBIN		-2.43		560.2		17255253
+ADANIENT		-2.76		2469.4		7540778
+POWERGRID		-0.08		244.1		4329760
+JSWSTEEL		-2.71		798.4		1341182
 
 Bullish_Hammer_15m_N500								 
 ======================= 
