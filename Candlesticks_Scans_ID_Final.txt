@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.13		954.05		3496582
-AXISBANK		-0.23		935.0		1843334
-LT		0.29		2646.2		474195
+AXISBANK		-0.23		935.05		1849612
+LT		0.24		2644.75		477179
+BAJAJ-AUTO		-0.66		4568.65		62952
 
 Bullish_Hammer_15m_N500								 
 ======================= 
