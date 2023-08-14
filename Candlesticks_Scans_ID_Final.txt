@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-2.42		560.25		17498215
-ADANIENT		-2.95		2464.7		7615826
-BHARTIARTL		-0.82		863.45		1586565
-DRREDDY		0.21		5835.15		250908
+ADANIENT		-3.15		2459.4		7656768
+DRREDDY		0.24		5836.8		251348
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-1.74		41299.95		1028
+HONAUT		-1.74		41299.95		1029
