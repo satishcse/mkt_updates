@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.56		178.2		10857015
-HINDALCO		-2.32		451.7		3991014
+ONGC		0.51		178.1		10886953
+HINDALCO		-2.31		451.75		3993840
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-1.41		2875		186880
-GRINFRA		-1.27		1265		85537
+GRINFRA		-1.03		1268		86567
