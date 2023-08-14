@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.84		1239.7		607010
-ASIANPAINT		0.62		3205.15		594803
-GRASIM		-0.86		1811.9		419375
-TITAN		0.02		3017.75		406197
-MARUTI		-0.23		9335.0		237165
+CIPLA		-0.82		1239.9		607772
+ASIANPAINT		0.63		3205.55		595903
+GRASIM		-0.9		1811.05		419996
+TITAN		-0.07		3015.2		407133
+MARUTI		-0.23		9335.0		237768
 
 Bullish_Hammer_15m_N500								 
 ======================= 
