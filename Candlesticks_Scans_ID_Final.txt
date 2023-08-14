@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ICICIBANK		-0.26		950.35		1504358
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RHIM		0.62		728.75		468101
-GESHIP		-4.09		732.2		117192
+RHIM		0.95		731.15		472689
+GESHIP		-4.05		732.5		118048
+BEML		-0.71		1951.15		55402
