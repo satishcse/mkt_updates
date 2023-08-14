@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.48		178.05		10973304
+ONGC		0.37		177.85		11004347
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSLIFE		-1.94		638.35		1130130
-GRINFRA		-0.96		1269.0		86705
-GALAXYSURF		-3.97		2601.5		24528
+GALAXYSURF		-3.97		2601.5		24532
