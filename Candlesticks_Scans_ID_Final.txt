@@ -6,5 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDRMFAST		-1.64		1184.7		6567
-VMART		-3.07		2266.65		2401
+SHYAMMETL		-0.8		461.15		203342
+SHRIRAMFIN		-1.48		1781.15		70248
+MEDANTA		-0.35		675.1		46432
+SUNDRMFAST		-1.64		1184.7		6640
+SOLARINDS		-0.21		4064.95		5214
+KIMS		-0.38		1856.7		5186
