@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.19		935.4		1740995
-INFY		0.23		1374.95		1286497
+ICICIBANK		0.13		954.05		3496582
+AXISBANK		-0.23		935.0		1843334
+LT		0.29		2646.2		474195
 
 Bullish_Hammer_15m_N500								 
 ======================= 
