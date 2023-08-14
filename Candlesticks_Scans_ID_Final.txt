@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-1.56		1623.95		28804
+RAMCOCEM		-1.06		845.7		16922
+SOLARINDS		-0.22		4064.8		5649
+GRINDWELL		-0.47		2257.9		3676
