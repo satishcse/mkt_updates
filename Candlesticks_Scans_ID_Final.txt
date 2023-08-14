@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-1.99		4808.45		726962
-CIPLA		-0.82		1239.95		591067
+APOLLOHOSP		-1.99		4808.55		727337
+BRITANNIA		-0.61		4482.85		428223
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HAVELLS		-1.99		1275		407763
+
