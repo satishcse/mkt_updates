@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.14		3189.85		419962
+ASIANPAINT		0.13		3189.5		420632
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUBLPHARMA		-2.34		436.5		296328
+JUBLPHARMA		-2.27		436.8		296548
