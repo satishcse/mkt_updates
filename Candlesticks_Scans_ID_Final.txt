@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-2.86		4644.0		477711
-GMMPFAUDLR		-4.09		1525.0		359376
-RELAXO		-2.83		930.0		117375
-GALAXYSURF		-4.24		2594.3		28660
+NATCOPHARM		-2.7		825.35		669589
+DIXON		-2.7		4651.25		483569
+SPARC		-0.22		228.4		453858
+GMMPFAUDLR		-4.25		1522.6		369424
+GALAXYSURF		-4.28		2593.2		29012
