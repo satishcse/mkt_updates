@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.43		444.35		4380482
-ASIANPAINT		-0.53		3185.7		396663
+TATASTEEL		-1.99		115.8		22553595
+NTPC		1.46		216.1		6037692
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CHEMPLASTS		-0.69		440		56386
+
