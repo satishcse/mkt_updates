@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACHEM		-0.95		992.1		100719
-POLYPLEX		0.22		1143.4		27110
+RAINBOW		0.28		1084.95		27612
+MCX		-1.01		1574.75		15039
+NAVINFLUOR		-0.81		4446.35		6537
