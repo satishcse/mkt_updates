@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.82		116.0		19505692
-ONGC		0.03		178.05		5104601
-ADANIENT		-0.25		2449.85		4579347
-BPCL		0.39		357.95		1245419
-MARUTI		-0.08		9314.2		151608
+TATASTEEL		-1.86		115.95		19535395
+ONGC		0.03		178.05		5107139
+ADANIENT		-0.3		2448.65		4597962
+BPCL		0.38		357.9		1245952
+GRASIM		-0.1		1809.85		222753
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CERA		-1.12		8360		4688
