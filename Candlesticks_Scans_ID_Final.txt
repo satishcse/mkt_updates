@@ -2,16 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.95		115.85		21613275
-WIPRO		0.98		419.2		2956111
-M&M		0.39		1552.95		1423107
-GRASIM		-0.1		1809.95		237897
+TATASTEEL		-2.03		115.75		21683946
+ITC		0.38		450.9		10436119
+WIPRO		0.96		419.15		2967678
+M&M		0.37		1552.6		1425585
+GRASIM		-0.11		1809.8		238474
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SCHAEFFLER		-1.01		2979.15		39344
-WHIRLPOOL		0.13		1561.25		30858
-FINEORG		-0.67		4571.5		8334
-SANOFI		-1.11		7028.0		5459
+SCHAEFFLER		-0.93		2981.6		39463
+WHIRLPOOL		0.07		1560.2		30910
 HONAUT		-0.12		41068.75		698
