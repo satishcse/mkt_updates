@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.48		216.15		5150106
-LT		1.07		2688.45		1172702
-HINDUNILVR		0.56		2547.25		656100
+NTPC		1.46		216.1		5173413
+HINDUNILVR		0.61		2548.45		657834
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TTKPRESTIG		-1.7		763.9		23305
-FINEORG		-0.62		4573.95		7506
+TTKPRESTIG		-1.78		763.3		23397
