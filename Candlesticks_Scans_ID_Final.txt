@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-1.04		858.05		2909171
-WIPRO		1.02		419.4		2861926
-HCLTECH		0.29		1174.35		1776436
-SUNPHARMA		0.53		1140.25		802540
+BHARTIARTL		-1.11		857.4		2916488
+WIPRO		1.01		419.35		2865954
+HCLTECH		0.24		1173.8		1784513
+SUNPHARMA		0.57		1140.75		803672
 
 Bullish_Hammer_15m_N500								 
 ======================= 
