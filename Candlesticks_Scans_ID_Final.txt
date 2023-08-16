@@ -1,8 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		-0.34		177.4		2330783
+MARUTI		-0.28		9296.0		68406
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MAZDOCK		0.59		1874		928532
