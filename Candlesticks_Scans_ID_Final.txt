@@ -2,8 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.23		243.95		2054871
-GRASIM		-0.26		1807.0		126019
+POWERGRID		-0.23		243.95		2066016
+GRASIM		-0.29		1806.55		126346
 
 Bullish_Hammer_15m_N500								 
 ======================= 
