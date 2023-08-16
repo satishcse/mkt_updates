@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		1.02		2687.1		1161581
-HINDUNILVR		0.64		2549.2		650967
+LT		1.0		2686.6		1165305
+HINDUNILVR		0.61		2548.55		652985
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TTKPRESTIG		-1.71		763.85		23303
+TTKPRESTIG		-1.72		763.75		23304
