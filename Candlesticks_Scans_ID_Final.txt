@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.34		233.1		4004570
+COALINDIA		-0.38		233		4089853
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CYIENT		-1.37		1532.2		184172
-RATNAMANI		-1.7		2620.0		11614
+TIINDIA		-2.39		2800.0		124431
+RATNAMANI		-1.77		2618.05		11716
