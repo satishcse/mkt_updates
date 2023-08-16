@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.03		178.05		4802863
-HINDALCO		-1.72		443.05		3854017
-BPCL		0.35		357.8		1161869
+ONGC		0.0		178.0		4809826
+BPCL		0.36		357.85		1162438
+HINDUNILVR		0.43		2544.0		576592
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-2.29		1659.85		22567
+CLEAN		-0.42		1400.0		89566
+ECLERX		-2.33		1659.05		22580
