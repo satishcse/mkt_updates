@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.0		178.0		4718930
-HDFCLIFE		-1.75		621.65		810686
-SBILIFE		-0.93		1285.0		173665
+ONGC		0.03		178.05		4722775
+HDFCLIFE		-1.79		621.45		815861
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYTEX		-0.11		1007.2		60420
-GRINFRA		-0.77		1256.35		9005
+TTKPRESTIG		-1.64		764.35		15814
+GRINFRA		-0.77		1256.25		9020
