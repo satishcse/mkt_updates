@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.57		2675		728957
+LT		0.57		2675.05		733589
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CYIENT		-0.96		1538.6		112577
-BALAMINES		-3.77		2099.6		89558
-TCIEXP		0.71		1424.4		15513
+CYIENT		-0.96		1538.6		112721
+TCIEXP		0.75		1425.0		15642
+HONAUT		-0.11		41075.25		362
