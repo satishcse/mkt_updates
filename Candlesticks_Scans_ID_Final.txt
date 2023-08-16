@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.36		450.8		9436109
-NTPC		1.1		215.35		4066728
-INFY		1.68		1416.9		4012578
-HINDUNILVR		0.41		2543.5		579370
+ONGC		0.03		178.05		4839253
+INDUSINDBK		-1.06		1374.15		1215455
+UPL		0.05		590.6		958341
+HINDUNILVR		0.45		2544.45		580464
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ECLERX		-2.33		1659.05		22581
+
