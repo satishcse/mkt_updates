@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.33		450.7		9041878
-M&M		-0.18		1544.0		961001
-TITAN		-0.86		2984.75		255000
+ITC		0.33		450.7		9052225
+M&M		-0.18		1544.0		962030
+TITAN		-0.85		2985.15		255055
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINCABLES		0.44		1020.6		305623
+FINCABLES		0.61		1022.3		306158
