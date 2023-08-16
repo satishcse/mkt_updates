@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		1.75		8194.85		160870
+ONGC		0.11		178.2		5416030
+ULTRACEMCO		1.68		8190.0		161187
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		0.07		1560.2		30910
 HONAUT		-0.12		41068.75		698
