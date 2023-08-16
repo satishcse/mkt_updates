@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.16		244.1		2101405
-ASIANPAINT		-0.43		3188.9		238006
+POWERGRID		-0.14		244.15		2106196
+ASIANPAINT		-0.46		3188.0		238074
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AAVAS		-1.51		1576.5		40083
-CARBORUNIV		-1.12		1046.05		33745
+AAVAS		-1.51		1576.55		40249
+TIMKEN		-1.74		3162.9		22242
