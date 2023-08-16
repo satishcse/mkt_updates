@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.35		2669.3		758913
+LT		0.34		2669		763013
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCIEXP		0.6		1422.95		15684
 HONAUT		-0.11		41075.25		362
