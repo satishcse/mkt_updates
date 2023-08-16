@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-1.32		776.75		8463875
-NTPC		1.62		216.45		6439581
-AXISBANK		-0.6		934.35		5781020
-UPL		0.29		592.0		1187151
+NTPC		1.6		216.4		6472134
+BHARTIARTL		-1.18		856.85		3220367
+UPL		0.18		591.35		1191090
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-0.2		41037.05		837
+MAHLOG		0.04		380		264711
