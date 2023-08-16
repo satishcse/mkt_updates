@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.45		604.6		3921610
-ADANIENT		-0.2		2451.2		2489717
-SBILIFE		-0.99		1284.25		139831
+ONGC		0.11		178.2		3388840
+ADANIENT		-0.15		2452.4		2528886
+SBILIFE		-0.99		1284.25		141039
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJHLDNG		-0.14		7290		7257
