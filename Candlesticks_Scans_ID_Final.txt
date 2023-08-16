@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.58		2675.4		721755
+LT		0.58		2675.35		724227
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CYIENT		-0.93		1539.0		112158
-BASF		-0.03		2493.6		2403
+CYIENT		-0.97		1538.5		112283
+TCIEXP		0.58		1422.55		15469
