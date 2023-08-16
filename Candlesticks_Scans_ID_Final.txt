@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.89		418.85		3946059
+WIPRO		0.89		418.85		3963095
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAND		-3.48		1547.0		201610
-BIKAJI		-1.7		479.2		165019
-BASF		-0.02		2493.75		5382
+CYIENT		-1.61		1528.55		203815
+GLAND		-3.48		1547.0		202208
+SUNDARMFIN		-2.58		2530.05		41098
+GRINDWELL		-2.22		2173.2		35078
