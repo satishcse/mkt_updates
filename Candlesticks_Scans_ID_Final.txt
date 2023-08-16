@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.41		216.0		5227569
-HINDUNILVR		0.59		2548.0		662948
-ASIANPAINT		-0.42		3189.1		346137
+NTPC		1.36		215.9		5273928
+UPL		0.37		592.5		1099521
+HINDUNILVR		0.58		2547.75		664021
+ASIANPAINT		-0.47		3187.5		346571
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TTKPRESTIG		-1.73		763.65		23496
-FINEORG		-0.65		4572.6		7739
+KAJARIACER		-0.96		1443.95		176251
+TTKPRESTIG		-1.78		763.25		23498
