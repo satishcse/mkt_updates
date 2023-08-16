@@ -1,11 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		0.0		178.0		4744026
-KOTAKBANK		-0.51		1784.95		1145054
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GRINFRA		-0.77		1256.25		9021
+
