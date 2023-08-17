@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ICICIBANK,-0.79,948.9,15367129
-INDUSINDBK,-0.21,1377.8,2032111
-WIPRO,-0.2,417.8,1814413
-APOLLOHOSP,-1.19,4883.2,200685
+ICICIBANK,-0.85,948.4,15447311
+INDUSINDBK,-0.29,1376.75,2037904
+WIPRO,-0.19,417.85,1816426
+APOLLOHOSP,-1.19,4883.0,201088
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+JINDWORLD,1.12,397.1,213510
