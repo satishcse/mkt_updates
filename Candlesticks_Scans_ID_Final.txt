@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-0.03		1701.95		279521
-HDFCAMC		-0.52		2539.9		195162
-BALKRISIND		-0.81		2349.6		128852
-HEG		-1.01		1726.95		80723
-TORNTPHARM		-1.05		1965.4		37419
+LT		-1.15		2660.0		452015
+BALKRISIND		-0.79		2350.0		128908
+HEG		-0.96		1727.85		80870
+OFSS		-1.71		4028.85		26209
