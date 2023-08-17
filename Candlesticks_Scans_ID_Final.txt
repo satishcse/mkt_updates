@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.5		178.15		2236683
-M&M		-0.04		1569.9		1470656
+ONGC		-0.67		177.85		2267890
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		-2.73		1262.0		202439
-DRREDDY		0.22		5871.0		181677
-DEEPAKNTR		-1.52		2011.95		124354
-MCX		-0.68		1581.0		68604
-HLEGLAS		-0.47		576.5		28443
+RADICO		-2.65		1263.0		203209
+DEEPAKNTR		-1.52		2011.95		124398
