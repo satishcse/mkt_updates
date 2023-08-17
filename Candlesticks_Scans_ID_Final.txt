@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.5		178.15		990823
+ONGC		-0.59		178		1004919
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FDC		-0.95		395.25		110336
-ABB		0.0		4299.7		64951
-SIEMENS		0.1		3610.95		52812
-FINEORG		-0.34		4564.0		3880
+SIEMENS		0.07		3610.05		53374
+AIAENG		-0.14		3593.95		5995
