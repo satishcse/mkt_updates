@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.78		940.3		2818170
+AXISBANK		0.78		940.3		2825994
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-1.73		4988.05		317079
-ASIANPAINT		-0.48		3178.65		289672
-PERSISTENT		-0.25		4960.0		64934
-ALKYLAMINE		-0.2		2338.0		5140
-ABBOTINDIA		-0.92		23685.35		1830
+JSWENERGY		-3.03		356.85		4135799
+ABBOTINDIA		-0.88		23695.0		1841
