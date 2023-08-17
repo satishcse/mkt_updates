@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.6		2459.75		3681562
-INDUSINDBK		-0.29		1376.7		1984865
-WIPRO		-0.08		418.3		1755823
-BAJAJFINSV		0.29		1474.1		510543
+ICICIBANK		-0.65		950.25		14837210
+ADANIENT		0.61		2460.0		3698559
+INDUSINDBK		-0.21		1377.8		1988159
+WIPRO		-0.08		418.3		1758963
+BAJAJFINSV		0.29		1474.1		511001
 
 Bullish_Hammer_15m_N500								 
 ======================= 
