@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FDC		-1.29		393.9		129214
+PERSISTENT		-0.25		4959.85		64690
 ALKYLAMINE		-0.24		2337.05		4812
 GARFIBRES		0.14		3184.8		2804
+ABBOTINDIA		-0.88		23694.65		1828
