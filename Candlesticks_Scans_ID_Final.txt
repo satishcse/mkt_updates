@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GARFIBRES		0.08		3182.8		2791
+ASIANPAINT		-0.56		3176.25		282053
+ALKYLAMINE		-0.24		2337.0		4747
+GARFIBRES		0.02		3180.75		2802
