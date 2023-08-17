@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.47		115.4		10659274
+TATASTEEL		-0.43		115.45		10850853
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		-0.16		4293.0		82035
-ZYDUSWELL		-0.11		1531.75		21954
+TANLA		-1.34		1120.4		198609
+ABB		-0.11		4295.25		82322
+ZYDUSWELL		-0.11		1531.7		21956
