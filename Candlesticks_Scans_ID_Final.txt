@@ -1,9 +1,18 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		0		418.65		10096
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HEROMOTOCO		0.22		2988.45		22977
+MEDANTA		0.28		692.05		16544
+PRESTIGE		0.51		550.0		10827
+KPIL		0.14		638.85		4780
+OFSS		0.06		4101.45		4333
+SHREECEM		0.33		23999.0		2449
+CRAFTSMAN		1.1		4941.6		2414
+BLUEDART		0.43		6470.35		2142
+BAYERCROP		0.43		4798.95		573
+ABBOTINDIA		-0.29		23834.95		316
