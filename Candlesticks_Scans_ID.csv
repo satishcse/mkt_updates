@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ADANIENT,0.33,2453.25,3199151
-ONGC,-0.78,177.65,1822813
+WIPRO,-0.27,417.5,1641405
+TECHM,-0.37,1223.3,996172
+UPL,-0.93,584.3,818123
+BAJFINANCE,-0.38,6955.0,310819
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-CGPOWER,3.8,423.8,1257720
+APOLLOHOSP,-1.11,4887.05,184862
 THERMAX,-0.56,2571.2,12768
