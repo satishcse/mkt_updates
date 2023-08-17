@@ -2,9 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.76		949.25		18636455
-INFY		-0.27		1414.65		3503092
-SUNPHARMA		-0.14		1142.05		1178133
+ICICIBANK		-0.73		949.55		18693195
 
 Bullish_Hammer_15m_N500								 
 ======================= 
