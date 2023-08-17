@@ -6,8 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LUPIN		0.85		1122.3		1059642
-PAYTM		-0.62		869.0		276533
-HAL		-0.12		3895.45		123643
-DRREDDY		0.25		5872.5		62152
-FDC		-0.29		397.9		42187
+LUPIN		0.84		1122.25		1066562
+HAL		-0.16		3894.0		124370
+DRREDDY		0.41		5882.0		63566
+CDSL		0.24		1165.0		53029
+FDC		-0.29		397.9		42339
+CERA		0.37		8303.2		1718
