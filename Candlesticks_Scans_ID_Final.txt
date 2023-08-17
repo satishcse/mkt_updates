@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.68		949.95		14874588
-INDUSINDBK		-0.23		1377.55		1993421
-ONGC		-0.67		177.85		1962364
-WIPRO		-0.18		417.9		1766473
-BAJAJFINSV		0.28		1474.0		511519
+ICICIBANK		-0.73		949.5		14897977
+INDUSINDBK		-0.22		1377.7		1993830
+WIPRO		-0.2		417.8		1773155
+BAJAJFINSV		0.27		1473.8		511789
+APOLLOHOSP		-1.05		4889.95		196989
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TANLA		-2.9		1102.7		324927
+
