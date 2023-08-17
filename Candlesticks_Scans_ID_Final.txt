@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.56		115.3		10080348
-ADANIENT		0.49		2457.2		2134768
+TATASTEEL		-0.56		115.3		10262014
+ADANIENT		0.52		2457.8		2161077
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.73		3303.0		212394
-AEGISCHEM		-0.57		356.8		135578
-ABB		-0.31		4286.4		80629
+ABB		-0.27		4288.1		81043
 NAVINFLUOR		-1.43		4427.1		28285
