@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-0.71		1330.3		181299
-MPHASIS		-0.2		2309.65		39544
-LALPATHLAB		-0.37		2273.65		21657
-LTTS		-0.44		4263.85		19744
+LALPATHLAB		-0.18		2278.15		21769
+LINDEINDIA		0.46		4978.5		2035
+VMART		-0.42		2246.95		1105
