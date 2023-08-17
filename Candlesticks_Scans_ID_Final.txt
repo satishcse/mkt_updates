@@ -6,10 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.47		3178.9		286658
-FDC		-1.32		393.8		128023
-AETHER		0.24		1050.95		24789
-BALKRISIND		-0.42		2358.8		18142
-ALKYLAMINE		-0.18		2338.6		4793
-FINEORG		-0.29		4566.1		4177
+FDC		-1.29		393.9		129214
+ALKYLAMINE		-0.24		2337.05		4812
 GARFIBRES		0.14		3184.8		2804
