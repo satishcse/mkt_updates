@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.29		1601.5		3890820
-POWERGRID		-1.25		244.95		2789190
-COALINDIA		-0.26		232.45		1286562
+HDFCBANK		-0.32		1601.0		4001089
+COALINDIA		-0.34		232.25		1312785
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLICYBZR		0.52		722.35		299240
-LALPATHLAB		-0.1		2279.9		21917
-LINDEINDIA		0.46		4978.5		2201
+LALPATHLAB		-0.09		2280		22455
