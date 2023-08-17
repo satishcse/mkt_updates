@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.32		232.3		4580364
+TATASTEEL		0.17		116.15		26500079
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		-0.23		1530		44635
+CARBORUNIV		-2.9		1060.35		486083
+GOCOLORS		-0.28		1251.2		65725
+CHOLAHLDNG		-1.08		916.95		42709
