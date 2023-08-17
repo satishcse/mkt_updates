@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.47		2456.7		2970040
-WIPRO		-0.42		416.9		1544980
-EICHERMOT		-0.67		3305.0		268456
+ADANIENT		0.44		2455.95		3003850
+EICHERMOT		-0.68		3304.65		269752
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-1.13		8159		107440
+CGPOWER		3.15		421.15		997440
+LAXMIMACH		0.28		13350.0		623
