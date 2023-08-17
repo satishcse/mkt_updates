@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.52		568.3		17471953
-DIVISLAB		-1.77		3646.25		272071
+SBIN		0.5		568.2		17495419
+DIVISLAB		-1.8		3645.25		274891
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PFIZER		-0.46		3845.85		11214
