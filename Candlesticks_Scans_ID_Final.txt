@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.58		568.65		17759839
-HDFCLIFE		0.06		625.5		1096279
-DIVISLAB		-2.0		3637.8		289104
+POWERGRID		-2		243.1		7364851
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-0.26		1698.0		519569
 RUSTOMJEE		-0.74		583.9		7376
