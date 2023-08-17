@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.0		115.95		22723924
-GRASIM		-0.69		1804.4		386621
+TATASTEEL		0.0		115.95		22815058
+COALINDIA		-0.26		232.45		4186751
+WIPRO		-0.33		417.25		2407993
+GRASIM		-0.71		1804.0		386857
 
 Bullish_Hammer_15m_N500								 
 ======================= 
