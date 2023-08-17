@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.07		618.3		3789599
-COALINDIA		-0.21		232.55		1930501
-ONGC		-0.59		178.0		1206259
-APOLLOHOSP		-0.79		4903.05		134141
-ULTRACEMCO		-0.93		8175.55		72152
+TATAMOTORS		-0.06		618.35		3805832
+COALINDIA		-0.21		232.55		1936748
+ONGC		-0.59		178.0		1215540
+APOLLOHOSP		-0.81		4902.0		134492
+ULTRACEMCO		-0.92		8175.8		72861
 
 Bullish_Hammer_15m_N500								 
 ======================= 
