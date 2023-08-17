@@ -1,12 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+WIPRO		-0.75		415.5		1368659
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-1.14		2660.5		454228
-TATACOMM		0.03		1703.0		281093
-HEG		-0.95		1728.0		81018
-TORNTPHARM		-1.03		1965.9		37811
+ASIANPAINT		-0.74		3170.5		347792
+TATACOMM		-0.03		1702.0		281964
+GODREJPROP		0.29		1552.0		193653
+HEG		-0.84		1729.95		81190
+TORNTPHARM		-0.99		1966.55		37853
+ECLERX		-1.08		1625.05		15745
