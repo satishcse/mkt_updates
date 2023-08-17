@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.78		355.1		1126278
-HDFCLIFE		0.0		625.15		826211
+BPCL		-0.82		354.95		1141998
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AIAENG		-1		3562.8		10386
+APOLLOHOSP		-1.22		4881.7		208122
