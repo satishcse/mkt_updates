@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.73		949.55		18142027
-RELIANCE		-1.36		2540.1		4220152
-M&M		-0.04		1569.95		1556664
-HCLTECH		0.07		1177.95		1298546
-CIPLA		-0.81		1233.45		1184089
-TITAN		1.76		3064.0		1045243
-JSWSTEEL		-1.23		785.5		752398
+ICICIBANK		-0.7		949.8		18154724
+RELIANCE		-1.36		2540.1		4226642
+HCLTECH		0.14		1178.85		1303502
+CIPLA		-0.8		1233.65		1185372
+TITAN		1.72		3062.85		1047476
+JSWSTEEL		-1.23		785.55		752843
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-0.38		6418		30808
+BLUEDART		-0.4		6417.25		30811
