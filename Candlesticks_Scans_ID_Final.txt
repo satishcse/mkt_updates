@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.81		2464.95		962025
-TECHM		-0.62		1220.25		581678
-HDFCLIFE		0.04		625.4		266899
+ADANIENT		0.77		2464.0		980587
+TECHM		-0.56		1221.0		592031
+HDFCLIFE		-0.01		625.1		279522
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NAVINFLUOR		-1.36		4430.35		17245
