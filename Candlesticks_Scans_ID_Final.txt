@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.3		116.3		4770815
+TATASTEEL		0.3		116.3		4839474
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TIMKEN		0.58		3166.6		7916
+SUNDARMFIN		0.37		2527.15		2275
