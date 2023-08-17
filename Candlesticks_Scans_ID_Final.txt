@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		-1.97		441.4		7072611
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LUPIN		-1.38		1097.5		2032109
-TATACOMM		0.0		1702.45		285533
-ACC		-0.32		1886.05		68290
-TORNTPHARM		-0.77		1971.0		38274
+
