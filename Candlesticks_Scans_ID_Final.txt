@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.62		1220.2		631478
+TECHM		-0.64		1219.95		634450
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.38		3181.9		245846
-ECLERX		0.26		1647.0		7634
-GARFIBRES		0.1		3183.35		2496
+PEL		-0.3		1061.45		868076
+ASIANPAINT		-0.38		3181.85		246989
+ECLERX		0.29		1647.5		7644
+GARFIBRES		0.18		3185.95		2500
