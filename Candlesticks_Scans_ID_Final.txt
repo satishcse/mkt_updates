@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.88		613.3		7226635
-COALINDIA		-0.43		232.05		3673613
-UPL		-0.85		584.8		1037838
-DRREDDY		0.22		5870.85		205166
+TATAMOTORS		-0.88		613.3		7230461
+COALINDIA		-0.41		232.1		3675561
+UPL		-0.86		584.75		1038247
+DRREDDY		0.24		5871.95		205564
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BASF		0.15		2497.9		4119
