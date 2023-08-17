@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.27		2451.7		3165805
-ONGC		-0.87		177.5		1807031
+ADANIENT		0.21		2450.2		3175438
+ONGC		-0.84		177.55		1812688
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGPOWER		4.14		425.2		1207322
+CGPOWER		3.87		424.1		1236287
+ACC		-0.5		1882.75		76604
+THERMAX		-0.52		2572.25		12732
