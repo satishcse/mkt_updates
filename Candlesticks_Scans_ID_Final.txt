@@ -2,16 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.19		440.15		4123102
-ADANIPORTS		0.51		813.75		2676942
-NTPC		0.0		215.75		1863588
-ONGC		-1.29		175.45		973625
+ITC		-0.23		440.0		4204395
+ADANIPORTS		0.38		812.7		2730451
+NTPC		0.02		215.8		1920910
+ONGC		-1.43		175.2		999826
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-2.6		2279.0		112085
-FLUOROCHEM		-0.58		2849.05		31815
-JUSTDIAL		-0.56		763.25		30324
-PAGEIND		-3.49		39829.95		18343
-LUXIND		0.04		1489.85		12497
+FLUOROCHEM		-0.55		2850		32247
