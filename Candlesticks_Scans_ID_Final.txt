@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-2.17		227.25		3807484
+COALINDIA		-2.17		227.25		3810266
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&M		-1.46		1550.5		1158643
-AETHER		0.03		1040.85		24876
+CENTURYTEX		-1.36		1004.7		40159
+INGERRAND		-2.15		3087.95		19846
