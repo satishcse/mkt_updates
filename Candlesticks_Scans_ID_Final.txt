@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.73		115.2		6124136
-TATAMOTORS		0.11		614.45		3241794
-POWERGRID		-0.68		242.05		2135806
+LT		0.73		2671.8		676320
+DIVISLAB		-0.73		3628.05		132109
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SCHAEFFLER		-0.26		2992.8		38111
-ABBOTINDIA		-0.42		23558.95		1628
+
