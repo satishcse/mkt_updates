@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.04		175.9		2328332
+ONGC		-1.04		175.9		2333168
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-3.18		1862		922524
+MAZDOCK		-3.22		1861.15		923559
+UTIAMC		0.09		746.85		43169
