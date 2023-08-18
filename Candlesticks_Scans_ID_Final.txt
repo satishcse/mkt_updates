@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.02		215.8		3164283
-AXISBANK		0.53		941.55		2027510
-WIPRO		-1.87		409.75		1877600
-HINDALCO		-0.94		443.4		1040396
-TATACONSUM		-0.43		840.65		221273
+NTPC		0.02		215.8		3177202
+HINDALCO		-0.97		443.25		1049701
+TATACONSUM		-0.43		840.6		221817
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MEDPLUS		-0.97		894		14052
+
