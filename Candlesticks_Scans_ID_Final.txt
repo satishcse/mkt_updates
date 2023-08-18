@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		2.95		833.5		16663552
-ITC		-0.24		439.95		9963891
-TITAN		-0.66		3051.6		521354
+ADANIPORTS		2.88		833.0		16690708
+ITC		-0.19		440.15		9982353
+TITAN		-0.65		3051.7		521624
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		-1.45		642.35		234313
+PNBHOUSING		-1.45		642.35		234595
