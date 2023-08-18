@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.01		175.95		1817158
-INDUSINDBK		-0.66		1365.25		535731
-ASIANPAINT		-0.16		3178.0		234199
+ONGC		-0.98		176.0		1821495
+INDUSINDBK		-0.68		1365.0		538407
+ASIANPAINT		-0.22		3176.3		236750
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		-0.57		359		1054649
+SWSOLAR		-0.57		359		1064994
