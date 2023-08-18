@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.12		440.45		4621207
-ADANIPORTS		0.43		813.1		3202698
-POWERGRID		-0.64		242.15		1920281
+TATASTEEL		-0.69		115.25		5494828
+SBIN		-0.2		571.0		4414647
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAHLDNG		-1.42		903.8		18551
-TTKPRESTIG		-0.87		761.9		12601
+PERSISTENT		-2.42		4795.35		92060
+MEDPLUS		-0.53		898.0		11981
