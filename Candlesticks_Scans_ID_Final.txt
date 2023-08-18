@@ -1,13 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BAJAJ-AUTO		-0.79		4621.1		230591
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NLCINDIA		-1.44		123.5		2549713
-DATAPATTNS		-3.39		2152.85		173686
-CREDITACC		-2.63		1367.9		91943
-CEATLTD		-2.38		2291.55		75102
-PGHH		-0.92		15357.95		2772
+RHIM		0.65		711.85		523868
+DATAPATTNS		-3.34		2153.9		174399
+CREDITACC		-2.41		1371.0		93878
+BAJAJHLDNG		-3.06		6928.0		41712
+MEDPLUS		-1.93		885.3		38907
+SHREECEM		-1.12		23525.5		18667
+VMART		-1.41		2198.75		8789
