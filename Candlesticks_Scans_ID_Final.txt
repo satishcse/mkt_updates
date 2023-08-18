@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.09		440.6		4454181
-POWERGRID		-0.68		242.05		1877804
-WIPRO		-1.96		409.35		1560481
+POWERGRID		-0.7		242		1886030
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASTRAL		-2.82		1935.5		355727
+HEROMOTOCO		-1.72		2939.5		137197
+GLAND		-0.78		1605.0		88400
+SUNDRMFAST		-0.12		1231.3		13514
+LUXIND		-0.14		1487.2		13430
