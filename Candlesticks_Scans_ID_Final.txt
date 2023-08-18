@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.04		175.9		2300763
-TCS		-1.91		3370.2		1004068
+ICICIBANK		0.02		951.8		5453401
+ONGC		-1.04		175.9		2305321
+TCS		-1.91		3370.2		1006120
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-3.18		1862.0		900009
+MAZDOCK		-3.15		1862.5		903203
 BAJAJELEC		-0.61		1141.9		31362
