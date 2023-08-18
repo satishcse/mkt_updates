@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDWORLD		-0.24		391.9		149693
-COFORGE		-0.75		4967.45		88462
+GRAPHITE		-0.24		430.1		155580
+COFORGE		-0.77		4966.6		89549
+PERSISTENT		-1.56		4837.35		59115
+CCL		-0.76		610.95		17958
+RUSTOMJEE		0.01		592.35		4552
