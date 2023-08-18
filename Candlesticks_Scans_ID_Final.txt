@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.03		951.4		4915359
-BAJAJFINSV		-0.83		1464.6		533292
-DRREDDY		0.39		5903.75		489973
-BAJFINANCE		-0.84		6865.4		331612
+ICICIBANK		-0.08		950.9		4927049
+BAJAJFINSV		-0.82		1464.7		534763
+DRREDDY		0.34		5900.65		491268
+BAJFINANCE		-0.83		6865.8		332711
 
 Bullish_Hammer_15m_N500								 
 ======================= 
