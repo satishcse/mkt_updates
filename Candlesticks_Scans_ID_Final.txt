@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.15		440.35		4250194
-ADANIPORTS		0.28		811.9		2790028
-NTPC		-0.02		215.7		1938995
-ONGC		-1.43		175.2		1025727
+ITC		-0.09		440.6		4454181
+POWERGRID		-0.68		242.05		1877804
+WIPRO		-1.96		409.35		1560481
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PAGEIND		-3.44		39850		18522
+
