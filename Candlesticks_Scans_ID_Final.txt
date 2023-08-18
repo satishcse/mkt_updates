@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.44		439.05		7066242
-NTPC		0.0		215.75		3428056
-HINDALCO		-1.05		442.9		1072111
-TATACONSUM		-0.41		840.8		234446
+ITC		-0.42		439.15		7080326
+NTPC		0.0		215.75		3441875
+POWERGRID		-0.64		242.15		2954151
+HINDALCO		-0.98		443.2		1077961
+TATACONSUM		-0.39		841.0		235032
 
 Bullish_Hammer_15m_N500								 
 ======================= 
