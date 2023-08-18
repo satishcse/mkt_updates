@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.93		176.1		1826582
-INDUSINDBK		-0.69		1364.85		539950
-ASIANPAINT		-0.26		3174.85		243321
+POWERGRID		-0.45		242.6		3096046
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SWSOLAR		0.19		361.75		1067824
-LICI		-0.79		654.45		415309
+
