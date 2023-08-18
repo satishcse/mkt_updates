@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.65		115.3		8027359
-POWERGRID		-0.53		242.4		3114722
+TATASTEEL		-0.65		115.3		8057380
+POWERGRID		-0.55		242.35		3115808
+AXISBANK		0.56		941.8		2387901
+ONGC		-0.98		176.0		2015488
+DIVISLAB		-0.17		3648.55		184557
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GRINDWELL		-0.94		2214.65		34876
