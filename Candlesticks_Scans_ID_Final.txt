@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		0.41		5905		521308
+DRREDDY		0.33		5900.3		522311
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUBLINGREA		-1.18		447.2		521448
+JUBLINGREA		-1.2		447.1		522841
+AETHER		0.53		1046.1		23495
