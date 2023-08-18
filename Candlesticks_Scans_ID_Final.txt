@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.29		412.15		3905198
-TECHM		-1.05		1218.85		1166228
-GRASIM		-0.37		1794.1		231741
+WIPRO		-1.41		411.65		3915778
+TECHM		-1.02		1219.15		1173222
+GRASIM		-0.36		1794.4		233614
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MOTILALOFS		-1.69		889.55		113031
+MOTILALOFS		-1.74		889.1		114113
