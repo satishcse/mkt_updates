@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-2.02		227.6		4064483
-WIPRO		-1.62		410.8		3353455
-LT		0.42		2663.55		1204446
-HDFCLIFE		-1.2		620.85		906028
-DRREDDY		0.48		5909.05		572287
-SBILIFE		-0.66		1276.0		455746
-EICHERMOT		1.52		3348.45		421091
-MARUTI		0.66		9436.9		182865
+COALINDIA		-2.02		227.6		4066675
+LT		0.47		2664.9		1207502
+HDFCLIFE		-1.24		620.6		908221
+DRREDDY		0.51		5910.4		572557
+SBILIFE		-0.67		1275.9		456434
+MARUTI		0.66		9437.6		185479
+NESTLEIND		0.45		21765.0		29087
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HGS		-0.31		1007.85		10798
