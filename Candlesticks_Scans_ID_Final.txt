@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.21		215.3		9998427
-COALINDIA		-1.89		227.9		4879734
-HCLTECH		-0.29		1173.3		2317373
+ICICIBANK		-0.11		950.65		10520659
+COALINDIA		-1.94		227.8		4929142
+HCLTECH		-0.23		1174.0		2358765
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PNCINFRA		-0.14		323.65		230644
+PGHH		-0.76		15383.05		2225
