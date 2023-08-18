@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.02		215.8		3109018
-NESTLEIND		-0.91		21471.05		12837
+NTPC		-0.02		215.7		3131918
+NESTLEIND		-0.9		21472.15		12915
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+COCHINSHIP		-0.68		869.75		8129614
 MEDPLUS		-0.97		894.0		14052
 PGHH		-0.15		15478.2		1175
