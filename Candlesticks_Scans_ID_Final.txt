@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		2.69		831.4		16431490
-ITC		-0.2		440.1		9853819
+TATASTEEL		-0.82		115.1		13363898
+JSWSTEEL		-0.37		786.8		671937
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SCHAEFFLER		-1.06		2968.8		45999
+
