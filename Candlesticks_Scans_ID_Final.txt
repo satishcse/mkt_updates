@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.47		3064.7		368331
-HEROMOTOCO		0.1		2930.0		160247
-APOLLOHOSP		0.54		4874.55		87800
+TITAN		0.47		3064.8		368834
+ASIANPAINT		0.39		3176.0		163982
+APOLLOHOSP		0.51		4872.85		88242
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 BLUEDART		-0.75		6393.25		9366
-LAXMIMACH		-0.45		12933.9		928
+LAXMIMACH		-0.45		12933.9		930
