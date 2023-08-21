@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.18		416.55		2160681
-ONGC		0.4		176.0		2079521
-UPL		1.57		587.55		1435652
-TCS		1.16		3406.15		833724
-ULTRACEMCO		0.11		8223.95		133896
+WIPRO		1.19		416.6		2168247
+ONGC		0.4		176.0		2091617
+UPL		1.55		587.4		1438456
+TCS		1.16		3406.1		838250
+ULTRACEMCO		0.05		8219.15		134796
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ECLERX		-1.02		1630.85		22400
