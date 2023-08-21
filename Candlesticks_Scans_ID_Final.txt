@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.27		1595.0		4328858
-ASIANPAINT		0.4		3176.35		154105
-MARUTI		-0.22		9435.15		94689
+HDFCBANK		0.15		1593.2		4386320
+ASIANPAINT		0.39		3176.0		154327
+MARUTI		-0.19		9438.0		94902
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		-0.42		12937.35		795
+LAXMIMACH		-0.42		12937.35		796
