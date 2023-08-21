@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		2.62		2645.05		9457061
-SBIN		-0.03		572.75		7802701
-ITC		1.04		446.25		6979043
-TATACONSUM		0.53		847.05		462770
+ADANIENT		2.64		2645.45		9480294
+SBIN		-0.03		572.75		7813858
+ITC		1.04		446.25		7061000
+TATACONSUM		0.55		847.15		467029
 
 Bullish_Hammer_15m_N500								 
 ======================= 
