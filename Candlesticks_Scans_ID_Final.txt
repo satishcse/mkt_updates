@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.11		444.4		1004757
-BPCL		-0.28		351.9		620657
+HINDALCO		1.18		444.7		1014869
+BPCL		-0.35		351.65		628361
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BORORENEW		-0.87		455		77194
+BORORENEW		-0.9		454.85		78206
