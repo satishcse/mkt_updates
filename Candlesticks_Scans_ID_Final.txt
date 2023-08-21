@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		-0.11		9445.9		93649
+HDFCBANK		0.35		1596.35		4197637
+MARUTI		-0.1		9446.4		93754
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDWORLD		-1.37		381.8		2478528
-MCX		0.16		1552.4		35443
+JINDWORLD		-1.54		381.15		2490280
 LAXMIMACH		-0.45		12934.0		792
