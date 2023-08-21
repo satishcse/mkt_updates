@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		2.02		2629.45		4880639
-ULTRACEMCO		0.16		8228.05		111546
+SBIN		0.01		573.0		4905659
+ITC		0.91		445.65		4139762
+BAJAJFINSV		1.36		1480.0		895180
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		-0.41		12938.55		939
+VINATIORGA		-0.01		1809.7		17624
