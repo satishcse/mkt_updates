@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.14		416.4		2062195
-TITAN		0.55		3067.1		417205
+WIPRO		1.11		416.25		2065065
+TITAN		0.54		3066.9		417693
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PNBHOUSING		4.19		661.95		2249585
+
