@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.14		8226		174556
+HCLTECH		0.75		1182.5		1365882
+BAJFINANCE		2.86		7058.15		1043025
+HEROMOTOCO		0.21		2933.2		283675
 
 Bullish_Hammer_15m_N500								 
 ======================= 
