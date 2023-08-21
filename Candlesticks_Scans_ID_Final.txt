@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		2.54		857.15		11502903
-TATASTEEL		0.95		116.9		10691059
-NTPC		1.56		218.5		8176941
-ONGC		0.14		175.55		1737946
+ADANIPORTS		2.58		857.5		11525156
+TATASTEEL		0.95		116.9		10719636
+NTPC		1.46		218.3		8193058
+ONGC		0.11		175.5		1746249
+MARUTI		-0.12		9444.25		205902
 
 Bullish_Hammer_15m_N500								 
 ======================= 
