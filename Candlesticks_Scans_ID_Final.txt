@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.09		416.2		1643056
-TATACONSUM		0.06		843.05		172411
+TITAN		0.51		3065.9		365555
+HEROMOTOCO		0.1		2930.05		157696
+DRREDDY		0.4		5897.85		85665
+APOLLOHOSP		0.61		4878.05		85545
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SYNGENE		0.38		806.35		340464
+
