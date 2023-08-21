@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.14		217.6		4869130
-WIPRO		0.81		415.05		1227680
-NESTLEIND		0.66		21974.8		8875
+NTPC		1.23		217.8		5017890
+NESTLEIND		0.66		21975.0		9042
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SOLARINDS		-1.32		4291.2		14522
