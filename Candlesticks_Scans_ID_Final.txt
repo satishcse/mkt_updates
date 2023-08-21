@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.07		573.35		2231051
-WIPRO		0.32		413.0		853072
+ITC		0.69		444.7		2606354
+AXISBANK		0.9		951.5		2313298
+HINDALCO		1.24		444.95		974380
+BPCL		-0.17		352.3		600407
+JSWSTEEL		0.6		791.8		302020
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MOTILALOFS		1.18		907.4		48581
+
