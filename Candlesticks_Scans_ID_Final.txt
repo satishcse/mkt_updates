@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.23		1239.2		257314
-MARUTI		-0.12		9444.65		92481
+MARUTI		-0.12		9444.4		93522
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JINDWORLD		-1.54		381.15		2466432
+LAXMIMACH		-0.45		12934.0		792
