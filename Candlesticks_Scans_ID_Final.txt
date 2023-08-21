@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.37		175.95		3432638
+ONGC		0.37		175.95		3485938
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDCOPPER		-3.02		136.5		5602129
-MPHASIS		1.0		2313.95		683365
+HINDCOPPER		-3.06		136.45		5676755
+JINDWORLD		-2.09		379.0		3693409
+TANLA		-5.67		1036.0		1405360
+CGCL		1.58		758.3		1340134
+MTARTECH		-4.44		2137.75		427137
+PIIND		-0.78		3731.0		148985
