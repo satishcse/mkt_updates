@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.18		444.7		1014869
-BPCL		-0.35		351.65		628361
+NTPC		1.14		217.6		4869130
+WIPRO		0.81		415.05		1227680
+NESTLEIND		0.66		21974.8		8875
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BORORENEW		-0.9		454.85		78206
+
