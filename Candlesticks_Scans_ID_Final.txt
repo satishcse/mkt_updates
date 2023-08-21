@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.11		572.3		6398152
-ITC		0.98		446.0		5770229
-HCLTECH		0.69		1181.8		1169132
+TATASTEEL		0.73		116.65		14508555
+ITC		1.02		446.15		5810362
+POWERGRID		2.43		246.85		4353348
+HCLTECH		0.67		1181.6		1177787
+EICHERMOT		0.43		3363.9		307446
 
 Bullish_Hammer_15m_N500								 
 ======================= 
