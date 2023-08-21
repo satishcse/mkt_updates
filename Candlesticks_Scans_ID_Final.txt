@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.23		230.25		3664366
-TITAN		0.77		3074.0		489040
-ULTRACEMCO		0.15		8226.95		149875
+NTPC		1.28		217.9		10398227
+ICICIBANK		0.68		957.1		9345855
+COALINDIA		1.23		230.25		3667816
+TITAN		0.74		3073.1		489938
+ULTRACEMCO		0.15		8227.45		150082
 
 Bullish_Hammer_15m_N500								 
 ======================= 
