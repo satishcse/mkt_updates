@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MOTILALOFS		1.28		908.3		46950
+MOTILALOFS		1.21		907.65		47756
+GLAXO		-0.52		1402.9		5081
+LAXMIMACH		-0.34		12948.5		611
