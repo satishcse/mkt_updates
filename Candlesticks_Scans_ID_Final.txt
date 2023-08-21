@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.91		116.85		17812578
-ITC		1.2		446.95		7270731
-HCLTECH		0.68		1181.65		1316096
-M&M		-0.87		1539.15		1189396
-TCS		1.13		3405.0		1118099
-DRREDDY		0.43		5900.0		194813
-ULTRACEMCO		0.15		8227.0		171867
+ITC		1.2		446.95		7312443
+M&M		-0.82		1539.9		1194505
+ULTRACEMCO		0.15		8227.0		172219
 
 Bullish_Hammer_15m_N500								 
 ======================= 
