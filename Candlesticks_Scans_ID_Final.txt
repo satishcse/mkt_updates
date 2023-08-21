@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.78		116.7		14533711
-ICICIBANK		0.67		957.0		8893735
-ITC		1.0		446.05		5821859
-POWERGRID		2.43		246.85		4365235
-HCLTECH		0.66		1181.5		1179406
-EICHERMOT		0.43		3363.85		308208
+TATASTEEL		0.73		116.65		14576801
+ICICIBANK		0.69		957.2		8924806
+HCLTECH		0.7		1181.95		1181335
+EICHERMOT		0.4		3363.05		308668
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJELEC		-1.99		1111		53161
