@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		2.3		2636.75		6848544
-WIPRO		1.19		416.6		2155552
-ONGC		0.34		175.9		2059501
-UPL		1.56		587.5		1433915
-ULTRACEMCO		0.15		8226.95		132975
+ADANIENT		2.29		2636.5		6859428
+WIPRO		1.18		416.55		2156809
+ONGC		0.37		175.95		2074677
+UPL		1.57		587.55		1434168
+ULTRACEMCO		0.15		8226.85		133348
 
 Bullish_Hammer_15m_N500								 
 ======================= 
