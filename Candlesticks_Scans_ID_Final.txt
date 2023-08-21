@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.82		116.75		17119153
-ADANIENT		2.61		2644.65		9414416
-ITC		1.03		446.2		6927665
-TATACONSUM		0.53		847.05		451913
+ADANIENT		2.63		2645.15		9432771
+ITC		1.06		446.35		6954784
+TATACONSUM		0.53		847.05		461236
 
 Bullish_Hammer_15m_N500								 
 ======================= 
