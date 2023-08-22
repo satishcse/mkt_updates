@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.28		1765.35		1027808
-HEROMOTOCO		0.21		2937.55		85173
+KOTAKBANK		0.32		1765.9		1036259
+SUNPHARMA		-0.4		1132.8		392346
+HEROMOTOCO		0.22		2937.9		85921
 
 Bullish_Hammer_15m_N500								 
 ======================= 
