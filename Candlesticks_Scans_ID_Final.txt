@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.17		1181.25		880540
-TECHM		-0.36		1214.45		520286
-TCS		-0.63		3380.35		397027
-NESTLEIND		-0.09		22015.0		12019
+TECHM		-0.37		1214.4		522004
+TCS		-0.63		3380.15		398670
+NESTLEIND		-0.09		22015.05		12040
 
 Bullish_Hammer_15m_N500								 
 ======================= 
