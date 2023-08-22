@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.17		413.9		899275
-TITAN		-0.77		3054.7		288551
-HEROMOTOCO		0.0		2931.4		74808
+WIPRO		-0.18		413.85		900132
+HEROMOTOCO		-0.01		2931.35		74931
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDWORLD		0.78		381.65		160671
-JSL		-1.17		416.55		71991
-ALKYLAMINE		0.72		2345.6		9286
+JINDWORLD		0.87		382.0		162892
+JSL		-1.14		416.7		73659
+ALKYLAMINE		0.63		2343.45		9502
+PGHH		-0.03		15382.65		3955
