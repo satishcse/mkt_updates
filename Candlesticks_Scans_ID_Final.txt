@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.26		221.55		13661591
-WIPRO		0.28		415.75		1678437
-INDUSINDBK		0.24		1401.2		912369
-SUNPHARMA		-0.1		1136.3		679324
-MARUTI		0.4		9476.55		305417
+WIPRO		0.25		415.65		1680252
+INDUSINDBK		0.28		1401.7		913538
+SUNPHARMA		-0.1		1136.25		680956
+MARUTI		0.48		9484.0		306600
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKEM		-1.23		3775.9		53128
-ZYDUSWELL		-0.02		1562.9		26083
+GODFRYPHLP		-1.79		2153.05		48167
+ZYDUSWELL		-0.02		1562.9		26116
