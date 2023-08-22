@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.22		1585.95		12882941
-ADANIENT		2.43		2704.0		9809545
+HDFCBANK		-0.21		1586.2		12953723
+ADANIENT		2.43		2703.85		9819317
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ZYDUSWELL		-0.77		1551.1		31744
+
