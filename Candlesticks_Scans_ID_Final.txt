@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.23		221.5		13245802
-BPCL		-0.64		349.8		1608271
-GRASIM		0.03		1808.9		236676
+NTPC		1.21		221.45		13262813
+BPCL		-0.58		350.0		1610742
+SBILIFE		1.36		1295.9		819479
+EICHERMOT		-0.33		3354.3		177035
+HEROMOTOCO		-0.17		2926.6		118373
 
 Bullish_Hammer_15m_N500								 
 ======================= 
