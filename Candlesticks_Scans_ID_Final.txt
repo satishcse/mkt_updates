@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		0.13		230.4		867229
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBER		-0.11		2871.0		201988
-PIDILITIND		0.0		2486.85		45072
-OFSS		-0.33		3985.0		7096
-TCIEXP		0.39		1408.4		7025
+LALPATHLAB		-0.38		2262.45		12497
