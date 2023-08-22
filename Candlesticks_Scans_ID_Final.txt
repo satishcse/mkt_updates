@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.12		859.2		7025616
-INFY		-0.28		1401.5		1964165
-WIPRO		0.14		415.2		1903704
+UPL		-0.18		584.65		944679
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TMB		-3.98		549.5		1382700
+ALKYLAMINE		-0.26		2322.9		18470
