@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-WIPRO,0.24,415.6,1676070
-INDUSINDBK,0.25,1401.25,911412
-MARUTI,0.38,9474.2,304994
+NTPC,1.26,221.55,13661591
+WIPRO,0.28,415.75,1678437
+INDUSINDBK,0.24,1401.2,912369
+SUNPHARMA,-0.1,1136.3,679324
+MARUTI,0.4,9476.55,305417
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ALKEM,-1.23,3775.9,53128
+ZYDUSWELL,-0.02,1562.9,26083
