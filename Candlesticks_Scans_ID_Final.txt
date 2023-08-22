@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.17		859.65		6955526
-BPCL		-0.92		348.8		2377830
-INFY		-0.3		1401.2		1947345
-WIPRO		0.18		415.35		1873685
-DRREDDY		0.28		5927.45		218294
+ADANIPORTS		0.16		859.55		6962043
+BPCL		-0.92		348.8		2379729
+INFY		-0.27		1401.55		1949574
+WIPRO		0.19		415.4		1874907
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDRMFAST		-0.74		1258.15		35186
+TMB		-4.61		545.9		1367776
+ASIANPAINT		-0.26		3173.9		267203
+COFORGE		-0.67		4963.05		132298
+SUNDRMFAST		-0.77		1257.75		35211
