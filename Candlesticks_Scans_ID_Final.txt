@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.01		955.15		4547643
+ICICIBANK		-0.03		954.95		4571504
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		-0.56		4292.95		49023
-VMART		-1.24		2160.0		4754
+CUMMINSIND		-0.19		1748.75		156633
+GRASIM		-0.19		1805.0		84753
+VMART		-1.24		2160.0		4758
