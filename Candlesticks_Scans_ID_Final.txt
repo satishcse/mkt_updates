@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.4		623.0		3410732
-HEROMOTOCO		0.05		2932.85		73685
+TATAMOTORS		0.37		622.8		3424273
+TITAN		-0.73		3055.9		286916
+HEROMOTOCO		0.02		2932.1		74412
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JINDWORLD		0.83		381.85		157445
+SOLARINDS		-0.87		4325.95		9615
