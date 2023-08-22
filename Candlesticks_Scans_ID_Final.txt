@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-0.74		1219.9		645396
-TATAINVEST		-1.11		2421.85		69432
+POLICYBZR		-0.57		717.15		1341705
+TANLA		0.0		1035.0		431546
+EICHERMOT		-0.66		3343.4		341499
+TATAINVEST		-1.19		2420.0		69818
+ALKYLAMINE		-0.2		2324.25		22879
