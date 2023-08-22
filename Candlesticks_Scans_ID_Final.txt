@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.19		221.4		13445826
-BPCL		-0.84		349.1		2042565
-M&M		0.94		1552.95		548157
-EICHERMOT		-0.36		3353.6		180599
+TATASTEEL		0.34		117.3		10806314
+INDUSINDBK		0.31		1402.15		903856
 
 Bullish_Hammer_15m_N500								 
 ======================= 
