@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.57		958.0		8915428
-UPL		-0.23		584.35		948817
+AXISBANK		0.5		957.4		8972288
+UPL		-0.26		584.2		949466
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKYLAMINE		-0.26		2322.9		18475
+INDIACEM		-1.63		241.0		1920937
+VAIBHAVGBL		-1.44		363.1		124108
