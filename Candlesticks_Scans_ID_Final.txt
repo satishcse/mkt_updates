@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCBANK		-0.25		1585.45		13157033
-ADANIENT		2.34		2701.55		9846471
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MUTHOOTFIN		-0.66		1253.45		400610
-HEG		0.25		1782.4		383758
-OFSS		-0.86		3963.45		31251
+ULTRACEMCO		-0.19		8203.3		187001
+CERA		0.26		8588.2		13170
