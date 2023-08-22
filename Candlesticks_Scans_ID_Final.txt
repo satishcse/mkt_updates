@@ -6,8 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-0.63		1469.0		1556914
-POLICYBZR		-0.58		717.05		1349030
-OLECTRA		-0.57		1222.0		654312
+BAJAJFINSV		-0.71		1467.8		1556985
+POLICYBZR		-0.42		718.2		1349032
+OLECTRA		-0.92		1217.65		654510
 360ONE		-0.61		509.9		213362
 INDIGOPNTS		0.09		1524.95		62008
