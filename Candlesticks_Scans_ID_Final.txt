@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.5		957.4		9025733
-HCLTECH		0.0		1179.25		1385651
-UPL		-0.27		584.1		954107
+ADANIENT		2.56		2707.2		9521167
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-OLECTRA		-1.08		1215.75		541924
-ALKYLAMINE		-0.25		2323.0		18551
+
