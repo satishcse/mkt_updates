@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.04		1588.8		7197434
-SBIN		-0.46		569.05		6617766
-POWERGRID		0.53		248.5		5357365
-BHARTIARTL		0.63		877.4		1323148
+TATASTEEL		0.17		117.1		8514965
+ONGC		0.54		177.0		2637236
+NESTLEIND		-0.06		22020.05		11988
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DEEPAKNTR		-0.82		1989.65		105289
-TCNSBRANDS		-1.43		434.25		56422
-ZYDUSWELL		0.11		1564.85		19907
+
