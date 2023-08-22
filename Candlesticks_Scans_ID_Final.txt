@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.13		117.05		5983838
-ICICIBANK		-0.04		954.8		4427161
-ITC		0.9		451.85		3594439
+ICICIBANK		0.04		955.6		4456134
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-0.45		1223.5		347115
-CUMMINSIND		-0.41		1744.9		151102
-ABB		-0.56		4293.0		47544
+CUMMINSIND		-0.4		1745.05		152457
+ABB		-0.53		4294.2		48258
