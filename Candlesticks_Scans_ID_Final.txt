@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.19		221.4		13367265
-ADANIPORTS		0.44		861.95		5664450
-BPCL		-0.87		349.0		1954019
-EICHERMOT		-0.36		3353.6		179816
+NTPC		1.17		221.35		13393908
+ADANIPORTS		0.43		861.85		5689325
+BPCL		-0.87		349.0		1971215
+EICHERMOT		-0.32		3354.95		180129
 
 Bullish_Hammer_15m_N500								 
 ======================= 
