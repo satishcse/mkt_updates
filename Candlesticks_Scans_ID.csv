@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.09,117.0,5931881
-ICICIBANK,0.05,955.65,4409365
-CIPLA,-0.93,1222.35,516522
+TATASTEEL,0.13,117.05,5945312
+ICICIBANK,-0.02,955.0,4420754
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+OLECTRA,-0.66,1220.85,346363
+ABB,-0.56,4292.85,47225
+VMART,-1.24,2160.0,4639
