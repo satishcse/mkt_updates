@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.81		450.55		6828405
-WIPRO		-0.32		415.75		2562880
-COALINDIA		0.17		231.15		1954960
+WIPRO		-0.36		415.6		2571150
+COALINDIA		0.2		231.2		1961662
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ROSSARI		-0.01		808.65		29906
+ROSSARI		-0.01		808.65		29909
