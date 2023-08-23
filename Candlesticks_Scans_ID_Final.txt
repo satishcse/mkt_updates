@@ -2,7 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.08		1400		1284139
+INDUSINDBK		-0.08		1400.0		1286335
+BHARTIARTL		-0.91		869.7		1241576
 
 Bullish_Hammer_15m_N500								 
 ======================= 
