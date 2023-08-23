@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		2.91		463.45		7563926
-BHARTIARTL		-0.95		869.35		1300612
-EICHERMOT		0.32		3354.15		257047
+ONGC		-0.09		176.0		4724031
+TATACONSUM		-0.59		843.8		375989
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIPOWER		-1.37		342.65		31830166
-PRAJIND		-1.24		483.8		1217721
+
