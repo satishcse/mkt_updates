@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.28		119.05		28818577
-SBIN		1.04		574.4		12681975
-KOTAKBANK		0.66		1774.8		2193411
-HCLTECH		0.21		1182.0		1740249
-UPL		0.54		587.0		854512
-GRASIM		-0.54		1796.05		275366
+SBIN		1.11		574.8		12737520
+HCLTECH		0.17		1181.45		1750765
+GRASIM		-0.54		1796.1		278970
 
 Bullish_Hammer_15m_N500								 
 ======================= 
