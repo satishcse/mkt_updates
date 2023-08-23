@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		1.03		961.85		7536284
-COALINDIA		0.04		230.85		1432036
-TECHM		-0.23		1210.4		861704
-GRASIM		-0.39		1798.8		192582
+ICICIBANK		0.94		960.95		7599402
+COALINDIA		0.0		230.75		1445579
+TECHM		-0.26		1210.1		881420
+GRASIM		-0.42		1798.2		193567
 
 Bullish_Hammer_15m_N500								 
 ======================= 
