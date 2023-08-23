@@ -6,8 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.39		1756.2		472030
-OLECTRA		0.19		1220.0		107358
-SBILIFE		0.47		1292.75		80372
-NAZARA		0.54		704.45		32059
-TEAMLEASE		0.08		2312.05		10618
+TEAMLEASE		0.08		2312		10646
