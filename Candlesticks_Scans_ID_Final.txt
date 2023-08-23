@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.28		248.5		4019512
-WIPRO		0.0		417.1		2216225
-BPCL		-0.3		345.85		1714301
+POWERGRID		0.3		248.55		4025139
+ONGC		-0.34		175.55		3990354
+WIPRO		-0.01		417.05		2217160
+BPCL		-0.29		345.9		1715296
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-2.61		2627.5		2153022
-AWL		-0.28		377.85		1146428
+ADANIENT		-2.54		2629.4		2156199
