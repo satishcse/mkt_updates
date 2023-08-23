@@ -2,7 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.42		1409.7		1249206
+NTPC		0.27		222.3		8539851
+INFY		0.42		1409.6		1252252
+HDFCLIFE		-0.76		631.0		798817
+HINDUNILVR		0.38		2575.5		661423
 
 Bullish_Hammer_15m_N500								 
 ======================= 
