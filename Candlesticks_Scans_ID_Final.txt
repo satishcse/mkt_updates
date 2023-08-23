@@ -2,12 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.87		450.3		5563446
-ONGC		-0.31		175.6		3918754
-WIPRO		0.0		417.1		2185653
-BPCL		-0.33		345.75		1701688
+HDFCBANK		0.22		1586.15		12391468
+ITC		-0.83		450.5		5587560
+ONGC		-0.34		175.55		3924882
+WIPRO		-0.04		416.95		2191152
+BPCL		-0.3		345.85		1704629
+COALINDIA		0.04		230.85		1580369
+APOLLOHOSP		0.72		4954.95		424732
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANITRANS		-3.52		926.35		1961027
+ADANIENT		-2.5		2630.5		2089964
+ADANITRANS		-3.6		925.6		1968217
