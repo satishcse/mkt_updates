@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCLIFE,-0.46,632.9,676152
-TECHM,-0.61,1205.8,622713
-BAJAJFINSV,-0.19,1465.0,418297
+TATASTEEL,0.98,118.7,17694307
+HDFCBANK,-0.09,1581.25,9016351
+SBIN,0.59,571.85,8333529
+TATAMOTORS,-0.85,614.9,4614457
+M&M,-0.68,1540.0,764381
+BRITANNIA,-0.26,4500.0,170295
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GLENMARK,-0.46,755.5,450228
+ULTRACEMCO,-0.3,8179.0,61172
