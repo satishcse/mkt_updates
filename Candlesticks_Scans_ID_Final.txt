@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.31		175.6		1723731
-INFY		0.51		1410.9		773932
-HDFCLIFE		-0.57		632.25		553130
+TATASTEEL		1.19		118.95		11599714
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RITES		0.73		477.1		1036409
-TCS		-0.02		3381.5		384453
-RATNAMANI		0.63		2619.45		2084
+
