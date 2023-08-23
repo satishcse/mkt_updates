@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.28		119.05		29687970
-HCLTECH		0.21		1182.0		1753818
-GRASIM		-0.52		1796.4		280220
+TATASTEEL		1.28		119.05		29857809
+HCLTECH		0.21		1182.0		1755572
+TATACONSUM		-0.68		843.0		318975
+GRASIM		-0.52		1796.45		281937
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TIINDIA		-1.11		2781.3		49274
+
