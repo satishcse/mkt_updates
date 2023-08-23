@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.15		118.9		23458767
-ONGC		-0.31		175.6		3733572
-WIPRO		-0.08		416.75		2138994
-JSWSTEEL		0.26		797.3		636785
-BRITANNIA		-0.21		4502.1		197596
+TATASTEEL		1.19		118.95		23575521
+WIPRO		-0.05		416.9		2150624
+JSWSTEEL		0.28		797.4		639336
+BRITANNIA		-0.22		4501.6		197918
 
 Bullish_Hammer_15m_N500								 
 ======================= 
