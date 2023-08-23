@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.23		119.0		25793482
-ADANIPORTS		-1.56		841.2		2272317
-BPCL		-0.29		345.9		1724375
-APOLLOHOSP		0.8		4959.0		434496
+TATASTEEL		1.28		119.05		26002764
+ONGC		-0.31		175.6		4025903
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAPMYINDIA		0.0		1654.35		45055
-ALKYLAMINE		0.09		2325.4		11397
+
