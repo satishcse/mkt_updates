@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.15		118.9		7826187
-POWERGRID		0.08		248.0		1762783
-BRITANNIA		-0.37		4495.05		81040
+TATASTEEL		1.06		118.8		8021979
+POWERGRID		0.04		247.9		1788012
+BRITANNIA		-0.33		4496.8		81402
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BIKAJI		-0.52		486.95		40809
