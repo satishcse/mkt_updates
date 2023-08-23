@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.25		634.25		519492
+HDFCLIFE		-0.48		632.8		525860
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KAJARIACER		-0.3		1484.75		45894
-BLUEDART		-0.41		6455.1		1606
+
