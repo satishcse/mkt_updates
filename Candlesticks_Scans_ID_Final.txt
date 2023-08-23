@@ -1,11 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		0.81		249.8		5600810
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-5.7		2544.15		4338328
-ADANITRANS		-7.69		886.3		3526666
-PATANJALI		-1.01		1284.95		64742
+ADANITRANS		-7.58		887.35		3574271
+AWL		-0.91		375.45		1580928
+ATGL		-2.94		652.75		1301514
+CREDITACC		-1.29		1378.0		63844
+LALPATHLAB		-0.56		2238.35		42420
