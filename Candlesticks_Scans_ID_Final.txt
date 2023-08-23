@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.85		614.9		4824849
+TATAMOTORS		-0.85		614.95		4836052
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-1.06		2343.5		86714
+MPHASIS		-0.91		2347.05		87183
+CREDITACC		-1.22		1378.9		32632
+BAYERCROP		-0.15		4733.55		25115
