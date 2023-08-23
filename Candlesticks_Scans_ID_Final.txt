@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.4		345.5		1453977
-M&M		-0.68		1540.0		788998
-BAJFINANCE		-0.1		7063.0		368867
+BPCL		-0.33		345.75		1457420
+BAJFINANCE		-0.11		7062.0		369124
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GRINFRA		-0.18		1254.7		14533
