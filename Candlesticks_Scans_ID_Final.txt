@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.31		1183.2		1917428
-INDUSINDBK		-0.12		1399.5		1292799
+NTPC		0.23		222.2		10575830
+TECHM		-0.68		1205.0		1306366
+BRITANNIA		0.12		4517.1		272204
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-2.09		993.9		893822
+SHREECEM		-0.41		23764.9		30731
