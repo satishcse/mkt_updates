@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,-0.31,175.6,3823332
-WIPRO,-0.02,417.0,2159145
-JSWSTEEL,0.27,797.35,643655
-BRITANNIA,-0.19,4503.15,198877
+ONGC,-0.34,175.55,3832865
+WIPRO,-0.02,417.0,2161778
+JSWSTEEL,0.23,797.0,643971
+BRITANNIA,-0.22,4501.9,199039
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SHREECEM,-0.39,23768.75,23780
