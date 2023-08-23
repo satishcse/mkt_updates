@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.93		1232.4		2106655
-TECHM		-0.68		1204.9		1273558
-INDUSINDBK		-0.1		1399.75		1132642
-ULTRACEMCO		-0.35		8174.85		107729
+KOTAKBANK		0.7		1775.5		2249738
+CIPLA		0.94		1232.45		2107924
+TECHM		-0.68		1205.0		1274664
+INDUSINDBK		-0.15		1399.1		1145486
 
 Bullish_Hammer_15m_N500								 
 ======================= 
