@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-0.71		1740.75		58261
-ROUTE		-0.17		1555.05		11736
-TCIEXP		0.19		1405.8		8882
-TATAINVEST		0.01		2430.75		5171
-THERMAX		0.24		2744.65		3922
+INDIGO		0.06		2498.85		74380
+DRREDDY		0.21		5966.0		34091
+UBL		0.3		1535.85		10195
+PFIZER		-0.47		3879.35		1659
