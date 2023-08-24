@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.12		451.0		3868876
-BHARTIARTL		0.03		868.45		1810620
+ITC		0.08		450.8		3887662
+BHARTIARTL		0.03		868.4		1811870
+TATACONSUM		0.1		845.4		1015375
 
 Bullish_Hammer_15m_N500								 
 ======================= 
