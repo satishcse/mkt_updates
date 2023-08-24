@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.11		614.55		2520777
-HINDALCO		-0.99		456.7		1760196
-ULTRACEMCO		0.7		8218.95		146945
+TATAMOTORS		0.13		614.7		2524210
+ULTRACEMCO		0.7		8219.0		147209
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBUJACEM		-0.09		452.9		1889800
-GRASIM		0.07		1798.95		199295
+GRASIM		0.07		1798.9		199948
+HEROMOTOCO		-0.4		2939.9		110460
 LUXIND		-0.07		1479.95		10389
-MRF		-0.36		108287.55		1906
