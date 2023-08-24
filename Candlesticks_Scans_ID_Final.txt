@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.23		1185.25		1017028
+TATAMOTORS		0.05		614.2		2470974
+BPCL		1.73		350.75		1712237
+ULTRACEMCO		0.87		8232.55		138135
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDHOTEL		0.55		403.3		1928796
-PEL		0.05		1076.15		943696
-PRAJIND		0.73		488.4		394100
-BERGEPAINT		0.38		705.5		154399
-PAGEIND		0.14		40022.0		5032
+WESTLIFE		-1.69		905.9		30010
 LAXMIMACH		-0.48		13540.0		2256
