@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		-0.02		5952.0		362346
-APOLLOHOSP		-0.45		4923.1		361464
+DRREDDY		-0.05		5950.65		364878
+APOLLOHOSP		-0.47		4922.2		361926
+ULTRACEMCO		0.68		8217.35		165638
 
 Bullish_Hammer_15m_N500								 
 ======================= 
