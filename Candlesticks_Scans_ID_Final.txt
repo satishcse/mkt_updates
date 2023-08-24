@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.1		450.9		4114116
-TATACONSUM		0.07		845.1		1026471
-HDFCLIFE		0.05		633.5		793784
-BAJAJ-AUTO		0.3		4674.95		327498
+ITC		0.08		450.8		4135804
+TATACONSUM		0.09		845.3		1027487
+HDFCLIFE		0.05		633.5		800120
+BAJAJ-AUTO		0.24		4672.0		328964
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LICI		-0.14		657.7		448186
+TANLA		-3.61		995.05		812441
+VINATIORGA		0.21		1796.75		24116
