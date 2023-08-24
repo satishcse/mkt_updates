@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-0.77		880.45		405761
-PNBHOUSING		-0.09		645.2		78706
-CENTURYTEX		-1.61		997.5		50408
+CENTURYTEX		-1.61		997.55		50759
+VINATIORGA		0.71		1805.75		10714
+FINEORG		0.09		4558.2		4123
