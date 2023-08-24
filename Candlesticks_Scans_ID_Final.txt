@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.17		614.95		3390891
-KOTAKBANK		0.13		1782.35		2039686
-ULTRACEMCO		0.7		8219.0		171392
+TATAMOTORS		0.11		614.55		3396450
+KOTAKBANK		0.05		1781.0		2069613
+ULTRACEMCO		0.7		8219.0		171802
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ROUTE		-0.5		1550		82021
+
