@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.93		1421.05		2898737
+ADANIPORTS		0.97		833.75		3037560
+INFY		0.88		1420.4		2904736
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		-0.82		2501.5		3655456
+
