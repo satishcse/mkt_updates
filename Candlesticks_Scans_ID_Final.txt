@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.46		119.5		3887437
-ONGC		0.48		176.35		848435
+ONGC		0.48		176.35		857332
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-1.0		5083.9		178101
-TATAINVEST		-0.06		2429.05		16565
-PAGEIND		0.25		40062.75		2796
+POLYCAB		-0.9		5088.9		179989
+MANYAVAR		0.15		1238.75		35507
+MCX		0.45		1590.6		34864
+TATAINVEST		-0.12		2427.7		16631
+PAGEIND		0.23		40055.8		2836
+CERA		-0.31		8830.0		2087
+SKFINDIA		0.89		5142.4		1799
