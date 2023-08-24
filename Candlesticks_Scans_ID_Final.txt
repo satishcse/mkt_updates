@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.36		220.9		4491133
-HINDALCO		-1.0		456.65		1835503
-UPL		0.73		590.05		975315
+ADANIENT		2.38		2590.45		2597029
+HINDALCO		-0.96		456.8		1841819
+UPL		0.73		590.0		976885
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HOMEFIRST		-0.41		860.4		19039
