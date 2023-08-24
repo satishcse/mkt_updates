@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.13		414.7		2181917
-MARUTI		-0.18		9583.7		288356
+WIPRO		-0.12		414.75		2185104
+MARUTI		-0.13		9588.75		289445
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AMBER		-0.61		2837.5		361586
-BAJAJELEC		-1.29		1121.45		41923
+
