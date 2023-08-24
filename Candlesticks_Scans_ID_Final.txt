@@ -1,21 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		0.07		221.85		706075
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HDFCBANK		0.24		1590.4		1796327
-ASIANPAINT		0.59		3187.35		44229
-BAJAJ-AUTO		0.52		4684.8		23580
-GMMPFAUDLR		0.92		1564.1		21450
-PRESTIGE		0.47		573.7		20470
-COROMANDEL		0.6		1074.0		19719
-MARUTI		0.41		9640.0		19332
-JKLAKSHMI		0.23		669.65		10319
-WHIRLPOOL		0.04		1628.0		3529
-NESTLEIND		0.28		22245.85		1625
-BLUEDART		0.18		6466.0		1098
-SUNDARMFIN		0.03		2596.85		273
+
