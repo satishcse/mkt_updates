@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.86		219.8		6146031
-TATACONSUM		0.07		845.15		984531
-DIVISLAB		-1.19		3660.15		220089
-BRITANNIA		0.43		4532.0		154349
+NTPC		-0.81		219.9		6165741
+DIVISLAB		-1.22		3659.0		220296
+BRITANNIA		0.46		4533.05		154679
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DCMSHRIRAM		-0.13		900.0		14708
+DCMSHRIRAM		-0.13		900.0		14740
 SKFINDIA		-0.56		5068.45		5534
