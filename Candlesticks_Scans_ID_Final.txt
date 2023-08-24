@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.38		1187.05		984245
+HCLTECH		0.28		1185.85		1004176
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYPLY		-2		622.2		43008
+CENTURYPLY		-1.98		622.3		43107
