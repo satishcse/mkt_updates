@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATAMOTORS,0.11,614.55,3396450
-KOTAKBANK,0.05,1781.0,2069613
-ULTRACEMCO,0.7,8219.0,171802
+TATAMOTORS,0.1,614.5,3413094
+KOTAKBANK,0.14,1782.6,2076293
+ULTRACEMCO,0.7,8218.95,171971
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+APOLLOHOSP,-0.59,4916.4,384252
+MAZDOCK,-0.21,1869.9,323262
