@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.66		792.65		1229252
-TATACONSUM		0.06		845.05		1078262
-HDFCLIFE		0.09		633.8		852397
+TATASTEEL		-0.42		118.45		20133613
+COALINDIA		-0.28		230.25		4886978
+WIPRO		-0.02		415.15		2126658
+MARUTI		-0.1		9591.35		280972
 
 Bullish_Hammer_15m_N500								 
 ======================= 
