@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.02		613.75		4062924
+TATACONSUM		0.08		845.25		996619
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DCMSHRIRAM		-0.13		900.0		14806
-SKFINDIA		-0.36		5078.5		5600
+DCMSHRIRAM		-0.13		900		14806
