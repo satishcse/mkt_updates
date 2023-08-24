@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.51		458.9		1221822
-WIPRO		0.52		417.4		934783
+HINDALCO		-0.54		458.75		1249026
+WIPRO		0.52		417.4		941724
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RELIANCE		0.09		2524.45		1496404
