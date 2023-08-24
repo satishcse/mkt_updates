@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.06		415		1610433
+TATAMOTORS		0.16		614.9		2981612
+WIPRO		-0.01		415.2		1617082
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAVELLS		0.01		1340.0		257030
-TEJASNET		-0.39		845.6		228349
+HAVELLS		0.01		1340.0		257471
+DIVISLAB		-1.1		3663.55		170568
+WESTLIFE		-2.02		902.85		42504
+VINATIORGA		0.33		1798.85		15417
