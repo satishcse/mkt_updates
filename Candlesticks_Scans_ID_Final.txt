@@ -5,9 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDIGO		0.02		2497.95		78806
-HAVELLS		0.35		1344.45		58933
-DATAPATTNS		0.2		2379.7		38335
-AARTIDRUGS		-0.39		568.0		36694
-UBL		0.32		1536.2		10524
+
