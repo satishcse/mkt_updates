@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.06		415		1604408
+WIPRO		-0.11		414.8		1608324
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEJASNET		-0.41		845.45		228009
-PATANJALI		-0.39		1277.0		35713
+TEJASNET		-0.39		845.6		228310
