@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.17		614.95		2576212
-HINDALCO		-0.98		456.75		1822983
-ULTRACEMCO		0.7		8218.7		150229
+NTPC		-0.36		220.9		4479640
+HINDALCO		-0.95		456.85		1829656
+UPL		0.73		590.05		963199
+TCS		-0.3		3387.9		460371
+SUNPHARMA		0.33		1127.45		427062
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AMBUJACEM		-0.2		452.4		2167933
-M&M		-0.62		1532.95		1218025
-RITES		-0.71		468.85		654286
-GRASIM		0.13		1800.0		204538
+
