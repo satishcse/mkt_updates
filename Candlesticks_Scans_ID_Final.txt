@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		1.05		3202.15		185645
+ASIANPAINT		0.98		3199.8		186227
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VINATIORGA		0.69		1805.45		10788
-FINEORG		0.09		4558.35		4136
+PNBHOUSING		-0.05		645.4		79989
+VINATIORGA		0.69		1805.45		10845
+FINEORG		0.09		4558.35		4143
