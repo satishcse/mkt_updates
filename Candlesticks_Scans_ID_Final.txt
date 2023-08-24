@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		0.85		418.8		647898
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BHARATFORG		-0.67		1029.0		491274
-AEGISCHEM		-1.53		372.5		77080
+HAL		0.91		4067.65		1047596
+LAXMIMACH		0.44		13665.25		1466
