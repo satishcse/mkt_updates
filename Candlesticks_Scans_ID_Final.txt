@@ -6,8 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AARTIDRUGS		-0.34		568.3		34823
-SONATSOFTW		0.48		1025.85		11839
-HOMEFIRST		0.78		870.7		5069
-WESTLIFE		-0.4		917.8		4140
-LAXMIMACH		1.25		13774.95		731
+ROUTE		-0.18		1554.95		11266
+HOMEFIRST		0.72		870.2		5121
