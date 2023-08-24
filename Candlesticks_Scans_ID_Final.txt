@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.98		3199.95		189602
+ASIANPAINT		0.98		3200		190139
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		0.15		2526.0		1399373
-PNBHOUSING		-0.07		645.3		80432
-LTTS		0.48		4388.7		50154
-CAMS		-0.16		2490.0		16216
-VINATIORGA		0.7		1805.5		10969
-FINEORG		0.14		4560.8		4195
+ZYDUSLIFE		0.27		647.1		247125
+LTTS		0.46		4388.0		50166
+CAMS		-0.16		2490.0		16257
+VINATIORGA		0.7		1805.6		10974
