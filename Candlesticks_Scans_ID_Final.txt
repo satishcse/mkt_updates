@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-MARUTI		0.16		9616.3		92307
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TCS		-0.37		3385.7		367579
+CAMS		-0.64		2478.0		21791
