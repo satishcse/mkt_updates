@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.36		1235.05		214847
+CIPLA		0.35		1235		215164
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KNRCON		-0.37		271.0		417391
 LAXMIMACH		0.06		13612.85		1658
