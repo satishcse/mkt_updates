@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		-0.07		9593.95		329269
+MARUTI		-0.02		9598.8		330040
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		-2.37		4525.3		13644
+GRASIM		-1.22		1775.75		775618
+PIDILITIND		0.63		2522.85		400218
+ABB		0.54		4325.85		207481
+POWERINDIA		-2.27		4530.0		13669
