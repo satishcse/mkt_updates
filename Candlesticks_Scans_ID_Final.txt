@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-1.09		570.65		4877998
+SBIN		-1.12		570.5		5052572
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUSTDIAL		-1.47		754.3		80195
+AVANTIFEED		-1.52		418.4		193952
+JUSTDIAL		-1.47		754.3		80273
