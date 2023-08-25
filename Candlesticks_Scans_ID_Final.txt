@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-1.02		571.05		5198204
+TATASTEEL		-0.34		117.85		9918900
+NTPC		-0.84		219.0		2763634
+COALINDIA		-0.17		228.85		1588277
+TCS		-0.34		3376.3		472338
+TITAN		-0.01		3060.85		274564
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AVANTIFEED		-1.44		418.75		197192
-OFSS		-0.91		3977.8		17749
+
