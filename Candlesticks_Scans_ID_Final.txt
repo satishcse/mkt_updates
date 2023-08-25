@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.38		117.8		3247683
-HINDALCO		-0.69		453.35		509352
-DIVISLAB		-0.77		3636.05		62291
+DIVISLAB		-0.69		3638.9		63071
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CRAFTSMAN		-1.08		4897.8		5571
