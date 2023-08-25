@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IFBIND		-1.21		925.6		45943
+RECLTD		-2.59		237.2		9045306
+IRCTC		-0.87		653.85		1683668
+MANYAVAR		-0.22		1212.5		121694
+TCIEXP		-0.19		1398.2		9528
