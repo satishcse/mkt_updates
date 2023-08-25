@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.02		1563.25		10410512
-COALINDIA		-0.55		228.0		2842110
-JSWSTEEL		-1.28		777.8		922990
+HDFCBANK		-1.02		1563.25		10433305
+COALINDIA		-0.55		228.0		2843463
+JSWSTEEL		-1.26		777.95		923333
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDARMFIN		-0.24		2602		3454
+SUNDARMFIN		-0.2		2603.1		3456
