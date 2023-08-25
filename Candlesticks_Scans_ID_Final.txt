@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.18		218.25		6677440
-WIPRO		-0.63		410.1		2890752
-LT		-1.73		2641.7		1212613
-TATACONSUM		-1.26		833.6		1042094
+NTPC		-1.18		218.25		6689595
+WIPRO		-0.55		410.45		2901953
+LT		-1.79		2640.1		1221359
+TATACONSUM		-1.21		833.95		1049405
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+STARHEALTH		-0.83		612.35		235923
+PAGEIND		-1.33		39466.3		10832
