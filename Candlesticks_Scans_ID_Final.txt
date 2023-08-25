@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-THERMAX		-2.52		2699.1		10444
-JBCHEPHARM		-1.04		2735.65		8628
+LICI		-0.85		649.9		274324
+POLYCAB		-1.28		4962.5		159068
+JUSTDIAL		-1.06		757.45		40922
+JBCHEPHARM		-1.06		2735.25		8630
