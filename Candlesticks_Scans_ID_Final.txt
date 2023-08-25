@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WELCORP		-1.66		319.5		176606
-PATANJALI		-1.56		1239.65		24781
-WHIRLPOOL		-1.35		1623.75		15696
+HEG		-1.86		1721.95		51469
+WHIRLPOOL		-1.38		1623.25		15811
