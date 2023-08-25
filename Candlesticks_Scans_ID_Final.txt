@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.98		446.5		5603388
-NTPC		-1.29		218.0		5127916
-BAJAJFINSV		2.39		1503.75		2874974
-ADANIPORTS		-1.52		809.85		2691561
+TATASTEEL		-0.89		117.2		16852683
+ITC		-1.0		446.4		5613530
+NTPC		-1.29		218.0		5143551
+ADANIPORTS		-1.51		809.95		2696870
+JSWSTEEL		-1.33		777.45		943364
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VMART		-1.27		2168.15		5010
+
