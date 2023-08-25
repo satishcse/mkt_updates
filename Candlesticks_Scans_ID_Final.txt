@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.99		571.25		4819761
-KOTAKBANK		0.06		1782.1		597321
+SBIN		-0.99		571.25		4833366
+KOTAKBANK		0.09		1782.5		600862
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VINATIORGA		-0.4		1798		8520
+
