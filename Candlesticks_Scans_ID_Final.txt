@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.85		117.25		17248222
-NTPC		-1.25		218.1		5475328
-COALINDIA		-0.46		228.2		2894951
-JSWSTEEL		-1.29		777.7		956445
+COALINDIA		-0.46		228.2		2896974
+JSWSTEEL		-1.31		777.6		956901
+M&M		-0.85		1529.05		720902
+ULTRACEMCO		-1.48		8089.9		128357
 
 Bullish_Hammer_15m_N500								 
 ======================= 
