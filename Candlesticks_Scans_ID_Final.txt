@@ -6,8 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-1.14		1808.9		389403
-MTARTECH		-0.28		2298.45		378618
-IFBIND		-1.33		924.45		45942
-BALAMINES		-0.86		2097.9		13556
-ABBOTINDIA		-0.47		23054.7		3087
+IFBIND		-1.21		925.6		45943
