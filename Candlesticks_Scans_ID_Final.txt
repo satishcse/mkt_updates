@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		-1.01		3627.35		67824
+DIVISLAB		-1.07		3625		68379
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BBTC		-0.75		1017.35		4363
+AXISBANK		-0.7		974.5		1038844
+KAJARIACER		0.08		1460.0		30948
