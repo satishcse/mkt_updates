@@ -1,12 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIENT		-1.24		2508.0		1478036
+APOLLOHOSP		-1.14		4864.05		116942
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RECLTD		-2.59		237.2		9045306
-IRCTC		-0.87		653.85		1683668
-MANYAVAR		-0.22		1212.5		121694
-TCIEXP		-0.19		1398.2		9528
+MANYAVAR		0.18		1217.4		122358
+IFBIND		-1.22		925.5		46162
+BALAMINES		-0.76		2100.0		13620
