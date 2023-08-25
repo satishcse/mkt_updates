@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.1		116.95		18946716
-BAJAJFINSV		2.34		1502.95		3226596
-WIPRO		-0.55		410.45		2657751
+TATASTEEL		-1.14		116.9		19010422
+BAJAJFINSV		2.33		1502.8		3230423
+WIPRO		-0.55		410.45		2660683
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-1.65		8075.95		144497
-MOTILALOFS		-1.79		876.45		106830
-INDIGOPNTS		-1.18		1513.75		45427
+ULTRACEMCO		-1.65		8075.95		144968
