@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-1.17		8115		50940
+ULTRACEMCO		-1.18		8114.9		50999
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SYNGENE		-2.99		772.55		412905
-COROMANDEL		-2.47		1068.3		213679
-HEROMOTOCO		-0.95		2900.0		209865
+SYNGENE		-2.94		772.95		414713
+COROMANDEL		-2.47		1068.35		214578
