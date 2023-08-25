@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.29		612.7		4201314
-HINDALCO		-0.94		452.2		1837461
-JSWSTEEL		-1.29		777.7		662852
+ITC		-0.95		446.6		4442632
+TATAMOTORS		0.24		612.4		4205918
+HINDALCO		-0.94		452.2		1839995
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPOWER		-2.01		322.2		10854526
+ADANIPOWER		-2.02		322.15		10868894
