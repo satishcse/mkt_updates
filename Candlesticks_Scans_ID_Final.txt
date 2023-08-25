@@ -2,7 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		0		9573.65		214672
+ONGC		1.01		174.85		2829773
+MARUTI		0.03		9576.75		214993
 
 Bullish_Hammer_15m_N500								 
 ======================= 
