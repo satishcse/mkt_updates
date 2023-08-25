@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.6		242.35		7027194
-ICICIBANK		0.3		971.9		6897251
-NTPC		-1.31		217.95		5051467
-JSWSTEEL		-1.26		777.95		931195
-SBILIFE		-0.71		1284.6		330533
+NTPC		-1.34		217.9		5062902
+BAJAJFINSV		2.38		1503.5		2866306
+JSWSTEEL		-1.29		777.7		934196
+SBILIFE		-0.7		1284.65		330766
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ULTRACEMCO		-1.5		8088.35		124618
+
