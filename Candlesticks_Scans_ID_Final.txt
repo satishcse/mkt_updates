@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.72		1531.15		610722
-BAJAJ-AUTO		-0.88		4589.55		99508
+M&M		-0.7		1531.35		611173
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RAMCOCEM		-0.62		853.75		130522
