@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.86		1529		614995
+M&M		-0.92		1528.05		615512
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIAMART		-3.28		3029.15		110726
+MTARTECH		-1.21		2276.95		517643
+INDIAMART		-3.28		3029.15		110902
