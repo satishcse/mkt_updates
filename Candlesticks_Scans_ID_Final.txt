@@ -1,10 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ICICIBANK		0.2		970.85		6230526
+TATAMOTORS		0.42		613.5		4367536
+COALINDIA		-0.57		227.95		2295676
+BHARTIARTL		0.06		870.0		1528929
+HCLTECH		-0.99		1159.7		982487
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		-0.67		3537.7		203300
-HOMEFIRST		-0.91		856.55		27872
+HOMEFIRST		-0.93		856.45		27906
