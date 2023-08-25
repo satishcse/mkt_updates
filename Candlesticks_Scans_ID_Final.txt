@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.72		117.4		12969811
-WIPRO		-0.78		409.5		2234312
+TATASTEEL		-0.68		117.45		12986389
+BHARTIARTL		0.02		869.6		1504723
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-1.2		1807.8		540597
-GODREJAGRO		-0.87		483.6		73814
+TATACOMM		-1.19		1808.0		541502
+DMART		-0.66		3537.85		202853
+GODREJAGRO		-0.87		483.6		73834
