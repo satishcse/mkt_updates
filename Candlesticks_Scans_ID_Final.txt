@@ -6,5 +6,10 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPRMILL		-0.76		703.9		68104
+UNOMINDA		-1.27		597.5		7892852
+TVSMOTOR		-1.21		1346.0		253659
+AUROPHARMA		0.08		834.35		226879
+DRREDDY		-0.96		5850.65		191878
+BORORENEW		-0.09		446.5		128489
+KPRMILL		-0.6		705.05		70124
 VMART		-0.64		2182.05		579
