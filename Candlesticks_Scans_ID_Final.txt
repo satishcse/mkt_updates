@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.67		409.95		2795684
-LT		-1.68		2643.1		1180559
-TATACONSUM		-1.21		834.0		1033657
+ONGC		1.04		174.9		3784205
+WIPRO		-0.69		409.85		2809478
+LT		-1.71		2642.2		1191433
+TATACONSUM		-1.17		834.35		1034683
 
 Bullish_Hammer_15m_N500								 
 ======================= 
