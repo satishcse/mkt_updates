@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.52		228.05		2905986
-JSWSTEEL		-1.31		777.55		960174
-M&M		-0.94		1527.75		725171
-ULTRACEMCO		-1.48		8089.8		129897
+COALINDIA		-0.52		228.05		2908458
+JSWSTEEL		-1.31		777.6		960577
+M&M		-0.94		1527.7		727001
+ULTRACEMCO		-1.48		8089.85		130153
 
 Bullish_Hammer_15m_N500								 
 ======================= 
