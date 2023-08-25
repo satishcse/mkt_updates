@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.93		446.7		5575025
-NTPC		-1.31		217.95		5102198
-BAJAJFINSV		2.38		1503.55		2871428
-JSWSTEEL		-1.34		777.35		942346
-SBILIFE		-0.69		1284.85		331934
+ITC		-0.98		446.5		5603388
+NTPC		-1.29		218.0		5127916
+BAJAJFINSV		2.39		1503.75		2874974
+ADANIPORTS		-1.52		809.85		2691561
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+VMART		-1.27		2168.15		5010
