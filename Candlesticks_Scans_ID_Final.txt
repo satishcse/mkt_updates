@@ -2,9 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		-0.69		3638.9		63071
+DIVISLAB		-0.88		3631.9		65747
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRAFTSMAN		-1.08		4897.8		5571
+AXISBANK		-0.72		974.3		1005627
+VIPIND		-0.74		688.25		146716
+ISEC		-0.77		619.5		24020
+ZYDUSWELL		-0.69		1635.0		13008
+BBTC		-0.75		1017.35		4363
+SKFINDIA		-0.54		5120.9		857
