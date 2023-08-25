@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUROPHARMA		0.4		837.0		163337
-BALAMINES		-0.03		2115.4		6537
+AUROPHARMA		0.34		836.45		168991
