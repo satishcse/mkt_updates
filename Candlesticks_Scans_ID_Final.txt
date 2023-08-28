@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.78		990.75		4487051
-SBILIFE		0.15		1298.35		387271
-ULTRACEMCO		0.62		8121.65		219911
+AXISBANK		0.7		990.0		4512128
+BPCL		1.9		356.9		3768329
+RELIANCE		0.33		2476.4		3023978
+SBILIFE		0.03		1296.85		390732
+ULTRACEMCO		0.6		8120.0		220254
 
 Bullish_Hammer_15m_N500								 
 ======================= 
