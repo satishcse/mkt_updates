@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.34		245.25		2909178
-RELIANCE		0.1		2470.9		1761271
+TATASTEEL		0.64		117.65		8184952
+POWERGRID		1.3		245.15		2922631
+RELIANCE		0.08		2470.25		1766480
+ONGC		0.54		175.65		1339487
+WIPRO		0.0		409.7		813226
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KENNAMET		-1.15		2700		1742
