@@ -1,23 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+UPL		0.26		584.7		190269
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPOWER		0.54		326.8		3596629
-BSE		-0.44		899.3		198882
-ADANIGREEN		0.46		984.0		198364
-JBMA		1.18		1544.9		68457
-COLPAL		-1.23		1948.05		53562
-CEATLTD		0.22		2304.85		26416
-DATAPATTNS		0.38		2334.95		26192
-GESHIP		0.34		763.7		20874
-INDIGOPNTS		0.29		1520.0		10372
-GODFRYPHLP		-0.09		2154.55		8796
-TCIEXP		0.18		1400.0		7842
-CRISIL		-1.09		3895.0		4263
-HLEGLAS		0.61		573.45		3879
-TATAINVEST		-0.14		2421.9		3483
-ABBOTINDIA		-0.05		23210.55		656
+BBTC		-0.47		987.55		6436
