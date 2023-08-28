@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.79		229.5		1623209
-ONGC		0.52		175.6		1229950
-CIPLA		2.03		1234.0		591106
+POWERGRID		1.24		245.0		2672629
+COALINDIA		0.72		229.35		1639278
+ONGC		0.49		175.55		1247791
+WIPRO		-0.04		409.55		793106
+CIPLA		2.03		1234.0		597905
 
 Bullish_Hammer_15m_N500								 
 ======================= 
