@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		0.84		2935.4		47357
+POWERGRID		0.95		244.3		1292371
+TATACONSUM		-0.18		831.05		122218
+HEROMOTOCO		0.93		2938.0		48698
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-0.38		1696		16776
+MASTEK		-0.55		2244.3		29022
+AAVAS		0.49		1599.0		18510
