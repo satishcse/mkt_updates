@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.86		356.75		3276675
+BPCL		1.86		356.75		3277946
+ULTRACEMCO		0.63		8122.0		208456
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CDSL		-0.73		1130.95		178034
-FINCABLES		-1.54		1061.2		112721
-AIAENG		0.28		3658.4		62211
-VMART		-0.55		2164.8		3878
+VMART		-0.62		2163.3		3881
