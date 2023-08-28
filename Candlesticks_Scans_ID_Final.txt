@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.15		968.95		3662638
+ICICIBANK		-0.15		968.9		3769173
+NTPC		0.07		218.05		1171452
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GALAXYSURF		-1.23		2657.05		8667
-GARFIBRES		-0.01		3190.95		4214
+GALAXYSURF		-1.18		2658.4		8694
+GARFIBRES		-0.01		3191.15		4219
+3MINDIA		0.32		30451.25		839
