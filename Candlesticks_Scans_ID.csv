@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.51,117.5,16101236
-ONGC,0.4,175.4,3764924
-HINDALCO,-0.8,446.4,3657046
-WIPRO,-0.28,408.55,1381815
+TATASTEEL,0.47,117.45,16141114
+ONGC,0.4,175.4,3768025
+HINDALCO,-0.79,446.45,3661241
+WIPRO,-0.29,408.5,1386853
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+WESTLIFE,0.2,900.0,76784
+BLUEDART,-1.18,6319.05,9749
