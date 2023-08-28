@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.37		175.35		3733745
-COALINDIA		0.79		229.5		2617669
+HINDALCO		-0.74		446.65		3636151
+TITAN		-0.4		3055.05		377663
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LATENTVIEW		-1.83		423.2		505160
+LATENTVIEW		-1.84		423.15		520980
+ALKYLAMINE		0.15		2320.55		19126
