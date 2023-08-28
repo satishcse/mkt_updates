@@ -2,16 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.18		244.85		3004915
-RELIANCE		0.05		2469.65		2045377
-NTPC		0.05		218.0		1095205
-WIPRO		-0.1		409.3		824356
-GRASIM		0.59		1786.7		107750
-BAJAJ-AUTO		0.57		4610.0		64177
+SBIN		0.3		571.65		4094924
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JSL		-1.5		416.0		90665
-GALAXYSURF		-0.94		2664.95		4997
-SKFINDIA		-0.32		5029.25		2586
+
