@@ -2,12 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.61		989.1		4576847
-BPCL		1.91		356.95		3790843
-RELIANCE		0.29		2475.5		3041779
-COALINDIA		0.75		229.4		2108508
-SBILIFE		0.1		1297.7		394616
-ULTRACEMCO		0.6		8119.7		223440
+HINDALCO		-0.53		447.6		2594450
 
 Bullish_Hammer_15m_N500								 
 ======================= 
