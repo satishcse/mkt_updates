@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.1		409.3		771131
-TATACONSUM		0.47		836.5		205461
-EICHERMOT		0.4		3354.55		107226
+WIPRO		-0.11		409.25		775245
+TATACONSUM		0.46		836.35		207219
+EICHERMOT		0.36		3353.15		108716
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+JSL		-1.1		417.7		57973
+AIAENG		0.6		3670.0		49387
+TATAELXSI		0.22		7317.55		32677
 ZFCVINDIA		-0.9		12970.55		670
