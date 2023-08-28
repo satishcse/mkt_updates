@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.41		245.4		2837473
-TATAMOTORS		0.44		607.75		2710163
-AXISBANK		0.24		985.45		2704301
-RELIANCE		0.16		2472.35		1700738
-KOTAKBANK		0.12		1781.0		500622
+ICICIBANK		-0.37		966.8		2945232
+POWERGRID		1.34		245.25		2877656
+RELIANCE		0.18		2472.8		1705917
+KOTAKBANK		0.16		1781.7		502610
 
 Bullish_Hammer_15m_N500								 
 ======================= 
