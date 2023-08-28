@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-0.05		1295.7		532904
-TATACONSUM		1.0		840.9		510673
-BRITANNIA		-0.44		4505.95		237097
+SBILIFE		-0.05		1295.7		533718
+TATACONSUM		1.01		840.95		511055
+BRITANNIA		-0.46		4505.0		238698
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNTV		-0.2		603.05		2053532
+SUNTV		-0.24		602.8		2054809
