@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.88		356.85		3311795
-KOTAKBANK		0.59		1789.4		823841
-ASIANPAINT		0.05		3260.95		314927
+KOTAKBANK		0.58		1789.25		825318
+ASIANPAINT		0.03		3260.3		316136
+ULTRACEMCO		0.63		8121.9		209929
 
 Bullish_Hammer_15m_N500								 
 ======================= 
