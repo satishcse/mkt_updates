@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.14		2471.85		2715070
-HCLTECH		0.01		1154.05		1609149
-KOTAKBANK		0.57		1789.0		828893
-DRREDDY		0.35		5799.25		234806
-ULTRACEMCO		0.59		8119.0		210092
+RELIANCE		0.14		2471.85		2732858
+HCLTECH		-0.07		1153.15		1666766
+KOTAKBANK		0.56		1788.85		832516
+DRREDDY		0.27		5795.05		237018
+ULTRACEMCO		0.6		8120.0		210354
 
 Bullish_Hammer_15m_N500								 
 ======================= 
