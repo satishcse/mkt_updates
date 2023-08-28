@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.6		117.6		11986682
-SBILIFE		0.15		1298.4		359670
-MARUTI		1.14		9614.0		149815
+TATASTEEL		0.6		117.6		12004614
+SBILIFE		0.16		1298.5		361417
+MARUTI		1.13		9613.1		150037
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ESCORTS		-1.1		3017.8		222168
+ESCORTS		-1.08		3018.6		222663
