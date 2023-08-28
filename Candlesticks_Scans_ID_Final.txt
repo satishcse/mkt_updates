@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.14		1298.2		519155
-BRITANNIA		-0.35		4510.0		216145
+SUNPHARMA		0.95		1116.85		1492153
+SBILIFE		0.16		1298.5		519665
+BRITANNIA		-0.35		4510.05		216642
+DIVISLAB		-0.07		3634.1		150087
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ESCORTS		-1.49		3006		265071
