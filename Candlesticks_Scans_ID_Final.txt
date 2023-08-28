@@ -6,10 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFSL		0.6		911.95		100961
-PVRINOX		0.54		1735.0		23174
-AAVAS		0.65		1601.65		8375
-AETHER		0.3		1052.5		6331
-TCNSBRANDS		-0.71		406.8		3793
-BAYERCROP		-0.11		4710.9		1253
-PFIZER		0.27		3853.5		210
+ABBOTINDIA		-0.07		23204.05		496
+SANOFI		-0.05		7114.2		410
