@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.13		831.45		123301
+TITAN		-0.43		3054		104702
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		0.6		2510.7		1352131
-BSOFT		-1.01		479.65		432965
-HINDUNILVR		-0.78		2543.5		135090
-MASTEK		-0.42		2247.2		29245
-BATAINDIA		-0.26		1698.0		17622
-OFSS		-0.59		3940.65		11956
-PAGEIND		-0.52		39085.55		2228
+STARHEALTH		-0.63		606.35		1122363
+PIDILITIND		-0.51		2514.9		40458
+RADICO		0.5		1249.05		39681
+BATAINDIA		-0.22		1698.7		17754
+PAGEIND		-0.44		39117.0		2351
