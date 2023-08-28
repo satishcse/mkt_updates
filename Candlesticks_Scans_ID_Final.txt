@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.95		1116.85		1675706
+SUNPHARMA		0.95		1116.85		1719042
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HDFCLIFE		-0.18		627.2		2416933
+ASTRAL		0.18		1987.7		1441307
+ALKYLAMINE		0.15		2320.55		23147
