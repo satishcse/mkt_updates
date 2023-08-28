@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-COALINDIA,0.68,229.25,1389699
-TCS,-0.46,3365.85,257890
-TITAN,-0.41,3054.5,116749
-BAJAJ-AUTO,0.55,4609.1,46979
+COALINDIA,0.72,229.35,1391234
+TCS,-0.46,3365.75,260483
+TITAN,-0.41,3054.5,118455
+BAJAJ-AUTO,0.66,4614.1,48080
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HGS,-0.01,1013.7,7077
