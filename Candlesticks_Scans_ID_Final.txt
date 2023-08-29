@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.32		356.45		1091756
-BRITANNIA		-0.24		4500.25		105666
+TATASTEEL		1.02		118.8		9960420
+POWERGRID		1.51		252.25		3619519
+COALINDIA		0.15		229.8		1247360
+M&M		-0.17		1546.6		259138
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LTIM		0.23		5141.5		93491
-INDIGOPNTS		1.43		1535.5		34990
-POWERINDIA		-0.9		4575.25		5744
+
