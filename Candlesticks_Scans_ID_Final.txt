@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.32		440.0		4186722
-M&M		-0.37		1543.5		315927
+ITC		-0.24		440.35		4828224
+COALINDIA		0.26		230.05		1409925
+INDUSINDBK		-0.72		1399.25		981394
+M&M		-0.39		1543.2		316858
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZFCVINDIA		-1.14		12788.55		2020
+TEJASNET		-0.35		836.4		124739
+ZFCVINDIA		-1.13		12790.0		2025
