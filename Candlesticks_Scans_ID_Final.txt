@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.23		175.6		2484840
-TECHM		1.38		1201.1		895293
-SUNPHARMA		-0.13		1115.6		795809
+SBIN		0.1		573.4		5425261
+AXISBANK		-1.09		979.4		4274522
+ONGC		0.23		175.6		2487517
+HCLTECH		1.26		1160.95		1160145
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HINDUNILVR		-0.67		2538.5		404461
+
