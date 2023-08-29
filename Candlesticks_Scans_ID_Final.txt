@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		1.0		1241.15		224084
-HINDUNILVR		-0.23		2549.8		47534
-GRASIM		0.3		1790.0		36359
+HINDUNILVR		-0.26		2549		47856
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEAMLEASE		0.06		2330		1469
+LUPIN		0.08		1108.85		338652
+HAL		-0.39		3899.85		131543
+BRITANNIA		-0.39		4493.4		40976
