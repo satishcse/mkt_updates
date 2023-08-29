@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+JKPAPER		-1.6		360.7		651300
 IFBIND		-0.35		922.65		31432
-CERA		-0.96		9246.2		14457
+CERA		-0.97		9244.95		14497
