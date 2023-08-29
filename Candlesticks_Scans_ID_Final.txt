@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.02		118.8		10403876
-NTPC		0.91		220.7		3179614
-JSWSTEEL		1.22		782.4		827923
+NTPC		0.87		220.6		3212424
+JSWSTEEL		1.19		782.2		879757
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HINDUNILVR		-0.55		2541.75		300907
