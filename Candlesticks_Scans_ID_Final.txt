@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.13		229.75		1167131
+SBIN		0.07		573.25		3193798
+DRREDDY		-0.57		5742.85		231927
+BRITANNIA		-0.22		4501.0		97746
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ANGELONE		-0.84		1779.1		185182
-DATAPATTNS		-0.78		2321.85		51144
+
