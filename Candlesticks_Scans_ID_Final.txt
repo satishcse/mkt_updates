@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.26		2549		47856
+HINDUNILVR		-0.3		2548		48692
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LUPIN		0.08		1108.85		338652
-HAL		-0.39		3899.85		131543
-BRITANNIA		-0.39		4493.4		40976
+HAL		-0.46		3897.3		135245
+PNBHOUSING		-0.63		647.95		53756
