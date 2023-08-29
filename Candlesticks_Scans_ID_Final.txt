@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.43		409.8		572129
-BRITANNIA		-0.26		4499.0		58343
+ICICIBANK		0.09		971.45		2318961
+WIPRO		0.39		409.65		577389
+BRITANNIA		-0.26		4499.0		59078
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIXON		-0.5		4922.0		108634
+CRAFTSMAN		0.27		4852.7		5199
