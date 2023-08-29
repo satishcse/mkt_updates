@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,0.23,175.6,2462414
-TECHM,1.37,1201.0,884972
-LT,0.32,2704.0,484430
+ONGC,0.2,175.55,2465313
+BPCL,0.34,356.5,1315187
+TECHM,1.41,1201.45,885994
+LT,0.37,2705.45,485482
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CAMS,0.12,2378.85,42988
