@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-1.4		858.15		10550784
-SBIN		0.13		573.6		4387159
-COALINDIA		0.26		230.05		1420356
-BAJFINANCE		0.5		7271.6		517107
-MARUTI		0.24		9620.25		179346
-BRITANNIA		0.1		4515.25		164536
+BHARTIARTL		-1.4		858.2		10554496
+SBIN		0.11		573.5		4398321
+COALINDIA		0.26		230.05		1423103
+BAJFINANCE		0.48		7270.0		518409
+MARUTI		0.26		9623.0		179562
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZFCVINDIA		-1.13		12790		2025
+OLECTRA		-0.21		1198.15		198529
