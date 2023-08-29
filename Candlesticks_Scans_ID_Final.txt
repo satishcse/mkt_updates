@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.77		118.5		5692548
-HINDALCO		0.85		450.1		623832
-JSWSTEEL		0.82		779.3		293616
-BRITANNIA		-0.32		4496.35		51000
+TATASTEEL		0.64		118.35		6023624
+HINDALCO		0.84		450.05		638383
+BRITANNIA		-0.35		4495.3		51647
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MASTEK		-0.91		2244.0		19192
+POWERINDIA		-0.07		4613.6		1837
