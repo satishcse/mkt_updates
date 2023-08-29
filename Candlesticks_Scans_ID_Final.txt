@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		0.18		3354.3		239039
+COALINDIA		0.22		229.95		2824428
+EICHERMOT		0.17		3353.9		242946
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RUSTOMJEE		-0.14		578.65		7025
+
