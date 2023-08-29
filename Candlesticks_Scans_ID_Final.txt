@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.02		118.8		9960420
-POWERGRID		1.51		252.25		3619519
-COALINDIA		0.15		229.8		1247360
-M&M		-0.17		1546.6		259138
+SBIN		0.15		573.7		3654160
+POWERGRID		1.51		252.25		3638774
+M&M		-0.1		1547.65		260626
 
 Bullish_Hammer_15m_N500								 
 ======================= 
