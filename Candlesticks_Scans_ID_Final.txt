@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.2		175.55		837181
-TITAN		0.2		3054.55		78669
+ONGC		0.2		175.55		843973
+TITAN		0.17		3053.6		80547
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCNSBRANDS		-0.59		401.85		27708
-ENDURANCE		0.26		1623.85		5203
+TCNSBRANDS		-0.59		401.85		28307
+GODFRYPHLP		0.14		2137.3		17981
+ENDURANCE		0.36		1625.55		5219
