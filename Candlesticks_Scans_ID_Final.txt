@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.04		970.2		6848515
-TATAMOTORS		1.14		609.25		5148277
-NTPC		1.21		221.35		4854664
-ASIANPAINT		0.65		3281.0		279327
+ICICIBANK		-0.06		970.0		6891273
+TATAMOTORS		1.2		609.65		5157777
+ASIANPAINT		0.67		3281.45		281024
 
 Bullish_Hammer_15m_N500								 
 ======================= 
