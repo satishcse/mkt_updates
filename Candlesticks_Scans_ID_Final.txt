@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.22		229.95		1839364
+COALINDIA		0.11		229.7		1854546
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBMA		-2.35		1519.0		299072
-MEDPLUS		-0.9		891.25		102923
+ACI		-0.71		644.95		810855
+JBMA		-1.96		1525.0		301687
+MEDPLUS		-0.83		891.85		102950
