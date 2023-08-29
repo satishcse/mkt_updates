@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.23		175.6		2449732
-TECHM		1.32		1200.4		878871
-MARUTI		0.28		9624.1		184367
+ONGC		0.23		175.6		2454353
+HCLTECH		1.08		1158.85		1116290
+TECHM		1.36		1200.9		882983
+LT		0.32		2704.0		482178
 
 Bullish_Hammer_15m_N500								 
 ======================= 
