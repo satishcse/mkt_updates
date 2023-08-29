@@ -6,9 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPOWER		0.5		670.0		27280
-OBEROIRLTY		0.4		1087.4		18861
-MEDANTA		0.01		710.05		15156
-GODFRYPHLP		0.35		2141.65		3641
-BAJAJELEC		-0.02		1134.7		3117
-VMART		0.64		2149.0		768
+DALBHARAT		0.3		2037.95		25874
+INGERRAND		0.83		3228.5		775
