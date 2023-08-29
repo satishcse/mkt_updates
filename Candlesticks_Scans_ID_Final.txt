@@ -5,13 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RAJESHEXPO		-1.74		505.2		2103936
-TITAN		-0.61		3048.55		471698
-CIEINDIA		0.53		508.2		266165
-LINDEINDIA		1.19		5986.35		257042
-MHRIL		-2.48		391.75		253823
-CAMS		-1.6		2376.05		83711
-JINDWORLD		-2.91		389.7		81801
-ECLERX		1.04		1618.2		42313
-KIMS		-1.16		1975.9		25620
+
