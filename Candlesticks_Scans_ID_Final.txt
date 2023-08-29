@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.24		230.0		1461661
-BAJFINANCE		0.02		7237.25		590111
-MARUTI		0.26		9623.0		182485
+COALINDIA		0.22		229.95		1463453
+BAJFINANCE		0.02		7237.4		598553
+MARUTI		0.28		9624.45		183487
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HAL		-0.79		3884.45		444883
