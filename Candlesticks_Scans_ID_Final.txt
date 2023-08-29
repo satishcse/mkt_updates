@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.21		251.5		5959731
-HINDALCO		2.34		456.75		4456043
-ASIANPAINT		0.67		3281.65		286826
+BHARTIARTL		-1.16		860.25		11460743
+POWERGRID		1.17		251.4		5970081
+HINDALCO		2.4		457.0		4458677
+ASIANPAINT		0.66		3281.3		287349
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HDFCAMC		-1.46		2490.4		434104
-POLYCAB		-0.99		5043.1		288218
+
