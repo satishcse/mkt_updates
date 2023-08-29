@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.29		629.2		1409869
-BPCL		0.38		356.65		1042026
-DRREDDY		-0.59		5741.95		236761
-BRITANNIA		-0.24		4500.25		98482
+HDFCLIFE		0.29		629.15		1410917
+BPCL		0.35		356.55		1053853
+DRREDDY		-0.59		5741.6		238120
+BRITANNIA		-0.24		4500.05		99631
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-0.99		954.5		430112
+ZFCVINDIA		-0.77		12836.35		1841
