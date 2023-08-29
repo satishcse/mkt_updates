@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,0.43,1584.5,5471735
-BPCL,0.34,356.5,1084216
-BRITANNIA,-0.24,4500.0,104929
+BPCL,0.32,356.45,1091756
+BRITANNIA,-0.24,4500.25,105666
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-LTIM,0.24,5142.35,93099
+LTIM,0.23,5141.5,93491
+INDIGOPNTS,1.43,1535.5,34990
+POWERINDIA,-0.9,4575.25,5744
