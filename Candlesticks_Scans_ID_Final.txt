@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.22		229.95		2982725
-EICHERMOT		0.17		3354.05		261449
+COALINDIA		0.17		229.85		2997032
+EICHERMOT		0.2		3354.9		262702
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KIMS		-0.83		1959.5		15246
