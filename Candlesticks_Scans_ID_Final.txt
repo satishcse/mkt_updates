@@ -6,9 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-1.16		872.55		602806
-HAL		-0.48		3896.4		173136
-DMART		0.84		3623.0		172961
-MAZDOCK		-0.37		1827.0		132101
-KSB		-0.21		2696.2		4427
-KENNAMET		0.0		2758.5		687
+PAYTM		-1.13		872.8		610558
+DMART		0.86		3623.85		173625
+DRREDDY		-0.51		5746.5		95803
+IIFL		-0.57		589.9		30897
+AFFLE		-0.37		1086.0		21358
+KSB		-0.21		2696.2		4449
