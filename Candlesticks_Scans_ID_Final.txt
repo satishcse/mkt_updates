@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.36		1827.2		129330
-DRREDDY		-0.67		5737.0		85753
-IIFL		-0.58		589.85		24792
+PAYTM		-1.22		872.0		583578
+MAZDOCK		-0.38		1826.8		131377
+DRREDDY		-0.62		5739.95		89408
+PFIZER		0.48		3858.75		2053
