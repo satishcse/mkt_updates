@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.11		574.2		4486253
-NTPC		0.07		221.25		1560331
-ONGC		0.28		176.2		1487315
-CIPLA		1.21		1244.65		375642
+CIPLA		1.24		1244.95		394104
+APOLLOHOSP		-0.09		4874.0		225575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DRREDDY		-0.37		5702.35		267508
+
