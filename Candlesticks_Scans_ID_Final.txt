@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.43		176.45		3178687
-M&M		1.35		1581.9		2390961
-COALINDIA		-0.2		229.5		1990409
-BHARTIARTL		0.48		859.3		1942071
-APOLLOHOSP		0.18		4887.25		273355
-BAJFINANCE		0.37		7320.0		241758
+M&M		1.35		1581.95		2393466
+COALINDIA		-0.2		229.5		1998075
+BHARTIARTL		0.51		859.6		1943592
+APOLLOHOSP		0.18		4887.4		274080
+BAJFINANCE		0.38		7320.85		242203
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DRREDDY		-0.88		5673.45		434689
+AJANTPHARM		-0.91		1709.0		31958
