@@ -5,8 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DRREDDY		-0.05		5720.75		56889
-OFSS		0.42		4021.35		5396
-LUXIND		0.32		1433.25		4902
-ECLERX		0.08		1632.7		4370
+
