@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,0.03,575.05,3697851
-POWERGRID,-1.11,248.35,1965257
-TATACONSUM,1.15,847.9,275020
-ASIANPAINT,0.07,3288.1,204902
+SBIN,0.04,575.1,3772301
+NTPC,0.05,221.2,1510066
+TATACONSUM,1.09,847.4,282295
+ASIANPAINT,0.12,3289.6,206932
+NESTLEIND,0.17,22100.65,9448
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CRAFTSMAN,-0.91,4799.9,72496
