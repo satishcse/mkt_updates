@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.1		575.45		1944803
-BPCL		-1.5		351.45		1601477
-NTPC		-0.14		220.8		866821
+SBIN		0.09		575.35		1963237
+NTPC		-0.14		220.8		888471
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		0.85		1771.05		52219
-POWERINDIA		-0.86		4507.0		6955
-CERA		-0.17		9227.5		2444
+NATCOPHARM		-0.01		894.95		62496
+PHOENIXLTD		0.85		1771.0		52378
+TORNTPOWER		-1.16		658.0		50207
