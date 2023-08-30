@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.49		2432.25		3186232
-SUNPHARMA		0.43		1116.35		788597
+ICICIBANK		0.09		968.65		5461851
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RAYMOND		-0.05		1969.85		52652
+BAYERCROP		-0.22		4734.4		20106
