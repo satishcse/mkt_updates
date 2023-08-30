@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.48		995.25		3510215
-POWERGRID		-1.04		248.55		2160435
+AXISBANK		1.45		994.95		3520602
+TATAMOTORS		0.47		610.0		2543642
+EICHERMOT		0.97		3388.0		459991
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAYERCROP		-0.12		4739.05		18348
 SCHAEFFLER		-0.39		3067.6		11284
