@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.29		1581.05		2399233
-BHARTIARTL		0.5		859.5		1948826
-APOLLOHOSP		0.18		4887.0		274471
+ADANIPORTS		0.78		829.95		5603056
+M&M		1.29		1581.0		2399772
+APOLLOHOSP		0.17		4886.6		274980
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-360ONE		0.16		507.85		280552
+AJANTPHARM		-0.9		1709.15		32077
