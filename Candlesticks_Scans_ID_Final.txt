@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.03		575.0		1975279
-NTPC		-0.18		220.7		892422
+NTPC		-0.18		220.7		896923
+APOLLOHOSP		-0.52		4853.15		128266
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JSWENERGY		-0.49		364.4		1896188
-PHOENIXLTD		0.73		1768.95		52689
-NH		-0.07		1029.4		24828
-GODFRYPHLP		-0.09		2164.3		17467
+
