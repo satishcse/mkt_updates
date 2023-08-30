@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.0		967.75		7351327
-AXISBANK		1.46		995.0		5109128
-BPCL		-0.97		353.35		3114411
-HCLTECH		1.43		1174.15		691046
-HINDUNILVR		0.32		2534.2		672222
+ICICIBANK		0.0		967.75		7372471
+AXISBANK		1.47		995.15		5127938
+BPCL		-1.05		353.05		3118212
+HCLTECH		1.44		1174.2		691893
+HINDUNILVR		0.31		2534.05		673330
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		0.58		2381.7		23644
+CAMS		0.57		2381.55		23651
