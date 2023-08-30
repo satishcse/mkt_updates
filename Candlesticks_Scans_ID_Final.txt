@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.24		1580.25		2405488
-APOLLOHOSP		0.15		4885.65		275649
+M&M		1.25		1580.35		2407200
+APOLLOHOSP		0.15		4885.9		275868
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJAGRO		0.09		481.45		80650
+360ONE		0.22		508.15		281363
