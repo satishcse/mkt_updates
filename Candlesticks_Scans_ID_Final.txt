@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.67		121.55		12593431
-M&M		1.36		1582.0		1039675
-ADANIENT		0.0		2506.5		568778
+TATASTEEL		1.63		121.5		12828520
+M&M		1.41		1582.9		1046093
+ADANIENT		0.01		2506.8		577043
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAHLIFE		4.99		563.85		1543159
-PAYTM		0.44		856.65		1405537
-MPHASIS		0.92		2332.35		116681
-SHREECEM		-0.07		24113.9		2868
+LODHA		0.66		677.2		274532
+SHREECEM		-0.14		24096.7		2900
