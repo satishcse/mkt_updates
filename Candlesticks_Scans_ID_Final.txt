@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.45		458.1		4442946
-POWERGRID		-1.29		247.9		3050865
-TCS		0.77		3402.0		839027
-TITAN		0.5		3094.8		460572
+ICICIBANK		-0.05		967.3		8769353
+POWERGRID		-1.29		247.9		3053230
+TCS		0.77		3402.3		840276
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYTEX		-1.06		1018.95		57248
+CENTURYTEX		-0.86		1021		59950
