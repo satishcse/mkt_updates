@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		0.39		856.2		3445840
-MAPMYINDIA		-0.48		1734.1		49744
-HONAUT		-0.56		40200.0		689
+HONAUT		-0.56		40200		689
