@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.2		220.65		899290
-APOLLOHOSP		-0.52		4852.8		130732
+NTPC		-0.2		220.65		910994
+APOLLOHOSP		-0.58		4850.0		168816
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-APARINDS		-0.8		4990		19215
+
