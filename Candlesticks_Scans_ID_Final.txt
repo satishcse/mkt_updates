@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.23		248.05		2653362
-TECHM		1.1		1211.2		1436096
-HCLTECH		1.47		1174.55		679081
+ICICIBANK		0.07		968.4		7253031
+AXISBANK		1.72		997.6		4997722
+TECHM		1.07		1210.85		1436560
+HCLTECH		1.46		1174.5		681060
 
 Bullish_Hammer_15m_N500								 
 ======================= 
