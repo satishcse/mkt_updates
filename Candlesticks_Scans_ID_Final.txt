@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.61		247.1		3988917
-MARUTI		1.39		9755.1		401073
+POWERGRID		-1.63		247.05		4003063
+MARUTI		1.4		9755.75		402048
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KOTAKBANK		-0.14		1780.55		2193116
-KEC		-1.94		662.35		449893
+
