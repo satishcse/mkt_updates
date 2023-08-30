@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUROPHARMA		0.3		831.25		157534
-BLUEDART		0.7		6311.5		1535
+DRREDDY		-0.01		5723.45		50656
+KAJARIACER		0.79		1453.25		8066
+LINDEINDIA		0.13		6042.15		7340
+OFSS		0.39		4020.15		4821
