@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.63		121.5		12966880
-M&M		1.4		1582.75		1052070
-ADANIENT		0.02		2507.0		687874
+SBIN		0.1		575.45		1744500
+CIPLA		0.91		1241.0		220781
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PAYTM		0.53		857.45		1438946
-UNOMINDA		-0.78		601.65		78834
-SHREECEM		-0.13		24099.85		2920
+
