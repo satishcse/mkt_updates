@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.67		443.05		4199932
-COALINDIA		-0.26		229.35		1793117
-TECHM		1.03		1210.35		1431847
-SBILIFE		0.5		1303.75		570754
+ITC		0.67		443.05		4209633
+COALINDIA		-0.24		229.4		1798570
+TECHM		1.04		1210.4		1432208
+SBILIFE		0.51		1303.8		570876
 
 Bullish_Hammer_15m_N500								 
 ======================= 
