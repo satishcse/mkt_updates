@@ -1,8 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		1.59		121.45		11331927
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AAVAS		0.18		1604.0		259429
+GRASIM		0.14		1804.4		31799
+PFIZER		0.1		3842.9		1185
