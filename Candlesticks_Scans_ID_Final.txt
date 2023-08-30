@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.36		351.95		4026113
-COALINDIA		-0.43		228.95		3331750
-ASIANPAINT		0.25		3294.05		480761
+BPCL		-1.32		352.1		4079571
+COALINDIA		-0.43		228.95		3351256
+BHARTIARTL		0.32		857.9		2543870
+ASIANPAINT		0.26		3294.15		484194
 
 Bullish_Hammer_15m_N500								 
 ======================= 
