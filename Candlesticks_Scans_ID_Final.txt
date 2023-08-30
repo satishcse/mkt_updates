@@ -2,12 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.24		230		3060734
+COALINDIA		0.22		229.95		3112560
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-0.69		1192.45		355062
-CEATLTD		-0.42		2246.1		270461
-KIMS		-0.57		1964.65		15477
-PFIZER		0.02		3841.15		6093
+ASTRAL		-1.32		1962.4		1260238
+VIPIND		-2.17		664.95		637149
+TATACOMM		-0.54		1788.1		522338
+NATCOPHARM		-0.09		895.0		389284
+OLECTRA		-0.84		1190.65		362964
+AEGISCHEM		-0.03		369.85		197978
+INGERRAND		0.7		3224.4		17884
+CRAFTSMAN		0.1		4844.2		15821
+KIMS		-0.87		1958.75		15752
