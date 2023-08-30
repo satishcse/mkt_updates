@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.72		829.5		5625841
-M&M		1.29		1581.05		2401405
-APOLLOHOSP		0.15		4885.7		275082
+ADANIPORTS		0.78		830.0		5661518
+M&M		1.24		1580.25		2403387
+APOLLOHOSP		0.18		4887.0		275182
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-360ONE		0.16		507.85		280806
-GODREJAGRO		0.03		481.15		61652
-AJANTPHARM		-0.84		1710.2		32206
+360ONE		0.18		507.95		280909
+AJANTPHARM		-0.85		1710.0		32237
