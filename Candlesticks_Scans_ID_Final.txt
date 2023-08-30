@@ -1,15 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ADANIPORTS		0.78		830.0		4321540
-ITC		0.57		442.6		3787139
-HINDALCO		1.25		461.75		3224001
-BHARTIARTL		0.6		860.3		1774116
-HDFCLIFE		0.19		636.1		1088528
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SIEMENS		0.12		3870		166217
-BAYERCROP		-0.1		4740		20390
+
