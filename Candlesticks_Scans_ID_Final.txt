@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.32		1595.35		4212869
-BPCL		-1.26		352.3		2086713
-HDFCLIFE		0.57		638.5		882503
-BAJAJ-AUTO		0.93		4708.0		97792
+HDFCBANK		0.23		1593.95		4378431
+BPCL		-1.26		352.3		2136341
+BAJFINANCE		0.34		7318.5		170978
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SONACOMS		-0.82		575.2		420430
+TIINDIA		0.15		2869.0		20517
