@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.15		1578.75		2414038
-APOLLOHOSP		0.13		4884.9		277033
+INFY		1.01		1431.9		1666214
+WIPRO		0.29		409.3		1313762
+SUNPHARMA		0.52		1117.35		1000621
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AJANTPHARM		-0.56		1715		33940
+
