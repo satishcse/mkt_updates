@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGCL		0.4		805.4		99130
-MAPMYINDIA		-1.03		1724.5		74996
+AFFLE		-0.66		1080.75		369980
+MAPMYINDIA		-1.0		1724.9		75679
+PGHH		-0.74		15773.15		7193
