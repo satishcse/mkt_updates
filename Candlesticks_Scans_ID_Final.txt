@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.2		856.0		2815850
-NTPC		0.2		220.85		2257894
-TCS		0.53		3409.0		524382
-ULTRACEMCO		0.96		8345.0		119849
+NTPC		0.18		220.8		2266759
+TCS		0.47		3407.05		527157
+ULTRACEMCO		0.97		8346.0		120751
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIJAYA		-3.02		497.85		127325
-NESTLEIND		-1.54		21856.25		24093
+PIIND		-0.86		3669.5		72923
+ECLERX		-0.77		1636.4		36721
+NESTLEIND		-1.51		21862.35		24177
