@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.61		230.15		4249411
-ADANIENT		-2.38		2453.3		3907195
-HINDALCO		0.88		460.75		3541322
+COALINDIA		0.59		230.1		4257304
+ADANIENT		-2.43		2452.0		3908366
+HINDALCO		0.85		460.65		3547407
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-3.36		1889.1		473546
-POLYMED		-0.08		1419.2		10289
+TORNTPHARM		-3.38		1888.55		476639
