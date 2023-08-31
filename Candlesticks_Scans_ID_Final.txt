@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.72		439.6		4943604
-ADANIENT		-2.43		2452.0		3918990
-HINDALCO		0.84		460.6		3564643
+ITC		-0.72		439.6		4954909
+ADANIENT		-2.41		2452.6		3922138
+HINDALCO		0.86		460.7		3567501
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TORNTPHARM		-3.16		1893		484531
+
