@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.05		605.85		3488845
-BPCL		-1.72		345.9		2220985
-ULTRACEMCO		0.46		8304.0		164010
+TATAMOTORS		0.06		605.9		3548727
+BPCL		-1.89		345.3		2327949
+BRITANNIA		-0.59		4524.05		271258
+ULTRACEMCO		0.51		8307.75		165909
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKEM		-0.86		3662		46468
+TCNSBRANDS		-7.17		384.95		545275
