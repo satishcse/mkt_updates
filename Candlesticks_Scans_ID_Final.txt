@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPRMILL		-1.37		749.9		100606
-POLYCAB		0.45		5063.55		58800
-TATAELXSI		-0.37		7374.95		11738
+GRAPHITE		-0.52		470.3		106839
+STARHEALTH		-0.38		625.6		54240
+AMBER		0.44		2909.2		17690
+CLEAN		-0.05		1421.8		16542
+JKLAKSHMI		0.54		662.15		9902
+KENNAMET		0.4		2816.75		466
