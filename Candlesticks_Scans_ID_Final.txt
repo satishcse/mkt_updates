@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.55		1570.0		11390988
-POWERGRID		0.47		248.25		3318283
-SUNPHARMA		-0.42		1110.25		715324
+HDFCBANK		-0.55		1570.0		11403816
+POWERGRID		0.47		248.25		3324257
+WIPRO		0.36		408.65		2458448
+SUNPHARMA		-0.39		1110.5		716718
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.15		957.45		10051705
-BLUEDART		0.12		6247.55		22280
+BLUEDART		0.09		6246.1		22322
