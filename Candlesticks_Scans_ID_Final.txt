@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.52		229.95		7113043
-ASIANPAINT		-0.73		3270.6		693348
+TATASTEEL		0.33		122.5		40009437
+M&M		0.16		1585.8		1677857
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		-1.59		1549.1		44618
+INDUSINDBK		-1.87		1366.4		2451459
