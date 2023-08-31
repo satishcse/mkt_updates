@@ -1,13 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		-0.68		174.55		8266354
-COALINDIA		0.57		230.05		5575829
-ADANIPORTS		-3.07		793.55		5393416
-UPL		-0.77		595.3		2315070
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AIAENG		-0.38		3686		41163
+APOLLOHOSP		-0.67		4841.9		178309
