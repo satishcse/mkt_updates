@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.15		407.8		2003504
-UPL		-0.82		595.0		1331886
-SUNPHARMA		-0.38		1110.7		502360
+POWERGRID		0.47		248.25		2358794
+UPL		-0.82		595.0		1335286
+SUNPHARMA		-0.38		1110.65		502764
 
 Bullish_Hammer_15m_N500								 
 ======================= 
