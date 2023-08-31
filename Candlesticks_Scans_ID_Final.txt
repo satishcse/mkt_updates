@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.18		220.8		2266759
-TCS		0.47		3407.05		527157
-ULTRACEMCO		0.97		8346.0		120751
+NTPC		0.14		220.7		2339038
+TCS		0.4		3404.45		537336
+ULTRACEMCO		0.98		8347.0		122694
+APOLLOHOSP		0.3		4889.2		85769
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-0.86		3669.5		72923
-ECLERX		-0.77		1636.4		36721
-NESTLEIND		-1.51		21862.35		24177
+NESTLEIND		-1.44		21878.2		24629
