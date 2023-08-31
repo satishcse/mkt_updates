@@ -1,13 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		0.74		123		51394828
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TVSMOTOR		0.6		1424.05		1842381
-SBILIFE		-0.33		1296.25		879266
-HEROMOTOCO		-1.05		2920.95		580914
-DRREDDY		-0.52		5620.2		495905
-BALKRISIND		-1.77		2327.8		259101
+
