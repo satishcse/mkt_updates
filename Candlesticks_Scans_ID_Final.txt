@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.37		122.55		40264791
+TATASTEEL		0.37		122.55		40345520
+ULTRACEMCO		-0.06		8261.0		254333
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-5.02		1856.6		1032940
-INGERRAND		1.13		3231.8		9576
+INGERRAND		1.23		3235		9828
