@@ -68,8 +68,8 @@ ALKEM		-1.46		3640.0		129615
 METROPOLIS		-1.23		1344.0		120454
 SHREECEM		-1.03		23800.0		61964
 MRF		-0.89		108623.0		5953
-NIFTY		-0.32		19284.65		0
-BANKNIFTY		-0.38		44064.55		0
+NIFTY		-0.48		19253.8		0
+BANKNIFTY		-0.55		43989.15		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
