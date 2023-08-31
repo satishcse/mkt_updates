@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.24		566.05		9619956
-POWERGRID		0.42		248.15		3401524
-WIPRO		0.25		408.2		2525229
-SUNPHARMA		-0.4		1110.45		736180
+SBIN		-0.35		565.4		9667475
+POWERGRID		0.32		247.9		3421717
+WIPRO		0.16		407.85		2554508
+SUNPHARMA		-0.48		1109.6		744559
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.81		2511.5		560477
-PFIZER		-0.25		3830.45		3584
+HINDUNILVR		-0.81		2511.4		566267
+PFIZER		-0.2		3832.55		3592
