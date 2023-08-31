@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.74,123.0,31015445
-POWERGRID,0.45,248.2,3351582
-WIPRO,0.32,408.5,2495364
-SUNPHARMA,-0.45,1109.9,726049
-TITAN,1.0,3113.0,339054
+POWERGRID,0.45,248.2,3367181
+WIPRO,0.29,408.4,2507470
+SUNPHARMA,-0.44,1110.0,727398
+TITAN,1.03,3113.9,340625
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PFIZER,-0.28,3829.25,3568
