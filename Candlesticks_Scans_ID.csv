@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-COALINDIA,0.55,230,6683723
+COALINDIA,0.55,230.0,6824505
+ASIANPAINT,-0.63,3273.8,688325
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SWANENERGY,-1.76,307.0,1090329
+UBL,-1.23,1514.7,48982
+KSB,-1.72,2743.65,21194
