@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.72		439.6		4954909
-ADANIENT		-2.41		2452.6		3922138
-HINDALCO		0.86		460.7		3567501
+ITC		-0.7		439.7		4978275
+TATAMOTORS		0.04		605.8		3445650
+UPL		-0.82		595.0		1827969
+TECHM		1.27		1212.4		944607
+HINDUNILVR		-0.72		2513.8		703291
+BAJFINANCE		-0.9		7202.7		345179
+ULTRACEMCO		0.65		8320.0		160220
 
 Bullish_Hammer_15m_N500								 
 ======================= 
