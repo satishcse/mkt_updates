@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.4		248.1		2250740
-NTPC		0.14		220.7		1779758
-ULTRACEMCO		0.89		8339.7		100470
+POWERGRID		0.38		248.05		2260929
+NTPC		0.16		220.75		1798287
+ULTRACEMCO		0.9		8340.0		101321
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GALAXYSURF		-0.7		2679.05		3124
+INDIGO		-1.07		2428.65		190326
+GODREJPROP		-1.52		1633.6		144546
+PIIND		-0.64		3677.8		61524
