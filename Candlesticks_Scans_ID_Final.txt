@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.65		174.6		7204647
-NTPC		0.16		220.75		5467533
+ONGC		-0.65		174.6		7224845
+NTPC		0.14		220.7		5484496
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-1.0		1953.2		1268394
-TORNTPHARM		-3.82		1880.0		633876
-HEROMOTOCO		-1.18		2917.0		286534
-HONAUT		-0.81		39796.5		4942
+TORNTPHARM		-3.82		1880.0		635203
+UBL		-0.88		1520.1		37234
+HONAUT		-0.81		39794.95		4945
