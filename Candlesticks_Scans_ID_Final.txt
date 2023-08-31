@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SUNPHARMA		-0.4		1110.4		689403
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-0.61		963.4		347731
-UNOMINDA		-0.35		597.6		122594
-BLUEDART		0.16		6250.0		22206
+BLUEDART		0.16		6250		22206
