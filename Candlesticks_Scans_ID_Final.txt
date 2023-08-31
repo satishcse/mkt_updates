@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.2		220.85		6327552
+NTPC		0.2		220.85		6341738
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DCMSHRIRAM		-1.99		926.2		66781
+
