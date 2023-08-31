@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.74		174.45		6898094
-HDFCLIFE		0.71		641.6		1336691
+ONGC		-0.71		174.5		6912422
+HDFCLIFE		0.78		642.05		1339013
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAYMOND		-0.11		1953.55		39307
-SANOFI		-0.94		7070.0		4008
+SANOFI		-0.94		7070		4008
