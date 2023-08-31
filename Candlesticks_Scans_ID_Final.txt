@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.39		229.65		4023332
+SBILIFE		-0.1		1299.35		180164
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ECLERX		-0.89		1634.3		38217
+
