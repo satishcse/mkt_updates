@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.65		174.6		8195999
-ADANIPORTS		-3.04		793.85		5302583
-UPL		-0.74		595.45		2300574
+ONGC		-0.71		174.5		8206344
+ADANIPORTS		-3.11		793.25		5333963
+UPL		-0.78		595.25		2304832
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MCDOWELL-N		-1.06		1002.6		383863
-APOLLOHOSP		-0.56		4847.05		172129
+
