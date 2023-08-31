@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.54		463.8		2357160
-POWERGRID		0.45		248.2		2309825
-ULTRACEMCO		1.05		8352.35		104624
+UPL		-0.83		594.95		1329622
+SUNPHARMA		-0.38		1110.65		501862
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		-0.24		2412.35		2088474
+
