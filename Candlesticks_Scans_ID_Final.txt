@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.53		1570.3		11479089
-POWERGRID		0.45		248.2		3345043
-WIPRO		0.34		408.6		2470953
-SUNPHARMA		-0.4		1110.45		722005
-TITAN		1.0		3113.0		337359
+TATASTEEL		0.74		123.0		31015445
+POWERGRID		0.45		248.2		3351582
+WIPRO		0.32		408.5		2495364
+SUNPHARMA		-0.45		1109.9		726049
+TITAN		1.0		3113.0		339054
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PFIZER		-0.21		3831.85		3523
+
