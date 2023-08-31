@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SBILIFE		-0.39		1295.5		815291
-MEDANTA		0.61		707.0		570823
-TRENT		-0.61		2050.0		463745
-BALKRISIND		-1.77		2327.8		239134
+CONCOR		-1.61		673.25		1056875
+SBILIFE		-0.29		1296.8		846517
+DRREDDY		-0.59		5616.2		479585
+BALKRISIND		-1.77		2327.8		250287
+MRF		-0.68		108846.1		4014
