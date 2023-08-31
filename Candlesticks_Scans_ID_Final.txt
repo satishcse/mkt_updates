@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.71		174.5		7635529
-BRITANNIA		-0.94		4507.95		367549
+ONGC		-0.71		174.5		7645668
+BRITANNIA		-0.97		4506.85		368097
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJ-AUTO		-0.38		4657.35		200157
