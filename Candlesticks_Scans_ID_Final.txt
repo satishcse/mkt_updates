@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.68		174.55		7592934
-KOTAKBANK		-0.07		1773.65		3074295
-TECHM		1.19		1211.5		1095215
-BRITANNIA		-0.93		4508.35		361037
+COALINDIA		0.66		230.25		4626914
+TECHM		1.22		1211.8		1097295
+BRITANNIA		-0.97		4506.7		361567
 
 Bullish_Hammer_15m_N500								 
 ======================= 
