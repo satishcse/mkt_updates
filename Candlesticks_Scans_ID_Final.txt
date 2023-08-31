@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.14		220.7		2091032
-UPL		-0.83		594.95		1429381
-SUNPHARMA		-0.44		1110.0		511710
+NTPC		0.16		220.75		2103098
+SUNPHARMA		-0.48		1109.55		548233
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-1.46		2457.5		532578
+HDFCAMC		-1.43		2458.15		534355
+NESTLEIND		-1.39		21890.15		22364
