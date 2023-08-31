@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.33		122.5		40752844
-ULTRACEMCO		-0.06		8261.0		269269
+TATASTEEL		0.37		122.55		40940959
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IPCALAB		-1.97		873.0		459355
-APOLLOHOSP		-1.13		4819.5		234416
-AMBER		-0.05		2894.85		79872
-ECLERX		-0.94		1633.5		49950
+CDSL		-0.42		1138.95		743967
+APOLLOHOSP		-1.07		4822.45		235968
+SCHAEFFLER		-1.48		3061.75		22608
