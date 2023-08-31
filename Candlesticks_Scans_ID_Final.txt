@@ -1,11 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		0.03		175.75		5937955
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AFFLE		-0.66		1080.75		369980
-MAPMYINDIA		-1.0		1724.9		75679
-PGHH		-0.74		15773.15		7193
+TECHM		-0.07		1197.2		2016339
+BEML		-2.76		2393.55		1103646
+ATGL		-0.66		652.45		441869
+BAJAJ-AUTO		0.22		4675.0		370694
+DIVISLAB		-0.72		3630.8		309108
+DATAPATTNS		-2.86		2252.35		227314
+PGHH		-0.58		15798.35		7369
