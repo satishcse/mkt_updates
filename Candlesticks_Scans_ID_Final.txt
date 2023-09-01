@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.6		1179.15		781795
+POWERGRID		1.76		248.85		3698805
+HCLTECH		0.59		1179.1		783943
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		0.41		2056.9		469703
+TRENT		0.34		2055.65		470829
+ASTRAL		-1.51		1924.45		395878
