@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TITAN		0.22		3111.35		137992
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BIRLACORPN		-0.7		1141.25		11365
-MRF		-0.56		108082.35		1317
+NESTLEIND		-0.27		21927.95		7575
+MRF		-0.56		108075.8		1330
