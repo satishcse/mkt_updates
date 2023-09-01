@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.14		1110.0		1643836
-CIPLA		-0.68		1249.05		870393
+SUNPHARMA		-0.12		1110.3		1647170
+CIPLA		-0.66		1249.3		870889
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ABBOTINDIA		-2.18		22605.8		10483
