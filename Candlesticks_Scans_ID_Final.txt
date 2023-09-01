@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.35		609.1		7687499
-POWERGRID		2.23		250.0		5915970
+TATACONSUM		1.19		844.25		480543
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ABBOTINDIA		-2.42		22550		11845
+
