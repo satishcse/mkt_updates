@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ICICIBANK		-0.1		957.8		756910
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NAZARA		1.56		789.05		472909
+LAXMIMACH		-1.93		15034.3		4762
+VMART		0.08		2231.25		1630
