@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.26		794.25		3287099
-TATACONSUM		0.93		842.1		253332
+POWERGRID		1.62		248.5		2554912
+KOTAKBANK		0.58		1768.95		838363
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CDSL		-0.83		1129.0		365361
-JUBLPHARMA		1.28		474.55		321073
+
