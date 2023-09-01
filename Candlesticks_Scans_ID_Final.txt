@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AETHER		-3.54		989.85		77934
-CLEAN		-0.12		1416.0		22057
-BIRLACORPN		-0.9		1139.0		11159
-MRF		-0.58		108051.65		1285
+CLEAN		-0.12		1416.0		22085
+BIRLACORPN		-0.86		1139.45		11249
+INGERRAND		-0.46		3204.4		2142
