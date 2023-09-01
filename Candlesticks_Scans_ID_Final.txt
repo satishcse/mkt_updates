@@ -2,19 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		0.29		1796.15		11522
+TATAMOTORS		0.67		605.05		651261
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASHOKLEY		0.46		184.7		1498257
-BSE		-0.46		1057.85		1086452
-ADANIGREEN		-0.94		919.9		443510
-HDFCAMC		-2.83		2452.75		184639
-ASTRAL		-0.49		1944.45		135106
-INTELLECT		0.39		737.85		92388
-HEROMOTOCO		0.77		2938.5		51134
-DRREDDY		0.35		5627.75		27155
-BLUESTARCO		-0.61		735.95		5444
-ZYDUSWELL		1.0		1658.85		2914
-SCHAEFFLER		0.71		3074.0		1704
+JBCHEPHARM		0.52		2782.8		2806
