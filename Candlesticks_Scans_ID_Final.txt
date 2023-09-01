@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.24		568.3		10344988
-SBILIFE		2.41		1323.65		471673
-BAJFINANCE		1.59		7276.7		369607
+SBIN		1.31		568.7		10393013
+SBILIFE		2.43		1323.9		472314
+BAJFINANCE		1.54		7273.6		370048
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASTRAL		-1.67		1921.45		429366
+ALKEM		-0.44		3626.9		73311
