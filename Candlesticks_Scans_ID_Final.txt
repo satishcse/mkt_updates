@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		1.46		803.75		8736889
-LT		0.27		2710.05		943610
+ADANIPORTS		1.43		803.55		8763143
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		-1.31		5143.85		13307
+NATCOPHARM		-0.89		905.5		356558
+ULTRACEMCO		-0.33		8270.0		132112
+SKFINDIA		-1.38		5140.05		13310
