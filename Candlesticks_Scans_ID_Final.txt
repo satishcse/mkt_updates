@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		1.5		804.1		8616496
-JSWSTEEL		2.09		795.95		2516657
-LT		0.25		2709.45		934669
+ADANIPORTS		1.48		803.95		8658881
+LT		0.28		2710.3		938589
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NATCOPHARM		-0.95		904.95		353497
