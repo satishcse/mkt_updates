@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		2.63		236.1		10200657
-HDFCLIFE		-0.11		644.05		881146
-TCS		0.65		3378.55		847697
+CIPLA		-0.61		1249.95		890580
+TCS		0.63		3377.9		849929
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FIVESTAR		-4.63		730.2		4307953
+
