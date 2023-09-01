@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.12		567.65		10591680
-BAJFINANCE		1.55		7273.7		373135
+SBIN		1.08		567.4		10616760
+JSWSTEEL		1.96		794.95		2087882
+BAJFINANCE		1.54		7272.95		373835
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		-1.38		1244.35		84056
-ALKEM		-0.36		3629.75		73423
+RADICO		-1.38		1244.35		84464
