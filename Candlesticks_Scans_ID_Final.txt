@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.85		841.4		247352
+TATACONSUM		0.86		841.55		247754
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CDSL		-0.75		1129.9		342343
+CDSL		-0.83		1128.95		344931
