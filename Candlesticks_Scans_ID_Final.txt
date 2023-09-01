@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		2.97		126.55		60618456
-BAJAJFINSV		1.29		1508.05		521137
+TATASTEEL		2.97		126.55		60673765
+BAJAJFINSV		1.18		1506.5		522594
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		-0.6		1632.5		19710
+ZYDUSWELL		-0.6		1632.5		19770
