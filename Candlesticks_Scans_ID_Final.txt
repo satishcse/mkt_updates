@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.1		344.3		4760111
-BAJAJFINSV		1.61		1512.9		810921
-DRREDDY		-0.5		5579.85		209105
-NESTLEIND		-0.33		21913.3		32918
+BAJAJFINSV		1.61		1512.9		813905
+DRREDDY		-0.53		5578.1		210218
+NESTLEIND		-0.33		21913.5		33120
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINCABLES		-0.34		1095.95		389615
-CCL		-0.44		603.35		241657
+TEJASNET		-1.73		856.05		758359
+FINCABLES		-0.48		1094.45		390626
+CCL		-0.45		603.25		241898
+POLYMED		-4.64		1396.7		168192
+VIJAYA		-2.7		506.95		154696
