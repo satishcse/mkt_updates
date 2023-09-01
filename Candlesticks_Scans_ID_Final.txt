@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.21		1109.3		1224123
-INDUSINDBK		1.43		1397.8		831088
-CIPLA		-0.6		1250.05		710969
-GRASIM		0.22		1794.85		188318
+SUNPHARMA		-0.23		1109.0		1231699
+CIPLA		-0.6		1250.0		713064
+GRASIM		0.25		1795.5		189425
 
 Bullish_Hammer_15m_N500								 
 ======================= 
