@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		4.05		181.2		18476960
-DRREDDY		-0.49		5580.15		182588
+ONGC		4.08		181.25		18485128
+POWERGRID		2.62		250.95		6610949
+DRREDDY		-0.55		5577.25		182709
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANURAS		-0.09		1004		54157
+CRAFTSMAN		-0.59		4889.25		9855
