@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.86		3385.5		258982
-BAJFINANCE		0.34		7187.0		123794
-APOLLOHOSP		0.02		4814.95		50885
+TCS		0.72		3381.0		272094
+BAJFINANCE		0.24		7180.05		126559
+APOLLOHOSP		-0.01		4813.7		52868
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-0.86		897.95		2038348
-SIEMENS		-1.0		3882.95		79404
+AMBER		3.14		2990.75		263204
