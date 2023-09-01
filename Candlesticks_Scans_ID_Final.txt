@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.26		794.25		3261032
-TATACONSUM		0.89		841.75		251781
+ADANIPORTS		0.26		794.25		3287099
+TATACONSUM		0.93		842.1		253332
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CDSL		-0.79		1129.45		361221
-JUBLPHARMA		1.27		474.5		320957
-JBMA		-1.03		1500.5		37921
-CLEAN		-0.48		1410.9		32916
+CDSL		-0.83		1129.0		365361
+JUBLPHARMA		1.28		474.55		321073
