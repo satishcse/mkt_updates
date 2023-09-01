@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BPCL		0.68		342.85		843635
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASAHIINDIA		-0.72		589.4		14339
-CRAFTSMAN		0.45		4940.0		3536
+ROUTE		-1.48		1547.25		130870
