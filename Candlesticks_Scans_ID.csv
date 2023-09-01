@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BPCL,1.09,344.25,4727778
-BAJAJFINSV,1.68,1513.85,807701
-DRREDDY,-0.54,5577.4,208521
-NESTLEIND,-0.36,21908.2,32772
+BPCL,1.1,344.3,4760111
+BAJAJFINSV,1.61,1512.9,810921
+DRREDDY,-0.5,5579.85,209105
+NESTLEIND,-0.33,21913.3,32918
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+FINCABLES,-0.34,1095.95,389615
+CCL,-0.44,603.35,241657
