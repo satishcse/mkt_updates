@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.4		341.9		1909648
+TATASTEEL		2.93		126.5		59029570
+POWERGRID		1.86		249.1		3771276
+WIPRO		0.44		410.2		1392735
+TCS		0.65		3378.55		679498
+SBILIFE		2.45		1324.2		469562
+BAJFINANCE		1.54		7273.0		360252
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ROUTE		-1.6		1545.35		182005
+
