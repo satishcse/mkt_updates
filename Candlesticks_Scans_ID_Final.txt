@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCBANK		-0.31		1566.65		4223647
-SUNPHARMA		-0.17		1109.75		212680
-INDUSINDBK		0.2		1380.9		197767
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GLENMARK		-0.89		760.0		181328
+AETHER		-3.66		988.55		76603
+CLEAN		-0.12		1416.0		22044
