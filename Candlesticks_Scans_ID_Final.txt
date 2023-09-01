@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.14		1110.05		2676588
-DRREDDY		-0.5		5579.9		215616
+SUNPHARMA		-0.14		1110.05		2692672
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINCABLES		-0.52		1094		395227
+FORTIS		-1.94		325.2		824609
+ASTRAL		-2.11		1912.9		766621
+FINCABLES		-0.55		1093.7		395790
+AAVAS		-0.16		1629.85		208033
