@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		-0.53		5578.0		206049
-NESTLEIND		-0.33		21913.6		32051
+BPCL		1.09		344.25		4727778
+BAJAJFINSV		1.68		1513.85		807701
+DRREDDY		-0.54		5577.4		208521
+NESTLEIND		-0.36		21908.2		32772
 
 Bullish_Hammer_15m_N500								 
 ======================= 
