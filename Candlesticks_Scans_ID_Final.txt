@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.11		567.6		10644163
-JSWSTEEL		1.96		794.9		2089156
-BAJFINANCE		1.49		7270.0		374803
+SBIN		1.13		567.7		10675018
+JSWSTEEL		1.96		794.95		2091589
+BAJFINANCE		1.49		7270.0		375264
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		-1.4		1244		84542
+RADICO		-1.45		1243.4		85406
+ZYDUSWELL		-0.48		1634.55		18552
