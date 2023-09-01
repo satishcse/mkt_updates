@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCIEXP		0.01		1405		64666
+TCIEXP		0.01		1405.0		64666
+MOTILALOFS		-1.09		909.95		58503
