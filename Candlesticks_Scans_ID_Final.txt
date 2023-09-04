@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		4.98		248.7		15957643
-SBIN		0.62		573.1		4744116
-ADANIPORTS		-0.13		798.5		3675152
-ICICIBANK		-0.58		963.05		2879338
+COALINDIA		4.92		248.55		16067911
+ADANIPORTS		-0.2		797.9		3774351
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		-0.73		4260.0		135556
-PAGEIND		0.06		39845.1		8746
+FINEORG		0.51		4842.0		13603
+BOSCHLTD		-0.3		18929.95		10642
+PAGEIND		0.04		39839.7		8761
