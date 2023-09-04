@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HINDALCO,3.25,488.65,8670726
-KOTAKBANK,-0.06,1770.05,3273965
-NESTLEIND,-0.89,21721.6,40530
+ONGC,1.07,183.7,7842821
+TATAMOTORS,-0.37,608.95,5357658
+KOTAKBANK,-0.06,1770.0,3296080
+NESTLEIND,-0.88,21722.95,41071
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BAJFINANCE,-0.19,7306.55,368258
