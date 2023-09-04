@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.2		2417.45		2749983
-BHARTIARTL		-0.49		861.7		1619778
-BAJAJ-AUTO		-0.8		4631.2		143527
+RELIANCE		0.2		2417.5		2759820
+BHARTIARTL		-0.49		861.7		1622193
+BAJAJ-AUTO		-0.79		4631.75		143690
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-2.88		2604.1		111597
-ROUTE		-0.04		1553.0		70813
+KEI		-2.78		2606.8		111837
