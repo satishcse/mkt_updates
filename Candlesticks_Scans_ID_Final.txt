@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.72		232.35		3127932
-ADANIPORTS		0.64		804.6		983700
+NTPC		0.56		232.0		3185906
+ADANIENT		0.8		2469.6		813594
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		0.03		1684.65		30207
+JBCHEPHARM		-0.65		2777.95		6649
