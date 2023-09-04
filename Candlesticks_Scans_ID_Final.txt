@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+EICHERMOT		1.54		3452.7		253401
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-0.81		1837.45		213376
-INGERRAND		-0.57		3169.55		4714
+MCDOWELL-N		-0.8		1004.4		111633
+INGERRAND		-0.57		3169.55		4715
