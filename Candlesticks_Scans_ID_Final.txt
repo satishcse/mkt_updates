@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.37		231.55		3261773
-ADANIENT		0.76		2468.75		829868
+NTPC		0.35		231.5		3292340
+ADANIENT		0.75		2468.5		844598
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHYAMMETL		-0.31		479.5		707487
-JBCHEPHARM		-0.68		2777.0		6673
+SHYAMMETL		0.0		481.0		712977
+LT		0.86		2725.45		451536
+RADICO		-0.12		1255.95		44096
+RUSTOMJEE		0.46		609.0		4902
