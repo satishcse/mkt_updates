@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.41		608.7		5102206
-BAJAJFINSV		-0.13		1512.6		431353
-BAJAJ-AUTO		-0.82		4630.05		176107
+TATAMOTORS		-0.43		608.6		5132238
+BAJAJFINSV		-0.11		1512.85		433366
+BAJAJ-AUTO		-0.81		4630.85		176577
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-1.62		1656.9		237813
+GARFIBRES		-0.04		3185.95		6818
