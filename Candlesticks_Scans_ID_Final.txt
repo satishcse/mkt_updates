@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-0.75		2047.6		255854
-ASTRAL		0.16		1914.2		181008
-SIEMENS		-0.89		3852.65		42363
+COLPAL		0.03		1940		67085
