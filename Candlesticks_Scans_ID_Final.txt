@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-0.15		1451.85		632314
-TRENT		-0.84		2045.7		253393
-ECLERX		0.41		1631.35		14617
+TRENT		-0.8		2046.55		254277
+ESCORTS		-1.63		3082.7		178532
