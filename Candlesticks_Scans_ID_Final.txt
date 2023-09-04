@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.28		841.8		337259
-BAJAJ-AUTO		-0.77		4632.55		140960
-NESTLEIND		-0.9		21718.05		30375
+BAJAJ-AUTO		-0.8		4631.15		141436
+NESTLEIND		-0.9		21719.1		30882
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ROUTE		-0.12		1551.85		69631
+
