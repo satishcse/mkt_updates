@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.58		1583.8		6300529
-AXISBANK		-0.64		984.8		4354518
-HCLTECH		2.87		1219.85		2073854
-INDUSINDBK		0.54		1424.2		669992
+HDFCBANK		0.54		1583.25		6363014
+HCLTECH		2.73		1218.2		2086603
+INDUSINDBK		0.53		1424.0		674149
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HONAUT		-0.52		39194.2		1832
+
