@@ -1,13 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ADANIENT		0.77		2468.95		1077076
-INDUSINDBK		0.38		1422.0		334787
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INGERRAND		-0.49		3172.0		5041
-ABBOTINDIA		-0.02		22700.0		1689
-GARFIBRES		0.25		3195.35		1555
+NESTLEIND		-0.85		21729		11292
