@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.99		183.55		7208107
-ADANIPORTS		0.23		801.3		6139379
+ADANIPORTS		0.19		801.05		6165457
+HCLTECH		2.44		1214.7		1488532
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAGEIND		-0.17		39755.95		9822
+PAGEIND		-0.14		39764.3		9836
