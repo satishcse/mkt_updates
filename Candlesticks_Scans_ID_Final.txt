@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.84		982.8		5469133
-JSWSTEEL		0.6		811.25		3120932
-TITAN		-0.72		3094.5		431345
-NESTLEIND		-0.77		21746.0		56797
+POWERGRID		1.25		255.35		6238784
+AXISBANK		-0.87		982.55		5502580
+JSWSTEEL		0.57		811.0		3129817
+NESTLEIND		-0.79		21742.5		57048
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOLARINDS		-1.18		4697.15		55837
+SOLARINDS		-1.24		4694.3		56461
+TIMKEN		-0.75		3173.95		53278
