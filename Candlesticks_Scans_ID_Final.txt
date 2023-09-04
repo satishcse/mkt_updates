@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.81		983.15		5433654
-JSWSTEEL		0.64		811.55		3112854
+AXISBANK		-0.84		982.8		5456966
+JSWSTEEL		0.61		811.3		3114912
+TITAN		-0.74		3093.65		430908
+NESTLEIND		-0.8		21740.0		56660
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+APARINDS		0.13		4963.85		67314
