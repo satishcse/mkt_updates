@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-0.16		1451.8		633553
-TRENT		-0.8		2046.55		254386
-MPHASIS		-0.76		2414.8		85740
-SIEMENS		-0.91		3851.65		40944
+TRENT		-0.8		2046.6		254612
+MPHASIS		-0.74		2415.1		85847
