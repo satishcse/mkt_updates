@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.88		420.0		3172361
-M&M		-1.56		1567.1		858924
-TCS		0.08		3381.85		450457
-HDFCLIFE		-0.9		635.55		435804
+WIPRO		0.9		420.1		3196728
+M&M		-1.58		1566.85		865270
+TCS		0.11		3383.0		455836
+HDFCLIFE		-0.96		635.2		437520
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BEML		0.03		2496		154649
+
