@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NESTLEIND,-0.75,21750.8,63880
+NESTLEIND,-0.76,21750,64165
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+NH,0.37,1028.0,173850
+JKCEMENT,-0.3,3330.9,156008
