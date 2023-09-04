@@ -2,16 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.85		419.9		3041958
-ADANIENT		0.52		2462.9		1829256
-KOTAKBANK		-0.63		1759.95		1635283
+WIPRO		0.9		420.1		3157645
+M&M		-1.49		1568.3		853119
+TCS		0.11		3383.05		445165
+HDFCLIFE		-0.9		635.55		434135
+BRITANNIA		-0.39		4467.0		112002
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HEROMOTOCO		0.26		2935.0		286607
-BALKRISIND		0.05		2363.0		141316
-RADICO		-0.85		1246.85		75815
-NESTLEIND		-0.97		21703.05		15722
-ENDURANCE		-1.52		1634.45		13645
-VMART		-0.47		2244.0		7808
+
