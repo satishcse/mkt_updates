@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.04		799.2		3530392
-UPL		-0.05		602.7		1668970
+ADANIPORTS		0.03		799.75		3549477
+ICICIBANK		-0.64		962.5		2801106
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RADICO		-0.44		1252.0		139116
+KEI		-2.07		2625.8		70860
