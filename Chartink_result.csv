@@ -10,12 +10,12 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-NIFTY,0.71,19572.5,0
+NIFTY,0.58,19547.25,0
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-NIFTY,0.71,19572.5,0
+NIFTY,0.58,19547.25,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -29,5 +29,5 @@ BANKNIFTY,0,44436.1,0
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-NIFTY,0.71,19572.5,0
+NIFTY,0.58,19547.25,0
 BANKNIFTY,0.0,44436.1,0
