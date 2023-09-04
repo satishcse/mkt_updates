@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		-0.75		3093.35		419139
+WIPRO		3.85		432.4		10522327
+SBIN		0.89		574.6		9666517
+ADANIENT		1.1		2477.0		5343705
+TITAN		-0.79		3092.3		425328
+NESTLEIND		-0.77		21747.6		55313
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KPITTECH		-1.58		1181.7		421452
+
