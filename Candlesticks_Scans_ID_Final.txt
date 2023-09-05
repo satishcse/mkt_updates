@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.05		607.15		2141689
-GRASIM		0.92		1857.95		624067
-DRREDDY		-1.23		5589.95		171949
+UPL		-0.03		607.25		2141957
+GRASIM		0.88		1857.2		624141
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GRAPHITE		-0.13		481.4		321932
+ULTRACEMCO		-1.02		8494.95		94909
+VMART		-1.2		2201.45		9748
