@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.38		232.55		8736274
-APOLLOHOSP		2.96		4967.9		625876
-TITAN		1.14		3135.75		462642
+NTPC		-1.31		232.7		8775761
+APOLLOHOSP		2.98		4968.8		627110
+TITAN		1.16		3136.4		463408
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIXON		-0.47		5098.7		402739
