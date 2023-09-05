@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,-0.21,574.35,4355835
-BAJFINANCE,0.6,7314.15,307841
-EICHERMOT,-0.24,3426.0,122309
+SBIN,-0.24,574.15,4379390
+BAJFINANCE,0.6,7314.0,309025
+EICHERMOT,-0.27,3424.8,122843
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BSE,-0.36,1184.0,2409439
+BIRLACORPN,-1.08,1232.85,44956
