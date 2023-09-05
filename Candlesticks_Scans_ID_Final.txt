@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.02		130.4		14536218
-TATACONSUM		0.54		850.65		295752
+TATASTEEL		-1.06		130.35		14576785
+TATACONSUM		0.54		850.65		299769
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		0.18		1250		69507
-POWERINDIA		0.61		4420		3642
+POWERINDIA		0.44		4412.8		3659
