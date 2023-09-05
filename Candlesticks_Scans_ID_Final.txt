@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.93		2493.5		4138421
-HINDALCO		-0.86		482.45		2792037
+NTPC		-1.25		232.85		8659247
+SBIN		-0.61		572.05		7974288
+APOLLOHOSP		2.95		4967.4		610804
+TITAN		1.23		3138.3		459528
+HEROMOTOCO		-0.2		2937.1		203141
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AAVAS		-0.33		1640.0		117506
-CHOLAHLDNG		-0.32		997.55		49113
+
