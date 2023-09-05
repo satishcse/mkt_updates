@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.4		861.8		624671
-ULTRACEMCO		-0.7		8522.05		63471
+BHARTIARTL		-0.42		861.65		630385
+ULTRACEMCO		-0.75		8518.4		63809
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AXISBANK		-0.22		980.05		2435900
-PAGEIND		0.05		39639.7		1526
+PAGEIND		0.05		39639.7		1528
