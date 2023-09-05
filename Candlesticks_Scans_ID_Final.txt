@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.16		255		3334620
+HINDALCO		-0.75		483.0		2270224
+BHARTIARTL		-0.01		865.2		940170
+GRASIM		1.0		1859.5		600280
 
 Bullish_Hammer_15m_N500								 
 ======================= 
