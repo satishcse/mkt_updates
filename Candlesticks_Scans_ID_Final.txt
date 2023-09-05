@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.05		607.15		2159496
-GRASIM		0.92		1858.0		649550
+HCLTECH		0.44		1237.95		1469174
+HEROMOTOCO		-0.19		2937.2		181194
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BDL		-0.03		1177.2		371883
-VMART		-1.14		2202.6		9953
+
