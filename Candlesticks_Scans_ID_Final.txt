@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.93		2493.5		4123676
-HINDALCO		-0.86		482.45		2788957
+ADANIENT		0.93		2493.5		4138421
+HINDALCO		-0.86		482.45		2792037
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-STARHEALTH		-1.15		642.7		346688
-CHOLAHLDNG		-0.35		997.3		48870
+AAVAS		-0.33		1640.0		117506
+CHOLAHLDNG		-0.32		997.55		49113
