@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.3		1260.5		631779
-TATACONSUM		0.08		846.75		175050
+BHARTIARTL		-0.39		861.9		618414
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LAXMIMACH		-0.41		15127.6		1726
+
