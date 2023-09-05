@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.25		641.65		1032392
+HDFCLIFE		0.2		641.3		1043444
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VAIBHAVGBL		-0.24		455.3		243461
-QUESS		-0.34		426.05		89571
-JBMA		-0.07		1493.0		25422
-WHIRLPOOL		0.72		1661.95		11689
+VAIBHAVGBL		-0.31		455.0		245242
+GODREJIND		-0.79		540.3		30508
