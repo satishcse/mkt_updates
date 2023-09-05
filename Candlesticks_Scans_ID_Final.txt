@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.06		130.35		22853919
+POWERGRID		-0.63		253.8		6018153
+INFY		0.81		1477.0		2584237
+BHARTIARTL		-0.03		865.05		1267554
+BAJAJFINSV		-0.09		1508.8		630118
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ASTRAL		0.27		1898.0		458959
-DIXON		-0.18		5114.0		409900
-OLECTRA		-1.35		1222.9		267463
+
