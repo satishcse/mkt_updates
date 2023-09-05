@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.29		232.75		10596211
-SUNPHARMA		2.11		1132.3		890546
-LT		0.77		2731.95		691994
-BRITANNIA		0.28		4519.6		327545
+SUNPHARMA		2.1		1132.15		899136
+LT		0.74		2731.2		693553
+BRITANNIA		0.31		4521.3		328252
 
 Bullish_Hammer_15m_N500								 
 ======================= 
