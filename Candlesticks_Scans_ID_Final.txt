@@ -5,11 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TEJASNET		-0.69		896.65		294415
-ANGELONE		-3.12		1862.0		292284
-DCMSHRIRAM		-1.59		1001.25		34736
-BAJAJHLDNG		-0.87		7163.7		4376
-PFIZER		0.21		3866.0		3302
-SKFINDIA		0.2		5204.5		1342
-BAYERCROP		0.18		4839.75		898
+
