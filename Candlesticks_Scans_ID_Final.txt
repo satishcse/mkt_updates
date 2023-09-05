@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.35		609.05		7686809
-BPCL		0.17		344.8		3157689
-DRREDDY		1.45		5659.55		265939
+UPL		0.74		607.45		4215928
+GRASIM		1.63		1841.05		944090
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MFSL		-1.66		921.65		1181458
+JUBLINGREA		-1.52		510.15		279306
+POLYPLEX		-1.01		1210.95		238223
+DCMSHRIRAM		-1.65		1017.45		236675
+PRINCEPIPE		-0.41		724.4		183182
+FLUOROCHEM		-0.59		3055.5		113530
