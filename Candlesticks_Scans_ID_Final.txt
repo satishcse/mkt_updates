@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.56		8534.35		39907
-JBMA		0.12		1495.95		17183
+JUBLINGREA		-0.66		506.8		417495
+JBMA		0.13		1496.0		17754
+GOCOLORS		-1.02		1357.05		4623
