@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,0.46,183.8,8899206
-INFY,0.83,1477.2,2803560
-TCS,0.43,3433.25,1050087
+ONGC,0.38,183.65,8937159
+INFY,0.84,1477.45,2824162
+TCS,0.45,3433.8,1053576
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TATACOMM,-0.61,1871.5,496464
+PIIND,-0.43,3614.25,220227
+AJANTPHARM,-2.19,1681.95,45096
