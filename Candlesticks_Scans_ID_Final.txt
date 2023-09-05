@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.95		130.5		24662174
-ONGC		0.19		183.3		9184032
-ADANIPORTS		0.25		803.05		7834316
-BPCL		1.42		349.6		2883185
-TCS		0.26		3427.5		1065087
-GRASIM		0.56		1851.3		721705
-BAJAJ-AUTO		1.37		4700.6		212362
+TATASTEEL		-1.06		130.35		24720606
+ONGC		0.19		183.3		9202407
+BPCL		1.31		349.2		2887583
+TCS		0.31		3429.0		1066197
+GRASIM		0.56		1851.3		721948
+BAJAJ-AUTO		1.31		4698.05		212761
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MRF		-0.09		108093.55		2140
+AJANTPHARM		-1.85		1687.7		46332
