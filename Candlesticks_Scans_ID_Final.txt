@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.54		350.0		2133211
-CIPLA		0.17		1240.9		1351262
-GRASIM		0.95		1858.5		609065
-M&M		0.17		1579.1		460670
-HEROMOTOCO		-0.03		2942.1		172039
+BPCL		1.48		349.8		2166977
+CIPLA		0.21		1241.45		1354238
+GRASIM		0.85		1856.75		609500
+M&M		0.04		1577.0		462823
+HEROMOTOCO		-0.07		2940.7		173321
 
 Bullish_Hammer_15m_N500								 
 ======================= 
