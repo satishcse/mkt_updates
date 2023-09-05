@@ -2,6 +2,7 @@
 Sector_Performance								 
 ================== 
 nsecode		per_chg		close		volume
+NIFTY		0.17		19562.35		0
 NIFTYFMCG		0.0		51171.75		0
 NIFTYMIDCAP50		0.0		11327.05		0
 NIFTYMEDIA		0.0		2332.7		0
@@ -30,4 +31,3 @@ CNXIT		0.0		32163.95		0
 CNXMIDCAP		0.0		39830.35		0
 BANKNIFTY		0.0		44578.3		0
 CNXREALTY		0.0		570.15		0
-NIFTY		-0.08		19512.75		0
