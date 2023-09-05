@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		1.01		1780.0		989191
-TECHM		0.38		1261.5		595046
+KOTAKBANK		1.04		1780.45		1004746
+TECHM		0.26		1260.05		605784
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KEC		-0.1		677.0		61082
+PAGEIND		0.06		39644.15		1379
