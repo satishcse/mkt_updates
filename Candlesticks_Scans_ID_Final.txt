@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.38		183.65		8937159
-INFY		0.84		1477.45		2824162
-TCS		0.45		3433.8		1053576
+TATASTEEL		-0.87		130.6		24568708
+ONGC		0.36		183.6		9059142
+ADANIPORTS		0.26		803.1		7782785
+BPCL		1.47		349.75		2866231
+TCS		0.28		3428.05		1059475
+GRASIM		0.59		1851.95		720911
+BAJAJ-AUTO		1.35		4699.95		212082
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-0.61		1871.5		496464
-PIIND		-0.43		3614.25		220227
-AJANTPHARM		-2.19		1681.95		45096
+TATACOMM		-0.42		1874.95		499836
+AJANTPHARM		-2.04		1684.4		45865
