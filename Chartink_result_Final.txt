@@ -22,11 +22,10 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-BANKNIFTY		0		44578.3		0
-NIFTY		0		19528.8		0
+BANKNIFTY		0.0		44578.3		0
+NIFTY		-0.08		19512.75		0
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
 BANKNIFTY		0		44578.3		0
-NIFTY		0		19528.8		0
