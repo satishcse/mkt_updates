@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.48		1238.4		1489636
-HEROMOTOCO		-0.2		2937.05		184697
+HCLTECH		0.51		1238.8		1493870
+HEROMOTOCO		-0.2		2937.1		185663
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AAVAS		-0.03		1645.0		97834
+BSE		-1.58		1169.5		3072357
 PGHH		-0.74		16189.7		1825
