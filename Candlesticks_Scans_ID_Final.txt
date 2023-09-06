@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.33		254.5		9433459
-ONGC		-0.11		182.9		8881630
-WIPRO		-1.16		426.85		4417648
-POWERGRID		-0.51		253.0		4399767
-HDFCLIFE		0.14		641.85		2011224
-BAJAJ-AUTO		-0.67		4670.0		122293
+COALINDIA		-0.37		254.4		9444067
+ONGC		-0.11		182.9		8885619
+AXISBANK		-1.17		969.95		8669060
+POWERGRID		-0.51		253.0		4402367
+HDFCLIFE		0.12		641.75		2013629
+BAJAJ-AUTO		-0.67		4670.0		122537
 
 Bullish_Hammer_15m_N500								 
 ======================= 
