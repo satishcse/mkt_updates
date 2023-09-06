@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-0.24,253.7,2314637
-BHARTIARTL,0.76,872.45,1192382
-TITAN,0.21,3142.8,153592
+POWERGRID,-0.22,253.75,2332516
+TITAN,0.16,3141.05,155504
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GRASIM,-0.7,1840.9,105198
+TEAMLEASE,-1.4,2612.55,9903
+LAXMIMACH,-1.28,14968.75,1553
