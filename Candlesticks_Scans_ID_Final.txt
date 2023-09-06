@@ -1,14 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-1.56		129.65		10600086
-ICICIBANK		-0.79		960.75		6209395
-ONGC		0.66		184.3		5511782
-TATAMOTORS		-0.47		608.25		2251619
-SUNPHARMA		1.29		1146.5		1470865
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VINATIORGA		-0.65		1912.85		31498
+RELAXO		-0.19		924.95		23440
