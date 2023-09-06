@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.11		572.35		3622393
-POWERGRID		-0.14		253.95		2679274
-TATAMOTORS		-0.46		608.35		2048791
-HEROMOTOCO		0.43		2948.0		67738
+HEROMOTOCO		0.44		2948.2		71101
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VINATIORGA		-0.05		1924.4		23819
+MAPMYINDIA		-1.05		1749.15		21645
