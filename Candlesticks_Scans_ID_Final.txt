@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.83		873.05		2476025
-BAJAJ-AUTO		-0.64		4671.7		124000
+BHARTIARTL		0.83		873.05		2507034
+ULTRACEMCO		0.23		8474.05		183318
+BAJAJ-AUTO		-0.67		4670.1		124618
 
 Bullish_Hammer_15m_N500								 
 ======================= 
