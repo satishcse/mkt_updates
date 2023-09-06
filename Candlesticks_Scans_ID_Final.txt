@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIPORTS		-0.24		803.05		2432777
+INDUSINDBK		-1.37		1404.3		1756433
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LATENTVIEW		0.1		455.85		772613
-ANURAS		-0.25		998.2		43649
-MANYAVAR		-0.42		1292.2		23405
-HONAUT		-0.26		39129.9		1219
+
