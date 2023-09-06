@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HCLTECH,-0.76,1226.1,709609
-ULTRACEMCO,0.18,8469.8,135048
-BAJAJ-AUTO,-0.33,4686.0,95746
+AXISBANK,-1.17,970.0,6363029
+TECHM,-1.16,1239.95,861604
+HCLTECH,-0.8,1225.65,716242
+ULTRACEMCO,0.23,8474.25,137327
+BAJAJ-AUTO,-0.27,4688.7,99144
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+RAYMOND,-0.3,2165.95,325619
+VMART,-1.18,2169.75,12539
