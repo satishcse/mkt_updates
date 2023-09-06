@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,-0.14,572.2,3595297
-TATAMOTORS,-0.47,608.3,2040785
-HEROMOTOCO,0.44,2948.4,66461
+SBIN,-0.11,572.35,3622393
+POWERGRID,-0.14,253.95,2679274
+TATAMOTORS,-0.46,608.35,2048791
+HEROMOTOCO,0.43,2948.0,67738
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+VINATIORGA,-0.05,1924.4,23819
