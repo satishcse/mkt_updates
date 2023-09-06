@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.22		253.75		2506197
-TITAN		0.12		3140.0		161895
+TATAMOTORS		-0.52		608		2010269
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEAMLEASE		-0.81		2628		10884
+LTIM		0.21		5437.35		143911
+MPHASIS		-1.34		2488.05		88152
