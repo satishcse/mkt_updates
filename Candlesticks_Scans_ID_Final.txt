@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.2		2498.95		2386293
-TCS		-0.03		3428.25		329905
-BRITANNIA		0.59		4541.55		62061
+TATASTEEL		-1.78		129.35		13251490
+ADANIPORTS		0.34		807.7		1693449
+BPCL		0.36		351.45		1360936
+JSWSTEEL		-0.94		808.3		809009
+TATACONSUM		0.4		849.7		239368
+NESTLEIND		0.63		22093.3		17521
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-IIFL		-0.92		596.7		395428
-GRASIM		-0.91		1837.0		150837
-MPHASIS		-1.61		2481.35		129177
-DATAPATTNS		-1.02		2368.75		87284
+
