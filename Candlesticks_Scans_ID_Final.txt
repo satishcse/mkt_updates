@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.66		4670.5		126682
+ICICIBANK		-1.44		954.45		20386036
+ONGC		-0.19		182.75		9301641
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HGS		-0.13		1027.95		106876
-TATAINVEST		-0.32		2452.2		23158
+UNOMINDA		-1.07		624.35		205200
+AMBER		-0.11		3010.0		92460
+TATAINVEST		-0.36		2451.15		23343
