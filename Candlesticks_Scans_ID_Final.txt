@@ -1,11 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-LT		-0.48		2719.75		914248
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RHIM		0.28		717.75		151710
-HGS		0.37		1033.15		95395
+
