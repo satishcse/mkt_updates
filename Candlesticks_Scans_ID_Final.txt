@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.52		3385.85		233981
-HONAUT		-0.26		39129.1		1218
+LATENTVIEW		0.1		455.85		772613
+ANURAS		-0.25		998.2		43649
+MANYAVAR		-0.42		1292.2		23405
+HONAUT		-0.26		39129.9		1219
