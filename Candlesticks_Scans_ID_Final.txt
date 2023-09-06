@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ACC		-1.95		2044.05		483243
-NH		-0.96		1012.6		113210
-HDFCAMC		-0.88		2449.95		110814
+ACC		-1.95		2044.0		484010
+NAUKRI		-0.1		4472.8		109767
+JUBLPHARMA		-2.0		454.6		91443
