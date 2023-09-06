@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.83		873.1		649883
-ADANIENT		0.03		2494.7		491048
-ASIANPAINT		-0.41		3210.0		119973
+BHARTIARTL		0.68		871.75		730612
+GRASIM		-0.59		1842.95		81549
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SUNDRMFAST		0.19		1287.25		7432
