@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.21		2499.25		2307961
-TCS		-0.02		3428.55		325767
-BRITANNIA		0.56		4540.2		57238
+ADANIENT		0.19		2498.8		2322736
+TCS		-0.01		3428.9		326204
+BRITANNIA		0.58		4541.15		59914
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DATAPATTNS		-1.01		2369		86275
+PHOENIXLTD		-1.49		1824		122437
+DATAPATTNS		-1.01		2369		86349
