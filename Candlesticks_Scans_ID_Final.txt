@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.2		606.85		1407355
-HCLTECH		-0.8		1225.65		697229
-HINDUNILVR		0.43		2517.85		378992
-BAJAJFINSV		0.14		1512.55		222982
-ULTRACEMCO		0.18		8469.95		130666
-BAJAJ-AUTO		-0.27		4688.75		94745
+UPL		-0.21		606.75		1408218
+HCLTECH		-0.77		1226.05		702070
+ULTRACEMCO		0.18		8470.0		134057
+BAJAJ-AUTO		-0.25		4690.0		95506
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BLUEDART		-0.14		6219.65		12498
