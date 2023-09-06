@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.78		129.35		13251490
-ADANIPORTS		0.34		807.7		1693449
-BPCL		0.36		351.45		1360936
-JSWSTEEL		-0.94		808.3		809009
-TATACONSUM		0.4		849.7		239368
-NESTLEIND		0.63		22093.3		17521
+TATASTEEL		-1.75		129.4		13270956
+ADANIPORTS		0.27		807.1		1713678
+BPCL		0.34		351.4		1368532
+JSWSTEEL		-0.97		808.0		813204
+TATACONSUM		0.4		849.65		239603
+ASIANPAINT		-0.04		3221.9		235079
+NESTLEIND		0.63		22092.2		17551
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ALKYLAMINE		-1		2479.95		27162
