@@ -2,16 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.15		610.25		6600866
+TATAMOTORS		-0.15		610.25		6601408
 SBILIFE		0.79		1319.8		1465336
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EASEMYTRIP		-0.88		39.5		19876826
+EASEMYTRIP		-0.88		39.5		19877339
 NAZARA		-1.26		884.0		2266032
-GNFC		-1.05		634.3		2255232
-AAVAS		-0.29		1632.0		1304117
+GNFC		-1.05		634.3		2255582
+AAVAS		-0.29		1632.0		1304153
 KEI		-2.22		2569.0		203959
 HGS		-0.72		1021.85		134945
 BIRLACORPN		0.25		1245.0		63716
