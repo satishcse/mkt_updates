@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-INDUSINDBK		0.92		1421.65		1340133
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CDSL		-1.31		1204.8		923046
+MASTEK		-0.73		2460.95		109508
