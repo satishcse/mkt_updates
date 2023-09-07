@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.04		806.7		1943727
-ADANIENT		0.26		2502.95		1130877
+ADANIPORTS		-0.01		806.95		1965474
+ADANIENT		0.23		2502.25		1136720
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TTKPRESTIG		0.41		811.5		12267
-ATUL		-0.44		7431.0		8780
-ABBOTINDIA		-0.53		22984.25		2238
+ATUL		-0.43		7431.3		8782
+ABBOTINDIA		-0.53		22984.35		2240
