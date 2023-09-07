@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		0.43		10222.6		270470
-GRASIM		-0.3		1832.9		209199
-NESTLEIND		-0.29		21939.85		17033
+MARUTI		0.44		10223.75		270713
+GRASIM		-0.3		1833.0		209986
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBMA		-0.95		1480.0		59236
+JBMA		-0.95		1480.0		59307
 VIJAYA		0.17		483.9		41135
