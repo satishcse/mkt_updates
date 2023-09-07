@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.34		445.95		5026869
-BAJAJ-AUTO		-0.08		4680.0		164802
+ITC		-0.35		445.9		5032698
+BAJAJ-AUTO		-0.09		4679.5		166876
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OIL		0.09		282.8		601944
+JAMNAAUTO		-0.65		122.7		962037
