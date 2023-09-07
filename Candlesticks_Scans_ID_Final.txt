@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.39		611.75		2390752
-MARUTI		0.39		10219.0		272481
-GRASIM		-0.37		1831.65		213746
-BAJAJ-AUTO		-0.13		4677.85		154851
+UPL		0.35		611.5		2392084
+MARUTI		0.41		10221.05		273205
+GRASIM		-0.32		1832.65		215732
+BAJAJ-AUTO		-0.12		4678.1		155286
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBMA		-0.95		1480		59707
+JBMA		-0.95		1480.0		60182
+SANOFI		0.07		7118.7		3267
