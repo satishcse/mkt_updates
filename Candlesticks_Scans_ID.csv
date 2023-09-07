@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,0.34,1600.9,10446553
-ITC,-0.34,445.95,4972225
-INDUSINDBK,0.23,1411.95,1003411
+ITC,-0.34,445.95,5021923
+INDUSINDBK,0.2,1411.5,1025564
+BAJAJ-AUTO,-0.1,4679.0,164028
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+OIL,0.05,282.7,599831
