@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		0.35		130.05		7490156
-ADANIPORTS		-0.01		807.0		1223390
-BPCL		0.52		355.0		1155024
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-0.36		1512.7		193825
+JBMA		-0.2		1491.25		20822
