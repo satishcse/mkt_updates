@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.38		354.5		2049950
+BPCL		0.4		354.55		2052521
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FACT		-4.19		523.35		5415292
-BAYERCROP		-0.41		5223.95		15197
+ULTRACEMCO		-0.98		8454.05		85106
+MAPMYINDIA		-0.67		1747.05		33596
