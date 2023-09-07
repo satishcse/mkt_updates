@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.39		2419.25		2322234
-DRREDDY		0.59		5616.3		300574
+TATASTEEL		0.27		129.95		15134823
+RELIANCE		-0.32		2420.85		2365591
+HDFCLIFE		-0.26		645.85		684409
+DRREDDY		0.62		5617.8		314865
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.99		8453.05		89312
+MEDPLUS		-0.01		818.95		101369
