@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-AXISBANK,0.28,967.75,4166093
-MARUTI,0.36,10215.5,223869
+AXISBANK,0.25,967.5,4171098
+TATAMOTORS,0.45,613.0,3053285
+JSWSTEEL,-0.28,812.6,1260976
+MARUTI,0.31,10210.85,224769
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-MGL,-2.12,1051,234900
+MGL,-2.12,1051.0,234995
+ZYDUSWELL,-1.1,1627.1,8233
