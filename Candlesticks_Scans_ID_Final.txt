@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.25		967.5		4171098
-TATAMOTORS		0.45		613.0		3053285
-JSWSTEEL		-0.28		812.6		1260976
-MARUTI		0.31		10210.85		224769
+AXISBANK		0.11		966.15		4252974
+TATAMOTORS		0.43		612.85		3064601
+JSWSTEEL		-0.38		811.8		1265837
+MARUTI		0.32		10211.9		225491
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MGL		-2.12		1051.0		234995
-ZYDUSWELL		-1.1		1627.1		8233
+
