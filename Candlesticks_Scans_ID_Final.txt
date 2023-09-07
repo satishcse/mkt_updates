@@ -1,10 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SUNPHARMA		-0.83		1132.9		569384
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HINDUNILVR		-0.74		2504.85		556000
-ATUL		-0.55		7422.4		9663
+
