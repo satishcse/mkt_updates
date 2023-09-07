@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		0.46		2951.45		96006
+HEROMOTOCO		0.47		2951.7		96084
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIVISLAB		-1.06		3668.7		319617
-CEATLTD		-1.12		2215.4		58332
+CEATLTD		-1.12		2215.45		59157
 KENNAMET		0.16		2800.0		2489
