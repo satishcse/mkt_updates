@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TECHM		0.43		1268.35		84754
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAVELLS		-0.24		1446.75		232703
-ALKYLAMINE		0.06		2489.25		5947
-WHIRLPOOL		-0.35		1675.0		5203
+ALKYLAMINE		0.14		2491.3		6695
