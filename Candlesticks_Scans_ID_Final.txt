@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		7.22		884.55		16676419
-TATAMOTORS		0.94		633.15		6109982
-ITC		0.2		443.55		4779840
-UPL		1.56		616.25		2477729
-TCS		0.58		3461.85		1289501
+TATAMOTORS		0.96		633.25		6115190
+UPL		1.52		616.0		2492388
+TCS		0.57		3461.65		1290975
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASTERDM		-1.29		336.6		499296
+MEDANTA		0.66		699.85		152608
