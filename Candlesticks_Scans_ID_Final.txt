@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.27		131.15		21309174
-MARUTI		1.67		10504.95		399335
+TATASTEEL		1.27		131.15		21348800
+COALINDIA		-0.57		280.5		9883727
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASTRAL		-0.38		1902		374016
