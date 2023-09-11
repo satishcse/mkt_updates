@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.89		242.4		20038801
-POWERGRID		1.97		263.75		9912378
-DIVISLAB		0.82		3729.3		307910
+NTPC		0.94		242.5		20136004
+ASIANPAINT		0.29		3247.35		228402
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GALAXYSURF		-0.05		2769		27706
+
