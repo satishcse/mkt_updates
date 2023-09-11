@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.82		2468.25		2154602
-ITC		0.26		443.8		2068379
-BPCL		1.08		365.85		1868469
-UPL		1.03		613.05		1043102
-DRREDDY		0.78		5627.6		99301
-BAJAJ-AUTO		0.45		4781.0		46615
+RELIANCE		0.81		2468.1		2158702
+ITC		0.25		443.75		2078039
+UPL		1.02		613.0		1044687
+DRREDDY		0.75		5625.55		99566
+BAJAJ-AUTO		0.48		4782.3		46908
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SANOFI		-0.17		7117.35		2409
+ASIANPAINT		0.31		3247.95		116850
