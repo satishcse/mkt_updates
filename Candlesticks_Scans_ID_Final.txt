@@ -1,15 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIENT		1.4		2554.5		668468
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-0.04		4103.9		283806
-PVRINOX		-0.58		1838.45		204176
-BEML		-0.16		2590.0		183772
-BHARATFORG		-0.22		1103.0		65900
-MEDPLUS		-0.7		803.7		33292
-MGL		-0.05		1056.15		29194
-BAYERCROP		-0.35		5287.2		5960
+BAYERCROP		-0.26		5292.0		6016
+SOLARINDS		0.74		4676.0		5729
+SKFINDIA		0.25		5305.1		1820
