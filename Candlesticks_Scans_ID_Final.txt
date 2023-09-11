@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		1.42		2555		738041
+ADANIENT		1.4		2554.6		748373
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		0.26		5306		2004
+SOLARINDS		0.8		4678.95		5958
+GALAXYSURF		0.26		2777.5		3311
