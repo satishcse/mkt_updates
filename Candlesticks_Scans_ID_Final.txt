@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.0		1583.15		1471291
-TECHM		0.29		1266.55		665312
-HEROMOTOCO		0.96		3037.75		215922
+RELIANCE		0.84		2468.75		3569406
+M&M		0.95		1582.5		1478007
+HEROMOTOCO		0.94		3036.95		216242
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		0.96		2810		665833
+MTARTECH		1.07		2813.1		666759
+POLYCAB		-1.24		5135.0		237983
