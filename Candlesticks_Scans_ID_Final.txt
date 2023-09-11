@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		1.14		862.85		941874
+INDUSINDBK		0.08		1449.95		2152982
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEJASNET		0.65		900.0		1196768
-SUNDRMFAST		0.42		1277.95		50770
-LINDEINDIA		-0.85		6475.0		30060
+GRAPHITE		-1.99		508.0		1483869
+PVRINOX		-2.84		1796.65		1023359
+AFFLE		-0.4		1154.5		475690
+TANLA		-1.09		1029.0		368731
+STARHEALTH		-1.61		654.6		328714
+LUXIND		-0.74		1599.9		71794
+CERA		0.19		9100.0		14901
