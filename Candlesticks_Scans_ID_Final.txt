@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.0		633.55		6068868
-RELIANCE		0.99		2472.55		3973925
-UPL		1.65		616.8		2387327
+ADANIPORTS		7.22		884.55		16676419
+TATAMOTORS		0.94		633.15		6109982
+ITC		0.2		443.55		4779840
+UPL		1.56		616.25		2477729
+TCS		0.58		3461.85		1289501
 
 Bullish_Hammer_15m_N500								 
 ======================= 
