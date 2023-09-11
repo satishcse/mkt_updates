@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.94		242.5		19950567
-POWERGRID		1.84		263.4		9773825
-AXISBANK		1.68		996.75		4613927
-TATACONSUM		0.9		860.8		757526
-DIVISLAB		0.8		3728.25		306621
+NTPC		0.89		242.4		19987738
+POWERGRID		1.8		263.3		9814637
+AXISBANK		1.75		997.45		4663065
+TATACONSUM		0.9		860.8		759986
+DIVISLAB		0.8		3728.5		307411
 
 Bullish_Hammer_15m_N500								 
 ======================= 
