@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.72		2922.6		406977
-BAJAJ-AUTO		0.22		4769.85		26346
+LT		0.53		2917.0		419243
+BAJAJ-AUTO		0.16		4767.4		26973
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		0.95		1258.0		238895
-HGS		0.88		1046.2		14214
-BAJAJELEC		-0.16		1184.15		13339
-ATUL		-0.31		7498.6		6224
-GRINDWELL		0.34		2229.95		4057
+OLECTRA		0.93		1257.7		241053
+HGS		0.86		1045.95		14595
+ATUL		-0.37		7493.95		6680
+PAGEIND		-0.04		41841.75		2398
