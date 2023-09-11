@@ -5,4 +5,11 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HAL		-0.04		4103.9		283806
+PVRINOX		-0.58		1838.45		204176
+BEML		-0.16		2590.0		183772
+BHARATFORG		-0.22		1103.0		65900
+MEDPLUS		-0.7		803.7		33292
+MGL		-0.05		1056.15		29194
+BAYERCROP		-0.35		5287.2		5960
