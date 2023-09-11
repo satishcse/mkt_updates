@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		1.83		10521.15		429486
+KOTAKBANK		0.93		1809.9		1321692
+TATACONSUM		0.98		861.45		647330
+MARUTI		1.82		10520.1		430483
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HGS		0.11		1038.2		29711
