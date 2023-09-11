@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ADANIENT		3.64		2611.0		8899419
-BAJAJ-AUTO		0.95		4804.95		132060
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SANOFI		-0.3		7108		5545
+SUNDRMFAST		0.46		1278.5		50302
