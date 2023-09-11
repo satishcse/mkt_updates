@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.82		2468.2		3596932
-CIPLA		-0.19		1242.2		851738
-APOLLOHOSP		2.26		5098.0		390415
+ADANIPORTS		7.06		883.25		16121549
+RELIANCE		0.81		2468.05		3609743
+CIPLA		-0.2		1242.15		852298
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POLYPLEX		-0.14		1209.45		66895
+
