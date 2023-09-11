@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		6.95		882.35		16311811
-ITC		0.14		443.25		4574180
-CIPLA		-0.21		1242.0		856549
-MARUTI		1.87		10524.85		455788
+ITC		0.18		443.45		4580947
+CIPLA		-0.23		1241.8		857375
+MARUTI		1.86		10524.35		456565
 
 Bullish_Hammer_15m_N500								 
 ======================= 
