@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.1		279.0		12999123
-TECHM		0.48		1269.0		1040581
-CIPLA		-0.04		1244.1		956120
-ASIANPAINT		0.24		3245.95		235299
+ADANIENT		4.07		2621.9		8756767
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PNBHOUSING		-0.74		673.0		324336
-MASTEK		-0.43		2415.7		56808
+
