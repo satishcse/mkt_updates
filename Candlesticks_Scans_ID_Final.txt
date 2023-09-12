@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-2.08		238.05		12369076
-WIPRO		-0.28		433.65		5156708
-BHARTIARTL		-0.36		887.55		2023593
-BAJAJFINSV		-0.85		1536.5		688233
+NTPC		-2.04		238.15		12761620
+WIPRO		-0.4		433.1		5165855
+BHARTIARTL		-0.37		887.5		2027131
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AJANTPHARM		-0.95		1712		33902
+APOLLOHOSP		-2.34		4976.95		318611
+SIEMENS		-3.03		3834.8		194860
