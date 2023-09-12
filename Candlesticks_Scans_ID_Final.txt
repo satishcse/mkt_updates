@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.31		1495.75		4774955
-KOTAKBANK		0.11		1809.85		2635278
+KOTAKBANK		0.11		1809.8		2638163
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJELEC		-0.62		1162.8		89786
-DCMSHRIRAM		-3.87		978.35		61255
-POWERINDIA		-4.3		4372.55		19322
+TANLA		-3.29		993.0		510288
+BAJAJELEC		-0.56		1163.4		89940
+DCMSHRIRAM		-3.87		978.4		61257
+POWERINDIA		-4.28		4373.45		19327
