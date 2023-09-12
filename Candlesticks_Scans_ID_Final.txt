@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		0.55		7432.65		877079
+BAJFINANCE		0.5		7428.3		883457
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SWANENERGY		-7.7		279.75		1474341
