@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-KOTAKBANK		0.09		1809.6		2679862
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MEDANTA		-2.7		679.3		174918
-BAJAJELEC		-0.65		1162.35		91017
+BAJAJELEC		-0.45		1164.75		91227
 DCMSHRIRAM		-3.87		978.4		61307
