@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.2		1494.15		4522678
-JSWSTEEL		-0.52		819.95		2344897
-EICHERMOT		-1.64		3348.5		313723
+INFY		1.24		1494.75		4536389
+EICHERMOT		-1.61		3349.55		314616
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-1.94		1752.25		284480
+WELCORP		-7.48		358.3		1693464
+MCX		-1.95		1751.95		288686
