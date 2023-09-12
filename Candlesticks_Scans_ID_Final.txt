@@ -2,18 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.52		1498.95		5296810
-BHARTIARTL		-0.01		890.7		3109940
-BAJFINANCE		0.63		7438.4		787209
+HINDUNILVR		-1.52		2497.75		3499755
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDALCO		-1.43		477.9		4715466
-DLF		-3.05		524.35		2129085
-ACC		-1.91		2011.95		855357
-DEEPAKNTR		-3.81		2253.6		445777
-ANGELONE		-5.17		1783.25		408865
-PIIND		-2.08		3601.1		179017
-BAJAJELEC		-4.31		1119.6		175797
-UBL		-2.87		1612.25		131938
+THERMAX		-6.69		2832.55		55301
