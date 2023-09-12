@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.48		1241.35		749201
+ADANIENT		-2.29		2555.0		4279651
+HDFCLIFE		0.2		670.0		2422164
+GRASIM		1.53		1890.9		1490960
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JINDWORLD		-5.6		370.1		70095
+
