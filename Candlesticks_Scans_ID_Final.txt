@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.69		3504.8		420737
+TCS		0.55		3499.75		457173
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRASIM		-0.44		1854.15		110454
+MANAPPURAM		-2.19		145.25		2542925
+GODREJIND		-0.54		569.6		129674
+TEAMLEASE		-0.25		2684.0		14767
+PGHH		-0.47		17258.6		868
