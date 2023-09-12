@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-2.47		2550.35		4402015
-HDFCLIFE		-0.34		666.4		2568102
-GRASIM		1.32		1887.0		1528040
-ULTRACEMCO		1.16		8560.15		236832
+RELIANCE		-1.33		2441.8		6033157
+BHARTIARTL		-0.06		890.3		2537621
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PFC		-6.7		285.7		17964166
-PAGEIND		-1.33		41139.5		10355
+
