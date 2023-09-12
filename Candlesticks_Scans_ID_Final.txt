@@ -2,12 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-1.34		2441.55		6067194
-HINDALCO		-1.36		478.25		4020091
-BHARTIARTL		-0.03		890.55		2546205
+TATASTEEL		-1.11		129.7		27940005
+TATAMOTORS		-1.9		622.8		10465817
+RELIANCE		-1.32		2442.0		6075255
+HINDALCO		-1.34		478.35		4021356
+BHARTIARTL		0.01		890.9		2550658
+HCLTECH		-0.28		1278.0		1347947
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-1.65		3617.0		138557
-JINDWORLD		-5.42		370.8		82263
+LICI		-2.73		660.5		1233460
+MOTILALOFS		-3.46		878.2		162653
+NAVINFLUOR		-2.44		4570.95		77029
