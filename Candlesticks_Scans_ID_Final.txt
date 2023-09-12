@@ -6,5 +6,10 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEJASNET		-4.01		863.9		571571
-LINDEINDIA		-5.92		6091.25		103922
+INDUSINDBK		-1.53		1428.0		1213498
+TEJASNET		-3.97		864.2		579446
+CYIENT		-2.09		1801.55		420644
+ANGELONE		-3.96		1805.95		287896
+MEDANTA		-1.88		685.05		117103
+UBL		-2.71		1615.0		113101
+AMBER		-3.52		2936.2		60954
