@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.41		478.0		3519141
-BHARTIARTL		0.04		891.15		2207570
-CIPLA		-0.26		1244.15		708243
-ASIANPAINT		0.32		3269.95		322719
+HINDALCO		-1.44		477.85		3529505
+BHARTIARTL		0.08		891.55		2217689
+CIPLA		-0.22		1244.55		711030
+ASIANPAINT		0.32		3269.85		323202
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BEML		-10.65		2327		632523
