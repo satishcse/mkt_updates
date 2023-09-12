@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		0.48		7427.1		674433
-EICHERMOT		-1.61		3349.8		315493
+ONGC		-0.71		182.1		10323448
+ADANIPORTS		-2.54		860.0		6737418
+HINDALCO		-1.23		478.9		4160584
+EICHERMOT		-1.62		3349.45		315945
+BAJAJ-AUTO		0.58		4834.4		238704
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SONATSOFTW		-3.2		1090.0		372182
-MCX		-2.01		1750.85		291331
+
