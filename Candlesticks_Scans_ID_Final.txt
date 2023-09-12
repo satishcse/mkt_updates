@@ -1,15 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+DIVISLAB		2.67		3836.1		156693
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		0.27		1962.5		76049
-MAHLIFE		-0.36		587.2		42612
-KANSAINER		0.43		336.1		28132
-GLAND		0.76		1698.0		19589
-MAPMYINDIA		0.7		1756.35		6806
-METROBRAND		0.49		1075.2		5205
-SUNDARMFIN		0.72		2678.45		2494
+FINCABLES		-0.32		1155.5		47117
+METROPOLIS		-1.02		1404.95		30392
+SCHAEFFLER		0.09		3690.65		11504
+FINEORG		-0.55		4987.9		2285
