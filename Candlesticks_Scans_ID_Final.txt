@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-2.41		2551.95		4330346
-HDFCLIFE		-0.41		665.9		2467144
-GRASIM		1.29		1886.3		1517370
-ULTRACEMCO		1.14		8557.8		233778
+ADANIENT		-2.41		2551.9		4364057
+HDFCLIFE		-0.5		665.3		2539654
+GRASIM		1.27		1886.0		1522623
+ULTRACEMCO		1.19		8562.35		235411
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		-3.21		3828		208502
+PFC		-6.68		285.75		17866405
+SIEMENS		-3.21		3828.0		209291
