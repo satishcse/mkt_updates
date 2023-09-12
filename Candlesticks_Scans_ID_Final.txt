@@ -6,5 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFC		-4.29		293.05		8844252
-CHOLAHLDNG		-0.4		1094.4		49458
+CHOLAHLDNG		-0.24		1096.2		50787
+GLAXO		-0.37		1455.0		26944
