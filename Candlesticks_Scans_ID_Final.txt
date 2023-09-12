@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+DIVISLAB		1.54		3793.9		630310
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DCMSHRIRAM		-3.49		982.25		61587
+BAJAJELEC		-0.77		1160.95		92111
+DCMSHRIRAM		-3.53		981.85		61604
