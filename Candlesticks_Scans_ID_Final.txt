@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.46		1498		5246051
-BHARTIARTL		-0.09		890		3077116
+INFY		1.46		1498.05		5272427
+BHARTIARTL		-0.09		890.0		3087490
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		-3.78		2254.25		441097
-SRF		-2.67		2371.75		265093
-BAJAJELEC		-3.25		1132.0		168079
+ACC		-1.91		2011.8		852063
+GODREJCP		-2.22		1010.9		633725
+BAJAJELEC		-3.86		1124.8		171045
