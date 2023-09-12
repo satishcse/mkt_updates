@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAHLIFE		-0.05		589.05		26354
-COFORGE		0.84		5562.15		12361
-SUNDARMFIN		0.63		2676.0		1228
-CGCL		0.32		814.7		772
+SHRIRAMFIN		0.35		1964.0		49550
+TVSMOTOR		0.47		1496.0		19231
+PERSISTENT		0.7		5977.7		14993
+SUNDARMFIN		0.78		2680.0		1366
+CGCL		0.32		814.7		839
