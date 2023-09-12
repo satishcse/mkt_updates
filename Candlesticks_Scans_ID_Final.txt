@@ -1,9 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ULTRACEMCO		0.96		8543		188750
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		-2.83		3842.9		162253
+RECLTD		-7.38		250.5		32737692
+LICHSGFIN		-3.25		440.05		1404740
+PRESTIGE		-4.09		619.0		243720
+MUTHOOTFIN		-2.26		1267.3		179842
+INDIAMART		-3.04		3094.25		145722
+LINDEINDIA		-4.41		6189.25		95094
+MRF		-1.42		107887.35		4239
