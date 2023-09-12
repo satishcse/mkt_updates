@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.29		452.95		10066698
-HINDALCO		-1.23		478.9		4171120
-EICHERMOT		-1.61		3349.6		317651
-BAJAJ-AUTO		0.58		4834.45		239414
+ITC		1.26		452.85		10103934
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CREDITACC		-3.41		1411.2		377624
