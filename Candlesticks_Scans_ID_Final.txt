@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-2.3		237.5		13134994
-WIPRO		-0.34		433.35		5226369
-BHARTIARTL		-0.4		887.25		2086042
+NTPC		-2.39		237.3		13200319
+WIPRO		-0.4		433.1		5233744
+NESTLEIND		0.97		22342.45		24906
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JSWENERGY		-7.73		397.9		5716088
+TCIEXP		-2.93		1494.95		48327
