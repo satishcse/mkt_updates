@@ -1,10 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-LT		1.98		2951.6		49260
-INDUSINDBK		-0.01		1450.1		5485
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		0.06		1451.0		133927
+TCS		0.39		3494.1		79089
+AUROPHARMA		0.33		870.65		65822
+HAL		0.35		4096.85		45345
+APOLLOHOSP		0.35		5113.9		16038
+COFORGE		0.87		5563.5		8666
+SUNDARMFIN		0.02		2659.85		517
