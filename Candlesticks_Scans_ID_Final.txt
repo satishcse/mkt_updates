@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.24		1013.3		7923894
-ONGC		1.38		183.4		6909623
-ULTRACEMCO		0.62		8624.55		260112
+AXISBANK		1.3		1013.95		7948920
+ONGC		1.38		183.4		6922128
+EICHERMOT		-0.74		3316.5		634954
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ENDURANCE		-1.12		1570		34514
