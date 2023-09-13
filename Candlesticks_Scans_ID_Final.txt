@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.18		434.2		1556498
+WIPRO		-0.11		434.5		1562099
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.76		3232.2		243614
-AIAENG		-2.56		3589.0		32443
-WHIRLPOOL		-3.11		1634.0		16903
+ASIANPAINT		-0.81		3230.45		245919
+AIAENG		-2.56		3589.0		32631
+WHIRLPOOL		-3.17		1633.0		17022
