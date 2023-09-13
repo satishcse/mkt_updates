@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-0.63		1338.05		158299
+HDFCBANK		0.47		1644.55		8231006
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ENDURANCE		0.33		1593.05		24007
-TCIEXP		-2.57		1458.0		19532
+
