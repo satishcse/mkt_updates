@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.92		355.1		4234756
-SUNPHARMA		0.41		1149.95		1845860
-UPL		0.64		608.35		1234351
+SUNPHARMA		0.37		1149.5		1863555
+UPL		0.66		608.5		1237509
 
 Bullish_Hammer_15m_N500								 
 ======================= 
