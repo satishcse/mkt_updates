@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-0.19		3574.15		1103208
-JSWSTEEL		-0.21		814.45		617272
+TCS		-0.18		3574.2		1106139
+JSWSTEEL		-0.26		814.05		618673
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-IPCALAB		-0.59		891.45		186980
+
