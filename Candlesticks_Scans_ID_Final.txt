@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		0.69		5013.45		185200
+HDFCBANK		0.71		1648.6		16238138
+BPCL		1.89		355.0		4120409
+TATACONSUM		2.37		885.25		1832293
+APOLLOHOSP		0.66		5012.0		185946
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+3MINDIA		-1.81		31140.8		4850
