@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TCS		-0.32		3569.45		992822
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SUPREMEIND		-4.56		4373.15		103638
+FLUOROCHEM		-0.81		2981.1		59919
+VMART		-1.19		2142.15		8148
