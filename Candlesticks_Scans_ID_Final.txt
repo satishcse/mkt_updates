@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.05		1145.85		672352
-HAVELLS		-2.15		1386.2		235258
-CCL		-2.48		650.9		51882
-SCHAEFFLER		-4.11		3297.25		48238
+SCHAEFFLER		-4.15		3295.65		49867
+3MINDIA		-0.17		31661.1		511

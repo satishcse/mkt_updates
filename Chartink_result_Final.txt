@@ -10,14 +10,17 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-ALKEM		1.31		3683.1		20168
-BAJFINANCE		-0.09		7424.3		118268
+ALKEM		1.42		3687.0		21246
+BAJFINANCE		-0.11		7423.5		119866
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-IPCALAB		1.04		906.0		52423
-BANKNIFTY		-0.25		45397.25		0
+GRANULES		4.91		322.85		3638682
+BIOCON		1.38		271.0		820046
+LUPIN		1.1		1150.95		193633
+IPCALAB		1.13		906.85		56765
+ALKEM		1.42		3687.0		21246
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -26,18 +29,18 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-INFY		-0.41		1495.0		1118139
-SIEMENS		-0.65		3814.95		38268
+INFY		-0.33		1496.1		1140191
+SIEMENS		-0.66		3814.5		38453
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-AUROPHARMA		2.54		893.35		1459469
-RBLBANK		2.27		222.75		3397543
-LAURUSLABS		1.93		391.5		786695
-ALKEM		1.31		3683.1		20168
-ZYDUSLIFE		1.04		634.25		183392
-BOSCHLTD		0.94		19340.0		4366
-KOTAKBANK		0.43		1818.9		814046
-TITAN		0.37		3197.65		196198
-SRF		0.05		2375.25		37131
+AUROPHARMA		2.22		890.55		1585294
+LAURUSLABS		2.06		392.0		814523
+RBLBANK		1.95		222.05		3449940
+ALKEM		1.42		3687.0		21246
+ZYDUSLIFE		1.08		634.5		213158
+BOSCHLTD		0.83		19319.1		4419
+TITAN		0.37		3197.5		200188
+KOTAKBANK		0.37		1817.95		840136
+SRF		0.01		2374.4		37941
