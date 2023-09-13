@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.2		1012.9		8210505
-ONGC		1.33		183.3		7008658
+AXISBANK		1.21		1013.0		8247341
+ONGC		1.35		183.35		7021172
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ENDURANCE		-1.12		1570		41153
+
