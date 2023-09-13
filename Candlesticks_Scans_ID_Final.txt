@@ -6,9 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLAPOLLO		-1.6		1597.95		192657
-CCL		-2.48		650.9		53694
-SCHAEFFLER		-4.24		3292.7		51180
-MAHLOG		-1.22		403.45		48550
-AIAENG		-2.04		3608.0		24893
-CHALET		-1.29		560.15		24039
+AIAENG		-2.06		3607.35		25403
