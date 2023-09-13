@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.39		590.65		7873470
-RELIANCE		0.62		2453.9		3249063
-WIPRO		0.47		437.05		2695235
-SUNPHARMA		0.33		1149.0		1208966
-UPL		0.79		609.25		994247
-DRREDDY		0.7		5713.7		208477
-HEROMOTOCO		-0.9		2992.75		151559
+SBIN		0.41		590.75		7892401
+RELIANCE		0.64		2454.55		3253844
+WIPRO		0.46		437.0		2698456
+SUNPHARMA		0.33		1149.0		1211628
+UPL		0.79		609.3		995979
+HEROMOTOCO		-0.9		2992.95		151929
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+3MINDIA		-1.26		31317.6		4177
