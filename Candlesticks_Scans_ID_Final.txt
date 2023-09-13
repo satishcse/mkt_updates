@@ -1,7 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TCS		-0.34		3568.6		975028
+UPL		0.66		608.5		783701
 
 Bullish_Hammer_15m_N500								 
 ======================= 
