@@ -1,10 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		0.81		272.95		5193250
+NTPC		-0.09		234.9		2567961
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAHLOG		-1.15		403.75		49782
-AIAENG		-2.04		3607.95		25566
+POLICYBZR		-3.16		763.5		209211
+BAJAJFINSV		-1.1		1525.5		186471
+VOLTAS		-0.33		872.5		151932
+HDFCAMC		-2.51		2564.85		115999
+INGERRAND		-1.92		3028.3		3026
