@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNCINFRA		-1.54		353.9		837357
+ENDURANCE		-1.17		1569.2		67123
+AETHER		-0.45		982.75		30407
