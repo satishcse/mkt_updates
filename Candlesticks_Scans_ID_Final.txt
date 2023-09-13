@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.38		183.4		6060794
-HINDALCO		1.26		483.75		2812487
-WIPRO		0.41		436.8		2718122
+ONGC		1.38		183.4		6080193
+HINDALCO		1.24		483.65		2816866
+WIPRO		0.44		436.9		2729984
+TCS		-0.13		3576.1		1196477
 
 Bullish_Hammer_15m_N500								 
 ======================= 
