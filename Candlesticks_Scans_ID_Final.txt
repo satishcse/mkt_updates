@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-1.02		850.0		6181366
-BPCL		1.91		355.05		4225768
-SUNPHARMA		0.5		1151.0		1827560
-UPL		0.63		608.3		1231255
+BPCL		1.91		355.05		4227506
+SUNPHARMA		0.5		1150.95		1831467
+UPL		0.63		608.3		1232022
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-UBL		-0.69		1598.25		128216
+
