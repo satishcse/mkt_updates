@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.92		355.1		4144827
+ONGC		1.99		184.5		8159921
+BPCL		1.91		355.05		4149790
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+STARHEALTH		-2.51		628		180793
