@@ -10,33 +10,34 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-ALKEM		2.0		3708		194549
-BAJFINANCE		0.17		7444		318998
+ALKEM		2.03		3709.3		194764
+BAJFINANCE		0.18		7444.45		319843
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ABCAPITAL		-0.28		180.3		2256496
+BPCL		1.61		354.0		3602637
+INDUSINDBK		1.51		1450.8		2131974
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-ABCAPITAL		-0.28		180.3		2256496
+ABCAPITAL		-0.19		180.45		2425904
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-SIEMENS		-0.03		3838.85		80881
-INFY		-0.03		1500.6		3406429
+INFY		-0.01		1500.95		3413789
+SIEMENS		-0.03		3838.65		81187
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-RBLBANK		3.35		225.1		7688906
-AUROPHARMA		3.23		899.35		4091115
-TITAN		2.03		3250.5		862215
-ALKEM		2.0		3708.0		194549
-LAURUSLABS		1.94		391.55		1649788
-ZYDUSLIFE		1.56		637.55		703467
-KOTAKBANK		1.28		1834.4		3385790
+RBLBANK		3.4		225.2		7692380
+AUROPHARMA		3.2		899.1		4093133
+ALKEM		2.03		3709.3		194764
+TITAN		2.02		3250.25		864846
+LAURUSLABS		1.93		391.5		1649992
+ZYDUSLIFE		1.53		637.35		705955
+KOTAKBANK		1.26		1834.05		3402224
 BOSCHLTD		0.99		19350.0		10366
