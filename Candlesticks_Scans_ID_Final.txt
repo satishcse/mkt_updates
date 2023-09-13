@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.1		435.45		1450583
+WIPRO		0.15		435.65		1460449
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BASF		-2.2		2711.45		5450
+BASF		-2.26		2709.7		5471
