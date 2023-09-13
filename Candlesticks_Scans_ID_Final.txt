@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.0		1429.2		1173919
-TATACONSUM		0.75		871.25		524149
-SBILIFE		-0.52		1339.5		157038
+SBIN		0.09		588.9		5651007
+INDUSINDBK		0.05		1429.9		1181162
+SBILIFE		-0.63		1338.05		157824
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 BAJAJHLDNG		-1.44		7030.1		76838
+TCIEXP		-2.57		1458.0		19425
