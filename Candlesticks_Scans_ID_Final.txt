@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SBIN		0.54		599.7		6338277
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		1.02		5243.65		7483
+AJANTPHARM		-0.75		1807.6		88735
+SKFINDIA		1.02		5243.65		7567
