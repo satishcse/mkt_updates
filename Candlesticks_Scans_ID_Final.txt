@@ -1,15 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBILIFE		0.31		1349.7		57202
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAXHEALTH		0.53		585.8		261277
-RELIANCE		0.51		2463.6		244088
-HINDUNILVR		0.14		2509.95		68480
-SIEMENS		0.3		3839.95		10569
-POLYPLEX		0.48		1192.35		6396
-GRINDWELL		0.47		2107.95		2021
-ABBOTINDIA		0.72		23170.0		715
+
