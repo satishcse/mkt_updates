@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.29		278.85		5064568
-GRASIM		0.06		1934.2		883092
+HEROMOTOCO		-0.48		2980		174000
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BIKAJI		-0.42		487.55		323209
-BRITANNIA		-0.59		4580.9		218150
-SUNDARMFIN		-1.74		2741.25		18961
+
