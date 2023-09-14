@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.93		439.75		3309424
+HINDALCO		4.72		506.0		8771480
+NTPC		0.11		237.4		2470312
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AJANTPHARM		-0.68		1808.9		90051
