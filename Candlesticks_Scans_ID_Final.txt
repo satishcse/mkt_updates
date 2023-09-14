@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.44		599.05		7232206
-SUNPHARMA		-0.42		1143.95		757943
-DRREDDY		-0.37		5717.95		112308
+TATAMOTORS		0.22		627.3		2830348
+MARUTI		0.5		10526.1		190672
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAPMYINDIA		-0.41		1710.6		34378
+
