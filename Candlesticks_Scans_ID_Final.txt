@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.67		194.5		6083483
-COALINDIA		-0.3		278.8		5232232
-WIPRO		0.38		437.35		4318427
-TATAMOTORS		0.04		626.15		3521147
-TITAN		-0.33		3252.4		969037
+APOLLOHOSP		1.29		5075.8		243419
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PIDILITIND		-0.61		2473.3		278430
