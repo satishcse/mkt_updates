@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.22		627.3		2830348
-MARUTI		0.5		10526.1		190672
+ICICIBANK		-0.33		986.55		3788352
+TATAMOTORS		0.38		628.3		3008498
+TECHM		1.87		1284.0		2159717
+BRITANNIA		-0.34		4592.45		178526
+BAJAJ-AUTO		0.04		4810.0		142995
+DRREDDY		-0.34		5719.6		117383
 
 Bullish_Hammer_15m_N500								 
 ======================= 
