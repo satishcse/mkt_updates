@@ -1,16 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ICICIBANK		-0.47		985.1		3954530
-TECHM		1.68		1281.6		2187827
-BRITANNIA		-0.32		4593.6		186553
-BAJAJ-AUTO		0.04		4810.0		144866
-DRREDDY		-0.39		5716.45		119380
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GESHIP		-1.43		807.1		196500
-BRITANNIA		-0.32		4593.6		186553
-RELAXO		-0.38		909.05		34318
+
