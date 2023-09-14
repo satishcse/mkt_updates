@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.69		645.7		2325737
-DRREDDY		-0.49		5710.55		151773
+DRREDDY		-0.5		5710.05		151906
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BBTC		5.15		1269.0		993865
-BLUESTARCO		-0.9		788.65		115413
-SANOFI		-0.7		7216.0		6389
+BBTC		5.24		1270.0		995971
+LINDEINDIA		0.15		6057.9		19885
