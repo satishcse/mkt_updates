@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		2.32		132.55		36764442
-BPCL		0.63		357.85		3681285
-HCLTECH		0.68		1283.95		1272779
+BPCL		0.63		357.85		3707336
+HCLTECH		0.71		1284.25		1294986
+NESTLEIND		0.8		22356.15		29788
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRINCEPIPE		-2.1		735.8		144414
+PRINCEPIPE		-2.01		736.5		148390
