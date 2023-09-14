@@ -1,9 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		0.67		194.5		6039655
+COALINDIA		-0.3		278.8		5174464
+WIPRO		0.48		437.8		4269621
+TATAMOTORS		0.1		626.55		3483324
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-STARHEALTH		0.36		634.8		615976
+STARHEALTH		0.35		634.7		622269
