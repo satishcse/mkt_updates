@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.71		185.2		3356691
-JSWSTEEL		0.94		818.35		800229
+ONGC		0.79		185.35		3370109
+JSWSTEEL		0.93		818.25		804672
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HIKAL		0.38		302.4		45316
-FINEORG		-0.09		4920.55		3515
+BHARTIARTL		-0.19		913.45		1409088
+BIKAJI		1.09		494.95		135379
+ABB		-0.31		4327.6		55277
+TIMKEN		0.11		3169.85		41210
+CENTURYPLY		-1.04		668.35		32179
+FINEORG		-0.08		4920.95		3533
