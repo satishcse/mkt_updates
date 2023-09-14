@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.27		987.15		11219600
+ICICIBANK		-0.15		988.35		11302744
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LATENTVIEW		0.27		426.55		849407
-EMAMILTD		-0.75		561.05		127915
-JUBLPHARMA		-1.5		437.45		70505
-PAGEIND		-0.27		40107.3		37205
+LATENTVIEW		0.36		426.95		853426
+TEJASNET		-0.23		863.9		309790
+SONATSOFTW		-1.14		1082.7		223711
+CENTURYPLY		-1.11		667.9		121837
+JUBLPHARMA		-1.47		437.55		70956
