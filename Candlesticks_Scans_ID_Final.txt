@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.47		992.3		5555536
-TECHM		0.72		1289.05		1919043
-SBILIFE		0.75		1362.85		373784
+TECHM		0.73		1289.25		1986554
+ASIANPAINT		-1.21		3200.9		877636
+SBILIFE		0.83		1364.0		381699
+DRREDDY		0.68		5783.95		131134
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KSB		-1.95		2661.15		26192
+
