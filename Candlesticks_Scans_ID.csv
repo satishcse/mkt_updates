@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,-1.01,186.0,11119936
-ITC,-0.3,448.6,9600942
-COALINDIA,0.18,278.05,8384631
+ONGC,-1.06,185.9,11288270
+ITC,-0.27,448.75,9692366
+SUNPHARMA,0.64,1151.15,1035869
+BAJFINANCE,0.33,7519.0,524394
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-INGERRAND,0.09,3001.95,5569
+SHARDACROP,-2.23,440.65,57169
+INGERRAND,0.03,3000.2,5578
