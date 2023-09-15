@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		4.63		5069		759156
+POWERGRID		-0.85		193.5		4703731
+M&M		0.76		1577.85		717931
+DRREDDY		0.25		5759.0		68963
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELAXO		-1.15		897.9		75938
-CEATLTD		0.45		2137.8		62687
-CARBORUNIV		-0.61		1192.75		17725
-SKFINDIA		-0.1		5195.85		2439
+
