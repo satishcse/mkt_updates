@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		0.29		8713		65221
+ULTRACEMCO		0.23		8708		65428
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFSL		-0.42		935.05		51205
 GODFRYPHLP		-0.94		2066.1		9950
-CERA		0.15		8774.0		6423
+CERA		0.15		8774.0		6424
