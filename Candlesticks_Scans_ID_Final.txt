@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.27		237.3		5605329
-BAJFINANCE		0.46		7528.7		494237
+HCLTECH		1.62		1304.45		2015474
+ASIANPAINT		-1.18		3201.95		1007989
+BAJFINANCE		0.46		7528.45		495863
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ZFCVINDIA		-2.16		15948.5		26563
+
