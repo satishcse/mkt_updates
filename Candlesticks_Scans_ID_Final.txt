@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.34		237.15		5765901
-ASIANPAINT		-1.24		3200.0		1020302
-BAJFINANCE		0.4		7524.0		502984
-APOLLOHOSP		0.92		5131.5		441201
-DRREDDY		0.63		5780.65		178376
-ULTRACEMCO		0.37		8719.8		151157
+NTPC		-0.29		237.25		5836314
+ASIANPAINT		-1.24		3200.0		1025438
+BAJFINANCE		0.42		7526.1		505945
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RELAXO		-1.29		896.55		139598
