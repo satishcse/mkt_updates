@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.86		1290.8		2006716
-SBILIFE		0.81		1363.65		384756
+TECHM		0.82		1290.4		2030918
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CYIENT		-2.57		1719.3		231895
