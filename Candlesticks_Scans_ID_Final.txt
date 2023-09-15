@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.87		130.55		25756839
-BRITANNIA		-0.97		4529.9		125950
-NESTLEIND		0.03		22483.85		21371
+TCS		0.64		3582.75		663410
+SUNPHARMA		0.57		1150.35		500287
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GLAXO		-2.25		1503.9		72791
+CARBORUNIV		-1.66		1180.2		28526
+TATAINVEST		0.35		2480.0		19844
