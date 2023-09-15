@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.85		193.5		4722730
-M&M		0.68		1576.65		721045
-DRREDDY		0.26		5759.8		69068
+POWERGRID		-0.82		193.55		4837057
+M&M		0.66		1576.3		766093
+SUNPHARMA		0.54		1150.0		380941
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CEATLTD		0.33		2135.1		64431
+MASTEK		-0.09		2410		9133
