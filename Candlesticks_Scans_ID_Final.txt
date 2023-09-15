@@ -1,18 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.76		130.7		30720029
-ONGC		-0.27		187.4		6466648
-NTPC		-0.8		236.05		4101728
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNTV		-2.13		592.55		937447
-MCDOWELL-N		-1.79		1046.15		466069
-ICICIGI		0.45		1375.1		399667
-IIFL		0.91		596.0		114365
-PIIND		-0.21		3649.35		59542
-NAVINFLUOR		-0.25		4528.9		16542
-PGHH		0.6		17334.1		1698
+INGERRAND		0.52		3014.95		2881
