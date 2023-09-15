@@ -1,11 +1,17 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SUNPHARMA		0.59		1150.5		1864254
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IIFL		-0.52		587.55		332579
-JUBLPHARMA		-1.02		433.65		118891
+360ONE		-2.27		535.15		3599220
+INDIACEM		-1.42		246.9		2364126
+DATAPATTNS		-0.65		2084.95		1633727
+BDL		0.38		1068.4		369170
+LTTS		-0.49		4735.0		237761
+JUBLPHARMA		-1.14		433.1		139157
+PRESTIGE		-1.9		618.7		136471
+CHEMPLASTS		-1.26		497.8		123288
+ATUL		-1.0		7315.05		19780
