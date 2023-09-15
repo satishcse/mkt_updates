@@ -5,4 +5,6 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BASF		-1.81		2726.15		9932
+VINATIORGA		-0.34		1888.85		9540
