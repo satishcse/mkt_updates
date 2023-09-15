@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		0.35		7520.35		526558
+ONGC		-1.06		185.9		11518212
+BAJFINANCE		0.34		7519.7		529599
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INGERRAND		0.03		3000.2		5921
+SHARDACROP		-2.15		441.0		58569
+SUNDARMFIN		0.15		2733.45		22786
+INGERRAND		0.17		3004.55		6182
