@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		1.61		3300.95		406595
-NESTLEIND		0.54		22744.95		21091
+RELIANCE		-0.64		2442		1797508
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CIEINDIA		-0.34		506.5		193629
-ATUL		-0.97		7252.9		33592
+KEI		-1.17		2620.5		152392
