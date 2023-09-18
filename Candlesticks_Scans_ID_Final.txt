@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.64		1634.55		11129698
-COALINDIA		0.91		281.85		6400316
-HINDALCO		-2.07		486.25		4281039
-ONGC		0.13		186.9		3444164
-CIPLA		0.32		1239.4		1297484
+TATAMOTORS		1.32		642.6		8216797
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUVENPHAR		-0.55		554.25		451897
+FINCABLES		-1.21		1101.2		95462
+LAXMIMACH		-1.04		15003.75		1410
