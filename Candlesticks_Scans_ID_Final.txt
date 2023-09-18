@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.22		642.0		8349915
-HDFCLIFE		1.92		657.3		3175072
+TATAMOTORS		1.21		641.9		8369334
+HDFCLIFE		1.85		656.8		3180064
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-2.23		4946.0		189883
-FINCABLES		-1.14		1101.9		96998
+DIXON		-2.27		4944.25		190122
+FINCABLES		-1.1		1102.4		97054
