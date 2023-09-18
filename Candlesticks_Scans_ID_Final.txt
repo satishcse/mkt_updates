@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.07		993.15		10740862
-INFY		-1.39		1490.6		2996516
-SBILIFE		0.2		1375.45		1077451
+COALINDIA		0.68		281.2		7259607
+SBILIFE		0.09		1373.9		1092261
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DRREDDY		-1.46		5734.25		159667
+
