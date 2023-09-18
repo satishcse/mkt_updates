@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.94		640.2		4990242
+TATAMOTORS		0.97		640.4		4999622
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFIZER		-0.06		3902.9		32255
+PFIZER		-0.04		3903.55		32264
+SUNDRMFAST		-0.37		1235.0		16755
