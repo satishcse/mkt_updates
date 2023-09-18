@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.91		640.0		5051321
-NESTLEIND		0.48		22731.95		18834
+TITAN		1.61		3300.8		387769
+NESTLEIND		0.54		22744.0		19200
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		-0.62		2442.55		1702788
-DIXON		-1.25		4995.85		102604
-OBEROIRLTY		-0.45		1168.6		57954
+
