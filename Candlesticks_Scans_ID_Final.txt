@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.62		2442.6		1812295
-CIPLA		1.07		1248.75		933446
+RELIANCE		-0.68		2441.1		1834144
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OBEROIRLTY		-0.5		1168.05		69622
+RAMCOCEM		-0.48		890.55		50374
+ROUTE		-0.5		1583.75		38776
