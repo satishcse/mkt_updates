@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.68		281.2		7259607
-SBILIFE		0.09		1373.9		1092261
+TATASTEEL		-0.76		130.95		51824517
+WIPRO		-0.83		437.4		2380107
+BHARTIARTL		-1.22		924.7		2144589
+ULTRACEMCO		-1.14		8629.2		99215
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PRESTIGE		-0.64		615.95		70016
