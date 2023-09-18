@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.56		2444.05		2230663
-WIPRO		-0.62		438.3		1840261
-ADANIPORTS		-0.5		841.45		1282057
+RELIANCE		-0.56		2444.15		2232816
+WIPRO		-0.59		438.45		1841974
+ADANIPORTS		-0.54		841.1		1284814
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AFFLE		-0.31		1106.45		128751
+DIVISLAB		-0.97		3778.4		104539
+GARFIBRES		-1.45		3093.0		5703
