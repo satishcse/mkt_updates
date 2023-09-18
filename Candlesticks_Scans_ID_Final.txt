@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.03		196.1		7203401
-HCLTECH		0.0		1304.6		1392177
-MARUTI		0.61		10589.2		190465
+POWERGRID		0.98		196.0		7208630
+ONGC		0.05		186.75		2785686
+HCLTECH		0.03		1305.0		1397158
+MARUTI		0.61		10589.0		190887
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CREDITACC		-2.48		1347.2		117772
