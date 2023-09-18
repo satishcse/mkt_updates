@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.12		635.4		1412058
-TITAN		1.6		3300.5		389287
-BAJAJFINSV		0.41		1544.4		289973
-NESTLEIND		0.53		22742.15		19327
+TITAN		1.61		3301.05		390691
+NESTLEIND		0.51		22737.05		19452
 
 Bullish_Hammer_15m_N500								 
 ======================= 
