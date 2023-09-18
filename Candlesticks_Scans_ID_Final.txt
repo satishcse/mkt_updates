@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.57		840.85		1307719
+ADANIPORTS		-0.59		840.65		1311358
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIVISLAB		-1.01		3777.0		106548
-GARFIBRES		-1.41		3094.25		5706
+TATACOMM		-1.49		1899.0		174789
+POLYCAB		-0.6		5135.55		125841
