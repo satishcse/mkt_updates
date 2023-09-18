@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.3		642.5		8768719
-M&M		2.64		1643.35		6031381
-BPCL		2.14		359.8		3723540
-TITAN		3.1		3349.4		1033982
-TATACONSUM		0.65		881.6		845613
+TATAMOTORS		1.33		642.7		8777891
+M&M		2.51		1641.3		6034767
+BPCL		2.13		359.75		3734911
+TITAN		3.04		3347.5		1036330
 
 Bullish_Hammer_15m_N500								 
 ======================= 
