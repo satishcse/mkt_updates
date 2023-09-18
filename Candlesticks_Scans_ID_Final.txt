@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.42		643.25		7710922
-RELIANCE		-0.55		2444.35		2403739
-BHARTIARTL		-0.82		928.5		1596605
+RELIANCE		-0.52		2444.95		2436310
+WIPRO		-0.67		438.1		1976929
+BHARTIARTL		-0.77		928.95		1612730
+INDUSINDBK		0.53		1457.65		1001562
+HEROMOTOCO		1.54		3112.15		571154
+EICHERMOT		0.08		3430.0		392401
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CRISIL		-0.71		3845.95		3157
+
