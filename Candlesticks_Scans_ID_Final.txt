@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.55		2444.35		2243694
-ADANIPORTS		-0.52		841.25		1289370
+ADANIPORTS		-0.51		841.35		1290612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		0.82		3980.2		1025869
+AFFLE		-0.27		1106.95		129626
 GARFIBRES		-1.45		3093.0		5703
