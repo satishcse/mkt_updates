@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.23		2464		493682
+TATASTEEL		0.04		132.0		31852460
+TATAMOTORS		1.07		641.05		4771357
+M&M		4.01		1665.3		3751655
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SPARC		-1.73		235.8		324576
-KIMS		-0.81		2038.65		38681
-MAPMYINDIA		-0.33		1710.0		29720
+
