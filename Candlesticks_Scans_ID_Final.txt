@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-0.71		1515.15		359286
-VINATIORGA		-0.88		1871.45		14567
+VINATIORGA		-0.88		1871.45		14584
