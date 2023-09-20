@@ -1,15 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.73		129.5		28370492
-NTPC		1.0		243.6		14034163
-WIPRO		-0.69		433.1		3001949
-HDFCLIFE		-1.49		650.1		1032819
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDUSINDBK		-2.1		1426.25		3929170
-ASAHIINDIA		0.76		628.15		935139
-VINATIORGA		-0.75		1874.0		13520
+
