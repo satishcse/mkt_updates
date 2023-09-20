@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.51		187.7		7630397
-CIPLA		0.5		1246.75		702987
-GRASIM		-0.1		1955.4		292840
-MARUTI		-1.16		10400.0		258201
+RELIANCE		-1.63		2396.7		23885470
+ONGC		0.46		187.6		7730220
+APOLLOHOSP		-1.73		4987.35		333817
+GRASIM		-0.02		1957.0		300698
+MARUTI		-1.16		10400.0		260918
 
 Bullish_Hammer_15m_N500								 
 ======================= 
