@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-1.65		2396.3		23205184
-TECHM		-0.72		1280.45		1274867
+RELIANCE		-1.65		2396.3		23211342
+TECHM		-0.71		1280.65		1277811
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ISEC		-0.87		635.65		203062
-ULTRACEMCO		-1.23		8521.85		79640
-GOCOLORS		-1.8		1336.55		20426
+ISEC		-0.84		635.85		203318
+ULTRACEMCO		-1.26		8519.4		79932
+GOCOLORS		-1.69		1338.0		20488
