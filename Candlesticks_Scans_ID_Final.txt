@@ -1,14 +1,20 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ITC		-0.1		451.6		1131072
-HDFCLIFE		-1.5		650.05		478270
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GMMPFAUDLR		-0.28		1805.0		26484
-HGS		-0.12		1010.6		5387
-LAXMIMACH		-0.58		14894.1		749
-3MINDIA		-0.37		30056.55		285
+PRESTIGE		-0.68		609.5		137251
+PERSISTENT		-1.22		5767.9		120624
+TATACHEM		-1.12		1046.05		110584
+HAPPSTMNDS		-0.26		927.65		81771
+TANLA		-1.21		1028.95		79334
+TRENT		-0.84		2038.15		77822
+JBMA		-0.76		1476.0		8880
+ANURAS		-0.16		938.0		8316
+TTKPRESTIG		-0.37		786.7		7858
+HGS		-0.15		1010.25		6226
+VINATIORGA		-0.06		1886.95		3495
+SKFINDIA		-0.66		5165.15		1306
