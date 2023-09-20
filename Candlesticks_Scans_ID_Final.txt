@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.48		643.75		5172086
+TATAMOTORS		0.52		643.95		5186857
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CIPLA		-0.02		1240.35		519058
-CCL		-3.69		631.2		144229
-DEEPAKNTR		-0.55		2236.0		95832
-ACC		-1.0		1986.55		80950
+ASAHIINDIA		1.37		631.95		772627
+CCL		-4.01		629.15		145366
+ACC		-0.98		1987.0		81022
