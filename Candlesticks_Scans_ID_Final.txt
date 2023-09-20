@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.26		244.25		10076200
-ONGC		0.51		187.7		7181754
-ITC		0.25		453.2		4160821
-ASIANPAINT		-0.19		3200.35		347249
-APOLLOHOSP		-1.78		4985.0		315677
+NTPC		1.31		244.35		10114370
+ONGC		0.51		187.7		7190834
+ITC		0.3		453.4		4180948
+APOLLOHOSP		-1.69		4989.4		316750
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SKFINDIA		-0.93		5151.1		2821
