@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COROMANDEL		-1.47		1092.95		221557
-ULTRACEMCO		-1.75		8476.65		202951
-PHOENIXLTD		-0.7		1825.5		184262
-SCHAEFFLER		-1.78		3168.9		51796
+TVSMOTOR		-0.71		1515.15		359286
+VINATIORGA		-0.88		1871.45		14567
