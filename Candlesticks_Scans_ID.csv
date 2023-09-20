@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,2.42,204.95,28844648
-JSWSTEEL,-2.72,786.8,2941203
-LTIM,-0.67,5476.8,122657
+POWERGRID,2.45,205.0,29158928
+JSWSTEEL,-2.71,786.85,2957972
+TECHM,-1.03,1276.55,2451955
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SBILIFE,-2.01,1346.15,461714
+PAGEIND,-0.8,40004.0,40177
