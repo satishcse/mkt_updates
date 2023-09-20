@@ -1,7 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BHARTIARTL		-0.55		915.1		1671911
+TECHM		-0.74		1280.3		1233397
+HCLTECH		-0.43		1299.4		869565
+SUNPHARMA		0.46		1152.95		720348
 
 Bullish_Hammer_15m_N500								 
 ======================= 
