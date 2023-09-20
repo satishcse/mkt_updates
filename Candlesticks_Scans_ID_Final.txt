@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.96		431.9		3411494
-TATACONSUM		-1.46		868.05		727019
+WIPRO		-0.99		431.8		3459702
+TATACONSUM		-1.47		868.0		727807
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WESTLIFE		-1.65		963.5		37988
+KFINTECH		-1.11		448.3		87598
+WESTLIFE		-1.71		962.85		38026
