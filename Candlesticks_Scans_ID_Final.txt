@@ -1,15 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ICICIBANK		-0.56		984.65		12787803
-NTPC		1.16		244.0		12434740
-INFY		-0.39		1486.0		2318599
-BAJAJ-AUTO		0.68		5211.7		365293
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ULTRACEMCO		-1.43		8504.75		143877
-PIIND		-2.21		3510.9		139647
-SHOPERSTOP		-1.36		693.1		23487
+
