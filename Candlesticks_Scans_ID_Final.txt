@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		2.45		205.0		28802334
-JSWSTEEL		-2.71		786.85		2938344
-LTIM		-0.67		5476.6		122422
+POWERGRID		2.42		204.95		28844648
+JSWSTEEL		-2.72		786.8		2941203
+LTIM		-0.67		5476.8		122657
 
 Bullish_Hammer_15m_N500								 
 ======================= 
