@@ -1,20 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HCLTECH		-0.56		1297.65		394061
+ASIANPAINT		-0.12		3202.3		176072
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VOLTAS		-0.45		878.25		245883
-PRESTIGE		-0.78		608.9		139467
-TATACHEM		-1.12		1046.0		111331
-AARTIDRUGS		-0.85		588.3		40779
-KPIL		-1.47		648.3		35541
-AETHER		-0.32		978.65		9660
-BALAMINES		-0.26		2223.0		8978
-JBMA		-0.63		1477.95		8915
-SUNDRMFAST		-1.25		1226.1		7655
-VINATIORGA		-0.06		1886.95		3631
-SKFINDIA		-0.53		5172.1		1422
-3MINDIA		-0.33		30069.95		315
+VMART		-1.02		2077.85		3786
