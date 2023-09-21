@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-AXISBANK,-1.13,1015.7,4704631
-EICHERMOT,-0.1,3437.8,192051
-NIFTY,-0.86,19731.05,0
+AXISBANK,-1.13,1015.7,4749172
+EICHERMOT,-0.1,3437.65,192651
+NIFTY,-0.84,19733.3,0
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-BASF,-1.62,2630.8,5109
+EIDPARRY,-0.56,537.2,343776
+RAINBOW,-0.25,1032.55,67537
+BASF,-1.61,2631.0,5124
