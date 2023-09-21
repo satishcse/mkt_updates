@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		-0.61		203.4		5671625
+HDFCLIFE		0.49		651.4		1130294
+TATACONSUM		-0.2		868.0		372898
+NIFTY		-0.6		19782.95		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAJFINANCE		-1.41		7432.95		273833
-HONAUT		-1.2		40143.45		13199
-ALKYLAMINE		-0.59		2408.8		9407
+
