@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.61		201.35		11411257
-HDFCLIFE		-0.35		645.9		1795475
-HINDUNILVR		-0.46		2455.4		1586707
+POWERGRID		-1.54		201.5		11464846
+HDFCLIFE		-0.39		645.7		1799166
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DMART		-1.09		3688.7		153392
+
