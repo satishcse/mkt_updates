@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.35		127.85		22719881
-ONGC		-0.72		186.85		4785131
-HDFCLIFE		-0.3		646.25		1648483
+TATASTEEL		-0.31		127.9		22775322
+ONGC		-0.69		186.9		4802526
+WIPRO		-0.15		429.45		3052743
+HDFCLIFE		-0.31		646.2		1660511
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TIMKEN		-1.37		3096.85		26246
