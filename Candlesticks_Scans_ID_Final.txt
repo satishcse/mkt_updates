@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FACT		-0.47		526.0		1039435
-GRASIM		-2.29		1900.1		484657
-LAXMIMACH		-1.61		14695.5		1118
+FACT		-0.41		526.35		1046325
+REDINGTON		-0.06		157.25		902608
+IPCALAB		-0.59		907.9		153921
+OBEROIRLTY		-0.7		1135.0		128253
+WESTLIFE		-0.81		959.95		17076
+LAXMIMACH		-1.7		14681.9		1119
