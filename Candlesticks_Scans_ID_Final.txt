@@ -1,16 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFCLIFE		-0.11		647.5		1421869
+HINDUNILVR		-0.66		2450.65		1136360
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-M&M		-2.87		1587.05		1689709
-FACT		-0.52		525.75		1053117
-GNFC		-0.58		603.75		308590
-SUNTV		-0.35		591.6		241347
-INDIGO		-0.41		2392.0		154503
-UFLEX		-2.02		434.6		72184
-BBTC		0.03		1175.2		42466
-RELAXO		-0.02		900.0		27920
+
