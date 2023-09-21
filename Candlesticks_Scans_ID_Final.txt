@@ -2,15 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.63		2451.4		1306110
-APOLLOHOSP		0.27		5020.05		259476
-DIVISLAB		-0.54		3759.25		154719
+HDFCBANK		-0.4		1557.5		25067796
+ITC		-1.27		447.2		6571401
+RELIANCE		-0.43		2372.0		3786668
+APOLLOHOSP		0.27		5019.85		259997
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAZDOCK		-1.14		2221.95		1310577
-ASTERDM		-0.46		324.9		139937
-CHALET		-1.57		541.3		35581
-THERMAX		-1.81		2856.1		16779
-ZFCVINDIA		-0.75		14820.0		8872
+
