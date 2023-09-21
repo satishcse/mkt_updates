@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.21		447.45		10106130
-BPCL		0.88		355.65		4671875
+POWERGRID		-1.27		202.05		19533384
+ITC		-1.23		447.4		10423587
+BPCL		0.77		355.25		4811992
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APARINDS		-3.87		5240.15		141709
-EPIGRAL		-1.6		981.95		27562
+RAYMOND		-1.51		1864.6		149385
+APARINDS		-4.02		5232.0		147528
+CRAFTSMAN		-2.18		4717.7		21768
