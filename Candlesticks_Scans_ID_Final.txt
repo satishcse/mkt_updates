@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.31		1149.6		1740251
-TATACONSUM		0.32		872.5		844814
+SUNPHARMA		-0.29		1149.75		1743089
+TCS		-0.77		3578.25		1663666
+TATACONSUM		0.35		872.75		856661
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GESHIP		-2.89		793.45		225736
-ZFCVINDIA		-0.96		14788.4		10585
+
