@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-1.17		1278.3		2354626
+INFY		0.82		1502.4		4572517
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAVELLS		-0.81		1401.7		283377
-TIINDIA		-0.44		3346.55		155917
-TIMKEN		-1.24		3100.85		40972
-ATUL		-0.42		7118.85		19873
+UPL		0.35		624.65		3240293
+PHOENIXLTD		-0.63		1817.9		490325
