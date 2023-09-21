@@ -2,15 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.74		186.8		4891754
-HDFCLIFE		-0.22		646.75		1680676
+ONGC		-0.77		186.75		4906138
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RHIM		-0.77		757.7		221473
-ULTRACEMCO		-1.35		8344.05		220655
-TATAINVEST		-3.7		2634.0		135047
-SUPREMEIND		-2.2		4077.9		131027
-PRINCEPIPE		-1.27		697.95		46345
-IFBIND		-1.6		920.85		17249
+RHIM		-0.77		757.65		221509
+TATAINVEST		-3.63		2635.9		135079
+NAUKRI		-1.19		4411.6		100788
