@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.35		127.85		22830539
-HDFCLIFE		-0.24		646.65		1664404
+TATASTEEL		-0.39		127.8		22874693
+ONGC		-0.69		186.9		4847570
+HDFCLIFE		-0.24		646.65		1670407
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BHARATFORG		-2.72		1097.6		1054742
-NAUKRI		-1.26		4408.5		95554
-TIMKEN		-1.34		3097.65		26305
-IFBIND		-1.59		920.95		17051
+ZYDUSLIFE		-1.12		617.75		1161153
+BHARATFORG		-2.67		1098.1		1056520
+TIMKEN		-1.34		3097.8		26330
+IFBIND		-1.59		921.0		17140
