@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.15		647.2		1439798
+HDFCLIFE		-0.17		647.1		1444782
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-1.87		1046.25		1114878
+GLENMARK		-0.41		853.1		2490424
+METROBRAND		-1.12		1085.5		42838
+SKFINDIA		-0.94		5107.05		6238
 KENNAMET		-0.63		2724.8		781
