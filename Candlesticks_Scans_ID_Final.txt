@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.65		2450.9		1218726
-TITAN		-0.11		3302.9		547898
-DRREDDY		0.25		5629.1		270102
+HINDUNILVR		-0.63		2451.3		1227401
+TITAN		-0.13		3302.4		548946
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-0.69		847.5		539454
+SANOFI		0.14		7138		7623
