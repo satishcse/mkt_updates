@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		1.44		1292.75		2787637
+UPL		0.46		625.35		3742587
+JSWSTEEL		-1.12		777.95		2692622
+SUNPHARMA		-0.49		1147.45		1958294
 
 Bullish_Hammer_15m_N500								 
 ======================= 
