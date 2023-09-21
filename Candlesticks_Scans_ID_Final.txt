@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.16		647.15		1423474
-HINDUNILVR		-0.64		2450.95		1137681
-BRITANNIA		0.06		4530.2		141302
+HDFCLIFE		-0.14		647.3		1424125
+BRITANNIA		0.03		4528.95		141464
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-2.0		1434.05		149802
-POLYMED		-0.69		1419.25		15456
+POLYMED		-0.69		1419.25		15466
