@@ -5,13 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-M&M		-3.03		1584.55		2423447
-SHYAMMETL		-0.82		431.35		596521
-PHOENIXLTD		-0.7		1816.75		496144
-SRF		-0.47		2308.95		286554
-HAVELLS		-0.83		1401.45		285714
-NH		-1.13		1062.25		241153
-SIEMENS		-0.99		3736.65		218843
-DMART		-1.14		3687.0		159324
-BIRLACORPN		-2.38		1163.55		110992
+
