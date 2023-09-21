@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-1.13		1015.7		4749172
-EICHERMOT		-0.1		3437.65		192651
+AXISBANK		-1.2		1014.95		4775283
+EICHERMOT		-0.11		3437.25		193169
 NIFTY		-0.84		19733.3		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EIDPARRY		-0.56		537.2		343776
-RAINBOW		-0.25		1032.55		67537
-BASF		-1.61		2631.0		5124
+BASF		-1.61		2630.95		5135
