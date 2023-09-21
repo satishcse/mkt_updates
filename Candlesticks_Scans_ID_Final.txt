@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAZARA		-0.4		877.2		221112
-BAJAJ-AUTO		-0.96		5133.1		95927
-ASIANPAINT		-0.04		3213.15		78116
-HONAUT		-0.45		40449.35		5207
+HONAUT		-0.5		40425.8		5238
