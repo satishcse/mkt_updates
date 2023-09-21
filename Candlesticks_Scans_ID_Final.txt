@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.46		625.35		3742587
-JSWSTEEL		-1.12		777.95		2692622
-SUNPHARMA		-0.49		1147.45		1958294
+ITC		-1.21		447.45		10106130
+BPCL		0.88		355.65		4671875
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+APARINDS		-3.87		5240.15		141709
+EPIGRAL		-1.6		981.95		27562
