@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-1.34		776.2		2090691
-DIVISLAB		-0.52		3760.0		162447
+COALINDIA		-1.14		281.05		8507542
+ONGC		-0.69		186.9		4768289
+HDFCLIFE		-0.19		646.95		1641950
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POLYCAB		-1.42		5212.55		605384
+INDIAMART		-1.14		2985.45		121354
