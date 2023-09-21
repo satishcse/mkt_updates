@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.22		908.7		1785458
-GRASIM		-1.64		1912.8		419194
-EICHERMOT		-0.05		3439.4		184909
+AXISBANK		-0.9		1018.05		4552506
+EICHERMOT		-0.17		3435.5		187231
+NIFTY		-0.8		19742.4		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&M		-2.36		1595.5		1398167
-TIMKEN		-0.58		3121.45		13785
+BASF		-1.35		2638		3879
