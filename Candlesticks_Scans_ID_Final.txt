@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.82		186.65		4542274
-APOLLOHOSP		0.25		5018.9		261126
+ONGC		-0.77		186.75		4575303
+TECHM		1.22		1289.9		1951789
+APOLLOHOSP		0.23		5018.0		261246
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-1.3		8348.4		201890
+ULTRACEMCO		-1.31		8347.6		202194
