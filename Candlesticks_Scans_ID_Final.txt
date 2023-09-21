@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.21		646.85		1430544
-HINDUNILVR		-0.65		2450.8		1149592
+HDFCLIFE		-0.13		647.35		1434717
+HINDUNILVR		-0.68		2450.05		1152528
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-1.87		1435.9		155880
-POLYMED		-0.7		1419.05		15486
-SKFINDIA		-0.92		5107.85		6205
+COCHINSHIP		-1.9		1045.85		1113553
+ZFCVINDIA		-0.48		14859.85		8121
 KENNAMET		-0.63		2724.8		781
