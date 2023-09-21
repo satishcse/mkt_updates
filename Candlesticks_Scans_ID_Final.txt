@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		1.37		1291.85		1499550
-SUNPHARMA		-0.78		1144.1		1050972
-ASIANPAINT		-0.52		3197.75		315996
+BHARTIARTL		-0.22		908.7		1785458
+GRASIM		-1.64		1912.8		419194
+EICHERMOT		-0.05		3439.4		184909
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EPIGRAL		-0.73		990.6		13487
+M&M		-2.36		1595.5		1398167
+TIMKEN		-0.58		3121.45		13785
