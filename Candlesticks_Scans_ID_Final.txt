@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.66		2450.5		1282620
-APOLLOHOSP		0.26		5019.1		256684
+HINDUNILVR		-0.63		2451.4		1289099
+APOLLOHOSP		0.29		5021.05		257492
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FACT		-1.05		522.95		1097434
-INDIAMART		-0.96		2991.0		105277
-HONAUT		-1.58		39989.75		26174
-THERMAX		-1.83		2855.6		16465
+MGL		-1.16		1027.0		199415
+INDIAMART		-0.94		2991.55		105500
+CHALET		-1.46		541.9		35508
