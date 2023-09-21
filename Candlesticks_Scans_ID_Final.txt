@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ADANIPORTS		1.34		829.05		866994
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAPPSTMNDS		-0.12		923.0		170847
-RAYMOND		-0.81		1877.85		52477
-TATAELXSI		-0.71		7250.1		11211
+CENTURYTEX		-0.58		1020.85		20573
+CARBORUNIV		0.14		1163.0		7966
+SAPPHIRE		-0.01		1458.9		2396
