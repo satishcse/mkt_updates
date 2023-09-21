@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.61		2451.75		1256682
-APOLLOHOSP		0.23		5017.7		248907
+HINDUNILVR		-0.61		2451.9		1259839
+APOLLOHOSP		0.23		5017.8		249742
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ABBOTINDIA		-0.94		22972.95		2114
