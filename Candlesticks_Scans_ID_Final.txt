@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCLIFE		-0.09		647.6		1390006
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FACT		-0.5		525.85		1036500
-WESTLIFE		-0.84		959.7		17043
-LAXMIMACH		-1.65		14690.0		1116
+FACT		-0.47		526.0		1039435
+GRASIM		-2.29		1900.1		484657
+LAXMIMACH		-1.61		14695.5		1118
