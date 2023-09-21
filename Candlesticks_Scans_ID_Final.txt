@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.64		1499.8		3524293
-SUNPHARMA		-0.32		1149.45		1477799
-HEROMOTOCO		-1.98		3001.15		335687
+TATASTEEL		-0.31		127.9		22251917
+SUNPHARMA		-0.33		1149.35		1482507
+HEROMOTOCO		-2.0		3000.75		336001
+ULTRACEMCO		-1.28		8349.5		207653
 
 Bullish_Hammer_15m_N500								 
 ======================= 
