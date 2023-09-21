@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.14		281.05		8507542
-ONGC		-0.69		186.9		4768289
-HDFCLIFE		-0.19		646.95		1641950
+TATASTEEL		-0.31		127.9		22706836
+ONGC		-0.77		186.75		4780347
+HDFCLIFE		-0.29		646.35		1646519
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-1.42		5212.55		605384
-INDIAMART		-1.14		2985.45		121354
+POLYCAB		-1.37		5214.95		607468
