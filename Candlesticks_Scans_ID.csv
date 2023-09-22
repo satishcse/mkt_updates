@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-COALINDIA,1.16,283.7,7106442
-BHARTIARTL,-1.11,907.75,4092162
-ULTRACEMCO,-1.44,8194.25,332503
+COALINDIA,1.12,283.6,7140122
+BHARTIARTL,-1.02,908.6,4096887
+ULTRACEMCO,-1.43,8194.95,332957
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BEML,0.15,2361.55,301347
+OFSS,-1.3,4199.0,25141
