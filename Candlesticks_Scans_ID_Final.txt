@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.59		127.05		13695205
-SBIN		2.01		600.0		8786655
-COALINDIA		0.61		282.15		2359380
-BPCL		-0.24		354.4		614838
+TATASTEEL		-0.63		127.0		13752266
+SBIN		2.03		600.1		8824950
+COALINDIA		0.46		281.75		2372741
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RATNAMANI		-2.11		2543.75		15566
