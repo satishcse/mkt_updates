@@ -2,9 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.15		626.1		1781659
+TATAMOTORS		-0.13		626.25		1803011
+ONGC		-0.67		185.45		1706577
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AJANTPHARM		-2.52		1679.25		27670
+APARINDS		0.53		5260.0		130479
+GRASIM		-1.0		1892.35		100814
+SRF		-1.33		2284.95		88540
+LALPATHLAB		-2.71		2326.05		58653
+BRIGADE		-0.52		574.9		56428
+AJANTPHARM		-2.19		1684.9		27933
+VTL		-0.1		386.95		25562
+ATUL		-0.4		7067.95		7259
