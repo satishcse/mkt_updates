@@ -2,15 +2,18 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.0		627.05		1827319
-ONGC		-0.67		185.45		1716437
+ONGC		-0.72		185.35		1744426
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-0.51		1740.5		188701
-DRREDDY		-2.49		5527.15		178758
-SRF		-1.35		2284.4		91231
-ALKEM		-2.62		3556.35		46194
-ATUL		-0.29		7075.85		7373
-BOSCHLTD		-0.59		19075.05		2584
+IRCTC		-0.95		664.9		577196
+MCX		-0.32		1743.85		191397
+SOBHA		0.03		653.3		113264
+GRASIM		-0.85		1895.2		102173
+NAUKRI		-1.91		4355.05		101558
+AEGISCHEM		0.44		332.3		70969
+UTIAMC		-0.06		778.0		27304
+CENTURYTEX		0.12		1018.1		13680
+FINEORG		-1.38		4910.9		9502
+KENNAMET		-0.99		2708.7		627
