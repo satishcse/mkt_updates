@@ -10,13 +10,13 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-TECHM		1.0		1304.6		2523380
-TCS		0.52		3603.8		1371277
+TECHM		1.09		1305.7		2532628
+TCS		0.45		3601.55		1373889
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSLIFE		-2.44		600.65		1173899
+ZYDUSLIFE		-2.48		600.4		1180716
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -25,18 +25,18 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-PAGEIND		-0.05		39500.0		18411
-NAVINFLUOR		-0.28		4481.0		38350
-CUMMINSIND		-0.98		1727.5		241668
-TITAN		-1.19		3265.15		774897
-TORNTPHARM		-1.83		1840.1		327178
-ABB		-1.98		4191.45		167954
+PAGEIND		-0.02		39513.9		18417
+NAVINFLUOR		-0.39		4476.45		38475
+CUMMINSIND		-1.0		1727.25		241820
+TITAN		-1.2		3265.0		775691
+TORNTPHARM		-1.83		1840.15		327383
+ABB		-1.99		4191.15		168003
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-CANBK		4.61		381.25		25711913
-MANAPPURAM		2.44		140.85		4051827
-M&MFIN		0.76		303.3		3659858
-CHOLAFIN		0.7		1196.5		1561271
-GODREJPROP		-0.33		1548.45		320754
+CANBK		4.61		381.25		25749325
+MANAPPURAM		2.29		140.65		4063856
+CHOLAFIN		0.74		1197.0		1564131
+M&MFIN		0.68		303.05		3661044
+GODREJPROP		-0.25		1549.7		321510
