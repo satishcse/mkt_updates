@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.98		420.45		5103635
-NTPC		-0.4		238.0		2756039
+WIPRO		-1.91		420.75		5149289
+NTPC		-0.33		238.15		2778136
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SONATSOFTW		-2.96		1047.3		109451
+JBMA		-0.62		1435.0		13038
