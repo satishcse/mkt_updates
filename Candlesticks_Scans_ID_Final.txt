@@ -2,8 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.48		2485.2		679632
-GRASIM		-0.07		1910.1		446374
+HINDUNILVR		0.5		2485.75		683592
+GRASIM		-0.15		1908.55		447011
 
 Bullish_Hammer_15m_N500								 
 ======================= 
