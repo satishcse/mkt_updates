@@ -2,18 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.72		185.35		1744426
+ONGC		-0.64		185.5		1772970
+ADANIENT		-0.27		2472.5		266311
+NIFTY		-0.14		19713.8		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IRCTC		-0.95		664.9		577196
-MCX		-0.32		1743.85		191397
-SOBHA		0.03		653.3		113264
-GRASIM		-0.85		1895.2		102173
-NAUKRI		-1.91		4355.05		101558
-AEGISCHEM		0.44		332.3		70969
-UTIAMC		-0.06		778.0		27304
-CENTURYTEX		0.12		1018.1		13680
-FINEORG		-1.38		4910.9		9502
-KENNAMET		-0.99		2708.7		627
+RUSTOMJEE		-0.35		572.9		2206
