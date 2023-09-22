@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-2.2		419.5		8947653
-CIPLA		-1.79		1184.75		2465951
-HINDUNILVR		0.52		2486.1		865941
-DIVISLAB		-1.09		3706.0		158806
-BRITANNIA		0.22		4568.6		116692
+WIPRO		-2.19		419.55		8955326
+CIPLA		-1.85		1184.1		2468329
+HINDUNILVR		0.47		2485.0		869038
+DIVISLAB		-1.11		3705.2		158930
+BRITANNIA		0.23		4568.9		116862
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AIAENG		-2.55		3475.4		39550
+
