@@ -63,7 +63,7 @@ UBL		-0.43		1564.7		69502
 JKCEMENT		-1.7		3154.5		55330
 ATUL		0.06		7100.95		17384
 ABBOTINDIA		-1.48		22500.05		9333
-BANKNIFTY		0.05		44644.15		0
+BANKNIFTY		-0.03		44612.05		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
