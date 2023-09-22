@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		2.13		600.7		10949611
-TATAMOTORS		0.07		627.5		3225622
-ONGC		-0.08		186.55		3019234
-BPCL		-0.07		355.0		744945
+SBIN		2.09		600.45		11029696
+TATAMOTORS		-0.01		627.0		3250865
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GALAXYSURF		-1.07		2622.6		4438
