@@ -6,5 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SYNGENE		-0.98		770.0		105503
-APOLLOHOSP		-0.96		4972.05		82686
+SYNGENE		-0.98		770.0		107695
+APOLLOHOSP		-0.95		4972.45		84289
