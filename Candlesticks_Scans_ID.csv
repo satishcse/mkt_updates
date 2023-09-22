@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-CIPLA,-1.49,1188.45,2208935
-TITAN,-1.08,3268.95,707768
-EICHERMOT,-0.86,3406.2,120511
+NTPC,-0.25,238.35,3559607
+TECHM,2.17,1319.65,2142906
+TITAN,-1.07,3269.1,712101
+EICHERMOT,-0.87,3406.0,121168
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TIMKEN,-0.46,3088,19169
