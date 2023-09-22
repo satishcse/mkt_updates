@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.97		1135		878873
+SUNPHARMA		-0.98		1134.9		881859
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		0.08		2366.7		4415317
+
