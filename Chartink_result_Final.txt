@@ -10,33 +10,35 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-GRANULES		4.08		336.4		3718235
-ASIANPAINT		1.19		3282.7		864625
-TECHM		1.04		1305.05		3222785
-TCS		0.63		3608.0		1945936
+GRANULES		4.1		336.45		3735831
+ASIANPAINT		1.16		3281.95		873066
+TECHM		1.1		1305.8		3228347
+TCS		0.65		3608.75		1966393
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-NIFTY		-0.27		19688.2		0
+JKCEMENT		-2.09		3142		54472
+NIFTY		-0.28		19687		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+ONGC		-0.8		185.2		7669878
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-PAGEIND		-0.34		39385.0		27181
-NAVINFLUOR		-0.64		4465.0		99902
-TITAN		-0.65		3283.15		1005783
-CUMMINSIND		-1.1		1725.45		401064
-TORNTPHARM		-1.19		1852.15		487428
-ABB		-2.16		4183.85		245362
+PAGEIND		0.08		39551.05		27347
+TITAN		-0.58		3285.3		1010743
+NAVINFLUOR		-0.64		4465.0		100529
+CUMMINSIND		-1.12		1725.1		403671
+TORNTPHARM		-1.25		1850.9		491140
+ABB		-1.95		4193.0		246514
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-CANBK		4.64		381.35		32338191
-MANAPPURAM		2.51		140.95		5393711
-M&MFIN		0.17		301.5		4409926
+CANBK		4.47		380.75		32373165
+MANAPPURAM		2.4		140.8		5412438
+M&MFIN		0.18		301.55		4445267
