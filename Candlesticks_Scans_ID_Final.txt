@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.39		653.2		1064962
-ASIANPAINT		0.89		3273.05		467039
+AXISBANK		1.13		1025.9		3759084
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		0.11		2367.3		3773406
+
