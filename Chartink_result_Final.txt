@@ -10,12 +10,13 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-TECHM		1.44		1310.2		976433
+TECHM		1.54		1311.55		1004304
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-ABB		-2.13		4185		86866
+DIXON		-0.21		4839.45		148331
+ABB		-2.25		4180.0		89573
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -25,19 +26,19 @@ Open_High
 ========= 
 nsecode		per_chg		close		volume
 NAVINFLUOR		-0.29		4480.95		19809
-PAGEIND		-0.48		39330.5		4156
-HINDALCO		-0.94		475.05		1146804
-TITAN		-1.04		3270.05		368585
-CUMMINSIND		-1.35		1721.15		96455
-BSOFT		-1.53		483.8		538391
-TORNTPHARM		-1.93		1838.15		176945
-ABB		-2.13		4185.0		86866
+PAGEIND		-0.66		39259.55		4432
+HINDALCO		-0.87		475.4		1160277
+TITAN		-1.0		3271.35		369763
+CUMMINSIND		-1.31		1721.8		96560
+BSOFT		-1.38		484.5		545216
+TORNTPHARM		-1.94		1838.1		177353
+ABB		-2.29		4178.35		89173
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-CANBK		3.5		377.2		13109386
-M&MFIN		2.28		307.85		2166828
-MANAPPURAM		1.75		139.9		1984228
-CHOLAFIN		0.96		1199.65		805054
-GODREJPROP		0.42		1560.15		150380
+CANBK		3.54		377.35		13131213
+M&MFIN		2.36		308.1		2182338
+MANAPPURAM		1.75		139.9		1986357
+CHOLAFIN		1.02		1200.3		808030
+GODREJPROP		0.35		1559.1		150544
