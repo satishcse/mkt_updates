@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-RELIANCE,-0.5,2343.2,5013376
-BAJAJFINSV,2.55,1583.1,2486957
-INDUSINDBK,-0.71,1442.65,1200271
+RELIANCE,-0.51,2342.85,5022045
+BAJAJFINSV,2.57,1583.3,2500687
+INDUSINDBK,-0.71,1442.55,1262242
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TATACOMM,-0.93,1858.6,440523
