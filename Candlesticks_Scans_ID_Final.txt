@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.28		127.1		8546818
-HDFCBANK		0.11		1531.3		7027001
+TATASTEEL		0.28		127.1		8590080
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BORORENEW		-0.74		411.1		202223
-ICICIGI		-1.77		1319.9		143063
+ICICIGI		-1.76		1320.0		143937
+MAHLIFE		-1.94		545.3		107719
+INDIAMART		-1.07		2959.1		61528
