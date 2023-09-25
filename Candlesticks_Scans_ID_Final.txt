@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.54		186.1		3218691
-INFY		-0.94		1482.1		2258031
-BPCL		0.03		352.05		1736777
-JSWSTEEL		0.81		780.3		1523868
+ONGC		0.57		186.15		3231406
+INFY		-0.95		1482.0		2272751
+BPCL		0.01		352.0		1742652
+ULTRACEMCO		0.14		8198.6		326949
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AFFLE		-1.24		1067.5		99358
