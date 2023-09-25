@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.54		186.1		2848361
-TATACONSUM		1.56		891.4		1418456
-ADANIPORTS		-0.07		826.5		1323882
-ASIANPAINT		1.51		3324.15		789328
-MARUTI		1.09		10649.95		559965
+POWERGRID		-0.03		199.1		5683697
+ONGC		0.54		186.1		2856972
+TATACONSUM		1.57		891.5		1419580
+ADANIPORTS		-0.06		826.55		1343860
+ASIANPAINT		1.42		3321.5		794263
 
 Bullish_Hammer_15m_N500								 
 ======================= 
