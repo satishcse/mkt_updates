@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.06		352.15		1658938
-HDFCLIFE		-0.42		646.75		1057517
-MARUTI		1.02		10643.1		569456
+ITC		-0.03		442.95		3141686
+ADANIENT		-0.36		2456.0		647800
+GRASIM		0.82		1927.55		509173
+SUNPHARMA		-0.38		1128.0		310542
 
 Bullish_Hammer_15m_N500								 
 ======================= 
