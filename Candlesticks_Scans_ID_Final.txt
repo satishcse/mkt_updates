@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.39		127.25		8351483
-LTIM		-0.62		5394.0		97289
+TATASTEEL		0.36		127.2		8363457
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&M		-1.07		1589.9		1628203
+GALAXYSURF		-0.45		2594.95		2118
