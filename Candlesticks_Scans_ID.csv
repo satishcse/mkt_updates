@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,0.43,185.9,2557378
-WIPRO,-0.92,414.65,2239817
-INDUSINDBK,-0.91,1439.7,620158
+ONGC,0.41,185.85,2571051
+WIPRO,-0.91,414.7,2241139
+INDUSINDBK,-0.86,1440.4,622342
+ULTRACEMCO,0.14,8199.1,213962
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+LT,-1.3,2880.6,467663
