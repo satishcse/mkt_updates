@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.39		127.25		19798973
-ONGC		0.43		185.9		4369172
-WIPRO		-1.11		413.85		4101226
-DIVISLAB		0.44		3721.3		166708
+HINDALCO		-1.86		469.95		4638454
+ONGC		0.38		185.8		4398352
+BAJAJ-AUTO		0.09		5005.55		450703
+DIVISLAB		0.54		3724.95		167320
 
 Bullish_Hammer_15m_N500								 
 ======================= 
