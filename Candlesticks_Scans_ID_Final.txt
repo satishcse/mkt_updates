@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.18		1532.45		5269672
+HINDALCO		-0.75		475.25		824983
+TITAN		0.75		3298.95		186640
+LTIM		-0.6		5395.0		90565
+EICHERMOT		-0.2		3402.55		62922
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-0.72		2050.95		139239
-KSB		-4.04		2955.4		48743
-AETHER		-0.76		970.2		7715
+BDL		-4.06		963.55		550449
+HLEGLAS		-0.35		577.0		13341
