@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.43		185.9		2534254
-WIPRO		-0.86		414.9		2222698
-INDUSINDBK		-0.86		1440.35		609552
-ULTRACEMCO		0.13		8198.0		212237
+ONGC		0.43		185.9		2542619
+WIPRO		-0.93		414.6		2232908
+INDUSINDBK		-0.98		1438.65		615646
+BRITANNIA		-0.39		4547.0		271825
+ULTRACEMCO		0.13		8198.1		212523
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BERGEPAINT		-8.2		614.4		3121392
