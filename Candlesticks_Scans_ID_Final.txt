@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.54		2342.15		5033266
-BAJAJFINSV		2.61		1584.0		2513410
-INDUSINDBK		-0.68		1443.0		1265998
-CIPLA		-0.41		1181.05		939094
+CIPLA		-0.34		1181.85		941622
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATACOMM		-0.95		1858.15		441398
+
