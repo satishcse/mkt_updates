@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		0.35		185.75		4093777
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JINDWORLD		-1.48		357.15		119317
+GARFIBRES		-1.12		3158.9		11304
