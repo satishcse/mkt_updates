@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.11		621.6		1321805
-BRITANNIA		-0.27		4552.2		277966
-APOLLOHOSP		1.98		5088.5		167028
-DIVISLAB		0.65		3729.0		97433
+NTPC		0.08		238.15		3726721
+UPL		1.15		621.85		1322299
+BRITANNIA		-0.26		4552.7		278160
+DIVISLAB		0.65		3729.15		97526
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+THERMAX		-1.09		2944		29479
