@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.56		778.35		494897
+ADANIPORTS		-0.16		825.75		708464
+JSWSTEEL		0.58		778.55		496546
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-0.75		3390.0		121305
-MEDPLUS		-2.51		763.85		76592
-TEJASNET		-0.07		825.95		66082
+VIPIND		0.08		661.0		148894
+PIIND		-0.63		3393.95		121975
+OFSS		-0.63		4168.95		14344
