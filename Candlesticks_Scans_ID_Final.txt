@@ -1,10 +1,21 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-AXISBANK		-0.3		1015.2		6892
-BRITANNIA		0.21		4574.05		154
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INDIANB		0.42		422.6		173501
+CHOLAFIN		-0.41		1183.3		118286
+VBL		0.03		918.5		80974
+ADANIENT		0.5		2477.25		66730
+WELSPUNIND		1.24		122.45		62453
+APOLLOHOSP		0.29		5004.25		21248
+BIKAJI		1.08		487.1		10834
+MFSL		0.2		920.15		8315
+BALKRISIND		0.25		2553.5		6874
+MPHASIS		0.03		2486.7		6509
+DIVISLAB		0.08		3708.0		3757
+HGS		0.25		1005.0		2576
+SCHAEFFLER		0.2		3126.15		1801
