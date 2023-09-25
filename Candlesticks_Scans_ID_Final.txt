@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.41		185.85		1701957
-ICICIBANK		-0.64		944.25		1680736
-CIPLA		-0.15		1184.1		266505
+HDFCBANK		0.18		1532.45		5269672
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-1.2		1182.0		457481
-AVANTIFEED		-0.15		434.75		108314
+TRENT		-0.72		2050.95		139239
+KSB		-4.04		2955.4		48743
+AETHER		-0.76		970.2		7715
