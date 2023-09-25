@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.12		621.7		1333789
-CIPLA		-0.16		1183.95		680359
-SUNPHARMA		-0.38		1128.0		233204
-DIVISLAB		0.61		3727.75		102698
+UPL		1.06		621.3		1335264
+SUNPHARMA		-0.38		1128.05		233801
+DIVISLAB		0.61		3727.65		102974
 
 Bullish_Hammer_15m_N500								 
 ======================= 
