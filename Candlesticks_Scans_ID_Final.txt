@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-1.42		1474.9		4018737
-SUNPHARMA		-0.66		1124.9		907475
-BAJAJ-AUTO		0.1		5006.0		519401
-BRITANNIA		0.13		4570.55		479657
+INFY		-1.47		1474.2		4050242
+SUNPHARMA		-0.76		1123.7		973447
+BAJAJ-AUTO		0.1		5006.0		521482
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		-3.77		2395.65		434228
-VIPIND		-0.83		655.0		312285
+EMAMILTD		-0.55		514.4		460820
+MTARTECH		-3.72		2396.95		435509
+VIPIND		-0.9		654.55		313423
+NATCOPHARM		0.02		849.3		181351
