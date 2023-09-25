@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CANBK		-1.29		378.0		2193306
-LT		-1.25		2882.05		153207
-CUMMINSIND		-1.08		1706.75		55126
-JBMA		-0.44		1421.95		2849
+CANBK		-1.23		378.25		2216786
