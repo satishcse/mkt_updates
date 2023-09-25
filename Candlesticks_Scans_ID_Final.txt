@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.72		1124.2		984837
+SUNPHARMA		-0.66		1124.9		992758
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CIPLA		-0.57		1179.15		1252350
-EMAMILTD		-0.47		514.8		463820
-MTARTECH		-3.72		2397.0		438936
-RADICO		-1.9		1159.85		145779
+SWANENERGY		-2.56		290.9		13502615
+SRF		-1.28		2235.5		590635
+EMAMILTD		-0.48		514.75		464948
+TIINDIA		0.17		3205.7		141204
+RELAXO		-1.17		904.1		46204
