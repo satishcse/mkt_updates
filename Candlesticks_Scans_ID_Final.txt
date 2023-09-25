@@ -1,11 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BAJAJFINSV		2.36		1580.2		2047139
-BAJFINANCE		4.49		7806.9		1748055
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KALYANKJIL		-4.8		205.35		2313706
+
