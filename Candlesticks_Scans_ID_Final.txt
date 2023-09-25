@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.19		282.8		2235329
+COALINDIA		-0.21		282.75		2238968
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLICYBZR		-2.31		732.9		748306
-CLEAN		-0.42		1399.75		43119
-LINDEINDIA		-1.22		5857.95		10179
+POLICYBZR		-2.28		733.1		749450
+DMART		-0.25		3680.0		38204
+LINDEINDIA		-1.24		5857.0		10181
