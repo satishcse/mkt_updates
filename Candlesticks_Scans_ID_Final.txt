@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.38		185.8		3432813
-INFY		-0.97		1481.7		2347851
-BPCL		-0.06		351.75		1752317
+TATASTEEL		0.83		127.8		14481854
+ONGC		0.38		185.8		3436599
+INFY		-0.97		1481.7		2355469
+BPCL		-0.06		351.75		1752860
 
 Bullish_Hammer_15m_N500								 
 ======================= 
