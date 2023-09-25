@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BEML		-2.12		2301.0		104422
-GARFIBRES		-0.35		3183.3		2264
+TANLA		-0.31		1028.1		99079
+PRESTIGE		-0.67		594.4		29839
+FIVESTAR		-0.16		696.0		26777
