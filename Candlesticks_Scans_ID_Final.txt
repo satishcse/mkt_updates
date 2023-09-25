@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.47		777.7		503262
+TATASTEEL		0.39		127.25		8351483
+LTIM		-0.62		5394.0		97289
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIPIND		0.11		661.2		149328
+M&M		-1.07		1589.9		1628203
