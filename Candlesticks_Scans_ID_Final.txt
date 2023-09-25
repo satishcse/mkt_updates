@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.5		1019.5		7107875
-BRITANNIA		0.21		4568.2		210753
+AXISBANK		0.37		1018.25		7108110
+BRITANNIA		0.13		4564.65		210753
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JYOTHYLAB		-0.71		348.5		604422
-BAJFINANCE		-0.12		7474.85		526243
-CYIENT		-0.23		1631.0		384538
-SOBHA		-0.21		651.7		320532
-RAYMOND		-1.29		1839.8		269761
-QUESS		-0.61		421.15		190997
+JYOTHYLAB		-0.56		349.05		604723
+BAJFINANCE		-0.17		7471.35		526304
+SOBHA		-0.61		649.1		320556
+RAYMOND		-1.38		1838.05		269950
+QUESS		-0.21		422.85		191183
