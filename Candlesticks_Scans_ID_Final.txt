@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.08		238.15		3751183
-UPL		1.15		621.85		1323525
-SUNPHARMA		-0.39		1127.95		225250
-DIVISLAB		0.64		3728.9		98864
+NTPC		0.08		238.15		3766097
+TATACONSUM		1.49		890.8		1360827
+UPL		1.07		621.4		1328225
+SUNPHARMA		-0.4		1127.85		225988
+DIVISLAB		0.55		3725.45		100595
 
 Bullish_Hammer_15m_N500								 
 ======================= 
