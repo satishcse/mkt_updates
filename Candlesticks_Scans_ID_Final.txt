@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-0.53		3849.35		144091
-MASTEK		-0.78		2416.0		10416
-AIAENG		-1.03		3456.0		9344
+HAL		-0.64		3845.4		146340
+MASTEK		-0.76		2416.45		11511
+AIAENG		-1.05		3455.3		9367
