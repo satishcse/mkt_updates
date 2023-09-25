@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.29		908.8		620857
-NESTLEIND		-0.04		22522.95		2362
+BHARTIARTL		-0.27		908.9		632029
+NESTLEIND		-0.06		22519.7		2466
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.27		2475.85		70940
+GLENMARK		-1.48		790.9		426772
+HINDUNILVR		-0.24		2476.4		72875
+BAJAJHLDNG		-0.78		7274.95		6395
