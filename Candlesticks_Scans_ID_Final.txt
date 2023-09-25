@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.52		955.25		8176389
-INFY		-1.44		1474.55		3531055
-TITAN		0.35		3286.0		537031
-ULTRACEMCO		0.15		8200.0		419527
+ICICIBANK		0.69		956.9		8334303
+INFY		-1.48		1473.95		3733731
+TITAN		0.31		3284.6		554405
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		-0.02		849		161824
+INFY		-1.48		1473.95		3733731
+NATCOPHARM		-0.06		848.65		166337
+PGHH		-0.5		17589.0		2211
