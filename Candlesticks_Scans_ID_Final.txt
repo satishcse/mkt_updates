@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.77		475.15		838188
-TITAN		0.78		3300.05		188607
-LTIM		-0.68		5390.55		91159
+HINDALCO		-0.82		474.9		846314
+TITAN		0.75		3299.05		191545
+LTIM		-0.62		5393.85		92637
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		-3.92		965.0		565585
-INGERRAND		-1.14		2952.8		4369
+CGCL		0.16		774.05		163482
