@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.88		241.75		6182406
-RELIANCE		-0.02		2340.0		2421490
-TCS		-0.38		3563.6		1060241
-HINDUNILVR		-0.29		2468.65		601185
+TCS		-0.39		3563.15		1061699
+HINDUNILVR		-0.3		2468.45		602733
+ULTRACEMCO		0.65		8259.6		312081
+APOLLOHOSP		-0.56		5068.7		165337
 
 Bullish_Hammer_15m_N500								 
 ======================= 
