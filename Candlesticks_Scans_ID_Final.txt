@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.43		1014.55		1450871
-SUNPHARMA		-0.36		1120.0		687470
-DRREDDY		1.27		5507.8		97661
+AXISBANK		-0.43		1014.55		1453488
+SUNPHARMA		-0.36		1120.05		695225
+DRREDDY		1.29		5508.7		97821
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FINCABLES		-0.56		1095.85		37043
+
