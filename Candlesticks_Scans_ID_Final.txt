@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.54		240.95		7533843
-BHARTIARTL		0.32		913.35		3548642
-UPL		0.16		617.95		1219338
-SBILIFE		0.04		1294.7		399775
+NTPC		0.52		240.9		7547768
+BHARTIARTL		0.34		913.5		3566568
+UPL		0.16		617.95		1220049
+SBILIFE		0.09		1295.3		401617
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HLEGLAS		-1.04		576.4		22332
