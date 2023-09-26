@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		1.06		2933.15		392865
-ASIANPAINT		-1.21		3283.15		316399
+RELIANCE		0.24		2346.0		1544303
+LT		1.0		2931.4		393471
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CANBK		-0.23		374.2		2906543
-DIVISLAB		-0.33		3716.2		42180
-PVRINOX		-0.1		1713.7		40553
-JBMA		0.32		1400.0		11884
-PATANJALI		0.25		1278.35		5520
-3MINDIA		-1.4		31248.0		918
+JBMA		0.11		1397.15		12518
+ZYDUSWELL		-0.46		1563.5		7219
+PATANJALI		0.26		1278.4		5747
