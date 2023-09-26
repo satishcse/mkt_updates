@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,0.05,185.6,1895674
-AXISBANK,-0.42,1014.65,1445913
-SUNPHARMA,-0.36,1120.0,683338
+AXISBANK,-0.43,1014.55,1450871
+SUNPHARMA,-0.36,1120.0,687470
+DRREDDY,1.27,5507.8,97661
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+FINCABLES,-0.56,1095.85,37043
