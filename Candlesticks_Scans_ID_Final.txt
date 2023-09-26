@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.49		1014		3083769
+AXISBANK		-0.51		1013.8		3087777
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHRIRAMFIN		-2.57		1895.55		518746
-NAVINFLUOR		-0.68		4420.65		48127
-PAGEIND		-0.28		39323.35		4901
+
