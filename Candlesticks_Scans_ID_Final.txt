@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.02		2340.0		3190464
-UPL		0.15		617.85		1173697
-ULTRACEMCO		0.5		8247.3		354847
-BRITANNIA		0.18		4578.25		245370
-HEROMOTOCO		1.06		3006.1		159656
+UPL		0.22		618.3		1184749
+ULTRACEMCO		0.53		8249.75		355591
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CERA		-1.58		8585		6356
