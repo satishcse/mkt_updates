@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.23		198.45		4146215
-AXISBANK		-0.68		1012.0		3149808
+POWERGRID		-0.25		198.4		4152963
+AXISBANK		-0.64		1012.45		3164238
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-2.29		1901.0		529415
-ATUL		-0.69		6979.75		11452
+SUNTV		-0.96		593.9		1494205
+COFORGE		-2.06		5177.0		172573
+ATUL		-0.69		6979.7		11469
