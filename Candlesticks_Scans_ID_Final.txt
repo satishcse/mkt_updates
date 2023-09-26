@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIPRULI		0.33		579.7		711435
-CHOLAHLDNG		-1.48		1157.2		293604
-ATUL		-0.58		6987.95		10546
+CHOLAHLDNG		-1.47		1157.3		293692
+ATUL		-0.61		6985.75		10563
