@@ -1,8 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+AXISBANK		-0.41		1014.8		3883068
+ITC		-0.18		441.8		3395326
+INDUSINDBK		-1.59		1419.85		1717173
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PAGEIND		-0.46		39253.9		12255
