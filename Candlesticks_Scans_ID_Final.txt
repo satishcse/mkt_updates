@@ -1,8 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SUNPHARMA		-0.01		1123.9		1346005
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INTELLECT		-0.93		721.75		378808
+ANURAS		-0.2		881.1		136609
+VINATIORGA		-0.61		1823.95		12273
