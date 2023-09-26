@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,0.38,1536.8,4348231
+HDFCBANK,0.34,1536.25,4414255
+ICICIBANK,-0.28,953.7,3878159
+TATAMOTORS,0.71,623.1,2977158
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+DEEPAKNTR,-0.17,2134.55,101443
