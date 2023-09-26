@@ -1,16 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SBIN		-0.07		593.65		1079330
-TATAMOTORS		0.35		620.85		743423
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACONSUM		0.57		905.75		540182
-TECHM		-0.84		1288.6		185342
-M&M		0.08		1590.65		170379
-SRF		0.02		2238.95		66750
-BAYERCROP		-1.83		5275.85		2887
-TEAMLEASE		-0.13		2517.95		1453
+CANFINHOME		-0.13		770.75		74789
