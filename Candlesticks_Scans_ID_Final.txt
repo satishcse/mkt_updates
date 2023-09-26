@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.89		187.15		5691401
-AXISBANK		-0.44		1014.5		3937283
-ITC		-0.23		441.6		3431610
-HINDALCO		0.3		470.75		3421458
+ONGC		0.89		187.15		5700558
+ITC		-0.21		441.65		3441570
+DRREDDY		0.91		5488.05		196360
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SIEMENS		-0.3		3683.4		103484
