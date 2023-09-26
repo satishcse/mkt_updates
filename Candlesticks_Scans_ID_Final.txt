@@ -1,12 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BAJAJ-AUTO		1.55		5082.9		87222
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONATSOFTW		-1.33		1075.7		79466
-GMMPFAUDLR		-0.36		1848.5		27129
-SUNDRMFAST		-0.51		1221.05		5795
+TCS		-0.97		3542.4		597831
+POLYCAB		-1.32		5137.65		163671
+GMMPFAUDLR		-0.04		1854.55		28216
+CARBORUNIV		-0.78		1179.45		19477
