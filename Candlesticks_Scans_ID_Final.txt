@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.88		241.75		6207472
-TCS		-0.38		3563.7		1065941
-M&M		0.15		1591.8		551242
-ULTRACEMCO		0.66		8260.25		312676
+TCS		-0.37		3563.8		1066812
+M&M		0.15		1591.8		551944
+ULTRACEMCO		0.69		8262.55		313430
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ECLERX		-1.84		1767.65		26631
