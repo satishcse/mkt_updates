@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.6		238.75		7989161
-POWERGRID		0.3		198.95		4842742
+POWERGRID		0.45		199.25		4886287
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		1.65		1798		122437
+RAINBOW		-0.03		1035.45		263504
+ECLERX		1.53		1795.95		122555
