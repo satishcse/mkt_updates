@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.33		199.0		2116280
-JSWSTEEL		0.43		783.0		1287371
-TITAN		-0.88		3233.95		628028
-ULTRACEMCO		0.25		8249.75		180184
-NESTLEIND		-0.6		22868.0		14971
+BPCL		-0.91		348.45		1704875
+TITAN		-0.9		3233.3		628996
+ULTRACEMCO		0.26		8249.95		206887
+NESTLEIND		-0.58		22873.25		14991
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KENNAMET		-1.94		2804.95		28957
