@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.62		445.2		4241913
-WIPRO		0.39		414.5		2466028
-AXISBANK		-0.44		1009.7		2151201
+ITC		0.61		445.15		4251604
+WIPRO		0.39		414.5		2469192
+AXISBANK		-0.42		1009.9		2154969
 
 Bullish_Hammer_15m_N500								 
 ======================= 
