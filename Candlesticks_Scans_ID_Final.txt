@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.5		917.3		1843126
-BPCL		-0.88		348.55		1816638
-JSWSTEEL		0.17		780.95		1386260
-TITAN		-1.0		3229.9		661430
-HDFCLIFE		-0.09		643.65		635101
+COALINDIA		1.95		292.35		7285390
+ICICIBANK		-0.99		939.35		7223295
+NTPC		-0.71		238.5		4807932
+INDUSINDBK		0.33		1427.8		2526571
+CIPLA		1.37		1179.55		1190340
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHOPERSTOP		-1.05		677.75		46903
-KAJARIACER		-0.19		1343.85		24118
 LAXMIMACH		-0.56		14671.5		726
