@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.53		186.75		2348651
-LTIM		0.84		5407.9		131263
+TATAMOTORS		-0.22		618.45		1905317
+ULTRACEMCO		0.09		8236.0		66139
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRASIM		-0.92		1940.0		188072
-PNCINFRA		-1.33		364.8		168887
-HONAUT		-0.9		40470.0		428
+HONAUT		-0.9		40470		428
