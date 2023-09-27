@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.6		238.75		7739968
+NTPC		-0.6		238.75		7755702
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		-0.72		356.4		61772
-KIMS		0.31		1971.35		30107
-RATNAMANI		-0.61		2555.65		5819
+APARINDS		-0.52		5775.0		432831
+SWSOLAR		-0.65		356.65		62716
+KIMS		0.34		1972.0		30140
+RATNAMANI		-0.61		2555.65		5823
