@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.32		127.2		12275172
-WIPRO		-0.47		410.95		1328230
+TATASTEEL		-1.28		127.25		12372453
+INDUSINDBK		0.35		1428.0		1987542
+BHARTIARTL		0.62		918.4		1175681
+NESTLEIND		-0.72		22839.95		12150
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ALKYLAMINE		-0.14		2335.5		9141
+
