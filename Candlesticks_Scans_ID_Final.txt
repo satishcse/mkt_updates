@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.04		1014.6		2621823
-JSWSTEEL		0.04		780.0		1680370
-ASIANPAINT		0.19		3299.05		313723
+AXISBANK		0.03		1014.45		2626796
+JSWSTEEL		0.02		779.8		1684687
+ASIANPAINT		0.19		3299.0		314414
 
 Bullish_Hammer_15m_N500								 
 ======================= 
