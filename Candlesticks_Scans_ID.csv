@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BPCL,-0.91,348.45,2095057
-HINDUNILVR,0.76,2497.9,675289
-ASIANPAINT,0.24,3300.85,339059
+BPCL,-0.87,348.6,2101031
+M&M,-0.14,1592.9,1394131
+ASIANPAINT,0.22,3299.9,340294
+SBILIFE,0.02,1289.9,335054
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+MEDPLUS,-0.22,759.9,61758
