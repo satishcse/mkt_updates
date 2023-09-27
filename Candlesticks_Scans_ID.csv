@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,-0.69,238.55,7606078
-POWERGRID,0.3,198.95,4376164
-HDFCLIFE,0.63,648.3,1190356
+NTPC,-0.6,238.75,7690037
+SBIN,-0.5,591.45,7136461
+POWERGRID,0.35,199.05,4409150
+HDFCLIFE,0.61,648.2,1193960
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+RATNAMANI,-0.61,2555.65,5811
