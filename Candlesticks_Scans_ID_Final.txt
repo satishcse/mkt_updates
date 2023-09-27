@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.78		127.9		22876977
-KOTAKBANK		0.09		1765.7		2366318
-SBILIFE		0.41		1295.05		477965
-ASIANPAINT		0.04		3294.05		380276
+TATASTEEL		-0.78		127.9		22993217
+KOTAKBANK		0.12		1766.2		2368871
+SBILIFE		0.43		1295.2		479877
+ASIANPAINT		0.06		3294.7		381039
 
 Bullish_Hammer_15m_N500								 
 ======================= 
