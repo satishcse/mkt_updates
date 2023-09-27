@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.93		828.95		1832912
-BAJFINANCE		-0.63		7820.9		490607
-NESTLEIND		-0.85		22809.9		22839
+ADANIPORTS		0.85		828.35		1841287
+BAJFINANCE		-0.68		7817.05		491739
+NESTLEIND		-0.88		22802.15		22874
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		1.69		1798.8		104511
+ECLERX		1.68		1798.7		104575
