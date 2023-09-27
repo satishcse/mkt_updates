@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,-0.71,238.5,4850407
-INDUSINDBK,0.32,1427.65,2532560
-CIPLA,1.34,1179.2,1192394
+INDUSINDBK,0.32,1427.6,2535428
+CIPLA,1.33,1179.15,1193270
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HAL,-0.7,3844.0,376615
+POLYPLEX,0.1,1180.55,53582
