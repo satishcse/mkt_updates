@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.71		238.5		7334382
-TATAMOTORS		-0.28		618.05		4133547
-ADANIPORTS		1.14		830.75		2038448
-SUNPHARMA		1.24		1139.8		1967487
+NTPC		-0.67		238.6		7346009
+ADANIPORTS		1.15		830.8		2042218
+SUNPHARMA		1.24		1139.8		1969079
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RUSTOMJEE		-2.01		562.95		11915
+RUSTOMJEE		-2.01		562.95		11947
