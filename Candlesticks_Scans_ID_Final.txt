@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.85		127.8		23315921
-HINDALCO		0.32		473.0		4316142
-ASIANPAINT		0.07		3295.0		386202
+NTPC		-0.67		238.6		7081098
+TATAMOTORS		-0.27		618.15		4054511
+JSWSTEEL		0.38		782.65		2075440
+ADANIPORTS		1.15		830.8		2011888
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANYAVAR		-1.02		1308.65		42814
+NUVOCO		1.25		385.8		1109056
