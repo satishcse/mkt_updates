@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.45		199.25		4886287
+TATASTEEL		-0.66		128.05		26551356
+POWERGRID		0.33		199.0		4957337
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAINBOW		-0.03		1035.45		263504
-ECLERX		1.53		1795.95		122555
+RAINBOW		-0.07		1035.0		263518
+ECLERX		1.53		1795.95		122583
+SWSOLAR		-1.11		355.0		78096
+GRINDWELL		-0.41		2033.0		29881
