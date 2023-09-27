@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.03		619.6		5272771
+INDUSINDBK		0.96		1436.7		3589630
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RAINBOW		0.16		1037.4		269902
-ECLERX		1.55		1796.35		124155
-KENNAMET		-2.39		2792.0		49875
-INDIGOPNTS		-0.7		1505.05		35203
-GRINDWELL		-0.23		2036.75		30535
+
