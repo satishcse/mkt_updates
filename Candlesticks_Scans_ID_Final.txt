@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.31		472.95		4034839
-ONGC		-0.11		187.55		3773939
-JSWSTEEL		0.04		780.0		1979623
-BAJAJFINSV		-0.24		1563.9		715231
+NTPC		-0.67		238.6		6833241
+HINDALCO		0.29		472.85		4065102
+BHARTIARTL		0.47		916.95		2610967
 
 Bullish_Hammer_15m_N500								 
 ======================= 
