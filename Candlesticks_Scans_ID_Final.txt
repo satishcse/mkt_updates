@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.53		444.8		4268673
-WIPRO		0.36		414.4		2477913
-HEROMOTOCO		-0.41		3021.8		124828
+ITC		0.61		445.15		4285883
+WIPRO		0.34		414.3		2483437
+AXISBANK		-0.42		1009.9		2216536
+HEROMOTOCO		-0.44		3020.9		125051
 
 Bullish_Hammer_15m_N500								 
 ======================= 
