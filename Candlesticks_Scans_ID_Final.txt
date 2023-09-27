@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.97		348.25		2135028
-M&M		-0.16		1592.65		1408814
-ASIANPAINT		0.25		3301.15		345704
+BPCL		-0.87		348.6		2137918
+M&M		-0.17		1592.5		1410643
+ASIANPAINT		0.29		3302.5		346394
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEC		-0.36		660.05		113076
-ECLERX		2.04		1805.0		101837
-MEDPLUS		0.1		762.3		63752
+MEDPLUS		0.12		762.5		63764
