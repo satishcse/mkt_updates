@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYTEX		1.58		1087.95		686342
-TRENT		-1.26		2123.75		97691
-BIKAJI		-0.19		487.4		35047
-IFBIND		-0.12		898.0		4140
+DALBHARAT		-0.38		2358.8		163004
+TRENT		-1.25		2124.0		99001
+DMART		-0.06		3631.55		36819
+BIKAJI		-0.19		487.4		35513
+SHOPERSTOP		-0.69		680.25		21943
