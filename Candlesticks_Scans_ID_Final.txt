@@ -1,10 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SBILIFE		-0.01		1289.6		328393
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APARINDS		0.77		5849.55		367701
+DATAPATTNS		-0.94		2084.8		69648
