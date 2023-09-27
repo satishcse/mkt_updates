@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.92		2214.05		812970
-TIINDIA		-1.55		3132.1		27605
+MAZDOCK		-0.92		2214.0		817003
+PIIND		-0.44		3391.45		50565
+MANYAVAR		-0.99		1309.05		11822
 LAXMIMACH		-0.06		14745.25		336
