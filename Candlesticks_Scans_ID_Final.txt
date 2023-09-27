@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ASIANPAINT		-0.41		3279.35		91558
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAELXSI		-0.46		7276.95		17223
+TATAELXSI		-0.46		7277.0		17232
 APLLTD		-0.31		751.75		17172
