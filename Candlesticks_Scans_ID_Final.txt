@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.28		127.25		12507606
-INDUSINDBK		0.31		1427.5		2000237
-BHARTIARTL		0.43		916.65		1215814
+TATASTEEL		-1.28		127.25		12539179
+BHARTIARTL		0.36		916.0		1273153
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TIINDIA		-1.66		3128.55		97667
+HONAUT		-1.57		40196.0		839
