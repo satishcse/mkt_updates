@@ -2,16 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		1.17		830.95		2403175
+ADANIPORTS		1.16		830.85		2413057
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GESHIP		0.68		856.85		2376045
-CYIENT		0.44		1677.15		1100094
-JSL		-0.14		461.9		797208
-ADANIENSOL		-0.23		815.95		432181
-WESTLIFE		-2.07		968.45		396092
-ACI		0.11		584.95		147103
-CAMS		-0.74		2478.55		96054
-AAVAS		-1.09		1700.05		47632
+GESHIP		0.69		857.0		2380823
+CYIENT		0.55		1678.95		1101034
+JSL		0.1		463.0		798724
+ECLERX		1.41		1793.8		128407
+AAVAS		-1.09		1700.05		47766
