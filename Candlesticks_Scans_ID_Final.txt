@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.91		348.45		1793892
-JSWSTEEL		0.36		782.45		1341722
-TITAN		-0.91		3233.05		648527
-HDFCLIFE		-0.05		643.9		610670
+BHARTIARTL		0.5		917.25		1797918
+BPCL		-0.88		348.55		1796303
+JSWSTEEL		0.28		781.85		1347158
+TITAN		-0.88		3233.85		649623
+HDFCLIFE		-0.09		643.65		612666
 
 Bullish_Hammer_15m_N500								 
 ======================= 
