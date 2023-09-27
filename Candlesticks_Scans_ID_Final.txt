@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-0.65		1557.5		155594
-POLYCAB		-0.29		5124.2		127016
-VMART		-0.09		2035.0		2568
+CENTURYTEX		1.58		1087.95		686342
+TRENT		-1.26		2123.75		97691
+BIKAJI		-0.19		487.4		35047
+IFBIND		-0.12		898.0		4140
