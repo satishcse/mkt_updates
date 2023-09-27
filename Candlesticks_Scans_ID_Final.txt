@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.19		187.4		3814147
-BHARTIARTL		0.57		917.9		2677183
-JSWSTEEL		0.04		780.0		2014820
+KOTAKBANK		0.12		1766.3		2299859
+SBILIFE		0.43		1295.25		472626
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+360ONE		0.1		515.15		190146
