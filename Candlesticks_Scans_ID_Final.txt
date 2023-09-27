@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.22		618.45		1905317
-ULTRACEMCO		0.09		8236.0		66139
+TATAMOTORS		-0.23		618.35		1935244
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-0.9		40470		428
+LAXMIMACH		-0.13		14734.85		462
