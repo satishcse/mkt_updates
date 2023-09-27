@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.03		289.7		9170351
-AXISBANK		0.08		1014.95		2792538
-JSWSTEEL		0.04		780.0		1736817
+COALINDIA		0.99		289.6		9177352
+JSWSTEEL		0.04		780.0		1740624
 
 Bullish_Hammer_15m_N500								 
 ======================= 
