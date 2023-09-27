@@ -2,8 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.96		1436.7		3589630
+ADANIPORTS		1.14		830.75		2393406
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GESHIP		0.75		857.5		2370052
+MAZDOCK		-1.05		2211.0		1353037
+JSL		-0.21		461.6		794853
+ECLERX		1.44		1794.35		127601
+CAMS		-0.82		2476.6		95932
+AAVAS		-1.09		1700.0		47515
