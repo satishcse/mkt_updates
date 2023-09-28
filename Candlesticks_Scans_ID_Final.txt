@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLAPOLLO		0.04		1630.2		541304
-DCMSHRIRAM		0.29		1063.0		46289
+APLAPOLLO		0.03		1630		541954
