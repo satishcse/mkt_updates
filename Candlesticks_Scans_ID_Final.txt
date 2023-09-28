@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.35		187.9		6250718
-INFY		-1.24		1448.85		3119815
+ONGC		0.35		187.9		6257368
+INFY		-1.23		1449.0		3126888
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RATNAMANI		-1.23		2526.35		5309
+MTARTECH		-0.71		2570.3		166574
