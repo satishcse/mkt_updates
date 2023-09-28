@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UBL		-1.32		1557.25		118192
+ULTRACEMCO		-1.11		8171.3		260541
+UFLEX		-3.15		458.1		249304
+UBL		-1.32		1557.25		118419
 PGHH		-0.88		18206.35		5964
