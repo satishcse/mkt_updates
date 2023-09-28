@@ -1,12 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBIN		0.12		590.45		14321324
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LICHSGFIN		-1.56		459.75		1532770
-UFLEX		-3.58		456.05		298408
-GESHIP		-1.69		841.7		240813
-GLAXO		-0.61		1516.0		19606
+TATACHEM		-2.17		1020.9		425543
+UFLEX		-3.51		456.4		298887
+GESHIP		-1.73		841.35		241675
