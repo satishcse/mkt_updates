@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.4		188.0		6499484
-BHARTIARTL		0.12		921.35		4535382
+AXISBANK		0.2		1027.3		10768471
+ONGC		0.37		187.95		6505869
+UPL		-0.75		610.5		1326106
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ESCORTS		-2.81		3226.6		222700
-INDIAMART		-1.25		2874.7		113615
-RAYMOND		-0.18		1806.9		101164
-INDIGOPNTS		-1.08		1485.85		24475
+ESCORTS		-2.68		3231.0		223585
+INDIAMART		-1.23		2875.15		113734
+RAYMOND		-0.12		1808.0		101429
+INDIGOPNTS		-1.14		1485.0		24739
