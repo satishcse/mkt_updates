@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		-1.8		441.05		9258661
+HDFCLIFE		-2.01		635.15		2324487
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZENSARTECH		-2.11		513.85		713263
+LINDEINDIA		-0.5		5982.95		37883
