@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.64		188.45		4209463
+ONGC		0.53		188.25		4288462
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ESCORTS		-1.36		3275.0		120527
-UBL		-0.15		1575.65		76310
+TEJASNET		-0.13		854.95		102695
+METROBRAND		-1.16		1086.7		19785
+BOSCHLTD		-0.31		19159.75		2963
