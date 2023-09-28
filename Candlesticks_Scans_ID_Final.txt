@@ -1,14 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ULTRACEMCO		-0.93		8186.0		211246
+HEROMOTOCO		-0.1		3003.4		126935
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CDSL		-0.01		1352.0		758858
-HDFCAMC		-2.51		2603.0		339172
-GODREJPROP		-1.48		1556.9		140024
-MPHASIS		-0.37		2460.85		64156
-LTTS		-0.77		4700.0		44433
-HONAUT		-1.32		39989.9		1319
+
