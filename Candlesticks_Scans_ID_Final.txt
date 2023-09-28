@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-JSWSTEEL		-0.46		776		1096147
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARUTI		-0.52		10624.95		265518
+MARUTI		-0.52		10625.0		266776
 QUESS		-0.16		425.15		71811
