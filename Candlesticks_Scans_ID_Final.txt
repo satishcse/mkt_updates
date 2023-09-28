@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.24		476.1		3137191
-BAJFINANCE		-0.77		7777.35		304451
-GRASIM		-0.7		1917.55		137357
+HINDALCO		0.12		475.5		3188528
+BPCL		-0.59		346.95		1543544
+BAJFINANCE		-0.87		7769.2		310113
+GRASIM		-0.79		1915.8		137945
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		-1.09		2472.3		87539
-ABB		-0.86		4197.05		72203
-BOSCHLTD		-0.45		19132.7		3425
+CAMS		-0.54		2462.65		15794
+BOSCHLTD		-0.43		19135.0		3477
+LAXMIMACH		-1.01		14538.55		897
