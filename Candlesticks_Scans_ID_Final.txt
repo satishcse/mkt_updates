@@ -1,14 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SBIN		0.11		590.4		14433340
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACHEM		-2.27		1019.8		428277
-EIDPARRY		-0.09		522.0		375657
-MASTEK		-2.46		2365.0		24245
-GLAXO		-0.72		1514.3		19921
 LAXMIMACH		-1.19		14512.75		1961
