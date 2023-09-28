@@ -1,12 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBILIFE		0.03		1301.4		449687
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&M		-1.89		1559.2		1109108
-APLAPOLLO		0.09		1630.95		544834
-ULTRACEMCO		-0.92		8186.5		237973
-ASTRAL		-1.16		1905.85		171357
+APLAPOLLO		0.09		1631.0		546361
+HDFCAMC		-2.53		2602.5		366220
+ULTRACEMCO		-0.9		8188.35		238397
+SONATSOFTW		-0.04		1063.65		77049
+BALKRISIND		-1.2		2525.05		48763
