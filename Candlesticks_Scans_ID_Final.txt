@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		1.65		3013.9		3008794
-BPCL		-1.28		344.55		2571471
+HDFCLIFE		-1.94		635.6		1606070
+TCS		-1.16		3547.5		1019746
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		-0.88		5448.1		238300
-UBL		-1.04		1561.55		120780
 LINDEINDIA		-0.27		5996.75		17542
 GLAXO		-0.41		1519.0		16664
