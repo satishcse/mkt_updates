@@ -2,16 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.13		187.5		9435097
+ONGC		0.11		187.45		9662151
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-4.86		1226.05		5199993
-MARICO		-3.99		560.5		1597417
-SOBHA		-0.81		676.35		281116
-GLAND		-0.42		1649.8		212451
-LALPATHLAB		-1.56		2409.4		197915
-MAHLOG		-1.6		381.7		112757
-SOLARINDS		-0.47		4695.95		37041
-POLYMED		-0.23		1382.45		28285
+SOBHA		-0.82		676.3		281348
+COROMANDEL		-0.32		1123.15		275897
+CLEAN		-1.39		1407.0		65490
+SOLARINDS		-0.48		4695.5		37048
+POLYMED		-0.18		1383.1		28345
