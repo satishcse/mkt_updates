@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.67		408.7		4116276
-SUNPHARMA		-0.46		1134.65		2240471
+WIPRO		-1.72		408.5		4122832
+SUNPHARMA		-0.43		1135.05		2248017
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RELIANCE		-1.63		2330.2		5615081
+PVRINOX		-0.36		1708.95		302887
+LALPATHLAB		-1.49		2411.05		158959
+VMART		-1.21		2008.8		8922
