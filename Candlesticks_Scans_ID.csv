@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.27,239.95,3247385
-HINDALCO,0.23,476.05,2917182
-BAJFINANCE,-0.77,7776.95,302264
+HINDALCO,0.24,476.1,3137191
+BAJFINANCE,-0.77,7777.35,304451
+GRASIM,-0.7,1917.55,137357
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-SWSOLAR,1.13,357,41430
+PIDILITIND,-1.09,2472.3,87539
+ABB,-0.86,4197.05,72203
+BOSCHLTD,-0.45,19132.7,3425
