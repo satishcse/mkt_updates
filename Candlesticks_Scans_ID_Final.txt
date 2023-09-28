@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.15		345.0		2510001
-TITAN		-1.68		3160.5		942589
+BPCL		-1.17		344.9		2518133
+TITAN		-1.73		3159.05		943872
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-3.28		1880.0		526971
-APOLLOHOSP		-0.96		5056.3		264438
-ULTRACEMCO		-1.11		8171.25		261131
-UFLEX		-3.11		458.3		249806
-JKCEMENT		-1.68		3151.05		42060
-GRINDWELL		0.08		2033.5		19545
+APOLLOHOSP		-0.93		5058.05		264906
+JKCEMENT		-1.61		3153.15		42222
+GRINDWELL		0.09		2033.6		19606
+LINDEINDIA		-0.38		5990.25		17341
+PGHH		-0.86		18209.05		5973
