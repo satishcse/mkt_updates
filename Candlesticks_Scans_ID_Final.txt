@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAYMOND		0.19		1813.6		31349
-TCIEXP		-0.18		1482.4		2632
-BASF		-0.44		2526.5		1850
+ADANIGREEN		-0.24		1016.35		52938
+GARFIBRES		0.06		3187.75		2317
