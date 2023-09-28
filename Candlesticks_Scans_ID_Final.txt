@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ULTRACEMCO		-0.88		8190		244571
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COLPAL		-2.25		2004.2		550842
-MARUTI		-0.52		10625.0		268320
+MARUTI		-0.52		10625.0		268933
 QUESS		-0.12		425.35		71835
+ABBOTINDIA		-1.19		22472.65		3551
