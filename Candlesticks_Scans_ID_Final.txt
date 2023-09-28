@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-2.45		2062.05		577269
+TRENT		-2.4		2063.1		580595
+UBL		-1.92		1547.65		151099
+MASTEK		-2.46		2365.0		22783
