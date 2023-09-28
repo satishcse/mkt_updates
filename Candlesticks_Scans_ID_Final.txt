@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.8		935.55		12123085
-KOTAKBANK		-1.74		1734.5		3416227
-INFY		-1.36		1447.05		2274757
+ICICIBANK		-0.82		935.35		12171604
+KOTAKBANK		-1.74		1734.5		3432627
+INFY		-1.33		1447.5		2281957
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		-0.63		4123.15		8276
+POWERINDIA		-0.61		4123.95		8279
