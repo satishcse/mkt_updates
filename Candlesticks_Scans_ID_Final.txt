@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARUTI		-0.52		10625.0		268933
-QUESS		-0.12		425.35		71835
-ABBOTINDIA		-1.19		22472.65		3551
+COLPAL		-2.1		2007.3		556025
+QUESS		-0.06		425.6		71836
