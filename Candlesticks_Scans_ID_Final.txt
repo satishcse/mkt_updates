@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.62		774.75		1144696
-MARUTI		-0.71		10604.4		292225
+ICICIBANK		-0.47		938.65		13613234
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MGL		-1.15		1008.15		93172
+NAUKRI		-1.08		4193.4		445126
