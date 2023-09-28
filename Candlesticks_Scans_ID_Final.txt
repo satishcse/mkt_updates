@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.96		635.5		1608631
-HINDUNILVR		-1.53		2463.55		830353
+HDFCLIFE		-1.97		635.4		1612857
+HINDUNILVR		-1.51		2463.95		831669
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GALAXYSURF		-0.11		2595.55		29071
