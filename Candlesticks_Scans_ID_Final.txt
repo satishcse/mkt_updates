@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+JSWSTEEL		-0.48		775.85		1120005
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CONCOR		-0.82		717.6		444957
-MARUTI		-0.52		10624.8		275337
-MPHASIS		-1.01		2445.0		98643
-QUESS		-0.08		425.5		72154
+GODREJPROP		-1.73		1553		153464
