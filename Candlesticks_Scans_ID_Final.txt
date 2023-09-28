@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINEORG		-0.3		4907.25		2950
-VINATIORGA		-0.3		1855.05		2839
+PFC		-1.14		246.8		2642658
+VIPIND		0.14		663.7		54396
+ABB		-0.29		4220.9		28424
+CGCL		-0.51		785.4		9736
+ECLERX		-0.14		1790.95		8677
