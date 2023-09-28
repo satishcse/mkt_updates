@@ -2,16 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.09		921.1		4500689
-INFY		-1.37		1446.9		3218411
+ONGC		0.32		187.85		6454832
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&M		-2.67		1546.75		1429979
-JSWSTEEL		-0.99		771.85		1368208
-VIPIND		-0.75		657.85		373840
-ESCORTS		-2.59		3234.0		216229
-LTTS		-2.25		4630.0		100359
-ALKYLAMINE		-1.77		2299.25		33455
-LINDEINDIA		-0.65		5973.85		18868
+ASIANPAINT		-4.22		3162.55		1261991
+HDFCAMC		-2.59		2601.05		426609
