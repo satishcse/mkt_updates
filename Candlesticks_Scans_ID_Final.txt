@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-2.04		634.95		2362937
+HDFCLIFE		-2.06		634.85		2385033
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZENSARTECH		-2.04		514.2		881821
-ANGELONE		-3.53		1875.0		666294
-VARROC		-3.33		483.0		361195
-MTARTECH		-1.18		2558.05		232032
+HAL		-50.76		1889.7		1945359
+ZENSARTECH		-2.12		513.75		895264
+ANGELONE		-3.53		1875.0		666800
+MTARTECH		-1.07		2561.0		232775
+BEML		0.26		2322.6		191402
+FINEORG		-2.12		4817.45		47348
