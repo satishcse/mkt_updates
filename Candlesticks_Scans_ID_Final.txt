@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.61		188.4		3771360
-TECHM		-2.97		1250.4		1701261
+ONGC		0.59		188.35		3823966
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VTL		-0.83		382.95		111610
-MUTHOOTFIN		-1.01		1246.7		104114
-SUPREMEIND		-0.49		4125.8		14575
+SUPREMEIND		-0.49		4125.5		14638
