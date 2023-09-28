@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.35		187.9		6222530
-HINDUNILVR		-1.55		2463.05		853976
+ONGC		0.32		187.85		6236609
+HINDUNILVR		-1.51		2464.0		856602
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		-1.35		22564.85		30887
-GALAXYSURF		-0.03		2597.85		29145
-SUNDARMFIN		-3.0		3087.9		27408
-RATNAMANI		-1.22		2526.4		5301
+RATNAMANI		-1.23		2526.35		5309
