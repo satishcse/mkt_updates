@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.12		291.2		11608424
-HDFCLIFE		-1.93		635.7		2337750
+HDFCLIFE		-2.02		635.1		2351723
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-3.59		1873.95		662308
-PRESTIGE		-0.62		601.2		221894
+ANGELONE		-3.54		1874.8		662788
+MTARTECH		-1.14		2559.2		229660
