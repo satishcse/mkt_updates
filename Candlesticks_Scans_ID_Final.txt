@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-2.41		2415.5		1189109
-MARUTI		1.03		10673.85		161327
+ADANIENT		-2.43		2415.0		1193175
+ASIANPAINT		-0.03		3169.35		619007
+MARUTI		0.96		10666.6		162140
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CRAFTSMAN		-1.02		4670.35		24074
