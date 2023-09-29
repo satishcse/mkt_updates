@@ -1,10 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ASIANPAINT		-0.26		3162.2		496010
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LINDEINDIA		-0.08		5961.95		7469
-MRF		-0.72		107942.7		3207
+
