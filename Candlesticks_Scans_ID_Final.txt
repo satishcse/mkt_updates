@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.23		189.75		3113824
-ITC		0.28		442.0		2691893
-BHARTIARTL		-0.08		924.9		1264739
-HDFCLIFE		-0.21		633.35		889925
+WIPRO		0.8		408.6		4606193
+ONGC		1.23		189.75		3124203
+ITC		0.29		442.05		2699614
+BHARTIARTL		-0.07		925.0		1268487
+UPL		2.25		618.6		1134486
+HDFCLIFE		-0.17		633.6		890772
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MRF		-0.63		108044.65		2902
+MRF		-0.63		108044.6		2910
