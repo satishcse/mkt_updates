@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JYOTHYLAB		-2.52		359.75		628395
-BALAMINES		-0.46		2174.0		36335
+MAZDOCK		0.4		2193.9		934273
+POWERINDIA		-0.54		4099.0		15164
+ZFCVINDIA		1.48		15526.45		3075
