@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.83		1300.1		404141
+SBILIFE		0.87		1300.6		404742
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAYERCROP		-0.24		5275		6586
+BAYERCROP		-0.11		5282		6587
