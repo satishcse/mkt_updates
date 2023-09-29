@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.38		879.8		597756
+TATACONSUM		0.12		877.55		604521
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		0.44		2194.95		822321
-KENNAMET		-0.98		2683.75		15773
+FINEORG		-0.41		4801.45		26117
