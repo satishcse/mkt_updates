@@ -6,5 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LXCHEM		0.11		279.0		215822
-ALKYLAMINE		0.22		2300.75		10734
+LXCHEM		0.07		278.9		216470
+ALKYLAMINE		0.22		2300.7		10746
