@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.22		1736.95		2382658
-ADANIENT		-2.19		2421.15		1170678
-SBILIFE		1.4		1307.4		484597
-MARUTI		1.09		10680.0		155535
+ADANIENT		-2.25		2419.6		1174843
+MARUTI		1.09		10680.85		156235
 
 Bullish_Hammer_15m_N500								 
 ======================= 
