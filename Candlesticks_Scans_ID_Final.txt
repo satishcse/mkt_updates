@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.12		3166.65		352153
+ASIANPAINT		-0.11		3166.9		353660
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LXCHEM		0.18		279.2		213232
+LXCHEM		0.13		279.05		213834
