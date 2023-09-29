@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIXON		-0.78		5177.8		117623
+SWSOLAR		-2.1		341.0		65893
+SHREECEM		-0.62		25472.6		3705
