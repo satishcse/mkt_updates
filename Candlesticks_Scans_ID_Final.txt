@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		2.28		628.1		3088242
-APOLLOHOSP		2.15		5128.0		88233
+HDFCBANK		0.46		1530.65		3667742
+HCLTECH		-0.99		1229.55		706974
+ASIANPAINT		-0.18		3164.55		341135
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-1.74		2432.2		648012
+POWERINDIA		0.11		4125.8		4867
