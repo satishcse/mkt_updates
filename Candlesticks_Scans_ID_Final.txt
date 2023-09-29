@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		3.65		245.7		33989558
-ONGC		2.4		191.95		9243457
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BALAMINES		-0.43		2174.65		35189
+POWERINDIA		-0.56		4098.45		14941
