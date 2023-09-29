@@ -1,17 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATAMOTORS		1.27		621.9		847642
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INFY		-1.26		1421.25		1011414
-DCMSHRIRAM		-0.22		1090.35		35639
-APARINDS		-1.24		5417.5		33857
-CHEMPLASTS		0.08		483.9		6823
-PATANJALI		0.81		1232.0		5011
-WESTLIFE		-0.28		958.3		4838
-JBMA		-0.18		1369.0		3229
-GARFIBRES		-0.23		3178.4		317
+BLUEDART		-0.13		6665.65		675
