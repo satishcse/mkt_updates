@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.05		876.95		648808
+TATACONSUM		-0.01		876.45		665050
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLAPOLLO		0.22		1623.3		623195
-BEML		-0.19		2318.0		84730
-TIMKEN		-0.88		3100.0		30536
-KENNAMET		-0.94		2684.95		16105
+APLAPOLLO		0.3		1624.6		627124
+BEML		-0.19		2318.0		84883
+TIMKEN		-0.9		3099.4		30912
