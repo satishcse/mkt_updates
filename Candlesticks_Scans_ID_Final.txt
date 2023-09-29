@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.84		295.55		4901557
+COALINDIA		1.88		295.65		4910657
+KOTAKBANK		0.4		1740.15		1638659
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HOMEFIRST		-0.77		814.2		57916
