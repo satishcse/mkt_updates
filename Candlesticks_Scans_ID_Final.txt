@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.08		877.2		637238
+TATACONSUM		0.05		876.95		648808
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BRIGADE		-0.79		569.25		446591
-FIVESTAR		-1.4		697.55		167157
-INGERRAND		-0.45		2926.25		14523
-MRF		-1.01		107633.3		6966
+APLAPOLLO		0.22		1623.3		623195
+BEML		-0.19		2318.0		84730
+TIMKEN		-0.88		3100.0		30536
+KENNAMET		-0.94		2684.95		16105
