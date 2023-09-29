@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.28		442.0		2732391
-BHARTIARTL		-0.06		925.1		1292640
-TITAN		0.33		3167.7		271085
+ITC		0.29		442.05		2737508
+BHARTIARTL		-0.05		925.15		1300392
+TITAN		0.24		3164.95		274546
 
 Bullish_Hammer_15m_N500								 
 ======================= 
