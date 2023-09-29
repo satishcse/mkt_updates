@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		2.22		627.75		3063272
-APOLLOHOSP		2.15		5127.95		87117
+TATAMOTORS		2.2		627.6		3066654
+APOLLOHOSP		2.08		5124.35		87637
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+UNOMINDA		1.29		603.3		155043
+PHOENIXLTD		-2.74		1799.15		53253
+JKLAKSHMI		-1.02		636.25		23800
