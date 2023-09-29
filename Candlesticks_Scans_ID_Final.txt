@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.44		1530.35		3707242
-TATACONSUM		0.34		879.5		210929
+ITC		0.06		441.0		1973735
+LT		0.37		3021.1		1378117
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INGERRAND		0.63		2957.95		5942
+FINEORG		-0.23		4810		5756
