@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.14		242.75		10872399
-COALINDIA		-1.32		291.3		6610076
-TATAMOTORS		-1.25		622.3		4964230
-WIPRO		-0.06		405.8		2163996
-HCLTECH		0.96		1246.7		1727512
-ADANIENT		-0.52		2401.4		1458183
+COALINDIA		-1.22		291.6		6618055
+TATAMOTORS		-1.25		622.35		4973337
+WIPRO		-0.07		405.75		2171894
+HCLTECH		0.94		1246.35		1730666
+ADANIENT		-0.54		2400.95		1458557
 
 Bullish_Hammer_15m_N500								 
 ======================= 
