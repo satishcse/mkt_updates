@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.2		242.6		9123256
-TATAMOTORS		-1.6		620.1		4271915
-ASIANPAINT		1.21		3199.3		773789
-BRITANNIA		-0.47		4515.9		332511
-LTIM		-0.24		5197.15		144852
+NTPC		-1.24		242.5		9139460
+TATAMOTORS		-1.58		620.25		4276070
+ASIANPAINT		1.2		3199.0		774535
+BRITANNIA		-0.47		4516.05		333039
+LTIM		-0.22		5198.35		144972
 
 Bullish_Hammer_15m_N500								 
 ======================= 
