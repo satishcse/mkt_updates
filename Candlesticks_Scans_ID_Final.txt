@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		-2.02		5474.35		299227
+DRREDDY		-2.04		5473.2		300941
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHH		0.03		17957.25		3663
+GODFRYPHLP		-0.4		2168.85		68771
+PGHH		0.04		17960.45		3683
+3MINDIA		-1.02		31482.55		1406
