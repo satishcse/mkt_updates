@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.07		342.9		1818530
-DIVISLAB		-0.71		3738.55		121759
+KOTAKBANK		-0.5		1726.95		3356703
+LT		0.61		3041.95		1515449
+ADANIENT		-0.79		2394.95		1038923
+CIPLA		-0.1		1185.0		1015329
+BRITANNIA		-0.29		4524.0		353254
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AJANTPHARM		-1.08		1780.5		83719
+
