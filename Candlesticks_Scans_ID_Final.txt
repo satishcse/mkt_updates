@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.52		2401.3		1581078
-SBILIFE		-0.92		1293.45		857126
+HDFCLIFE		-0.46		634.5		2828119
+ADANIENT		-0.55		2400.6		1582870
+SBILIFE		-0.93		1293.25		859402
 
 Bullish_Hammer_15m_N500								 
 ======================= 
