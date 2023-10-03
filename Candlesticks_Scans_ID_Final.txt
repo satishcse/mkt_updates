@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.89		127.75		13034439
-CIPLA		-0.14		1184.5		1065567
-BAJAJ-AUTO		-0.27		5050.0		284540
-DRREDDY		-2.04		5473.0		271010
+TATASTEEL		-0.89		127.75		13060443
+TATAMOTORS		-1.51		620.7		4660789
+CIPLA		-0.16		1184.3		1069390
+BAJAJ-AUTO		-0.27		5049.95		286301
+DRREDDY		-2.09		5470.45		271789
 
 Bullish_Hammer_15m_N500								 
 ======================= 
