@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-1.01		127.6		9346258
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CDSL		-1.46		1339.95		208767
-INGERRAND		-1.08		2895.75		4292
-LAXMIMACH		-1.2		14397.95		1043
+KPIL		3.09		651.05		1230422
+MANYAVAR		-1.51		1318.35		10720
