@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.1		1185.0		1046161
-BRITANNIA		-0.38		4520.05		361010
-DRREDDY		-2.04		5472.8		267178
+TATASTEEL		-0.85		127.8		12926775
+ADANIENT		-0.69		2397.2		1201610
+CIPLA		-0.19		1183.95		1054710
+BAJAJ-AUTO		-0.27		5049.95		279519
 
 Bullish_Hammer_15m_N500								 
 ======================= 
