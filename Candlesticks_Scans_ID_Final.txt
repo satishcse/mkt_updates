@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TCS		-0.74		3502.55		640978
+HEROMOTOCO		-1.62		3007.75		160473
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PHOENIXLTD		-0.02		1814		67368
+
