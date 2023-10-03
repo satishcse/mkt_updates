@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-3.78		184.6		13040448
-TATASTEEL		-1.01		127.6		12186658
-NTPC		-1.45		242.0		9321072
-BPCL		-0.76		343.95		1585533
-ASIANPAINT		1.28		3201.65		783911
-BRITANNIA		-0.43		4517.7		339769
+BPCL		-0.79		343.85		1633984
+LT		0.53		3039.45		1473482
+DIVISLAB		-0.66		3740.15		119394
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CARBORUNIV		-0.73		1168.45		39820
+FLUOROCHEM		-1.8		2995		178112
