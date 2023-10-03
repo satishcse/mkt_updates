@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,0.03,598.7,10466511
-ICICIBANK,-1.22,940.3,8281618
-SUNPHARMA,-1.31,1143.5,1498420
-CIPLA,-0.19,1183.85,1351991
-TITAN,1.61,3199.4,767873
+SBIN,0.0,598.55,10483694
+ICICIBANK,-1.24,940.1,8299246
+SUNPHARMA,-1.31,1143.5,1502147
+CIPLA,-0.22,1183.5,1354021
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-nsecode,per_chg,close,volume
-FLUOROCHEM,-3.02,2957.7,338556
+
