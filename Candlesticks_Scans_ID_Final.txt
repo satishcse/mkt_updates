@@ -2,10 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-3.78		184.6		14615640
-SBIN		-0.55		595.25		5815920
-KOTAKBANK		-0.51		1726.9		3382786
-BRITANNIA		-0.37		4520.15		356480
+BRITANNIA		-0.38		4520		357132
 
 Bullish_Hammer_15m_N500								 
 ======================= 
