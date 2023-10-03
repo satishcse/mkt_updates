@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		1.61		3199.6		796925
-DRREDDY		-2.1		5469.95		314954
+TITAN		1.59		3198.9		801897
+DRREDDY		-2.1		5469.6		316395
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SIEMENS		-2.79		3570.0		523039
+SAPPHIRE		-2.12		1422.55		131977
