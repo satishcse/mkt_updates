@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.93		127.7		9698039
+TATASTEEL		-1.12		127.45		9868708
+ICICIBANK		-0.86		943.75		2891980
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBER		-2.36		2906.5		22525
+DRREDDY		-1.58		5498.85		187778
+AMBER		-2.29		2908.65		23125
