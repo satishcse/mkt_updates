@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.27		291.45		2795390
-DRREDDY		-1.26		5516.85		119797
+BHARTIARTL		-0.64		920.5		915437
+DRREDDY		-1.38		5510.0		123063
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASAHIINDIA		0.78		633.0		86089
-SRF		-0.32		2242.2		66580
-SFL		-0.41		1137.0		15263
+ASAHIINDIA		0.62		632.0		86450
+JBMA		-2.31		1340.1		15669
