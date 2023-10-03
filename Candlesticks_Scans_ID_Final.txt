@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.71		632.9		2856752
-ADANIENT		-0.57		2400.15		1672611
-SBILIFE		-1.08		1291.3		874349
-DRREDDY		-2.07		5471.55		292739
+HDFCLIFE		-0.81		632.25		2863826
+ADANIENT		-0.57		2400.15		1673869
+SBILIFE		-1.03		1291.9		875313
+DRREDDY		-2.11		5469.0		293396
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CARBORUNIV		-0.59		1170.0		56389
-BBTC		-2.3		1232.5		43317
-ATUL		-1.09		6968.65		13787
+ATUL		-1.1		6968.35		13920
