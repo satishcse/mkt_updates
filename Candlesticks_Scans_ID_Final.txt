@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-1.21		1144.6		1387904
-BAJAJFINSV		1.07		1556.8		739892
-DRREDDY		-2.03		5473.5		280460
+NTPC		-1.14		242.75		10872399
+COALINDIA		-1.32		291.3		6610076
+TATAMOTORS		-1.25		622.3		4964230
+WIPRO		-0.06		405.8		2163996
+HCLTECH		0.96		1246.7		1727512
+ADANIENT		-0.52		2401.4		1458183
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DALBHARAT		-1.6		2365.85		243372
+
