@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.48		198.8		6227363
-ICICIBANK		-0.91		943.25		4374541
-BPCL		-0.75		344.0		1452841
-CIPLA		-0.1		1184.95		860803
+POWERGRID		-0.43		198.9		6244422
+ICICIBANK		-0.93		943.05		4384196
+BPCL		-0.76		343.95		1458694
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CUMMINSIND		-1.11		1677.4		262539
+
