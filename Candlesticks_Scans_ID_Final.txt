@@ -2,8 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.1		1185		1038288
-BRITANNIA		-0.38		4520		358909
+CIPLA		-0.1		1185.0		1039412
+BRITANNIA		-0.37		4520.3		359215
 
 Bullish_Hammer_15m_N500								 
 ======================= 
