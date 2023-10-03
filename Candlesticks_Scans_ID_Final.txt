@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.97		343.25		1719588
-ADANIPORTS		0.25		827.25		1618253
-LT		0.5		3038.65		1481511
-DIVISLAB		-0.75		3737.1		119901
+BPCL		-0.98		343.2		1760843
+ADANIPORTS		0.22		827.0		1627216
+DIVISLAB		-0.77		3736.15		120934
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ESCORTS		-3.53		3072.65		307569
-FLUOROCHEM		-1.77		2996.05		184742
+SUNTECK		-1.16		446.05		205223
