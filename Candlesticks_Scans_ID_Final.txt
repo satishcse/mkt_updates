@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TCS		-1.14		3488.5		680841
-JSWSTEEL		-1.09		771.1		340279
-HEROMOTOCO		-1.56		3009.6		168272
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BOSCHLTD		-1.73		18690		11680
+CDSL		-1.46		1339.95		208767
+INGERRAND		-1.08		2895.75		4292
+LAXMIMACH		-1.2		14397.95		1043
