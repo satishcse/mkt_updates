@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.68		1178.05		186039
+NTPC		-0.24		244.95		3130025
+DRREDDY		-0.96		5533.25		115062
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GODFRYPHLP		0.38		2185.8		41839
-KIRLFER		-0.59		477.45		21263
-PRINCEPIPE		0.02		698.9		13616
+
