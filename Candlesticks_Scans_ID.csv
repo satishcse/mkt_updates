@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-0.43,198.9,6194286
-ICICIBANK,-0.98,942.6,4300711
-BPCL,-0.75,344.0,1438674
-CIPLA,-0.11,1184.85,857588
+POWERGRID,-0.48,198.8,6227363
+ICICIBANK,-0.91,943.25,4374541
+BPCL,-0.75,344.0,1452841
+CIPLA,-0.1,1184.95,860803
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CUMMINSIND,-1.11,1677.4,262539
