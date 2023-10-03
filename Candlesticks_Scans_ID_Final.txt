@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.26		242.45		11184163
-COALINDIA		-1.29		291.4		6766695
-ADANIENT		-0.55		2400.7		1576284
-CIPLA		-0.27		1183.0		1168765
-HEROMOTOCO		-1.0		3026.55		307462
-DRREDDY		-2.07		5471.15		286522
+NTPC		-1.32		242.3		11203146
+COALINDIA		-1.34		291.25		6773699
+ADANIENT		-0.56		2400.5		1578111
+CIPLA		-0.24		1183.3		1174694
+HEROMOTOCO		-1.02		3025.95		307749
+DRREDDY		-2.07		5471.55		286774
 
 Bullish_Hammer_15m_N500								 
 ======================= 
