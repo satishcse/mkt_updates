@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.07		598.95		10699940
-ICICIBANK		-1.27		939.8		8413718
-TITAN		1.62		3199.95		782054
+SBIN		0.01		598.6		10715392
+ICICIBANK		-1.26		939.95		8423769
+TITAN		1.62		3199.7		783478
 
 Bullish_Hammer_15m_N500								 
 ======================= 
