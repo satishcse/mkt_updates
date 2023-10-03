@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.13		1038.0		4845041
-ADANIENT		-1.38		2380.6		748492
-BRITANNIA		-0.48		4515.15		304308
+AXISBANK		0.15		1038.25		4882805
+HINDALCO		-2.69		479.4		2823870
+ADANIENT		-1.37		2380.75		750648
+BRITANNIA		-0.49		4514.7		313310
 
 Bullish_Hammer_15m_N500								 
 ======================= 
