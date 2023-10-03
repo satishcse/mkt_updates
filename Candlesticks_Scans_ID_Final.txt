@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-1.25		1144.15		1386027
-BAJAJFINSV		1.04		1556.3		739129
-DRREDDY		-2.05		5472.6		280179
+SUNPHARMA		-1.21		1144.6		1387904
+BAJAJFINSV		1.07		1556.8		739892
+DRREDDY		-2.03		5473.5		280460
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DALBHARAT		-1.6		2365.85		243372
