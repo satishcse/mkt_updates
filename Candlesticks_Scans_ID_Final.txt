@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.66		472		1942637
-BAJFINANCE		-1.2		7872		741814
+TECHM		-2.03		1191.55		1428912
+DRREDDY		-0.89		5412.85		255640
+NESTLEIND		1.71		22697.0		137621
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AUROPHARMA		-3.27		878.9		1251574
-VGUARD		-2.03		296.9		195095
-ABB		-1.47		4032.0		152062
-GRINFRA		-0.74		1192.0		7782
+
