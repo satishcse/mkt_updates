@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HINDALCO		-1.82		471.2		2265651
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZENSARTECH		-1.72		520.5		491622
-BDL		-3.93		981.05		423467
+BDL		-3.92		981.15		425850
+BHARATFORG		-2.28		1059.0		306524
+OFSS		-1.75		4015.8		40406
