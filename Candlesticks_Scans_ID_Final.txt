@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-2.03		1191.55		1428912
-DRREDDY		-0.89		5412.85		255640
-NESTLEIND		1.71		22697.0		137621
+TECHM		-2.08		1190.95		1430570
+DRREDDY		-0.85		5415.45		255942
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+OFSS		-1.47		4026.9		29531
