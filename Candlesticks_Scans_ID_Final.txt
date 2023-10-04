@@ -1,15 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-RELIANCE		-1.1		2319.25		4361456
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JYOTHYLAB		-0.42		359.0		9653234
-ASIANPAINT		0.22		3168.0		1206027
-SONATSOFTW		-1.51		1041.85		251621
-SUPREMEIND		-2.51		4018.0		197269
-PATANJALI		0.14		1240.9		83871
-LUXIND		-0.61		1482.85		19870
+ALKEM		-1.78		3510		52247
