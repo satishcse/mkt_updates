@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.79		183.15		5398453
+ONGC		-0.76		183.2		5412374
+HDFCLIFE		-0.57		629.95		1047461
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-1.39		2624.0		248986
-CCL		-1.48		651.05		135963
-RADICO		-1.87		1178.0		112310
-LTIM		-1.44		5137.85		102417
-3MINDIA		-1.7		30843.75		961
+INDIANB		-1.09		436.5		1756314
+JINDALSTEL		-3.23		676.95		1453698
+BAJFINANCE		-1.2		7871.8		778823
+HDFCAMC		-1.34		2625.4		250039
+TATACHEM		-1.52		1009.5		243352
+RADICO		-1.88		1177.85		112426
+LTIM		-1.36		5141.7		103227
