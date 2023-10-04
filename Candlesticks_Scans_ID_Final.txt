@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		-1.09		3684		173138
+ITC		-0.82		436.15		10666417
+TECHM		-1.33		1200.0		1740402
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAXHEALTH		-4.31		566.7		1308843
-SYNGENE		-2.69		788.85		420222
-INDIGO		-1.56		2381.95		418750
+
