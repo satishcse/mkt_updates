@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-1.97		4917.7		241750
+KOTAKBANK		-0.13		1724.85		6097480
+HDFCLIFE		-1.21		625.9		2267586
+BAJAJ-AUTO		-2.1		4911.0		244939
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ITI		-3.63		193.7		2263179
-ADANIENSOL		0.09		808.45		688234
-SAPPHIRE		-0.65		1412.75		22203
-ROSSARI		-0.98		815.85		14580
-PGHH		-0.16		17758.05		10846
+CYIENT		-2.0		1666.6		394226
+KPRMILL		-3.97		746.95		222612
+ROSSARI		-0.98		815.8		14638
+PGHH		0.05		17794.7		10876
