@@ -2,9 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.95		197.65		7001185
-SUNPHARMA		-2.26		1115.65		979246
-APOLLOHOSP		-2.01		5015.95		294345
+SUNPHARMA		-2.24		1115.9		981706
 
 Bullish_Hammer_15m_N500								 
 ======================= 
