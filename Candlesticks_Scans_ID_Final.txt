@@ -1,8 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-2.07		125.35		17037972
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INDIGOPNTS		-1.06		1502.75		9860
