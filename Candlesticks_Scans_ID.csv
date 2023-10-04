@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-1.1,197.35,6308016
-HINDALCO,-1.73,471.65,1922324
-BAJFINANCE,-0.96,7890.85,729838
+POWERGRID,-1.0,197.55,6344098
+HINDALCO,-1.65,472.05,1926363
+BAJFINANCE,-0.94,7892.95,731752
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-VGUARD,-2.34,295.95,191671
+CIPLA,-1.68,1162.95,564658
+VGUARD,-2.03,296.9,193357
+JBMA,-2.81,1284.8,48862
+GRINFRA,-0.95,1189.45,7739
