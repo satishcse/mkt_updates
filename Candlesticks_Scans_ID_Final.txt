@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-2.58		1398.4		3236268
-UPL		-0.56		603.6		1665773
+INDUSINDBK		-2.74		1396.1		3241489
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CENTURYTEX		-4		1068.95		340725
