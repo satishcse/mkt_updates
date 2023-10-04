@@ -2,14 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-1.7		1122		718863
+SUNPHARMA		-1.7		1122		729446
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALRAMCHIN		-1.01		426.65		1313898
-BAJFINANCE		-0.96		7890.95		711020
-HDFCAMC		-1.28		2627.05		223633
-NAZARA		-1.22		824.0		81306
-APLLTD		-0.72		785.05		73209
-LUXIND		-0.84		1470.7		9185
+BAJFINANCE		-0.89		7896.55		713608
+VARROC		-1.17		498.95		606829
+LUPIN		-1.68		1154.5		312423
+BAJAJ-AUTO		-1.42		4945.0		145313
+ABB		-1.44		4032.95		136458
+APLLTD		-0.58		786.15		74015
+JUBLPHARMA		-0.92		432.0		34265
+ZFCVINDIA		-1.29		15237.05		2557
