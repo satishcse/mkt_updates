@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.84		183.05		6887374
+ONGC		-0.87		183		6900746
+BAJAJ-AUTO		-1.76		4928		193973
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGO		-1.5		2383.55		416560
+INDIGO		-1.49		2383.7		417024
+TITAN		-1.21		3157.5		340669
+PERSISTENT		-1.46		5644.7		306119
 POWERINDIA		-1.4		3990.75		16773
