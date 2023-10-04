@@ -2,16 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.34		625.05		2296423
-BAJAJ-AUTO		-1.99		4916.55		247977
+HDFCLIFE		-1.28		625.45		2305726
+BAJAJ-AUTO		-2.0		4916.0		248437
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ITI		-3.58		193.8		2287069
-NAM-INDIA		-0.49		333.5		911299
-CYIENT		-1.91		1668.15		397506
-KPRMILL		-3.92		747.35		225122
-CAMS		-2.69		2449.75		59796
-ROSSARI		-0.96		816.0		14975
-PGHH		-0.08		17771.75		10988
+ITI		-3.36		194.25		2308485
+CYIENT		-1.99		1666.75		400042
+CAMS		-2.49		2454.8		60035
+ROSSARI		-0.93		816.25		15096
+PGHH		0.02		17790.0		11006
