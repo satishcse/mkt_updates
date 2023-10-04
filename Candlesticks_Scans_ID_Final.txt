@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.07		1524.2		19810063
+HDFCBANK		1.08		1524.35		19823562
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRITURBINE		-1.32		423.75		644225
+DCMSHRIRAM		-0.89		1078.9		103752
