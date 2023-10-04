@@ -6,9 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-1.61		1925.15		1416918
-GSPL		-0.54		282.95		190634
-UBL		-0.93		1543.45		51818
-SKFINDIA		-1.5		5198.1		25747
-POWERINDIA		-0.75		4016.8		13551
-HONAUT		-1.57		39201.9		1042
+ABB		-2.07		4007.25		198366
+GSPL		-0.58		282.85		190914
+POWERINDIA		-0.75		4016.8		13553
