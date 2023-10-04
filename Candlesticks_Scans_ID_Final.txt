@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-1.22		5307.6		223051
-MAHLIFE		-2.04		537.7		89220
-ABBOTINDIA		-0.99		22892.95		2183
+TANLA		-0.92		1036.95		101848
+MAHLIFE		-1.69		539.65		90398
+DCMSHRIRAM		-0.78		1080.15		82355
+RHIM		-0.52		730.1		41858
