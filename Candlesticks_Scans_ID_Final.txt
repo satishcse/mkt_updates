@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.79		183.15		7364315
-INDUSINDBK		-2.71		1396.55		3191892
-HINDALCO		-1.16		474.4		2643975
-TECHM		-1.33		1200.0		1878799
-HDFCLIFE		-1.27		625.5		1804182
-BAJAJ-AUTO		-1.76		4928.0		207303
+TATASTEEL		-2.23		125.15		26462653
+ONGC		-0.79		183.15		7392414
+INDUSINDBK		-2.67		1397.1		3199378
+HINDALCO		-1.19		474.25		2646595
+TECHM		-1.33		1200.0		1895634
+HDFCLIFE		-1.28		625.45		1815606
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-0.9		1604.1		113155
+BATAINDIA		-0.95		1603.2		113158
