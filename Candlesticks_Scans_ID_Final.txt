@@ -2,9 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.89		182.95		6835464
+ONGC		-0.87		183.0		6850595
+ADANIPORTS		-0.84		824.45		3244879
+HINDALCO		-1.64		472.1		2357097
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AJANTPHARM		-1.83		1758.95		55956
+BAJFINANCE		-1.69		7832.75		968771
+INDIGO		-1.51		2383.15		414030
+AJANTPHARM		-1.83		1759.0		55992
+BAJAJHLDNG		-2.07		6869.1		18098
+POWERINDIA		-1.41		3990.05		16717
