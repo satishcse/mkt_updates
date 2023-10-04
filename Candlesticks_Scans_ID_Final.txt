@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-2.47		1399.95		2418133
-MARUTI		-1.81		10159.65		198893
+POWERGRID		-1.03		197.5		6224622
+HINDALCO		-1.51		472.7		1894339
+UPL		-0.72		602.65		779581
+BAJFINANCE		-0.93		7893.85		725292
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JBMA		-2.8		1285		46794
