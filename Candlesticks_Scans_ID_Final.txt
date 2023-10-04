@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-1.33		1200.0		1748053
-JSWSTEEL		-1.82		756.2		1319704
+TECHM		-1.42		1198.9		1750760
+JSWSTEEL		-1.84		756.1		1321132
+TATACONSUM		-1.38		859.85		456577
 
 Bullish_Hammer_15m_N500								 
 ======================= 
