@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZENSARTECH		-1.68		520.7		492439
-BDL		-3.82		982.2		426758
-OFSS		-1.72		4016.8		40427
+ZENSARTECH		-1.66		520.8		493776
+BDL		-3.9		981.35		427402
