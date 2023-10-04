@@ -2,16 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-2.24		1115.85		795899
-SBILIFE		-1.25		1276.25		264123
+SUNPHARMA		-2.22		1116.1		802367
+SBILIFE		-1.27		1276.0		269844
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VARROC		-1.21		498.75		611531
-CANFINHOME		-1.8		751.6		234511
-TORNTPOWER		-1.97		733.15		79369
-SONATSOFTW		-1.19		1028.8		58028
-WESTLIFE		-1.15		957.6		26953
-ALKYLAMINE		-0.98		2262.15		16343
+CDSL		-1.65		1314.95		254345
+CANFINHOME		-1.8		751.6		234874
+ALKYLAMINE		-0.92		2263.4		16355
 ZFCVINDIA		-1.46		15210.6		2716
