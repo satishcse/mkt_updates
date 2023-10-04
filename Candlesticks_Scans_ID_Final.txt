@@ -6,4 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		-0.75		4016.75		13550
+GSPL		-0.53		283.0		190548
+BAJAJ-AUTO		-1.79		4926.65		169209
+SKFINDIA		-1.53		5196.8		25714
+SUNDRMFAST		-1.99		1261.95		15910
+POWERINDIA		-0.75		4016.8		13551
