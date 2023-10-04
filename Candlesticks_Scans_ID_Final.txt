@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.09		1524.5		19720639
+HDFCBANK		1.11		1524.8		19745521
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DATAPATTNS		-2.55		2071		81134
+DCMSHRIRAM		-1.17		1075.9		103728
+BAJAJHLDNG		-2.05		6870.15		17629
