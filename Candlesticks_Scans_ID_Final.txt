@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.3		125.05		25769406
-ONGC		-0.81		183.1		7254813
-INDUSINDBK		-2.63		1397.6		3155680
-HDFCLIFE		-1.34		625.05		1775725
-JSWSTEEL		-1.8		756.4		1355822
-BAJAJ-AUTO		-1.76		4928.0		205586
+TATASTEEL		-2.27		125.1		25952327
+ONGC		-0.84		183.05		7266185
+INDUSINDBK		-2.66		1397.2		3164046
+HDFCLIFE		-1.34		625.05		1785016
+JSWSTEEL		-1.79		756.5		1358331
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BATAINDIA		-0.95		1603.3		113055
+
