@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.23		926.4		1954519
-KOTAKBANK		1.16		1742.0		1843474
-ADANIPORTS		-0.47		820.75		1160504
+BHARTIARTL		0.25		926.6		1961933
+KOTAKBANK		1.13		1741.55		1845457
+ADANIPORTS		-0.5		820.5		1162621
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SCHAEFFLER		-0.53		3199.4		43801
+SCHAEFFLER		-0.54		3199		43811
