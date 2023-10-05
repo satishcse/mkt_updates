@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.64		343.55		2867589
-BAJFINANCE		0.29		7876.45		642935
+BAJFINANCE		0.23		7872.5		643575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GESHIP		-1.27		829.8		305872
+WHIRLPOOL		-0.63		1640.65		21304
