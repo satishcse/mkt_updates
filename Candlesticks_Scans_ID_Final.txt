@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.75		1115.4		1071807
-ADANIPORTS		-0.05		824.15		909222
+SUNPHARMA		-0.75		1115.4		1077536
+ADANIPORTS		-0.07		824.05		913931
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OBEROIRLTY		0.52		1126.95		163031
-BBTC		-0.1		1235.8		16197
+TANLA		-0.78		1022.4		145112
+BBTC		-0.04		1236.5		16343
