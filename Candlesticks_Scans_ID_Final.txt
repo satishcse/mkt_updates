@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		1.08		3204.25		735699
+ASIANPAINT		1.05		3203.2		736443
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HDFCAMC		-0.2		2654.45		252922
-NH		-0.29		1082.35		157289
+
