@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		1.05		3203.2		739084
+ASIANPAINT		1.08		3204.1		740038
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAJARIACER		-0.89		1329.7		31648
+KAJARIACER		-0.9		1329.55		31665
