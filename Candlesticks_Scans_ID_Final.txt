@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-0.5		5287		143150
+POLYCAB		-0.51		5286.05		143778
+KPRMILL		0.27		748.95		70958
