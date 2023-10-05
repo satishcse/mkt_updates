@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAMTRDVR		0.5		415.3		1604196
-TORNTPOWER		0.14		733.9		49498
+TATAMTRDVR		0.45		415.1		1607428
+MAXHEALTH		-0.27		568.65		364048
+SYNGENE		-0.56		787.25		171929
+DELHIVERY		0.38		411.55		125437
+TORNTPOWER		0.19		734.25		49707
