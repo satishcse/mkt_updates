@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		1.61		3217.5		827180
+TITAN		1.56		3215.9		828579
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-0.25		1300.0		102905
-GLAXO		-0.77		1548.85		16556
+SYNGENE		-0.51		787.65		171331
