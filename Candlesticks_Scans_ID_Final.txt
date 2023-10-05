@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		1.08		940.05		6024957
-ONGC		0.27		183.25		5377513
-BPCL		0.56		343.25		2347354
+ICICIBANK		1.08		940.05		6039573
+ONGC		0.3		183.3		5394573
+BPCL		0.63		343.5		2352399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JYOTHYLAB		-0.53		359.95		563140
-NH		-0.05		1085.0		131334
+NH		-0.05		1084.95		131462
