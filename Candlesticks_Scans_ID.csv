@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,0.22,183.15,5517191
-BPCL,0.56,343.25,2379658
-ADANIPORTS,0.02,824.75,1012992
+ONGC,0.27,183.25,5520525
+BPCL,0.59,343.35,2387495
+ADANIPORTS,-0.01,824.5,1017142
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+GESHIP,-0.21,838.75,221191
+PHOENIXLTD,-1.87,1778.45,58558
