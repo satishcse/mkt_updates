@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		1.41		3587.55		1825515
+TCS		1.39		3587		1826979
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CARBORUNIV		-1.0		1173.45		38552
+CARBORUNIV		-0.96		1173.85		38674
 POWERINDIA		-0.35		3983.65		6548
