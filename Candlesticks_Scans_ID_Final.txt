@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.74		1115.45		1389472
+SUNPHARMA		-0.77		1115.1		1392736
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DELHIVERY		0.45		411.85		136482
-METROPOLIS		-1.36		1419.95		95709
-ALKEM		-0.14		3471.3		75650
-SWSOLAR		-0.62		344.0		75455
-TORNTPOWER		0.16		734.05		50097
+DELHIVERY		0.45		411.85		136614
+METROPOLIS		-1.36		1419.9		95862
+TORNTPOWER		0.09		733.5		50160
