@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.36		821.65		1139845
+ICICIBANK		1.2		941.25		6366425
+ADANIPORTS		-0.4		821.3		1144102
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SCHAEFFLER		-0.51		3200		43606
+GRASIM		-0.36		1889.1		211648
+SCHAEFFLER		-0.51		3200.0		43623
