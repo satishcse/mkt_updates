@@ -1,13 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		-1.21		196.6		9904332
-SUNPHARMA		-0.78		1115.05		1401233
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATAMTRDVR		0.5		415.3		1736883
-DELHIVERY		0.43		411.75		136811
-ALKEM		-0.1		3472.55		75745
+
