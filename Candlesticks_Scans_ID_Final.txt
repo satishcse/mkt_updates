@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.48		196.05		8200701
-BPCL		0.64		343.55		2631125
-SBILIFE		0.1		1271.8		608438
-DIVISLAB		-0.75		3679.9		212980
+BPCL		0.66		343.6		2634033
+DIVISLAB		-0.77		3679.3		213048
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEG		-0.97		1773.9		126114
+OBEROIRLTY		-2.57		1092.3		523026
+HEG		-0.96		1774.1		126520
