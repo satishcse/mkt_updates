@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.25		623.95		3043801
-M&M		1.05		1538.05		1441090
+HDFCLIFE		-0.25		623.95		3053623
+M&M		1.03		1537.75		1445957
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-0.32		1862.45		115225
-SCHAEFFLER		-0.82		3190.0		51589
+ADANIGREEN		-0.65		965.6		289438
+SCHAEFFLER		-0.82		3190.2		52016
