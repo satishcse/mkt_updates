@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.03		824.35		883270
+ADANIPORTS		-0.03		824.35		892277
+BAJAJFINSV		1.12		1549.65		409897
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CSBBANK		-0.2		348.8		157359
+ZFCVINDIA		-0.91		15025.25		2240
