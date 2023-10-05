@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1		232.8		19554082
+NTPC		-1.04		232.7		19576491
+HDFCLIFE		-0.25		623.95		2883371
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AIAENG		-1.41		3455.15		61148
+ASTRAL		-0.3		1862.8		108726
+AIAENG		-1.32		3458.55		61283
