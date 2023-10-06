@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.06		3591.35		540021
+TCS		0.06		3591.5		542769
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		0.54		5436.3		129029
-SAPPHIRE		0.45		1429.8		55867
+SAPPHIRE		0.46		1429.9		55954
 TORNTPOWER		-0.01		732.55		53745
-SFL		0.08		1083.95		17059
-TATAELXSI		0.24		7274.7		13336
+SFL		0.09		1084.0		17084
+APLLTD		-0.24		774.0		13485
 KIMS		-0.28		1924.0		7190
-GILLETTE		-0.5		6250.0		5876
+GILLETTE		-0.47		6252.05		5899
