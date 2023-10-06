@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.05		196.5		5916927
-TATAMOTORS		0.27		621.25		4440838
-TECHM		1.36		1222.05		696316
-TITAN		1.64		3269.1		471730
+POWERGRID		-0.08		196.45		5974092
+TATAMOTORS		0.25		621.15		4448293
+TECHM		1.36		1221.95		697699
+TITAN		1.63		3268.8		472351
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DRREDDY		0.24		5420		178028
