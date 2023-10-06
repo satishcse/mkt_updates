@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		1.65		874.35		748464
-DRREDDY		0.2		5417.9		214466
+TATACONSUM		1.63		874.25		749344
+DRREDDY		0.22		5419.2		214562
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MEDPLUS		-0.13		760.6		39680
-BAYERCROP		-0.03		5287.95		5668
+MEDPLUS		-0.13		760.6		39717
+BAYERCROP		0.02		5290.75		5720
