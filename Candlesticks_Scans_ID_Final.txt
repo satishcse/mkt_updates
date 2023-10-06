@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.55		181.2		2358554
-ADANIPORTS		0.7		831.0		646424
-LT		-0.1		3093.05		643200
-NESTLEIND		0.27		22980.7		16147
+BPCL		0.39		345.8		636851
+TCS		0.23		3597.5		512412
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		0.36		3398.3		38137
+VIJAYA		-1.55		498.85		47544
 GALAXYSURF		-0.41		2640.7		1824
