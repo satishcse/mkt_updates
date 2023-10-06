@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.32		234.6		4089265
-RELIANCE		0.18		2318.2		1522553
-DRREDDY		0.23		5419.7		200236
+RELIANCE		0.18		2318.3		1527481
+APOLLOHOSP		0.23		5058.85		343495
+DRREDDY		0.23		5419.85		200360
 
 Bullish_Hammer_15m_N500								 
 ======================= 
