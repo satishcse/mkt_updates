@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.19		2318.6		1561833
-APOLLOHOSP		0.22		5058.25		345644
+ONGC		-0.41		181.45		3785790
+WIPRO		0.27		407.9		1582858
+GRASIM		0.75		1904.4		313788
+MARUTI		0.91		10302.75		203273
+DRREDDY		0.23		5419.9		201730
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SUNDRMFAST		-1.24		1239.75		22544
+
