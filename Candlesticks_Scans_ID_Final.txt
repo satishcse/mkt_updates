@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.32		234.6		3926245
-ONGC		-0.47		181.35		3609433
-SUNPHARMA		0.94		1129.6		579462
-EICHERMOT		0.22		3451.05		134707
+NTPC		0.32		234.6		3941891
+ONGC		-0.47		181.35		3614592
+EICHERMOT		0.22		3451.05		134774
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-0.22		2390.45		21628
-ZYDUSWELL		-0.33		1562.25		11732
+MASTEK		-0.24		2390.0		21664
+ZYDUSWELL		-0.23		1563.75		11747
+VINATIORGA		-0.01		1860.9		11240
