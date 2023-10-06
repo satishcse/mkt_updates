@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		1.26		765.0		1719091
-UPL		1.03		610.55		1079683
-DRREDDY		0.23		5419.7		213784
+UPL		1.04		610.6		1080882
+DRREDDY		0.22		5419.0		214100
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MEDPLUS		-0.15		760.45		39632
-BAYERCROP		-0.1		5284.5		5663
+MEDPLUS		-0.14		760.5		39642
