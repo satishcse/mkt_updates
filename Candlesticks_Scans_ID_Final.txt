@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.18		2318.2		1532126
-APOLLOHOSP		0.22		5058.35		343747
-DRREDDY		0.23		5419.9		200404
+SBIN		0.52		595.25		5595181
+RELIANCE		0.19		2318.5		1540832
+APOLLOHOSP		0.22		5058.3		344197
+GRASIM		0.69		1903.15		312579
+DRREDDY		0.23		5419.6		200679
 
 Bullish_Hammer_15m_N500								 
 ======================= 
