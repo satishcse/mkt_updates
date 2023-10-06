@@ -2,8 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		0.91		10302.9		226599
-EICHERMOT		0.2		3450.4		162672
+MARUTI		0.91		10302.75		228262
+EICHERMOT		0.19		3450.0		162845
 
 Bullish_Hammer_15m_N500								 
 ======================= 
