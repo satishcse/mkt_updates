@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.69		180.95		2841499
-ICICIBANK		-0.05		940.35		2380256
+POWERGRID		-0.05		196.5		5916927
+TATAMOTORS		0.27		621.25		4440838
+TECHM		1.36		1222.05		696316
+TITAN		1.64		3269.1		471730
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CEATLTD		0.64		2124.05		29749
-KIMS		-0.29		1923.75		9298
+
