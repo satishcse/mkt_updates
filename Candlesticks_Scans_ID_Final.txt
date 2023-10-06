@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.52		125.9		13879385
-INFY		1.18		1480.65		1893785
-RELIANCE		0.2		2318.75		1492173
-BAJAJ-AUTO		0.37		5029.65		142694
+TATASTEEL		0.56		125.95		13902318
+INFY		1.16		1480.45		1899430
+RELIANCE		0.18		2318.25		1499900
+SUNPHARMA		0.97		1129.9		598731
+DRREDDY		0.23		5419.85		199326
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CERA		-0.76		8229.75		4437
+CERA		-0.72		8233.45		4450
