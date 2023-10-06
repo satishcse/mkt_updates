@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.57		623.15		7849451
-SUNPHARMA		0.8		1128.0		1043292
+TATAMOTORS		0.57		623.15		7889123
+SUNPHARMA		0.59		1125.65		1055073
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROBRAND		-3.54		1140.7		202939
-DEEPAKNTR		0.25		2109.05		154663
-CARBORUNIV		-1.88		1169.0		102482
-INDIAMART		0.29		2869.95		69605
-GILLETTE		-1.21		6206.0		13669
+DEEPAKNTR		0.23		2108.55		155389
+TATAINVEST		-2.27		3307.35		113106
+GILLETTE		-1.17		6208.0		13707
