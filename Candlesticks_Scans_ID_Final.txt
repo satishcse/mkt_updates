@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.21		1005.4		3099859
-WIPRO		0.23		407.75		1817559
+AXISBANK		0.21		1005.35		3103424
+WIPRO		0.21		407.65		1820779
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-METROBRAND		-2.92		1148		142190
+
