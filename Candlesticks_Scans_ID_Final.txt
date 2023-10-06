@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.69		623.85		3238119
-WIPRO		0.32		408.1		634819
-INFY		0.33		1468.25		584785
-HCLTECH		0.68		1243.9		570413
-NESTLEIND		0.33		22995.3		12686
+TATAMOTORS		0.61		623.4		3391682
+BPCL		0.04		344.6		568205
+MARUTI		0.85		10297.1		103154
+NESTLEIND		0.35		22999.35		14417
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ANURAS		-0.47		894.45		39443
+AJANTPHARM		-0.63		1747.45		28364
+TIINDIA		0.04		3007.1		15502
