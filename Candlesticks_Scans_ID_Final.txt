@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		1.49		873.0		760803
-DRREDDY		0.2		5417.8		215023
+TATACONSUM		1.51		873.15		762190
+DRREDDY		0.15		5415.4		215171
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PVRINOX		-0.39		1698.95		134620
