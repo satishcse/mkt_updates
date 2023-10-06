@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.04		940.45		3533114
-WIPRO		0.15		407.4		1701349
-APOLLOHOSP		0.22		5057.95		350513
-GRASIM		0.68		1902.95		317119
-MARUTI		0.83		10294.55		210901
-DRREDDY		0.23		5419.5		203215
-DIVISLAB		0.6		3719.2		150232
+WIPRO		0.14		407.35		1703018
+APOLLOHOSP		0.22		5058.35		350944
+GRASIM		0.77		1904.65		317822
+MARUTI		0.88		10299.85		211390
+DRREDDY		0.22		5419.0		203388
+DIVISLAB		0.62		3720.0		150760
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBMA		0.1		1297.45		50204
+JBMA		-0.02		1295.9		50243
