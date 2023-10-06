@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.23		621.05		4471206
-TECHM		1.17		1219.7		705852
-TITAN		1.56		3266.8		474490
+TATAMOTORS		0.26		621.2		4477212
+INFY		0.93		1477.05		1084255
+TECHM		1.16		1219.6		710629
+TITAN		1.53		3265.85		475706
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		0.37		1508.55		14243
-GALAXYSURF		-0.86		2628.75		5967
+DRREDDY		0.24		5420		178493
