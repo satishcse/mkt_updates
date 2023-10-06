@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.69		2502.05		318638
+HINDUNILVR		-0.7		2501.85		320007
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ESCORTS		-1.17		3205.0		304326
-SIEMENS		-0.04		3518.2		178115
+SIEMENS		-0.05		3517.9		178209
