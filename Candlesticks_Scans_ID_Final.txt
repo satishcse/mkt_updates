@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.26		234.45		3640811
-ASIANPAINT		-0.1		3203.0		523730
+NTPC		0.26		234.45		3673736
+ADANIPORTS		0.66		830.65		1191884
+INDUSINDBK		1.65		1425.0		872748
+ASIANPAINT		-0.07		3204.1		524494
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SFL		0.01		1083.2		24308
+ESCORTS		-1.3		3200.85		320375
+SONATSOFTW		0.09		1037.0		32315
+SFL		0.1		1084.1		24326
