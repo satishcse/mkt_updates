@@ -1,18 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TCS		0.05		3591.15		543997
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSLIFE		0.5		608.1		231462
-GPIL		-1.28		596.55		197064
-SAPPHIRE		0.45		1429.85		55961
-BEML		-0.74		2294.3		51943
-FIVESTAR		-0.54		720.65		46105
-SFL		0.09		1084.0		17096
-TATAELXSI		0.24		7274.75		13375
-KIMS		-0.28		1924.0		7195
-GILLETTE		-0.47		6252.05		5899
+FINEORG		-0.03		4940.85		4320
