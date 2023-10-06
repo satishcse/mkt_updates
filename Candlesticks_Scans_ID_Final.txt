@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.27		1539.9		2688086
+TATAMOTORS		0.69		623.85		3238119
+WIPRO		0.32		408.1		634819
+INFY		0.33		1468.25		584785
+HCLTECH		0.68		1243.9		570413
+NESTLEIND		0.33		22995.3		12686
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SRF		-0.54		2249		53582
+
