@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.3		234.55		3975716
-ONGC		-0.47		181.35		3627222
-SUNPHARMA		0.97		1130.0		589363
-BAJAJ-AUTO		0.36		5029.3		142359
+NTPC		0.3		234.55		3992468
+ONGC		-0.47		181.35		3634437
+SUNPHARMA		0.97		1129.95		591948
+BAJAJ-AUTO		0.34		5028.0		142470
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDALSAW		-2.61		343.4		465656
-ZYDUSWELL		-0.15		1565.0		11985
-VINATIORGA		-0.02		1860.75		11275
+JINDALSAW		-2.58		343.5		466352
+MASTEK		-0.24		2389.85		21700
+VINATIORGA		-0.02		1860.75		11347
