@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		2.28		1433.85		1780793
-TECHM		1.09		1218.8		1299529
+LT		-0.07		3094.0		1670529
+TECHM		0.92		1216.7		1323556
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TRITURBINE		-1.59		414.55		233953
+SHOPERSTOP		-0.88		673.95		52484
