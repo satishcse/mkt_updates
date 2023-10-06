@@ -1,12 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-M&M		0.48		1545.4		398481
-DIVISLAB		0.5		3715.65		22165
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		0.27		3980.0		3174
-HONAUT		-0.18		39152.3		303
+ZENSARTECH		-0.81		531.9		137358
+SWSOLAR		-1.49		333.0		89065
+APLAPOLLO		-0.11		1615.0		64382
+BBTC		-0.56		1227.25		5418
