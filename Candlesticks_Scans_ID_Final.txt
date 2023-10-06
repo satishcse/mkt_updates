@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.39		345.8		636851
-TCS		0.23		3597.5		512412
+TCS		0.18		3595.85		516134
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIJAYA		-1.55		498.85		47544
-GALAXYSURF		-0.41		2640.7		1824
+TORNTPOWER		-0.37		729.95		37822
