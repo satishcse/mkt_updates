@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.85		183.0		5092578
-AXISBANK		-0.52		995.75		3426668
-NTPC		-0.57		234.2		2869479
+ONGC		0.88		183.05		5135153
+NTPC		-0.45		234.5		2893015
 
 Bullish_Hammer_15m_N500								 
 ======================= 
