@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-1.57		584.95		4913723
-BPCL		-2.25		339.4		2587620
-SBILIFE		-0.2		1280.35		310757
-APOLLOHOSP		-0.28		5046.3		121577
+SBIN		-1.61		584.7		4925658
+BPCL		-2.29		339.25		2594867
+SBILIFE		-0.26		1279.65		311065
+APOLLOHOSP		-0.22		5048.9		121608
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+VGUARD		-2.19		285.4		152742
+CARBORUNIV		-3.18		1131.65		70338
+DCMSHRIRAM		-2.02		1066.95		34060
