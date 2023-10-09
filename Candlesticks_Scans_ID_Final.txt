@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.07		194.95		2491026
-HINDALCO		-0.34		471.0		895132
-LT		-0.82		3068.4		465384
-DIVISLAB		0.01		3722.0		201340
-SBILIFE		0.07		1283.85		177686
+AXISBANK		-0.25		998.45		3713148
+POWERGRID		-0.99		195.1		2544059
+UPL		-0.69		607.95		902335
+LT		-0.89		3066.1		471790
+DIVISLAB		0.03		3723.1		201828
+SBILIFE		0.08		1284.0		180158
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-1.47		1610.65		761755
+BAJAJFINSV		-1.51		1610		775155
