@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.06		8190.85		31326
+COALINDIA		-0.28		287.0		1488836
+ULTRACEMCO		-0.04		8192.45		31392
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+FLUOROCHEM		-1.49		2803.0		27341
 VMART		-1.9		1959.85		13076
