@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-2.23		339.45		2838662
+BPCL		-2.23		339.45		2848812
+SUNPHARMA		-0.3		1123.95		456378
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GMMPFAUDLR		-2.03		1779.2		32657
+ALKYLAMINE		-1.97		2263.9		14611
