@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,-1.57,584.95,4899256
-BPCL,-2.23,339.45,2573400
-SBILIFE,-0.2,1280.4,310391
-APOLLOHOSP,-0.22,5049.25,121456
+SBIN,-1.58,584.85,4906413
+BPCL,-2.23,339.45,2580354
+SBILIFE,-0.2,1280.4,310507
+APOLLOHOSP,-0.22,5049.0,121510
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+VGUARD,-2.16,285.5,152332
