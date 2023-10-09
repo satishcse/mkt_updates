@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,-1.28,1514.35,5665542
-ICICIBANK,-0.65,939.1,4633847
-WIPRO,-0.13,407.3,2295655
+HDFCBANK,-1.27,1514.55,5675878
+ICICIBANK,-0.67,938.9,4639581
+WIPRO,-0.16,407.2,2296448
+UPL,-0.85,606.95,1234564
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PERSISTENT,-1.98,5634.5,291335
+TIINDIA,-1.55,2928.75,134850
