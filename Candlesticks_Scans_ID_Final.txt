@@ -2,16 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.81		195.45		5011956
-COALINDIA		-0.26		287.05		3407013
-BPCL		-2.23		339.45		3060555
-UPL		-0.85		606.95		1145625
-SUNPHARMA		-0.32		1123.7		481579
+NESTLEIND		-0.03		22904.65		14520
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIPOWER		-6.01		342.4		5100433
-MAZDOCK		-3.56		2074.05		548110
-PATANJALI		-1.55		1234.0		79387
-KEC		-2.68		667.5		77698
+
