@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.88		183.05		10043174
-BPCL		-2.23		339.45		2873641
-SUNPHARMA		-0.3		1123.95		460007
+ONGC		0.91		183.1		10059068
+BPCL		-2.23		339.45		2885951
+SUNPHARMA		-0.3		1123.9		461136
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKYLAMINE		-1.97		2263.85		14622
+COFORGE		-0.96		5136.0		106897
+GLAXO		-0.72		1543.75		28515
