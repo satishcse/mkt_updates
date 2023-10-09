@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-1.5		585.35		4208674
-TCS		1.16		3663.5		2394368
-BPCL		-2.28		339.3		1944073
-TECHM		0.25		1219.9		745949
-BAJAJ-AUTO		0.0		5014.55		102456
+TATASTEEL		-1.15		124.45		9710196
+SBIN		-1.53		585.15		4244404
+TCS		1.16		3663.3		2404426
+BPCL		-2.23		339.45		1974746
+TECHM		0.21		1219.45		753021
+BAJAJ-AUTO		-0.04		5012.35		105331
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHH		-1.38		17644.9		628
+SOLARINDS		0.39		5168.0		104402
+PHOENIXLTD		-0.84		1785.85		33034
