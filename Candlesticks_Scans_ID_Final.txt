@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-2.26		339.35		2890522
-SUNPHARMA		-0.31		1123.85		461841
+UPL		-0.84		607.0		1082414
+ULTRACEMCO		-0.75		8133.9		77594
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAXO		-0.71		1544		28543
+PERSISTENT		-1.84		5642.15		259859
+SCHAEFFLER		-1.79		3163.4		50667
