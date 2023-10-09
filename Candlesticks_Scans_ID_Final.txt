@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.8		3069		965694
+HDFCLIFE		-1.89		618.95		2439048
+LT		-0.79		3069.3		967999
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.24		1515.0		6736215
-SUNTECK		-5.37		428.7		353788
-VGUARD		-2.9		283.35		208026
-SCHAEFFLER		-2.72		3133.35		65493
+ADANIPORTS		-4.68		791.85		4985142
+FINCABLES		-3.07		1039.65		261224
