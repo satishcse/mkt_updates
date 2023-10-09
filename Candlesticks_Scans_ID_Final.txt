@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.88		3066.5		937843
-SUNPHARMA		-0.29		1124.05		671489
-APOLLOHOSP		-0.64		5027.85		151678
+LT		-0.87		3066.8		939251
+SUNPHARMA		-0.25		1124.5		672549
+APOLLOHOSP		-0.7		5025.0		152153
 
 Bullish_Hammer_15m_N500								 
 ======================= 
