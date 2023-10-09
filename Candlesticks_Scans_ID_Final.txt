@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.75		123.7		17008297
-HINDALCO		-0.63		469.6		2025703
-LT		-0.85		3067.55		960754
+LT		-0.83		3068		961600
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-1.6		1298.5		84157
+SUNTECK		-5.56		427.85		350262
+MFSL		-1.73		901.8		312049
+ICICIGI		-1.6		1298.55		84232
+SCHAEFFLER		-2.68		3134.55		65045
