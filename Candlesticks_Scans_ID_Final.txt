@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.6		608.45		1392898
-BAJAJFINSV		-0.91		1619.8		1326826
-JSWSTEEL		-1.08		756.9		519820
-DIVISLAB		-0.24		3712.8		396210
+POWERGRID		-0.48		196.1		6607029
+JSWSTEEL		-1.08		756.9		522775
 
 Bullish_Hammer_15m_N500								 
 ======================= 
