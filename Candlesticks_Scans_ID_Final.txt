@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.89		618.95		2439048
-LT		-0.79		3069.3		967999
+TATASTEEL		-1.51		124.0		17452391
+HDFCBANK		-1.25		1514.9		7058418
+HDFCLIFE		-1.91		618.85		2439758
+LT		-0.81		3068.5		969558
+DRREDDY		1.53		5508.0		360100
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIPORTS		-4.68		791.85		4985142
-FINCABLES		-3.07		1039.65		261224
+
