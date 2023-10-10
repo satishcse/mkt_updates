@@ -2,15 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.98		629.6		7842665
-POWERGRID		0.79		197.8		5042963
-INFY		1.1		1491.65		4004181
-ITC		0.7		443.55		3398059
-LTIM		1.33		5275.85		136253
+TATASTEEL		1.09		125.2		18601665
+HINDALCO		2.13		479.8		4950689
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-1.74		1475.0		236136
-CAMS		0.13		2415.2		29395
-GILLETTE		-0.37		6169.95		6057
+TRENT		-1.1		2056.15		205911
