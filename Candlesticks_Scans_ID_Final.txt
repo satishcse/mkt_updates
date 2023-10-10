@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.45		5030.0		158062
-LTIM		1.37		5277.9		133988
+ITC		0.75		443.75		3280829
+BAJAJ-AUTO		0.45		5029.95		158441
+LTIM		1.37		5277.65		134129
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIPIND		-0.36		670.95		400438
-360ONE		0.27		515.8		114815
-JBMA		-0.9		1249.0		55971
-FINEORG		-0.92		4860.0		12414
+VIPIND		-0.35		671		400527
+FINEORG		-0.92		4860		12455
