@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.12		124.0		11570954
-COALINDIA		3.7		298.45		9552981
-BAJAJ-AUTO		0.83		5048.95		110859
+TATASTEEL		0.16		124.05		11617952
+SUNPHARMA		0.16		1124.85		465290
+BAJAJ-AUTO		0.84		5049.15		111094
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UNOMINDA		-0.26		594.85		71480
-BLUEDART		-0.13		6659.9		55388
+BLUEDART		-0.13		6659.95		55666
 HONAUT		-0.42		38293.8		7845
