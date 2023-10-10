@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-0.27		3628.5		1297934
-BPCL		0.0		340.0		1031547
-TECHM		0.58		1219.65		794494
+TCS		-0.27		3628.5		1300003
+BPCL		-0.01		339.95		1032617
+TECHM		0.57		1219.55		796549
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AFFLE		-0.49		1061.8		109690
+COCHINSHIP		2.58		1060		1837120
