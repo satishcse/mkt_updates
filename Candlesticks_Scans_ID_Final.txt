@@ -1,9 +1,19 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		0		196.25		23009
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KOTAKBANK		0.42		1726.6		16123
+NAVINFLUOR		0.37		3733.75		6026
+POLYCAB		0.41		5200.4		3346
+CHALET		0.94		595.25		2756
+GUJALKALI		0.74		712.45		1247
+SUNDARMFIN		0.4		3194.75		1149
+BRIGADE		-0.17		598.8		870
+NESTLEIND		0.33		22957.65		547
+ROSSARI		0.53		826.5		361
+GRINDWELL		0.42		2116.3		225
+PGHL		0.24		5081.35		43
