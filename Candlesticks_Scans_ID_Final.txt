@@ -6,10 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-0.47		1494.0		80846
-MEDANTA		0.57		754.2		33163
-GRINFRA		1.3		1208.0		30974
-ALKEM		-0.24		3542.95		23075
-PIIND		0.24		3430.9		10492
-ABBOTINDIA		-0.21		22913.95		379
+TCS		-0.67		3613.95		542018
+METROPOLIS		0.04		1501.75		86691
+PIIND		0.26		3431.9		10642
 3MINDIA		0.43		30956.95		106
