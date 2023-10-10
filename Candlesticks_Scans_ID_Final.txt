@@ -1,10 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-APOLLOHOSP		0.32		5063.3		161829
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROBRAND		-1.01		1164.3		91597
+METROBRAND		-1		1164.45		91840
