@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ICICIBANK		0.6		944.2		701821
+HINDUNILVR		-0.21		2506.1		103778
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		-0.67		3613.95		542018
-METROPOLIS		0.04		1501.75		86691
-PIIND		0.26		3431.9		10642
 3MINDIA		0.43		30956.95		106
