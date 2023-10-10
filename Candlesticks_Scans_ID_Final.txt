@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.14		3079.1		1317701
+LT		0.12		3078.35		1324136
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAXHEALTH		-0.7		564.6		544023
-MRF		0.12		107400.0		3091
+LINDEINDIA		-1.32		5873.3		20167
 3MINDIA		0.28		30910.0		884
