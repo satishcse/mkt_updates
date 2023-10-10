@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.04		3151.6		732129
-CIPLA		-0.41		1154.8		679137
+ASIANPAINT		-0.03		3151.9		733131
+CIPLA		-0.35		1155.5		680990
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MEDANTA		-0.59		745.55		136070
-SUPRAJIT		-0.86		388.0		112040
+
