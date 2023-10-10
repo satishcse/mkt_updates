@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BAJAJ-AUTO		0.89		5052.1		19692
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAHLDNG		1.39		1124.65		5548
-SUNDARMFIN		1.39		3226.25		4314
-BBTC		0.63		1251.5		2161
-GALAXYSURF		0.46		2623.45		320
+HEG		-0.23		1762.75		19932
