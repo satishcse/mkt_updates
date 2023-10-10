@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.64		1526		7199162
-BAJAJ-AUTO		0.83		5049		107421
+HDFCBANK		0.62		1525.7		7254945
+BAJAJ-AUTO		0.84		5049.45		107928
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NESTLEIND		-0.2		22835.9		13820
