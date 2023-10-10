@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.39		1495.9		5156929
-LT		0.07		3076.75		1355874
-MARUTI		1.37		10385.65		317255
+NTPC		0.62		236.15		10843532
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DEEPAKNTR		-0.1		2066.95		485275
-LINDEINDIA		-1.26		5876.85		21093
+
