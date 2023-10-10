@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAYNES		1.51		2670.85		63720
-FINCABLES		0.17		1042.2		49093
-TATAELXSI		0.01		7300.0		6151
-ABBOTINDIA		-0.37		22877.95		337
+TCS		-0.73		3611.9		490228
+KAYNES		1.78		2678.1		65856
+GRINFRA		1.24		1207.25		30407
+PIIND		0.01		3423.2		8617
+ABBOTINDIA		-0.38		22874.35		339
