@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.65		124.65		16927674
-TATAMOTORS		1.88		628.95		7806155
-POWERGRID		0.92		198.05		4962044
-INFY		1.2		1493.1		3913022
-ITC		0.74		443.7		3350268
-LTIM		1.34		5276.15		135272
+TATASTEEL		0.65		124.65		16983292
+TATAMOTORS		1.92		629.2		7810368
+POWERGRID		0.89		198.0		4971965
+INFY		1.1		1491.75		3964026
+ITC		0.7		443.55		3357425
+LTIM		1.27		5272.75		135523
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LUXIND		-0.83		1388.2		41478
+DATAPATTNS		0.26		2062.2		21298
