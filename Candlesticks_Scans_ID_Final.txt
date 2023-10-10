@@ -6,5 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-0.99		2058.5		208981
-INGERRAND		-1.37		2847.3		11759
+TRENT		-0.97		2058.95		209717
+INGERRAND		-1.38		2847.25		11770
