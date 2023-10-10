@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.12		340.4		1234894
-GRASIM		1.45		1916.45		211449
+BPCL		0.13		340.45		1237948
+CIPLA		-0.32		1155.75		629596
+GRASIM		1.42		1915.9		211738
 
 Bullish_Hammer_15m_N500								 
 ======================= 
