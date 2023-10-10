@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.95		889.0		509810
-SUNPHARMA		0.16		1124.9		399682
-BAJAJ-AUTO		0.79		5047.05		100760
+TATACONSUM		0.91		888.7		514882
+SUNPHARMA		0.15		1124.7		403682
+BAJAJ-AUTO		0.79		5047.0		102484
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LUXIND		-0.42		1393.9		27078
