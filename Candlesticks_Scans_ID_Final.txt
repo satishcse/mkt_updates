@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		5.25		302.9		19487165
-BPCL		0.24		340.8		1321813
-CIPLA		-0.35		1155.45		670815
+COALINDIA		5.26		302.95		19532582
+CIPLA		-0.34		1155.6		672717
 
 Bullish_Hammer_15m_N500								 
 ======================= 
