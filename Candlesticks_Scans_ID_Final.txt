@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.57		125.8		24642350
-COALINDIA		5.19		302.75		19449629
-TATACONSUM		1.03		889.75		745336
+COALINDIA		5.25		302.9		19487165
+BPCL		0.24		340.8		1321813
+CIPLA		-0.35		1155.45		670815
 
 Bullish_Hammer_15m_N500								 
 ======================= 
