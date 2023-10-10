@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.85		888.15		516476
-ASIANPAINT		-0.02		3152.05		473193
-SUNPHARMA		0.17		1125.0		412243
+TATACONSUM		0.83		888.0		517556
+ASIANPAINT		-0.01		3152.4		473818
+SUNPHARMA		0.13		1124.5		414202
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELAXO		-0.15		909.75		36633
+UNOMINDA		-0.45		593.7		60688
+RELAXO		-0.25		908.85		36971
+LUXIND		-0.46		1393.4		27289
