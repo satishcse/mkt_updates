@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.59		1525.2		7459562
-BAJAJ-AUTO		0.83		5049.0		109340
-GRASIM		0.36		1895.8		85631
+HDFCBANK		0.68		1526.6		7502340
+HINDUNILVR		0.33		2519.55		591833
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-0.19		6656		54655
+BLUEDART		-0.13		6659.9		55114
