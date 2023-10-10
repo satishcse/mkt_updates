@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.89		5052.1		19692
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEG		-0.23		1762.75		19932
+TITAN		0.59		3286.7		135914
+VIPIND		0.61		677.45		64140
+TRENT		-0.24		2074.0		28884
