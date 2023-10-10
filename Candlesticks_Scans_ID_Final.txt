@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.71		1286.35		307825
+BPCL		-0.01		339.95		730944
+SBILIFE		0.73		1286.55		309280
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUBLINGREA		0.54		476.5		50202
+JUBLINGREA		0.54		476.5		50218
