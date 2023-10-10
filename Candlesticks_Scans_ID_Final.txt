@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.68		1526.6		7502340
-HINDUNILVR		0.33		2519.55		591833
+TATASTEEL		0.12		124.0		11570954
+COALINDIA		3.7		298.45		9552981
+BAJAJ-AUTO		0.83		5048.95		110859
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-0.13		6659.9		55114
+UNOMINDA		-0.26		594.85		71480
+BLUEDART		-0.13		6659.9		55388
+HONAUT		-0.42		38293.8		7845
