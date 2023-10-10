@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-1.45		1479.3		196950
+METROPOLIS		-1.29		1481.7		197845
+PFIZER		-0.41		3944.5		19337
+LAXMIMACH		-0.44		14042.8		1427
