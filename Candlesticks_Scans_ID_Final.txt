@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.18		183.85		6537129
-AXISBANK		1.5		1011.2		2780827
-LT		0.39		3086.8		944070
-LTIM		1.41		5279.85		130181
+ONGC		1.18		183.85		6548220
+AXISBANK		1.5		1011.2		2785716
+LT		0.35		3085.35		945775
+LTIM		1.41		5279.75		130243
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JBMA		-0.43		1255		40039
