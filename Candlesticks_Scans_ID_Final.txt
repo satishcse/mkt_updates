@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		1.39		1495.9		5493520
+INFY		1.33		1495.05		5540990
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFSL		-0.44		892.4		1119763
-GRAPHITE		0.72		489.85		428504
-TATAINVEST		0.66		3214.95		79946
-THERMAX		-0.34		2917.45		20564
+NAZARA		-0.33		867.45		589451
+METROPOLIS		-1.75		1474.8		303805
