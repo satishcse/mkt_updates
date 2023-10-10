@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.18		340.6		1242657
-GRASIM		1.43		1915.95		212263
+WIPRO		0.65		408.25		2109144
+BPCL		0.19		340.65		1243498
+DRREDDY		-0.65		5459.15		236000
+GRASIM		1.4		1915.5		212461
 
 Bullish_Hammer_15m_N500								 
 ======================= 
