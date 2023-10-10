@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.04		123.9		11802851
-TCS		-0.31		3626.95		1154250
-BAJAJ-AUTO		0.85		5049.85		111782
+BHARTIARTL		2.53		947.95		5454728
+ADANIPORTS		2.76		811.85		4107731
+TECHM		0.55		1219.3		646922
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-0.13		6660.0		56224
 HONAUT		-0.42		38293.8		7845
