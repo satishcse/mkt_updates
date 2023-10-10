@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.08		123.95		14756028
-BPCL		0.01		340.05		1054888
-BAJAJ-AUTO		0.43		5028.9		157581
-LTIM		1.35		5276.7		133737
+TATASTEEL		0.08		123.95		14820269
+BAJAJ-AUTO		0.41		5028.0		157882
+LTIM		1.38		5278.15		133822
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINEORG		-0.92		4860		12371
+VIPIND		-0.34		671.05		400289
+JKLAKSHMI		-0.28		667.0		274628
+FINEORG		-0.95		4858.3		12374
