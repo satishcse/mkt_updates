@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		3.37		421.5		8124218
-ITC		1.08		449.2		5875693
-HDFCLIFE		0.12		622.0		2478993
-SUNPHARMA		-0.13		1125.05		932266
+WIPRO		3.37		421.5		8129635
+ITC		1.1		449.3		5886389
+SUNPHARMA		-0.1		1125.4		934247
 
 Bullish_Hammer_15m_N500								 
 ======================= 
