@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ITC		0.86		448.2		4814895
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+OLECTRA		0.67		1182.55		289845
 FDC		0.15		377.85		55147
