@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.79		825.95		923931
-TATACONSUM		0.62		894.25		441993
-GRASIM		1.7		1951.6		258464
+TATACONSUM		0.62		894.3		442605
+GRASIM		1.69		1951.35		258848
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJ-AUTO		0.4		5057.55		113684
