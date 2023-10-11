@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.16		125.5		17012719
-ITC		0.98		448.75		6130474
-HDFCLIFE		0.1		621.9		2572016
-BPCL		0.94		343.6		1808485
+TATASTEEL		0.12		125.45		17053894
+ITC		0.99		448.8		6138134
+HDFCLIFE		0.12		622.0		2580301
+BPCL		0.94		343.6		1810491
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LTIM		0.05		5269		192605
+
