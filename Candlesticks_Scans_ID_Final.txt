@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.09		2333.5		2830084
-HINDUNILVR		1.74		2559.95		1287451
-NESTLEIND		0.94		23183.05		47789
+NESTLEIND		0.91		23177		47998
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ADANIENT		-0.13		2494.95		1286046
+OFSS		0.56		4184.9		57520
