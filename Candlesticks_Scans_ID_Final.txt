@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.33		954.35		6054341
-ONGC		-0.03		183.45		4958894
-ITC		0.83		448.1		4876181
+ICICIBANK		0.36		954.6		6067662
+ONGC		-0.03		183.45		4961180
+ITC		0.84		448.15		4883235
+INDUSINDBK		-0.1		1419.15		1073459
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VMART		0.55		1958.75		16406
+
