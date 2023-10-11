@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OFSS		-0.02		4160.95		67912
-ABBOTINDIA		-1.21		22471.95		14547
+OFSS		0.03		4162.75		68172
