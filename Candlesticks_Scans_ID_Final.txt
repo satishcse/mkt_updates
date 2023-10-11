@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.54		446.8		3824979
+BPCL		1.06		344		1106673
+TCS		0.11		3633		1103917
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KEC		-0.73		659.95		73816
-MASTEK		-0.17		2400.75		13089
-GALAXYSURF		0.17		2634.85		9673
-BLUEDART		0.49		6745.25		2085
+
