@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.97		2330.75		2325982
-BPCL		1.06		344.0		1275220
-SBILIFE		-0.05		1301.35		583679
-ULTRACEMCO		2.12		8331.35		252221
+RELIANCE		0.96		2330.5		2328367
+BPCL		1.06		344.0		1276607
+SBILIFE		-0.1		1300.7		586117
+ULTRACEMCO		2.12		8331.6		252612
+MARUTI		0.27		10402.95		99174
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		0.34		5222.7		288361
-METROPOLIS		-0.84		1460.65		96940
+POLYCAB		0.36		5223.9		288751
