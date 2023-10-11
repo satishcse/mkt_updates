@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.03		183.55		6866411
-UPL		0.91		627.45		1703493
+ONGC		-0.11		183.3		6963640
+UPL		0.88		627.25		1711590
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KIMS		-1.15		1902.9		76688
+CHEMPLASTS		0.89		486.15		43821
