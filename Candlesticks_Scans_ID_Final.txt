@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.69		301.15		6676403
-ITC		0.54		446.8		3718280
-BPCL		1.01		343.85		1089852
-M&M		0.34		1543.05		575058
-GRASIM		2.28		1962.65		345615
+COALINDIA		-0.69		301.15		6684215
+ITC		0.42		446.25		3764132
+BPCL		1.01		343.85		1091631
+M&M		0.34		1543.15		576607
+GRASIM		2.23		1961.6		347418
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LINDEINDIA		-0.02		5872		8859
+
