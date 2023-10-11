@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		3.29		421.15		7835594
-TATAMOTORS		0.43		633.25		5604026
-ONGC		0.14		183.75		5330349
-BPCL		0.85		343.3		1683819
+TATAMOTORS		0.44		633.35		5627618
+ONGC		0.14		183.75		5332826
+BPCL		0.78		343.05		1690322
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ALKYLAMINE		0.04		2285.1		18047
+
