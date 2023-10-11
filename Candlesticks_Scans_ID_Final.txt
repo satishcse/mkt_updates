@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		1.01		23199		45969
+NESTLEIND		1.03		23204.85		46031
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OFSS		0.57		4185.5		57298
-PAGEIND		0.08		39364.4		11231
+BATAINDIA		-0.14		1642.45		136337
