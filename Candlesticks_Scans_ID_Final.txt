@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.66		1534.9		5723612
-HDFCLIFE		-0.21		619.95		1676942
-TCS		0.03		3629.95		1142162
-BPCL		1.06		344.0		1137443
-SBILIFE		-0.5		1295.5		455187
-LTIM		0.77		5306.9		120563
+HDFCBANK		0.66		1534.9		5755269
+HDFCLIFE		-0.21		619.95		1684236
+TCS		0.03		3630.0		1150097
+BPCL		1.06		344.0		1148430
+INDUSINDBK		0.0		1420.55		901969
+SBILIFE		-0.53		1295.2		457146
+LTIM		0.75		5306.05		125306
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RAYMOND		-0.62		1799.35		139157
