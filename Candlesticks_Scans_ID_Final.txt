@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.63		1534.5		5997899
-BPCL		1.06		344.0		1189496
-TATACONSUM		0.56		893.7		586185
-CIPLA		1.03		1166.9		550265
+HDFCBANK		0.58		1533.7		6069689
+BPCL		1.04		343.95		1192174
+TATACONSUM		0.53		893.5		587711
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INFY		-0.12		1493.4		4010804
-TECHM		-0.17		1225.7		706808
-PNBHOUSING		0.5		730.6		255975
+INFY		-0.05		1494.4		4018762
+LTTS		0.24		4794.95		73029
+CCL		-1.06		651.1		54170
