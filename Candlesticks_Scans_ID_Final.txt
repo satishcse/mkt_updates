@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.48		1532.2		6522577
-BPCL		1.06		344.0		1254803
+AXISBANK		0.27		1015		3935550
+BPCL		1.06		344		1257689
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POLYCAB		0.46		5229.35		271872
+
