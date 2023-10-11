@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		3.32		421.3		7849895
-TATAMOTORS		0.43		633.25		5646303
-ONGC		0.14		183.75		5358814
-BPCL		0.81		343.15		1695119
+WIPRO		3.32		421.3		7852898
+TATAMOTORS		0.44		633.35		5654103
+ONGC		0.16		183.8		5365380
+BPCL		0.81		343.15		1697054
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ADANIPOWER		0.99		353.1		2370113
