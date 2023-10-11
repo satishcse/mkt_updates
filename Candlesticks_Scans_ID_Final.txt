@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		0.34		10410.2		57259
+MARUTI		0.38		10414.2		57577
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRISIL		-0.43		4053		17352
+RAYMOND		-0.2		1807.05		58689
