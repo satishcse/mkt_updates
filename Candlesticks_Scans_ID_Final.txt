@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.67		634.8		5486630
-ONGC		0.14		183.75		5248017
-BPCL		0.98		343.75		1674848
+TATAMOTORS		0.67		634.8		5496444
+ONGC		0.16		183.8		5260017
+BPCL		0.94		343.6		1676883
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+MTARTECH		-0.54		2544.85		109951
 ATUL		0.45		6911.8		20473
-ALKYLAMINE		0.06		2285.55		17992
+ALKYLAMINE		0.06		2285.5		18002
