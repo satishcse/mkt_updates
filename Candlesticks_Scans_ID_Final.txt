@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.45		301.9		9507837
-HINDUNILVR		1.7		2558.9		1394132
+COALINDIA		-0.49		301.75		9530761
+LT		0.4		3088.15		1692966
+HINDUNILVR		1.69		2558.7		1395837
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CRAFTSMAN		0.25		4530		20850
+
