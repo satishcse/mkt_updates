@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NTPC		0.87		237.95		8614758
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALRAMCHIN		-0.78		421.55		1020467
-PGHL		-0.64		5071.5		4592
-BLUEDART		0.16		6722.85		3658
+BALRAMCHIN		-0.66		422.05		1026047
+BLUEDART		0.16		6723.2		3688
