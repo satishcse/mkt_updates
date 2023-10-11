@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.08		183.65		6565931
-SUNPHARMA		0.13		1127.95		1085398
-ASIANPAINT		0.45		3165.7		833059
+ONGC		0.11		183.7		6597770
+UPL		0.92		627.55		1663041
+ASIANPAINT		0.45		3165.8		836288
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-0.33		1639.35		240927
+BATAINDIA		-0.33		1639.3		241015
+OFSS		0.49		4181.85		62081
