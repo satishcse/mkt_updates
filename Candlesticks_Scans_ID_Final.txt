@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.96		2330.5		1704124
-BPCL		1.04		343.95		1107845
-TCS		0.13		3633.55		1105223
-LTIM		0.92		5314.7		115262
+BPCL		1.06		344.0		1110485
+TCS		0.13		3633.5		1106840
+LTIM		0.92		5314.7		115413
 
 Bullish_Hammer_15m_N500								 
 ======================= 
