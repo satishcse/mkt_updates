@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.42		3089.0		1733741
-HINDUNILVR		1.7		2558.85		1412548
+ONGC		0.08		183.65		6565931
+SUNPHARMA		0.13		1127.95		1085398
+ASIANPAINT		0.45		3165.7		833059
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BATAINDIA		-0.33		1639.35		240927
