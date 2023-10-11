@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		3.45		421.8		5833711
-UPL		0.72		626.25		1010136
-SBILIFE		-0.61		1294.05		419894
+WIPRO		3.42		421.7		5871159
+SBILIFE		-0.62		1294.0		420836
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEC		-0.46		661.75		63831
-INDIGOPNTS		-1.78		1440.0		48763
-POLYMED		-2.07		1376.45		31863
+POLYMED		-2.07		1376.45		32008
