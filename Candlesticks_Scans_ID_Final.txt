@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		1.03		23204.85		46031
+NESTLEIND		1.03		23203.9		46092
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-0.14		1642.45		136337
+UBL		-0.44		1574.95		128739
