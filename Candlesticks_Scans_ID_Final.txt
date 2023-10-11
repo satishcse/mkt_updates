@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.29		3278.7		81348
+TITAN		0.23		3276.8		94594
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANYAVAR		0.55		1288.8		9779
-ALKEM		0.2		3592.75		7406
+MANYAVAR		0.54		1288.65		9807
