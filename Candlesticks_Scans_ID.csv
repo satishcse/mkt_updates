@@ -1,10 +1,13 @@
 
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
-
+nsecode,per_chg,close,volume
+POWERGRID,0.05,198.05,7272917
+BPCL,0.87,343.35,1737852
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-VBL,-1.21,916.7,2154233
-COROMANDEL,-1.65,1152.45,95128
+VBL,-0.95,919.15,2168930
+BAJFINANCE,0.34,8110.85,537433
+PAGEIND,0.04,39350.0,11771
