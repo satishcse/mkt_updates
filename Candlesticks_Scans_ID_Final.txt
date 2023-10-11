@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.12		125.45		7982708
-TATACONSUM		0.68		894.8		422113
-SUNPHARMA		0.59		1133.1		223055
-HEROMOTOCO		0.74		2998.7		109496
+TATACONSUM		0.63		894.35		423844
+SUNPHARMA		0.6		1133.3		224415
+HEROMOTOCO		0.72		2998.1		109612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUMICHEM		0.64		425.05		58643
+SUMICHEM		0.71		425.35		58696
