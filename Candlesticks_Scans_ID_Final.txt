@@ -2,9 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-0.62		1294		423148
+COALINDIA		-0.64		301.3		6645214
+ITC		0.54		446.8		3674395
+KOTAKBANK		0.94		1772.6		1562163
+UPL		0.93		627.6		1107489
+BPCL		1.03		343.9		1084944
+M&M		0.31		1542.65		569339
+BAJAJFINSV		0.52		1641.65		535399
+GRASIM		2.19		1961.0		342720
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AJANTPHARM		0.05		1779.75		43041
+
