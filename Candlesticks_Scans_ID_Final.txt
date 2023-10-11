@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.18		1229.95		936986
+NTPC		0.87		237.95		8473697
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALRAMCHIN		-0.91		421		892644
+BALRAMCHIN		-0.91		421.0		910759
+PAGEIND		0.11		39376.8		10359
+BLUEDART		0.07		6717.3		3028
