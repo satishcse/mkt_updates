@@ -6,9 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJIND		-1.03		670.0		969018
-HEG		-0.56		1764.05		195507
-KAYNES		-0.46		2677.65		190559
-POLYMED		-2.69		1367.8		100023
-CRISIL		-2.47		3969.95		46476
-BLUEDART		-0.19		6699.85		7575
+HCLTECH		-1.26		1245.85		2046179
+KAYNES		-0.37		2680.0		191955
+POLYMED		-2.6		1369.0		100060
+CRISIL		-2.48		3969.5		46845
