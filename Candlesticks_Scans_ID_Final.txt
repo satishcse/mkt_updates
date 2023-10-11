@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.59		301.45		6722253
-ITC		0.38		446.1		3782175
-BPCL		1.04		343.95		1095810
-GRASIM		2.23		1961.75		349873
+ITC		0.38		446.1		3786669
+BPCL		1.04		343.95		1097567
+GRASIM		2.29		1962.9		351269
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LINDEINDIA		0.03		5875.05		9235
+KEC		-0.71		660.05		73177
+RELAXO		0.5		908.05		29817
+MASTEK		-0.12		2402.05		13011
