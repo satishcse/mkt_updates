@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.44		633.35		5627618
-ONGC		0.14		183.75		5332826
-BPCL		0.78		343.05		1690322
+TATAMOTORS		0.44		633.35		5639519
+ONGC		0.14		183.75		5334817
+BPCL		0.81		343.15		1692322
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ADANIPORTS		-0.37		816.45		1740297
+ADANIENT		0.2		2503.2		1167685
