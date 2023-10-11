@@ -1,10 +1,13 @@
 
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
-
+nsecode,per_chg,close,volume
+ICICIBANK,0.36,954.6,6019437
+ONGC,0.0,183.5,4934379
+ITC,0.87,448.25,4858690
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-OLECTRA,0.67,1182.55,289845
 FDC,0.15,377.85,55147
+VMART,0.27,1953.3,16399
