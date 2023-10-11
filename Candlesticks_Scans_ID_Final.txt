@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.19		183.85		5180592
-RELIANCE		0.95		2330.25		2637213
-INDUSINDBK		-0.04		1420.0		1125976
+ONGC		0.19		183.85		5225103
+RELIANCE		0.97		2330.9		2639674
+BPCL		0.98		343.75		1664007
+MARUTI		0.52		10429.4		124445
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DCMSHRIRAM		-0.5		1044.3		21107
