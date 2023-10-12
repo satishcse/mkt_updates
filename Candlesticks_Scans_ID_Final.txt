@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.71		307.0		10098932
-HDFCLIFE		0.06		621.85		1114328
-HEROMOTOCO		0.16		3105.95		242016
+COALINDIA		1.71		307		10109751
+HDFCLIFE		0.08		622		1114989
 
 Bullish_Hammer_15m_N500								 
 ======================= 
