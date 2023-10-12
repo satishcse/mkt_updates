@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.84		126.0		16141615
-ITC		0.86		452.1		10519447
-HDFCLIFE		0.68		625.7		2452825
-ULTRACEMCO		0.01		8343.85		129255
+ITC		0.85		452.05		10526896
+HDFCLIFE		0.61		625.3		2455462
+TITAN		0.03		3281.45		288333
+ULTRACEMCO		0.02		8344.9		129477
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GOCOLORS		-0.72		1289.9		23446
+OFSS		-1.7		4091		52319
