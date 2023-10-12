@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.28		201.05		16453083
-TATASTEEL		0.76		125.9		13493994
-INFY		-0.94		1480.35		7004532
-SBIN		-0.04		588.1		4950658
-LT		-0.28		3079.95		1122080
+POWERGRID		1.31		201.1		16462680
+TATASTEEL		0.84		126.0		13508616
+INFY		-0.95		1480.2		7046973
+SBIN		-0.03		588.15		4963148
+LT		-0.28		3080.0		1124253
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEC		-0.41		650.55		91378
-3MINDIA		-0.72		30874.0		2675
+3MINDIA		-0.72		30874		2675
