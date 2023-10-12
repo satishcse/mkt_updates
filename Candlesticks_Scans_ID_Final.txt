@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.95		417.15		5079543
-BPCL		1.82		348.8		3829036
-SUNPHARMA		0.07		1129.55		1205210
-TITAN		0.17		3286.2		413768
+WIPRO		-1.08		416.6		5104175
+BPCL		1.81		348.75		3844841
+SUNPHARMA		0.13		1130.2		1213243
+TITAN		0.21		3287.35		422593
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GUJALKALI		-0.67		729.75		53084
+PNCINFRA		-0.75		369.8		356289
+FDC		-0.37		373.65		74808
+GUJALKALI		-0.37		732.0		55266
+PGHH		-0.46		17680.05		1485
