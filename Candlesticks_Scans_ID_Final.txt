@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.04		8339.65		115203
+RELIANCE		0.3		2352.15		4795365
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HCLTECH		-2.18		1218.45		2513833
 CGCL		-0.7		768.05		106144
-SOLARINDS		0.09		5329.15		30650
+THERMAX		0.41		2969.8		32015
