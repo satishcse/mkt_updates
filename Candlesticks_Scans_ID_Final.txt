@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.19		1542.45		5745726
-ICICIBANK		-0.09		952.25		3937456
+HDFCBANK		0.15		1541.85		5771452
+ICICIBANK		-0.07		952.45		3961071
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DATAPATTNS		-1.06		2068.5		27824
+FACT		-0.2		536.2		592146
