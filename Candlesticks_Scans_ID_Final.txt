@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-1.65		3550.3		3096622
-ULTRACEMCO		0.04		8346.7		110685
+POWERGRID		1.36		201.2		17503940
+BHARTIARTL		-0.67		949.2		3541168
+TCS		-1.64		3550.8		3100810
+BAJAJ-AUTO		0.93		5111.7		311582
+ULTRACEMCO		-0.04		8340.0		111182
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-THERMAX		0.42		2970.2		31490
+
