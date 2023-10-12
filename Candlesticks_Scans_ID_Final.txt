@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.18		484.75		4535619
-TATAMOTORS		0.47		637.0		4079438
-SUNPHARMA		-0.31		1125.3		572640
-DIVISLAB		0.36		3764.05		224702
-LTIM		-0.68		5208.6		164796
+HINDALCO		0.14		484.6		4567350
+TATAMOTORS		0.47		637.0		4091400
+SUNPHARMA		-0.28		1125.55		575795
+DIVISLAB		0.23		3759.15		226731
+LTIM		-0.68		5208.75		165018
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ROSSARI		-1.13		823.65		19267
+ROSSARI		-1.09		824		19801
