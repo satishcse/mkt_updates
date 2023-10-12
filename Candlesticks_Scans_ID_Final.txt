@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.85		452.05		10526896
-HDFCLIFE		0.61		625.3		2455462
-TITAN		0.03		3281.45		288333
-ULTRACEMCO		0.02		8344.9		129477
+ITC		0.88		452.2		10538111
+HDFCLIFE		0.61		625.3		2456407
+TITAN		0.02		3281.1		288588
+ULTRACEMCO		0.01		8343.5		129823
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-OFSS		-1.7		4091		52319
+
