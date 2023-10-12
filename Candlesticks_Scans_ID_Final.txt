@@ -1,18 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		1.71		307.0		10098932
+HDFCLIFE		0.06		621.85		1114328
+HEROMOTOCO		0.16		3105.95		242016
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JSWENERGY		-2.74		397.35		3947171
-CHOLAFIN		0.04		1259.7		2083878
-SONACOMS		0.97		559.65		996464
-SIEMENS		-0.91		3558.5		467975
-FINCABLES		-1.67		1044.5		386278
-KAYNES		-0.51		2676.2		197563
-MAPMYINDIA		-0.53		2094.3		189011
-POLYMED		-2.69		1367.8		103007
-ALKYLAMINE		0.13		2287.1		24742
-ZFCVINDIA		1.36		15271.5		3204
+
