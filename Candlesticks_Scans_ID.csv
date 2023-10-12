@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ITC,0.86,452.1,10547463
-HDFCLIFE,0.63,625.4,2458023
-TITAN,0.01,3280.9,289244
-ULTRACEMCO,0.01,8344.05,130121
+ITC,0.84,452.0,10556053
+HDFCLIFE,0.61,625.3,2462441
+TITAN,-0.03,3279.5,289780
+ULTRACEMCO,-0.04,8339.65,130535
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ADANIGREEN,-1.24,950.5,211738
+GOCOLORS,-0.72,1290.0,23605
