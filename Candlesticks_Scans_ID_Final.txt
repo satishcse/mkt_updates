@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.32		2352.6		4829124
-INDUSINDBK		0.64		1430.35		1557091
+RELIANCE		0.33		2352.9		4848743
+INDUSINDBK		0.61		1429.85		1560308
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGCL		-0.7		768.05		106144
-THERMAX		0.5		2972.5		32036
+FINCABLES		-1.33		1030.6		227889
+LTIM		-1.0		5192.15		180625
