@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.31		2564.2		1190969
+SBIN		-0.14		587.5		7580097
+HINDUNILVR		0.29		2563.85		1199842
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ENDURANCE		0.0		1590.0		128730
+PGHH		-0.21		17724.75		1097
