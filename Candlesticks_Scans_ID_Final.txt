@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.33		485.5		4501271
-AXISBANK		0.05		1019.6		3224441
-SUNPHARMA		-0.28		1125.55		565498
+HINDALCO		0.31		485.4		4511183
+AXISBANK		0.07		1019.85		3235407
+SUNPHARMA		-0.31		1125.3		568783
+DIVISLAB		0.37		3764.45		223872
+LTIM		-0.64		5210.8		164251
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		-1.12		3197		27725
+TATAINVEST		-1.12		3197.0		27774
+ROSSARI		-1.13		823.65		19256
