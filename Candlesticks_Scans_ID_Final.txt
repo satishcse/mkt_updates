@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.84		307.4		11160013
-ONGC		0.38		183.95		4737691
-HDFCLIFE		0.56		625.0		1342975
-HINDUNILVR		0.14		2560.0		786517
-TATACONSUM		0.59		893.6		545475
-SBILIFE		0.1		1310.6		446489
+COALINDIA		1.86		307.45		11169844
+ONGC		0.41		184.0		4805934
+HDFCLIFE		0.56		625.0		1344125
+HINDUNILVR		0.14		2560.0		788088
+TATACONSUM		0.52		893.0		546117
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PFIZER		-0.35		3967.25		5916
