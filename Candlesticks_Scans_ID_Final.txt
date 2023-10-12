@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.81		451.9		10596566
-HDFCLIFE		0.64		625.45		2480763
-GRASIM		0.93		1998.45		1824137
-BAJAJFINSV		-0.03		1636.0		906101
-TITAN		-0.03		3279.55		292656
+ITC		0.75		451.6		10612012
+HDFCLIFE		0.67		625.65		2484856
+GRASIM		0.91		1998.2		1828059
+BAJAJFINSV		-0.03		1636.0		907047
+TITAN		0.0		3280.5		293103
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.97		8023.55		615143
-GOCOLORS		-0.72		1290.0		23614
+BAJFINANCE		-0.92		8027.45		616470
+GOCOLORS		-0.72		1290.0		23623
