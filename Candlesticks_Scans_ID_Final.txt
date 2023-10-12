@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+RELIANCE		0.37		2353.65		5265129
+AXISBANK		0.16		1020.75		3892741
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ENDURANCE		0.0		1590.0		130921
-CARBORUNIV		-0.26		1161.8		26718
-SHREECEM		-0.09		26478.15		16149
+
