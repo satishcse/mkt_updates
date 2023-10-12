@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.84		126.0		13638807
-SBIN		-0.04		588.1		5202896
-HINDALCO		0.42		485.95		4430863
-LT		-0.3		3079.5		1166883
-ASIANPAINT		-0.13		3159.9		642296
-MARUTI		1.46		10564.55		413525
+TATASTEEL		0.72		125.85		13675646
+SBIN		-0.03		588.2		5223081
+HINDALCO		0.38		485.75		4438691
+LT		-0.3		3079.5		1169132
+MARUTI		1.49		10567.75		414172
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		-0.07		1589.0		119835
-KEC		-0.38		650.8		93313
+ENDURANCE		-0.08		1588.75		119990
+KEC		-0.38		650.8		93322
