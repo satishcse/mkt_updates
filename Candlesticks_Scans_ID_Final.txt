@@ -1,10 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCBANK		0.31		1544.35		8222346
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		-0.01		1589.85		130041
+ENDURANCE		0		1590		130193
