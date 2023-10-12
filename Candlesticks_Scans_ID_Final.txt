@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.73		451.5		10625743
-HDFCLIFE		0.65		625.55		2487021
-GRASIM		0.96		1999.2		1831524
-BAJAJFINSV		-0.08		1635.25		907878
-TITAN		-0.05		3279.0		293409
-ULTRACEMCO		0.02		8344.9		132060
+HCLTECH		-2.0		1220.65		3005678
+TATACONSUM		0.47		892.55		679294
+DRREDDY		-0.73		5527.0		227106
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GOCOLORS		-0.72		1290		23838
+
