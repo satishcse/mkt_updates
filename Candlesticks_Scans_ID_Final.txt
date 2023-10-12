@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		1.0		1999.85		1884816
-TATACONSUM		0.53		893.15		692342
+TATASTEEL		0.8		125.95		17720799
+COALINDIA		1.9		307.6		14223789
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		-0.11		1588.3		136634
-LTTS		-0.52		4729.1		91065
-CARBORUNIV		-0.49		1159.1		34054
+ASTRAL		-0.28		1929.3		337711
+DATAPATTNS		-1.32		2063.0		40581
+CARBORUNIV		-0.71		1156.6		35134
