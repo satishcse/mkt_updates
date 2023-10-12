@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.36		201.2		16370230
-TATASTEEL		0.84		126.0		13418016
-INFY		-0.8		1482.45		6917376
-SBIN		-0.03		588.2		4903532
-HINDALCO		0.4		485.85		4301227
-LT		-0.28		3079.95		1112146
-ADANIPORTS		0.05		815.25		991563
+POWERGRID		1.36		201.2		16406881
+TATASTEEL		0.84		126.0		13451581
+INFY		-0.99		1479.6		6945298
+HDFCBANK		0.25		1543.4		6156581
+SBIN		-0.06		588.0		4923130
+HINDALCO		0.38		485.75		4304372
+LT		-0.3		3079.35		1115874
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+3MINDIA		-0.69		30884.3		2663
