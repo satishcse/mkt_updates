@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,-1.78,575.6,10098234
-WIPRO,-1.73,409.9,2624491
-BAJFINANCE,0.12,8023.7,330785
+SBIN,-1.75,575.8,10119251
+BPCL,-0.09,348.4,873734
+BAJFINANCE,0.13,8024.55,332071
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+COFORGE,-1.51,5019.85,183528
+DATAPATTNS,-0.95,2043.0,42115
+PAGEIND,-0.61,39271.15,7459
