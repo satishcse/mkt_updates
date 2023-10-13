@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-1.72		575.95		11095721
-TATACONSUM		1.92		909.5		3229265
+SBIN		-1.72		575.95		11115485
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AAVAS		-2.75		1654.4		77981
-PAGEIND		-0.99		39120.0		9512
+AAVAS		-2.75		1654.35		78056
+PAGEIND		-0.89		39159.0		9630
