@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-1.74		575.85		11173319
-LT		-0.23		3074.8		615122
-JSWSTEEL		-0.97		775.85		529966
+SBIN		-1.73		575.9		11185662
+ULTRACEMCO		-0.2		8334.9		140051
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-THERMAX		-0.71		2935.7		8180
+VTL		-0.58		369.05		79885
