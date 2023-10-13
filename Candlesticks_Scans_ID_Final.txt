@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.57		185.5		3595813
-WIPRO		-1.74		409.85		2604296
-TECHM		-1.15		1185.0		2149302
-BAJFINANCE		0.1		8022.55		327513
+WIPRO		-1.76		409.75		2609721
+TECHM		-1.16		1184.8		2150710
+BAJFINANCE		0.08		8020.55		329408
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.76		5067.65		93691
+TIMKEN		-1.01		3045.1		4898
