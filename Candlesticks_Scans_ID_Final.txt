@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.68		125.05		18676241
-TECHM		-0.47		1193.1		2747471
-DRREDDY		-0.93		5479.0		187659
-EICHERMOT		-0.82		3465.45		187495
+TATASTEEL		-0.64		125.1		18722018
+TECHM		-0.48		1193.0		2749204
+DRREDDY		-0.93		5479.0		187957
 
 Bullish_Hammer_15m_N500								 
 ======================= 
