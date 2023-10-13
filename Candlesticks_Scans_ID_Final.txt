@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.7		410		3401499
-BAJAJ-AUTO		-0.99		5056		150772
+TATASTEEL		-0.71		125.0		16019993
+POWERGRID		0.6		201.95		6291260
+NESTLEIND		1.42		23403.0		43618
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ELGIEQUIP		-2.11		479.3		128343
+
