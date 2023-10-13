@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.4		411.25		3791721
-UPL		0.44		623.3		824823
-BAJAJ-AUTO		-0.95		5058.0		201125
-DRREDDY		-0.93		5479.0		184335
-DIVISLAB		-0.4		3740.25		67767
+INFY		-2.47		1429.35		14217535
+NTPC		0.56		242.95		7546031
+WIPRO		-1.39		411.3		3796715
+UPL		0.47		623.5		825231
+DRREDDY		-0.93		5479.0		184477
+DIVISLAB		-0.37		3741.35		67806
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-1.81		940.2		1754120
+PAYTM		-1.82		940.1		1758153
