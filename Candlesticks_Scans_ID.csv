@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.52,242.85,7600946
-DRREDDY,-0.97,5476.55,184931
-DIVISLAB,-0.38,3740.85,68084
+NTPC,0.54,242.9,7620963
+DRREDDY,-0.94,5477.95,184972
+EICHERMOT,-0.84,3464.95,182956
+DIVISLAB,-0.44,3738.75,68337
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+MOTILALOFS,-1.31,990.65,233335
