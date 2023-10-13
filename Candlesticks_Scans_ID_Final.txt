@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AAVAS		-2.6		1656.95		66210
-VINATIORGA		-0.55		1822.0		6820
+VINATIORGA		-0.55		1822		6820
