@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		0.18		8029		380771
+SBIN		-1.73		575.9		10976278
+BAJFINANCE		0.19		8029.75		381508
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAGEIND		-1.11		39073.3		9444
+SIEMENS		-0.87		3569.75		64270
+PAGEIND		-1.05		39098.7		9457
