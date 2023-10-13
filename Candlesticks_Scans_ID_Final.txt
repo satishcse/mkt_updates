@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-2.93		2432.9		1484893
+NTPC		0.68		243.25		5434367
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VTL		-0.63		368.85		82231
-BAYERCROP		0.01		5277.35		2725
+
