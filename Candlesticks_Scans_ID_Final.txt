@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.54		185.45		4787553
-BHARTIARTL		-0.11		949.3		2244354
-HDFCLIFE		0.14		625.55		1563868
-DRREDDY		-0.96		5477.35		174653
+ONGC		0.54		185.45		4792308
+BHARTIARTL		-0.14		949.05		2254433
+HDFCLIFE		0.18		625.8		1567445
+DRREDDY		-0.93		5478.9		174727
 
 Bullish_Hammer_15m_N500								 
 ======================= 
