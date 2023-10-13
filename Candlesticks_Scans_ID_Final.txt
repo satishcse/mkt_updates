@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.22		3074.95		503967
-KOTAKBANK		-0.12		1761.75		476918
+SBIN		-1.75		575.8		10381545
+LT		-0.22		3074.85		504853
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-1.24		3450.75		112312
+EICHERMOT		-1.25		3450.5		112443
+BAJAJ-AUTO		-0.85		5063.3		102266
