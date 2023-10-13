@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-1.75		575.8		10119251
-BPCL		-0.09		348.4		873734
-BAJFINANCE		0.13		8024.55		332071
+SBIN		-1.75		575.8		10144469
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-1.51		5019.85		183528
-DATAPATTNS		-0.95		2043.0		42115
-PAGEIND		-0.61		39271.15		7459
+POLICYBZR		-1.53		722.7		465474
+COFORGE		-1.51		5019.8		184470
+EICHERMOT		-1.02		3458.7		103894
+THERMAX		-0.37		2945.95		7806
