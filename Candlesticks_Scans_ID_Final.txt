@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.47		623.5		825617
-DRREDDY		-0.94		5478.2		184594
-DIVISLAB		-0.4		3740.4		67895
+UPL		0.48		623.6		827307
+DRREDDY		-0.94		5478.45		184766
+DIVISLAB		-0.42		3739.3		68047
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MOTILALOFS		-1.31		990.6		233021
