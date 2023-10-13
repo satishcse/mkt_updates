@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.68		125.05		19555764
-POWERGRID		0.72		202.2		9106188
-GRASIM		-0.78		1986.2		248667
+TATASTEEL		-0.6		125.15		19595461
+POWERGRID		0.75		202.25		9146394
+GRASIM		-0.75		1986.75		249149
 
 Bullish_Hammer_15m_N500								 
 ======================= 
