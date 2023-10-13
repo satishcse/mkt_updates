@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-1.74		575.85		11143132
-COALINDIA		0.7		309.35		6117737
+SBIN		-1.74		575.85		11173319
+LT		-0.23		3074.8		615122
+JSWSTEEL		-0.97		775.85		529966
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AAVAS		-2.72		1655		78258
+THERMAX		-0.71		2935.7		8180
