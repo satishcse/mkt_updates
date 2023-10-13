@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,-1.75,575.8,11198650
-ADANIENT,-2.87,2434.4,1472227
-ULTRACEMCO,-0.2,8334.65,140180
+SBIN,-1.72,575.95,11209924
+HINDALCO,-0.32,482.85,2846816
+ADANIENT,-2.85,2434.9,1473888
+ULTRACEMCO,-0.2,8334.95,140329
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+VTL,-0.81,368.2,80467
+THERMAX,-0.72,2935.65,8195
