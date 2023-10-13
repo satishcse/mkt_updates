@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-1.02		5054.6		148659
+BAJAJ-AUTO		-0.99		5056		149666
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ELGIEQUIP		-2.2		478.9		125170
+ELGIEQUIP		-2.12		479.25		125796
