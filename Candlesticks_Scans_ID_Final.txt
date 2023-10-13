@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.62		202.0		7672647
-NTPC		0.54		242.9		7671115
-DRREDDY		-0.93		5478.9		185166
-DIVISLAB		-0.43		3739.1		68612
+DRREDDY		-0.93		5478.8		185213
+DIVISLAB		-0.42		3739.5		68656
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINCABLES		-1.54		996.45		392218
-MOTILALOFS		-1.23		991.45		233775
-CRISIL		-1.57		3936.0		9360
+MOTILALOFS		-1.2		991.7		233836
