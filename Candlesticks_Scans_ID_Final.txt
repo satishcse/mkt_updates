@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.57		2335.95		1663837
-LT		-0.33		3071.5		545053
-HINDUNILVR		-0.03		2556.25		428138
+RELIANCE		-0.58		2335.8		1667414
+LT		-0.32		3071.95		546571
+HINDUNILVR		0.0		2556.95		428581
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SYNGENE		-1.98		780.5		333381
+SYNGENE		-1.94		780.8		334750
