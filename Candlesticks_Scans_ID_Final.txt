@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.92		203.65		14905628
-SBIN		0.1		576.7		7076852
-INDUSINDBK		-1.28		1445.0		1216003
-TATACONSUM		0.06		913.9		1006774
-M&M		-0.04		1561.9		439271
-CIPLA		-0.02		1167.5		352146
+POWERGRID		0.92		203.65		14917823
+SBIN		0.03		576.3		7115276
+INDUSINDBK		-1.28		1445.0		1234929
+TATACONSUM		0.02		913.55		1009960
+M&M		-0.04		1561.8		440292
+CIPLA		-0.01		1167.65		353140
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-0.24		2064.6		546148
+ANGELONE		-0.25		2064.4		546263
