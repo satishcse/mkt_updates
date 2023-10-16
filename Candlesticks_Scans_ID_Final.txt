@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-MARUTI		-0.35		10690.0		216965
-BAJAJ-AUTO		0.2		5062.45		102691
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIVISLAB		-1.81		3667.75		165040
+DIVISLAB		-1.79		3668.5		166760
+SKFINDIA		0.57		5228.6		5284
