@@ -11,7 +11,7 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-HINDCOPPER		1.97		160.15		6581119
+HINDCOPPER		1.97		160.15		6580998
 POLYCAB		1.83		5420.5		727027
 DALBHARAT		1.29		2322.1		1406406
 HCLTECH		1.17		1270.65		2527141
