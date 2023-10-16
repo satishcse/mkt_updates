@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.51		187.7		7396656
+ONGC		1.57		187.8		7410839
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VINATIORGA		-0.71		1809.85		18534
+UTIAMC		-0.88		811.65		65774
+VINATIORGA		-0.7		1809.9		18535
 ROSSARI		-0.82		809.95		10964
 PGHH		0.3		17692.2		465
