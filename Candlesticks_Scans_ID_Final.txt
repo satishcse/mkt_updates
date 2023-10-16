@@ -7,7 +7,7 @@ UPL		1.27		630.95		1917349
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		-0.76		720.7		154130
+PNBHOUSING		-0.76		720.7		154160
 CEATLTD		-1.63		2101.95		145314
 ERIS		-2.45		868.45		116256
 CLEAN		-1.24		1377.6		57483
