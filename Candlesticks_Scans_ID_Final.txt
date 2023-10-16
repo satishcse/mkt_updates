@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.44		126.85		16805495
-HEROMOTOCO		1.57		3147.0		578535
+TATASTEEL		1.44		126.85		16827015
+AXISBANK		1.14		1005.35		2909164
+HEROMOTOCO		1.56		3146.7		579011
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NATCOPHARM		-1.39		838.8		160289
