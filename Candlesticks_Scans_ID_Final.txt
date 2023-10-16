@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.14		187.0		8933921
-NTPC		1.14		244.8		4699527
-INDUSINDBK		-1.23		1445.75		1285200
-TATACONSUM		-0.11		912.35		1125191
-TCS		-0.99		3535.45		990694
-BAJAJFINSV		-0.09		1645.0		537139
-EICHERMOT		0.29		3486.6		86909
+ONGC		1.14		187.0		8965434
+NTPC		1.14		244.8		4729452
+INDUSINDBK		-1.27		1445.05		1307377
+TATACONSUM		-0.09		912.5		1131935
+TCS		-1.0		3535.1		998677
+BAJAJFINSV		-0.09		1645.1		540203
+EICHERMOT		0.25		3485.15		87208
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-WESTLIFE		-0.47		930.65		92927
+
