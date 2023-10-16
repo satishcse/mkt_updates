@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.29		631.1		1657769
+UPL		1.28		631.05		1674144
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RADICO		0.23		1257.0		315972
+CHEMPLASTS		-0.66		473.65		47412
