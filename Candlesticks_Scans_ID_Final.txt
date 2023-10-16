@@ -1,7 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		0.94		203.7		14749348
+SBIN		0.21		577.35		6925515
+NTPC		1.09		244.7		4004984
+INDUSINDBK		-1.15		1446.8		1156652
+JSWSTEEL		1.88		791.9		1036456
+TATACONSUM		0.17		914.9		980598
+M&M		0.04		1563.0		431293
 
 Bullish_Hammer_15m_N500								 
 ======================= 
