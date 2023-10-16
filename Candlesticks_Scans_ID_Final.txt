@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.0		126.3		9210308
-HEROMOTOCO		1.34		3139.95		312726
+TATASTEEL		1.0		126.3		9244171
+HEROMOTOCO		1.34		3139.9		313331
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		-0.99		3146.0		34135
-MASTEK		-1.96		2319.8		25243
+CAMS		-0.79		2500.7		31067
+MASTEK		-1.93		2320.55		25478
