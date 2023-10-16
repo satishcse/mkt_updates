@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.28		631.05		1825803
+UPL		1.3		631.15		1832716
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CEATLTD		-1.71		2100.2		137927
-AFFLE		-1.46		1061.55		106111
-KEC		-0.37		651.85		91849
+CEATLTD		-1.69		2100.6		138983
+AFFLE		-1.44		1061.75		107201
+KSB		-0.49		3143.95		29731
