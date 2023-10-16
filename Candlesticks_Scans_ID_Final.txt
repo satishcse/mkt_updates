@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.23		1532.2		5592125
-INDUSINDBK		-1.24		1445.6		1264812
-APOLLOHOSP		0.4		5037.5		157057
+ONGC		1.14		187.0		8872146
+NTPC		1.12		244.75		4621883
+INDUSINDBK		-1.15		1446.8		1274936
+TATACONSUM		0.05		913.85		1111805
+TCS		-0.95		3537.05		977706
+BAJAJFINSV		-0.04		1645.9		533252
+EICHERMOT		0.41		3490.55		85931
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LTTS		-0.53		4701.0		97884
-PGHH		0.11		17658.85		600
+
