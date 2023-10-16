@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.86		310.6		7182041
-BHARTIARTL		0.19		956.05		734258
-BRITANNIA		0.01		4575.0		65625
+COALINDIA		0.81		310.45		7206141
+BHARTIARTL		0.15		955.65		737378
+BRITANNIA		0.05		4576.85		65705
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GOCOLORS		-0.52		1292.65		9773
+GOCOLORS		-0.53		1292.6		9777
