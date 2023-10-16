@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.0		126.3		9244171
-HEROMOTOCO		1.34		3139.9		313331
+ONGC		1.68		188.0		7048097
+M&M		0.14		1564.65		355892
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		-0.79		2500.7		31067
-MASTEK		-1.93		2320.55		25478
+PGHH		0.27		17686.95		445
