@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-RELIANCE,0,2349.4,2386449
+RELIANCE,0.01,2349.65,2402317
+MARUTI,-0.11,10716.0,250206
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+MTARTECH,0.86,2587.2,535977
+BIRLACORPN,0.13,1286.15,73202
