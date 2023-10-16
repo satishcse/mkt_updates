@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.19		2344.8		605717
-DRREDDY		0.58		5492.0		76615
+DRREDDY		0.6		5493.0		77222
+ULTRACEMCO		0.8		8436.3		63753
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-0.11		2067.35		357312
-NESTLEIND		-1.67		23162.05		22686
-GODFRYPHLP		-0.47		2202.45		11566
-TIMKEN		-0.82		3029.0		3914
+ANGELONE		-0.08		2068.0		362494
+NAVINFLUOR		-0.12		3687.2		29877
+NESTLEIND		-1.65		23165.35		23820
+GODFRYPHLP		-0.45		2202.9		11693
+TIMKEN		-0.82		3028.9		3957
