@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.28		631.05		1674144
+UPL		1.28		631		1821118
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		0.23		1257.0		315972
-CHEMPLASTS		-0.66		473.65		47412
+GLAXO		0.54		1536.05		110174
+KFINTECH		-2.37		457.4		104706
+KEC		-0.37		651.85		91379
+KSB		-0.5		3143.5		29256
