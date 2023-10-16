@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIPIND		-2.11		673.5		329616
-KEI		-0.03		2712.85		66606
-ERIS		-1.48		877.1		61505
-CARBORUNIV		-0.75		1159.05		20230
+VIPIND		-2.09		673.65		330969
