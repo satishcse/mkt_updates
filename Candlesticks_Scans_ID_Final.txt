@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		0.43		243.1		2333186
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAELXSI		-0.55		7402.75		39565
-ECLERX		-0.03		2090.0		29248
+MAPMYINDIA		-0.3		2019.0		70294
+CCL		-1.87		646.35		46297
+ECLERX		0.04		2091.4		29587
