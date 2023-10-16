@@ -2,7 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.27		630.95		1916811
+UPL		1.27		630.95		1916853
 
 Bullish_Hammer_15m_N500								 
 ======================= 
@@ -10,6 +10,6 @@ nsecode		per_chg		close		volume
 PNBHOUSING		-0.76		720.7		154119
 CEATLTD		-1.63		2101.95		145312
 ERIS		-2.45		868.45		116256
-CLEAN		-1.24		1377.6		57473
+CLEAN		-1.24		1377.6		57483
 KSB		-0.62		3140.0		30245
 GOCOLORS		-0.34		1295.0		16824
