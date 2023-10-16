@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.02		242.0		1621278
-HEROMOTOCO		1.35		3140.2		255803
-LT		-0.02		3089.0		158496
-BRITANNIA		-0.01		4574.4		31727
+ONGC		1.35		187.4		5442893
+SBIN		0.16		577.1		4328588
+ADANIENT		-0.17		2450.5		285800
+LT		-0.04		3088.25		165716
+BRITANNIA		0.01		4575.0		32794
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UNOMINDA		-0.5		597.3		62038
-ATUL		-0.64		6894.75		5029
+FLUOROCHEM		-0.6		2843.85		9702
