@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.6		127.05		18891808
-TATAMOTORS		0.22		668.55		17624494
-NTPC		0.85		244.1		5862725
-CIPLA		-0.09		1166.7		651181
+HDFCLIFE		0.74		629.9		2815020
+INDUSINDBK		-1.01		1448.9		1681719
+DRREDDY		0.46		5485.05		146475
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-1.19		6660.35		6518
+FLUOROCHEM		-3.68		2756.0		85037
+HONAUT		-0.44		37882.45		1339
