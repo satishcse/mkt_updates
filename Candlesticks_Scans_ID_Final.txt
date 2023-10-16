@@ -1,9 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		1.43		187.55		6086535
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-1.91		2320.85		21001
+SWANENERGY		0.38		306.4		804798
+NAVINFLUOR		-0.25		3682.4		44429
+ECLERX		-0.14		2087.8		29229
+MASTEK		-1.78		2324.0		21021
