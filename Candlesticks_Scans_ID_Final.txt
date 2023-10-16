@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.23		668.65		16924893
-BPCL		-0.12		347.3		1225283
-BHARTIARTL		-0.15		952.8		1162420
-TCS		-1.06		3533.0		1160885
-APOLLOHOSP		0.55		5044.8		187364
+TATAMOTORS		0.1		667.75		16995192
+POWERGRID		0.89		203.6		15954583
+ITC		0.45		450.35		2850103
+BHARTIARTL		-0.15		952.75		1179984
+TCS		-1.07		3532.55		1169640
+APOLLOHOSP		0.52		5043.5		188573
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FLUOROCHEM		-2.39		2792.8		55944
