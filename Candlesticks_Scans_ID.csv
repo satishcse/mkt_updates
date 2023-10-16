@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,-0.25,1531.95,5572295
-INDUSINDBK,-1.18,1446.5,1262581
-APOLLOHOSP,0.4,5037.15,156816
+HDFCBANK,-0.23,1532.2,5592125
+INDUSINDBK,-1.24,1445.6,1264812
+APOLLOHOSP,0.4,5037.5,157057
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
+LTTS,-0.53,4701.0,97884
 PGHH,0.11,17658.85,600
