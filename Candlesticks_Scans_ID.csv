@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-COALINDIA,0.85,314.65,3994254
+COALINDIA,0.71,314.2,4038610
+BAJFINANCE,0.47,8074.15,524758
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+MEDPLUS,0.69,769.65,30505
