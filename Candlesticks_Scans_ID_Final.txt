@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		2.12		207.35		16341320
-INFY		0.39		1439.8		3349494
-SUNPHARMA		0.28		1138.5		601046
+POWERGRID		2.14		207.4		16349976
+INFY		0.4		1439.85		3352864
+SUNPHARMA		0.26		1138.3		603267
 
 Bullish_Hammer_15m_N500								 
 ======================= 
