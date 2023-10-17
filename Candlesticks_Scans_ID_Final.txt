@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BAJFINANCE		0.71		8092.95		772695
-DIVISLAB		-0.22		3647.0		255706
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-0.76		1679.85		33457
+KFINTECH		-0.64		454.6		107543
+LUXIND		-1.19		1327.95		94908
