@@ -2,12 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.38		657.0		7592324
-ONGC		-0.11		186.35		3134648
-LT		-0.94		3072.75		1467237
-CIPLA		0.74		1173.0		553794
+TATAMOTORS		-1.37		657.05		7608362
+ICICIBANK		0.45		955.65		3782371
+ONGC		-0.11		186.35		3137631
+LT		-0.99		3071.3		1468170
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJIND		-0.91		663.1		114428
+BSE		-0.67		1471.15		603303
+CDSL		-0.86		1358.0		440318
+GODREJIND		-1.0		662.5		114485
+LINDEINDIA		0.03		6423.1		28928
+CERA		-0.21		8982.0		16939
+GILLETTE		-0.4		6262.9		3897
