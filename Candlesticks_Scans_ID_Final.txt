@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.74		245.25		3299102
-WIPRO		0.4		411.85		1193196
-BRITANNIA		0.2		4595.35		45026
+NTPC		0.8		245.4		3307520
+WIPRO		0.39		411.8		1198254
+BRITANNIA		0.25		4597.6		45156
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAUKRI		0.05		4127.3		119373
-LTTS		-0.91		4647.8		46699
+ASIANPAINT		-0.16		3106.95		288115
+NAUKRI		0.04		4126.95		119631
+NAVINFLUOR		-0.14		3689.85		46783
