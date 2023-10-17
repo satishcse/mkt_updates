@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.52		1141.2		353254
+SUNPHARMA		0.55		1141.6		354447
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRISIL		-0.43		3865.75		14952
+CRISIL		-0.45		3865.05		15037
