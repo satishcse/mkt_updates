@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0		3524		356450
+TATACONSUM		1.79		924.9		1444046
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAPMYINDIA		-0.35		2011.45		63549
-LTTS		0.03		4691.6		27092
+IIFL		-0.65		667.9		125064
