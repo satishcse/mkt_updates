@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.55		1651.45		813773
-NESTLEIND		0.87		23309.95		16159
+NTPC		0.8		245.4		3640322
+BAJAJFINSV		0.48		1650.25		815218
+TECHM		0.73		1193.25		516141
+NESTLEIND		0.83		23300.0		16248
 
 Bullish_Hammer_15m_N500								 
 ======================= 
