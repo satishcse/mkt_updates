@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.78		245.35		3467900
-WIPRO		0.4		411.85		1235305
+BAJAJFINSV		0.55		1651.45		813773
+NESTLEIND		0.87		23309.95		16159
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CLEAN		-0.42		1371.8		44062
-KIRLFER		-0.2		466.0		33559
+
