@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.55		1759.3		693311
-LTIM		0.73		5200.05		151523
+KOTAKBANK		0.55		1759.35		694266
+LTIM		0.73		5200.1		151794
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MPHASIS		-1.97		2313		235633
+
