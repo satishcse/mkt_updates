@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.37		657.05		7553675
-ONGC		0.0		186.55		3104336
-LT		-0.9		3073.95		1462930
-CIPLA		0.79		1173.6		548662
+TATAMOTORS		-1.37		657.05		7569065
+ONGC		-0.05		186.45		3127624
+LT		-0.96		3072.0		1465270
+CIPLA		0.77		1173.4		549312
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CERA		-0.25		8977.7		16480
