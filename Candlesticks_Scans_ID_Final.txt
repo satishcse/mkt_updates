@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.27		244.1		2581266
-HINDALCO		0.58		486.2		1650448
+NTPC		0.29		244.15		2590430
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+JBCHEPHARM		0.06		1406.85		30411
 SANOFI		-0.2		7496.95		1115
