@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.87		314.7		3950590
-BAJAJFINSV		0.83		1655.9		986947
-CIPLA		0.87		1174.55		475189
+COALINDIA		0.85		314.65		3968608
+BAJAJFINSV		0.86		1656.55		987265
 
 Bullish_Hammer_15m_N500								 
 ======================= 
