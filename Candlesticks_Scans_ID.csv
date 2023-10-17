@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.24,127.3,20382352
-SBIN,0.1,576.25,7697320
-ITC,0.68,452.0,5394761
+TATASTEEL,0.24,127.3,20393122
+POWERGRID,2.12,207.35,16161236
+SBIN,0.1,576.25,7731286
+ITC,0.65,451.85,5399886
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PIDILITIND,-0.51,2422.15,241249
+CENTURYTEX,-0.59,1179.95,174882
