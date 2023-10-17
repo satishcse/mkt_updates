@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.76		245.3		3455414
-WIPRO		0.41		411.9		1229213
-DRREDDY		1.29		5563.95		132021
+NTPC		0.78		245.35		3467900
+WIPRO		0.4		411.85		1235305
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CLEAN		-0.42		1371.8		44062
+KIRLFER		-0.2		466.0		33559
