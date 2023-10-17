@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.51		656.15		7820824
-ICICIBANK		0.3		954.25		4016595
-ONGC		-0.27		186.05		3214670
-LT		-1.08		3068.3		1498603
+TATAMOTORS		-1.48		656.35		7846249
+ICICIBANK		0.35		954.7		4035044
+ONGC		-0.27		186.05		3217020
+LT		-1.09		3068.0		1501056
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CERA		-0.2		8982.95		17148
+CERA		-0.2		8982.95		17150
