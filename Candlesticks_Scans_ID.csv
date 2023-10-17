@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,0.44,578.2,4508129
-AXISBANK,0.68,1011.65,2193297
-LT,-0.81,3076.75,760541
-INDUSINDBK,0.23,1449.75,573814
-SUNPHARMA,0.53,1141.35,366447
+SBIN,0.44,578.2,4521967
+AXISBANK,0.68,1011.6,2202730
+SUNPHARMA,0.56,1141.65,368366
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-PGHL,-0.68,5133,2286
+VMART,-0.79,1918.6,11083
