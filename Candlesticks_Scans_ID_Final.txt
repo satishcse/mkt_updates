@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.74		245.25		3701555
-BAJAJFINSV		0.47		1650.1		820574
-TECHM		0.63		1192.1		520534
-NESTLEIND		0.73		23277.0		16601
+NTPC		0.78		245.35		3773865
+BAJAJFINSV		0.47		1650.0		823285
+TECHM		0.63		1192.1		521195
+NESTLEIND		0.72		23275.95		16632
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CARBORUNIV		0.01		1165		11593
+SUNTECK		0.12		475.75		111093
+CRISIL		-0.25		3872.95		13357
