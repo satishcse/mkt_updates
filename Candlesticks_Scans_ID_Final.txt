@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.67		314.1		4145838
-TATACONSUM		1.72		924.2		2160800
-ADANIENT		0.44		2440.05		399411
+UPL		-0.56		627.4		835330
+JSWSTEEL		0.37		793.6		612299
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NAZARA		0.37		849.95		149853
-BOSCHLTD		-1.18		20430.0		19073
+
