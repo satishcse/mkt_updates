@@ -1,14 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NESTLEIND		0.99		23337.6		35815
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RITES		0.32		503.8		2467782
-COCHINSHIP		-1.38		1044.9		1952895
-KEC		0.5		655.3		988772
-CHEMPLASTS		0.79		477.15		70793
-VINATIORGA		-0.44		1794.45		36392
+GLS		-5.52		631.05		352282
+EIDPARRY		-0.15		512.5		199165
+CHEMPLASTS		0.76		477.0		71890
+VINATIORGA		-0.47		1794.0		37040
+WHIRLPOOL		-0.64		1681.9		35603
+FINEORG		-0.2		4862.95		24879
