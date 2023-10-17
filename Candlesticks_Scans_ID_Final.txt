@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.14		454.05		3624512
-WIPRO		0.41		411.9		1318791
-DRREDDY		1.26		5562.4		156840
+ITC		1.12		454.0		3649363
+WIPRO		0.43		411.95		1329808
+DRREDDY		1.3		5564.5		157611
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINDWELL		0.4		2145.45		7968
+DCMSHRIRAM		0.7		1009.05		15246
+GRINDWELL		0.4		2145.5		8122
