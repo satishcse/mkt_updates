@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.03		186.6		2555628
-TITAN		0.29		3310.85		252058
+ONGC		0.03		186.6		2563050
+WIPRO		0.44		412.0		1410546
+TITAN		0.29		3311.1		253705
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		0.6		1537.65		151304
-SAPPHIRE		-0.66		1424.95		78768
-LTTS		-1.37		4626.1		75041
-BLUEDART		0.33		6709.6		2747
+SAPPHIRE		-0.65		1425.0		78866
+LTTS		-1.38		4625.8		75242
+BLUEDART		0.33		6710.0		2751
