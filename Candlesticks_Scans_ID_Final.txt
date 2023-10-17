@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.8		245.4		3342337
-WIPRO		0.44		412.0		1209749
-DRREDDY		1.26		5562.4		130077
-BRITANNIA		0.26		4597.85		45695
+NTPC		0.76		245.3		3349809
+WIPRO		0.44		412.0		1212031
+DRREDDY		1.26		5562.45		130495
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-0.09		3691.95		48453
-LINDEINDIA		0.61		6460.0		18677
+NAUKRI		0.01		4125.85		121555
