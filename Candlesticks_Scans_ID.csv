@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,1.21,246.4,5327421
-COALINDIA,0.67,314.1,3077480
-ONGC,0.0,186.55,2507673
-TITAN,0.28,3310.55,239622
+NTPC,1.25,246.5,5410420
+COALINDIA,0.67,314.1,3110069
+ONGC,0.03,186.6,2531182
+TITAN,0.32,3311.9,245479
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ANURAS,-1.91,864.7,261927
+LTTS,-1.37,4626.0,73798
