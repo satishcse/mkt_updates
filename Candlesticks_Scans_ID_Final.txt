@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.74		314.3		4084369
-BAJFINANCE		0.52		8077.95		525873
-MARUTI		0.23		10728.95		335401
+COALINDIA		0.72		314.25		4090664
+JSWSTEEL		0.33		793.3		604644
+ADANIENT		0.44		2440.0		397366
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		0.44		843.5		168208
-BOSCHLTD		-1.2		20425.85		18700
+BOSCHLTD		-1.23		20420		18800
