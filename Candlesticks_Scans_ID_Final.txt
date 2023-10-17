@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.57		578.95		2495423
-KOTAKBANK		0.58		1759.85		687238
-LTIM		0.98		5213.05		147220
+SBIN		0.55		578.8		2502247
+KOTAKBANK		0.57		1759.8		689193
+LTIM		0.89		5208.5		147482
 
 Bullish_Hammer_15m_N500								 
 ======================= 
