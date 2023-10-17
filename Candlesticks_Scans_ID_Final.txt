@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.63		1192.1		522915
-NESTLEIND		0.79		23290.0		16711
+TATASTEEL		0.87		128.1		13848556
+TECHM		0.64		1192.15		524215
+NESTLEIND		0.57		23240.2		16968
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NAVINFLUOR		-0.14		3689.9		52624
-CRISIL		-0.35		3868.8		13372
+
