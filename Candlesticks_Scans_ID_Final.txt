@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		2.01		1348.75		688361
-BRITANNIA		0.36		4602.35		77759
+ONGC		0.0		186.55		3092916
+SBILIFE		1.97		1348.2		694063
+BRITANNIA		0.35		4602.0		78195
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SANOFI		-0.6		7467.4		2838
