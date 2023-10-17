@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		1.69		924.0		1456484
-WIPRO		0.76		413.3		708605
+TATACONSUM		1.68		923.85		1464164
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-USHAMART		-0.03		326.75		154933
-KEI		-0.2		2679.1		28234
-JKCEMENT		-0.16		3220.95		13945
+USHAMART		0.0		326.85		158925
+JKCEMENT		-0.16		3220.9		14098
