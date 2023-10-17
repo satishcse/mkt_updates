@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.12		454.0		3608523
-HINDALCO		0.1		483.9		2422097
-WIPRO		0.44		412.0		1293381
-DRREDDY		1.33		5566.15		154538
+ITC		1.14		454.05		3616516
+HINDALCO		0.09		483.85		2424599
+WIPRO		0.41		411.9		1294800
+DRREDDY		1.25		5561.9		156011
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOLARINDS		-0.69		5213.95		16856
+SAFARI		-0.57		4182.0		22598
+GRINDWELL		0.4		2145.45		7968
