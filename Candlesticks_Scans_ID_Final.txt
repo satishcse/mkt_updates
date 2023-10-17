@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.43		578.15		4530178
-AXISBANK		0.71		1011.9		2210631
-SUNPHARMA		0.54		1141.45		370945
-LTIM		1.13		5221.0		196600
+SBIN		0.43		578.1		4540309
+AXISBANK		0.71		1011.9		2216257
+SUNPHARMA		0.53		1141.3		372846
+LTIM		1.13		5220.9		196781
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHOPERSTOP		-0.94		682.35		15637
+
