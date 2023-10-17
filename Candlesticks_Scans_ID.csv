@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BAJFINANCE,0.64,8087.2,761374
-DIVISLAB,-0.13,3650.5,254294
+BAJFINANCE,0.66,8089.25,768740
+DIVISLAB,-0.22,3647.05,255271
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+WHIRLPOOL,-0.64,1681.95,33282
