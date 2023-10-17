@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.78		245.35		3284352
-WIPRO		0.4		411.85		1183677
-SUNPHARMA		0.41		1139.95		172050
-BRITANNIA		0.21		4595.8		44780
+NTPC		0.78		245.35		3290332
+COALINDIA		0.5		313.55		2338874
+WIPRO		0.39		411.8		1191747
+BRITANNIA		0.21		4595.7		44798
 
 Bullish_Hammer_15m_N500								 
 ======================= 
