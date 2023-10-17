@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.8,245.4,3640322
-BAJAJFINSV,0.48,1650.25,815218
-TECHM,0.73,1193.25,516141
-NESTLEIND,0.83,23300.0,16248
+NTPC,0.78,245.35,3654380
+BAJAJFINSV,0.53,1651.0,815744
+TECHM,0.69,1192.75,516825
+NESTLEIND,0.87,23309.5,16318
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HAVELLS,-0.52,1406.9,345538
+CRISIL,-0.33,3869.55,13088
