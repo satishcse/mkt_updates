@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.5		1277.05		1418646
+BAJFINANCE		0.69		8091.55		746932
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAXHEALTH		-0.25		575.0		642100
-BOSCHLTD		-1.59		20344.9		26690
+VIPIND		-0.26		663.95		397178
+SUNDRMFAST		-1.08		1275.0		38772
+BOSCHLTD		-1.58		20348.0		26710
+SANOFI		-1.31		7414.2		3951
