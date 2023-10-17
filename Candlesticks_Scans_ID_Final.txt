@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		1.61		923.2		1472267
+TATACONSUM		1.52		922.45		1477209
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-0.76		3078.25		455046
-DEEPAKNTR		0.33		2118.0		294462
-DMART		-0.45		3839.5		134687
-JKCEMENT		-0.16		3220.95		14100
+LT		-0.71		3079.95		457708
+JKCEMENT		-0.16		3220.95		14103
+VMART		0.32		1940.15		3935
