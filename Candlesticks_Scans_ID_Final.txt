@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.41		578.0		4593441
-ADANIPORTS		0.29		807.95		931046
-SUNPHARMA		0.46		1140.5		380331
+CIPLA		0.85		1174.25		474010
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHL		-0.68		5132.7		2297
+SHOPERSTOP		-0.83		683.05		15871
