@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.57		5105.45		75625
+BAJAJ-AUTO		0.6		5107.4		76555
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PERSISTENT		-0.72		5719.4		129097
