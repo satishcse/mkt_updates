@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.03		186.5		3016548
-BHARTIARTL		0.91		955.2		2075986
-LTIM		1.11		5219.6		220495
+ONGC		0.0		186.55		3042125
+SBILIFE		2.17		1350.9		655739
+LTIM		1.07		5217.85		220740
 
 Bullish_Hammer_15m_N500								 
 ======================= 
