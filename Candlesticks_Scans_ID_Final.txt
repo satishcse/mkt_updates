@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.91		128.15		13976273
-TECHM		0.62		1192.0		528796
-NESTLEIND		0.54		23232.95		17192
+POWERGRID		2.63		208.4		10510314
+ITC		1.16		454.15		3549024
+WIPRO		0.41		411.9		1284172
+DRREDDY		1.42		5571.3		151147
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MCX		-0.66		2182.7		491752
-CRISIL		-0.29		3871.2		13848
+
