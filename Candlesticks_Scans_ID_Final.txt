@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.42		578.05		4564472
-AXISBANK		0.7		1011.8		2238922
-ADANIPORTS		0.27		807.8		927168
-SUNPHARMA		0.54		1141.4		375783
+SBIN		0.44		578.2		4580932
+ADANIPORTS		0.25		807.7		929282
+SUNPHARMA		0.45		1140.45		378411
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOLARINDS		-1.93		5149.0		31527
-SHOPERSTOP		-0.79		683.35		15708
+SOLARINDS		-1.89		5150.9		31963
+SHOPERSTOP		-0.89		682.65		15747
