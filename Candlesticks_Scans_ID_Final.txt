@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		1.99		1348.55		697590
-BRITANNIA		0.38		4603.65		78947
+TATAMOTORS		-1.37		657.05		7553675
+ONGC		0.0		186.55		3104336
+LT		-0.9		3073.95		1462930
+CIPLA		0.79		1173.6		548662
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DEEPAKFERT		0.3		683.0		1046186
-TORNTPOWER		-0.31		732.1		356233
-SANOFI		-0.64		7463.95		2948
+
