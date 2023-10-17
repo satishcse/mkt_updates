@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.0		186.55		3009355
-BHARTIARTL		0.91		955.2		2065110
-LTIM		1.06		5217.2		219833
+COALINDIA		0.69		314.15		4505831
+ONGC		-0.03		186.5		3014852
+BHARTIARTL		0.93		955.35		2074461
+LTIM		1.08		5218.15		220360
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+M&M		-0.04		1573.9		648911
+ALKYLAMINE		-0.82		2285.0		14292
