@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.53		1277.35		1409848
+HCLTECH		0.5		1277.05		1418646
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KNRCON		-0.02		276.75		638650
+MAXHEALTH		-0.25		575.0		642100
+BOSCHLTD		-1.59		20344.9		26690
