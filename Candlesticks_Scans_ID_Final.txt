@@ -2,10 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.32		127.4		20750439
-SBIN		0.13		576.4		7991094
+SBIN		0.08		576.1		8092687
+HDFCLIFE		2.02		642.8		4069373
+INFY		0.4		1439.9		3371543
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAFARI		-0.81		4171.95		29914
+KEC		0.73		656.8		864539
+RHIM		-0.77		718.8		176183
+RELAXO		0.27		917.85		53313
+APARINDS		-1.44		5417.4		34993
+LINDEINDIA		-0.27		6403.4		32657
+SAFARI		-0.81		4171.9		29926
