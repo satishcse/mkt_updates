@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		1.63		923.45		1479609
+TATACONSUM		1.74		924.4		1485476
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-0.71		3079.95		462496
-VMART		0.42		1941.95		3975
+VMART		0.28		1939.35		3991
+INGERRAND		-0.15		2907.2		2148
