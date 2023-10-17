@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.28		127.35		20500387
-SBIN		0.13		576.4		7771176
-ITC		0.62		451.75		5424204
+TATASTEEL		0.24		127.3		20515420
+SBIN		0.15		576.5		7794030
+ITC		0.65		451.85		5436666
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYTEX		-0.19		1184.65		186479
-ECLERX		-0.02		2073.3		24407
+ECLERX		0.12		2076.3		24487
