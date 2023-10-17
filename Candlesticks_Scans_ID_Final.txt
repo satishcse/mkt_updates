@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.08		576.1		8164379
-HDFCLIFE		2.03		642.85		4070547
-INFY		0.4		1439.95		3375878
+SBIN		0.08		576.1		8186936
+HDFCLIFE		2.03		642.85		4073281
+INFY		0.39		1439.8		3378916
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KEC		0.73		656.8		864792
+
