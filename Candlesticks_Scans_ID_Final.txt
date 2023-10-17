@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.87		314.7		3972099
+COALINDIA		0.85		314.65		3980408
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKYLAMINE		-0.72		2287.25		10496
+MEDPLUS		0.6		769.0		30456
+ALKYLAMINE		-0.72		2287.2		10552
