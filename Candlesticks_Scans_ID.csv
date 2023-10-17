@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,1.77,206.65,7254347
-TATACONSUM,1.76,924.6,1504490
+POWERGRID,1.7,206.5,7289761
+TATACONSUM,1.73,924.35,1510333
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-USHAMART,0.14,327.3,163599
+USHAMART,0.09,327.15,164425
+DMART,-0.39,3841.95,142851
+APARINDS,-0.03,5494.9,12584
 VMART,0.42,1942.1,4114
