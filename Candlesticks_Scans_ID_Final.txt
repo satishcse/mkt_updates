@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.49		662.95		4966257
-ONGC		-0.16		186.25		1525823
-SUNPHARMA		0.41		1139.95		169259
-BAJAJ-AUTO		0.63		5108.75		77301
+ONGC		-0.16		186.25		1540000
+SUNPHARMA		0.38		1139.65		170528
+BAJAJ-AUTO		0.64		5109.2		77683
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		-0.73		5719.0		133847
-KIMS		-0.52		1921.0		49382
-AIAENG		0.04		3469.5		9596
+KIMS		-0.24		1926.45		50342
+SHOPERSTOP		-0.39		686.1		9073
