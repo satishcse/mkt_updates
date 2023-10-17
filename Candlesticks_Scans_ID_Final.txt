@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		2.63		208.4		10510314
-ITC		1.16		454.15		3549024
-WIPRO		0.41		411.9		1284172
-DRREDDY		1.42		5571.3		151147
+ITC		1.15		454.1		3556845
+WIPRO		0.41		411.9		1286748
+DRREDDY		1.35		5567.35		152647
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SOLARINDS		-0.67		5215		16573
