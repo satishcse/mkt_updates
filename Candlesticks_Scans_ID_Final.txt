@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.13		954.9		1599970
+BHARTIARTL		0.16		955.15		1601231
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PEL		-3.74		1014.4		849122
+ZYDUSLIFE		-0.8		585.55		715849
+CAMS		0.73		2588.85		202456
