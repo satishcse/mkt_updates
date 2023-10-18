@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.84		571.6		7426403
-AXISBANK		-1.02		997.8		3858288
+AXISBANK		-1.01		997.9		3887681
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RAJESHEXPO		-2.16		446.85		3002625
+EICHERMOT		-0.28		3490.95		222375
+CARBORUNIV		-0.28		1169.15		28923
