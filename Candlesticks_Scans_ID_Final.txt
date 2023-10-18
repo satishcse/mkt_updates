@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.32		353.55		1241522
-HINDUNILVR		-0.5		2543.3		245422
+BPCL		-0.39		353.3		1249009
+HINDUNILVR		-0.48		2544.0		246170
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		-1.73		1178.0		488920
-KIMS		1.47		1937.95		136078
-DATAPATTNS		-0.91		2072.25		50676
+KIMS		1.39		1936.4		136083
 AMBER		0.37		2970.0		38926
 GLAXO		-0.69		1523.3		10741
