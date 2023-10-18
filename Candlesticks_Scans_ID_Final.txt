@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-1.61		1630.9		1051946
-BAJAJ-AUTO		0.36		5160.0		282473
+BHARTIARTL		0.17		955.3		1644976
+BAJAJFINSV		-1.61		1630.9		1053101
+BAJAJ-AUTO		0.43		5163.2		283626
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TEJASNET		0.86		883.9		2076423
+VOLTAS		-1.28		840.05		1089334
+GMMPFAUDLR		-0.61		1757.55		197380
