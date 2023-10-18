@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.29		1571.95		292284
-ULTRACEMCO		-0.04		8298.3		66792
+ULTRACEMCO		-0.02		8299.45		67024
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINEORG		-0.88		4817.95		5235
+CYIENT		-2.0		1742.3		106586
+DATAPATTNS		-0.67		2077.25		45205
