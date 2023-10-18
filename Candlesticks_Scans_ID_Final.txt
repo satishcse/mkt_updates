@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.13		954.9		1608316
+BHARTIARTL		0.14		955		1609153
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PEL		-3.47		1017.25		871304
-SIEMENS		-2.65		3498.0		448039
-CAMS		0.64		2586.4		202981
+HAVELLS		-3.04		1342.0		1675236
+PEL		-3.36		1018.4		884085
+SIEMENS		-2.65		3498.0		449091
+CAMS		0.66		2586.95		203285
 KSB		0.34		3178.55		11963
