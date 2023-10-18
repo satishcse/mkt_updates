@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-0.41		1155.0		19485
-AJANTPHARM		-0.63		1763.75		7202
+OLECTRA		-0.41		1154.95		19739
