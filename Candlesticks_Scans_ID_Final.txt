@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-INFY		0.51		1449.85		2327191
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ATUL		-1.01		6814.0		44617
+LINDEINDIA		-0.82		6349.75		21544
