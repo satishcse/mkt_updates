@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.97		205.15		3065066
-UPL		0.42		627.55		223517
+POWERGRID		-0.97		205.15		3076655
+UPL		0.38		627.25		234815
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DIXON		-0.14		5466.5		111987
