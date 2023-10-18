@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.02		8299.65		65560
+M&M		-0.29		1572.05		287734
+ULTRACEMCO		-0.08		8294.6		66151
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-0.24		1917.0		113534
-STARHEALTH		-0.57		591.85		55270
-JKCEMENT		-1.13		3253.1		40081
-FINEORG		-0.9		4817.15		5090
+TORNTPHARM		-0.25		1916.75		114279
+STARHEALTH		-0.56		591.9		55382
+JKCEMENT		-1.09		3254.2		40082
