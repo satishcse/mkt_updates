@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HINDUNILVR		-0.27		2549.15		287488
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZENSARTECH		-4.39		526.0		2140631
-SKFINDIA		-0.42		5205.55		3844
+OFSS		-1.02		4128.15		17967
