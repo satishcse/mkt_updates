@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.33		485.95		6508162
-ONGC		0.19		186.6		5352179
-BPCL		-0.99		351.2		1831309
-BHARTIARTL		0.13		954.9		1460914
+ONGC		0.21		186.65		5359752
+BPCL		-0.99		351.2		1832336
+BHARTIARTL		0.12		954.8		1464186
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLICYBZR		-1.18		735.9		590485
-ATUL		-1.02		6813.65		45027
+POLICYBZR		-1.2		735.75		591281
+METROPOLIS		-0.73		1533.45		322811
+CYIENT		-2.72		1729.55		164135
+TORNTPOWER		-0.31		731.95		148316
