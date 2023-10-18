@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-1.31		2400.0		21702
-APARINDS		-1.71		5324.4		19418
-POWERINDIA		-0.46		4553.45		14471
+MASTEK		-1.17		2403.25		21791
+POWERINDIA		-0.46		4553.5		14472
 INDIGOPNTS		-0.84		1457.8		7114
