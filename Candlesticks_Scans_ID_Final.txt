@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.95		571.0		7217824
-CIPLA		3.4		1213.35		5129152
-DIVISLAB		0.5		3664.9		108281
+SBIN		-0.93		571.1		7247869
+CIPLA		3.33		1212.55		5134596
+DIVISLAB		0.5		3664.8		108309
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GALAXYSURF		-0.54		2647.6		5218
+
