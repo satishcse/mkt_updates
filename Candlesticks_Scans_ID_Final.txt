@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		-1.57		1179.85		402185
-LTTS		-4.35		4412.8		349206
-VOLTAS		-0.73		844.7		325711
-BRITANNIA		-0.09		4596.05		28642
-SCHAEFFLER		-0.19		3085.35		8886
+LTTS		-4.34		4413.0		350264
+PATANJALI		0.12		1323.0		44113
+BRITANNIA		-0.09		4596.2		28717
+SCHAEFFLER		-0.17		3085.8		8904
