@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.46		644.75		1424113
-M&M		-0.1		1575.0		532591
-NESTLEIND		-0.17		23285.65		22348
+TATASTEEL		-0.31		127.0		12933481
+KOTAKBANK		-1.13		1751.55		2008414
+HDFCLIFE		0.46		644.75		1426323
+M&M		-0.11		1574.9		534351
+NESTLEIND		-0.13		23294.15		22365
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PEL		-2.95		1022.8		641040
-RAINBOW		-3.44		1053.25		84850
-MANYAVAR		-1.15		1280.8		40178
+
