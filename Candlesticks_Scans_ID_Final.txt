@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.32		186.85		4344923
-HINDUNILVR		-0.3		2548.55		287814
+ONGC		0.24		186.7		4355274
+HINDUNILVR		-0.31		2548.15		288845
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTTS		-5.08		4379.0		470568
-SHRIRAMFIN		-1.56		1859.0		320475
-LALPATHLAB		-0.55		2532.8		60385
-OFSS		-1.0		4129.0		17979
+LTTS		-5.02		4381.85		472186
+ADANIENT		-0.84		2408.1		377169
+SHRIRAMFIN		-1.57		1858.75		320874
+LALPATHLAB		-0.56		2532.7		60387
+OFSS		-1.0		4129.0		17982
