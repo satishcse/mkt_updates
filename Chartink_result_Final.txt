@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-SUNPHARMA		1.39		1152.65		1219963
+SUNPHARMA		1.5		1153.9		1223420
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -11,12 +11,15 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-CANFINHOME		-1.53		756.5		1265736
+CANFINHOME		-1.45		757.1		1269178
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-M&M		-0.2		1573.5		452968
+CUB		0.32		139.5		9524220
+M&M		-0.2		1573.5		454319
+COLPAL		-0.54		2059.05		162109
+PAGEIND		-0.73		39039.0		5485
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -25,25 +28,24 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-MFSL		-0.84		929.7		365526
-IOC		-0.98		90.95		4551244
-HDFCAMC		-0.99		2870.7		108267
-IGL		-1.09		482.15		498934
-JUBLFOOD		-1.11		529.85		891005
-GUJGASLTD		-1.17		422.15		1071827
-POWERGRID		-1.21		204.65		6805353
-TVSMOTOR		-1.25		1589.35		192024
-HDFCBANK		-1.3		1521.2		8351773
-APOLLOTYRE		-1.64		383.5		1559734
-BAJAJFINSV		-1.76		1628.45		625965
-SRF		-1.83		2235.0		175889
-INDUSTOWER		-2.19		187.9		3354750
-HAVELLS		-2.57		1348.5		1088771
-CHOLAFIN		-2.57		1212.7		1563801
-MCDOWELL-N		-2.57		1058.5		574002
+MFSL		-0.83		929.8		366014
+IOC		-0.98		90.95		4556314
+HDFCAMC		-0.99		2870.75		108955
+JUBLFOOD		-1.08		530.0		892016
+IGL		-1.1		482.1		499262
+GUJGASLTD		-1.17		422.15		1072118
+TVSMOTOR		-1.25		1589.3		192209
+POWERGRID		-1.26		204.55		6808564
+HDFCBANK		-1.3		1521.2		8365193
+APOLLOTYRE		-1.71		383.25		1560998
+BAJAJFINSV		-1.76		1628.4		627103
+SRF		-1.78		2236.0		176093
+INDUSTOWER		-2.26		187.75		3357470
+HAVELLS		-2.57		1348.45		1090400
+CHOLAFIN		-2.58		1212.55		1566732
+MCDOWELL-N		-2.7		1057.05		576357
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-NAUKRI		1.74		4199.45		342414
-CUB		0.14		139.25		9404852
+NAUKRI		1.71		4198.1		342833
