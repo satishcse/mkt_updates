@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGO		-0.63		2582.9		342858
+INDIGO		-0.63		2583.05		343308
+PATANJALI		-0.64		1313.0		83579
+AFFLE		-0.45		1067.45		62853
+ECLERX		-1.77		2036.75		16120
