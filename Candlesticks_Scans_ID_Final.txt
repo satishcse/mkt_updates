@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-INFY		0.38		1447.9		1850994
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 HEG		-1.14		1757.4		92415
-RAMCOCEM		-0.87		984.05		88973
 PGHH		-0.45		17269.5		568
