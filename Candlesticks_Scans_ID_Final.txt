@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.32		186.85		4466723
-HINDUNILVR		-0.38		2546.5		305887
+HINDUNILVR		-0.39		2546.2		307328
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-1.25		4965.75		195522
-TANLA		-1.52		1050.65		164809
-NAVINFLUOR		-0.86		3665.0		103510
+BSOFT		-0.58		551.3		1869739
+GODREJIND		0.77		663.95		561485
+APOLLOHOSP		-1.28		4964.6		195954
+NAVINFLUOR		-0.87		3664.8		105753
 SFL		-1.98		1115.05		57516
+POLYMED		-0.14		1377.6		20208
+CHEMPLASTS		-0.16		476.4		19384
+SKFINDIA		-0.57		5197.4		4154
