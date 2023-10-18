@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.92		571.15		7384266
-ICICIBANK		-1.04		943.95		7200402
-CIPLA		3.39		1213.3		5157689
+ADANIPORTS		-0.93		797.65		1232818
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		-1.1		2518.8		74667
 JBMA		-0.09		1250.0		13258
 GALAXYSURF		-0.51		2648.5		5247
