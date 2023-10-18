@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZENSARTECH		-2.21		538.0		1881720
-INDIGO		-0.63		2582.9		341017
-GODREJPROP		-2.23		1669.4		155061
-RAYMOND		-0.46		1796.7		105419
-ECLERX		-1.88		2034.45		15903
+ZENSARTECH		-2.07		538.75		1892668
+MGL		-1.85		1119.5		161100
+NAVINFLUOR		-0.61		3674.2		84680
+OFSS		-0.82		4136.4		16839
