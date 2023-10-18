@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		0.72		3672.85		27006
+INFY		0.42		1448.55		505288
+DIVISLAB		0.74		3673.75		27338
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+OLECTRA		-0.63		1152.35		36012
+BEML		0.15		2393.5		26932
+SIEMENS		-0.22		3585.0		21952
