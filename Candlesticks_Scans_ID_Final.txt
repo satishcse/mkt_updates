@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		0.85		3677.6		26023
+DIVISLAB		0.81		3676.3		26647
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-0.64		1152.3		34905
-SHOPERSTOP		-0.07		682.15		4580
-ZYDUSWELL		-0.03		1565.75		2021
+ACC		-0.11		2037.35		15394
