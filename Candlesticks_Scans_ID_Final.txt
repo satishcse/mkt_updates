@@ -1,14 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ULTRACEMCO		-0.02		8299.5		67335
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PEL		-1.5		1038.0		291983
-PRAJIND		-1.45		581.55		252432
-SYRMA		-0.83		635.05		184516
-DATAPATTNS		-0.67		2077.25		45332
+IIFL		0.88		671.15		271685
+GUJALKALI		-1.71		777.4		91649
+DATAPATTNS		-0.67		2077.2		45358
 PGHL		-0.61		5098.9		625
