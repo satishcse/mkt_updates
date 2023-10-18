@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.02		1576.25		154047
-DIVISLAB		0.87		3678.2		32786
-NESTLEIND		0.18		23366.45		6677
+M&M		-0.06		1575.7		155909
+DIVISLAB		0.84		3677.2		32891
+NESTLEIND		0.11		23352.1		6689
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+BATAINDIA		-0.56		1619.9		17974
 SANOFI		0.13		7443.85		511
