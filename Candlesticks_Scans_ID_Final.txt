@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZENSARTECH		-2.07		538.75		1892668
-MGL		-1.85		1119.5		161100
-NAVINFLUOR		-0.61		3674.2		84680
-OFSS		-0.82		4136.4		16839
+NAVINFLUOR		-0.6		3674.55		84854
