@@ -2,10 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-1.15		795.85		1122593
+ADANIPORTS		-1.13		796		1128662
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GMMPFAUDLR		-0.21		1764.6		148767
-BEML		-2.49		2330.5		104157
+TCS		-0.39		3493.3		678615
+UBL		-0.82		1559.5		169759
+GMMPFAUDLR		-0.26		1763.75		148960
+HDFCAMC		-0.94		2872.0		106579
+BEML		-2.48		2330.6		104363
+PIIND		-1.1		3496.6		41306
+MASTEK		-1.8		2387.95		29924
+PGHH		-0.44		17270.0		565
