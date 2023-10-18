@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.95		661.9		3345511
-POWERGRID		-0.89		205.3		2943204
+POWERGRID		-0.97		205.15		2984915
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTTS		-3.72		4441.9		264219
+LTTS		-3.72		4442.0		265134
+DIXON		-0.14		5466.8		110945
