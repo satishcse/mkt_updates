@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.39		2546.25		88713
-DIVISLAB		0.73		3673.35		29054
+HINDUNILVR		-0.33		2547.7		89921
+DIVISLAB		0.74		3673.45		29315
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BEML		0.16		2393.75		27724
-PATANJALI		0.8		1332.0		16753
+NAM-INDIA		-1.37		377.4		115877
+NAVINFLUOR		0.06		3698.85		18966
+PATANJALI		0.79		1331.9		16769
