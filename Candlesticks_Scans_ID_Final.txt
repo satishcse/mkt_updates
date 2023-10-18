@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.95		1754.65		2262807
-SUNPHARMA		1.47		1153.55		1863835
+BHARTIARTL		0.17		955.25		1580978
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PERSISTENT		-1.22		5641.9		292313
-DMART		-1.45		3787.0		275050
-MANKIND		-0.59		1800.0		151953
-CARBORUNIV		-1.19		1158.4		41059
+
