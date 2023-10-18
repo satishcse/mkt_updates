@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.99		351.2		1834778
-BHARTIARTL		0.01		953.75		1475759
+KOTAKBANK		-0.98		1754.15		2119337
+WIPRO		-0.53		409.2		1631836
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POLICYBZR		-1.09		736.55		592827
-INDIGO		-1.01		2573.1		421769
-TORNTPOWER		-0.28		732.2		148383
-LINDEINDIA		-0.92		6343.45		22095
+
