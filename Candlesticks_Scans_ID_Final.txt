@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-1.6		1631.15		1049511
-BAJAJ-AUTO		0.35		5159.3		281629
+SUNPHARMA		1.47		1153.55		1933859
+BAJAJFINSV		-1.6		1631.05		1050660
+BAJAJ-AUTO		0.38		5160.6		282095
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TEJASNET		0.86		883.9		2072836
-ACI		-1.71		659.2		347103
+
