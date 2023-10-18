@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.46		644.75		1420661
-M&M		-0.1		1575.0		529560
-NESTLEIND		-0.19		23282.0		22318
+HDFCLIFE		0.46		644.75		1424113
+M&M		-0.1		1575.0		532591
+NESTLEIND		-0.17		23285.65		22348
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAINBOW		-3.44		1053.25		84741
+PEL		-2.95		1022.8		641040
+RAINBOW		-3.44		1053.25		84850
+MANYAVAR		-1.15		1280.8		40178
