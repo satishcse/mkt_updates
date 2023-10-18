@@ -2,16 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		3.46		1214.1		5243760
-INFY		0.34		1447.3		2076707
+CIPLA		3.47		1214.2		5252057
+INFY		0.36		1447.7		2082056
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAJESHEXPO		-2.12		447.0		3041368
-TATACONSUM		-1.23		896.65		798954
-ATUL		-0.71		6834.8		42916
-APARINDS		-2.37		5288.45		34090
-CARBORUNIV		-0.34		1168.45		29761
-SYMPHONY		-0.98		860.9		28789
-CERA		-1.42		8903.15		9542
+ATUL		-0.75		6832.0		42928
+APARINDS		-2.31		5291.6		34106
