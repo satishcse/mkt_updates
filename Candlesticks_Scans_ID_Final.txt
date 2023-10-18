@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.42		1448.55		505288
-DIVISLAB		0.74		3673.75		27338
+HINDUNILVR		-0.27		2549.25		85424
+DIVISLAB		0.67		3671.2		28476
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-0.63		1152.35		36012
-BEML		0.15		2393.5		26932
-SIEMENS		-0.22		3585.0		21952
+AXISBANK		0.2		1010.05		630342
+OLECTRA		-0.62		1152.5		36424
+ACC		-0.16		2036.4		19080
+STARHEALTH		0.34		597.25		18665
+NAVINFLUOR		0.05		3698.8		18490
