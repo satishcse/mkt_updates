@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.61		948.05		1926008
-BRITANNIA		0.09		4604.7		17490
-NESTLEIND		0.12		23352.95		7123
+ICICIBANK		-0.62		947.95		1946847
+NESTLEIND		0.12		23353.3		7130
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-0.33		1623.6		19164
+BSOFT		0.47		557.1		1006456
+MPHASIS		-0.99		2268.0		105687
