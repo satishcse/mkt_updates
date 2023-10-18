@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.36		1430.85		2129587
-WIPRO		-0.73		408.4		1702471
+INDUSINDBK		-0.39		1430.35		2135996
+WIPRO		-0.67		408.65		1709136
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IIFL		-0.71		660.6		477446
-VINATIORGA		-0.17		1789.1		19797
+VINATIORGA		-0.18		1789		19804
