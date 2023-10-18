@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.93		797.65		1232818
+SBIN		-0.84		571.6		7426403
+AXISBANK		-1.02		997.8		3858288
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JBMA		-0.09		1250.0		13258
-GALAXYSURF		-0.51		2648.5		5247
+
