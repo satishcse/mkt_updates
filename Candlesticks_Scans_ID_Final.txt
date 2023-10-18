@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.21		186.65		5359752
-BPCL		-0.99		351.2		1832336
-BHARTIARTL		0.12		954.8		1464186
+ONGC		0.21		186.65		5364956
+ITC		-0.12		452.9		5315812
+BHARTIARTL		0.04		954.0		1471935
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLICYBZR		-1.2		735.75		591281
-METROPOLIS		-0.73		1533.45		322811
-CYIENT		-2.72		1729.55		164135
+POLICYBZR		-1.1		736.5		592527
+METROPOLIS		-0.77		1532.95		323372
 TORNTPOWER		-0.31		731.95		148316
