@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.4		1448.2		2043029
+INFY		0.4		1448.25		2049707
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAJESHEXPO		-2.16		446.85		3018195
-PERSISTENT		-0.83		5664.1		243366
-EICHERMOT		-0.11		3496.85		224814
+RAJESHEXPO		-2.12		447.0		3020550
+ATUL		-0.75		6832.3		42771
+APARINDS		-2.38		5288.1		33401
