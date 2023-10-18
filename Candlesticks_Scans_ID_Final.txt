@@ -1,13 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BPCL		-0.39		353.3		1249009
-HINDUNILVR		-0.48		2544.0		246170
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KIMS		1.39		1936.4		136083
-AMBER		0.37		2970.0		38926
-GLAXO		-0.69		1523.3		10741
+INDIGO		-0.67		2582.0		339333
+GODREJPROP		-2.37		1667.05		146516
+JKCEMENT		-2.1		3221.0		47590
+ALKYLAMINE		-0.65		2269.15		6692
+CRAFTSMAN		-1.81		4494.45		6523
+ABBOTINDIA		-0.22		22372.9		1800
