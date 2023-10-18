@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.57		319.2		2145538
-NESTLEIND		0.12		23354.05		6822
+POWERGRID		-0.84		205.4		2385347
+NTPC		-0.26		245.3		1023595
+BRITANNIA		0.1		4604.8		16772
+NESTLEIND		0.11		23352.05		6853
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BATAINDIA		-0.54		1620.25		18522
+
