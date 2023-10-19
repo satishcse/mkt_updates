@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-2.99		395.25		10444562
-POWERGRID		0.34		207.2		8930868
-TECHM		-1.09		1174.15		2070266
-HCLTECH		0.15		1271.3		1559481
+POWERGRID		0.29		207.1		8949285
+SBIN		-0.22		571.4		8224868
+TECHM		-1.04		1174.8		2073128
 
 Bullish_Hammer_15m_N500								 
 ======================= 
