@@ -1,12 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBIN		-0.22		571.4		2441067
+AXISBANK		-0.58		987.1		1080920
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-0.54		5309.95		364813
-TATACHEM		-1.41		1029.5		258812
-SBILIFE		-1.03		1342.35		73630
-NESTLEIND		-0.39		23171.15		9744
+ASTRAL		-5.52		1855.05		610647
+POLYCAB		-0.58		5307.8		367049
+AARTIDRUGS		-2.31		541.2		165542
+BHARATFORG		-1.77		1086.5		124152
