@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.65		125.0		10944875
-RELIANCE		-0.72		2307.2		2092027
-BPCL		0.47		351.85		1017912
+TATASTEEL		-1.65		125.0		11038586
+RELIANCE		-0.69		2307.85		2099201
+BPCL		0.51		352.0		1021498
 
 Bullish_Hammer_15m_N500								 
 ======================= 
