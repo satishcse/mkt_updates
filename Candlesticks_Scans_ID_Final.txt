@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.43		186.15		5628278
-HCLTECH		0.15		1271.3		1334172
+ONGC		-0.37		186.25		5666928
+BHARTIARTL		-0.91		944.2		2671701
+BPCL		0.51		352.0		1750466
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BALAMINES		-0.72		2179		15402
+
