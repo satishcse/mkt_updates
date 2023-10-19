@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-0.06		1268.75		827767
+BPCL		0.53		352.05		1074858
+HCLTECH		-0.04		1269.0		830311
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-0.71		3649.15		50626
+UPL		-1.63		610.45		890227
