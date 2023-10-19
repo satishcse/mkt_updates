@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-1.26		660.05		2860619
-UPL		-1.55		610.95		701179
+TATAMOTORS		-1.2		660.5		2868706
+BPCL		0.53		352.05		975915
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUROPHARMA		-0.66		893.95		175649
+CDSL		-1.22		1332.0		221834
+AUROPHARMA		-0.66		893.95		177345
