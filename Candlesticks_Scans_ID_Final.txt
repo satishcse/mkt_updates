@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.79		352.95		1228334
-KOTAKBANK		-0.46		1745.35		805574
+BPCL		0.77		352.9		1240412
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		-0.68		4550		6011
+POWERINDIA		-0.68		4550		6030
