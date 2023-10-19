@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-1.04		1174.75		2054072
+TECHM		-1.07		1174.45		2065401
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALAMINES		-1.16		2169.3		25980
+BALAMINES		-1.18		2168.9		26075
