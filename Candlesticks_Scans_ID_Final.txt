@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.13		991.6		4504181
-BHARTIARTL		-1.05		942.8		3924228
+AXISBANK		-0.12		991.65		4514687
+BHARTIARTL		-1.05		942.8		3943788
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JBCHEPHARM		-3.6		1340		147602
