@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.94		125.9		26716497
-POWERGRID		-0.39		205.7		11516006
-SBIN		-0.27		571.1		10367087
-TITAN		0.31		3292.9		609054
+TATASTEEL		-0.94		125.9		26750756
+POWERGRID		-0.36		205.75		11542093
+TITAN		0.3		3292.7		610128
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUROPHARMA		-1.78		883.9		880110
+AUROPHARMA		-1.77		884.0		881513
+CENTURYPLY		-0.22		637.55		43307
