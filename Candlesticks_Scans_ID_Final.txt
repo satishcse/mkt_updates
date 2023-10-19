@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.35		186.3		6458812
-BPCL		0.97		353.6		2187966
+ONGC		-0.35		186.3		6481814
+BPCL		0.9		353.35		2203191
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKYLAMINE		-0.69		2230.95		23112
+ALKYLAMINE		-0.72		2230.1		23311
