@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.22		571.4		2516533
-AXISBANK		-0.53		987.55		1097755
+SBIN		-0.19		571.55		2527408
+AXISBANK		-0.54		987.45		1103910
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-1.13		1765.95		77345
+AARTIDRUGS		-1.82		543.9		170813
+TATACOMM		-1.07		1766.95		78094
+BOSCHLTD		-0.61		19998.9		2056
