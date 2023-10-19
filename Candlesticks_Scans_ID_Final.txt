@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.24		571.3		2555915
-AXISBANK		-0.61		986.8		1121408
+SBIN		-0.11		572		2575300
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-0.63		1904.95		29364
-SHREECEM		-1.67		26365.0		5747
+BOSCHLTD		-0.6		20000.45		2163
