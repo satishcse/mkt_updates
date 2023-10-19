@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.11		572		2610884
+SBIN		-0.12		571.95		2668466
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAJESHEXPO		0.33		449.85		1578005
+CGPOWER		-1.01		383.0		471076
+SHREECEM		-1.65		26372.3		5947
