@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.19		452.5		2529828
+ITC		0.21		452.6		2535696
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.38		3084.65		188890
-IPCALAB		-0.88		955.95		148095
-BIKAJI		-0.05		483.6		36178
-ENDURANCE		-1.35		1588.45		7938
-ATUL		-0.6		6798.75		5941
+SUNPHARMA		-0.61		1146.4		717913
+ASIANPAINT		-0.37		3085.0		189325
+IPCALAB		-0.91		955.65		148418
+EICHERMOT		-0.65		3473.35		125040
+BIKAJI		-0.12		483.25		36641
+ATUL		-0.6		6798.4		6019
