@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.14		125.65		18233970
-SBIN		-0.23		571.35		6736022
-ONGC		-0.37		186.25		5487694
-BPCL		0.51		352.0		1683649
-ULTRACEMCO		0.2		8295.0		247700
+TATASTEEL		-1.1		125.7		18261591
+SBIN		-0.24		571.25		6777325
+ONGC		-0.37		186.25		5498133
+BPCL		0.57		352.2		1693637
+ULTRACEMCO		0.18		8293.55		248175
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPOWER		-2.15		714.6		61342
-BALAMINES		-0.5		2183.7		13520
+CGPOWER		-3.45		373.55		1818278
+BALAMINES		-0.51		2183.45		13538
