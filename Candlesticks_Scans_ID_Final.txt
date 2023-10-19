@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.42		3058.25		1005076
+LT		0.44		3058.85		1007463
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		-1.36		2953.1		85078
-BALAMINES		-1.4		2164.0		24804
+TIINDIA		-1.38		2952.45		85120
+BALAMINES		-1.33		2165.55		24891
