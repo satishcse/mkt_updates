@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.72		1508.85		2308408
+HDFCBANK		-0.69		1509.25		2335706
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		1.15		1436.75		4100768
-AFFLE		-0.33		1061.0		10524
-SAPPHIRE		-0.7		1407.45		1599
-ABBOTINDIA		-0.43		22331.8		387
+INDUSINDBK		0.94		1433.7		4766576
+GSFC		-1.12		203.9		1288125
+SPARC		-1.29		237.25		260632
+SUNPHARMA		-0.74		1144.9		153916
+LALPATHLAB		-3.0		2429.25		107099
+AFFLE		-0.16		1062.9		10820
