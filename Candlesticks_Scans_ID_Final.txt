@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.79		633.45		1221611
-UPL		-1.32		612.35		547151
-MARUTI		-0.21		10765.85		67052
+UPL		-1.28		612.6		548360
+MARUTI		-0.21		10766.3		67289
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		-1.52		1199.95		402012
+ENDURANCE		-1.31		1589.1		6948
