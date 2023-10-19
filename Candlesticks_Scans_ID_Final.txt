@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.22		571.4		2487787
-AXISBANK		-0.53		987.55		1090650
+SBIN		-0.22		571.4		2516533
+AXISBANK		-0.53		987.55		1097755
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.92		632.6		959453
+TATACOMM		-1.13		1765.95		77345
