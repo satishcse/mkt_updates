@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		-0.43		186.15		4645718
+BPCL		0.83		353.1		1190487
+KOTAKBANK		-0.44		1745.75		787768
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HONAUT		-0.64		37625		914
+
