@@ -10,12 +10,13 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-LTIM		3.35		5328		337945
-PERSISTENT		2.66		5868		221424
+LTIM		3.39		5330.0		350701
+PERSISTENT		2.67		5868.3		229985
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BANKNIFTY		-0.49		43675.6		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -66,13 +67,13 @@ ASTRAL		-5.51		1855.15		505414
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-LTIM		3.35		5328.0		337945
-COFORGE		1.66		5176.8		252113
-ICICIGI		1.33		1376.6		387907
-MARUTI		-0.31		10755.1		54627
-INFY		-0.34		1435.65		739183
-BHARTIARTL		-0.67		946.45		589370
-M&M		-0.69		1564.0		264528
-HINDUNILVR		-0.7		2530.45		155647
-AXISBANK		-0.71		985.8		996675
-TECHM		-1.05		1174.65		435615
+LTIM		3.39		5330.0		350701
+COFORGE		1.66		5176.45		262866
+ICICIGI		1.2		1374.9		395134
+MARUTI		-0.28		10757.75		54855
+INFY		-0.3		1436.25		749905
+AXISBANK		-0.56		987.25		1003610
+HINDUNILVR		-0.6		2533.05		159710
+M&M		-0.6		1565.4		266987
+BHARTIARTL		-0.68		946.35		595465
+TECHM		-0.7		1178.85		456231
