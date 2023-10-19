@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.24		207.0		9042240
-SBIN		-0.2		571.5		8284762
-ITC		-0.38		449.95		5899575
-TECHM		-1.18		1173.05		2092486
+POWERGRID		0.24		207.0		9056952
+SBIN		-0.17		571.65		8294423
+ITC		-0.37		450.0		5933311
+TECHM		-1.18		1173.1		2093872
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SCHAEFFLER		-0.89		3068.2		20477
+
