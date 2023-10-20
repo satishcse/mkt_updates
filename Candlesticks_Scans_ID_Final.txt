@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-0.39		1342.85		83081
+SBILIFE		-0.52		1341.15		86428
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GESHIP		-0.1		879.1		37227
-JBCHEPHARM		-0.67		1329.2		21224
-DMART		-0.37		3753.0		20198
-CARBORUNIV		-0.27		1137.8		9715
-PAGEIND		-0.35		38567.25		1280
+NATCOPHARM		-0.76		827.4		57379
+GESHIP		-0.11		879.0		37993
+JBCHEPHARM		-0.67		1329.2		21261
+CARBORUNIV		-0.25		1138.05		9749
 3MINDIA		0.12		30477.5		134
