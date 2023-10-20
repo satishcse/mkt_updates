@@ -1,13 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-0.63		125.2		4985227
+ONGC		0.27		186.8		1633155
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MGL		-6.31		1052.9		673216
-DEEPAKFERT		-0.42		676.45		140543
-TRENT		-1.02		2039.65		75763
-EPIGRAL		-0.6		953.65		4259
+JINDALSAW		0.01		396.0		404454
+INDIGO		-2.37		2467.6		246847
+EPIGRAL		-0.4		955.55		4262
+GRINFRA		-0.26		1195.2		1996
 3MINDIA		-0.11		30408.2		196
