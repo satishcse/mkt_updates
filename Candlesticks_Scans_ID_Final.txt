@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-2.26		345.7		1576354
-ADANIENT		-0.35		2393.9		1111937
-SUNPHARMA		0.13		1142.95		660627
+RELIANCE		-0.29		2299.4		3623790
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+VMART		-0.98		1875.65		11909
