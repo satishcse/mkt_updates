@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.46		1427.1		592014
+INFY		-0.39		1428		594525
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KPITTECH		-0.63		1205.55		111653
+UTIAMC		-1.26		776.0		35633
