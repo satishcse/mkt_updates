@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-1.36,203.0,7855702
-RELIANCE,-0.01,2305.85,1722489
-HINDALCO,-0.72,476.5,972334
-CIPLA,-1.01,1210.9,214826
+ONGC,0.21,186.7,2806820
+HINDALCO,-0.68,476.7,975514
+TCS,1.14,3494.9,451386
+CIPLA,-1.0,1211.05,215894
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-nsecode,per_chg,close,volume
-FINEORG,-1.18,4749.45,5752
+
