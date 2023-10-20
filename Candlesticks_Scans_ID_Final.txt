@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		-0.32		313.8		2167157
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLENMARK		-1.12		784.25		121790
+GLENMARK		-1.12		784.25		121880
+EPIGRAL		-1.06		949.25		13852
