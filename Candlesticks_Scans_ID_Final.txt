@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.58		202.55		16044699
-AXISBANK		-0.88		982.65		4628502
-GRASIM		-1.49		1946.25		282646
+ONGC		-0.11		186.1		5108586
+HINDALCO		-1.67		471.95		2079287
+ASIANPAINT		0.33		3111.95		429056
+DRREDDY		-1.22		5562.4		135381
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-4.33		1700.0		1147771
-TEAMLEASE		0.02		2600.75		19133
-FINEORG		-1.21		4748.2		10179
+BLUESTARCO		-0.98		935		92985
