@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.21		186.7		1689579
+ONGC		0.19		186.65		1711996
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKFERT		-0.52		675.8		142966
+EMAMILTD		0.98		509.85		215985
+DEEPAKFERT		-0.5		675.9		143242
+SAPPHIRE		-0.27		1408.2		10967
