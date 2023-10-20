@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFSL		-0.99		929.6		246344
-CONCOR		-0.32		711.2		94407
+MFSL		-0.96		929.9		248018
+CONCOR		-0.29		711.35		94870
 SUNDRMFAST		-0.64		1308.45		32743
-EPIGRAL		-0.98		950.0		14087
+JKCEMENT		-0.53		3327.5		18518
+EPIGRAL		-0.99		949.95		14088
