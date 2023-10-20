@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.69		471.85		2106549
-M&M		-0.88		1555.8		820124
-ASIANPAINT		0.08		3104.25		442106
+HINDALCO		-1.66		472.0		2107494
+M&M		-0.89		1555.55		821220
+ASIANPAINT		0.1		3105.05		442939
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AIAENG		-2.52		3448.15		79208
+SONACOMS		-2.11		537.8		960255
+KAJARIACER		-1.26		1243.9		319472
+AIAENG		-2.63		3444.5		79288
