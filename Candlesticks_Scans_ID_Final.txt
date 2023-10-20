@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+WIPRO		-0.71		392.5		2727533
+GRASIM		-1.46		1946.8		253263
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANAPPURAM		-1.13		140.05		3201332
-NAZARA		-0.77		828.95		75784
+MANAPPURAM		-1.02		140.2		3202678
+CHEMPLASTS		-1.12		459.45		36623
