@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.11		186.1		5108586
-HINDALCO		-1.67		471.95		2079287
-ASIANPAINT		0.33		3111.95		429056
-DRREDDY		-1.22		5562.4		135381
+SBIN		-1.26		564.0		8284396
+HINDALCO		-1.68		471.9		2087964
+ASIANPAINT		0.26		3110.0		431010
+DRREDDY		-1.21		5562.95		135885
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUESTARCO		-0.98		935		92985
+DIVISLAB		-2.33		3552.9		314516
