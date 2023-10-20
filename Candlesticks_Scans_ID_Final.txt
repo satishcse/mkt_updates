@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.27		186.8		2347119
-WIPRO		-0.38		393.8		1604995
-RELIANCE		-0.12		2303.3		1537613
-HCLTECH		-1.22		1251.95		387887
-MARUTI		0.0		10771.95		77828
+ONGC		0.27		186.8		2368656
+HCLTECH		-1.17		1252.55		392513
+MARUTI		-0.01		10770.85		78080
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BEML		-0.83		2322.4		23468
+OFSS		-1.32		3958.6		20102
+CERA		-1.02		8999.0		1991
