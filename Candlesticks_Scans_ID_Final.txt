@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.27		1429.75		543451
+INFY		-0.27		1429.8		548487
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHOPERSTOP		-1.32		668.45		10977
-JKCEMENT		-0.12		3341.0		10643
+
