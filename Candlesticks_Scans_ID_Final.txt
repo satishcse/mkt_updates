@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.36		203.0		10014890
-ONGC		0.08		186.45		3409423
-HCLTECH		-0.8		1257.2		561303
-SBILIFE		0.87		1359.9		303761
-DRREDDY		-0.91		5579.75		99013
+POWERGRID		-1.34		203.05		10047821
+ONGC		0.08		186.45		3411806
+HCLTECH		-0.82		1257.0		562363
+SBILIFE		0.91		1360.45		307325
+DRREDDY		-0.91		5579.4		99106
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+APARINDS		-1.51		5225		23930
