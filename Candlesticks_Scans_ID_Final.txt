@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.21		1169.65		1271751
-HINDALCO		-0.85		475.85		1011620
-CIPLA		-1.1		1209.9		218681
+TECHM		-0.21		1169.65		1290440
+HINDALCO		-0.84		475.9		1013384
+CIPLA		-1.15		1209.2		219308
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&M		-0.9		1555.45		384622
+LODHA		-1.71		803		194764
