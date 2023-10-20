@@ -1,10 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BHARTIARTL		-0.13		941.7		321267
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AJANTPHARM		-0.63		1760.75		5008
+CUMMINSIND		-0.62		1695.95		17788
+CAMS		-0.95		2515.0		13822
+MANYAVAR		-0.34		1314.75		12212
+BALKRISIND		-0.63		2560.0		6437
+AJANTPHARM		-0.61		1761.1		5119
+GRINFRA		-0.07		1197.45		1002
