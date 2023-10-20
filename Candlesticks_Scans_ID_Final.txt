@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.66		472.0		2096989
-TATACONSUM		-0.45		891.4		1171578
-ASIANPAINT		0.26		3109.85		439853
-GRASIM		-1.46		1946.8		286238
-DRREDDY		-1.21		5562.8		136372
+HINDALCO		-1.66		472.0		2099658
+M&M		-0.87		1555.95		816943
+ASIANPAINT		0.2		3108.05		440448
+DRREDDY		-1.22		5562.45		136565
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDZINC		-0.46		312.95		316007
-AIAENG		-2.65		3443.7		77819
+HAVELLS		-5.05		1293.95		2390332
