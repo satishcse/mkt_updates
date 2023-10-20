@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HCLTECH		-1.19		1252.25		416860
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-1.82		5016.0		206449
 SUNDRMFAST		-0.52		1309.95		32389
-BEML		-1.15		2315.0		27890
