@@ -1,14 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-INFY		-0.43		1427.55		599505
-HEROMOTOCO		-0.42		3252.15		113430
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UTIAMC		-1.25		776.05		36720
-JKCEMENT		-0.02		3344.4		11120
-PFIZER		-0.03		3953.95		576
 3MINDIA		-0.11		30408.2		196
