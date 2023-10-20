@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-2.36		439.75		8507353
-SUNPHARMA		0.16		1143.35		375189
-GRASIM		-1.5		1946.1		241245
+ITC		-2.38		439.7		8515434
+SUNPHARMA		0.14		1143.15		376219
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKFERT		-2.44		662.7		346022
-DMART		-0.48		3748.85		134914
-JUBLPHARMA		-1.49		400.05		93225
+DEEPAKFERT		-2.45		662.65		346527
+ESCORTS		-2.31		3239.05		103375
+KSB		-3.13		3122.95		26903
