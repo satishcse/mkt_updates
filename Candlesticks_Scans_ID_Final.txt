@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.41		202.9		10596944
-ADANIPORTS		-0.08		792.2		1220288
-BPCL		-1.89		347.0		808545
-SUNPHARMA		0.17		1143.45		323809
+POWERGRID		-1.41		202.9		10660067
+BPCL		-1.91		346.95		812473
+JSWSTEEL		-1.45		769.15		673533
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAYERCROP		-0.31		5154.9		1197
