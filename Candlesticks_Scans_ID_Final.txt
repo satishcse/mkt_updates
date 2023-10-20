@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.82		566.5		3037071
-HDFCLIFE		-0.79		633.95		609245
-HCLTECH		-1.28		1251.1		407552
+SBIN		-0.85		566.35		3045031
+HDFCLIFE		-0.83		633.7		613627
+HCLTECH		-1.28		1251.15		409289
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDRMFAST		-0.54		1309.7		32287
-PAGEIND		-0.96		38330.0		5157
-POWERINDIA		-1.28		4573.05		5037
+SUNDRMFAST		-0.58		1309.15		32387
+PAGEIND		-0.94		38336.35		5175
+POWERINDIA		-1.3		4572.3		5040
+HONAUT		-0.29		37370.05		829
