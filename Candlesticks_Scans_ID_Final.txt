@@ -2,15 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.16		1431.3		2446314
-SBILIFE		0.83		1359.4		611702
-GRASIM		-1.46		1946.9		270351
+POWERGRID		-1.38		202.95		15683062
+COALINDIA		-1.0		311.65		4513432
+ADANIENT		-0.51		2390.0		945606
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MGL		-8.5		1028.35		2065844
-AUROPHARMA		-1.78		867.95		880167
-LTTS		-1.43		4305.05		114995
-MEDANTA		-0.38		772.5		104904
-ALKEM		-1.78		3551.5		29949
+
