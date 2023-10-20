@@ -2,14 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.19		186.65		2981004
-TECHM		-0.35		1168.0		1356638
-INFY		0.33		1438.45		1138916
-M&M		-1.0		1553.9		400376
+ONGC		0.21		186.7		2989679
+TECHM		-0.41		1167.3		1362671
+INFY		0.33		1438.35		1143113
+M&M		-1.01		1553.65		401564
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-1.14		1492.85		110574
-ABB		-1.76		4022.2		60083
-CERA		-1.64		8942.0		4408
+MAHLIFE		0.02		521.65		116991
+CENTURYTEX		-1.86		1136.25		73228
+ABB		-1.74		4022.75		60254
+RELAXO		-0.59		914.2		30574
+PFIZER		-0.42		3938.65		1602
