@@ -2,12 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-1.46		1946.95		312896
+KOTAKBANK		1.74		1768.7		2957438
+INFY		-0.24		1430.15		2691126
+BHARTIARTL		-0.03		942.65		1917146
+SUNPHARMA		0.1		1142.6		605624
+GRASIM		-1.47		1946.7		313127
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAYMOND		-0.1		1768.95		108815
-MASTEK		-4.19		2242.2		105811
-BALAMINES		-1.39		2130.9		17010
-PGHH		-0.39		17295.75		2129
+CHEMPLASTS		-2.17		454.55		48946
+INDIGOPNTS		-0.86		1447.8		18270
+BALAMINES		-1.39		2130.9		17018
+PGHH		-0.47		17282.95		2237
