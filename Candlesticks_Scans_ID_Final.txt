@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		1.65		1767.2		2992166
-INFY		-0.19		1430.95		2709142
-ADANIENT		-0.35		2393.8		1080890
-SUNPHARMA		0.04		1141.95		616069
-GRASIM		-1.48		1946.5		314961
+KOTAKBANK		1.69		1767.8		2999849
+ADANIENT		-0.35		2393.7		1092660
+SUNPHARMA		0.1		1142.6		617708
+GRASIM		-1.52		1945.75		315296
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		-1.42		821.95		1106786
-PGHH		-0.54		17270.1		2246
+NATCOPHARM		-1.42		821.95		1106964
+SOBHA		-3.25		740.9		278353
+PGHH		-0.51		17275.0		2261
