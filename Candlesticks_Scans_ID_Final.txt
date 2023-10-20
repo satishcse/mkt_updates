@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.14		123.3		22721258
-HDFCLIFE		0.17		640.1		1464603
-APOLLOHOSP		-0.3		4981.9		201249
+TATASTEEL		-2.14		123.3		22842676
+HDFCLIFE		0.18		640.15		1465899
+ADANIENT		-0.36		2393.65		1066047
+APOLLOHOSP		-0.3		4982.05		201721
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-1.23		2632.3		64172
+FDC		-1.46		370.45		67626
+KEI		-1.24		2631.95		64320
