@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.55		202.6		15864222
-AXISBANK		-0.87		982.8		4596532
-M&M		-0.91		1555.3		790015
-GRASIM		-1.51		1945.85		278104
+POWERGRID		-1.55		202.6		15931200
+AXISBANK		-0.84		983.1		4606266
+M&M		-0.88		1555.8		793293
+GRASIM		-1.5		1946.0		279270
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELAXO		-1.2		908.6		51001
 TEAMLEASE		-0.01		2600.0		19127
-PGHH		-0.3		17311.95		1756
+PGHH		-0.3		17311.15		1784
