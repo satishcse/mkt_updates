@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.78		3240.3		148119
+HEROMOTOCO		-0.67		3243.95		151515
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-1.62		1153.2		772732
-HAL		-1.01		1934.15		214859
-TATACHEM		-0.69		1024.1		133568
-IPCALAB		-0.18		945.15		39182
+PVRINOX		-2.07		1708.5		492283
+RITES		-0.47		497.55		290983
+HAL		-0.81		1938.0		218297
+INDIAMART		-0.86		2737.0		52037
+IPCALAB		-0.2		945.0		40047
+ABB		-0.92		4056.55		32339
+ECLERX		-0.3		2047.0		6415
