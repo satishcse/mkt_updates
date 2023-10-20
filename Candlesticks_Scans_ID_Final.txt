@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.82		3239.05		175598
+HCLTECH		-1.2		1252.15		383342
+HEROMOTOCO		-0.73		3241.85		176480
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-1.65		1152.8		788056
-PVRINOX		-2.03		1709.05		497653
-RITES		-0.46		497.6		291627
-TATACHEM		-0.7		1024.0		138386
-SUNTECK		0.29		473.85		57065
+TECHM		-1.56		1153.9		790084
+SONATSOFTW		1.19		1117.95		576962
+PVRINOX		-2.02		1709.25		498793
+TATACHEM		-0.7		1024.0		139221
+DALBHARAT		-1.16		2182.35		57472
 CHEMPLASTS		-0.52		462.25		18777
-HLEGLAS		-0.65		552.05		14539
