@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.56		4969.05		123739
+APOLLOHOSP		-0.56		4969.2		124314
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+COCHINSHIP		-1.07		1012.4		375245
+RELAXO		-0.86		911.7		35936
