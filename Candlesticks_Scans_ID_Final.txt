@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.18		1431.0		2367739
-BHARTIARTL		-0.05		942.5		1436481
-SUNPHARMA		-0.01		1141.35		422617
+INFY		-0.25		1430.0		2376343
+BHARTIARTL		-0.04		942.55		1458106
+SUNPHARMA		-0.05		1140.9		427474
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BIRLACORPN		-1.91		1245.3		23268
-PAGEIND		-1.72		38035.0		10803
+MGL		-8.47		1028.65		1916087
+COROMANDEL		-1.69		1140.45		95683
+FIVESTAR		-0.93		755.5		73509
+ALKEM		-1.88		3547.75		27517
+BIRLACORPN		-1.95		1244.8		23350
