@@ -1,13 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NTPC		-1.18		238.15		2594992
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-1.08		1617.45		521011
-CHOLAFIN		-1.7		1166.95		493646
-OLECTRA		-3.26		1081.8		264829
-NAUKRI		-1.88		4124.0		98930
-GRINFRA		-3.09		1156.0		15976
+TATACONSUM		-1.0		890.0		528946
+BAJAJFINSV		-1.07		1617.6		525105
+GRINFRA		-3.16		1155.1		15980
+PGHL		-1.14		5104.65		1522
