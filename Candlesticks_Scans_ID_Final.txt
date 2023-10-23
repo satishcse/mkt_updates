@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-1.09		1750.25		3296455
-HINDUNILVR		0.4		2505.05		248142
+RELIANCE		-0.24		2293.6		1229822
+HINDUNILVR		0.4		2505.05		248799
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POWERINDIA		-1.97		4462.15		28992
+
