@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.7		1458.85		1027900
+INDUSINDBK		-0.72		1458.5		1032961
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-2.09		900.9		310400
+LAURUSLABS		-7.64		370.3		6435450
+ADANIGREEN		-2.19		900.0		325001
+CHOLAHLDNG		-2.0		1101.55		15088
