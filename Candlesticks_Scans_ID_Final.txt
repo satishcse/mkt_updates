@@ -2,8 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.78		1570.35		557769
+M&M		0.75		1570		562536
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MAZDOCK		-2.03		2033.65		162341
+MINDACORP		-1.24		351.4		72085
+BIKAJI		0.62		492.1		22918
+INDIGOPNTS		0.37		1464.05		13688
+FDC		-1.35		366.7		12143
+SAPPHIRE		-0.94		1394.85		5029
