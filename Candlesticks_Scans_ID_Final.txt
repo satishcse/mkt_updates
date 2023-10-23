@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-1.36		1919.9		429022
-TITAN		-0.5		3250.0		240554
+GRASIM		-1.41		1919.0		429286
+TITAN		-0.51		3249.6		240663
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHREECEM		-0.82		25870.0		7209
-PGHL		-1.74		5073.5		1656
+SHREECEM		-0.82		25870		7210
