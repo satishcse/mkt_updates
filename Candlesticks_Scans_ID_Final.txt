@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.19		437.45		4016641
-GRASIM		-1.39		1919.2		421141
+ITC		-0.19		437.45		4025025
+GRASIM		-1.36		1919.8		422967
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAURUSLABS		-10.3		359.65		9312652
-POWERINDIA		-5.13		4318.4		40532
-SFL		-3.06		1088.65		32637
+TATAELXSI		-1.01		7488.35		64623
+FINEORG		-1.47		4680.85		13519
