@@ -2,16 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.67		184.95		4047610
-BPCL		-0.98		343.0		3098689
+ONGC		-0.64		185.0		4071246
+BPCL		-1.05		342.75		3158907
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.26		930.3		11047476
-GSPL		-5.35		272.55		872101
-TEJASNET		-6.05		831.6		611790
-ADANIENSOL		-3.6		736.85		449201
-FIVESTAR		-2.6		734.95		312021
-KAYNES		-3.79		2363.0		132271
-CRAFTSMAN		-0.77		4520.7		30575
+ICICIBANK		-0.27		930.2		11089870
+OIL		-4.46		308.15		1482208
+TEJASNET		-6.03		831.75		612621
+FIVESTAR		-2.57		735.15		317973
+CRAFTSMAN		-0.78		4520.2		30837
+ZYDUSWELL		-3.5		1513.0		16139
