@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.04		24269.85		32651
-HOMEFIRST		-1.22		934.05		32094
+INFY		-0.1		1425.85		600078
+JINDALSAW		-1.44		391.45		564868
+NESTLEIND		-0.09		24257.8		32764
