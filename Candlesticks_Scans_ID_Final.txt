@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ITC		-0.25		437.2		5236015
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CSBBANK		-6.87		334.65		406899
+BLUESTARCO		-3.26		889.3		245707
+LAXMIMACH		-0.38		14008.0		1580
