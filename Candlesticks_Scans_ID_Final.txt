@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.24		2293.5		1248800
+RELIANCE		-0.27		2293.0		1250820
+ULTRACEMCO		-0.04		8457.55		95247
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELAXO		-0.12		902.1		28569
+
