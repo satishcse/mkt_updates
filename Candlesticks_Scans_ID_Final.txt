@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.18		638.8		417789
+BRITANNIA		0.1		4584.4		34521
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		-0.42		274.9		469145
-OLECTRA		-1.86		1097.4		161619
-WHIRLPOOL		0.26		1649.4		17463
+SWSOLAR		-0.56		274.5		471056
+OLECTRA		-1.85		1097.55		162493
+HDFCAMC		-0.56		2863.0		103430
+POLYMED		-4.56		1320.3		42880
