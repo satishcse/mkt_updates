@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-2.9		1085.8		275278
-GRINFRA		-3.09		1156.0		16051
+OLECTRA		-2.91		1085.75		276176
+SCHAEFFLER		-2.81		2996.3		27737
+GRINFRA		-3.27		1153.8		16278
