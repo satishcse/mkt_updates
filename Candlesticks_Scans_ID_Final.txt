@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NESTLEIND		0.05		24291.75		60807
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAPPHIRE		-2.52		1372.65		30687
-SUNDARMFIN		-1.49		3186.35		19639
+SAPPHIRE		-2.24		1376.55		30785
