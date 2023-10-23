@@ -1,15 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BRITANNIA		0.02		4580.9		34650
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-WELCORP		-3.24		425.2		628199
-OLECTRA		-1.98		1096.15		165090
-KPITTECH		-0.54		1188.95		158437
-POLYMED		-4.1		1326.7		43535
-POLYPLEX		-1.18		1110.95		25137
-WHIRLPOOL		0.39		1651.55		17744
+
