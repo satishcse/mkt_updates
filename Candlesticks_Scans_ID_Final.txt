@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		0.33		3566.1		132640
-BRITANNIA		0.04		4581.85		23166
+DIVISLAB		0.21		3561.85		134035
+BRITANNIA		0.02		4580.95		23809
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIMKEN		-0.79		3019.3		2096
+CCL		-0.46		626.7		29728
