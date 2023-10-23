@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUPREMEIND		-0.51		4690.0		78391
-NESTLEIND		-0.08		24260.0		32608
-INGERRAND		-1.13		2969.5		3268
+NESTLEIND		-0.04		24269.85		32651
+HOMEFIRST		-1.22		934.05		32094
