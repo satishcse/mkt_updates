@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.35		185.55		3036949
-M&M		0.62		1567.95		2924868
-TATACONSUM		-1.02		889.8		716097
-EICHERMOT		-0.48		3464.25		130291
+ONGC		-0.35		185.55		3039803
+M&M		0.65		1568.3		2956625
+TATACONSUM		-1.02		889.8		716915
+EICHERMOT		-0.53		3462.3		130433
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROBRAND		-0.11		1204.5		469131
-FLUOROCHEM		-1.27		2725.4		40379
+METROBRAND		-0.15		1204.05		470966
+FLUOROCHEM		-1.26		2725.6		40411
