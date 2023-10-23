@@ -10,18 +10,19 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-IPCALAB		7.33		1004.5		4703899
-SHRIRAMFIN		0.85		1892.6		1278520
-ICICIPRULI		0.29		527.7		773871
-ZYDUSLIFE		-1.02		573.0		660014
-RBLBANK		-4.32		233.85		19692780
+IPCALAB		7.28		1004.05		4721556
+SHRIRAMFIN		0.86		1892.8		1279563
+ICICIPRULI		0.28		527.65		774103
+ZYDUSLIFE		-0.94		573.45		662407
+RBLBANK		-4.23		234.05		19754088
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-VEDL		-2.2		217.85		4174314
-UBL		1.87		1640.8		396254
-PIDILITIND		-0.25		2367.15		71194
+VEDL		-2.18		217.9		4196447
+GNFC		-0.11		656.35		3907905
+UBL		2.04		1643.45		406543
+PIDILITIND		-0.22		2367.9		71227
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 

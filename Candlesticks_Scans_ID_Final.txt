@@ -1,13 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+GRASIM		-1.35		1920		436985
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IIFL		-4.22		615.5		603426
-WESTLIFE		-2.9		908.95		239286
-CEATLTD		-3.86		2117.95		178571
-TATAELXSI		-1.17		7476.1		68235
-ALKYLAMINE		-1.91		2182.95		18385
+PEL		-3.36		981.25		490483
+GAEL		-5.01		333.0		386222
+WESTLIFE		-2.9		908.95		239294
+NH		-2.54		1026.75		123591
+TATAELXSI		-1.17		7476.25		68349
