@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		0.33		4595		139414
+BRITANNIA		0.36		4596.5		139519
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SYRMA		-4.9		624.45		646957
-HDFCAMC		-1.41		2838.5		255960
-HOMEFIRST		-2.77		919.35		93418
-LUXIND		-2.25		1308.6		33696
+GPPL		-5.16		126.7		1903557
+SYRMA		-4.9		624.45		648575
+FINCABLES		-2.92		906.7		429649
+HDFCAMC		-1.42		2838.0		255995
+CEATLTD		-4.34		2107.5		202656
+HOMEFIRST		-2.83		918.75		93713
+LUXIND		-2.27		1308.35		33706
