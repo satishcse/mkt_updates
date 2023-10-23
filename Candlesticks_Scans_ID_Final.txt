@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.46		121.3		13332277
-ITC		-0.24		437.25		3700290
-WIPRO		-1.06		387.7		1715379
-UPL		-1.52		594.3		859610
+TATASTEEL		-1.46		121.3		13353898
+ITC		-0.27		437.1		3704825
+WIPRO		-1.03		387.8		1717095
+UPL		-1.52		594.3		859935
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-1.44		4927.95		258508
-FINEORG		-1.37		4685.85		12794
-SHREECEM		-0.81		25873.5		5822
+COFORGE		-1.43		4928.85		259255
+CRISIL		-0.42		4176.5		22342
+FINEORG		-1.37		4685.85		12800
