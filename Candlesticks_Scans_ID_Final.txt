@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		-0.5		3250		241028
+TECHM		-0.5		1164.85		637559
+TITAN		-0.48		3250.5		241290
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SFL		-3.03		1089		35325
+INFY		-0.6		1418.75		1445531
+MPHASIS		-0.75		2153.4		367532
+PERSISTENT		-1.0		5848.35		253225
+LTIM		-2.82		5263.45		150085
