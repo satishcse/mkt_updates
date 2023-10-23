@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.23		2293.75		1238140
-HINDUNILVR		0.34		2503.7		252286
+RELIANCE		-0.24		2293.6		1239879
+HINDUNILVR		0.41		2505.35		253753
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-2.23		1093.35		214510
-RELAXO		-0.12		902.15		28492
+OLECTRA		-2.2		1093.6		215432
