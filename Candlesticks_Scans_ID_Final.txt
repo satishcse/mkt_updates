@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.28		561.55		2885668
-INDUSINDBK		-0.89		1456.0		1072937
-GRASIM		-1.23		1922.4		298728
-SUNPHARMA		-0.41		1137.5		181372
+SBIN		-0.28		561.55		2896127
+INDUSINDBK		-0.92		1455.65		1078440
+SUNPHARMA		-0.39		1137.7		182047
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GESHIP		-2.8		835.2		126082
-MARUTI		-0.99		10618.95		60716
+GESHIP		-2.79		835.3		126131
+HAPPSTMNDS		-1.41		817.5		121102
+MARUTI		-0.99		10619.95		61566
 POWERINDIA		-2.0		4460.65		28991
+GLAXO		-1.11		1508.25		8278
