@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.63		1568.1		566021
+M&M		0.78		1570.45		580804
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VOLTAS		-0.9		811.2		126834
-INDIGOPNTS		0.42		1464.75		14256
-RELAXO		0.27		905.6		6150
-SAPPHIRE		-0.97		1394.45		5167
+KPRMILL		-0.19		828.4		47979
+INDIGOPNTS		0.45		1465.15		14342
