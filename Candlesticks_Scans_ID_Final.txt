@@ -1,14 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+M&M		0.79		1570.5		542976
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-0.52		1832.9		70570
-PVRINOX		0.11		1697.05		53011
-CUMMINSIND		-0.48		1684.5		25663
-GODREJIND		-0.36		651.35		24292
-MASTEK		-0.31		2244.8		7680
-ABBOTINDIA		-0.26		22581.2		1052
+LINDEINDIA		-0.42		6390.65		3088
