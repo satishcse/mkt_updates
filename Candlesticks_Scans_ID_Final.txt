@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		-0.16		3261		182301
+TITAN		-0.16		3260.85		182620
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+TCS		-1.33		3448.0		478091
+KPRMILL		-0.6		825.0		457847
+COROMANDEL		-1.12		1125.05		102284
 BLUEDART		-1.68		6594.85		3023
