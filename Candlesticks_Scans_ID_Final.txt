@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.51		185.25		1524534
-RELIANCE		-0.25		2293.4		1301782
-MARUTI		-0.79		10640.85		81259
+TITAN		-0.16		3261		182301
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-1.56		1827.55		48195
-FDC		-2.35		362.95		43138
 BLUEDART		-1.68		6594.85		3023
