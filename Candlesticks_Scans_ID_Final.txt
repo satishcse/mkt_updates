@@ -2,17 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-1.16		1346.8		646273
+BPCL		-1		342.95		2678930
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.48		630.45		1929485
-INDIANB		-4.29		405.95		1025380
-GODREJIND		-4.27		625.8		275822
-KEI		-3.27		2543.3		249328
-LTIM		-3.37		5233.7		221551
-GESHIP		-4.0		824.85		218689
-MAHLIFE		-3.34		500.8		122829
-FLUOROCHEM		-1.47		2719.85		45546
-SAPPHIRE		-2.86		1367.85		35435
+ATUL		-3.29		6457.1		134590
