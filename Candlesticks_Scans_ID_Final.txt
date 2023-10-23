@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.74		1569.8		603505
+M&M		0.68		1568.8		1046264
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		0.38		1464.1		14655
-ERIS		-1.17		861.25		13506
+KPRMILL		-0.18		828.5		56374
+ERIS		-0.88		863.75		14202
+TTKPRESTIG		-0.9		804.85		8060
+SAPPHIRE		-1.08		1392.95		5619
