@@ -1,14 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFCLIFE		-0.18		638.8		417789
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRAPHITE		-1.7		481.85		411232
-TATACONSUM		-0.44		895.0		374965
-KPITTECH		-0.81		1185.7		154478
-COLPAL		-0.79		2094.0		114136
-JBMA		-3.21		1180.0		23944
-WHIRLPOOL		0.2		1648.5		17459
+SWSOLAR		-0.42		274.9		469145
+OLECTRA		-1.86		1097.4		161619
+WHIRLPOOL		0.26		1649.4		17463
