@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.59		939.65		1698572
-LT		-1.52		2966.7		1046348
-EICHERMOT		-0.36		3468.3		142644
+BHARTIARTL		-0.62		939.3		1701957
+LT		-1.55		2965.75		1049195
+EICHERMOT		-0.37		3467.95		143071
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INDIGO		-1.08		2412.65		638623
