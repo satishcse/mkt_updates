@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.0		342.95		644988
-ASIANPAINT		-0.28		3097.3		121059
+BPCL		-0.95		343.1		647260
+ASIANPAINT		-0.25		3098.1		121428
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+IRCTC		-1.76		679.9		620447
+PIDILITIND		-0.28		2366.65		46818
+SANOFI		-0.72		7422.2		2259
