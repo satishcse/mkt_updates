@@ -9,6 +9,7 @@ EICHERMOT		-0.51		3463.1		143923
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EQUITASBNK		-6.23		94.05		6719850
-VIJAYA		-2.55		553.5		123829
-ERIS		-3.28		842.9		71984
+INDIGO		-0.97		2415.4		641203
+TRENT		-1.46		2006.45		286490
+VIJAYA		-2.32		554.85		125055
+PHOENIXLTD		-1.53		1828.15		102971
