@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		-0.23		390.95		882016
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-2.05		1095.3		157166
-KPITTECH		-0.84		1185.35		151307
+KPITTECH		-0.91		1184.55		152767
+JBMA		-3.21		1180.0		23463
