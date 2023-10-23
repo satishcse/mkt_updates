@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		0.33		4595		139754
+BRITANNIA		0.33		4595		139930
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLICYBZR		-2.28		707.85		975230
-CEATLTD		-4.36		2106.9		202980
-HOMEFIRST		-2.81		918.95		93979
+POLICYBZR		-2.28		707.85		975655
+SYRMA		-4.97		623.95		650873
+HOMEFIRST		-2.88		918.35		94166
+AFFLE		-2.47		1045.7		79458
+VIJAYA		-2.11		556.0		76405
