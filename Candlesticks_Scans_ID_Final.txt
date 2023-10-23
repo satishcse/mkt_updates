@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.35		185.55		3022690
+ONGC		-0.38		185.5		3024368
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROBRAND		-0.11		1204.5		468136
-SAPPHIRE		-2.24		1376.65		30937
+METROBRAND		-0.11		1204.5		468366
+FLUOROCHEM		-1.28		2725.0		40218
