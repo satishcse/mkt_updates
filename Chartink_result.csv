@@ -10,17 +10,17 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-IPCALAB,5.59,988.25,1983772
-SHRIRAMFIN,1.03,1896.05,401008
-ZYDUSLIFE,-0.13,578.15,326968
-ICICIPRULI,-0.36,524.3,353876
-RBLBANK,-1.47,240.8,11608732
+IPCALAB,5.51,987.5,1991953
+SHRIRAMFIN,0.99,1895.35,405735
+ZYDUSLIFE,-0.1,578.35,331056
+ICICIPRULI,-0.42,524.0,365274
+RBLBANK,-1.41,240.95,11645725
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-GODREJCP,-0.66,981.6,80166
-SIEMENS,0.0,3441.8,41620
+GODREJCP,-0.68,981.4,87222
+SIEMENS,-0.01,3441.3,45251
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -29,7 +29,7 @@ High_Relative_Volume_Spurt_5m,,,,
 Open_High,,,, 
 ========= 
 nsecode,per_chg,close,volume
-PAGEIND,0.21,37750,6400
+PAGEIND,0.11,37714.85,6428
 
 Open_Low,,,, 
 ======== 
