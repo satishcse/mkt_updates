@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,-1.54,121.2,13034689
-ITC,-0.22,437.35,3615597
-POWERGRID,-0.57,201.7,3607081
-WIPRO,-1.16,387.3,1655048
-UPL,-1.4,595.0,842366
+TATASTEEL,-1.54,121.2,13050885
+POWERGRID,-0.47,201.9,3632214
+ITC,-0.22,437.35,3622553
+WIPRO,-1.14,387.4,1672019
+UPL,-1.31,595.55,844750
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+LUPIN,-1.09,1166.75,129423
