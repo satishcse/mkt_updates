@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+WIPRO		-0.23		390.95		882016
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.71		892.6		364694
-HDFCAMC		-0.52		2863.9		98335
-JBMA		-3.21		1180.0		23255
+OLECTRA		-2.05		1095.3		157166
+KPITTECH		-0.84		1185.35		151307
