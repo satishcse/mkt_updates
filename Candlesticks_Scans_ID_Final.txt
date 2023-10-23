@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-1.14		1347.15		584526
+SBILIFE		-1.19		1346.5		593942
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIANB		-4.4		405.5		1015735
-GODREJIND		-4.08		627.0		275105
-TIINDIA		-3.22		2928.6		88582
-GODFRYPHLP		-4.69		2125.4		76717
+INDIANB		-4.48		405.15		1020581
+GODREJIND		-4.2		626.25		275589
+MAHLIFE		-3.37		500.65		121487
+GODFRYPHLP		-4.68		2125.75		76734
