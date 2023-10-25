@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-1.8		922.35		6119943
-M&M		0.27		1569.4		2352783
-ULTRACEMCO		-0.81		8258.05		237144
+BHARTIARTL		-1.8		922.4		6154662
+M&M		0.31		1570.0		2386571
+ULTRACEMCO		-0.81		8258.0		241956
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RAJESHEXPO		-2.99		418.8		1143031
+WESTLIFE		-2.53		898.25		204221
