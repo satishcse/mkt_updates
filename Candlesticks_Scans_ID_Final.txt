@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		0.38		1910.05		152238
+GRASIM		0.39		1910.25		152259
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-3.73		2450.9		116885
-HOMEFIRST		-1.19		903.0		55698
+UPL		-0.28		585.05		1012133
+KEI		-3.77		2449.85		117027
+HOMEFIRST		-1.21		902.8		55861
+WESTLIFE		-1.69		906.0		54362
