@@ -10,14 +10,15 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-TORNTPHARM,3.43,1941.65,1301500
-BALKRISIND,1.19,2597.35,602985
-ABBOTINDIA,-0.81,22532.0,9758
+TORNTPHARM,3.55,1944.0,1302908
+BALKRISIND,1.22,2598.15,604218
+ABBOTINDIA,-0.83,22526.7,9760
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-LAURUSLABS,-1.82,355.8,3016613
+LAURUSLABS,-1.71,356.2,3034923
+MCDOWELL-N,0.38,1015.9,339698
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -26,14 +27,14 @@ High_Relative_Volume_Spurt_5m,,,,
 Open_High,,,, 
 ========= 
 nsecode,per_chg,close,volume
-TRENT,-0.57,1980.6,279270
-LUPIN,-1.71,1148.05,856290
+TRENT,-0.66,1978.9,279987
+LUPIN,-1.72,1147.95,857792
 
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-JUBLFOOD,1.36,532.0,1981175
-DIXON,0.65,5453.2,441051
-BATAINDIA,0.58,1582.8,147700
-BRITANNIA,0.47,4551.75,198340
-DABUR,-0.43,519.1,1141890
+JUBLFOOD,1.51,532.75,1984175
+DIXON,0.63,5452.15,441400
+BATAINDIA,0.53,1582.1,147711
+BRITANNIA,0.5,4553.1,198479
+DABUR,-0.43,519.1,1144095
