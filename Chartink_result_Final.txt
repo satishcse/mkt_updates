@@ -10,16 +10,24 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-BALKRISIND		2.16		2622.35		251823
-ABBOTINDIA		-0.45		22613.0		4805
+BALKRISIND		2.14		2621.9		254441
+ABBOTINDIA		-0.42		22619.75		4849
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BHARATFORG		-1.81		1037.3		808067
-GUJGASLTD		-0.15		406.2		190002
-COROMANDEL		0.57		1116.8		25110
-BANKNIFTY		0.46		43349.6		0
+SBIN		1.1		559.05		4544941
+FEDERALBNK		0.0		143.4		2796751
+BHARATFORG		-1.7		1038.45		889743
+CHOLAFIN		-1.09		1154.55		501653
+TCS		-0.04		3408.7		361813
+BALKRISIND		2.14		2621.9		254441
+ICICIPRULI		0.81		525.2		250502
+GUJGASLTD		-0.16		406.15		190152
+CONCOR		0.93		707.2		153967
+COLPAL		0.43		2084.65		93198
+COROMANDEL		0.54		1116.45		25274
+ALKEM		0.71		3559.0		12963
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -28,9 +36,9 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-TRENT		0.32		1998.35		102937
-M&M		-0.39		1559.0		727059
-LUPIN		-1.15		1154.55		286001
+TRENT		0.36		1999.1		103812
+M&M		-0.38		1559.15		728705
+LUPIN		-1.24		1153.5		287551
 
 Open_Low								 
 ======== 

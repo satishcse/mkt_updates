@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.35		1160		339553
-ASIANPAINT		0.62		3091		152075
+ASIANPAINT		0.64		3091.6		153415
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHRIRAMFIN		-1.86		1845		476724
