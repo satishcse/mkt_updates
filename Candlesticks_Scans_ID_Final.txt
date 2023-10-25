@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		0.28		1908		156037
+TATASTEEL		2.0		122.4		11033309
+DRREDDY		0.79		5595.9		147004
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KEI		-3.77		2449.95		117562
-HOMEFIRST		-1.21		902.85		56003
-AAVAS		-1.42		1549.8		47122
+
