@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.13		2480.3		346514
-ASIANPAINT		0.77		3095.5		232536
+HINDUNILVR		-0.14		2480.05		347575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CANFINHOME		-1.49		725.2		306504
-POLYPLEX		-0.91		1091.5		51667
+CGPOWER		-2.58		374.1		700792
+HAL		-1.06		1825.65		652574
+POLYPLEX		-0.88		1091.8		51714
+PATANJALI		-0.52		1255.0		48072
