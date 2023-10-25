@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.03		771.7		1258111
-DRREDDY		0.55		5582.7		185666
+ADANIPORTS		-0.01		771.4		1259753
+DRREDDY		0.55		5582.55		185771
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-1.01		6567.6		2049
+BLUEDART		-1.01		6567.55		2051
