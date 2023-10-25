@@ -6,9 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-2.88		1879.75		748111
-WELCORP		-3.79		396.3		621861
-AARTIDRUGS		-4.73		461.35		361028
-ACI		-2.76		587.35		120935
-RADICO		0.81		1196.95		108763
-CERA		-4.04		8423.95		20090
+CHALET		-0.15		562.35		59914
+CERA		-4.06		8422.25		20098
+LAXMIMACH		-1.71		13750.0		1171
