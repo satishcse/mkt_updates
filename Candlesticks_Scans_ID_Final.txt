@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.13		383.65		2544038
-BPCL		-0.5		341.1		2112200
-TATACONSUM		0.89		890.95		1181340
-HCLTECH		-0.16		1234.65		848177
-HEROMOTOCO		-0.79		3125.05		308073
-LTIM		0.41		5223.0		241517
+WIPRO		0.09		383.5		2549431
+BPCL		-0.54		340.95		2117711
+TATACONSUM		0.89		890.95		1182670
+HCLTECH		-0.17		1234.6		850124
+HEROMOTOCO		-0.78		3125.3		308381
+LTIM		0.33		5218.7		241790
 
 Bullish_Hammer_15m_N500								 
 ======================= 
