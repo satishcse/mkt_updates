@@ -6,7 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		0.7		5237.9		165234
-AJANTPHARM		-0.4		1718.9		76171
-TIMKEN		-0.28		2974.7		7661
-BOSCHLTD		-0.15		19795.0		5290
+GNFC		-1.29		644.4		811349
+TVSMOTOR		-0.01		1585.05		552597
+IPCALAB		-1.29		985.9		472962
+AJANTPHARM		-0.46		1717.85		76176
+RELAXO		-0.52		886.95		40941
+BOSCHLTD		-0.14		19797.2		5294
