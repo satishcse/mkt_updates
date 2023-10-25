@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-M&M		-0.58		1556.1		1868561
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.4		745.95		1778650
-TVSMOTOR		-0.28		1580.85		657921
-UBL		-1.49		1604.7		397773
-THERMAX		-0.09		2923.65		19647
+UBL		-1.48		1605.0		398154
+THERMAX		-0.15		2921.85		19669
