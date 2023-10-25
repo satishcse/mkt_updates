@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BAJAJ-AUTO		-1		5351.35		552047
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VOLTAS		-0.28		819.0		950951
-ICICIGI		-1.35		1380.2		421870
+ADANIENSOL		-1.89		721.9		367463
+ZFCVINDIA		-1.02		15269.9		2303
