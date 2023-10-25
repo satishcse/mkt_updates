@@ -1,15 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIPORTS		0.27		773.55		1205044
+DRREDDY		0.64		5587.5		181535
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DEEPAKNTR		-1.26		1993.75		115200
-CHALET		0.44		565.7		51789
-MANKIND		-1.69		1719.8		48718
-APARINDS		-0.41		5176.2		32637
-TEAMLEASE		-4.51		2471.1		20660
-SAFARI		-2.19		4069.7		17911
-PGHL		-0.48		4984.15		1595
+
