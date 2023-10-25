@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIPORTS		-0.73		765.85		1743383
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-0.65		1979.0		267916
-PHOENIXLTD		-2.32		1759.95		152489
+NATCOPHARM		-1.23		796.85		181313
+VINATIORGA		-0.16		1776.45		11693
