@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAJARIACER		-0.18		1219.85		110582
-ISEC		-0.55		650.65		88906
-GRINFRA		-1.24		1122.5		16656
+ATGL		-0.53		570.1		252803
+ISEC		-0.43		651.45		89266
