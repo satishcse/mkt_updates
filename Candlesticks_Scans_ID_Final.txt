@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.74		308.35		2828043
-ADANIPORTS		0.05		771.85		1257170
-DRREDDY		0.55		5582.75		185418
+ADANIPORTS		0.03		771.7		1258111
+DRREDDY		0.55		5582.7		185666
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-1.03		3493.75		114704
+BLUEDART		-1.01		6567.6		2049
