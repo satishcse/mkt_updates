@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.28		199.2		4871197
-LTIM		1.17		5262.55		117797
+POWERGRID		-0.33		199.1		4898917
+LTIM		1.18		5263.1		118122
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		-2.54		3053.45		71318
-DATAPATTNS		-2.24		1905.4		65552
-PATANJALI		-0.38		1256.65		42188
-AETHER		-1.08		881.9		24656
+AETHER		-1.05		882.15		24668
 PGHL		-0.53		4981.65		1145
