@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.08		199.9		13155367
-SBIN		0.97		558.3		10168997
-ONGC		-0.22		184.45		4866630
-WIPRO		0.2		383.9		2614511
-BPCL		-0.34		341.65		2154530
-JSWSTEEL		0.31		751.3		1866525
-ULTRACEMCO		-0.72		8264.95		186401
+SBIN		0.93		558.1		10182465
+ONGC		-0.24		184.4		4874450
+WIPRO		0.2		383.9		2618400
+BPCL		-0.38		341.5		2159882
+JSWSTEEL		0.27		751.0		1869707
+ULTRACEMCO		-0.77		8261.5		186665
 
 Bullish_Hammer_15m_N500								 
 ======================= 
