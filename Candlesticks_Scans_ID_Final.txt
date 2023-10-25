@@ -6,5 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATGL		-0.53		570.1		252803
-ISEC		-0.43		651.45		89266
+ATGL		-0.55		570.0		256114
+ISEC		-0.22		652.8		89788
