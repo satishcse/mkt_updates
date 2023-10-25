@@ -1,15 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		1.75		122.1		5095376
+BAJFINANCE		0.0		7798.95		154509
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HEG		-1.96		1601.05		90281
-AFFLE		-1.23		1023.3		57216
-HAPPSTMNDS		1.08		820.1		48566
-PHOENIXLTD		-1.43		1776.0		44607
-FIVESTAR		0.91		739.7		26384
-JBMA		0.93		1169.0		10020
-GLAXO		0.42		1470.0		7227
+
