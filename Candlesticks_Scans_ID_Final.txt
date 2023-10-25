@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRASIM		-1.39		1876.3		446996
-AARTIDRUGS		-6.02		455.1		434333
-NAM-INDIA		-0.88		355.0		315362
-VMART		-2.88		1819.95		27172
+RAYMOND		-2.4		1666.5		104251
+VMART		-2.88		1820.0		27190
