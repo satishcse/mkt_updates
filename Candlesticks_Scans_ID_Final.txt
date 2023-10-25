@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		0.39		1910.25		151671
+GRASIM		0.38		1910.05		152238
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-0.59		6595.45		1676
+KEI		-3.73		2450.9		116885
+HOMEFIRST		-1.19		903.0		55698
