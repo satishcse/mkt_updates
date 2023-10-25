@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-1.03		5349.9		558574
+BAJAJ-AUTO		-1.06		5347.95		561776
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KIRLFER		-3.18		452.35		138444
-ABBOTINDIA		-0.92		22507.45		14166
-ZFCVINDIA		-0.57		15339.6		2354
+ADANIENT		-1.9		2264.75		1398049
+KIRLFER		-3.24		452.05		141239
