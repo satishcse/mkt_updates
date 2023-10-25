@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NAM-INDIA		-0.88		355.0		322323
-COLPAL		-0.92		2056.6		214791
-BAYERCROP		-1.5		4939.3		5049
+
