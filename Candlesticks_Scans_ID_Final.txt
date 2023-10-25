@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-1.85		921.95		6225581
-ULTRACEMCO		-0.8		8258.3		250675
+BHARTIARTL		-1.88		921.65		6244969
+ULTRACEMCO		-0.78		8260.2		251535
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LICI		-0.9		611.9		1065038
-BAJAJ-AUTO		-1.07		5347.7		593021
-SUPRAJIT		-1.31		368.0		268250
-KSB		-2.95		2895.8		41380
+TECHM		-1.2		1142.1		1418254
+LICI		-0.9		611.9		1066400
+CSBBANK		-3.08		323.8		531220
+SUPRAJIT		-1.17		368.55		268415
+GALAXYSURF		-2.4		2601.15		20192
