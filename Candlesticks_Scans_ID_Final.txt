@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-USHAMART		-1.17		279.95		319917
+VBL		-2.21		902.4		1104741
+USHAMART		-1.18		279.9		321658
+EPIGRAL		-0.15		912.05		9956
