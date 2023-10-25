@@ -5,8 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AXISBANK		-0.75		957.1		5059270
-LT		-1.23		2921.9		1366145
-UBL		-1.53		1604.1		397057
-AAVAS		-1.48		1548.95		87038
+
