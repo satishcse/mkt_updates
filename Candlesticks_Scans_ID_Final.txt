@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.93		558.1		10182465
-ONGC		-0.24		184.4		4874450
-WIPRO		0.2		383.9		2618400
-BPCL		-0.38		341.5		2159882
-JSWSTEEL		0.27		751.0		1869707
-ULTRACEMCO		-0.77		8261.5		186665
+SBIN		0.92		558.05		10198034
+ONGC		-0.22		184.45		4884222
+WIPRO		0.17		383.8		2620331
+BPCL		-0.38		341.5		2165662
+JSWSTEEL		0.23		750.65		1871648
+ULTRACEMCO		-0.78		8260.65		186898
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SWANENERGY		-0.54		301.65		11117226
+SAFARI		-6.25		3900.5		49221
