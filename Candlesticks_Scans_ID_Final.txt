@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JUBLPHARMA		-3.79		344.9		369363
-LTIM		0.61		5233.45		163641
-RELAXO		-0.52		887.0		40256
+HAL		-1.43		1819.0		796586
+JUBLPHARMA		-3.84		344.75		369471
+AARTIDRUGS		-3.49		467.35		264821
+LTIM		0.7		5238.2		164081
+RELAXO		-0.48		887.3		40481
