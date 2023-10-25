@@ -6,9 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GNFC		-1.29		644.35		810533
-CIPLA		-1.59		1164.95		765115
-CANFINHOME		-1.87		722.4		389277
-MUTHOOTFIN		-0.13		1278.7		299424
-AJANTPHARM		-0.51		1716.95		75550
-TIMKEN		-0.28		2974.75		7653
+LTIM		0.7		5237.9		165234
+AJANTPHARM		-0.4		1718.9		76171
+TIMKEN		-0.28		2974.7		7661
+BOSCHLTD		-0.15		19795.0		5290
