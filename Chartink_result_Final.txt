@@ -10,16 +10,21 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		2.31		1920.6		1569470
-BALKRISIND		0.98		2591.95		763756
-ABBOTINDIA		-0.75		22546.6		14140
+TORNTPHARM		2.34		1921.2		1576269
+BALKRISIND		1.06		2594.15		764714
+ABBOTINDIA		-0.85		22522.0		14154
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDPETRO		-1.02		246.65		3346240
-INDIACEM		-1.17		207.25		2182157
-RAMCOCEM		0.77		982.85		284903
+MOTHERSON		-0.81		92.05		4606233
+HINDPETRO		-1.16		246.3		3361004
+INDIACEM		-1.14		207.3		2189348
+CONCOR		-0.81		695.0		595512
+TRENT		0.18		1995.5		406349
+RAMCOCEM		0.79		983.05		285293
+INDIAMART		0.07		2694.85		171000
+BANKNIFTY		-0.72		42838.5		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -28,14 +33,14 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-TRENT		0.15		1995.0		400870
-LUPIN		-2.03		1144.3		997149
+TRENT		0.18		1995.5		406349
+LUPIN		-2.1		1143.5		998450
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-BATAINDIA		1.14		1591.75		174980
-JUBLFOOD		1.11		530.7		2889799
-DIXON		0.5		5444.85		552779
-BRITANNIA		0.17		4538.3		300770
-DABUR		-0.62		518.1		1781017
+BATAINDIA		1.16		1591.95		175990
+JUBLFOOD		1.03		530.25		2899977
+DIXON		0.47		5443.65		554178
+BRITANNIA		0.19		4539.0		302215
+DABUR		-0.58		518.35		1791824
