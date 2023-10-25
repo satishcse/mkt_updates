@@ -6,5 +6,10 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-2.29		1891.15		713973
-HAVELLS		-0.58		1277.4		516822
+CHOLAFIN		-2.14		1142.3		1064399
+MAZDOCK		-2.28		1891.5		714883
+BDL		-4.27		928.45		447533
+OLECTRA		0.14		1081.95		268001
+JYOTHYLAB		0.0		350.95		260767
+APARINDS		-1.21		5134.35		35570
+GRINDWELL		-2.33		2029.1		16112
