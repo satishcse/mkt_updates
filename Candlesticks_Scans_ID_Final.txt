@@ -6,6 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATGL		-0.65		569.45		231193
-VARROC		-0.09		462.85		55886
-GRINFRA		-1.38		1120.9		16636
+ATGL		-0.53		570.1		236625
+ISEC		-0.55		650.65		88807
+GRINFRA		-1.21		1122.8		16643
