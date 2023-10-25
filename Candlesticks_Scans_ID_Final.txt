@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWENERGY		-2.38		367.4		2094367
-JYOTHYLAB		1.24		355.3		141398
-ISEC		-0.37		651.8		91455
+SYRMA		-2.67		596.35		451943
+JYOTHYLAB		1.24		355.3		141852
+ISEC		-0.32		652.15		91784
+GRINFRA		-1.24		1122.45		16804
