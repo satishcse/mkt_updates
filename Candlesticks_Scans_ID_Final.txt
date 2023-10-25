@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		-1.9		232.05		21990012
-ADANIPORTS		-0.32		768.95		2319038
-BAJAJ-AUTO		-0.96		5353.45		549939
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-1.68		1375.5		410442
+ICICIGI		-1.5		1378.05		415873
