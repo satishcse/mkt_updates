@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-1.03		5349.95		565329
+BHARTIARTL		-1.68		923.5		6049022
+ONGC		-0.05		184.75		5922339
+ULTRACEMCO		-0.81		8258.05		233268
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIENT		-1.94		2263.95		1401554
-TVSMOTOR		-0.58		1576.0		838876
-RADICO		0.64		1195.0		165609
-KIRLFER		-3.19		452.3		143679
-BAJAJHLDNG		-3.16		6875.05		25269
+
