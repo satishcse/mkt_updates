@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-1.85		921.95		4638495
+BPCL		-0.47		341.2		2063721
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-0.41		1578.75		652090
+JSWSTEEL		-0.48		745.35		1773597
+LT		-1.15		2924.4		1392329
+TVSMOTOR		-0.34		1579.85		652867
