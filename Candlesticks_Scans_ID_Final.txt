@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.96		122.35		11412229
-BPCL		0.41		344.2		968412
-DRREDDY		0.68		5589.45		153749
-HEROMOTOCO		-0.12		3146.0		116787
+TATASTEEL		1.83		122.2		11478738
+BPCL		0.36		344.05		972389
+DRREDDY		0.66		5588.7		154085
+HEROMOTOCO		-0.28		3141.0		119146
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BBTC		-3.11		1383.05		251314
-GLAXO		0.08		1464.9		36708
-LINDEINDIA		-1.01		6062.55		16743
-FINEORG		-1.82		4573.1		11230
+GLAXO		0.08		1464.95		36724
