@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		1.63		121.95		19695529
+M&M		-0.59		1555.95		1874778
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UBL		-1.48		1605.0		398154
-THERMAX		-0.15		2921.85		19669
+UBL		-1.53		1604.1		401635
+THERMAX		-0.06		2924.6		19674
