@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-1.75		2865		2147530
+LT		-1.75		2865		2150703
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		-2.02		2998.9		869727
-SHREECEM		-1.02		25444.0		34379
-LAXMIMACH		-4.18		13208.8		13642
+ASIANPAINT		-2.15		2995.0		875079
+LAXMIMACH		-3.88		13249.95		13727
