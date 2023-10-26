@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		-3.18		904.5		247369
-LTIM		-2.51		5073.5		127238
-METROPOLIS		-2.42		1408.1		87291
+CDSL		-3.65		1274.95		721841
+TCS		-1.57		3336.9		707121
+ALKEM		-1.96		3515.0		20143
+SHREECEM		-0.52		25574.65		19852
