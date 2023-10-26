@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		-1.77		263.9		70285
-JBCHEPHARM		-3.14		1256.7		19041
-INGERRAND		-3.49		2787.2		7226
-PGHH		-2.11		16819.0		792
+SWSOLAR		-1.54		264.5		70583
+JBCHEPHARM		-3.26		1255.1		19336
+INGERRAND		-3.34		2791.55		7245
+PGHH		-2.05		16830.0		802
