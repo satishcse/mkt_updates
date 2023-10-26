@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.58		305.4		7662195
-ONGC		-1.57		181.45		7186925
-HINDALCO		-0.88		457.15		6183877
-BPCL		-1.34		335.4		3497486
-ULTRACEMCO		-0.58		8208.1		597786
+HINDALCO		-0.87		457.2		6209906
+BPCL		-1.44		335.05		3549837
+ULTRACEMCO		-0.63		8204.5		599984
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KOTAKBANK		-2.09		1692		5387056
