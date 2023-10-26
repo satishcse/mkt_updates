@@ -2,18 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-0.36		1870.75		243181
+GRASIM		-0.38		1870.3		243950
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-5.19		838.35		1953990
-LXCHEM		-2.96		250.75		296685
-CHALET		-2.4		546.25		280524
-SOBHA		-4.37		679.5		195560
-METROBRAND		-6.59		1132.25		88670
-SAFARI		-5.76		3657.65		38590
-BIRLACORPN		-3.26		1157.55		26375
-JBMA		-4.1		1123.8		21991
-VINATIORGA		-1.26		1753.35		14498
-SANOFI		-2.79		7265.0		4470
+JKLAKSHMI		-0.57		655.7		79643
+BIRLACORPN		-3.26		1157.5		26423
+JBMA		-4.11		1123.7		22153
+VMART		-4.21		1734.75		14805
+HONAUT		-2.58		36259.3		1168
