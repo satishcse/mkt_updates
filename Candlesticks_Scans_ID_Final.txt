@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VOLTAS		-0.32		814.85		42006
-IPCALAB		-0.76		986.05		35961
-CRISIL		0.13		3934.0		1151
+IPCALAB		-0.85		985.2		37676
