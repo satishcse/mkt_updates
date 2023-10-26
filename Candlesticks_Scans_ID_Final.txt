@@ -1,10 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BPCL		-1.96		333.3		1505090
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVRINOX		-2.9		1572.2		478250
+PVRINOX		-2.84		1573.15		480797
