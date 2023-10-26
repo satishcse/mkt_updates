@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.52		376.05		1367508
+WIPRO		-1.45		376.3		1409769
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-1.7		1889.6		72120
-BIRLACORPN		-2.31		1168.95		16051
+MCX		-1.73		2190.3		253636
