@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		-1.89		304.45		4718642
+ONGC		-1.06		182.4		3105847
+ASIANPAINT		-1.73		3007.75		521092
+MARUTI		-1.03		10479.85		256076
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PVRINOX		-2.73		1575		427690
+
