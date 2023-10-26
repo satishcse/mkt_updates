@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-1.55		1563.95		84760
-UBL		-1.82		1565.35		42453
-VMART		-4.32		1732.75		21270
-MRF		-0.85		107707.05		1783
+COROMANDEL		-4.09		1072.4		245084
+BATAINDIA		-1.55		1564.05		84853
+VMART		-4.32		1732.7		21271
