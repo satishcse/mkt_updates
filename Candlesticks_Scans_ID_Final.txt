@@ -1,17 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		-1.84		232.2		23792920
-BHARTIARTL		-1.85		921.9		6305053
-ULTRACEMCO		-0.78		8260.1		252732
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-1.2		1142.05		1440247
-VOLTAS		-0.38		818.15		1022771
-PIIND		-2.1		3334.55		284713
-SUPRAJIT		-1.31		368.0		269237
-PRINCEPIPE		-2.85		631.75		153079
-CERA		-5.91		8260.0		30467
+SBILIFE		-0.15		1312.2		46894
+HDFCAMC		-1.01		2784.85		43699
+VOLTAS		-0.25		815.4		36143
+IPCALAB		-0.87		985.0		31924
+SKFINDIA		0.03		5028.75		982
