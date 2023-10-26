@@ -1,13 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+GRASIM		-0.29		1871.95		216717
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-6.32		820.75		372940
-SOBHA		-4.34		679.7		182534
-MFSL		-2.25		865.0		109861
-ESCORTS		-2.09		3042.05		77170
-JBMA		-4.0		1125.0		20717
+VBL		-5.78		833.05		1856041
+JKLAKSHMI		-0.71		654.75		76141
+JBMA		-4.17		1123.0		20870
+EPIGRAL		-2.65		877.4		20269
