@@ -1,10 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		-1.58		305.4		7662195
+ONGC		-1.57		181.45		7186925
+HINDALCO		-0.88		457.15		6183877
+BPCL		-1.34		335.4		3497486
+ULTRACEMCO		-0.58		8208.1		597786
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SUNPHARMA		-1.4		1104.65		1980991
-ATUL		-1.44		6249.9		74401
+
