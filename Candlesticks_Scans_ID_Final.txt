@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.29		614.65		158840
+HDFCLIFE		-0.28		614.75		162224
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POWERINDIA		-2.23		4186.75		1542
+PGHL		-1.08		4957.65		304
