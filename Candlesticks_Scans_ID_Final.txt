@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-0.35		1870.8		234762
+GRASIM		-0.36		1870.7		235553
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-5.69		833.9		1904081
-ADANIENSOL		-4.21		688.65		418187
-CHALET		-2.43		546.1		278675
-JBMA		-4.17		1123.0		21364
-VINATIORGA		-1.26		1753.25		14030
-SANOFI		-2.79		7264.85		4405
-HONAUT		-2.44		36313.15		1129
+VBL		-5.39		836.5		1919874
+ADANIENSOL		-4.15		689.05		418969
+CHALET		-2.47		545.85		279241
+SOBHA		-4.3		680.0		190556
+SAFARI		-6.08		3645.05		37581
+SANOFI		-2.8		7264.3		4409
+HONAUT		-2.44		36313.15		1130
