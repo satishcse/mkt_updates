@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.9		304.4		4752573
-ONGC		-1.11		182.3		3143618
-UPL		-2.52		565.55		2377541
+TATASTEEL		-1.07		120.05		16687237
+COALINDIA		-2.01		304.05		4783222
+ONGC		-1.06		182.4		3151137
+UPL		-2.56		565.3		2409785
 
 Bullish_Hammer_15m_N500								 
 ======================= 
