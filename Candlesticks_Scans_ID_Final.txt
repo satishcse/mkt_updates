@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HEROMOTOCO		-0.98		3109.95		407999
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		-0.6		793.4		404422
-ATUL		-1.44		6249.95		72319
+ATUL		-1.44		6250		73382
