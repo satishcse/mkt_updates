@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.65		435.5		13201991
+COALINDIA		-1.71		305		6420176
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-1.76		5253.2		548681
-BAYERCROP		-2.35		4824.9		6824
+BAJAJ-AUTO		-1.7		5256.25		555019
