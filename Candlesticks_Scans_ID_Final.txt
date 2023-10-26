@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		-0.97		4490		137398
+ONGC		-1.03		182.45		2499148
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&M		-2.85		1524.35		1133605
-AUROPHARMA		-1.42		848.9		847176
-MAPMYINDIA		-3.19		1899.9		105725
-VINATIORGA		-1.43		1750.25		23418
+KPITTECH		-4.29		1098.65		481188
+MGL		-2.6		985.25		190759
+HEROMOTOCO		-1.41		3096.55		164114
+MAPMYINDIA		-3.18		1900.0		106844
+DALBHARAT		-2.73		2001.1		104285
+RAYMOND		-3.79		1606.65		83842
+VINATIORGA		-1.39		1750.95		23510
