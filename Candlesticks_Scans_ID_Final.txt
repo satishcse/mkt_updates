@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BPCL		-2.25		332.3		2733072
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDHOTEL		-3.99		374.0		4516392
-ABBOTINDIA		-1.54		22164.5		11011
+ABBOTINDIA		-1.44		22188.15		11047
