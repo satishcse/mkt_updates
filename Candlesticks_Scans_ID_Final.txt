@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COROMANDEL		-3.91		1074.45		246880
-BATAINDIA		-1.54		1564.15		84880
-VMART		-4.31		1733.0		21338
+VMART		-4.39		1731.55		21855
