@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.46		1234.65		2305352
-TCS		-1.36		3343.9		1096326
-APOLLOHOSP		-2.16		4754.7		609973
-HEROMOTOCO		-1.38		3097.45		239569
+HCLTECH		0.55		1235.7		2322206
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HDFCAMC		-3.48		2715.25		336083
