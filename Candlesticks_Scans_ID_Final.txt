@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.33		614.4		157572
+HDFCLIFE		-0.29		614.65		158840
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FLUOROCHEM		-3.02		2621.6		10098
-ENDURANCE		-2.25		1565.3		2719
-KIMS		-1.82		1798.95		1929
+
