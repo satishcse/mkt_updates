@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.76		1359.6		4706535
-TCS		-1.29		3346.3		1503120
+INFY		-0.76		1359.6		4712719
+TCS		-1.27		3346.95		1505651
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABBOTINDIA		-1.53		22166.6		10710
+ABBOTINDIA		-1.54		22164.2		10736
