@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		-1.03		182.45		2451387
+BRITANNIA		-0.97		4490.0		134617
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GILLETTE		-1.68		6071.65		8216
+KPITTECH		-4.56		1095.5		472660
