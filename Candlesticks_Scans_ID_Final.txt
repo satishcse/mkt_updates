@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-1.75		2865.05		2136267
+LT		-1.75		2865		2144487
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASIANPAINT		-2.17		2994.45		861244
+MARUTI		-1.38		10442.8		343188
