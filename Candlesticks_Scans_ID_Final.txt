@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.83		120.9		12636155
-ONGC		0.94		182.6		1827124
-POWERGRID		0.88		200.7		1823592
+TATASTEEL		0.79		120.85		12793487
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRESTIGE		-3.72		755.15		516926
-SHREECEM		-0.21		25377.35		8711
+SHREECEM		-0.25		25369		8759
