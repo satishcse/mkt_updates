@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.23		382.9		2797245
-JSWSTEEL		0.44		731.9		1450781
+WIPRO		1.19		382.75		2803691
+JSWSTEEL		0.44		731.9		1461159
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MAHLIFE		1.29		506.45		103479
