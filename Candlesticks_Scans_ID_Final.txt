@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		1.47		23892.7		64318
+NESTLEIND		1.51		23900		64640
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKCEMENT		0.28		3088.75		9693
+VOLTAS		-0.06		828.4		211107
