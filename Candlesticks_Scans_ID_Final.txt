@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.83		120.9		14666276
-ADANIPORTS		1.08		778.65		825282
-NESTLEIND		1.43		23882.35		65283
+TATASTEEL		0.83		120.9		14686587
+ADANIPORTS		1.1		778.85		827556
+NESTLEIND		1.51		23900.0		65448
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JKCEMENT		0.35		3090.95		9770
