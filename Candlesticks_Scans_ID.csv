@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.83,120.9,12909235
-ONGC,0.8,182.35,1853856
-SUNPHARMA,0.7,1111.45,321564
+TATASTEEL,0.83,120.9,12950160
+ONGC,0.83,182.4,1861470
+SUNPHARMA,0.66,1111.0,323529
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TEJASNET,0.3,858.25,88740
