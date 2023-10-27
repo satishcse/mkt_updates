@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.12		335.4		1055039
-HEROMOTOCO		0.42		3125.0		180272
+BPCL		0.12		335.4		1057093
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DCMSHRIRAM		1.68		981.5		63774
+DCMSHRIRAM		1.68		981.5		63776
