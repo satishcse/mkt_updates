@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEG		0.88		1576.45		116059
-BIRLACORPN		-0.51		1197.4		38418
+HEG		0.86		1576.05		116177
