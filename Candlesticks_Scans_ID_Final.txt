@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.19		183.05		2841224
-HDFCLIFE		0.77		610.5		724027
+ONGC		1.19		183.05		2854669
+HDFCLIFE		0.75		610.4		724993
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JKCEMENT		0.05		3081.8		13602
