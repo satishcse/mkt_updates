@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.54		3117.4		807490
+TATASTEEL		0.04		119.95		22982364
+TITAN		0.51		3116.7		808651
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LTIM		-0.04		5168.3		144635
