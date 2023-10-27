@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		1.06		382.25		2604607
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDRMFAST		2.27		1282.8		59294
+SUNDRMFAST		2.2		1281.9		59328
+GOCOLORS		-1.42		1249.75		27993
