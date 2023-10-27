@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		0.42		5363.5		826678
 BOSCHLTD		0.46		19738.35		6643
-SKFINDIA		0.29		4998.75		4144
+SKFINDIA		0.32		4999.95		4216
