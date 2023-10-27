@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		1.12		778.95		687888
-BHARTIARTL		0.79		912.65		503448
-BAJAJFINSV		-0.33		1554.9		372004
-CIPLA		0.6		1157.7		152118
-NESTLEIND		0.87		23749.95		54957
+ADANIPORTS		1.16		779.25		689920
+BHARTIARTL		0.77		912.45		510150
+BAJAJFINSV		-0.21		1556.7		388379
 
 Bullish_Hammer_15m_N500								 
 ======================= 
