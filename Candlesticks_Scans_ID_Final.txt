@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MGL		-0.18		987.9		769487
+SAPPHIRE		-4.36		1290.0		81260
+BIRLACORPN		-0.93		1192.25		77633
