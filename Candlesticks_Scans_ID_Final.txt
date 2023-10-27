@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.34		559.15		1211549
-ADANIPORTS		1.26		780.05		990351
-JSWSTEEL		0.35		731.25		755064
+HINDALCO		0.5		458.95		1514413
+UPL		-0.29		559.4		1213452
+ADANIPORTS		1.25		780.0		995486
+INDUSINDBK		1.29		1432.95		875050
+JSWSTEEL		0.38		731.45		756329
 
 Bullish_Hammer_15m_N500								 
 ======================= 
