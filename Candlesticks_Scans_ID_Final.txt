@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.32		1564.95		232489
-GOCOLORS		-0.23		1264.8		6533
-KIMS		-0.06		1834.85		5153
+BAJAJFINSV		0.32		1564.95		240328
+GOCOLORS		-0.31		1263.8		6695
