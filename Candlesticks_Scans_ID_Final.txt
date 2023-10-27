@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SBILIFE		-0.17		1303.35		505563
-SUNDRMFAST		2.29		1283.0		59928
-GOCOLORS		-1.44		1249.45		32451
+
