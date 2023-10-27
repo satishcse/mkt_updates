@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.11		182.9		2612545
-UPL		-0.24		559.7		1181555
-ADANIPORTS		1.25		779.95		970300
-JSWSTEEL		0.39		731.55		742643
-TATACONSUM		1.44		893.05		363929
+UPL		-0.2		559.95		1185388
+ADANIPORTS		1.23		779.85		972534
+JSWSTEEL		0.36		731.35		743887
+TATACONSUM		1.43		892.95		365014
 
 Bullish_Hammer_15m_N500								 
 ======================= 
