@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		1.51		23900		64640
+NESTLEIND		1.47		23891.3		64680
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VOLTAS		-0.06		828.4		211107
+VOLTAS		-0.07		828.3		211568
