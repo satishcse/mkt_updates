@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.64		914.45		6361524
-ONGC		1.74		184.05		4456727
-HCLTECH		2.82		1266.55		1889076
-HEROMOTOCO		0.32		3121.85		223223
+ONGC		1.77		184.1		4462959
+HCLTECH		2.79		1266.15		1895531
+HEROMOTOCO		0.32		3122.0		223951
 
 Bullish_Hammer_15m_N500								 
 ======================= 
