@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.54		119.25		11717492
-BHARTIARTL		1.33		926.8		2300300
-DIVISLAB		-0.74		3386.55		145106
+TATASTEEL		-0.5		119.3		11745444
+BHARTIARTL		1.36		927.0		2303867
+DIVISLAB		-0.75		3386.2		145209
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-0.36		36089.1		1556
+HONAUT		-0.36		36089.1		1558
