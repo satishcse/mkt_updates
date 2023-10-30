@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.33		119.5		12762645
-POWERGRID		-0.45		200.05		4460491
-BHARTIARTL		1.23		925.85		2519106
-JSWSTEEL		0.38		734.8		764229
+BAJAJ-AUTO		-0.65		5338.7		219607
+BRITANNIA		-0.8		4478.35		182591
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MANKIND		-2.21		1720.05		56936
+
