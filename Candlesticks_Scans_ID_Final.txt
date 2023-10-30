@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-1.58		3063		62565
+HEROMOTOCO		-1.57		3063.3		62797
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-1.71		1334.15		32126
+TVSMOTOR		-1.65		1565.55		96669
+ICICIGI		-1.71		1334.2		32263
