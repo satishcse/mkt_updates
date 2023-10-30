@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		3.42		346.4		7241098
-NTPC		-0.97		234.3		5561696
-UPL		-0.61		555.25		1456510
+BPCL		3.4		346.35		7248019
+NTPC		-0.99		234.25		5571016
+UPL		-0.62		555.2		1458279
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MEDPLUS		-2.24		796		56623
+SCHAEFFLER		-3.68		2882.3		125078
+KSB		-0.66		2910.45		9474
