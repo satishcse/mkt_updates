@@ -6,4 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		-1.16		1154.5		282915
+CHOLAFIN		-1.11		1155.1		286184
+EIDPARRY		-1.43		469.0		114050
+SAREGAMA		-0.62		335.45		57840
+KEI		-1.72		2467.1		32610
+VMART		-1.77		1714.3		10952
