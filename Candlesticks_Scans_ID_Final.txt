@@ -1,13 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIENT		0.4		2270.65		181413
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		-2.45		625.35		2477540
-HEROMOTOCO		-1.56		3063.55		55329
-NAVINFLUOR		-1.54		3379.15		51034
-APLLTD		-1.57		735.55		17759
-PGHL		-0.42		5048.5		957
+HEROMOTOCO		-1.56		3063.55		55413
+NAVINFLUOR		-1.47		3381.5		51741
+CAMS		0.23		2309.0		17543
+EPIGRAL		-1.23		903.05		5456
+PGHL		-0.41		5048.95		962
