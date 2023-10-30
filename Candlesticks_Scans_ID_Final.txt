@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-2.25		626.6		5043734
+TATAMOTORS		-2.23		626.75		5078159
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALAMINES		-1.96		2052		8522
+BALAMINES		-1.96		2052		8839
