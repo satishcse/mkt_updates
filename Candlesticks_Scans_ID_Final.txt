@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-1.31		989.6		4220922
-TECHM		0.56		1126.85		1922317
-WIPRO		0.01		382.4		1709298
-BAJAJ-AUTO		-0.9		5325.0		241575
+TATASTEEL		-0.46		119.35		14521964
+TECHM		0.54		1126.65		1931313
+WIPRO		-0.05		382.15		1720525
+TITAN		-0.32		3110.85		677103
+BAJAJ-AUTO		-0.92		5324.3		242753
+APOLLOHOSP		0.55		4856.6		194112
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ABBOTINDIA		-0.97		22450		9459
