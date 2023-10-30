@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.42		119.4		9976483
-ONGC		0.7		186.05		2619385
-TATACONSUM		0.04		891.5		488828
-NESTLEIND		0.25		24117.95		31975
+TATASTEEL		-0.46		119.35		9989773
+ONGC		0.7		186.05		2639821
+TATACONSUM		0.03		891.4		490278
 
 Bullish_Hammer_15m_N500								 
 ======================= 
