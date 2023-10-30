@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DATAPATTNS		-1.4		1898.1		27086
+HDFCAMC		-0.99		2725.05		107652
+DATAPATTNS		-1.42		1897.75		27129
