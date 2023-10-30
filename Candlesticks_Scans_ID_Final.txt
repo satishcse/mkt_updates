@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.38		119.45		14732550
-BPCL		3.94		348.15		9423040
-INFY		-0.24		1377.1		2108251
-WIPRO		-0.03		382.25		1752521
-KOTAKBANK		0.54		1711.95		1115327
-BAJAJ-AUTO		-0.93		5323.6		258055
-DIVISLAB		-0.34		3400.5		199181
+TATASTEEL		-0.46		119.35		14759840
+BPCL		3.88		347.95		9462638
+INFY		-0.29		1376.3		2115150
+WIPRO		-0.08		382.05		1758645
+KOTAKBANK		0.5		1711.2		1116858
+BAJAJ-AUTO		-0.94		5323.1		263563
+DIVISLAB		-0.3		3401.6		200055
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UPL		-2.19		546.4		3543735
+UPL		-2		547.5		3614489
