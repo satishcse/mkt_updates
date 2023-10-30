@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.35		926.95		2283126
-HDFCLIFE		-0.48		605.7		1156632
-DRREDDY		-0.97		5345.0		303455
+TATASTEEL		-0.46		119.35		11669676
+BHARTIARTL		1.35		926.95		2287561
+HDFCLIFE		-0.5		605.6		1157795
+DIVISLAB		-0.73		3387.05		144864
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NATCOPHARM		-0.91		798.35		145523
