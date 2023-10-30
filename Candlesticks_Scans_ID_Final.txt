@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCLIFE		-0.64		604.75		717354
-INDUSINDBK		0.53		1449.0		583787
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DATAPATTNS		-1.6		1894.3		26932
+DATAPATTNS		-1.4		1898.1		27086
