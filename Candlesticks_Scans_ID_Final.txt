@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		3.45		346.5		7100942
-ADANIPORTS		0.07		782.95		1793858
-APOLLOHOSP		0.53		4855.75		138885
+BPCL		3.45		346.5		7124855
+ADANIPORTS		0.04		782.7		1795596
+APOLLOHOSP		0.53		4855.8		139116
 
 Bullish_Hammer_15m_N500								 
 ======================= 
