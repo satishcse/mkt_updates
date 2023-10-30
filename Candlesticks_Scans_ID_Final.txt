@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.17		119.7		4231975
+TATASTEEL		-0.25		119.6		4246407
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-2.76		1881.8		290134
-NAVINFLUOR		-1.46		3382.0		53711
-NAUKRI		-0.03		4080.4		26623
-EPIGRAL		-1.23		903.05		5526
-PGHL		-0.35		5052.25		995
-LAXMIMACH		-0.62		13297.35		842
+NAVINFLUOR		-1.45		3382.35		53923
+FLUOROCHEM		-3.3		2707.4		19925
+PGHL		-0.35		5052.25		997
