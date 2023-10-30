@@ -1,11 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-INDUSINDBK		0.57		1449.45		575715
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HDFCAMC		-1.06		2723.1		104788
-DATAPATTNS		-1.69		1892.5		26897
+
