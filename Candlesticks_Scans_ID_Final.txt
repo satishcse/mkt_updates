@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.46		119.35		14889874
-BPCL		3.9		348.0		9547324
-WIPRO		-0.08		382.05		1780469
-BAJAJ-AUTO		-0.98		5320.65		267469
-DIVISLAB		-0.29		3402.0		203686
+TATASTEEL		-0.46		119.35		14926098
+BPCL		3.88		347.95		9571284
+WIPRO		-0.08		382.05		1785029
+BAJAJ-AUTO		-0.99		5320.15		269661
+DIVISLAB		-0.29		3401.9		204488
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		0.18		1924.15		240103
-MTARTECH		-2.38		2482.4		119673
+TORNTPHARM		0.18		1924.15		241858
+MTARTECH		-2.3		2484.5		119846
