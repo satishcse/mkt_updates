@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.38		119.45		4334371
-NESTLEIND		-0.41		23958.0		12681
+TATASTEEL		-0.38		119.45		4346616
+NESTLEIND		-0.4		23961.05		12704
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHL		-0.41		5048.95		1010
+CENTURYPLY		-0.89		615.6		19891
