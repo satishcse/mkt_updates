@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.46		185.6		2149841
+ONGC		0.46		185.6		2154831
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SCHAEFFLER		-3.5		2887.7		57185
+SCHAEFFLER		-3.37		2891.65		57549
