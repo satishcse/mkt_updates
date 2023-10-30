@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-STARHEALTH		-0.2		586.55		180540
-GRINDWELL		0.05		2094.55		15743
+GRINDWELL		0.02		2093.95		15786
