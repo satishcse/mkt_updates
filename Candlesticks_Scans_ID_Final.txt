@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.34		785.05		3268221
+ADANIPORTS		0.35		785.15		3286124
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MTARTECH		-3.04		2465.5		140186
+GODREJIND		-1.78		621.95		70224
