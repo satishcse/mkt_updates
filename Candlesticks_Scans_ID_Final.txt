@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.07		782.95		1779894
-INFY		-0.55		1372.7		1510550
-APOLLOHOSP		0.53		4855.95		137724
+ADANIPORTS		0.06		782.85		1784140
+INFY		-0.57		1372.45		1514052
+APOLLOHOSP		0.53		4855.65		138040
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-1.14		1631		8043
+WHIRLPOOL		-1.12		1631.4		8078
+ABBOTINDIA		-0.62		22529.95		6699
