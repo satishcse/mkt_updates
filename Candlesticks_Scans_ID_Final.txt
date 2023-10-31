@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.06		925.5		3506751
-SBILIFE		2.38		1357.7		890097
-NESTLEIND		0.12		24200.0		14381
+ICICIBANK		0.1		925.85		3533455
+SBILIFE		2.42		1358.35		891458
 
 Bullish_Hammer_15m_N500								 
 ======================= 
