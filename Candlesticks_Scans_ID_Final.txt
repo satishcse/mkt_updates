@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		0.12		7512		230629
+RELIANCE		-0.27		2306.3		2110409
+HEROMOTOCO		-0.26		3102.35		67937
+BEML		-0.17		2010.9		27265
+GALAXYSURF		-0.1		2603.6		774
