@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBMA		-0.11		1233.0		7144
+DATAPATTNS		-0.56		1881.95		34982
+JBMA		-0.11		1233.0		7148
 GALAXYSURF		-0.1		2603.6		774
-LAXMIMACH		-0.56		13266.1		592
+LAXMIMACH		-0.55		13268.15		593
