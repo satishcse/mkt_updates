@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.39		1479.3		6001653
-COALINDIA		-0.59		312.7		3050405
-NTPC		0.26		235.2		2198894
-INDUSINDBK		-0.52		1447.15		737419
+HDFCBANK		-0.45		1478.35		6026492
+COALINDIA		-0.73		312.25		3069975
+NTPC		0.13		234.9		2207078
+INDUSINDBK		-0.61		1445.8		741688
 
 Bullish_Hammer_15m_N500								 
 ======================= 
