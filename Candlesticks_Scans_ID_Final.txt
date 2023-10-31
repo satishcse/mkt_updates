@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.72		202.3		4595244
-APOLLOHOSP		0.03		4843.35		208462
+POWERGRID		0.75		202.35		4611493
+ASIANPAINT		1.1		2999.75		792659
+APOLLOHOSP		-0.02		4841.0		209170
 
 Bullish_Hammer_15m_N500								 
 ======================= 
