@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+BBTC		-0.04		1422.0		60527
 BRIGADE		-0.16		618.45		28932
-SCHAEFFLER		-1.26		2824.0		26367
+SCHAEFFLER		-1.29		2823.0		26602
