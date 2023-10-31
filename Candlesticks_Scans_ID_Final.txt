@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		0.72		202.3		4567018
+KOTAKBANK		1.58		1744.55		3742805
+CIPLA		0.46		1198.95		1238005
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHREECEM		-1.36		25591.35		12219
+
