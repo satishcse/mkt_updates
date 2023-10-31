@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.25		922.55		6509446
-WIPRO		-0.03		381.9		1642099
+ICICIBANK		-0.23		922.75		6530671
+UPL		0.16		539.5		3789127
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+M&M		-1.52		1475.05		898588
+GOCOLORS		-0.22		1246.9		35806
