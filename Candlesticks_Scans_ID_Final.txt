@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		2.79		1363.25		1464059
+SBILIFE		2.79		1363.2		1481351
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BBTC		-1.87		1395.95		141614
+BBTC		-1.86		1396.05		142128
