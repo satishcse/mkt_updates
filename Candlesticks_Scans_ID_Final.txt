@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.77		202.4		4706307
-BPCL		0.42		348.35		4502802
-ASIANPAINT		1.06		2998.5		820419
-APOLLOHOSP		-0.06		4838.9		212764
+BHARTIARTL		-0.91		917.8		4311575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VIPIND		-1.27		606.0		476481
-PRINCEPIPE		0.83		638.95		143263
+
