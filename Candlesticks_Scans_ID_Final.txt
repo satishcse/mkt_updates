@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HOMEFIRST		-1.74		919.0		84050
-BRIGADE		-0.14		618.6		28878
-SCHAEFFLER		-1.29		2823.0		26245
-ATUL		0.26		6258.0		6082
+M&M		-1.09		1481.4		481386
+SCHAEFFLER		-1.29		2823.05		26309
