@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.48		541.25		4984101
-INFY		-0.57		1369.25		3065358
-SBILIFE		3.04		1366.45		2052207
+UPL		0.47		541.2		5008721
+INFY		-0.65		1368.1		3107281
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LATENTVIEW		-4.02		397.6		1234351
-GAEL		-1.51		325.3		873209
-BBTC		-4.06		1364.7		221003
-SUNDRMFAST		-2.83		1258.0		200755
+SUNDRMFAST		-2.77		1258.9		200988
