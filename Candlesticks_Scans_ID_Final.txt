@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.79		1731.0		1525554
-INFY		-0.91		1364.5		1194846
+KOTAKBANK		0.79		1731.0		1528067
+INFY		-0.94		1364.1		1196922
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MEDPLUS		-0.29		799.25		35289
