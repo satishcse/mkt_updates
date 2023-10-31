@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.03		1193.05		462598
+CIPLA		0.09		1194.55		463660
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TATACHEM		0.48		955.1		157563
+HOMEFIRST		-1.74		919.0		83419
