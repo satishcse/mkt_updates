@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.93		185.15		4999382
-CIPLA		0.31		1197.15		886100
-DRREDDY		1.15		5407.05		136144
+TATASTEEL		-0.21		118.9		11386279
+ONGC		-1.96		185.1		5012734
+CIPLA		0.34		1197.5		887410
+BAJAJ-AUTO		-0.01		5308.15		224745
+DRREDDY		1.13		5405.7		136671
 
 Bullish_Hammer_15m_N500								 
 ======================= 
