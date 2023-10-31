@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.94		917.55		4370033
-HINDALCO		0.7		459.85		4135973
-BAJAJ-AUTO		0.15		5317.0		290801
+BPCL		0.52		348.7		4590481
+BHARTIARTL		-0.97		917.3		4375460
+HINDALCO		0.65		459.6		4148883
+ASIANPAINT		1.05		2998.35		848346
+BAJAJ-AUTO		0.11		5314.75		291487
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CGCL		0.24		759.9		62500
