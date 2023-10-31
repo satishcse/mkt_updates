@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.77		202.4		6198750
+POWERGRID		0.75		202.35		6258511
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.1		629.1		10360174
-HAVELLS		-1.66		1248.0		981903
-JSL		-0.63		444.7		598036
-MPHASIS		-0.94		2124.75		86897
-GRINFRA		0.5		1120.95		8012
+ITI		-0.02		270.95		2080072
+JSL		-0.65		444.6		604845
+HEROMOTOCO		-0.62		3091.1		181629
+MPHASIS		-0.86		2126.5		87768
+GRINFRA		0.5		1120.95		8018
