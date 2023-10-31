@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-0.5		118.55		7611268
+TCS		-0.71		3354.4		310036
+DIVISLAB		-0.55		3384.55		88567
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LUPIN		-0.27		1137.3		110007
-DIVISLAB		-0.57		3384.1		88440
-SCHAEFFLER		-1.47		2818.0		29570
-MANKIND		-0.04		1752.0		24453
+
