@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ICICIBANK,-0.25,922.6,6439040
-SUNPHARMA,-3.52,1075.95,3805371
-WIPRO,-0.05,381.8,1622077
+ICICIBANK,-0.3,922.1,6448846
+SUNPHARMA,-3.52,1075.9,3814496
+WIPRO,-0.03,381.9,1626233
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BSE,0.33,1904.0,1347442
+FINCABLES,-1.05,911.65,404893
