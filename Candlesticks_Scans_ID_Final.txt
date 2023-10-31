@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.34		1197.45		900070
-DRREDDY		0.8		5387.9		143606
+CIPLA		0.34		1197.5		900910
+DRREDDY		0.82		5389.3		143940
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TIMKEN		-1.46		2911		23195
+
