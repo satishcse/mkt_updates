@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.35		630.7		6689334
+TATAMOTORS		0.36		630.75		6698259
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHOPERSTOP		-1.25		632		30741
+TATAELXSI		-0.42		7607.15		31499
+SHOPERSTOP		-1.02		633.5		31063
