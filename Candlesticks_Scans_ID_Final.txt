@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.47		541.2		4915031
-INFY		-0.54		1369.55		2944539
-HDFCLIFE		1.81		618.6		2416442
-INDUSINDBK		-0.84		1442.4		1296779
+UPL		0.42		540.9		4931753
+INFY		-0.62		1368.55		2981301
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		-1.41		2436.75		177595
+METROPOLIS		0.65		1404.45		277385
+MTARTECH		-1.36		2438.0		178428
+FINEORG		-3.82		4412.85		63697
