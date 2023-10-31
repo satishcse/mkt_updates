@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.68		1367.75		3216349
+INFY		-0.65		1368.05		3259676
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUESTARCO		0.45		876.15		2964187
-KEC		-2.68		628.45		365681
-SUPREMEIND		-4.54		4316.8		229139
-SUNDRMFAST		-2.91		1257.0		203315
-MTARTECH		-1.27		2440.1		188383
-CARBORUNIV		-0.39		1071.95		145446
-ASAHIINDIA		-0.05		558.9		53871
+BLUESTARCO		1.47		885.0		2994051
+SHYAMMETL		0.52		442.0		324551
+SUPREMEIND		-4.21		4331.9		233384
+KRBL		-2.56		360.05		199918
+SAFARI		-1.67		4144.0		29206
