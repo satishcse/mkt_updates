@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.55		118.5		7641089
-JSWSTEEL		-0.8		728.6		456024
-TCS		-0.73		3354.0		311227
-DIVISLAB		-0.57		3384.0		88813
+TATASTEEL		-0.46		118.6		7664953
+SBILIFE		2.47		1358.95		835719
+TCS		-0.73		3354.0		312231
+DIVISLAB		-0.57		3384.0		88937
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELAXO		0.58		895.75		11286
+APLLTD		-2.95		713		76468
