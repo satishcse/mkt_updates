@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		1.46		3010.3		516433
-ULTRACEMCO		-0.01		8400.9		87337
+ASIANPAINT		1.39		3008.4		517141
+ULTRACEMCO		-0.03		8398.95		87537
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAYMOND		0.6		1766.3		44832
+RELIANCE		-0.76		2294.95		3486555
+RAYMOND		0.6		1766.3		44838
 GLAXO		-0.58		1421.3		18098
