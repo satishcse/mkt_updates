@@ -1,13 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-KOTAKBANK		0.71		1729.7		1540996
-INFY		-0.83		1365.65		1220264
-BAJAJFINSV		0.38		1567.1		568269
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POLYCAB		-0.72		4901.9		180176
-BBTC		-0.25		1419.0		85482
+
