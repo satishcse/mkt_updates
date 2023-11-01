@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.54		201.05		4547261
+POWERGRID		-0.54		201.05		4569681
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIVISLAB		-1.12		3350.55		241124
-DALBHARAT		-1.21		2078.8		163101
-WHIRLPOOL		-1.64		1615.35		15098
+WHIRLPOOL		-1.63		1615.5		15101
 INGERRAND		-1.02		2779.35		5570
-ABBOTINDIA		-1.0		22189.6		3409
+ABBOTINDIA		-1.0		22190.0		3410
