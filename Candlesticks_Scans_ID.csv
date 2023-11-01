@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,-0.32,235.05,1930651
-DRREDDY,-0.25,5354.05,100732
+NTPC,-0.3,235.1,1932783
+DRREDDY,-0.3,5351.45,100947
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HDFCAMC,0.18,2738.9,144975
+LALPATHLAB,-1.92,2372.7,84723
