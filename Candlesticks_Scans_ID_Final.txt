@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.6		905.9		571984
+TATACONSUM		0.57		905.6		574133
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KOTAKBANK		-1.1		1720.3		521711
-KEC		0.91		634.0		85864
-DCMSHRIRAM		-2.68		901.65		58168
+BALRAMCHIN		-1.04		408.85		1348713
+MEDANTA		-0.34		781.9		27408
+VINATIORGA		0.23		1733.85		3606
 ZFCVINDIA		-1.26		15506.25		735
