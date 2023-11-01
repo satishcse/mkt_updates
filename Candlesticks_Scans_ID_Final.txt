@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.9		973.0		3545351
-BHARTIARTL		-0.47		910.1		3440009
-M&M		0.4		1464.4		1739658
+BHARTIARTL		-0.44		910.4		3442702
+M&M		0.43		1464.8		1743212
+BAJAJ-AUTO		1.08		5371.4		471764
 
 Bullish_Hammer_15m_N500								 
 ======================= 
