@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		0.43		186.95		7285521
+TATACONSUM		0.69		906.75		2414359
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AWL		-3.31		315.8		1678836
-AFFLE		-0.32		1048.0		80159
-CENTURYTEX		-0.72		1075.0		60147
+
