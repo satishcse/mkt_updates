@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-0.08		1568.35		172390
+SBILIFE		-0.87		1356.0		350745
+BAJAJFINSV		-0.02		1569.25		172629
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JKCEMENT		-1.2		3116.15		8210
