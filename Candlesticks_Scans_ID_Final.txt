@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.11		566.2		12343990
-AXISBANK		-0.94		972.6		4834705
-M&M		-0.17		1456.1		2268255
+SBIN		0.2		566.7		12387338
+AXISBANK		-0.95		972.55		4860673
+M&M		-0.19		1455.85		2274495
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-1.76		1562.8		1360679
-INTELLECT		-1.8		667.1		265907
-BEML		-0.31		2014.5		158499
+ICICIPRULI		-1.84		515.6		573025
+LTIM		-1.16		5001.95		302340
+BEML		-0.18		2017.2		159996
+APARINDS		-1.98		5077.15		70907
+VINATIORGA		-0.92		1713.9		24056
