@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBIN		0.66		569.3		3926103
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		0.36		263.95		95042
+SWSOLAR		0.32		263.85		95112
+PGHL		-0.54		5075.3		778
