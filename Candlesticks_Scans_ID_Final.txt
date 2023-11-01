@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		-0.52		201.1		1924897
-SBILIFE		-1.05		1353.45		359342
-BAJAJFINSV		-0.03		1569.1		175805
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKCEMENT		-1.16		3117.5		8633
+POLYCAB		-0.06		4919.35		153626
