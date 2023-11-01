@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.89		973.15		3508813
-M&M		0.38		1464.15		1730719
+AXISBANK		-0.83		973.75		3523252
+BHARTIARTL		-0.46		910.15		3432079
+M&M		0.34		1463.6		1733823
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ALKYLAMINE		-0.49		2132.2		9561
