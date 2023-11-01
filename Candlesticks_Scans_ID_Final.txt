@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		-0.49		1977		30992
+FACT		1.36		766.3		2007778
+DEEPAKNTR		-0.48		1977.2		31039
