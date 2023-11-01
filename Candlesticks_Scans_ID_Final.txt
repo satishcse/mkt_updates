@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		0.22		3095.0		343686
-DRREDDY		-0.15		5359.65		176578
+ITC		-0.32		427.05		4493790
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHREECEM		-0.34		25569.05		9582
