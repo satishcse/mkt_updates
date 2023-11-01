@@ -2,14 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.18		429.15		2500824
+ITC		0.15		429.05		2505509
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-1.83		1828.9		825010
-STARHEALTH		-5.17		550.0		673922
-ADANIENT		-0.59		2281.0		579877
-GODREJCP		-0.57		986.2		149948
-APOLLOHOSP		0.29		4833.8		128496
-INDIAMART		-1.67		2605.3		93844
+STARHEALTH		-5.17		550		676134
