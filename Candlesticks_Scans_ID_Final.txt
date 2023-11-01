@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATACONSUM		0.6		905.9		554414
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-0.35		1368.95		47790
-CEATLTD		0.38		2116.7		32308
+ICICIGI		-0.35		1369.05		47990
+UBL		-0.15		1612.65		46812
+TEJASNET		-0.2		855.3		39019
