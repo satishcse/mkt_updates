@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.72		117.9		14842430
-BAJAJ-AUTO		1.11		5373.25		473766
+BAJAJ-AUTO		1.13		5373.9		474244
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBUJACEM		-2.86		412.3		2509390
-APLAPOLLO		-2.38		1528.0		888324
-ACC		-1.63		1857.35		176098
-BEML		-0.09		2019.0		128510
-MEDPLUS		0.13		792.4		25088
-ALKYLAMINE		-0.47		2132.5		9950
+AMBUJACEM		-2.56		413.6		2587582
+APLAPOLLO		-2.42		1527.35		891174
+ACC		-1.64		1857.15		176496
+ALKYLAMINE		-0.47		2132.5		9986
