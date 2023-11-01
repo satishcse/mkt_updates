@@ -2,10 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.18		429.15		2926407
-POWERGRID		-0.57		201.0		2357934
-WIPRO		0.47		383.6		1145626
-HEROMOTOCO		0.3		3097.7		269960
+ULTRACEMCO		-0.14		8410.05		98694
 
 Bullish_Hammer_15m_N500								 
 ======================= 
