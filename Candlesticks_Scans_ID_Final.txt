@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LUXIND		-2.42		1331.7		46600
+LUXIND		-2.22		1334.4		50169
+CERA		-1.66		8342.6		3227
