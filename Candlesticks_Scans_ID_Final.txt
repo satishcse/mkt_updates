@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.29		427.15		5055488
+ITC		-0.27		427.25		5068495
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CIEINDIA		-1.28		454.25		713895
-KEC		-0.53		625.0		194570
-ISEC		-2.07		625.85		179016
+TCS		-0.72		3344.45		1048864
+UBL		-0.43		1608.2		207296
+ISEC		-1.98		626.45		179170
+CENTURYTEX		-1.01		1071.85		54045
+GRINFRA		-0.91		1110.0		4290
