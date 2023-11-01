@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.63		118		13424526
+TATASTEEL		-0.63		118		13439559
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HEROMOTOCO		0.18		3093.95		281849
+LTIM		-0.59		5030.55		195454
