@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.29		911.75		3706726
-BRITANNIA		-0.6		4399.9		268504
+BHARTIARTL		-0.32		911.5		3711944
+BRITANNIA		-0.61		4399.6		269020
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CONCOR		-1.31		679.2		198474
