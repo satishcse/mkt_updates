@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCBANK		-0.65		1466.9		6386566
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-0.6		2280.95		572278
-POLYCAB		-0.04		4920.25		154346
-APOLLOHOSP		0.17		4828.1		127192
+ABB		-0.51		4088.15		101322
+IPCALAB		-0.95		974.4		77067
