@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.43		186.95		5832627
-HDFCLIFE		0.72		622.8		1117733
-HCLTECH		-0.5		1269.65		880383
+TATASTEEL		-0.55		118.1		13379900
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AFFLE		0.11		1052.5		53941
-CHEMPLASTS		-0.41		442.35		33143
-ZYDUSWELL		-0.71		1520.45		8129
+
