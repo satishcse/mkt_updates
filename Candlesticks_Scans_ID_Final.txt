@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.8		117.8		15004861
-SBIN		0.46		568.15		9523934
-INDUSINDBK		-0.48		1434.45		1708982
-BAJAJ-AUTO		1.13		5374.1		476756
-HEROMOTOCO		0.22		3095.0		341021
+TATASTEEL		-0.88		117.7		15063183
+SBIN		0.43		568.0		9535661
+INDUSINDBK		-0.55		1433.4		1711172
+BAJAJ-AUTO		1.13		5374.0		477146
+HEROMOTOCO		0.17		3093.7		341251
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-0.72		1358.05		1409124
+PATANJALI		-0.71		1358.2		1413052
