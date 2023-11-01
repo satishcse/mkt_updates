@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.53		309.45		4772523
-ULTRACEMCO		-0.31		8396.0		130094
+ULTRACEMCO		-0.31		8396		130199
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEC		0.06		628.7		146108
+KEC		0.07		628.75		146376
+ATUL		-1.18		6168.3		11937
