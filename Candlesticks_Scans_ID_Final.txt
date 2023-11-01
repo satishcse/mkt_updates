@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.59		200.95		4647659
+M&M		-0.03		1458.2		2188247
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINEORG		-2.33		4316.75		40763
-KSB		-1.83		3005.65		18759
-WHIRLPOOL		-1.57		1616.45		15272
+INDIAMART		-3.48		2557.5		176635
