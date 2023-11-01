@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+AXISBANK		-0.89		973.15		3508813
+M&M		0.38		1464.15		1730719
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JUBLINGREA		-1.64		412.9		270801
-DEEPAKFERT		-2.86		624.05		243002
-COLPAL		-1.22		2088.05		211504
-RAMCOCEM		-0.17		990.0		147855
-KPRMILL		-0.63		800.0		98098
+
