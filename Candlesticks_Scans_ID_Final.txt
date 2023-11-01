@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.26		429.5		2795759
-POWERGRID		-0.57		201.0		2331170
-HINDALCO		0.42		461.45		2220811
-WIPRO		0.39		383.3		1121601
+ITC		0.29		429.65		2808010
+POWERGRID		-0.57		201.0		2331829
+HINDALCO		0.42		461.45		2222192
+WIPRO		0.38		383.25		1122648
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AWL		-1.88		320.45		879630
+
