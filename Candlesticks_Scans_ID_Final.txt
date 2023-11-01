@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.62		569.05		4024207
+SBIN		0.55		568.65		4038984
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FACT		0.97		763.4		2117756
-SWSOLAR		0.29		263.75		95377
+SWSOLAR		0.29		263.75		95898
 LAXMIMACH		-0.66		13116.95		892
