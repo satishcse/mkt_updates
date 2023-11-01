@@ -1,8 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		0.46		187.0		5713565
+HDFCLIFE		0.82		623.45		1103876
+HCLTECH		-0.42		1270.65		857970
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ADANIGREEN		-1.14		901.25		224494
