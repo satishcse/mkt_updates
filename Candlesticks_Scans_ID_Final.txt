@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.82		463.25		4675232
-DRREDDY		-0.33		5350.0		252221
+DRREDDY		-0.33		5350		253886
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		-2.03		2935		925839
+JKCEMENT		-2.11		3087.4		21763
