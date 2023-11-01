@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.26		567.0		10452710
-POWERGRID		-0.67		200.8		3938169
-BHARTIARTL		-0.28		911.85		3747887
-TITAN		-0.12		3185.8		533658
-BRITANNIA		-0.46		4406.3		272063
+SBIN		0.28		567.15		10461762
+POWERGRID		-0.69		200.75		3949031
+BHARTIARTL		-0.3		911.7		3755052
+TITAN		-0.23		3182.45		536032
+BRITANNIA		-0.54		4402.7		272212
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-0.8		5019.95		264054
-SAFARI		0.87		4170.0		155060
+LTIM		-0.8		5019.8		264463
