@@ -6,5 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAM-INDIA		-2.03		383.5		390141
-TANLA		-0.91		943.85		186232
+ADANIENT		-2.44		2238.6		933622
+MAZDOCK		-3.41		1899.75		738484
+NATCOPHARM		-1.37		789.35		453125
+NAM-INDIA		-1.97		383.75		392033
+LALPATHLAB		-2.35		2362.4		193632
+ACC		-1.71		1856.0		161161
