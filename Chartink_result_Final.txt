@@ -83,8 +83,8 @@ NESTLEIND		-1.36		23905.0		63648
 ATUL		-1.57		6144.0		24728
 PAGEIND		-1.03		37426.0		21565
 BOSCHLTD		-0.78		19300.0		10860
-NIFTY		-0.46		18991.95		0
-BANKNIFTY		-0.26		42736.0		0
+NIFTY		-0.47		18989.15		0
+BANKNIFTY		-0.34		42700.95		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
