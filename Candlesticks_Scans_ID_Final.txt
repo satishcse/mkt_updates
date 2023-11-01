@@ -6,5 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDALSTEL		-6.35		593.55		2941463
-ALKYLAMINE		-0.22		2137.9		1994
+JINDALSTEL		-6.31		593.8		2988685
+FACT		3.43		782.0		1444551
+JSWSTEEL		-1.42		725.9		275336
+MARUTI		-0.15		10376.5		78010
+FLUOROCHEM		-1.55		2730.65		5538
+ALKYLAMINE		-0.22		2137.9		1996
