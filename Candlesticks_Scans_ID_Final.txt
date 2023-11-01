@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.6		905.9		559531
+TATACONSUM		0.58		905.7		563278
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.42		1958.6		253789
-SRF		-0.98		2173.85		65793
-TEJASNET		-0.24		855.0		39327
+ASTRAL		-0.58		1840.05		490156
+MAZDOCK		-0.3		1960.95		255176
+INDIGO		-0.52		2441.0		69899
+SRF		-0.97		2174.0		67543
+CEATLTD		0.34		2115.8		32779
+ABBOTINDIA		-0.42		22319.45		974
+LAXMIMACH		-0.54		13132.65		746
