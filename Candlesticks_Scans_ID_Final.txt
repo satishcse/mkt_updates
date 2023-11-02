@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.55		202.05		8270796
-INDUSINDBK		1.9		1459.75		2618534
-UPL		1.08		537.8		1197240
-GRASIM		1.43		1895.3		168669
+POWERGRID		0.55		202.05		8320215
+INDUSINDBK		1.89		1459.65		2620464
+UPL		1.06		537.7		1200842
+GRASIM		1.42		1895.1		168897
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SYRMA		-9.43		541.3		2514607
