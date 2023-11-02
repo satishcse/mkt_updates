@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELAXO		-1.99		917.95		63855
-BLUESTARCO		-0.72		927.55		45937
-MARUTI		0.29		10257.6		41058
-METROBRAND		-0.22		1173.4		5352
+PATANJALI		0.68		1356.0		47162
+METROBRAND		-0.22		1173.45		5374
