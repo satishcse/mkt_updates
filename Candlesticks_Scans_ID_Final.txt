@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.94		2318.95		4383140
-HEROMOTOCO		-1.51		3045.7		1105228
-HCLTECH		0.97		1271.1		1062712
-BAJAJ-AUTO		-0.5		5317.55		251530
+HEROMOTOCO		-1.5		3045.95		1106052
+HCLTECH		1.03		1271.95		1064941
+BAJAJ-AUTO		-0.51		5316.95		251947
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		0.55		2737.95		224374
-RELAXO		-2.46		913.55		158868
+VMART		0.21		1662		14870
