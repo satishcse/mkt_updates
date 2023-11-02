@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		0.52		202.0		4047960
-TATAMOTORS		0.62		631.6		3070732
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		0.63		2505.95		28637
-PAGEIND		0.16		37478.6		2559
+BAJAJ-AUTO		-0.4		5323.05		97753
