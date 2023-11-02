@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BAJAJFINSV		0.43		1579.6		558383
-MARUTI		0.71		10299.95		386470
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-0.28		1789.65		1075551
+BSE		-0.2		1790.95		1076754
 PRINCEPIPE		0.37		625.05		58674
-UTIAMC		0.28		753.2		17984
