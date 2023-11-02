@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.74		570.6		8001928
-BHARTIARTL		1.17		924.15		4685571
+SBIN		0.74		570.6		8009722
+UPL		1.42		539.6		1303377
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRINCEPIPE		0.34		624.85		58169
+PRINCEPIPE		0.31		624.7		58221
