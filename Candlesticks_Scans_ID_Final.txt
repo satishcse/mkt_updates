@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		0.65		1355.55		48061
-METROBRAND		-0.27		1172.8		5458
-SFL		0.84		1094.65		4441
+PATANJALI		1.05		1361.0		50101
+METROBRAND		-0.28		1172.7		5482
