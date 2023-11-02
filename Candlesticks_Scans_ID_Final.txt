@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		1.24		3323		167346
+ONGC		0.08		186.85		2869219
+HCLTECH		0.98		1271.3		640190
+JSWSTEEL		0.36		727.05		450458
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		0.21		1798.3		845307
 CGCL		-0.25		762.9		137264
