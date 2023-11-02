@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAYERCROP		0.35		4933.8		336
+SCHAEFFLER		1.12		2770.0		23680
+BAYERCROP		0.4		4935.95		403
