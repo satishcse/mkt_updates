@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.14		235.25		2999254
-SBILIFE		0.48		1342.5		422180
+NTPC		1.1		235.15		3054875
+SBILIFE		0.67		1344.95		425531
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINEORG		-1.34		4244.7		33396
+DRREDDY		0.09		5351.45		225432
+FINEORG		-1.35		4244.5		33402
+GLAXO		-0.53		1399.4		16779
