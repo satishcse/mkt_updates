@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FINEORG		-1.73		4228.0		56569
+GLAXO		-1.09		1391.45		43431
+ROSSARI		-0.9		726.0		30505
