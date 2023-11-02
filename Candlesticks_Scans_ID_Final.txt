@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		0.68		10297.25		388054
+NTPC		1.12		235.2		3929523
+MARUTI		0.66		10295.0		389836
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-0.2		1791.05		1079832
-ISEC		-0.11		626.25		157387
-PRINCEPIPE		0.31		624.65		59073
-FINEORG		-1.5		4237.95		41411
-JBMA		-0.81		1194.0		23225
-UTIAMC		0.23		752.85		18098
+ISEC		-0.04		626.7		158972
+UTIAMC		0.23		752.85		18104
