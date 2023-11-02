@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+WIPRO		0.53		382.95		934480
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-0.67		386.0		688870
-BAJAJFINSV		0.32		1577.9		252071
-NAZARA		-0.62		804.95		31979
+BAJAJFINSV		0.32		1577.9		252277
