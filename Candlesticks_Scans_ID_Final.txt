@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.55		202.05		4488573
-KOTAKBANK		1.34		1747.45		1341656
+POWERGRID		0.55		202.05		4492830
+KOTAKBANK		1.31		1747.0		1345781
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		0.47		7506.8		294629
-GESHIP		-0.29		796.3		76394
-BAYERCROP		-0.36		4898.95		2016
+BAJFINANCE		0.47		7507.0		294940
+GESHIP		-0.29		796.3		76405
+BAYERCROP		-0.36		4898.9		2017
