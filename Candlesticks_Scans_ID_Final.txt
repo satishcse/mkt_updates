@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.08		360.75		3418900
-ADANIPORTS		1.31		779.2		927637
-BAJAJFINSV		0.04		1573.4		406857
+BPCL		1.05		360.65		3421074
+ADANIPORTS		1.32		779.25		927862
+BAJAJFINSV		0.01		1573.0		407832
 
 Bullish_Hammer_15m_N500								 
 ======================= 
