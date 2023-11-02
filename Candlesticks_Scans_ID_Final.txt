@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.05		186.6		2240035
+LT		0.88		2920.8		590036
+TATACONSUM		0.73		909.75		442263
+JSWSTEEL		0.57		728.6		377677
+GRASIM		1.03		1887.75		89277
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAJAJFINSV		0.32		1577.95		254142
-NAZARA		-0.58		805.3		32579
-LUXIND		0.09		1347.9		13939
+
