@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.9		234.7		1401865
+NTPC		0.9		234.7		1406945
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		-0.09		2404.25		70290
+PERSISTENT		-0.05		6208		99986
