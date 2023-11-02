@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.52		202		3992915
+POWERGRID		0.52		202		4008169
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		0.21		3289.0		99547
-PAGEIND		0.1		37455.75		2520
+SUNTV		-0.97		636.05		693611
+BAJAJ-AUTO		-0.39		5323.6		95861
