@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		0.87		3375		166831
+DIVISLAB		0.84		3374.05		166883
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		0.22		5357.95		210995
-TIMKEN		0.28		2893.75		23853
+TIMKEN		0.47		2899.2		23905
