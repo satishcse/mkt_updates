@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-RELIANCE,0.93,2318.8,4363856
-HCLTECH,1.0,1271.5,1054504
-BAJAJ-AUTO,-0.55,5315.0,250484
+RELIANCE,0.91,2318.4,4374593
+HCLTECH,1.05,1272.15,1057704
+BAJAJ-AUTO,-0.52,5316.7,250938
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HDFCAMC,0.52,2737.35,224191
+RELAXO,-2.52,913.0,158694
