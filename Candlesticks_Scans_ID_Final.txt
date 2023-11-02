@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.08		186.55		7480787
-INDUSINDBK		1.84		1459.0		2637726
-UPL		1.1		537.9		1216872
-GRASIM		1.47		1896.0		175466
+ONGC		-0.11		186.5		7491736
+INDUSINDBK		1.78		1458.15		2647944
+UPL		1.08		537.8		1224022
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		-0.01		5346.0		268901
-BIRLACORPN		1.03		1272.35		26427
+SCHAEFFLER		-1.75		2691.25		82975
+BIRLACORPN		1.16		1273.95		26450
+SAPPHIRE		-1.56		1308.65		24272
