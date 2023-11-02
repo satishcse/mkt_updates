@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.77		383.9		1794933
-TCS		1.15		3369.0		846353
+WIPRO		0.75		383.8		1801209
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		-0.15		5338.3		341118
+POLYPLEX		0.05		1013.1		36785
