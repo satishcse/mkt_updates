@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.3		1121.7		918073
-EICHERMOT		1.27		3324.0		159274
+TECHM		-0.23		1122.55		922271
+EICHERMOT		1.29		3324.6		159575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BSE		-0.09		1792.95		783875
+
