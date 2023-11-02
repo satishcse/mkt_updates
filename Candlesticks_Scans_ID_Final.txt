@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		0.43		382.6		870683
-LT		0.65		2914.25		532777
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+TATAELXSI		0.5		7520.65		29449
 BALAMINES		-0.07		2033.45		9164
