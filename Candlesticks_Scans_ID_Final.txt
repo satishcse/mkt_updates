@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		1.26		3323.5		167229
+EICHERMOT		1.24		3323		167346
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		0.28		2078.25		75101
-METROBRAND		-0.88		1165.6		11844
+BSE		0.21		1798.3		845307
+CGCL		-0.25		762.9		137264
