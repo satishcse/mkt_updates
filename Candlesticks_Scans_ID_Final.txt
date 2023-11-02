@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.49		5318.4		266024
+ONGC		-0.24		186.25		10414228
+NTPC		1.14		235.25		5171696
+APOLLOHOSP		1.84		4884.75		190710
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LTIM		0.39		5018		270725
+
