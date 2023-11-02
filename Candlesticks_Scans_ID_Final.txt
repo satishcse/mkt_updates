@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.21		186.3		10519637
-NTPC		1.1		235.15		5320726
+ONGC		-0.19		186.35		10544246
+NTPC		1.16		235.3		5337882
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAINBOW		-0.49		1051.6		145120
-MTARTECH		0.39		2500.0		47333
+TECHM		-0.68		1117.4		2151363
+MTARTECH		0.37		2499.6		47687
