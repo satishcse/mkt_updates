@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.86		1365.8		1440008
+INFY		0.76		1364.45		1514055
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		0.52		2400.3		847755
-MARUTI		-0.02		10225.55		245925
-PAGEIND		-0.66		37170.0		5293
-LAXMIMACH		0.06		13035.35		885
+PERSISTENT		-0.27		6194.45		171490
+BAJAJ-AUTO		-0.6		5312.35		147173
+PIIND		0.5		3397.4		75617
+TATAELXSI		-0.72		7429.45		48985
+PAGEIND		-0.59		37195.55		5329
+LAXMIMACH		0.07		13036.05		888
