@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.74		383.75		1838523
+WIPRO		0.72		383.7		1840490
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIJAYA		0.47		575.65		55478
-SKFINDIA		-0.89		4796.55		20550
+POLYPLEX		0.04		1013		37026
