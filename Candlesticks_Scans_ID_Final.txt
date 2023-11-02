@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.16		235.3		2928655
-SUNPHARMA		1.42		1132.0		1900956
-SBILIFE		0.61		1344.25		409944
+NTPC		1.23		235.45		2932541
+SUNPHARMA		1.42		1132.05		1904161
+SBILIFE		0.55		1343.45		411036
 
 Bullish_Hammer_15m_N500								 
 ======================= 
