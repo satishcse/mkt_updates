@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		1.22		3322.2		162902
+EICHERMOT		1.15		3320.05		163682
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPRMILL		0.24		801.3		51381
-WHIRLPOOL		-1.78		1584.0		17503
-METROBRAND		-0.89		1165.5		10914
+MCDOWELL-N		-0.25		1043.0		439485
+INDIAMART		-0.21		2544.3		154133
+PATANJALI		-0.36		1342.0		151003
+METROBRAND		-0.88		1165.6		11760
