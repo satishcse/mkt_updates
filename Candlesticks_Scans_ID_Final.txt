@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.76		383.85		1788605
+WIPRO		0.77		383.9		1794933
+TCS		1.15		3369.0		846353
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SCHAEFFLER		-2.72		2664.75		111377
+DRREDDY		-0.15		5338.3		341118
