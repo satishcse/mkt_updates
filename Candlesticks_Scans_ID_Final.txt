@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.71		1484.95		2373274
-WIPRO		0.42		382.55		812511
+WIPRO		0.35		382.3		817688
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CERA		-0.7		8101.6		8368
+ROSSARI		-0.65		727.85		15107
