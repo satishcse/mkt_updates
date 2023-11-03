@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		0.0		5051.8		86152
-JKPAPER		0.62		383.9		70689
-SFL		-1.82		1080.6		41654
-STARHEALTH		-0.09		548.4		30980
-JUSTDIAL		0.25		726.0		13108
+POLYCAB		0.0		5051.4		86562
+JKPAPER		0.55		383.65		71666
+SFL		-1.79		1080.95		41855
+JUSTDIAL		0.23		725.9		13240
