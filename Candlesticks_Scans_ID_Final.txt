@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.02		312.0		2664656
-BPCL		0.6		362.7		1681024
+HDFCLIFE		0.61		623.1		1082539
+CIPLA		0.17		1210.6		528442
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINDWELL		-1.07		2126.4		24742
+SONATSOFTW		1.99		1220.15		545170
