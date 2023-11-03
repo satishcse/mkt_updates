@@ -1,13 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.34		117.7		19273220
-BAJAJ-AUTO		0.76		5359.0		155499
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARUTI		-0.09		10294.8		253261
+APLAPOLLO		-1.32		1539.35		337226
 BEML		-0.01		2055.5		62337
-HOMEFIRST		0.31		916.45		40476
+HOMEFIRST		0.42		917.4		41013
