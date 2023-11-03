@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,0.91,577.3,6180428
-HDFCBANK,0.84,1489.15,4654978
-RELIANCE,0.3,2327.05,2443879
+SBIN,0.92,577.35,6187380
+HDFCBANK,0.89,1489.95,4675413
+RELIANCE,0.27,2326.55,2446813
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+M&M,-0.04,1469.05,1233860
