@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		-0.08		730.55		227429
-JBCHEPHARM		0.16		1402.5		38749
+PNBHOUSING		-0.01		731.0		228338
+KPRMILL		-0.06		793.5		90046
+JBCHEPHARM		0.31		1404.5		38893
