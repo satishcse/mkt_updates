@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		-0.23		10280		487532
+WIPRO		-0.01		383.6		2596124
+TECHM		1.62		1133.55		1090765
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-0.68		936.05		294606
-VIPIND		-0.14		595.0		247233
-CENTURYTEX		-1.81		1072.75		132128
-APARINDS		-0.57		5077.95		60768
-EPIGRAL		-0.54		895.9		13900
+VIPIND		-0.14		595.0		247399
+CENTURYTEX		-1.81		1072.7		132364
+KPRMILL		-0.04		793.7		95027
+PRINCEPIPE		0.53		626.55		73184
+APARINDS		-0.53		5080.0		60922
+ASAHIINDIA		-1.66		552.25		60250
+TATAINVEST		0.14		3190.15		58776
