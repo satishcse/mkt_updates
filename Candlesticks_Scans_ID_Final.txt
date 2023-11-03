@@ -5,14 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SUPRAJIT		0.29		374.25		25626
-SHYAMMETL		0.75		435.1		20807
-SRF		0.34		2246.0		17441
-BORORENEW		0.53		420.5		14603
-CAMS		0.97		2285.5		8381
-RAINBOW		0.8		1059.45		7767
-CENTURYPLY		1.13		614.2		4247
-VMART		1.25		1685.2		3746
-SANOFI		-0.25		7582.0		384
-PGHL		0.38		5109.35		126
+
