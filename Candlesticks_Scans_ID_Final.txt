@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.17		2324.15		838011
+RELIANCE		0.21		2325.05		859970
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AMBER		0.7		2940.95		11190
-GRINFRA		-0.87		1118.7		7098
+
