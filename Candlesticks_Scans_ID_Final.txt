@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATACONSUM		0.08		912		4311
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SYRMA		-12.21		524.7		4037893
-PRESTIGE		-0.65		745.0		746979
-DELHIVERY		-0.19		401.85		565601
-VIJAYA		1.23		580.0		78762
+
