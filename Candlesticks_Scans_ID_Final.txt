@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.3		117.75		22290171
-NTPC		-0.11		235.0		4827530
-BPCL		0.58		362.65		1607769
-HINDUNILVR		0.88		2508.65		686238
+TATASTEEL		-0.38		117.65		22306808
+HDFCBANK		0.86		1489.4		5747001
+NTPC		-0.11		235.0		4840209
+BPCL		0.58		362.65		1608559
+JSWSTEEL		1.91		747.35		1485675
+HINDUNILVR		0.87		2508.5		686910
 
 Bullish_Hammer_15m_N500								 
 ======================= 
