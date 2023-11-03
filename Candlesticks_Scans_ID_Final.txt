@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.34		2328.0		1790799
-KOTAKBANK		-0.02		1737.35		767510
+RELIANCE		0.36		2328.5		1797601
+KOTAKBANK		-0.02		1737.35		771253
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CENTURYTEX		-0.16		1090.75		66903
+RAINBOW		-0.36		1047.25		36024
