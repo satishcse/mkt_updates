@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		2.79		795.9		4006483
-WIPRO		-0.07		383.4		2365672
-DRREDDY		-1.58		5254.05		497635
+ADANIPORTS		2.76		795.65		4025997
+WIPRO		0.03		383.75		2389462
+DRREDDY		-1.47		5259.9		507212
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		-0.24		3352		1185553
-MAPMYINDIA		-0.09		2116		110447
+TCS		-0.23		3352.45		1201738
+LINDEINDIA		-0.31		6145.5		49849
