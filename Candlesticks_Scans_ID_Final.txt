@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.05		312.1		1725497
+COALINDIA		1.04		312.05		1729989
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BORORENEW		0.3		419.55		132327
+BORORENEW		0.25		419.35		132363
