@@ -1,15 +1,7 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.55		117.45		25794906
-POWERGRID		0.66		204.45		6757198
-ONGC		2.04		190.0		5531909
-BHARTIARTL		0.66		929.95		3252664
-WIPRO		-0.07		383.4		2073913
-HCLTECH		-0.52		1266.8		1622435
-KOTAKBANK		-0.08		1736.35		1315331
-LT		-0.23		2911.35		916038
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
