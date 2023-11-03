@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.69		2230.65		1340499
-APOLLOHOSP		5.12		5137.0		889621
-TATACONSUM		0.83		918.85		634904
-DRREDDY		-0.93		5289.05		211199
+HINDALCO		1.1		479.4		1790986
+ADANIENT		0.75		2231.85		1344078
+APOLLOHOSP		5.05		5134.0		890014
+TATACONSUM		0.78		918.4		636428
+DRREDDY		-0.94		5288.15		211690
 
 Bullish_Hammer_15m_N500								 
 ======================= 
