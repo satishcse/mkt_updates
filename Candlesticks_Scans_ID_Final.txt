@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.42		117.6		18939908
-RELIANCE		0.3		2327.05		2514384
+TATASTEEL		-0.38		117.65		18967613
+HINDUNILVR		0.87		2508.5		606042
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&M		0.02		1470.05		1331108
-APLAPOLLO		-1.27		1540.15		332123
-HOMEFIRST		0.21		915.55		40260
+HOMEFIRST		0.21		915.5		40280
