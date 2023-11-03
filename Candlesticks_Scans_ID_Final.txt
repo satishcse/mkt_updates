@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.6		362.7		1323418
-HINDUNILVR		0.69		2504.0		532714
+BPCL		0.53		362.45		1324445
+HINDUNILVR		0.69		2504.05		540055
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 UBL		-0.06		1610.95		79419
-WHIRLPOOL		-1.18		1586.05		51306
-SUNDRMFAST		-0.32		1279.7		44129
-TATAINVEST		0.38		3197.75		40584
+SUNDRMFAST		-0.31		1279.75		44142
+TATAINVEST		0.38		3198.0		40640
