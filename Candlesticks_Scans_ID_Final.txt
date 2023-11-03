@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		1.54		3099.1		265300
+NTPC		-0.11		235.0		4661142
+RELIANCE		0.34		2328.2		2720819
+HINDUNILVR		0.88		2508.8		670306
+HEROMOTOCO		1.54		3099.2		265903
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUPREMEIND		-2.81		4386.9		95412
+SUPREMEIND		-2.81		4386.9		95420
