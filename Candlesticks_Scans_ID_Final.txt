@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.42		117.6		18736773
-POWERGRID		0.62		204.35		4176738
-NTPC		-0.19		234.8		4040873
-ONGC		1.4		188.8		2906346
-RELIANCE		0.3		2327.1		2478924
+TATASTEEL		-0.38		117.65		18777410
+POWERGRID		0.66		204.45		4190371
+ONGC		1.4		188.8		2909277
+RELIANCE		0.3		2327.2		2481058
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAHLDNG		0.41		1138		79031
+APLAPOLLO		-1.31		1539.45		330000
