@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.99		311.9		2658514
+COALINDIA		1.02		312		2661807
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINDWELL		-1.08		2126.1		24731
+GRINDWELL		-1.07		2126.25		24736
