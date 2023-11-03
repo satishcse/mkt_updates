@@ -2,8 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.89		1489.9		4719829
-RELIANCE		0.26		2326.2		2463860
+HDFCBANK		0.85		1489.35		4731926
+RELIANCE		0.29		2327.0		2465264
 
 Bullish_Hammer_15m_N500								 
 ======================= 
