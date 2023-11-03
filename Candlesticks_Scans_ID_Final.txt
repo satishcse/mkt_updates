@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.78		1488.25		2885168
+HDFCBANK		0.81		1488.7		2896092
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-0.35		918.0		977510
-FINCABLES		-0.11		907.45		101376
-WHIRLPOOL		-0.93		1590.15		5987
+PAYTM		-0.56		916.1		981832
+CYIENT		-0.84		1663.2		74351
+TRENT		-0.27		2183.85		60230
