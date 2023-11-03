@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BORORENEW		0.33		419.7		131420
+CHOLAFIN		0.35		1181.55		1716351
+BORORENEW		0.33		419.7		131664
