@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.13		312.35		1930951
-BPCL		0.6		362.7		1316797
-HINDUNILVR		0.69		2503.95		527858
+BPCL		0.61		362.75		1319249
+HINDUNILVR		0.7		2504.2		528899
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		0.38		3197.7		40103
+UBL		-0.07		1610.9		79229
+WHIRLPOOL		-1.25		1585.0		41436
