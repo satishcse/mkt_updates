@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.65		929.9		3104551
-BPCL		0.46		362.2		1812798
+BHARTIARTL		0.63		929.65		3110187
+BPCL		0.5		362.35		1813874
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MEDANTA		-0.23		814.85		334225
-GRINDWELL		-2.12		2103.8		28980
+
