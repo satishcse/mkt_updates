@@ -1,7 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+RELIANCE		0.33		2327.85		1367824
+BHARTIARTL		0.74		930.7		1139473
+TATACONSUM		0.47		915.5		189339
 
 Bullish_Hammer_15m_N500								 
 ======================= 
