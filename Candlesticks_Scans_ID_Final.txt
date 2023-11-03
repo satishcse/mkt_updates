@@ -1,15 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.38		117.65		7316485
-NTPC		-0.57		233.9		1543841
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAJESHEXPO		-0.47		438.7		124503
-SUPREMEIND		-2.03		4422.05		36846
-GALAXYSURF		-0.47		2807.85		2972
-PFIZER		0.17		3899.9		1054
 3MINDIA		-0.49		31170.7		368
