@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.64		118.05		9115650
-TCS		0.57		3369.95		377260
+BHARTIARTL		0.1		931.65		826714
+INDUSINDBK		0.81		1462.0		481796
+BAJAJFINSV		1.03		1552.0		415697
+NESTLEIND		0.91		24218.55		10506
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RATNAMANI		-1.74		2907.1		33843
+
