@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.27		366.1		1500260
-LT		1.61		2958.25		433793
-EICHERMOT		2.62		3517.8		310788
-M&M		0.6		1477.85		272706
-BAJFINANCE		0.82		7471.95		170383
-BRITANNIA		0.95		4582.5		54613
+NTPC		0.85		236.35		1874206
+WIPRO		0.59		385.8		512563
+LT		1.57		2956.95		436078
+EICHERMOT		2.48		3513.0		312183
+M&M		0.52		1476.7		273866
+BAJFINANCE		0.72		7464.65		170685
+BRITANNIA		0.93		4581.6		54683
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SCHAEFFLER		0.64		2755		18358
+
