@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.37		384.95		1103521
-TATACONSUM		0.68		919.9		529218
-TCS		0.57		3370.0		502343
-ASIANPAINT		1.45		3021.0		403209
-HCLTECH		0.18		1268.55		379688
-SBILIFE		-0.14		1327.5		142577
+TATASTEEL		1.32		118.85		17531179
+WIPRO		0.37		384.95		1110389
+ASIANPAINT		1.44		3020.7		404814
+HCLTECH		0.18		1268.5		381582
+SBILIFE		-0.12		1327.7		147217
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		-0.45		3352.3		140231
-EPIGRAL		1.88		914.7		41488
+SIEMENS		-0.52		3350.1		151719
+EPIGRAL		1.78		913.75		44509
