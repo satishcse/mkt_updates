@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.75		1149.7		569786
-EICHERMOT		2.98		3530.25		436289
-GRASIM		1.62		1926.95		137431
+NESTLEIND		0.8		24190.05		13573
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BLUEDART		-0.18		6556.55		3640
+
