@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INFY		0.5		1396.0		314635
-HEG		0.75		1661.15		24884
-METROBRAND		0.23		1247.0		12156
+GNFC		0.34		696.9		582513
+INFY		0.47		1395.6		317245
 GUJALKALI		-0.04		732.0		8684
-TIINDIA		0.36		3210.95		7834
+CLEAN		0.26		1345.0		8125
