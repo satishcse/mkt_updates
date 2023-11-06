@@ -5,11 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIPOWER		0.0		384.65		1621801
-RAJESHEXPO		-0.55		435.35		96545
-SHRIRAMFIN		-1.11		1991.1		96242
-INDIGOPNTS		-3.01		1420.05		52695
-BATAINDIA		-0.88		1562.45		34434
-GMMPFAUDLR		0.39		1777.35		7004
-SANOFI		-0.45		7591.75		1120
+
