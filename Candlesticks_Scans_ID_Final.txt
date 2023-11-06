@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.42		207.3		6307849
-UPL		0.82		554.8		801716
-TCS		0.54		3369.0		575282
+POWERGRID		1.42		207.3		6389611
+HINDALCO		1.39		481.8		2899456
+TCS		0.54		3369.0		583860
+ADANIENT		0.36		2237.95		533164
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RAYMOND		1.28		1896.45		228768
+
