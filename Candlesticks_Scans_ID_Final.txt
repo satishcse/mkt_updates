@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		-0.68		3252.3		718814
-BRITANNIA		1.35		4601.0		93939
-NESTLEIND		0.86		24204.9		14545
+TITAN		-0.62		3254.3		721632
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RELAXO		0.07		908		31523
