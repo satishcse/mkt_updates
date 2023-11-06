@@ -2,8 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.64		314		6839875
-TCS		0.54		3369		463951
+TCS		0.54		3369.0		465251
+SBILIFE		-0.03		1328.95		131415
 
 Bullish_Hammer_15m_N500								 
 ======================= 
