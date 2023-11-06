@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.29		576.5		4400186
-WIPRO		0.64		386.0		307345
+SBIN		-0.29		576.45		4422245
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+METROBRAND		-0.18		1241.95		13553
