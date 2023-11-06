@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.32		1488.5		8981885
-COALINDIA		0.8		314.5		7418641
-TATACONSUM		0.66		919.7		531335
-BAJAJ-AUTO		0.76		5410.0		303677
-BRITANNIA		1.68		4616.0		115120
+KOTAKBANK		0.39		1740.05		539820
+TATACONSUM		0.67		919.85		531976
+BAJAJ-AUTO		0.76		5410.0		303990
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SIEMENS		-0.56		3348.7		201895
-AIAENG		-1.94		3691.85		57328
+
