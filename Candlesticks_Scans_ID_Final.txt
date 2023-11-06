@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.09		236.9		2811199
-SUNPHARMA		0.72		1149.3		741310
+SBILIFE		-0.03		1328.95		134500
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TVSMOTOR		0.28		1603.6		196672
-MOTILALOFS		-0.88		1001.2		154350
+
