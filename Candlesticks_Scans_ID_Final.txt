@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-0.22		6553.55		3871
+KPIL		-2.3		617.25		415239
+BLUEDART		-0.19		6555.4		3875
 LAXMIMACH		0.42		13084.0		1133
