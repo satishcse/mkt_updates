@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.57		3370.0		390196
-TATACONSUM		0.62		919.35		385594
-SBILIFE		0.16		1331.45		102636
+TATACONSUM		0.6		919.15		385919
+TECHM		0.28		1136.25		239844
+SBILIFE		0.19		1331.85		102679
 
 Bullish_Hammer_15m_N500								 
 ======================= 
