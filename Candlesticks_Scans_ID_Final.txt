@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		0.83		24198		11071
+NESTLEIND		0.82		24195		11103
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-0.69		2195.05		268285
+MPHASIS		-0.65		2195.85		268316
+MEDPLUS		-0.59		785.3		25859
