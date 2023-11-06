@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.06		931.3		836871
-NESTLEIND		0.75		24180.0		10874
+BHARTIARTL		0.1		931.65		839541
+NESTLEIND		0.83		24197.05		10916
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		0.38		1605.25		151410
-MEDPLUS		-0.64		784.95		25184
+MPHASIS		-0.67		2195.5		263252
+ROUTE		-0.11		1555.0		21093
