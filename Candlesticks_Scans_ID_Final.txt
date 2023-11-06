@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.38		385		1748731
-MARUTI		0.02		10278		418341
+ONGC		1.71		193.25		7805427
+UPL		0.83		554.85		911334
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MPHASIS		-0.74		2193.75		494386
-BAJAJHLDNG		0.85		6980.9		20345
+
