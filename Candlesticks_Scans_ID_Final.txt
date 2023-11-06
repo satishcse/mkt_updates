@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BPCL		1.23		365.95		1499224
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-2.18		2743.25		975681
-NAM-INDIA		1.78		400.5		465207
-RADICO		-0.83		1309.3		98831
+ANGELONE		-2.03		2747.55		980204
+NAM-INDIA		1.79		400.55		468063
+RADICO		-0.78		1309.85		99792
