@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.1		622.75		1789823
+HDFCLIFE		0.1		622.75		1789955
 SUNPHARMA		0.78		1150.0		1428525
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 ANGELONE		-6.47		2622.95		2415919
-OLECTRA		0.79		1186.0		788733
-DATAPATTNS		2.1		1958.4		427701
+OLECTRA		0.79		1186.0		788826
+DATAPATTNS		2.1		1958.4		427746
 GRAPHITE		-0.04		459.0		412878
 RAYMOND		0.83		1888.0		286126
 INTELLECT		1.35		667.0		262449
