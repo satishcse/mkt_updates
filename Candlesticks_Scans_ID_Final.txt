@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.34		384.85		1085815
-TATACONSUM		0.68		919.95		520620
-ASIANPAINT		1.47		3021.75		394705
-HCLTECH		0.18		1268.5		372761
-BRITANNIA		1.5		4607.7		109802
+WIPRO		0.33		384.8		1092282
+TATACONSUM		0.68		919.95		522044
+TCS		0.57		3370.0		495403
+ASIANPAINT		1.43		3020.5		400434
 
 Bullish_Hammer_15m_N500								 
 ======================= 
