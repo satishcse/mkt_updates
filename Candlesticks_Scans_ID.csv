@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-INDUSINDBK,1.42,1470.9,1982709
-SUNPHARMA,0.85,1150.8,1350515
+INDUSINDBK,1.36,1469.95,1990474
+SUNPHARMA,0.8,1150.2,1358858
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PERSISTENT,-0.57,6250.35,318983
+AETHER,-0.79,884.35,29542
+BLUEDART,-0.39,6542.3,6017
