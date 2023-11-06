@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.42		207.3		6132265
-TCS		0.54		3369.0		556271
+POWERGRID		1.39		207.25		6164472
+UPL		0.82		554.8		781946
+TCS		0.54		3369.0		559318
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYPLY		-0.37		626.4		56110
+INDIAMART		-0.8		2570.25		186622
