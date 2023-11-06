@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.3		207.05		3629267
-SUNPHARMA		0.69		1149.0		559940
-EICHERMOT		3.07		3533.15		435561
-TATACONSUM		0.68		919.9		416462
-GRASIM		1.65		1927.45		137013
+SUNPHARMA		0.75		1149.7		569786
+EICHERMOT		2.98		3530.25		436289
+GRASIM		1.62		1926.95		137431
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BLUEDART		-0.18		6556.55		3640
