@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		-0.63		3253.8		723618
-NESTLEIND		0.86		24204.95		14662
+TCS		0.53		3368.65		440562
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELAXO		0.07		908		31546
+
