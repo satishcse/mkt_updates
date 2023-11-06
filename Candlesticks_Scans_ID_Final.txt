@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CREDITACC		0.58		1678.75		26286
-HEG		0.72		1660.55		24149
-METROBRAND		0.22		1246.9		11933
+NATCOPHARM		1.4		754.0		172038
+TECHM		0.36		1137.2		143437
+CREDITACC		0.58		1678.75		26410
+HEG		0.76		1661.35		24779
+METROBRAND		0.31		1248.0		12047
