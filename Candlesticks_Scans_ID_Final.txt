@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		0.61		191.15		2133503
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-2.16		2744.0		971554
-NAM-INDIA		1.86		400.8		463588
+ANGELONE		-2.18		2743.25		975681
+NAM-INDIA		1.78		400.5		465207
+RADICO		-0.83		1309.3		98831
