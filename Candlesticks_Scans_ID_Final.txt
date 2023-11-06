@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.18		365.75		3884393
-JSWSTEEL		0.67		751.05		2333856
-BAJFINANCE		1.76		7542.25		520910
-MARUTI		-0.06		10270.15		404629
+BPCL		1.19		365.8		3889571
+JSWSTEEL		0.68		751.15		2336390
+LT		2.15		2973.95		976475
+BAJFINANCE		1.75		7541.5		523625
+MARUTI		-0.13		10262.55		406834
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJHLDNG		0.67		6969		18605
