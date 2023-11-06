@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		1.42		1470.9		2011896
-SUNPHARMA		0.73		1149.45		1372671
+SUNPHARMA		0.65		1148.5		1382918
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AIAENG		-3.66		3627.0		86248
-GUJALKALI		-1.0		724.95		62964
+SUNDARMFIN		0.17		3227.2		23354
