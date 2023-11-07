@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.16		575.25		10335676
-UPL		-0.67		551.0		869137
+TATAMOTORS		-0.06		645.65		3827867
+HCLTECH		0.24		1272.8		590612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-IGL		-0.31		399.9		1001041
+
