@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		1.83		1171		1686632
-BAJAJ-AUTO		0.22		5419		187648
+ADANIPORTS		-0.45		798.9		2210380
+BAJAJ-AUTO		0.24		5419.95		190422
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ADANIPOWER		-2.54		384.0		18025009
+APARINDS		-0.76		5082.0		40982
+LAXMIMACH		-0.84		13033.15		2469
