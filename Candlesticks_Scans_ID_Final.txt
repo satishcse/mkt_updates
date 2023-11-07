@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.33		2331.2		1428643
+RELIANCE		-0.34		2330.95		1435806
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GNFC		-1.75		689.7		588901
-KAYNES		-1.19		2426.05		37414
-BIRLACORPN		-1.26		1294.0		25290
+HINDUNILVR		-0.37		2488.05		547038
+CANFINHOME		-1.78		762.75		136016
+LTTS		-0.01		4261.35		72359
+KAYNES		-1.12		2427.9		37867
+KEI		-1.28		2559.95		36270
+BIRLACORPN		-1.26		1294.0		25372
+PGHH		-1.24		17438.1		4720
