@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.23		1568.0		2147934
-ASIANPAINT		-0.04		3028.0		493012
-HEROMOTOCO		-1.03		3134.4		229539
+NTPC		1.06		238.35		3927420
+BAJAJFINSV		0.12		1566.2		2155073
+HINDUNILVR		-0.17		2493.05		1007859
+ASIANPAINT		-0.01		3029.05		499626
+HEROMOTOCO		-1.04		3133.85		231005
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FACT		-1.09		710.8		575235
+AVANTIFEED		-1.65		400.6		219472
