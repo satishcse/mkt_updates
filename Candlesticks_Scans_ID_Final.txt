@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.71		314.3		6016175
-TATAMOTORS		-0.09		645.45		5590613
+COALINDIA		-0.63		314.55		6123038
+TATAMOTORS		-0.09		645.45		5610488
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DATAPATTNS		0.04		1957.65		71965
+CARBORUNIV		-0.39		1075.6		31813
