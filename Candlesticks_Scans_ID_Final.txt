@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SUNPHARMA		1.56		1167.95		1338313
+UPL		-0.36		552.7		1040586
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJPROP		-3.11		1766.75		649222
-POLYPLEX		-0.52		1054.3		85841
+GODREJPROP		-3.1		1767.0		650083
+SFL		-0.72		1073.05		16232
