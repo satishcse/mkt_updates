@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.79		1482.75		3831320
-BPCL		0.41		367.75		720363
+HDFCBANK		-0.79		1482.75		3953319
+DIVISLAB		-0.19		3499.95		473095
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-0.57		2325.75		450816
-INDIAMART		-1.04		2557.45		59366
+SWANENERGY		-3.55		377.9		609660
+PEL		-0.17		1003.05		77391
+DEEPAKNTR		-1.22		2112.2		76174
+INDIAMART		-0.86		2562.0		60696
