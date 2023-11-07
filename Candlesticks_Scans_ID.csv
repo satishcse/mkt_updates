@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,1.84,196.85,9024748
-AXISBANK,-0.06,1008.75,3033686
-HCLTECH,0.04,1270.2,509616
-CIPLA,0.87,1214.6,403753
+TATASTEEL,0.42,119.9,14296424
+ONGC,1.91,197.0,9137314
+TATAMOTORS,0.05,646.35,3510540
+AXISBANK,-0.03,1009.1,3043633
+HCLTECH,0.02,1270.0,510972
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SHRIRAMFIN,-1.23,1967.1,878691
