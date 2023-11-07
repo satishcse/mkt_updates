@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.75		1483.3		4167776
-DIVISLAB		-0.28		3497.0		476506
-UPL		-0.07		554.3		249137
+HDFCBANK		-0.69		1484.25		4315139
+DIVISLAB		-0.49		3489.5		480307
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-0.57		2325.7		487853
-DEEPAKNTR		-1.2		2112.6		77538
-INDIAMART		-0.82		2562.95		63577
-BIRLACORPN		-0.81		1300.0		12975
-SAPPHIRE		0.12		1314.25		3117
+OLECTRA		-0.49		1179.0		91218
+INDIAMART		-0.83		2562.7		63930
+CANFINHOME		-0.62		771.8		53500
+BIRLACORPN		-0.81		1300.0		12987
