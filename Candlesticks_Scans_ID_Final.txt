@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.11		645.35		3896749
-BPCL		1.37		371.25		3431851
-INFY		-0.08		1402.15		1133917
-HCLTECH		0.24		1272.8		602354
-BAJAJ-AUTO		0.22		5418.6		96552
+SBIN		0.28		575.95		10598701
+TATAMOTORS		-0.1		645.4		3902538
+BPCL		1.32		371.1		3441227
+INFY		-0.07		1402.35		1139993
+HCLTECH		0.24		1272.8		605167
+BAJAJ-AUTO		0.22		5418.65		96609
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VIJAYA		-2.89		568.55		66877
+
