@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.04		238.3		3650127
-BAJFINANCE		-1.13		7476.85		1052162
-TATACONSUM		0.13		919.85		484168
-ASIANPAINT		0.01		3029.6		435494
+NTPC		1.04		238.3		3658634
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HONAUT		0.08		37293.9		1325
