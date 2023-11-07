@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.26		1272.95		141730
-ASIANPAINT		-0.87		3002.9		116581
+HCLTECH		0.21		1272.35		147409
+ASIANPAINT		-0.86		3003.35		118486
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-0.54		2246.25		3669
+CANFINHOME		-0.53		772.45		42944
+LTTS		0.25		4272.25		20132
+SFL		-0.3		1077.55		3971
