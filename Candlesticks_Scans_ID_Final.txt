@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.15		2979.85		509345
+LT		0.15		2979.9		511168
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		-1.03		1479.15		9730115
-MAPMYINDIA		-0.89		2084.05		42808
+OBEROIRLTY		-2.03		1219.95		237358
