@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ONGC,1.91,197.0,9209456
-TATAMOTORS,0.05,646.4,3514127
-AXISBANK,-0.02,1009.2,3049295
-HCLTECH,-0.01,1269.6,513659
+TATAMOTORS,0.07,646.5,3520454
+AXISBANK,-0.02,1009.15,3056547
+HCLTECH,0.0,1269.65,514453
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-SHRIRAMFIN,-1.25,1966.6,879260
 LAXMIMACH,-0.14,13124.3,787
