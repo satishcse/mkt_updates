@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.42		119.9		14296424
-ONGC		1.91		197.0		9137314
-TATAMOTORS		0.05		646.35		3510540
-AXISBANK		-0.03		1009.1		3043633
-HCLTECH		0.02		1270.0		510972
+ONGC		1.91		197.0		9209456
+TATAMOTORS		0.05		646.4		3514127
+AXISBANK		-0.02		1009.2		3049295
+HCLTECH		-0.01		1269.6		513659
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-1.23		1967.1		878691
+SHRIRAMFIN		-1.25		1966.6		879260
+LAXMIMACH		-0.14		13124.3		787
