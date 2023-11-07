@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.69		1484.25		4315139
-DIVISLAB		-0.49		3489.5		480307
+TATAMOTORS		0.27		647.8		1897798
+ITC		-0.53		433.05		1046592
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-OLECTRA		-0.49		1179.0		91218
-INDIAMART		-0.83		2562.7		63930
-CANFINHOME		-0.62		771.8		53500
-BIRLACORPN		-0.81		1300.0		12987
+
