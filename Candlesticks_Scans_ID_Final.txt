@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.29		383.55		2250297
+WIPRO		-0.31		383.45		2252000
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAPMYINDIA		-2.61		2048		73563
-HONAUT		-0.18		37200		1453
+MAPMYINDIA		-2.62		2047.75		73772
+HONAUT		-0.18		37200.0		1467
