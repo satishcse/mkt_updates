@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.06		238.35		3550055
-BAJAJ-AUTO		0.15		5414.75		104606
+BAJAJ-AUTO		0.15		5415		104691
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CANFINHOME		-2.4		758.0		219138
-TRENT		-1.78		2193.35		208259
+CANFINHOME		-2.39		758.05		219505
