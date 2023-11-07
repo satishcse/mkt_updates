@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.62		2232		458505
+BAJAJFINSV		0.23		1568.0		2147934
+ASIANPAINT		-0.04		3028.0		493012
+HEROMOTOCO		-1.03		3134.4		229539
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FACT		-1.09		710.8		575235
