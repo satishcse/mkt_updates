@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.45		798.9		2210380
-BAJAJ-AUTO		0.24		5419.95		190422
+TATAMOTORS		-0.06		645.65		6177935
+ADANIPORTS		-0.53		798.25		2294471
+BAJAJ-AUTO		0.22		5419.0		194284
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPOWER		-2.54		384.0		18025009
-APARINDS		-0.76		5082.0		40982
-LAXMIMACH		-0.84		13033.15		2469
+JKLAKSHMI		-2.97		770.7		766087
+EMAMILTD		-1.41		511.5		648950
