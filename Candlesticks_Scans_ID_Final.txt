@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.38		118.95		3379129
-KOTAKBANK		-0.34		1734.35		474588
-SUNPHARMA		0.45		1155.2		149617
-HCLTECH		0.26		1272.95		127036
-ASIANPAINT		-0.7		3008.0		96663
+TATASTEEL		-0.34		119.0		3405117
+KOTAKBANK		-0.3		1734.95		477206
+SUNPHARMA		0.44		1155.1		152167
+HCLTECH		0.29		1273.4		129587
+ASIANPAINT		-0.65		3009.65		98982
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAINBOW		-2.48		999.9		69221
+NAVINFLUOR		-0.73		3609.65		10359
