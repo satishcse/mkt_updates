@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-AXISBANK,0.3,1012.45,4103069
-NTPC,1.06,238.35,3614616
-KOTAKBANK,0.19,1743.5,2424775
-INFY,-0.05,1402.6,1271831
-TATACONSUM,0.11,919.65,480965
+NTPC,1.06,238.35,3622213
+INDUSINDBK,0.12,1472.0,1449712
+INFY,-0.03,1402.9,1274056
+TATACONSUM,0.14,919.95,481847
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+INDIGOPNTS,0.08,1422.25,18725
