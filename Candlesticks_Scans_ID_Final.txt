@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.15		647.05		2047169
+TATAMOTORS		0.22		647.45		2061133
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDRMFAST		-0.52		1273.8		2942
+MHRIL		-0.26		398.65		29201
+SUNDRMFAST		-0.53		1273.65		2944
