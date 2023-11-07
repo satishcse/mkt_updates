@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.63		120.15		11543991
-HDFCBANK		-0.5		1487.1		6916003
-RELIANCE		-0.35		2330.85		1149214
+TATASTEEL		0.63		120.15		11557665
+HDFCBANK		-0.54		1486.45		6953536
+RELIANCE		-0.34		2331.0		1151806
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		-2.22		1521		15683
+ZYDUSWELL		-2.23		1520.85		15685
