@@ -1,10 +1,26 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCLIFE		0.26		623.4		1572
-SUNPHARMA		-0.09		1149.0		717
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SOBHA		-3.16		761.45		77564
+DIVISLAB		-1.59		3450.8		75870
+OIL		0.08		311.55		33524
+LICHSGFIN		-0.1		464.4		20448
+VMART		-3.35		1646.8		10409
+CHEMPLASTS		-0.21		443.65		5392
+BEML		1.02		2059.0		3845
+SUVENPHAR		1.09		577.0		3206
+BRITANNIA		-0.5		4600.6		3063
+VIJAYA		0.3		587.2		2394
+MAPMYINDIA		0.67		2116.9		2299
+OFSS		0.45		3999.7		1329
+BIRLACORPN		0.42		1316.1		1298
+NESTLEIND		0.07		24307.25		1033
+JBMA		0.75		1215.0		573
+CGCL		0.17		750.0		457
+GILLETTE		0.6		6315.25		196
+MRF		0.44		107865.2		181
