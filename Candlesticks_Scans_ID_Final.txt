@@ -6,5 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUBANK		0.21		675.35		816435
-TATACHEM		-0.82		965.4		103956
+CREDITACC		-0.21		1691.0		192690
+AETHER		0.02		883.65		3376
