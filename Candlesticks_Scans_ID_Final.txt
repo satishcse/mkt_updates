@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.25		1011.95		4084307
-KOTAKBANK		0.25		1744.6		2412354
-INFY		-0.03		1402.9		1267615
-LTIM		0.94		5197.85		131842
+KOTAKBANK		0.25		1744.6		2419095
+INFY		-0.04		1402.75		1269565
+TATACONSUM		0.14		919.95		479735
 
 Bullish_Hammer_15m_N500								 
 ======================= 
