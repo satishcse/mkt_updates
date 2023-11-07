@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.49		577.15		6193400
-SUNPHARMA		0.72		1158.3		365283
-BAJAJ-AUTO		0.55		5436.5		57149
+BAJAJ-AUTO		0.56		5437.05		57288
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.66		3146.0		113670
-CLEAN		-1.3		1369.35		17939
+CLEAN		-1.3		1369.35		17964
+ALKYLAMINE		0.14		2214.95		10037
