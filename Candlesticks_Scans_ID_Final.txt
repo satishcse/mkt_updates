@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.41		5429		59664
+BAJAJ-AUTO		0.42		5429.8		60095
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CLEAN		-1.26		1369.85		18081
+HEROMOTOCO		-0.7		3144.85		116679
 ALKYLAMINE		0.27		2217.95		10097
