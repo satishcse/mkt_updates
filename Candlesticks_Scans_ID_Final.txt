@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACHEM		-0.72		956.75		390273
-CRISIL		-0.47		4329.7		24154
-BIRLACORPN		0.7		1297.0		16254
+JINDALSAW		-1.37		475.95		401796
+CRISIL		-0.48		4329.3		24222
