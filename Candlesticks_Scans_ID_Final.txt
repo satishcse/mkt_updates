@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.95		317.25		5696590
-INDUSINDBK		0.06		1487.35		2723585
-HCLTECH		-0.42		1268.65		704315
+COALINDIA		0.97		317.3		5714674
+INDUSINDBK		0.09		1487.7		2753250
+HCLTECH		-0.47		1268.0		710935
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBER		-1.35		3350.7		236303
-SAPPHIRE		-0.31		1297.65		57973
-AETHER		-0.73		888.05		21855
+AAVAS		-1.18		1443.4		95372
+AETHER		-0.79		887.5		21873
