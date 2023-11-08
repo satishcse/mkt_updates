@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.05		1020.35		4822586
+ICICIBANK		-1.31		935.7		11780374
+AXISBANK		-0.13		1019.55		4873036
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-1.27		2740.6		139583
+HDFCAMC		-1.28		2740.4		139844
+AETHER		-0.6		889.25		17890
