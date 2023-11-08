@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-0.38		1979.7		72858
-INDIGOPNTS		0.66		1436.9		16623
-VMART		0.13		1682.5		9919
-ZYDUSWELL		-0.36		1519.9		3632
-LINDEINDIA		-0.37		6168.35		3609
+HAL		0.26		2022.35		431966
+SHRIRAMFIN		-0.41		1979.0		74827
+FLUOROCHEM		-0.16		2688.0		9342
+LINDEINDIA		-0.32		6171.0		3633
