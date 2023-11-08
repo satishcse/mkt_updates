@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.9		237.0		7641847
-COALINDIA		0.84		316.9		4725657
+BHARTIARTL		0.13		938.4		921319
+UPL		0.71		555.9		879962
+APOLLOHOSP		-0.72		5099.75		271622
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MOTILALOFS		-1.05		1021.3		170740
