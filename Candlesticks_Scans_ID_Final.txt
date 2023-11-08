@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		0.09		1342.0		124993
-HEROMOTOCO		0.49		3145.7		90530
+CIPLA		1.59		1235.8		431528
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHREECEM		-1.21		26363.85		13724
+
