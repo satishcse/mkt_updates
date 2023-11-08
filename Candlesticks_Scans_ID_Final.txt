@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.37		1017.1		3220057
-UPL		0.83		556.6		798407
-ASIANPAINT		1.88		3090.45		489622
-LT		0.46		2975.0		455283
-ULTRACEMCO		0.03		8688.0		68639
+AXISBANK		-0.32		1017.6		3232495
+UPL		0.86		556.75		799000
+ASIANPAINT		1.84		3089.1		490219
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ROUTE		-0.18		1555.95		21441
+AETHER		0.15		895.9		12249
