@@ -1,13 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+WIPRO		0.56		385.45		350058
+TITAN		0.76		3294.95		93136
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		1.54		2132.0		621313
-PCBL		0.05		203.2		239011
-SUPREMEIND		0.15		4350.0		14985
-WHIRLPOOL		-1.04		1552.95		11996
 SKFINDIA		0.22		4915.85		1180
