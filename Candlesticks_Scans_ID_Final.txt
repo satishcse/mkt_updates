@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.01		383.25		1859372
-TATACONSUM		-0.23		919.95		781143
+TATACONSUM		-0.23		919.95		782722
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-0.81		2602.45		670926
-CAMS		0.81		2426.3		180225
+MCX		-0.66		2606.45		676592
+MPHASIS		-0.1		2200.0		576633
+CAMS		0.85		2427.35		181400
 AETHER		-0.26		892.25		14253
 PGHL		-0.33		5108.95		2051
