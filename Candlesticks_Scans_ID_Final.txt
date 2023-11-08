@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHREECEM		-1.21		26363.95		14004
+BDL		-0.11		1045.85		100261
+SHREECEM		-1.15		26379.75		14032
