@@ -2,8 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.63		618.5		413484
-TECHM		0.0		1149.0		266305
+BPCL		3.13		384.45		7396843
+ONGC		1.06		195.25		6088406
+HINDALCO		0.08		484.95		5901201
+CIPLA		1.57		1235.55		659040
+BAJFINANCE		-0.51		7457.15		553598
+DRREDDY		1.51		5486.15		219134
+NESTLEIND		-0.36		24282.1		19841
 
 Bullish_Hammer_15m_N500								 
 ======================= 
