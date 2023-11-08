@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		3.08		384.3		7405703
-ONGC		1.06		195.25		6100034
-HINDALCO		0.02		484.65		5906272
-CIPLA		1.53		1235.05		659953
-BAJFINANCE		-0.48		7459.95		555319
-DRREDDY		1.33		5476.3		228208
+BPCL		3.11		384.4		7410526
+ONGC		1.06		195.25		6105984
+CIPLA		1.59		1235.75		661566
+DRREDDY		1.3		5474.5		230456
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ALKYLAMINE		-1.45		2149.9		33361
+JBMA		-0.02		1218.0		10864
