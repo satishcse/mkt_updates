@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		0.95		317.25		4902893
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EIDPARRY		0.63		480.9		490056
-KSB		-0.77		3118.6		13789
+EIDPARRY		1.26		483.9		676474
+KSB		-0.63		3122.7		13819
