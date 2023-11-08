@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.01		195.15		6135843
-CIPLA		1.57		1235.5		664148
-DRREDDY		1.31		5475.1		234644
+ONGC		0.98		195.1		6146983
+HINDALCO		0.08		484.95		5925681
+CIPLA		1.62		1236.2		665473
+DRREDDY		1.26		5472.7		238727
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KIMS		-0.83		1871.65		33733
-ALKYLAMINE		-1.47		2149.45		33384
+ALKYLAMINE		-1.44		2149.95		33419
