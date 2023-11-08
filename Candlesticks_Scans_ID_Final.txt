@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.29		119.3		13573133
-RELIANCE		0.62		2338.25		2258789
-UPL		0.83		556.6		789887
-ASIANPAINT		1.91		3091.4		480541
-LT		0.46		2975.0		445098
-BAJAJ-AUTO		0.02		5420.15		136914
-ULTRACEMCO		0.02		8687.45		66540
+TATASTEEL		-0.29		119.3		13606671
+UPL		0.87		556.8		793052
+ASIANPAINT		1.93		3092.0		481996
+LT		0.46		2974.8		446247
+ULTRACEMCO		-0.01		8685.1		66801
 
 Bullish_Hammer_15m_N500								 
 ======================= 
