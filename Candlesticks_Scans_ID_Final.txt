@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		2.65		818.7		4884642
-UPL		0.69		555.8		1104825
-HEROMOTOCO		0.14		3134.5		406419
+TATASTEEL		-0.5		119.05		21222640
+ADANIPORTS		2.68		818.95		4896328
+RELIANCE		0.56		2336.75		3704981
+UPL		0.7		555.85		1115751
+HEROMOTOCO		0.0		3130.35		416322
+ULTRACEMCO		0.19		8702.65		127193
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MEDANTA		0.28		833.15		990533
-BORORENEW		-0.36		434.35		309500
+
