@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.5		206.95		3949499
-COALINDIA		1.18		317.95		3511699
-TATAMOTORS		0.34		647.2		1732249
-CIPLA		1.73		1237.55		615644
-M&M		0.08		1481.0		587067
+POWERGRID		-0.48		207.0		3969842
+COALINDIA		1.21		318.05		3521626
+TATAMOTORS		0.33		647.1		1743774
+CIPLA		1.74		1237.6		617402
+M&M		0.12		1481.5		591482
 
 Bullish_Hammer_15m_N500								 
 ======================= 
