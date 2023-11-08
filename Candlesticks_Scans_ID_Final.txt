@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		2.61		818.4		4878302
-HEROMOTOCO		0.13		3134.45		404170
+ADANIPORTS		2.65		818.7		4884642
+UPL		0.69		555.8		1104825
+HEROMOTOCO		0.14		3134.5		406419
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PPLPHARMA		2.87		116.3		27476804
-AMBER		-2.08		3326.1		247807
+MEDANTA		0.28		833.15		990533
+BORORENEW		-0.36		434.35		309500
