@@ -5,11 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIPOWER		0.09		384.15		1464229
-HAL		0.34		2024.05		440815
-SHRIRAMFIN		-0.44		1978.45		76584
-BATAINDIA		0.22		1541.95		59481
-VMART		0.28		1685.05		11381
-ZYDUSWELL		-0.36		1519.85		3894
-LINDEINDIA		-0.45		6163.15		3666
+
