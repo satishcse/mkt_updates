@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.46		207.05		3995200
-COALINDIA		1.03		317.5		3635019
-TATAMOTORS		0.25		646.6		1798811
-CIPLA		1.63		1236.25		625176
-M&M		0.1		1481.3		606014
-TECHM		-0.06		1148.3		228657
+BPCL		3.3		385.1		6988481
+POWERGRID		-0.48		207.0		3998273
+COALINDIA		0.97		317.3		3649702
+TATAMOTORS		0.27		646.75		1802559
+CIPLA		1.63		1236.3		626183
+M&M		0.19		1482.5		609527
+TECHM		-0.06		1148.35		230832
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FIVESTAR		1		788.95		444428
