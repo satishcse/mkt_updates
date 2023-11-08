@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.88		317.0		4302908
-LT		0.44		2974.3		424901
+COALINDIA		0.83		316.85		4316020
+LT		0.45		2974.7		425832
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAJARIACER		-0.12		1272.05		19071
+MPHASIS		-0.12		2199.55		54731
+BOSCHLTD		-1.59		19443.1		12768
