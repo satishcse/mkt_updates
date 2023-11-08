@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-1.4		934.85		12255620
-AXISBANK		0.03		1021.2		4976505
+ICICIBANK		-1.39		934.9		12485896
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPRMILL		0.27		774.4		84565
+KPRMILL		0.22		774.05		84681
