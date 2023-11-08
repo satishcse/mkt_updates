@@ -1,10 +1,13 @@
 
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
-
+nsecode,per_chg,close,volume
+POWERGRID,-0.41,207.15,3897402
+AXISBANK,-0.22,1018.7,2345594
+TATAMOTORS,0.38,647.45,1678497
+M&M,0.15,1482.0,577246
+TECHM,0.06,1149.65,213427
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-nsecode,per_chg,close,volume
-TATACHEM,-0.73,956.7,395590
-CRISIL,-0.38,4333.65,24272
+
