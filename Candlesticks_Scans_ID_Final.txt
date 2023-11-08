@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.5		119.05		18591250
-RELIANCE		0.47		2334.75		3185431
+TATASTEEL		-0.54		119.0		18608864
+RELIANCE		0.44		2334.0		3196059
+TITAN		1.17		3308.3		534817
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+OLECTRA		0.1		1165		225187
