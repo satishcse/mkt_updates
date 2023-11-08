@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-1.24		936.3		8290549
-SBIN		0.07		580.15		6667107
-TATACONSUM		-0.22		920.0		772013
-TCS		0.62		3391.3		629820
+ICICIBANK		-1.24		936.3		8318284
+SBIN		0.07		580.15		6680404
+TATACONSUM		-0.23		919.95		772772
+TCS		0.62		3391.35		630655
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 MEDPLUS		-0.47		799.45		26004
-ROUTE		-0.17		1556.15		21593
+AETHER		-0.25		892.4		14202
