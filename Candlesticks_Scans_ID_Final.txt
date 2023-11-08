@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-0.22		920		785075
+TATACONSUM		-0.23		919.95		786456
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		0.85		2427.25		181673
+CAMS		0.82		2426.6		181723
 AETHER		-0.17		893.05		14292
 PGHL		-0.33		5108.95		2051
