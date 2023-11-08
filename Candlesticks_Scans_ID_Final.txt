@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.22		207.55		5102076
-UPL		0.68		555.75		868628
-TATACONSUM		-0.24		919.85		819196
-EICHERMOT		1.45		3560.1		271414
+UPL		0.68		555.75		869231
+TATACONSUM		-0.23		919.9		819764
+EICHERMOT		1.45		3560.0		273022
 
 Bullish_Hammer_15m_N500								 
 ======================= 
