@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		0.34		5471.95		33535
-SKFINDIA		-4.71		4748.8		17899
-INGERRAND		1.24		2980.0		7527
+BIRLACORPN		-0.24		1282.95		41614
+DRREDDY		0.36		5473.2		33955
+SKFINDIA		-4.71		4748.8		18272
+INGERRAND		1.24		2980.0		7561
+CGCL		-0.26		760.95		2570
+PFIZER		-0.42		3928.6		1455
