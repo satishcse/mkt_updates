@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.57		1170		280417
+SUNPHARMA		-0.6		1169.6		280619
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KSB		-1.25		3076.45		5175
+GRINFRA		-2.0		1153.95		9061
+KSB		-1.21		3077.55		5189
