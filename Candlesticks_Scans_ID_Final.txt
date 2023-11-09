@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.59		386.45		3048732
-TITAN		-0.31		3301.7		259294
-BAJAJ-AUTO		1.01		5452.0		58616
+BPCL		0.6		386.5		3055717
+TITAN		-0.3		3302.0		260404
+BAJAJ-AUTO		1.04		5453.95		59003
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-0.67		3579		15641
+SUPREMEIND		-2.25		4288.0		50493
+NAVINFLUOR		-0.59		3582.05		15665
+POWERINDIA		-1.47		4504.75		4201
