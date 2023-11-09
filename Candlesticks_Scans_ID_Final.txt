@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.12		1242.5		555162
-NESTLEIND		0.08		24299.9		29588
+CIPLA		0.03		1241.35		557936
+NESTLEIND		0.07		24297.95		29932
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		-1.89		2382.75		270469
+ADANIENT		-1.89		2217.15		881980
+CAMS		-1.89		2382.7		271236
