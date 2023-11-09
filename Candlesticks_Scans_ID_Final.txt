@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-1.77		2474.75		1316824
-HEROMOTOCO		1.48		3178.5		490920
-DIVISLAB		0.3		3501.45		247501
-LTIM		0.3		5248.9		230001
+HINDUNILVR		-1.78		2474.6		1334463
+HEROMOTOCO		1.43		3176.8		496934
+DIVISLAB		0.2		3497.8		252652
+LTIM		0.29		5248.45		232504
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAZARA		-0.42		828.4		459078
+NAZARA		-0.44		828.25		460581
+SKFINDIA		-6.22		4673.35		84973
