@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GESHIP		-2.64		744.4		115935
-DIVISLAB		-0.12		3486.8		40783
-SKFINDIA		-4.65		4752.0		19367
-GRASIM		0.01		1934.0		9430
+DIVISLAB		-0.12		3486.7		40885
+SKFINDIA		-4.51		4758.85		20160
+GRASIM		0.01		1934.0		9643
 INGERRAND		1.2		2978.75		7879
