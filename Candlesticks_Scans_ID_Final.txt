@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		-0.45		2588.85		36893
-FLUOROCHEM		-1.42		2707.1		32736
-KSB		-0.88		3088.0		5411
+KALYANKJIL		-1.19		343.75		2826234
+CAMS		-1.22		2399.0		47231
+BRITANNIA		-0.72		4636.95		31651
+KSB		-0.67		3094.45		5567
 SANOFI		-0.18		7766.25		4295
