@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.99		239.05		7438301
-ITC		-0.3		435.65		2994208
-RELIANCE		-0.58		2322.45		2360847
-UPL		-0.91		550.65		622136
+NTPC		1.06		239.2		7450397
+ITC		-0.31		435.6		3000828
+RELIANCE		-0.53		2323.45		2367447
+UPL		-0.87		550.85		623804
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		-3.03		3153.75		40755
+BLUESTARCO		-2.66		918.75		233514
+SHOPERSTOP		-1.54		647.55		17162
