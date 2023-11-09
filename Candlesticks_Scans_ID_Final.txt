@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.27		435.75		4173558
-ADANIPORTS		-0.57		814.0		2390566
-WIPRO		-0.07		381.95		1510531
-TITAN		-0.4		3298.75		512355
-MARUTI		1.08		10433.65		179391
+ITC		-0.24		435.9		4188711
+ADANIPORTS		-0.58		813.95		2392020
+WIPRO		-0.07		381.95		1512388
+TITAN		-0.42		3297.85		512668
+MARUTI		1.03		10428.65		179578
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-1.3		2230.5		546753
+TIMKEN		-1.88		2929.45		18325
