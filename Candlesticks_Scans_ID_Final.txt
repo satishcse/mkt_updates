@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LTIM		0.15		5241.45		190527
-NESTLEIND		0.07		24298.0		23490
+NESTLEIND		0.07		24298		23543
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		-1.03		740		1206010
+NATCOPHARM		-1.03		740		1207808
