@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.91		238.85		7074518
-ICICIBANK		0.38		939.35		2780468
-WIPRO		0.26		383.2		928774
-TCS		-0.19		3375.0		514363
-TITAN		-0.33		3300.9		333562
+ICICIBANK		0.35		939.05		2790899
+WIPRO		0.29		383.3		930327
+TCS		-0.21		3374.45		527810
+TITAN		-0.33		3300.9		345112
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TIINDIA		-2.99		3155		36170
