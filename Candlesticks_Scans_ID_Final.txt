@@ -1,13 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HEROMOTOCO		1.38		3175.3		514106
-DIVISLAB		0.34		3502.6		259801
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		-1.12		2309.8		6405052
-NAZARA		-0.47		828.0		463850
-SKFINDIA		-6.23		4672.95		85766
+
