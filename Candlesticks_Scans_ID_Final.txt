@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-DIVISLAB		0.46		3506.8		197030
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UTIAMC		-0.42		778.05		43542
-MANYAVAR		-0.95		1325.55		33352
+UTIAMC		-0.39		778.3		43594
+MANYAVAR		-0.88		1326.4		33405
