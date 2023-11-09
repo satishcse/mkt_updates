@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-1.4		903.5		2691797
-LTIM		0.32		5249.95		219124
+TATACONSUM		-1.45		903.0		2699493
+LTIM		0.28		5247.85		219258
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-1.13		936.0		266531
-TATAINVEST		-1.53		3214.95		36294
+ADANIGREEN		-1.13		936.0		266897
+TATAINVEST		-1.56		3214.1		36408
