@@ -1,12 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		-0.46		434.95		2274483
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FLUOROCHEM		-1.44		2706.55		45910
-KAYNES		-0.81		2456.5		14753
-NESTLEIND		-0.28		24213.1		11011
-BOSCHLTD		-0.42		19563.7		5661
+KAYNES		-0.82		2456.35		14765
+BOSCHLTD		-0.44		19559.95		5668
+PFIZER		-0.89		3910.0		2751
