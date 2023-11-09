@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.34		119.45		5414873
-ICICIBANK		0.3		938.55		2834507
-WIPRO		0.26		383.2		946095
-TCS		-0.18		3375.35		538607
-EICHERMOT		0.45		3566.3		236652
+ICICIBANK		0.31		938.65		2839916
+WIPRO		0.25		383.15		948059
+TCS		-0.21		3374.55		540402
+EICHERMOT		0.41		3564.9		237294
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-1.08		2492.1		390761
-TIINDIA		-2.99		3155.0		38542
+HINDUNILVR		-1.08		2492.05		391347
+TIINDIA		-3.0		3154.8		38644
+PGHH		-1.29		17344.15		2169
