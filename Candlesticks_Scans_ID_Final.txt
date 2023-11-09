@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.55		386.3		3381964
-ITC		-0.34		435.45		2900864
-RELIANCE		-0.6		2321.9		2250585
+NTPC		1.08		239.25		7405247
+ITC		-0.25		435.85		2972970
+RELIANCE		-0.5		2324.25		2338527
+UPL		-0.77		551.4		582798
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATAELXSI		-2.16		8065		88503
+
