@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.68		208.4		6591871
-HDFCBANK		-0.13		1489.55		5766614
-TATAMOTORS		1.49		652.15		5510262
+POWERGRID		0.65		208.35		6597309
+HDFCBANK		-0.21		1488.35		5777004
+WIPRO		-0.08		381.9		1543934
 
 Bullish_Hammer_15m_N500								 
 ======================= 
