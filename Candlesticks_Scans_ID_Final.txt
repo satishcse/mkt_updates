@@ -1,12 +1,17 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		0.13		119.2		36453
-ADANIPORTS		0.77		825.0		36254
-POWERGRID		0.14		207.3		20453
-UPL		0.0		555.7		1671
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+VBL		0.11		1009.95		54562
+FDC		0.42		367.45		6416
+DRREDDY		0.52		5481.9		4954
+MARUTI		0.13		10336.05		4887
+CEATLTD		0.66		2137.15		4340
+ENDURANCE		-0.26		1720.1		2267
+DALBHARAT		0.2		2128.0		2170
+CHALET		0.29		581.75		694
+SCHAEFFLER		0.58		2776.9		424
