@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NTPC		0.89		238.8		7048535
+ICICIBANK		0.41		939.6		2754038
+WIPRO		0.3		383.35		925056
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TVSMOTOR		-0.43		1639.9		168193
-DALBHARAT		-0.93		2104.1		41756
+
