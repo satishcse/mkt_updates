@@ -2,15 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.17		382.85		818645
-TITAN		-0.54		3293.85		282513
-BAJAJ-AUTO		1.03		5453.0		68116
+ADANIPORTS		0.1		819.5		1553083
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KALYANKJIL		-1.71		341.95		3832963
-GODREJPROP		0.67		1784.95		619914
-GPIL		-1.09		617.5		178654
-GLAND		-1.41		1602.25		62520
-ALKYLAMINE		-0.7		2131.8		13003
+
