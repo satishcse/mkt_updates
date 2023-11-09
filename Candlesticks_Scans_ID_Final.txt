@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.07		320.8		1266989
-HEROMOTOCO		0.59		3150.6		34268
+COALINDIA		1.13		321.0		1340625
+HEROMOTOCO		0.58		3150.15		35228
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		-0.22		3416.35		15053
-HONAUT		-0.15		37473.0		171
+SAPPHIRE		0.31		1303.25		2459
