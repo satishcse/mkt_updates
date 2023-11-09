@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.05		437.15		1233462
-NESTLEIND		-0.17		24239.95		7656
+ITC		0.01		437.0		1259209
+NESTLEIND		-0.15		24244.35		7762
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-1.88		2574.25		768507
+THERMAX		-0.44		2926.8		5461
