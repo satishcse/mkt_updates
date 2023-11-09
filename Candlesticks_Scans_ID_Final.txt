@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.53		577.25		3628748
-ITC		-0.5		434.75		2218485
+ITC		-0.5		434.75		2226181
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAYNES		-0.81		2456.55		14535
-BOSCHLTD		-0.44		19560.8		5586
-PFIZER		-0.96		3907.5		2651
+NESTLEIND		-0.27		24215.85		10855
+BOSCHLTD		-0.44		19560.8		5593
