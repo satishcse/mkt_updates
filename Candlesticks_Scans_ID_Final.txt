@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.56		194.25		2620581
-DRREDDY		0.49		5480.0		168155
+DRREDDY		0.48		5479.85		170711
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DMART		0.59		3734.2		167376
+
