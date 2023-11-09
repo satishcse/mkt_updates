@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATAMOTORS		1.06		649.35		9652849
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAREGAMA		0.06		340.15		155648
+PRAJIND		-1.47		560.7		306014
+SUNTECK		-0.04		450.95		241349
+COLPAL		-0.43		2128.55		142607
+SUPREMEIND		-3.76		4221.6		136314
