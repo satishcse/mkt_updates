@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TITAN		-0.69		3288.9		816264
-UTIAMC		-0.4		778.25		43698
-MANYAVAR		-0.84		1326.9		33598
-MASTEK		-1.08		2225.8		13373
+MANYAVAR		-0.86		1326.75		33639
+MASTEK		-1.07		2225.9		13531
