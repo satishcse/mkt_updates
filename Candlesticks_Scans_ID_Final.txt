@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.53		386.25		3070829
-TITAN		-0.27		3303.0		260882
-BAJAJ-AUTO		0.97		5450.0		60244
+BPCL		0.55		386.3		3072472
+TITAN		-0.29		3302.2		261393
+BAJAJ-AUTO		1.04		5453.85		60899
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIMKEN		-1.2		2949.75		7632
+GPIL		-1.13		617.25		176764
+AIAENG		-1.4		3557.35		10807
