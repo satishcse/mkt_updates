@@ -6,8 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KALYANKJIL		-1.12		344.0		2735309
-ADANIENT		-0.35		2252.0		241194
-SUPREMEIND		-1.51		4320.45		40057
-ANURAS		-1.46		903.15		31160
-KSB		-1.05		3082.5		5196
+ADANIENT		-0.36		2251.85		243752
+ANURAS		-1.46		903.2		31282
+KSB		-1.06		3082.45		5223
