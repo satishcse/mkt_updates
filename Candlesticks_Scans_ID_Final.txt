@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ITC		-0.08		436.6		550622
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BIRLACORPN		-0.47		1280.05		47005
+INFY		-0.44		1384.85		401543
+BIRLACORPN		-0.55		1279.0		47022
+KSB		-0.77		3091.3		2249
 PGHL		-0.61		5123.25		676
