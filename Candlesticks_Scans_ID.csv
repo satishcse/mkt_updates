@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.5,120.25,12160337
-HDFCLIFE,0.87,626.75,1838682
-HINDALCO,0.31,485.95,1566375
-ADANIENT,-0.16,2211.0,691728
-ASIANPAINT,-0.28,3071.7,251290
+HINDALCO,0.32,486.0,1572456
+ADANIENT,-0.13,2211.7,693370
+ASIANPAINT,-0.28,3071.55,251605
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+KIMS,-0.96,1870.9,60135
