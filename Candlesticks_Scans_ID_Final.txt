@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.54		119		2115471
+TATASTEEL		-0.54		119		2148206
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.76		3149.8		44016
-FIVESTAR		-1.16		773.1		40765
-DALBHARAT		-0.77		2078.3		21419
+MCDOWELL-N		-5.7		1034.6		740627
+ADANIENT		0.2		2219.05		267457
+TVSMOTOR		-0.6		1637.1		60097
+SYNGENE		-0.64		718.95		35431
+DALBHARAT		-0.81		2077.55		21608
 TEAMLEASE		-1.44		2455.05		8354
-AIAENG		-0.35		3598.6		2438
+FLUOROCHEM		-0.77		2728.95		7722
+AIAENG		-0.35		3598.35		2460
