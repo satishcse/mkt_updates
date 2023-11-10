@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.59		1130.6		150149
+TECHM		0.62		1130.9		150854
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUPREMEIND		-0.58		4201.0		18788
-BLUEDART		-0.51		6665.6		14737
+LTIM		-1.05		5199.5		28430
+SUPREMEIND		-0.29		4213.1		18907
