@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.82		239.9		3408333
-ONGC		1.04		194.7		2675812
-BPCL		0.25		384.5		1215598
-UPL		-0.49		547.7		511661
+POWERGRID		0.29		210.4		6038183
+ASIANPAINT		-0.43		3067.1		179577
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TCS		-0.52		3329.9		438768
-DIXON		-1.32		5235.9		123166
+
