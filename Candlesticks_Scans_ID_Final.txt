@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.46		119.1		2622216
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACHEM		-0.26		956.65		106166
-MOTILALOFS		-0.58		1026.0		33330
+LALPATHLAB		-0.72		2712.75		54660
+MOTILALOFS		-0.58		1026.0		33537
+LTIM		-0.74		5215.7		20614
