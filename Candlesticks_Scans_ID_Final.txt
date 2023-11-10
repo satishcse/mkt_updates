@@ -2,15 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.35		1018.3		249413
+AXISBANK		-0.36		1018.2		257624
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-1.26		883.3		238593
-MAZDOCK		-0.43		1987.9		203520
-TITAN		-0.91		3254.0		131191
-EICHERMOT		-0.69		3517.5		43985
-HEG		0.36		1601.15		40331
-MARUTI		-0.48		10350.0		30884
-VINATIORGA		-0.41		1751.5		992
+PAYTM		-1.2		883.85		240935
+EICHERMOT		-0.68		3517.95		44776
+MARUTI		-0.5		10348.4		31673
