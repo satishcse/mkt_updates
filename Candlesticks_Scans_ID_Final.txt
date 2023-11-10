@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.28		2304.1		1905218
-HINDALCO		0.21		485.45		620982
-UPL		-0.5		547.65		490533
+HINDALCO		0.19		485.35		624992
+UPL		-0.46		547.85		492240
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APARINDS		-0.73		5147.55		20293
+APARINDS		-0.73		5147.65		20304
