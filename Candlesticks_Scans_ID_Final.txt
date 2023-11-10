@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.01		649.3		2972915
-ITC		0.07		434.7		1261705
-SBILIFE		-0.02		1350.45		307734
+POWERGRID		0.29		210.4		6148788
+COALINDIA		0.29		324.5		4729066
+ITC		0.07		434.7		1267188
+UPL		-0.47		547.8		534731
+SUNPHARMA		0.3		1179.75		319134
+SBILIFE		-0.01		1350.55		308285
 
 Bullish_Hammer_15m_N500								 
 ======================= 
