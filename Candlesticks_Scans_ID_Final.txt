@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.29		210.4		6169845
-UPL		-0.49		547.7		541593
-SUNPHARMA		0.27		1179.4		324919
-HEROMOTOCO		-1.05		3140.5		181699
+POWERGRID		0.29		210.4		6177831
+UPL		-0.54		547.45		543310
+SUNPHARMA		0.23		1178.95		325515
+HEROMOTOCO		-1.02		3141.65		181968
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		-1.32		2425.15		156565
+PIDILITIND		-1.32		2425.2		156801
