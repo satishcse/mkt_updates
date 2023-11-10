@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.23		1178.95		584325
-NESTLEIND		-0.46		24114.7		18297
+SUNPHARMA		0.24		1179.05		585648
+NESTLEIND		-0.47		24112.45		18341
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PVRINOX		-0.33		1659.45		173607
+
