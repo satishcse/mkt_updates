@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.5		1129.55		133553
-BAJAJFINSV		-0.21		1578.95		78670
+TECHM		0.55		1130.1		134107
+BAJAJFINSV		-0.25		1578.35		79704
+ULTRACEMCO		0.22		8645.85		27070
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.8		5255.0		315419
-KIMS		-0.69		1875.95		3557
+KIMS		-0.69		1875.95		3574
