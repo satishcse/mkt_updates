@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.38		210.6		7025796
-ITC		0.2		435.25		1801250
-CIPLA		-0.27		1234.75		296574
+ITC		0.21		435.3		1809087
+ADANIENT		0.2		2219.0		562881
+CIPLA		-0.27		1234.75		297046
 
 Bullish_Hammer_15m_N500								 
 ======================= 
