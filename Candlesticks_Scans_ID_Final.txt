@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.21		579.55		6539310
-RELIANCE		0.23		2315.95		3769708
+RELIANCE		0.23		2315.95		3795135
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOBHA		-0.81		822.55		470150
-KPRMILL		-1.61		772.0		90256
-MAPMYINDIA		-0.02		2059.8		82874
-KAYNES		-1.76		2440.4		40984
-DCMSHRIRAM		0.43		885.5		30035
+HEG		-1.75		1567.6		211237
+MAPMYINDIA		-0.01		2060.0		83188
+KAYNES		-1.76		2440.3		41662
+DCMSHRIRAM		0.58		886.85		30125
