@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.03		937.6		5168910
-NTPC		0.95		240.2		4409702
-ADANIENT		-0.02		2214.1		572943
-TITAN		-1.0		3250.9		278561
-BAJAJFINSV		0.39		1588.45		267568
+ICICIBANK		0.01		937.4		5173420
+NTPC		0.92		240.15		4424294
+ADANIENT		0.0		2214.65		573149
+TITAN		-1.03		3250.0		279930
+BAJAJFINSV		0.4		1588.5		268253
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BIRLACORPN		-1.85		1275.3		33513
+BIRLACORPN		-2		1273.35		33519
