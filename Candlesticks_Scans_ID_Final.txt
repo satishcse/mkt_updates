@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.72		211.3		9151346
+POWERGRID		0.74		211.35		9184566
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINFRA		-4.66		1098.45		64405
+GRINFRA		-4.66		1098.45		64416
