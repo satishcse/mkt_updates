@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LTIM		0.2		5265		199859
+SBILIFE		0.32		1355.0		468426
+CIPLA		0.02		1238.35		466237
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TEAMLEASE		-1.65		2449.65		16005
