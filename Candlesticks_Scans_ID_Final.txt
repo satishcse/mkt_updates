@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.9		240.1		4457154
-ADANIENT		0.01		2214.95		577481
-TITAN		-1.02		3250.1		281557
-BAJAJFINSV		0.39		1588.4		269988
+NTPC		0.92		240.15		4467861
+ADANIENT		0.01		2214.95		582638
+TITAN		-0.98		3251.45		282755
 
 Bullish_Hammer_15m_N500								 
 ======================= 
