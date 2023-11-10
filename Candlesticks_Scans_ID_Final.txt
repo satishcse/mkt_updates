@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.21		210.25		6054535
-BHARTIARTL		0.01		932.45		469363
-SUNPHARMA		0.24		1179.0		309170
-ASIANPAINT		-0.44		3066.5		181786
-LTIM		-1.02		5201.1		50403
+POWERGRID		0.21		210.25		6065120
+BHARTIARTL		0.05		932.8		472127
+SUNPHARMA		0.26		1179.25		310265
+ASIANPAINT		-0.41		3067.5		182499
+LTIM		-1.04		5200.0		50437
 
 Bullish_Hammer_15m_N500								 
 ======================= 
