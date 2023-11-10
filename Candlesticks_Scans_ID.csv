@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-RELIANCE,-0.26,2304.45,1875509
-HINDALCO,0.24,485.6,604293
-UPL,-0.46,547.85,454013
-BAJAJFINSV,0.09,1583.6,127598
+RELIANCE,-0.29,2303.95,1884255
+HINDALCO,0.25,485.65,611608
+UPL,-0.5,547.65,455774
+BAJAJFINSV,0.05,1583.0,129878
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HEG,-0.91,1580.9,117411
