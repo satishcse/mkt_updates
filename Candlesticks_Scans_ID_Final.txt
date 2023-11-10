@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.24		2316		3813560
+RELIANCE		0.23		2315.85		3851888
+HEROMOTOCO		-2.08		3108.0		816939
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKLAKSHMI		-0.84		773.75		287620
-MAPMYINDIA		0.08		2062.0		85082
-KAYNES		-1.43		2448.5		43389
+SOBHA		-0.79		822.7		477121
+MANKIND		0.82		1832.0		101019
+MAPMYINDIA		0.16		2063.55		85425
+RELAXO		-0.34		906.05		53481
+KAYNES		-1.65		2443.0		43595
