@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.33		120.05		11428130
-COALINDIA		0.08		323.8		6561224
+TATASTEEL		0.42		120.15		11851575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINFRA		-4.53		1099.95		59003
+IPCALAB		0.15		1048		319281
+GRINFRA		-4.52		1100		59149
