@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.56		547.3		746250
-LT		0.53		3040.75		568084
+COALINDIA		0.17		324.1		6007565
+UPL		-0.56		547.3		747213
+LT		0.47		3039.0		571776
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRISIL		-0.73		4151.65		71521
+CIEINDIA		-0.82		469.2		199573
+CRISIL		-0.8		4148.7		71533
