@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-1.57		2031.75		25027
+SYNGENE		-0.7		718.45		48314
+PHOENIXLTD		-1.5		2033.2		25237
+THERMAX		-0.45		2899.7		6310
+MRF		-0.54		107500.0		948
