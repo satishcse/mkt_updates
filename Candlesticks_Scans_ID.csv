@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.97,240.25,4504877
-LT,0.58,3042.25,552383
+NTPC,0.92,240.15,4549905
+LT,0.5,3040.1,554026
+BRITANNIA,0.1,4656.95,51132
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CRISIL,-0.77,4149.9,70265
