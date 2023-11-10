@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.75		909.65		2034169
-INDUSINDBK		-0.22		1504.05		1119391
-CIPLA		-0.27		1234.8		273095
+TATACONSUM		0.71		909.3		2035231
+INDUSINDBK		-0.2		1504.4		1120023
+CIPLA		-0.27		1234.85		276136
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ZEEL		-3.75		253		13862446
