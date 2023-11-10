@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.29		210.4		5984502
-TATASTEEL		0.0		119.65		5062099
-ONGC		1.14		194.9		2544988
-BPCL		0.25		384.5		1187553
-AXISBANK		-0.02		1021.7		660429
-UPL		-0.55		547.4		499418
-JSWSTEEL		0.33		753.3		290193
-LTIM		-1.11		5196.6		46965
+POWERGRID		0.26		210.35		5989464
+TATASTEEL		0.0		119.65		5073944
+ONGC		1.19		195.0		2549631
+BPCL		0.25		384.5		1196376
+UPL		-0.55		547.4		500053
+JSWSTEEL		0.27		752.85		292785
+LTIM		-1.11		5196.5		47164
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FINCABLES		-2.14		919.95		280331
