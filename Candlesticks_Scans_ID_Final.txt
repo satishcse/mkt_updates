@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.99		240.3		4565159
-ONGC		1.04		194.7		3312272
-UPL		-0.54		547.45		738800
-LT		0.57		3042.2		559736
-BRITANNIA		0.08		4655.85		51559
+NTPC		0.97		240.25		4570862
+UPL		-0.59		547.15		740991
+LT		0.54		3041.05		560534
+BRITANNIA		0.1		4656.65		51755
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		0.31		415.2		7016555
+SWANENERGY		0.31		415.2		7029679
+CRISIL		-0.78		4149.55		71319
