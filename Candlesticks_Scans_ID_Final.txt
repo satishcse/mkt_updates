@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+RELIANCE		0.23		2315.9		3568651
+ITC		0.46		436.4		3370486
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INGERRAND		-2.74		2894.3		32223
+SOLARINDS		-1.22		6093.75		66849
+KSB		-1.54		3044.55		14207
