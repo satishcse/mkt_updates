@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.32		486.0		2089028
-ADANIENT		-0.15		2211.35		721135
+ADANIENT		-0.14		2211.6		722515
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HAL		-0.08		2029.25		3607027
+HEROMOTOCO		-2.17		3105.0		430884
