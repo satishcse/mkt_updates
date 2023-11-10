@@ -1,8 +1,28 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBILIFE		-0.18		1348.3		92064
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KALYANKJIL		1.21		340.15		171714
+TATAMOTORS		0.12		650.15		171416
+MUTHOOTFIN		-5.9		1235.75		98673
+GRAPHITE		1.75		463.5		40333
+KRBL		0.11		354.3		25586
+APOLLOHOSP		0.12		5304.0		19156
+PRINCEPIPE		-1.4		700.45		16087
+BAJFINANCE		-0.27		7366.65		10594
+TRENT		-0.2		2473.0		8979
+GLENMARK		-0.59		779.45		6854
+CEATLTD		-0.12		2148.0		6485
+MFSL		-0.04		928.85		5906
+MAHLIFE		-0.9		504.25		2165
+LTTS		-0.59		4227.9		1897
+ASTRAL		-0.59		1888.0		1385
+VTL		-0.82		369.05		1061
+HAPPSTMNDS		-0.13		828.4		1032
+CYIENT		-0.46		1658.85		818
+PGHL		0.31		5185.0		8
