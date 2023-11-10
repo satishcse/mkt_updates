@@ -2,11 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.23		1019.6		232569
+AXISBANK		-0.2		1019.9		242674
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.76		3515.05		42041
-POLYCAB		-0.81		5091.9		40055
-HEG		0.04		1596.1		35962
+ASIANPAINT		-0.58		3062.45		58626
+SUPRAJIT		-1.79		376.8		57695
+CEATLTD		-0.37		2142.5		50404
+EICHERMOT		-0.76		3515.0		42503
+HEG		-0.06		1594.55		36567
+STARHEALTH		-0.05		539.0		34421
+GODFRYPHLP		0.21		2092.0		7491
+POLYPLEX		-0.29		1052.35		4935
