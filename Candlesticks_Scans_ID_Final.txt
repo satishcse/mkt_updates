@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.13		2211.85		722749
+WIPRO		-0.81		377.75		3772202
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		0.31		2037.05		3670431
-HEROMOTOCO		-2.17		3104.95		431503
+HAL		0.33		2037.6		3760386
+HEROMOTOCO		-2.17		3104.95		432594
