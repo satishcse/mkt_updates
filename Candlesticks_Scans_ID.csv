@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATACONSUM,0.55,907.8,2108321
-GRASIM,0.01,1935.2,73678
+ICICIBANK,0.15,938.75,5627357
+RELIANCE,0.08,2312.5,2481838
+TATACONSUM,0.55,907.8,2110122
+BPCL,0.33,384.8,1626689
+GRASIM,0.02,1935.3,73749
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PGHL,-0.26,5155.55,2025
