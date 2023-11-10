@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-1.95		1521.75		631642
-TECHM		0.55		1130.1		138649
-BAJAJFINSV		-0.37		1576.45		80845
-ULTRACEMCO		0.19		8643.15		28072
+M&M		-1.95		1521.75		632882
+TECHM		0.53		1129.9		138841
+BAJAJFINSV		-0.3		1577.45		81239
+ULTRACEMCO		0.15		8640.0		28452
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-1.57		3123.95		100108
+HEROMOTOCO		-1.61		3122.75		102183
+POLYPLEX		-0.62		1048.9		11358
