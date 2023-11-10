@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.24		210.3		6164531
-COALINDIA		0.42		324.9		4788721
-TATAMOTORS		-0.04		649.1		3022198
-UPL		-0.5		547.65		540653
-SUNPHARMA		0.27		1179.4		323132
-CIPLA		-0.27		1234.75		253764
-HEROMOTOCO		-0.95		3143.7		179933
+POWERGRID		0.24		210.3		6166780
+COALINDIA		0.37		324.75		4800146
+UPL		-0.46		547.85		541174
+SUNPHARMA		0.26		1179.3		324074
+HEROMOTOCO		-0.98		3142.75		181488
+LTIM		-0.55		5225.7		60320
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PIDILITIND		-1.3		2425.7		155365
+
