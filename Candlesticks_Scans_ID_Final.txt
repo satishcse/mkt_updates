@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.99		194.6		1549328
-M&M		-2.04		1520.45		665709
-KOTAKBANK		-0.49		1736.4		356260
-TECHM		0.37		1128.15		142277
-ULTRACEMCO		0.1		8635.85		29278
+ONGC		0.93		194.5		1552962
+M&M		-2.01		1520.8		667185
+KOTAKBANK		-0.5		1736.3		357870
+TECHM		0.51		1129.7		143109
+ULTRACEMCO		0.15		8640.0		29492
 
 Bullish_Hammer_15m_N500								 
 ======================= 
