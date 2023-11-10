@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.26		210.35		5989464
-TATASTEEL		0.0		119.65		5073944
-ONGC		1.19		195.0		2549631
-BPCL		0.25		384.5		1196376
-UPL		-0.55		547.4		500053
-JSWSTEEL		0.27		752.85		292785
-LTIM		-1.11		5196.5		47164
+POWERGRID		0.21		210.25		5999144
+TATASTEEL		0.0		119.65		5090436
+ONGC		1.17		194.95		2556022
+BPCL		0.25		384.5		1199104
+UPL		-0.52		547.55		500970
+JSWSTEEL		0.17		752.15		295290
+LTIM		-1.13		5195.2		48685
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FINCABLES		-2.14		919.95		280331
+SANOFI		-0.58		7749.65		4897
