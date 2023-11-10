@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.54		119		2198404
+TATASTEEL		-0.63		118.9		2224429
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCDOWELL-N		-5.7		1034.55		753263
-ADANIENT		0.23		2219.65		278951
-TVSMOTOR		-0.6		1636.95		61740
-SYNGENE		-0.64		718.95		36217
-DALBHARAT		-0.87		2076.3		21941
+POLYCAB		-1.04		5080.0		79802
+TVSMOTOR		-0.59		1637.15		62024
+KIMS		-0.51		1879.35		3118
