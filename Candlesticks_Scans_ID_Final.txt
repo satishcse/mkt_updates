@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.89		813.4		1074088
+ADANIPORTS		0.88		813.3		1077810
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		-1.09		2556.0		20816
-LTIM		-0.8		5212.8		20092
-WHIRLPOOL		-0.6		1580.1		2573
+PHOENIXLTD		-1.4		2035.25		27993
+BALKRISIND		-1.09		2556.0		20819
