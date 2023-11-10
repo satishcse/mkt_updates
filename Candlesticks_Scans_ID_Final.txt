@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.47		547.8		667322
-KOTAKBANK		-0.44		1737.25		663310
-CIPLA		-0.33		1234.05		280150
-GRASIM		-0.18		1931.45		64803
+ONGC		0.99		194.6		3088718
+RELIANCE		-0.14		2307.4		2195592
+AXISBANK		0.0		1021.85		999405
+KOTAKBANK		-0.44		1737.2		666495
+GRASIM		-0.2		1931.2		64851
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POWERINDIA		-1.53		4409.8		8985
