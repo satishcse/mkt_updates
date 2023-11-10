@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.99		240.3		4609984
-UPL		-0.55		547.35		745676
-LT		0.53		3041.0		567560
+UPL		-0.56		547.3		746250
+LT		0.53		3040.75		568084
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CIEINDIA		-0.79		469.35		152780
-CRISIL		-0.78		4149.6		71491
+CRISIL		-0.73		4151.65		71521
