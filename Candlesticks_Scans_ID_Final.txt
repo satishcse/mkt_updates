@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.81		377.75		3782168
-ADANIENT		-0.13		2211.7		724494
-SUNPHARMA		0.37		1180.6		560493
+WIPRO		-0.79		377.85		3786428
+ADANIENT		-0.15		2211.35		725109
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HAL		0.04		2031.65		3852105
+HEROMOTOCO		-2.17		3105.0		434560
