@@ -1,14 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-GRASIM		-0.33		1928.6		32402
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-0.69		1930.0		79219
-DIXON		-1.06		5249.5		63702
-KEI		-1.52		2490.0		59904
-BAJAJ-AUTO		-0.69		5381.5		27280
-BALKRISIND		-1.08		2556.25		20683
+SHRIRAMFIN		-0.58		1932.15		80014
+KEI		-1.36		2494.0		60304
+RHIM		-1.56		688.8		32304
+BALKRISIND		-1.08		2556.35		20702
