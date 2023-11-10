@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-1.0		5082.0		37880
-INDIAMART		-0.85		2599.2		11397
+MAZDOCK		-0.68		1982.85		184816
+POLYCAB		-0.94		5085.0		38602
+IPCALAB		0.01		1046.55		36996
+GLAND		-0.55		1603.75		19818
+ALKYLAMINE		0.27		2130.0		1857
