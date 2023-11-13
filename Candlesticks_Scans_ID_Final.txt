@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.38		196.0		6890239
-CIPLA		-0.5		1237.7		428255
-DIVISLAB		-0.51		3499.0		171142
-HEROMOTOCO		0.09		3117.95		134022
-DRREDDY		-0.93		5399.0		103179
+ONGC		-0.38		196.0		6894458
+CIPLA		-0.49		1237.8		429270
+DIVISLAB		-0.48		3500.15		171249
+HEROMOTOCO		0.09		3118.0		134141
+DRREDDY		-0.94		5398.35		103383
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MRF		-0.64		107543.8		3568
+VBL		-0.01		1012.0		679389
+ENDURANCE		-1.13		1614.1		21672
+MRF		-0.64		107550.0		3570
