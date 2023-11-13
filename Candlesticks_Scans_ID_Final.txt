@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.5		1492.55		1352677
+HDFCBANK		-0.48		1492.8		1360615
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANURAS		-0.77		917.5		15575
-UTIAMC		-0.43		783.0		7000
+OBEROIRLTY		-1.0		1250.05		28682
+FIVESTAR		-0.51		782.8		24159
+ANURAS		-0.82		917.05		15578
+CHEMPLASTS		-0.04		450.4		11797
+UTIAMC		-0.43		782.95		7130
+SUNDARMFIN		-1.11		3188.45		2870
