@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.69		577.3		4226394
+SBIN		-0.71		577.15		4242868
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-2.68		437.4		3990024
-TATAELXSI		-0.82		8072.05		32913
+TATAELXSI		-0.82		8072.5		32982
