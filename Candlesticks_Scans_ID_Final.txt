@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.25		120.55		11449651
-SBIN		-0.4		578.95		7618410
-SUNPHARMA		-0.31		1176.9		515642
-LT		-0.39		3040.25		280655
+TATASTEEL		-0.25		120.55		11464173
+SBIN		-0.46		578.6		7639972
+SUNPHARMA		-0.39		1175.95		516566
+BAJAJ-AUTO		-0.38		5421.95		56297
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		-1.11		1614.4		25985
+ENDURANCE		-1.14		1614.05		26047
+INGERRAND		-1.83		2900.2		10899
