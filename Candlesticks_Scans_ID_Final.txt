@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.43		195.9		10509902
+ONGC		-0.43		195.9		10566519
+CIPLA		-0.23		1241.15		644334
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAHLIFE		-1.99		509.15		61655
-BOSCHLTD		-0.58		19479.95		5678
+MAHLIFE		-1.89		509.7		61971
+POLYMED		-1.88		1421.1		54287
+PAGEIND		-3.56		36989.2		35225
+CRAFTSMAN		-2.79		4798.1		24730
+BOSCHLTD		-0.58		19480.15		5702
