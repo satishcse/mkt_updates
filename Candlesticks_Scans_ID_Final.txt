@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		-1.39		3749.85		36431
-LTTS		-0.93		4256.9		14535
+KOTAKBANK		-0.92		1736.35		671651
+GODREJCP		-0.81		979.95		286027
+DMART		-1.44		3747.85		36520
