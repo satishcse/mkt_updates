@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		-0.43		195.9		10509902
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BOSCHLTD		-0.61		19474.1		5610
+MAHLIFE		-1.99		509.15		61655
+BOSCHLTD		-0.58		19479.95		5678
