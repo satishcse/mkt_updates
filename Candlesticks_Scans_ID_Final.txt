@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.43		436.55		2962156
-BPCL		0.69		386.75		1975009
-SBILIFE		-2.34		1327.0		930882
-ADANIENT		0.12		2213.9		697789
-BAJFINANCE		-1.37		7354.75		566539
+ITC		-0.43		436.55		2971334
+BPCL		0.66		386.65		1976103
+SBILIFE		-2.35		1326.95		932232
+ADANIENT		0.12		2214.0		698233
+BAJFINANCE		-1.4		7352.7		567100
 
 Bullish_Hammer_15m_N500								 
 ======================= 
