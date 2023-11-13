@@ -6,9 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBER		-2.1		3093.8		30241
-KPRMILL		0.1		773.0		7377
-SUPREMEIND		0.14		4298.9		7269
-OFSS		-0.26		4022.0		2371
-MASTEK		-0.57		2225.35		2105
-ABBOTINDIA		-1.24		23519.95		1936
+AMBER		-2.07		3094.6		30587
+TATAELXSI		-0.13		8128.75		17183
+SUPREMEIND		0.14		4299.1		7728
+MASTEK		-0.57		2225.3		2158
