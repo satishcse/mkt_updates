@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.56		195.65		7149241
-ITC		-0.72		435.3		2199531
-LT		-0.4		3039.65		260483
+ONGC		-0.56		195.65		7158530
+ITC		-0.73		435.25		2204620
+LT		-0.38		3040.5		261256
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INGERRAND		-1.8		2901.1		9528
+
