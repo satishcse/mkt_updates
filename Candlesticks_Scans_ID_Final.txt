@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.8		213.7		6856027
-RELIANCE		-0.68		2314.85		1149568
-ADANIPORTS		-0.31		809.7		813743
-TATACONSUM		0.35		918.5		655311
+RELIANCE		-0.67		2315.05		1152160
+ADANIPORTS		-0.33		809.6		814485
+TATACONSUM		0.29		917.95		656259
 
 Bullish_Hammer_15m_N500								 
 ======================= 
