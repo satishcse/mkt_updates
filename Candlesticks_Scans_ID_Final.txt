@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.87		213.85		5852233
-INDUSINDBK		0.67		1512.15		884337
-RELIANCE		-0.59		2316.8		819661
-UPL		-0.87		550.9		532536
-CIPLA		-0.83		1233.65		219140
-HINDUNILVR		-0.43		2480.85		207660
+POWERGRID		0.78		213.65		5870608
+INDUSINDBK		0.67		1512.15		889778
+RELIANCE		-0.64		2315.85		827854
+UPL		-0.85		551.0		534920
+HINDUNILVR		-0.45		2480.3		208215
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SWANENERGY		-3.89		431.95		5869737
