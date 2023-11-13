@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.78		213.65		5893124
-UPL		-0.81		551.25		547626
-HINDUNILVR		-0.44		2480.65		210907
-GRASIM		-0.82		1930.1		91574
+POWERGRID		0.75		213.6		5897986
+UPL		-0.86		550.95		551943
+HINDUNILVR		-0.42		2481.0		211437
+GRASIM		-0.87		1929.15		91650
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-3.88		432.0		5925458
-VOLTAS		-1.88		813.7		395167
-DIVISLAB		-0.48		3499.95		167116
+KEI		-0.22		2566.15		78182
