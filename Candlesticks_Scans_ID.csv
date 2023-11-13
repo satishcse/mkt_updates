@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,-0.52,1492.25,4447071
-RELIANCE,-0.62,2316.15,697039
+HDFCBANK,-0.55,1491.75,4456239
+LTIM,-0.45,5240.0,48193
+NESTLEIND,-0.72,24108.0,9607
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+OBEROIRLTY,-1.39,1245.1,104958
