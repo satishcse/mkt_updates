@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.65		2315.55		755905
+RELIANCE		-0.66		2315.3		758220
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+LALPATHLAB		-2.25		2630.45		59220
 HONAUT		-0.79		37205.7		558
