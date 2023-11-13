@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.83		213.75		5820288
-RELIANCE		-0.59		2316.8		816614
-UPL		-0.84		551.1		526855
-ADANIENT		-0.33		2204.0		377221
-CIPLA		-0.84		1233.5		217499
-HINDUNILVR		-0.46		2480.05		206765
+POWERGRID		0.83		213.75		5836462
+INDUSINDBK		0.68		1512.35		881738
+RELIANCE		-0.61		2316.55		818341
+UPL		-0.84		551.1		527857
+CIPLA		-0.84		1233.5		218524
+HINDUNILVR		-0.46		2480.05		207002
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		-0.63		3403.5		31683
-LTTS		-1.07		4250.95		28809
+SIEMENS		-0.63		3403.5		31782
