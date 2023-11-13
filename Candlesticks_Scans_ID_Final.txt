@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.72		2313.95		1136195
-ADANIPORTS		-0.34		809.45		808384
-TATACONSUM		0.43		919.2		645869
-DIVISLAB		-0.54		3498.0		181817
+RELIANCE		-0.71		2314.05		1140195
+ADANIPORTS		-0.32		809.65		810928
+TATACONSUM		0.43		919.2		646453
 
 Bullish_Hammer_15m_N500								 
 ======================= 
