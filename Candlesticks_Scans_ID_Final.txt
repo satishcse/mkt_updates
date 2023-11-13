@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.53		195.7		10066302
-TATAMOTORS		-0.06		653.15		2690870
-JSWSTEEL		0.52		760.5		723139
-APOLLOHOSP		-1.06		5219.4		123545
+ONGC		-0.53		195.7		10075286
+TATAMOTORS		-0.05		653.2		2699034
+JSWSTEEL		0.54		760.65		726812
+LT		-0.14		3047.75		431439
+APOLLOHOSP		-1.1		5217.45		124554
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANKIND		-0.46		1828.6		67627
+MASTEK		-1.22		2210.95		18913
