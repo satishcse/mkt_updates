@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.71		577.15		4242868
+SBIN		-0.66		577.45		4264189
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAELXSI		-0.82		8072.5		32982
+TATAELXSI		-0.83		8071.8		33106
+MASTEK		-0.98		2216.2		8080
