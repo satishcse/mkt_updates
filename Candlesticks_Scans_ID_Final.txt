@@ -2,7 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-0.44		1254.65		423312
+COALINDIA		4.67		347.3		30752034
+TATASTEEL		-0.25		120.55		11018938
+ONGC		-0.56		195.65		7131356
+ITC		-0.65		435.6		2167954
+LT		-0.41		3039.45		257594
 
 Bullish_Hammer_15m_N500								 
 ======================= 
