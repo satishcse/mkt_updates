@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.68		5405.75		44023
+BAJAJ-AUTO		-0.7		5404.35		44053
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-3.78		432.45		4987097
-GLENMARK		-4.44		729.0		2324238
-TITAN		-0.77		3255.3		123667
+GLENMARK		-4.39		729.35		2326623
+POLICYBZR		-1.13		744.35		113903
+TTKPRESTIG		-2.0		788.9		15354
+HONAUT		-0.79		37205.7		558
