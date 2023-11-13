@@ -6,8 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODREJCP		-0.81		980.0		286541
-DMART		-1.45		3747.5		36615
-LTTS		-0.88		4259.2		14640
-ATUL		-1.15		6580.0		8520
-OFSS		-0.54		4010.7		6423
+GODREJCP		-0.79		980.15		287018
+DMART		-1.44		3748.0		36718
+LTTS		-0.86		4260.0		14674
+ATUL		-1.14		6580.8		8593
+OFSS		-0.6		4008.4		6445
