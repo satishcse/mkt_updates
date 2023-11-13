@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.06		653.15		2728447
-JSWSTEEL		0.53		760.55		732800
-APOLLOHOSP		-1.05		5220.3		125799
+TATAMOTORS		-0.08		653.05		2747143
+APOLLOHOSP		-1.05		5220.0		126750
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GLAXO		-0.5		1474.35		55238
+
