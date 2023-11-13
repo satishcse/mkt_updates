@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.23		250		10009514
-POWERGRID		0.94		214		4474640
-SBIN		-0.74		577		4005295
+KOTAKBANK		-0.82		1738.2		1005934
+WIPRO		-0.43		380.8		679035
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LTIM		-0.66		5229.4		46634
-GALAXYSURF		-0.98		2831.0		19312
-METROBRAND		-0.74		1277.45		15609
+
