@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFCBANK		-0.45		1493.2		1172778
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEC		-2.27		566.45		82269
-SUPREMEIND		0.0		4293.0		8087
-SOLARINDS		-1.04		6152.3		7978
 MASTEK		-0.45		2228.05		2166
