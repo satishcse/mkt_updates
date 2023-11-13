@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BOSCHLTD		0.01		19594.65		1547
+FIVESTAR		-0.75		780.9		36393
+BOSCHLTD		0.03		19599.95		1557
