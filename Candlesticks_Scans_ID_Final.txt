@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.23		250.0		9947090
-POWERGRID		1.13		214.4		4176144
-SBIN		-0.71		577.15		3969511
+NTPC		2.19		249.9		9979808
+POWERGRID		0.85		213.8		4379313
+SBIN		-0.71		577.2		3995091
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MPHASIS		-1.27		2180.7		327877
-METROPOLIS		-1.58		1593.3		70811
-DIXON		-1.13		5215.05		58243
-METROBRAND		-0.73		1277.6		15605
+METROPOLIS		-1.58		1593.45		70895
+GALAXYSURF		-1.0		2830.55		19262
+METROBRAND		-0.72		1277.75		15608
