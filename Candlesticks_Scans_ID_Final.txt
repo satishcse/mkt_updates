@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.43		578.8		7484288
-INFY		-0.79		1377.25		1863142
-KOTAKBANK		-0.19		1749.1		1632917
-TITAN		-0.65		3259.15		150795
+SBIN		-0.43		578.8		7496080
+SBILIFE		-1.9		1333.0		702347
+TITAN		-0.64		3259.65		150897
 
 Bullish_Hammer_15m_N500								 
 ======================= 
