@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.43		380.8		892019
-TATACONSUM		0.48		919.65		476469
-HCLTECH		-0.42		1254.95		365212
+WIPRO		-0.42		380.85		893355
+TATACONSUM		0.55		920.35		476832
+HCLTECH		-0.41		1255.0		366501
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRAJIND		-0.33		566.45		292412
-VIJAYA		-2.47		623.0		239472
+PRAJIND		-0.43		565.85		296692
+VIJAYA		-2.47		622.95		239884
