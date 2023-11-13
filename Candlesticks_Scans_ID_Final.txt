@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.42		380.85		882375
-HCLTECH		-0.41		1255.05		353369
-APOLLOHOSP		-1.31		5206.4		72553
+WIPRO		-0.39		380.95		885865
+HCLTECH		-0.4		1255.2		356578
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ALKEM		-0.47		4295.9		78116
+OFSS		-0.93		3994.95		11371
