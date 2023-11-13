@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-1.42		7351.3		294444
-HCLTECH		0.05		1260.85		140395
+BAJFINANCE		-1.42		7350.7		296480
+HCLTECH		0.0		1260.15		142536
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PGHH		-1.18		17644.05		1021
