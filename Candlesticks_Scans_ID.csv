@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,1.16,214.45,2141081
-HDFCBANK,-0.47,1493.0,1404099
-TITAN,-0.24,3272.6,41783
+POWERGRID,1.23,214.6,2174686
+HDFCBANK,-0.47,1492.95,1413069
+MARUTI,-0.16,10415.15,53154
+TITAN,-0.26,3272.0,42028
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ATUL,-0.63,6614.85,5437
