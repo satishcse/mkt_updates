@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.46		1493.1		1239831
-WIPRO		-0.43		380.8		356879
+HDFCBANK		-0.52		1492.2		1261577
+WIPRO		-0.43		380.8		358831
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVRINOX		-2.43		1623.1		137198
-OFSS		-0.34		4018.7		3679
+VBL		0.14		1013.55		194290
+CEATLTD		-1.07		2111.6		43757
+OFSS		-0.35		4018.45		3693
