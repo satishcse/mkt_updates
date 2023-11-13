@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.41		250.45		9534359
-POWERGRID		1.39		214.95		3699916
-SBIN		-0.81		576.6		3606102
-HINDUNILVR		-0.46		2480.0		159577
+NTPC		2.39		250.4		9572593
+TATASTEEL		-0.08		120.75		5654358
+POWERGRID		1.34		214.85		3785970
+SBIN		-0.72		577.1		3770550
+BAJFINANCE		-1.38		7354.3		309563
+HINDUNILVR		-0.46		2480.0		159861
 
 Bullish_Hammer_15m_N500								 
 ======================= 
