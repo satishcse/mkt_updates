@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.48		195.8		10971517
+ONGC		-0.56		195.65		11109249
+HINDALCO		1.16		488.05		4902364
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FDC		-0.43		385.55		242744
-HAPPSTMNDS		-1.07		832.05		138073
-PAGEIND		-3.57		36987.8		42043
-CRISIL		-1.14		4144.95		26570
-MASTEK		-1.49		2204.85		22238
+FDC		-0.67		384.6		248506
+PRINCEPIPE		-2.02		707.0		213446
+JUSTDIAL		-1.14		704.8		95336
+PAGEIND		-3.59		36979.85		42559
+GOCOLORS		-2.45		1235.95		24802
+PGHL		-1.44		5124.95		5460
+3MINDIA		-1.27		31296.0		3589
