@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.25		2216.8		693704
-BAJFINANCE		-1.37		7355.1		557828
+SBILIFE		-2.2		1328.95		902506
+ADANIENT		0.19		2215.5		694526
+BAJFINANCE		-1.39		7353.5		558656
+NESTLEIND		-0.83		24082.2		15773
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+THERMAX		-0.71		2895		8563
