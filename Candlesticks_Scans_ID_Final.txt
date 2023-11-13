@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.68		577.35		4283215
+SBIN		-0.69		577.3		4288116
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		-2.05		2635.9		51762
-MASTEK		-0.98		2216.2		8080
+LALPATHLAB		-2.04		2636		51967
