@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.53		195.7		7249398
-ITC		-0.67		435.5		2283031
-EICHERMOT		1.97		3649.65		676726
-BAJAJFINSV		-0.38		1588.55		499090
+SBIN		-0.43		578.8		7484288
+INFY		-0.79		1377.25		1863142
+KOTAKBANK		-0.19		1749.1		1632917
+TITAN		-0.65		3259.15		150795
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CENTURYTEX		0.56		1188.95		148404
-INGERRAND		-1.76		2902.35		9675
+
