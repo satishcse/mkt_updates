@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-1.4		7352.55		290391
+BAJFINANCE		-1.41		7351.75		291048
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-1.56		1593.75		56244
+METROPOLIS		-1.54		1594		56441
