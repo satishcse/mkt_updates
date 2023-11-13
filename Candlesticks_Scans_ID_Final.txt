@@ -2,10 +2,18 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.46		195.85		10748727
+ONGC		-0.43		195.9		10762920
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAHLIFE		-2.09		508.65		63809
-GOCOLORS		-2.33		1237.4		20973
+JUBLPHARMA		0.17		413.0		1728480
+AFFLE		-1.34		1020.0		172970
+HAPPSTMNDS		-1.02		832.5		134256
+RAYMOND		-2.85		1846.9		120938
+CGCL		-1.01		756.25		85035
+MAHLIFE		-1.92		509.55		63872
+POLYPLEX		-0.74		1056.85		61299
+DCMSHRIRAM		-1.05		883.25		38486
+LUXIND		-1.3		1423.3		36045
+CRISIL		-1.14		4144.85		26238
