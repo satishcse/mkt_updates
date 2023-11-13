@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.56		195.65		7238014
-ITC		-0.64		435.65		2255479
+ONGC		-0.56		195.65		7244954
+ITC		-0.68		435.45		2265131
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NH		-0.98		1078.45		192414
-CENTURYTEX		0.57		1189.0		148121
-ULTRACEMCO		-0.48		8669.7		35191
+NH		-0.96		1078.6		192552
+CENTURYTEX		0.51		1188.3		148150
+TIMKEN		-1.16		2930.5		14897
 INGERRAND		-1.76		2902.35		9675
