@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.78		664.9		7007528
-INDUSINDBK		-0.8		1497.55		4439822
-JSWSTEEL		1.7		774.05		1894972
-HDFCLIFE		2.56		636.95		1425024
-LTIM		2.36		5385.0		395392
+TATAMOTORS		1.78		664.9		7019742
+INDUSINDBK		-0.79		1497.7		4448579
+JSWSTEEL		1.73		774.25		1895834
+HDFCLIFE		2.56		636.95		1428481
 
 Bullish_Hammer_15m_N500								 
 ======================= 
