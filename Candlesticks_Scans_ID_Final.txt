@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.06		210.05		12004607
-ASIANPAINT		0.23		3092.8		286956
-ULTRACEMCO		0.86		8752.0		111722
+POWERGRID		-1.11		209.95		12026467
+ASIANPAINT		0.27		3094.0		288888
+ULTRACEMCO		0.79		8746.25		112080
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UBL		-0.68		1562.7		107060
+MAZDOCK		0.09		1979.65		243896
+UBL		-0.68		1562.65		107070
+COROMANDEL		-0.14		1109.95		83325
 PGHH		-0.21		17745.0		1604
