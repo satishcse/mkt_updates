@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.52		2349.7		3621064
-WIPRO		1.95		389.1		3155548
-TECHM		3.33		1169.05		1700181
-BAJAJFINSV		1.56		1609.95		448339
+RELIANCE		1.55		2350.5		3627760
+WIPRO		1.95		389.1		3157082
+TECHM		3.37		1169.5		1702586
+HINDUNILVR		0.15		2481.95		672872
+BAJAJFINSV		1.53		1609.5		449322
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COROMANDEL		-0.31		1108.05		90621
+LODHA		-0.91		842.55		1789935
+COROMANDEL		-0.31		1108.05		90629
