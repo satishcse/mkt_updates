@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		3.06		201.8		6224761
-TATAMOTORS		0.86		658.85		1659683
+ONGC		2.91		201.5		6378902
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		-0.6		1597.7		16921
+ENDURANCE		-0.59		1597.75		17045
