@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.42		350.8		32181543
-TATASTEEL		2.44		123.95		30154730
-ONGC		2.07		199.85		16562576
-HDFCBANK		1.02		1504.0		16197566
-SBIN		0.67		585.25		8695424
-NTPC		1.06		248.3		8534425
-ULTRACEMCO		0.92		8757.2		143531
+COALINDIA		0.42		350.8		32229364
+ONGC		2.12		199.95		16584350
+HDFCBANK		0.98		1503.4		16285203
+SBIN		0.71		585.45		8731493
+NTPC		1.04		248.25		8571156
+ADANIPORTS		0.39		813.0		913301
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SUPREMEIND		-3.47		4122.95		180413
