@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.06		1504.6		13514866
-BPCL		1.12		391.45		4308585
-INDUSINDBK		-0.83		1497.1		4172616
-SUNPHARMA		0.06		1178.55		1410810
-ADANIENT		0.44		2223.45		466498
+HDFCBANK		1.01		1503.85		13653875
+BPCL		1.09		391.3		4312886
+INDUSINDBK		-0.82		1497.2		4205705
+SUNPHARMA		0.07		1178.6		1414910
+ADANIENT		0.46		2223.75		469235
 
 Bullish_Hammer_15m_N500								 
 ======================= 
