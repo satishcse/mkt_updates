@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		2.36		123.85		37253170
-HDFCBANK		1.04		1504.3		20261701
-ADANIPORTS		0.12		810.85		1486127
+TATASTEEL		2.4		123.9		37423810
+HDFCBANK		1.07		1504.75		20325584
+ADANIPORTS		0.14		811.0		1497775
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		-4.34		759.8		3100879
-MTARTECH		0.15		2211.3		219930
+MTARTECH		0.14		2210.95		222044
+HEG		-0.65		1565.8		115896
+TATAINVEST		0.6		3242.0		111032
+SHREECEM		0.05		26209.9		15299
