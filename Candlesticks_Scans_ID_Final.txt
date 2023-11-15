@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.39		246.65		1998900
+NTPC		0.28		246.4		2011858
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ADANIENT		0.81		2231.65		188694
+GRINFRA		0.06		1109.15		2923
