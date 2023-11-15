@@ -1,14 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		3.65		202.95		5677299
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LODHA		0.83		857.3		635310
-ICICIPRULI		1.74		535.0		229299
-RAYMOND		-0.67		1834.45		59843
-ADANIGREEN		0.41		944.0		55227
-PATANJALI		0.48		1454.0		36022
-METROPOLIS		-0.15		1607.0		22739
+
