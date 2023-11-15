@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		3.53		504.7		8158471
-WIPRO		1.93		389.0		2937460
-HDFCLIFE		1.71		631.7		844865
+HINDALCO		3.5		504.55		8168122
+WIPRO		1.97		389.15		2941169
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBCHEPHARM		0.01		1500.0		73420
-METROPOLIS		-0.84		1595.85		63548
+JBCHEPHARM		0.01		1500.0		73529
+CRAFTSMAN		0.24		4809.75		19037
