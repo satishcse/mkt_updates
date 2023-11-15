@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		2.71		201.1		6474590
+ONGC		2.78		201.25		6628989
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ENDURANCE		-0.69		1596.25		17725
+JBCHEPHARM		0.4		1505.85		11880
+TIINDIA		-0.62		3144.75		11433
