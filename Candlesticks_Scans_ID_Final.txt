@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPOWER		0.36		392.0		1280592
-TATACOMM		-0.07		1705.85		156155
+ADANIPOWER		0.36		392.0		1291425
+LINDEINDIA		-1.03		5984.45		7154
+GALAXYSURF		-1.02		2806.0		5453
+FINEORG		-0.11		4283.0		2869
