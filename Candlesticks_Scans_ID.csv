@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BPCL,1.25,391.95,4072093
-ITC,0.58,438.55,3673163
-DIVISLAB,0.45,3525.9,141663
+POWERGRID,-1.06,210.05,12327031
+BPCL,1.23,391.85,4079578
+ITC,0.6,438.6,3684713
+TECHM,3.4,1169.85,1718613
+DIVISLAB,0.48,3526.9,141862
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+LAXMIMACH,-0.59,12862.4,1898
