@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.15		391.55		4873619
+BPCL		1.15		391.55		4902873
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ABBOTINDIA		-1.01		22918.95		15798
+RAYMOND		-1.93		1811.1		187333
+ABBOTINDIA		-1.03		22915.0		15817
