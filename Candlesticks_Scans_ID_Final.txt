@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.64		438.8		3664604
-EICHERMOT		4.78		3819.5		1043484
+BPCL		1.25		391.95		4072093
+ITC		0.58		438.55		3673163
+DIVISLAB		0.45		3525.9		141663
 
 Bullish_Hammer_15m_N500								 
 ======================= 
