@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.41		583.75		3269329
-TCS		1.72		3388.7		632619
+HINDALCO		4.34		508.65		6493996
+SBIN		0.42		583.8		3294862
+TCS		1.72		3388.8		634666
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		-0.09		1392.25		473377
-HEG		0.17		1578.75		44485
+HEG		0.17		1578.75		44548
+JBMA		-0.78		1199.0		11912
