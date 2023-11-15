@@ -2,7 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.79		1497.75		4554901
+ONGC		2.15		200.0		16320202
+POWERGRID		-0.97		210.25		14505362
+INDUSINDBK		-0.86		1496.6		4576303
+BPCL		1.24		391.9		4538598
 
 Bullish_Hammer_15m_N500								 
 ======================= 
