@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.53		2349.95		3787198
-WIPRO		2.15		389.85		3389390
-SUNPHARMA		-0.07		1176.95		1118241
-LT		0.53		3064.8		611913
+RELIANCE		1.55		2350.55		3791311
+WIPRO		2.17		389.95		3394078
+BHARTIARTL		1.06		944.95		1687848
+SUNPHARMA		-0.07		1176.95		1120450
+LT		0.53		3064.8		714260
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HONAUT		-1.05		36619.1		2609
