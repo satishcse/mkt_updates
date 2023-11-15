@@ -2,8 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.63		663.9		6315579
+HDFCBANK		1.07		1504.75		12581018
+INFY		2.09		1402.25		5733934
+ITC		1.02		440.45		4263729
+TECHM		3.76		1173.85		1836050
+LTIM		2.36		5385.0		387103
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CRAFTSMAN		-0.09		4793.5		23699
