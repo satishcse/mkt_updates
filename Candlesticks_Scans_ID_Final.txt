@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.22		353.6		26522853
-BPCL		1.23		391.85		4107408
-ITC		0.52		438.25		3744183
-TECHM		3.39		1169.75		1735886
-ADANIPORTS		0.23		811.7		714218
+BPCL		1.25		391.95		4113722
+ITC		0.53		438.3		3754483
+TECHM		3.36		1169.35		1737895
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CERA		-0.82		8806.85		11010
+CERA		-0.75		8813.25		11011
