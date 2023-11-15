@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.26		2343.85		1523906
+RELIANCE		1.27		2343.9		1533471
+SBILIFE		0.93		1340.7		149590
+APOLLOHOSP		0.45		5244.1		107997
 
 Bullish_Hammer_15m_N500								 
 ======================= 
