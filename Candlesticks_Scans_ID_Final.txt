@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.5		2349.25		3652680
-TECHM		3.34		1169.1		1708264
-HINDUNILVR		0.17		2482.25		677177
-BAJAJFINSV		1.56		1609.95		452886
+RELIANCE		1.48		2348.95		3657453
+TECHM		3.41		1169.9		1711187
+HINDUNILVR		0.16		2482.0		678172
+BAJAJFINSV		1.54		1609.6		453857
 
 Bullish_Hammer_15m_N500								 
 ======================= 
