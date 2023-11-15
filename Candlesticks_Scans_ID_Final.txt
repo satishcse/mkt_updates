@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.2		353.55		25531490
-ICICIBANK		0.62		940.2		7679151
-TECHM		3.05		1165.9		1575142
-SUNPHARMA		-0.01		1177.65		966805
-DRREDDY		0.14		5427.5		107045
+COALINDIA		1.22		353.6		25540445
+ICICIBANK		0.6		940.05		7693930
+TECHM		3.05		1165.8		1578497
+SUNPHARMA		-0.01		1177.65		968749
+DRREDDY		0.14		5427.6		107284
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+VMART		-0.69		1688.95		46216
