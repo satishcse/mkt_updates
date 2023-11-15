@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.43		583.85		3188981
-AXISBANK		1.06		1036.2		2370830
-TCS		1.73		3389.25		623988
+SBIN		0.39		583.6		3209191
+TCS		1.72		3389.0		626054
 
 Bullish_Hammer_15m_N500								 
 ======================= 
