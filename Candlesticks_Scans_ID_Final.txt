@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.15		1505.85		15308346
-POWERGRID		-0.9		210.4		14691950
-HINDALCO		3.68		505.45		9746860
-NTPC		1.06		248.3		8415303
-ULTRACEMCO		0.81		8747.75		139952
+HDFCBANK		1.05		1504.45		15417142
+POWERGRID		-0.92		210.35		14753638
+NTPC		1.04		248.25		8423885
+HDFCLIFE		2.87		638.9		1545272
+SBILIFE		1.99		1354.8		426656
+ULTRACEMCO		0.87		8752.7		140178
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SUPREMEIND		-3.46		4123.7		175444
