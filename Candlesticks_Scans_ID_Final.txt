@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.91		1495.9		4586879
-LTIM		2.36		5385.0		401998
+HDFCBANK		1.15		1505.85		15308346
+POWERGRID		-0.9		210.4		14691950
+HINDALCO		3.68		505.45		9746860
+NTPC		1.06		248.3		8415303
+ULTRACEMCO		0.81		8747.75		139952
 
 Bullish_Hammer_15m_N500								 
 ======================= 
