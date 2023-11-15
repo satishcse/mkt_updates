@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		3.65		1172.65		1393602
-HCLTECH		1.05		1274.25		891635
-HEROMOTOCO		1.29		3158.95		179240
+HCLTECH		1.11		1275.0		894610
+HEROMOTOCO		1.29		3158.95		179463
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		0.61		1179.9		190294
+PERSISTENT		0.22		6249.75		456187
 PGHL		0.2		5107.95		1723
 3MINDIA		0.07		31279.0		396
