@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-0.99,210.2,12765918
-RELIANCE,1.6,2351.7,3767742
-WIPRO,2.23,390.15,3363030
-TCS,1.85,3393.3,1142002
-SUNPHARMA,-0.01,1177.7,1104351
-LT,0.53,3064.6,604871
+RELIANCE,1.53,2350.0,3780244
+WIPRO,2.2,390.05,3380656
+SUNPHARMA,-0.07,1177.0,1114683
+LT,0.52,3064.45,610485
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+HONAUT,-1.05,36619.1,2604
