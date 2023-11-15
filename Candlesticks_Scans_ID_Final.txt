@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.08		210		11821738
-ULTRACEMCO		0.95		8760		109094
+POWERGRID		-1.04		210.1		11831107
+TATAMOTORS		1.07		660.25		4794304
+ULTRACEMCO		0.9		8755.55		109349
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYPLEX		-0.31		1052.65		37935
+POLYPLEX		-0.3		1052.75		38023
+PGHH		-0.14		17757.2		1586
