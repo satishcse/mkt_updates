@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-1.04,210.1,11769953
-ULTRACEMCO,0.92,8757.0,108351
+POWERGRID,-1.06,210.05,11794585
+MARUTI,0.3,10430.0,239627
+ULTRACEMCO,0.93,8757.75,108855
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+POLYPLEX,-0.32,1052.55,37770
