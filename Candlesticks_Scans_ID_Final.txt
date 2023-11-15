@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.81		388.55		2715495
-HCLTECH		1.05		1274.2		857893
-HEROMOTOCO		1.27		3158.4		174848
+WIPRO		1.89		388.85		2719005
+HCLTECH		1.09		1274.75		859274
+HEROMOTOCO		1.27		3158.4		174913
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		0.2		6248.75		449073
+PGHL		0.22		5108.9		1602
