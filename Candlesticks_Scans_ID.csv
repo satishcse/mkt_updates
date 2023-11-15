@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-INDUSINDBK,-0.85,1496.8,4462892
-JSWSTEEL,1.73,774.25,1896416
-HDFCLIFE,2.55,636.9,1433588
-LTIM,2.36,5385.0,396826
+ONGC,2.15,200.0,16199866
+POWERGRID,-0.97,210.25,14163151
+INDUSINDBK,-0.83,1497.0,4484683
+JSWSTEEL,1.71,774.1,1897979
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+AIAENG,0.05,3598.9,41791
