@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		0.54		6269.95		412726
-SCHAEFFLER		0.36		2742.05		14111
+PERSISTENT		0.51		6267.95		413970
