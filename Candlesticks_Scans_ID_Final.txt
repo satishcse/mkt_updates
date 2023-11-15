@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.2		353.55		26515659
-POWERGRID		-1.08		210.0		12432988
-BPCL		1.24		391.9		4098808
-ITC		0.58		438.55		3720601
-TECHM		3.35		1169.25		1734720
-ADANIPORTS		0.2		811.45		713164
+COALINDIA		1.22		353.6		26522853
+BPCL		1.23		391.85		4107408
+ITC		0.52		438.25		3744183
+TECHM		3.39		1169.75		1735886
+ADANIPORTS		0.23		811.7		714218
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CERA		-0.86		8803.85		10934
+CERA		-0.82		8806.85		11010
