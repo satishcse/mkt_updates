@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.63		940.35		6148971
-SBIN		0.59		584.8		4233865
+ICICIBANK		0.6		940.1		6172690
+SBIN		0.62		584.95		4259008
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NAVINFLUOR		0.23		3646.5		29407
-SCHAEFFLER		0.1		2735.1		16196
+
