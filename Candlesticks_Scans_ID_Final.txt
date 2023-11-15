@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.36		354.1		25383581
-SBIN		0.65		585.15		5447465
-TECHM		3.28		1168.5		1503790
-DRREDDY		0.19		5430.0		105386
+COALINDIA		1.22		353.6		25436587
+SBIN		0.66		585.2		5460779
+TECHM		3.3		1168.7		1517421
+SUNPHARMA		-0.05		1177.2		939988
+DRREDDY		0.19		5430.0		105598
 
 Bullish_Hammer_15m_N500								 
 ======================= 
