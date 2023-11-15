@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-RELIANCE,1.53,2350.0,3802654
-WIPRO,2.19,390.0,3414385
-SUNPHARMA,-0.03,1177.4,1130028
-LT,0.51,3063.9,718860
+RELIANCE,1.53,2349.95,3807690
+WIPRO,2.2,390.05,3437821
+SUNPHARMA,-0.07,1176.95,1135474
+LT,0.52,3064.35,720566
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+MTARTECH,0.64,2222,150283
