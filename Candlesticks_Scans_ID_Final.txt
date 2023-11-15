@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUPREMEIND		-2.26		4174.75		24422
+JYOTHYLAB		0.5		436.45		164846
+BAJFINANCE		1.0		7434.5		130813
+METROPOLIS		-0.07		1608.2		17018
+MASTEK		1.19		2231.15		5498
