@@ -1,10 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HINDALCO		1.95		497.0		88105
-ONGC		1.38		198.5		55336
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AXISBANK		0.96		1035.2		503847
+TRENT		0.39		2569.15		20381
+PVRINOX		1.1		1655.7		17247
+INDIGO		0.5		2553.5		9245
+FDC		-0.1		385.75		4548
+BALAMINES		0.75		2047.0		1505
+ALKYLAMINE		0.85		2149.3		1260
+SHREECEM		0.63		26360.3		292
