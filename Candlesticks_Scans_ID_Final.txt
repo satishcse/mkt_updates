@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.35		253.1		20206869
-SUNPHARMA		1.14		1194.4		1828416
+NTPC		2.24		252.85		20338381
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SKFINDIA		0		4642.95		11973
+
