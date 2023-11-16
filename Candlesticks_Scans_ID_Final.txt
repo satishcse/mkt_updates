@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.15		585.6		3155856
-UPL		-0.48		559.1		1023458
-DRREDDY		1.14		5481.75		140757
-APOLLOHOSP		1.11		5282.85		134470
-BRITANNIA		0.34		4726.75		63134
+SBIN		0.21		585.9		3161695
+UPL		-0.45		559.25		1025285
+DRREDDY		1.13		5481.0		140869
+APOLLOHOSP		1.11		5283.1		134785
+BRITANNIA		0.31		4725.6		63297
 
 Bullish_Hammer_15m_N500								 
 ======================= 
