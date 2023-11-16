@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.25		202.0		14052010
-ICICIBANK		-0.32		938.05		11613988
-GRASIM		-0.45		1935.2		529844
+ICICIBANK		-0.31		938.2		11662692
+GRASIM		-0.43		1935.6		530675
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AARTIDRUGS		-0.3		475.8		98748
+QUESS		0.45		502.4		504296
+SUPREMEIND		-2.24		4058.65		125408
+AARTIDRUGS		-0.3		475.8		99015
 3MINDIA		-0.23		31076.4		1518
