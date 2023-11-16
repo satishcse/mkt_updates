@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.39		253.2		20031317
+NTPC		2.3		253		20095881
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SKFINDIA		0.02		4643.55		11854
+SKFINDIA		0.02		4643.55		11869
