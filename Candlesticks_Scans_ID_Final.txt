@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.16		585.65		4333917
-RELIANCE		0.44		2366.75		2792888
-HCLTECH		2.36		1306.75		2677803
-TATACONSUM		-0.68		923.3		863124
-CIPLA		-0.07		1240.9		672696
+SBIN		0.15		585.55		4342340
+RELIANCE		0.44		2366.9		2797791
+TATACONSUM		-0.66		923.5		863768
 
 Bullish_Hammer_15m_N500								 
 ======================= 
