@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.24		351.45		6688823
+COALINDIA		0.21		351.35		6699051
+WIPRO		0.14		392.2		1323427
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FORTIS		-0.1		358.75		352504
-FLUOROCHEM		-0.28		2801.0		17371
+FORTIS		-0.06		358.9		352806
+FLUOROCHEM		-0.28		2801.0		17372
