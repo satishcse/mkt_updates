@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.28		207.45		13810915
-APOLLOHOSP		1.17		5286.0		130837
-BRITANNIA		0.39		4729.0		60709
+RELIANCE		0.51		2368.5		2175781
+DRREDDY		1.27		5488.9		139076
+APOLLOHOSP		1.19		5287.05		132060
+BRITANNIA		0.36		4727.55		61234
 
 Bullish_Hammer_15m_N500								 
 ======================= 
