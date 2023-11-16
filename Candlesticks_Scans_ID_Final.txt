@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-0.31		1938.0		344315
-ULTRACEMCO		0.39		8801.05		99099
-BRITANNIA		0.11		4716.0		56930
+GRASIM		-0.33		1937.55		344865
+ULTRACEMCO		0.38		8800.05		99420
+BRITANNIA		0.16		4718.1		57092
 
 Bullish_Hammer_15m_N500								 
 ======================= 
