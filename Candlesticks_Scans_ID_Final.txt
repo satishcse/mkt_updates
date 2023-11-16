@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.47		503.0		2489814
-INDUSINDBK		0.35		1499.2		1346004
-HDFCLIFE		0.43		638.9		1038267
+ICICIBANK		-0.26		938.65		11377762
+HINDALCO		-0.51		502.8		2504173
+INDUSINDBK		0.36		1499.35		1348254
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BIRLACORPN		-0.06		1274		14999
