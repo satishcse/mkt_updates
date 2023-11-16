@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-0.33		1937.5		399592
+POWERGRID		-1.28		207.45		13810915
+APOLLOHOSP		1.17		5286.0		130837
+BRITANNIA		0.39		4729.0		60709
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TRENT		-1.86		2505.7		420426
-PNBHOUSING		-0.28		788.45		154570
-SYMPHONY		-0.23		877.1		13821
+
