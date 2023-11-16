@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.17		585.7		3170288
-UPL		-0.44		559.35		1026772
-DRREDDY		1.18		5483.8		140964
-BRITANNIA		0.33		4726.2		63328
+TATASTEEL		0.77		125.0		16940678
+ADANIENT		-0.1		2223.25		824748
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-3MINDIA		0.17		31201.6		944
+
