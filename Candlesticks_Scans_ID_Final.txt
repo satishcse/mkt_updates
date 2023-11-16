@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.69		124.9		18315913
-NTPC		1.54		251.1		15031493
-RELIANCE		0.51		2368.5		2312493
-UPL		-0.39		559.6		1058984
-ADANIENT		-0.27		2219.5		841603
+NTPC		1.52		251.05		15077804
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAYERCROP		-1.62		5470		9445
+
