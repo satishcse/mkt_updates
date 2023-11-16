@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.52		123.4		4224950
+TATASTEEL		-0.56		123.35		4277003
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+DCMSHRIRAM		0.12		903.7		11179
 ROUTE		-0.17		1557.75		9416
-GODFRYPHLP		0.11		2097.05		6375
-KIMS		-0.32		1889.35		5902
-GRINFRA		0.28		1102.95		2133
+GODFRYPHLP		0.1		2096.75		6446
+GRINFRA		0.29		1103.05		2157
