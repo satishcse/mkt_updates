@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-0.32		1937.65		375772
+GRASIM		-0.41		1936		376651
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAYNES		0.22		2452.0		45428
-SANOFI		-0.3		7773.3		2727
+TRENT		-1.82		2506.7		407232
+KAYNES		0.22		2452.0		45522
