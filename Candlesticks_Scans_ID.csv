@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.52,124.7,20652362
-POWERGRID,-1.24,207.55,18221267
-BPCL,1.81,399.65,5653981
-WIPRO,1.56,397.75,4953345
+TATASTEEL,0.48,124.65,20671793
+POWERGRID,-1.26,207.5,18258131
+BPCL,1.77,399.5,5657446
+WIPRO,1.52,397.6,4961322
+HDFCLIFE,0.46,639.1,1080426
+GRASIM,-0.41,1936.0,540911
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SANOFI,-1.18,7704.7,8467
