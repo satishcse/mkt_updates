@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		0		10456		153490
+TATASTEEL		0.69		124.9		13235540
+MARUTI		-0.02		10453.7		154275
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SYMPHONY		-0.05		878.65		12535
