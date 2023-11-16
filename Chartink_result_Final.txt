@@ -2,9 +2,8 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-LTIM		2.02		5510.65		458197
-NTPC		1.86		251.9		21930353
-TATASTEEL		0.32		124.45		30395671
+LTIM		2.19		5519.9		460248
+NTPC		1.84		251.85		22004665
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -13,15 +12,19 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-BOSCHLTD		4.45		20600.0		71825
-HCLTECH		2.59		1309.75		3880297
-MUTHOOTFIN		1.52		1325.0		376149
-MRF		0.79		110248.65		5468
-MARUTI		0.12		10468.7		479632
+BOSCHLTD		4.38		20587.1		72133
+HCLTECH		2.66		1310.55		3901378
+MUTHOOTFIN		1.52		1324.95		384226
+MRF		0.81		110260.25		5499
+MARUTI		0.17		10473.75		482726
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+IBULHSGFIN		4.02		187.55		14128982
+GLENMARK		2.58		770.45		2420361
+CANFINHOME		-0.57		748.0		171711
+NIFTY		0.38		19749.95		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -30,14 +33,14 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-0.78		2038.65		332367
-LICHSGFIN		-0.9		461.95		1354114
-TATACONSUM		-0.93		921.0		1284835
+TORNTPHARM		-0.73		2039.6		336341
+TATACONSUM		-0.87		921.5		1290915
+LICHSGFIN		-0.92		461.85		1355785
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-GLENMARK		2.49		769.75		2376808
-HDFCAMC		1.4		2808.7		240215
-ESCORTS		1.2		3176.4		229119
-SYNGENE		0.03		719.25		327588
+GLENMARK		2.58		770.45		2420361
+HDFCAMC		1.37		2808.0		241474
+ESCORTS		1.16		3175.4		229466
+SYNGENE		-0.04		718.7		329901
