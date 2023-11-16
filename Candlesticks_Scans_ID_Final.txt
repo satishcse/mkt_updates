@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.4		2216.4		1092282
-DRREDDY		2.68		5565.0		259940
+ADANIENT		-0.36		2217.5		1093673
+DRREDDY		2.75		5568.8		260130
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FIVESTAR		-0.89		800.25		116926
-GRINDWELL		-0.83		2105.05		14330
+GRINDWELL		-0.84		2104.9		14342
+BAYERCROP		-1.79		5460.3		13262
