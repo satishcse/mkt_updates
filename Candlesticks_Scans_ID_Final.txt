@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.3		2218.75		1095795
-DRREDDY		2.76		5569.65		260764
+KOTAKBANK		0.66		1781.15		1247897
+ADANIENT		-0.35		2217.7		1098680
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GRINDWELL		-0.81		2105.5		14473
-BAYERCROP		-1.75		5462.9		13277
+
