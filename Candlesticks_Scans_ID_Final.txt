@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		2.56		124.1		38314382
-ADANIPORTS		0.14		811.0		1694289
+TATASTEEL		-0.52		123.4		4224950
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRINCEPIPE		-1.97		693.05		254721
-AFFLE		0.71		1026.0		190120
-TATAINVEST		0.69		3245.0		112330
-RAINBOW		0.22		1019.25		95422
-GODFRYPHLP		0.41		2095.0		49218
-BAYERCROP		1.11		5550.0		35380
+ROUTE		-0.17		1557.75		9416
+GODFRYPHLP		0.11		2097.05		6375
+KIMS		-0.32		1889.35		5902
+GRINFRA		0.28		1102.95		2133
