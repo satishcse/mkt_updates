@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BPCL		1.68		399.15		3961611
+ADANIPORTS		0.39		813.9		625552
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MANYAVAR		-1.71		1324.85		9500
+
