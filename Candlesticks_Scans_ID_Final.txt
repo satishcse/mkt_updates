@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.36		559.75		1001799
-GRASIM		-0.29		1938.3		409258
-DRREDDY		1.21		5485.6		139589
-APOLLOHOSP		1.11		5283.05		132633
-BRITANNIA		0.32		4725.65		62295
+UPL		-0.4		559.55		1007727
+GRASIM		-0.25		1939.0		409828
+DRREDDY		1.14		5482.0		139676
+APOLLOHOSP		1.11		5283.15		132812
+BRITANNIA		0.37		4728.05		62407
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HOMEFIRST		-0.2		963.85		75095
+
