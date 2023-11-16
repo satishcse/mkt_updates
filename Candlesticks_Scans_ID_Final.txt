@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.59		2500.95		534438
-ULTRACEMCO		0.21		8785.2		87203
+HINDUNILVR		0.55		2500.0		535991
+ULTRACEMCO		0.22		8786.25		87392
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDRMFAST		-0.25		1244.55		9443
+SUNDRMFAST		-0.28		1244.15		9577
