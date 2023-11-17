@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.98		394.75		6785008
+ADANIPORTS		-0.2		812.0		1993083
+BAJAJ-AUTO		1.55		5636.75		442294
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-2.39		1987.0		612680
-PVRINOX		-0.56		1651.5		97632
-POWERINDIA		-0.08		4573.5		9263
+SHOPERSTOP		-1.46		661.25		40381
+ATUL		-0.11		6701.65		15421
+POWERINDIA		-0.09		4573.0		9268
