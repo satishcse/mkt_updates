@@ -2,13 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-3.67		563.2		32053301
-ITC		0.18		439.45		4729474
-TATACONSUM		1.05		929.7		697205
-BAJAJ-AUTO		1.41		5628.95		486141
-NIFTY		-0.16		19734.2		0
+SBIN		-3.63		563.45		32138595
+ITC		0.16		439.35		4760775
+TATACONSUM		1.06		929.8		698047
+BAJAJ-AUTO		1.46		5631.95		486563
+DIVISLAB		1.55		3603.35		244381
+NIFTY		-0.14		19737.8		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CREDITACC		-4.32		1600.9		268616
+CREDITACC		-4.08		1604.85		269276
+POLYPLEX		-1.19		1035.95		44083
+SHREECEM		-0.18		26128.45		14181
+3MINDIA		-0.85		30445.0		1594
