@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.02		394.6		6848514
-M&M		1.26		1589.2		1439214
-LT		0.89		3078.35		688640
-TITAN		0.17		3341.7		424233
-DIVISLAB		1.37		3596.75		205775
+BPCL		-1.0		394.65		6849873
+M&M		1.25		1589.05		1442647
+LT		0.88		3077.9		690923
+TITAN		0.15		3340.8		425414
+DIVISLAB		1.32		3595.0		206029
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHOPERSTOP		-1.65		659.95		42993
