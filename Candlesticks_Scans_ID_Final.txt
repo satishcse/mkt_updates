@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.68		208.6		6498442
+POWERGRID		0.56		208.35		6525665
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-EIHOTEL		-0.5		230.9		430682
-PATANJALI		-0.53		1423.0		57439
+
