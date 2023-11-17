@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.22		345.05		6799263
-HINDALCO		-0.69		500.8		1662251
-KOTAKBANK		-0.2		1769.3		1413389
+COALINDIA		-0.22		345.05		6836913
+HINDALCO		-0.66		500.95		1663605
+KOTAKBANK		-0.2		1769.3		1417695
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-3MINDIA		0.16		30754		933
+3MINDIA		0.16		30754		936
