@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.94		3079.8		664399
+ADANIPORTS		-0.2		812		2027464
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		-0.06		4574.4		9324
+SHOPERSTOP		-1.42		661.55		40917
+POWERINDIA		-0.04		4575.0		9336
