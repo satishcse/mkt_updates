@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.58		1196.45		208877
+SUNPHARMA		0.55		1196.1		209653
+NESTLEIND		1.47		24436.8		15345
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AXISBANK		-2.77		997.95		5608452
-IIFL		-3.75		618.2		146188
-RAYMOND		0.28		1807.65		21935
+AXISBANK		-2.81		997.55		5624881
+ROUTE		0.27		1562.25		22645
 GODFRYPHLP		0.06		2088.6		8007
+LUXIND		0.18		1402.75		7791
 CRISIL		-0.25		4208.0		3873
-KSB		-0.33		3176.95		3566
