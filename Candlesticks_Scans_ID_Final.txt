@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.32		1440.3		775345
+UPL		0		560.85		286847
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RAJESHEXPO		-2.89		381.3		797680
-SHYAMMETL		-0.04		464.0		64134
-CEATLTD		0.47		2128.95		41883
-MANYAVAR		-0.62		1320.0		6042
+
