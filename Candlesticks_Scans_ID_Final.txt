@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.38		1194.05		795987
+SUNPHARMA		0.45		1194.95		812396
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SOBHA		-1.71		876.0		551089
+MOTILALOFS		-1.54		1216.95		373426
+MTARTECH		0.19		2225.0		133463
