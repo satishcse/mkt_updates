@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-2.97		195.8		9850543
-BPCL		-1.24		393.7		6908074
-ADANIPORTS		-0.27		811.4		2156472
-M&M		1.02		1585.55		1487371
-LT		0.95		3080.0		723590
-TITAN		0.02		3336.7		440523
+ADANIPORTS		-0.23		811.7		2167526
+BHARTIARTL		0.03		949.8		1766077
 
 Bullish_Hammer_15m_N500								 
 ======================= 
