@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		2.25		3353.95		617400
-TATACONSUM		0.87		928.05		289322
+HEROMOTOCO		2.16		3351.0		620341
+TATACONSUM		0.92		928.55		289687
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KSB		-0.35		3176.1		5175
+KSB		-0.21		3180.7		5203
