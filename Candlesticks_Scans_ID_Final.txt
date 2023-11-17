@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.23		811.7		2167526
-BHARTIARTL		0.03		949.8		1766077
+BHARTIARTL		0.05		950		1773462
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASTERDM		-0.25		335.25		75567
