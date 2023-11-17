@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-0.49		2957.4		565429
-ZENSARTECH		0.01		515.3		305789
-AAVAS		-2.38		1453.55		92150
-CERA		-1.11		8741.55		3773
+CDSL		0.44		1792.15		738145
+FACT		-0.51		726.85		370809
+SOBHA		-0.84		883.7		331341
+AAVAS		-2.37		1453.6		92248
+CERA		-1.05		8746.75		3776
