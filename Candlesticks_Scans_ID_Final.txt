@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.09		209.45		8218618
-ADANIENT		0.15		2209.1		513746
+POWERGRID		1.11		209.5		8245531
+ADANIENT		0.19		2210.0		514589
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZENSARTECH		-0.24		514.0		347031
 JBCHEPHARM		-0.9		1489.0		16727
 BAYERCROP		-1.2		5399.85		4678
