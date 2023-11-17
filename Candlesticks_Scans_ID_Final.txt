@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		2.21		3352.7		621326
+WIPRO		0.05		397.3		1521925
+HEROMOTOCO		2.15		3350.5		622454
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BBTC		-1.79		1463.0		261561
-AARTIDRUGS		0.0		473.65		71388
+APLAPOLLO		-0.41		1678.5		413775
+BBTC		-1.82		1462.65		261676
+METROBRAND		-0.71		1266.0		14908
