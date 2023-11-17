@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,1.16,209.6,8015113
-NTPC,-0.42,251.3,2487975
-ADANIENT,0.34,2213.5,497035
-LT,0.55,3067.9,369004
+POWERGRID,1.11,209.5,8038793
+NTPC,-0.44,251.25,2491822
+ADANIENT,0.28,2212.15,498767
+LT,0.51,3066.65,371316
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BAYERCROP,-1.26,5396.9,4609
