@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.0		252.35		1413923
-DIVISLAB		1.37		3597.0		88490
+SUNPHARMA		0.61		1196.85		195815
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CHOLAHLDNG		-2.53		1076.85		26919
+
