@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-3.62		563.5		30974191
-ITC		0.25		439.75		4512699
-TATACONSUM		1.08		930.0		680135
-TITAN		-0.1		3332.6		497223
-NIFTY		-0.09		19746.7		0
+SBIN		-3.61		563.55		31122295
+ITC		0.13		439.2		4553129
+TATACONSUM		1.05		929.75		685954
+BAJAJ-AUTO		1.58		5638.8		481256
+NIFTY		-0.13		19738.95		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
