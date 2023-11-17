@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
-
+nsecode,per_chg,close,volume
+POWERGRID,0.84,208.95,5888012
+INFY,-0.26,1441.2,1144300
+WIPRO,0.16,397.75,1136899
+TECHM,0.03,1207.55,351080
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-nsecode,per_chg,close,volume
-AFFLE,0.7,1032.65,38529
-BALAMINES,-0.04,2034.55,11051
-EPIGRAL,0.19,914.45,9139
+
