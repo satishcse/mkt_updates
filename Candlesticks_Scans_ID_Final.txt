@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.45		1194.95		845281
-BAJAJ-AUTO		1.48		5632.85		526510
+HINDALCO		-1.27		497.9		3562669
+SUNPHARMA		0.4		1194.3		869694
+BAJAJ-AUTO		1.49		5633.55		529386
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HCLTECH		-0.18		1308.7		2822669
-LATENTVIEW		-0.24		412.2		472409
+ANGELONE		-1.96		2913.7		952736
+LATENTVIEW		-0.29		412.0		479252
+ADANIENSOL		-0.83		741.0		314031
+DEEPAKFERT		-0.53		612.25		202628
+WHIRLPOOL		-1.06		1593.05		19346
