@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOBHA		-0.78		884.25		329144
+CDSL		0.31		1789.9		732121
+SOBHA		-0.81		884.0		329386
