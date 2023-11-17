@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.68		208.6		6347987
-WIPRO		0.15		397.7		1177739
+POWERGRID		0.63		208.5		6361476
+WIPRO		0.18		397.8		1183191
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PATANJALI		-0.58		1422.25		52563
