@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.05		769.5		1301759
-CIPLA		1.16		1249.15		795036
+JSWSTEEL		0.06		769.6		1307439
+CIPLA		1.13		1248.75		800024
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HCLTECH		0.02		1311.35		2347241
-MAXHEALTH		-1.18		608.15		1020433
-ZFCVINDIA		-0.21		16260.9		1777
+MAXHEALTH		-1.17		608.2		1028976
+ZFCVINDIA		-0.24		16255.6		1778
