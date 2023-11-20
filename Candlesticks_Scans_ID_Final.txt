@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.33		3514.1		1347096
+TCS		0.33		3514		1349490
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KSB		-0.12		3277.0		35509
-FINEORG		-0.61		4255.55		15355
-GALAXYSURF		-1.92		2783.2		9330
+JINDALSAW		-2.63		474.3		592771
+KSB		-0.13		3276.65		35535
+LUXIND		-1.22		1381.9		33598
