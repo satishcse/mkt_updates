@@ -2,15 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.2		400.15		4580749
-INDUSINDBK		0.48		1505.65		2141804
+WIPRO		1.19		400.1		4599140
+INDUSINDBK		0.5		1505.9		2159482
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RITES		-1.52		470.0		2135960
-DMART		-0.34		3798.0		253919
-BRIGADE		-1.09		731.7		222028
-BATAINDIA		-0.72		1583.95		98081
-GODFRYPHLP		-0.19		2083.55		20248
-PGHH		-0.32		18368.65		15115
+
