@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.06		439		1904391
+ITC		-0.08		438.9		1906791
+DRREDDY		0.06		5615.0		161423
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-0.35		2277.6		170550
+PHOENIXLTD		-0.37		2277.2		171975
