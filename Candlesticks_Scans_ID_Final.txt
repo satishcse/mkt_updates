@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.05		1436.85		2292210
-BAJAJ-AUTO		0.15		5639.8		435716
+INFY		-0.05		1436.9		2301066
+BAJAJ-AUTO		0.13		5638.85		437479
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-0.12		919.45		269481
-EICHERMOT		-0.58		3843.0		198207
-BOSCHLTD		-0.49		20550.05		23073
+MGL		-1.21		1035.8		138111
+ENDURANCE		-0.09		1630.9		42842
+BOSCHLTD		-0.47		20555.0		23086
 ATUL		-1.25		6605.5		14295
+SHREECEM		-0.71		26015.0		12564
