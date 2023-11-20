@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.31		950.2		1992617
-HDFCLIFE		-0.25		650.2		1308507
+BHARTIARTL		0.31		950.2		1994570
+HDFCLIFE		-0.25		650.15		1310177
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-0.59		3704.45		74340
-CENTURYTEX		-0.28		1225.05		58074
-BOSCHLTD		0.14		20680.0		20589
+JINDALSAW		-1.5		479.8		399049
+PIIND		-0.58		3705.0		74422
