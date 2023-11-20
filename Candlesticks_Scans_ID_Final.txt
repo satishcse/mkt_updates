@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		-0.06		5608.4		388432
+TATACONSUM		0.36		934.2		959234
+DRREDDY		-0.04		5609.3		388841
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-0.99		3689.75		121780
-MANYAVAR		-1.52		1285.0		115012
-ATUL		-1.69		6576.0		18721
+BSE		-5.2		2285.95		2155367
+EICHERMOT		-0.84		3832.8		248964
+IPCALAB		-1.75		1062.1		233950
+PIIND		-1.03		3688.15		121850
+MANYAVAR		-1.5		1285.2		115156
+ATUL		-1.68		6577.0		18887
