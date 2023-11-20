@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.42		3517		1380141
+BAJFINANCE		-1.58		7107.2		1524096
+INDUSINDBK		0.43		1504.9		1384650
+TCS		0.4		3516.5		1381547
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SWSOLAR		0.35		302.7		634070
+
