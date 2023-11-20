@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.86		675.7		7157515
-RELIANCE		-0.49		2344.0		1631316
-UPL		0.05		562.05		729164
-JSWSTEEL		-0.36		766.05		474989
+TATAMOTORS		-0.87		675.6		7174445
+RELIANCE		-0.54		2342.85		1636675
+UPL		-0.02		561.65		731432
+JSWSTEEL		-0.36		766.0		477606
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PIIND		-0.66		3701.9		95766
+
