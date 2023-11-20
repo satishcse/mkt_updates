@@ -1,12 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BHARTIARTL		0.31		950.2		1933541
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOLARINDS		-5.61		6975.6		487042
-CEATLTD		-0.69		2098.65		87954
-CENTURYTEX		-0.27		1225.15		56152
-GALAXYSURF		-1.0		2809.3		4302
+SOLARINDS		-5.53		6981.95		489329
+CENTURYTEX		-0.29		1224.95		56316
+BIRLACORPN		-1.05		1299.4		56186
+GALAXYSURF		-1.01		2808.8		4310
