@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.56		124.5		18249464
-ONGC		0.66		197.65		6471723
-HINDALCO		0.12		498.35		4045332
-BHARTIARTL		1.55		962.0		3854031
-BAJFINANCE		-1.66		7101.1		1784104
+TATASTEEL		-0.52		124.55		18259091
+ONGC		0.66		197.65		6473289
+HINDALCO		0.15		498.5		4048810
+BHARTIARTL		1.57		962.2		3865540
+BAJFINANCE		-1.68		7100.0		1787668
+DRREDDY		-0.04		5609.1		396068
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FINEORG		-0.88		4244		18217
