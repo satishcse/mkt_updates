@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.12		1506.9		10290797
-M&M		-1.93		1554.0		2776288
-UPL		-0.92		556.6		1149158
+HDFCBANK		0.1		1506.55		10312256
+M&M		-1.9		1554.5		2784210
+UPL		-0.93		556.5		1150382
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		-0.63		2210.0		130276
+BALKRISIND		-5.32		2503.0		557049
 TEAMLEASE		0.49		2525.55		53004
-PFIZER		0.15		3991.9		7898
