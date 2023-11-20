@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.79		197.9		5498277
-BPCL		0.4		391.8		2334858
+KOTAKBANK		0.15		1767.2		1384641
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		0.03		301.75		629833
-LUXIND		-1.29		1380.95		34160
+RADICO		-1.13		1424		125352
+LUXIND		-1.29		1381		34170
