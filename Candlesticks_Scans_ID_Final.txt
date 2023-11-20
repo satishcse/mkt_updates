@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.33		3514		1349490
+TCS		0.31		3513.4		1353836
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDALSAW		-2.63		474.3		592771
-KSB		-0.13		3276.65		35535
-LUXIND		-1.22		1381.9		33598
+ASAHIINDIA		-1.28		560.5		38641
