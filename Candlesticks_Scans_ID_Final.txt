@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.54		2342.9		1618725
-UPL		0.04		562.0		727256
-JSWSTEEL		-0.22		767.1		463497
-BRITANNIA		-0.26		4705.8		76855
+RELIANCE		-0.48		2344.2		1621790
+UPL		0.04		562.0		727679
+JSWSTEEL		-0.27		766.75		467481
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LUXIND		-1.17		1382.7		31087
+LODHA		-1.64		855.25		1818727
