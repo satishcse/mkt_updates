@@ -2,12 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.32		437.85		3709195
-DRREDDY		0.03		5613.05		385040
+ITC		-0.32		437.85		3715310
+DRREDDY		0.04		5613.95		385297
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-1.51		906.65		426364
-PIIND		-1.04		3687.75		120734
-ATUL		-1.69		6576.0		18458
+TANLA		-1.48		906.95		427247
+EICHERMOT		-0.8		3834.5		247743
+PIIND		-1.03		3688.2		121089
+MANYAVAR		-1.56		1284.45		114154
+ATUL		-1.69		6576.0		18468
+GODFRYPHLP		-0.17		2084.0		16855
+PGHH		0.6		18538.35		13260
