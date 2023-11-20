@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.13		1503.15		5206029
-CIPLA		0.05		1250.05		666066
+HDFCBANK		-0.13		1503.1		5214196
+CIPLA		0.07		1250.3		667501
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BBTC		0.19		1486.75		192675
-ENDURANCE		0.46		1639.8		39603
+
