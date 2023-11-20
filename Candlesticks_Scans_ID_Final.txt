@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.4		437.5		3636839
-INFY		-0.06		1436.7		2986168
-M&M		-2.15		1550.5		2551427
-SBILIFE		-2.15		1383.6		719876
+ITC		-0.4		437.5		3646048
+INFY		0.0		1437.5		2994202
+M&M		-2.15		1550.5		2572906
+SBILIFE		-2.11		1384.05		720561
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-0.78		6806		11572
+LUXIND		-1.4		1379.4		37864
+BLUEDART		-0.78		6806.0		11572
