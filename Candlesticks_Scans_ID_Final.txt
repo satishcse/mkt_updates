@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.26		210.05		6407585
-HDFCBANK		-0.08		1503.95		5677452
-INFY		-0.05		1436.9		2282785
-BAJAJ-AUTO		0.1		5637.3		435076
+INFY		-0.04		1436.95		2287721
+BAJAJ-AUTO		0.12		5638.25		435361
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-0.11		919.55		269313
-EICHERMOT		-0.66		3839.9		197905
-ORIENTELEC		-1.36		217.3		65577
-BOSCHLTD		-0.49		20550.05		23056
+BALKRISIND		-4.38		2527.95		357009
+EICHERMOT		-0.58		3843.0		198066
+BOSCHLTD		-0.49		20550.05		23070
