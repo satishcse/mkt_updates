@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.43		210.4		5581340
+POWERGRID		0.48		210.5		5587802
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BRIGADE		-0.14		738.8		144627
-GOCOLORS		-0.19		1229.05		7380
+GODREJCP		0.07		997.6		152549
+BRIGADE		-0.11		738.95		145810
+GOCOLORS		-0.24		1228.45		7482
