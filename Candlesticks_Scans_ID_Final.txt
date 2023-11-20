@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-1.02		2503		555818
+HINDUNILVR		-1.06		2502		557293
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.7		24202.85		31831
-CRISIL		-0.06		4232.35		9279
+CRISIL		-0.06		4232.35		9280
