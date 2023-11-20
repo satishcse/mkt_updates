@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.15		1767.2		1384641
+NTPC		0.12		251.9		6020774
+MARUTI		0.3		10554.95		186209
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RADICO		-1.13		1424		125352
-LUXIND		-1.29		1381		34170
+SWSOLAR		0.23		302.35		631765
+LUXIND		-1.29		1381.0		34170
