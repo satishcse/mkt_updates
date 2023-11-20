@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.31		437.9		3672734
+ITC		-0.35		437.7		3686383
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATUL		-1.71		6575.05		18319
-FINEORG		-0.78		4248.45		17574
+PIIND		-1.14		3684		120195
