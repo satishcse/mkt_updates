@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.53		1506.35		2097597
+INDUSINDBK		0.47		1505.55		2118490
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RITES		-1.51		470.05		2127386
-MGL		-1.35		1034.25		175458
-BATAINDIA		-0.88		1581.4		97044
+RITES		-1.55		469.85		2128328
+ASTRAL		-0.93		1893.55		355048
+TATAELXSI		-0.37		8276.15		119119
+BATAINDIA		-0.88		1581.5		97124
+PGHH		-0.25		18381.0		14956
