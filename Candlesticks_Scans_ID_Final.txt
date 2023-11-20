@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-2.32		1547.85		2235363
+M&M		-2.31		1547.95		2236625
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BBTC		0.17		1486.45		226905
-SUNDARMFIN		-2.78		3191.1		10808
+APOLLOHOSP		-0.02		5478.0		618436
+BBTC		0.17		1486.5		226976
+SRF		-1.41		2328.0		92689
+SUNDARMFIN		-2.72		3193.0		10809
