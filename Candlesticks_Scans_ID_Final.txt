@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		0.12		251.9		6020774
-MARUTI		0.3		10554.95		186209
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		0.23		302.35		631765
-LUXIND		-1.29		1381.0		34170
+BSE		-5.11		2288.05		1715864
+SWSOLAR		0.12		302.0		630487
+LUXIND		-1.29		1381.0		34270
