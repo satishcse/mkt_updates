@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.6		210.75		5064091
-ICICIBANK		0.3		924.65		3519451
-INFY		0.41		1443.45		1808214
-RELIANCE		-0.44		2345.3		1257324
-TECHM		1.11		1216.05		735056
+POWERGRID		0.57		210.7		5080746
+ICICIBANK		0.3		924.65		3533768
+INFY		0.38		1443.05		1811313
+RELIANCE		-0.46		2344.8		1261180
+TECHM		1.13		1216.35		736907
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SBILIFE		-0.63		1405.0		395987
-AJANTPHARM		0.6		1932.9		28412
+SBILIFE		-0.63		1405		397184
