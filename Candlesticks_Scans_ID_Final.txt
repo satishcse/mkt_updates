@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.23		924.0		3423681
-INFY		0.4		1443.35		1788004
-RELIANCE		-0.41		2346.0		1243427
-TECHM		1.04		1215.25		726792
+ICICIBANK		0.23		924.0		3453692
+INFY		0.4		1443.3		1798592
+RELIANCE		-0.41		2345.9		1246333
+TECHM		1.11		1216.15		727724
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AJANTPHARM		0.46		1930.3		28273
