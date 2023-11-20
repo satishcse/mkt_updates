@@ -5,10 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIENT		-0.8		2191.2		508717
-SHRIRAMFIN		-0.47		1985.5		162679
-MCDOWELL-N		0.34		1060.0		141681
-GRASIM		-0.33		1964.0		41595
-GRINDWELL		0.07		2117.8		39475
-FIVESTAR		-0.13		803.8		37732
+
