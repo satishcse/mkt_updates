@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		-5.55		2496.9		650737
-LUXIND		-1.84		1373.2		44276
-BLUEDART		-1.04		6788.0		12755
+BALKRISIND		-5.5		2498.2		655107
+LUXIND		-1.83		1373.4		44737
+BALAMINES		-0.79		2030.0		38248
+BLUEDART		-1.07		6786.0		12820
+HONAUT		-0.77		36927.5		1655
