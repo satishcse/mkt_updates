@@ -1,13 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TCS		0.42		3517.1		1337003
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MCX		-0.34		2861.65		869432
-DIXON		0.43		5450.0		535714
-EICHERMOT		-0.76		3836.0		213789
-CENTURYPLY		-0.09		636.7		107702
+
