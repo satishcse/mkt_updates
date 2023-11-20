@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.35		437.7		3686383
+ITC		-0.33		437.8		3693575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-1.14		3684		120195
+BALKRISIND		-5.11		2508.65		474089
+PIIND		-1.17		3682.9		120386
