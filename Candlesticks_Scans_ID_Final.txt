@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TCS		0.42		3517.05		1374833
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		0.3		302.55		632326
-BBTC		-0.28		1479.9		233401
-LUXIND		-1.16		1382.8		34444
+SWSOLAR		0.36		302.75		633799
