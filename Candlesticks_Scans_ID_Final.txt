@@ -1,13 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCBANK		-0.11		1503.5		5345141
-CIPLA		-0.22		1246.65		686222
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SWSOLAR		0.35		302.7		502922
-DIXON		0.86		5473.45		485796
-BALAMINES		-0.64		2032.95		13157
+
