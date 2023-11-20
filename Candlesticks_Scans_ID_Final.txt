@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.59		1507.3		2056145
+ONGC		0.71		197.75		7121049
+INDUSINDBK		0.54		1506.5		2073076
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LUXIND		-1.43		1378.95		41443
+LUXIND		-1.44		1378.85		41483
