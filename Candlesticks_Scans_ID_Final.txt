@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.45		210.45		5476787
+POWERGRID		0.5		210.55		5487244
+SUNPHARMA		0.06		1195.35		282726
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TVSMOTOR		-1.02		1729.75		862791
+CDSL		-1.79		1747.25		619515
+SBILIFE		-0.99		1399.9		428664
