@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-1.9		1554.45		2770829
-UPL		-0.87		556.85		1141201
+M&M		-1.88		1554.7		2773797
+UPL		-0.86		556.9		1145714
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEAMLEASE		0.46		2524.8		52954
+TEAMLEASE		0.6		2528.25		52975
