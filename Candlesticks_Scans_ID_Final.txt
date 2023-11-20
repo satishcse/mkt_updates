@@ -5,4 +5,6 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MCX		-0.09		2868.65		864669
+GALAXYSURF		-2.1		2777.95		9291
