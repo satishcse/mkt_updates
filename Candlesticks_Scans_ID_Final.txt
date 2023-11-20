@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.34		437.75		3593701
-INFY		-0.02		1437.2		2929481
-M&M		-2.11		1551.15		2532996
-SBILIFE		-2.0		1385.7		711517
-HEROMOTOCO		0.1		3338.0		586241
+ITC		-0.36		437.65		3596116
+INFY		-0.07		1436.55		2936389
+M&M		-2.13		1550.75		2537978
+SBILIFE		-2.01		1385.5		712324
+HEROMOTOCO		0.04		3336.05		587281
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+WHIRLPOOL		-0.83		1575.8		13917
