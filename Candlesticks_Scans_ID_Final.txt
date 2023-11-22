@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.36		211.8		2897978
-KOTAKBANK		-0.6		1756.55		1168247
-INFY		0.25		1442.65		366228
+KOTAKBANK		-0.65		1755.75		1187100
+INDUSINDBK		-0.28		1497.85		585664
+TITAN		0.83		3422.75		244475
+BAJFINANCE		-0.02		7101.9		180722
 
 Bullish_Hammer_15m_N500								 
 ======================= 
