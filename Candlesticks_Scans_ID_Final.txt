@@ -2,14 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.4		125.75		9944233
-HDFCLIFE		0.04		668.2		1870139
-BAJFINANCE		0.25		7121.0		790975
-DRREDDY		0.73		5687.9		262987
-NIFTY		-0.23		19737.35		0
+SUNPHARMA		0.23		1204.15		837870
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KEI		-4.53		2831.0		339853
-ZYDUSWELL		-0.09		1564.25		22919
+
