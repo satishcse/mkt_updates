@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.51		504.25		1480748
+SBIN		0.15		562.35		3805394
+ONGC		-0.31		190.6		3393831
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEJASNET		-0.73		818.3		86944
+AMBER		-0.76		3267.8		35391
