@@ -6,6 +6,10 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINDWELL		-1.02		2102.05		1478
-CERA		-0.51		8488.65		1072
-3MINDIA		-0.29		30868.35		79
+AWL		-1.27		315.75		563908
+OLECTRA		-0.47		1262.75		192832
+VAIBHAVGBL		1.18		432.5		182901
+BEML		-0.89		2417.0		94881
+CUMMINSIND		-0.68		1858.65		79557
+INDIGO		0.25		2632.35		65665
+GRINDWELL		-0.98		2102.9		1537
