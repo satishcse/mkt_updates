@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.32		126.65		5873661
-JSWSTEEL		-0.21		774.2		189138
-DRREDDY		1.19		5713.45		161772
+TATASTEEL		0.32		126.65		5898290
+JSWSTEEL		-0.19		774.3		189554
+DRREDDY		1.28		5718.75		162328
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODFRYPHLP		0.14		2069.5		6773
+CREDITACC		-1.9		1699.95		114094
+HEG		-0.05		1587.95		24752
+GODFRYPHLP		0.17		2070.0		6804
