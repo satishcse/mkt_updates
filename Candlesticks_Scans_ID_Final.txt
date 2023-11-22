@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.48		125.65		10672371
-ICICIBANK		-0.96		917.2		5980765
-INFY		0.33		1443.75		1530610
-ADANIENT		-1.75		2158.3		856492
+TATASTEEL		-0.48		125.65		10709138
+ICICIBANK		-0.96		917.25		6003471
+ITC		0.23		437.25		2577779
+BHARTIARTL		-0.21		968.8		2168044
+INFY		0.32		1443.65		1538848
+ADANIENT		-1.71		2159.0		857478
 
 Bullish_Hammer_15m_N500								 
 ======================= 
