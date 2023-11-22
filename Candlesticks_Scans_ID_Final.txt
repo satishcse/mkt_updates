@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.36		670.3		1680619
-ADANIENT		-1.27		2168.7		667097
-EICHERMOT		-0.34		3831.1		109542
+HDFCLIFE		0.38		670.45		1681388
+ADANIENT		-1.32		2167.55		667537
+EICHERMOT		-0.34		3830.95		109896
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KIMS		0.47		1944.6		35455
-MRF		-0.32		111080.7		1044
+EIDPARRY		-1.57		484.5		234171
+KIMS		0.57		1946.65		35477
