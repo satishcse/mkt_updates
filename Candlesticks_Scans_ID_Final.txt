@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.76		2179.95		446061
+BHARTIARTL		0.32		973.95		669048
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JSL		-3.19		515.75		590490
