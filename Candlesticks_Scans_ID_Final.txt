@@ -1,13 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		1.32		211.7		12008720
-HDFCLIFE		0.08		668.45		2431739
-M&M		-1.05		1543.4		1127652
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TORNTPOWER		-2.99		796.5		229157
-FLUOROCHEM		0.29		2790.0		62244
+
