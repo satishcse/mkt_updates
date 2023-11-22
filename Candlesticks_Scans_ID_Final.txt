@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.27		211.6		9641131
-TITAN		0.83		3422.7		719798
-BAJAJFINSV		0.56		1619.35		391798
+INDUSINDBK		-2.22		1468.65		2332936
+TITAN		0.83		3422.7		720485
+BAJAJFINSV		0.56		1619.4		392690
 
 Bullish_Hammer_15m_N500								 
 ======================= 
