@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.02		7101.7		187058
+BAJFINANCE		-0.02		7101.45		187963
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-0.84		2178.25		435020
-NH		-3.34		1218.2		314853
-JBMA		-2.87		1272.0		25166
-METROBRAND		-0.82		1353.9		20017
+ADANIENT		-0.84		2178.3		435931
+NH		-3.35		1218.1		317799
+CUMMINSIND		-0.91		1854.2		99778
+JBMA		-2.87		1272.0		25174
