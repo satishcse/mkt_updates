@@ -1,19 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		0.69		210.4		1160110
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		-2.25		1471.85		1069899
-MFSL		0.45		983.65		118501
-SAREGAMA		0.24		369.9		43278
-COLPAL		-0.2		2174.1		34715
-SUPREMEIND		-0.73		4094.4		26490
-ASTERDM		0.22		338.6		26291
-HDFCAMC		0.22		2885.1		16505
-JKLAKSHMI		0.15		806.15		12057
-CRAFTSMAN		2.05		5221.4		8830
-JBCHEPHARM		0.29		1501.7		1735
-BLUEDART		0.07		6769.8		256
+SIEMENS		-0.62		3566.75		8739
