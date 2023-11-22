@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		0.6		1620		365341
+BAJAJFINSV		0.6		1620		365950
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-0.71		1695.15		546866
-MGL		-1.4		1022.5		156275
-HDFCAMC		-1.35		2839.75		134665
-PIIND		-0.76		3652.05		96327
-SIEMENS		-1.39		3539.0		65400
-VINATIORGA		0.18		1724.95		9826
+TATACOMM		-0.74		1694.7		548441
+GPIL		-2.61		662.2		248969
+MGL		-1.39		1022.6		156342
+HDFCAMC		-1.37		2839.4		134998
+PIIND		-0.75		3652.3		96396
+SIEMENS		-1.42		3538.25		65492
+VINATIORGA		0.12		1723.8		9846
