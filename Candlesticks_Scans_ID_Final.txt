@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.39		211.85		5470276
-INDUSINDBK		-0.91		1488.4		1067443
-WIPRO		-0.04		400.5		963369
-SUNPHARMA		0.71		1209.95		486273
+POWERGRID		1.29		211.65		5498107
+UPL		0.93		568.3		1220174
+INDUSINDBK		-0.89		1488.7		1076409
+WIPRO		-0.19		399.9		1012928
+SUNPHARMA		0.69		1209.65		489034
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-0.6		1359.3		79961
-AJANTPHARM		-0.72		1954.9		35384
+PATANJALI		-0.63		1359.0		80175
+AJANTPHARM		-0.72		1954.9		35410
