@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		0		7102.85		193934
+BAJFINANCE		-0.03		7101		195270
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NH		-3.38		1217.7		322970
-JBMA		-1.98		1283.75		26020
-METROBRAND		-0.88		1353.15		20383
+JBMA		-1.98		1283.75		26064
+METROBRAND		-0.86		1353.35		20448
