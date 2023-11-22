@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.39		211.85		11129671
-HDFCLIFE		0.16		668.95		2317689
+POWERGRID		1.39		211.85		11171497
+HDFCLIFE		0.16		669.0		2319031
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POLYPLEX		-1.09		1018.9		51801
