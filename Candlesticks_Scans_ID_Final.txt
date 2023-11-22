@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.44		125.7		12122406
-POWERGRID		1.27		211.6		10193492
-SBILIFE		0.51		1430.95		586806
+POWERGRID		1.24		211.55		10201750
+SBILIFE		0.5		1430.7		587782
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+USHAMART		-2.19		326.6		877251
+LALPATHLAB		-1.39		2676.25		84388
