@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-KOTAKBANK,-0.65,1755.7,1188950
-INDUSINDBK,-0.25,1498.3,589749
-TITAN,0.75,3420.05,246371
-BAJFINANCE,-0.04,7100.6,182471
-SBILIFE,-0.15,1421.5,157214
+INDUSINDBK,-0.25,1498.25,597012
+TITAN,0.83,3422.7,253661
+BAJFINANCE,-0.01,7102.1,184848
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+NH,-3.55,1215.6,313794
