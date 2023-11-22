@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.66		1755.55		1135585
-WIPRO		0.15		401.25		469440
+KOTAKBANK		-0.65		1755.7		1141264
+WIPRO		0.19		401.4		480234
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		-1.58		2799.5		82447
-JKLAKSHMI		-0.44		801.4		28671
-BLUEDART		-0.52		6729.45		764
+HAL		-0.76		2128.0		226611
+APARINDS		-1.72		5690.8		31195
+MAPMYINDIA		-0.68		2211.9		20147
+BLUEDART		-0.53		6729.3		771
