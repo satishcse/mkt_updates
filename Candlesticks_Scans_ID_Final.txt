@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.44		125.7		10643862
-ICICIBANK		-0.94		917.35		5962832
-ADANIENT		-1.63		2160.9		852487
-HEROMOTOCO		0.99		3410.0		469028
+TATASTEEL		-0.44		125.7		10663689
+ICICIBANK		-0.96		917.25		5974919
+WIPRO		-0.16		400.0		1848322
+INFY		0.33		1443.7		1522138
+ADANIENT		-1.66		2160.15		852721
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ICICIGI		-1.42		1444		111348
+ICICIGI		-1.4		1444.2		111850
