@@ -1,10 +1,22 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		0.46		402.5		15316
-DRREDDY		0.15		5655.1		265
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HDFCBANK		0.01		1518.15		278512
+COCHINSHIP		-0.1		1091.85		32967
+BAJFINANCE		-0.2		7088.9		22901
+SUVENPHAR		2.02		612.15		17354
+BDL		0.46		1129.0		7756
+BAJAJ-AUTO		-0.13		5678.7		4459
+ALKEM		0.17		4496.0		3355
+DEEPAKNTR		0.05		2126.15		2592
+CRAFTSMAN		1.41		5188.75		1643
+CRISIL		0.17		4253.7		345
+INGERRAND		-1.19		2909.7		341
+SKFINDIA		0.48		4689.95		128
+BOSCHLTD		0.06		20730.0		84
+BAYERCROP		0.25		5290.85		44
