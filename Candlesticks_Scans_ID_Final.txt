@@ -1,11 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		1.27		211.6		10044483
-ADANIPORTS		-1.44		789.85		2166062
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LATENTVIEW		-0.86		459.9		2299113
+
