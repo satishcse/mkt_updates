@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		2.89		399.2		9815460
-ADANIPORTS		-1.3		790.95		2287432
-SBILIFE		0.51		1430.95		598319
+POWERGRID		1.27		211.6		10470751
+CIPLA		1.48		1271.8		1515054
+TCS		0.31		3521.05		1397338
+M&M		-1.25		1540.3		923754
+SBILIFE		0.5		1430.8		598603
+BAJAJFINSV		0.58		1619.75		461255
 
 Bullish_Hammer_15m_N500								 
 ======================= 
