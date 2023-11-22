@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.44		125.7		10784125
-BHARTIARTL		-0.17		969.2		2186373
-INFY		0.36		1444.15		1565403
-TITAN		0.88		3424.3		699444
+BHARTIARTL		-0.19		969.0		2200539
+INFY		0.41		1444.95		1580213
+TITAN		0.86		3423.65		701130
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MOTILALOFS		-5.4		1135.0		312458
+CEATLTD		-1.21		2093.8		135249
