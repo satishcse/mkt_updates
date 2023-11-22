@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.44		125.7		9877731
-HDFCLIFE		0.05		668.25		1867750
-BAJFINANCE		0.18		7116.2		789666
-DRREDDY		0.65		5683.0		262374
-NIFTY		-0.27		19730.5		0
+TATASTEEL		-0.4		125.75		9944233
+HDFCLIFE		0.04		668.2		1870139
+BAJFINANCE		0.25		7121.0		790975
+DRREDDY		0.73		5687.9		262987
+NIFTY		-0.23		19737.35		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-4.82		2822.45		333148
-HOMEFIRST		-2.68		914.75		39489
-ZYDUSWELL		-0.09		1564.25		22917
+KEI		-4.53		2831.0		339853
+ZYDUSWELL		-0.09		1564.25		22919
