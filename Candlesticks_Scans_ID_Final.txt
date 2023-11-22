@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NESTLEIND		-0.24		24315.85		17404
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		-1.93		1476		48344
+GODREJPROP		-2.51		1843.45		236983
