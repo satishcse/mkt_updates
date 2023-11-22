@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIENT		-1.3		2168.05		700435
+BAJAJFINSV		0.52		1618.8		274186
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-1.76		2413.0		13366
-PGHH		-0.04		17869.55		7064
+GRINDWELL		-1.73		2086.95		7357
+PGHH		-0.04		17869.5		7065
