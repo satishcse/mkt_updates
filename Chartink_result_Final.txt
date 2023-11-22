@@ -2,8 +2,8 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-TITAN		0.8		3421.5		609027
-DRREDDY		0.72		5687.35		239230
+TITAN		0.84		3423.05		611125
+DRREDDY		0.69		5685.55		240362
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -12,14 +12,20 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-GODREJCP		0.58		1006.25		316793
-UBL		0.53		1590.5		282600
-PAGEIND		0.09		37739.0		9764
-TATACONSUM		-0.11		926.7		493082
+UBL		0.68		1592.85		283097
+GODREJCP		0.64		1006.85		321769
+PAGEIND		0.09		37740.0		9836
+TATACONSUM		0.01		927.8		494241
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CHOLAFIN		1.83		1124.0		995627
+DRREDDY		0.68		5685.0		242146
+COROMANDEL		-0.47		1114.3		87857
+SHREECEM		0.35		26027.4		3954
+ABBOTINDIA		-0.09		23928.55		3312
+NIFTY		-0.21		19740.95		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -28,14 +34,14 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.63		1508.4		5857297
-ULTRACEMCO		-0.95		8626.0		59894
-EXIDEIND		-1.09		282.5		1733022
-SAIL		-1.71		89.1		7916894
+HDFCBANK		-0.61		1508.7		5870705
+ULTRACEMCO		-0.83		8635.75		60252
+EXIDEIND		-1.02		282.7		1745189
+SAIL		-1.6		89.2		7968425
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-POWERGRID		1.1		211.25		7438978
-DRREDDY		0.72		5687.35		239230
-INFY		0.41		1444.95		1269445
+POWERGRID		1.15		211.35		7483328
+DRREDDY		0.68		5685.0		242146
+INFY		0.44		1445.3		1277015
