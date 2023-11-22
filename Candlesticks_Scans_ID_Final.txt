@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.55		332.35		7486597
-LTIM		0.7		5558.95		201557
+COALINDIA		-0.55		332.35		7512334
+LTIM		0.7		5559.0		201842
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MOTILALOFS		-6.34		1123.65		499067
-DATAPATTNS		-0.29		1839.9		51999
-EPIGRAL		-0.43		902.85		23345
-GODFRYPHLP		-0.41		2058.1		20955
+LUPIN		-0.32		1217.6		1902134
+MOTILALOFS		-6.4		1122.95		500800
+SOLARINDS		-4.3		6645.65		108954
+DATAPATTNS		-0.25		1840.55		52162
+MASTEK		-2.41		2397.0		38227
+EPIGRAL		-0.45		902.7		23361
