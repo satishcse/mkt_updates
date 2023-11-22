@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-0.05		3508.45		1004181
+TCS		-0.06		3508		1006353
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARUTI		-0.88		10442.5		102891
-SAFARI		-1.41		4451.9		15263
+SAFARI		-1.41		4451.9		15284
+PGHH		-0.04		17870.0		6978
