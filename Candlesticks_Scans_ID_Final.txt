@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.17		969.2		2240323
+BHARTIARTL		-0.21		968.8		2242798
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BLUESTARCO		-1.66		970.7		123527
