@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.0		436.25		1997480
-LT		0.15		3079.6		488711
-BAJAJFINSV		0.52		1618.8		281601
-GRASIM		-0.17		1974.0		93668
+ITC		-0.08		435.9		2063658
+LT		0.12		3078.55		494466
+BAJAJFINSV		0.53		1619.0		284585
+GRASIM		-0.38		1969.9		99154
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DALBHARAT		-2.43		2158.75		111188
+ESCORTS		-1.77		3203.95		95526
