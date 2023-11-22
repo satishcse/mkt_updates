@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.08		775.2		178291
-DRREDDY		1.47		5729.25		155397
+TATASTEEL		0.32		126.65		5805471
+HDFCBANK		-0.11		1516.35		3204133
+JSWSTEEL		-0.09		775.1		180067
+DRREDDY		1.41		5726.0		157149
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		0.06		5317.4		310359
-INDIGO		-0.43		2614.45		145980
+INDIGO		-0.44		2614.2		159421
