@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-0.06		3508		1006353
+TCS		-0.04		3508.7		1008437
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAFARI		-1.41		4451.9		15284
-PGHH		-0.04		17870.0		6978
+INDUSINDBK		-1.49		1479.7		1434707
+SAFARI		-1.46		4449.65		15426
+PGHH		-0.07		17863.85		7025
