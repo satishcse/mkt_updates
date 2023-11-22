@@ -1,11 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TITAN		0.88		3424.4		319171
-JSWSTEEL		-0.13		774.8		152117
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SBICARD		0.24		736.5		518225
+
