@@ -9,12 +9,7 @@ BN_1Hr_OBV_DIV
 
 Intraday_Buy_PSAR								 
 ================= 
-nsecode		per_chg		close		volume
-ASHOKLEY		3.43		178.05		16566555
-LUPIN		1.92		1221.55		1371835
-LALPATHLAB		0.62		2714.05		155108
-ABB		-0.04		4345.3		345900
-ABBOTINDIA		-0.11		23950.6		7418
+
 
 Intraday_Volume_Shocker								 
 ======================= 
