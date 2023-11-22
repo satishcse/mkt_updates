@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.04		3073.75		570878
+LT		0		3074.7		571374
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JUBLPHARMA		-1.76		421.95		76933
-SIEMENS		-1.41		3538.6		61320
+
