@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.23		774.05		150217
+JSWSTEEL		-0.16		774.55		151382
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HOMEFIRST		-1.83		922.7		23970
+CUMMINSIND		-1.23		1848.35		114409
+GAEL		-0.57		363.4		77715
