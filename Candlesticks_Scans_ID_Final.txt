@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.24		211.55		9744062
-AXISBANK		0.16		993.35		3995720
-NTPC		0.74		251.85		3277025
-HCLTECH		-0.37		1321.75		914313
-TITAN		0.81		3422.1		727434
+POWERGRID		1.24		211.55		9746489
+AXISBANK		0.14		993.15		4001835
+NTPC		0.74		251.85		3282442
+HCLTECH		-0.38		1321.55		916524
+TITAN		0.81		3422.0		728424
 
 Bullish_Hammer_15m_N500								 
 ======================= 
