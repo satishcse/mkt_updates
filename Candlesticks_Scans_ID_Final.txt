@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.09		400.3		2075025
-BAJAJFINSV		0.57		1619.55		495153
+WIPRO		-0.04		400.5		2077194
+BAJAJFINSV		0.59		1619.95		495828
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EPIGRAL		-0.47		902.5		16368
+ZFCVINDIA		-1.61		16035.6		3070
