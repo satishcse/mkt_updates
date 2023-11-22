@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.27		211.6		9677291
-HCLTECH		-0.41		1321.15		895135
-TITAN		0.85		3423.25		722820
-TATACONSUM		-0.29		925.05		541957
+POWERGRID		1.27		211.6		9680597
+HCLTECH		-0.35		1321.9		896011
+TITAN		0.81		3422.0		723447
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CREDITACC		-3.79		1667.2		177504
+CREDITACC		-3.75		1667.85		177608
