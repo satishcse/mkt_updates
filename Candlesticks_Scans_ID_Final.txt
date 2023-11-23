@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-0.73		3059.95		323802
-ANGELONE		0.4		2972.3		117832
-OFSS		-0.18		4075.45		14457
-GALAXYSURF		-1.5		2781.55		13309
-HLEGLAS		-0.67		520.1		10852
+MPHASIS		-0.13		2348.9		76360
+MGL		-0.06		1022.8		40220
+GALAXYSURF		-1.5		2781.5		13311
+HLEGLAS		-0.74		519.7		11008
