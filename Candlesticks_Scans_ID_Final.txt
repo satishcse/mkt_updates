@@ -1,11 +1,17 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NTPC		-0.1		253.4		5430566
+TATAMOTORS		-0.19		679.9		3527357
+SBIN		0.3		560.65		3213292
+HINDUNILVR		-0.14		2518.25		586623
+ASIANPAINT		0.46		3147.55		358171
+SBILIFE		-0.98		1416.15		297090
+GRASIM		-0.06		1973.0		208641
+NESTLEIND		0.37		24439.95		21217
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUROPHARMA		-2.36		1030.85		1291093
-BAYERCROP		-0.32		5293.35		4471
 PGHH		-0.08		17893.65		1996
