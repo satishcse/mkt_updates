@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.2		402.9		3543343
-RELIANCE		0.37		2397.1		2928486
+BPCL		0.21		402.95		3548965
+KOTAKBANK		-0.3		1740.35		1520907
+NESTLEIND		0.4		24447.55		24155
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.25		7110.4		340675
 GUJALKALI		-0.87		720.5		26880
