@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.11		500.8		5321939
-ITC		0.19		440.55		4583508
-COALINDIA		0.29		333.1		4244980
-TECHM		-0.45		1209.95		474535
+HINDALCO		0.12		500.85		5339652
+ITC		0.14		440.3		4591786
+COALINDIA		0.23		332.9		4262245
+TECHM		-0.44		1210.0		475427
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TITAN		-0.87		3399.95		393415
+
