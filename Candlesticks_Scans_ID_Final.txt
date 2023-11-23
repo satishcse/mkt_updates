@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.04		253.55		5993460
-WIPRO		0.5		402.25		3559539
+NTPC		-0.04		253.55		5996829
+WIPRO		0.5		402.25		3560314
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MARUTI		-0.55		10436.9		268126
-CENTURYTEX		-1.84		1210.0		52596
+
