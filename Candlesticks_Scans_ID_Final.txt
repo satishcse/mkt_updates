@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.34		190.35		3352796
-M&M		-0.27		1539.3		1053883
-HINDUNILVR		0.08		2523.9		728477
+ONGC		-0.31		190.4		3359245
+M&M		-0.22		1540.0		1055059
+HINDUNILVR		0.07		2523.65		728978
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHL		-0.74		5126.8		8319
+BAJAJFINSV		0.15		1626.3		492543
