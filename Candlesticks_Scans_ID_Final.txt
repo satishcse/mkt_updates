@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.71		127.0		24966868
-ADANIENT		0.17		2176.35		622916
-TECHM		-0.53		1208.95		516637
+TATASTEEL		0.71		127.0		24995092
+ADANIENT		0.2		2177.0		623027
+TECHM		-0.64		1207.65		533318
+NESTLEIND		0.33		24430.0		29361
 
 Bullish_Hammer_15m_N500								 
 ======================= 
