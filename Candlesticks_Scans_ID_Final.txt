@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.23		666.95		1370117
-GRASIM		0.01		1974.3		250003
-NESTLEIND		0.39		24447.0		23479
+HDFCLIFE		-0.28		666.6		1372754
+BAJAJFINSV		0.41		1630.55		410770
+TITAN		-0.21		3422.65		307039
+GRASIM		-0.02		1973.7		250932
+NESTLEIND		0.39		24444.85		23554
 
 Bullish_Hammer_15m_N500								 
 ======================= 
