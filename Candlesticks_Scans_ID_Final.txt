@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		2.75		5910.0		816986
-JSWSTEEL		0.55		772.7		548555
+BAJAJ-AUTO		2.77		5911.0		817659
+JSWSTEEL		0.63		773.3		550227
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UNOMINDA		0.71		679.7		367901
+LALPATHLAB		-2.31		2633.45		87636
