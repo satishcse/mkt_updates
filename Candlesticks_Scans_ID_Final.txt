@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CARBORUNIV		-2.72		1138.2		87528
-VMART		-0.01		1749.9		10519
-HLEGLAS		-0.31		522.0		6517
-GALAXYSURF		-1.39		2784.6		5142
+VMART		-0.12		1748.1		10555
