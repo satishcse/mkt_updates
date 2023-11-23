@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ITC,0.25,440.8,4505637
-COALINDIA,0.27,333.05,4180577
-ADANIENT,0.13,2175.4,577096
-BAJAJFINSV,0.14,1626.1,509970
-TECHM,-0.44,1210.0,469290
+ITC,0.22,440.65,4514262
+COALINDIA,0.3,333.15,4185495
+ADANIENT,0.19,2176.8,577693
+TECHM,-0.44,1210.0,469645
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PEL,-0.71,908.35,743295
+MARUTI,-0.74,10416.65,311321
