@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.08		253.45		5961999
-WIPRO		0.46		402.1		3542901
-GRASIM		-0.22		1969.7		280390
+NTPC		-0.08		253.45		5971873
+WIPRO		0.51		402.3		3545859
+GRASIM		-0.16		1970.95		281042
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARUTI		-0.54		10437.75		264804
-CENTURYTEX		-1.84		1210.0		52206
-GRINDWELL		-0.15		2084.2		11606
+MARUTI		-0.53		10438.95		265871
+CENTURYTEX		-1.84		1210.0		52368
