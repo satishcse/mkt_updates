@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.43		1519.05		3068374
-TITAN		0.04		3431.25		244163
+HDFCBANK		0.41		1518.8		3084610
+INDUSINDBK		1.64		1494.45		1537606
+TITAN		0.05		3431.45		245213
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBER		-0.18		3263.7		35746
+AMBER		-0.15		3264.6		35772
+LINDEINDIA		-0.27		5934.7		7794
