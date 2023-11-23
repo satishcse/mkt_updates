@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.47		190.1		3607948
-M&M		-0.21		1540.2		1059824
-HINDUNILVR		0.05		2523.05		731681
+ITC		0.26		440.85		4474332
+COALINDIA		0.32		333.2		4153208
+BAJAJFINSV		0.16		1626.5		503401
+TECHM		-0.25		1212.35		432776
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHL		-0.74		5126.8		8479
+CREDITACC		-2.02		1655.05		120372
 GILLETTE		-0.77		6366.45		4193
