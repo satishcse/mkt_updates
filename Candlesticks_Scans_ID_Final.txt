@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SUNPHARMA		0.44		1209.4		254249
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SYNGENE		-0.16		726.6		75812
-POLYPLEX		-0.32		1017.15		33261
+ULTRACEMCO		-1.4		8637.1		99171
