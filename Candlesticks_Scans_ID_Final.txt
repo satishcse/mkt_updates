@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.44		126.65		7983528
-BPCL		-0.1		401.7		2773797
-HCLTECH		-0.13		1327.95		441169
-ASIANPAINT		0.18		3138.55		254140
-GRASIM		-0.22		1969.8		80809
+TATASTEEL		0.52		126.75		8019763
+HDFCBANK		0.45		1519.35		3013150
+ASIANPAINT		0.28		3141.85		254621
+GRASIM		-0.28		1968.55		81258
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAJAJHLDNG		-0.16		7365.85		3966
+
