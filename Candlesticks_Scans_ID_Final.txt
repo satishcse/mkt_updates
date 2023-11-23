@@ -2,15 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.14		253.3		5527206
-TATAMOTORS		-0.26		679.45		3671008
-ONGC		-0.52		190.0		2655703
-SBILIFE		-1.34		1410.9		316736
-NESTLEIND		0.32		24428.0		23073
+ITC		0.23		440.7		3624043
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TITAN		-0.19		3423.35		297951
-KIMS		-0.63		1931.85		111495
-NESTLEIND		0.32		24428.0		23073
+
