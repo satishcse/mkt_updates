@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFC		0.17		320.5		1397442
-LATENTVIEW		-0.46		460.75		239392
-PNCINFRA		-0.44		324.45		46690
-MANKIND		-0.07		1933.55		15785
+LATENTVIEW		0.16		463.65		258407
+PNCINFRA		-0.37		324.7		47351
+MANKIND		-0.04		1934.1		15887
