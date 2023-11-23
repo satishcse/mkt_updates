@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.18		253.2		5511043
-TATAMOTORS		-0.23		679.65		3658328
-ONGC		-0.5		190.05		2618311
-ASIANPAINT		0.46		3147.35		364381
-SBILIFE		-1.31		1411.3		314339
-NESTLEIND		0.15		24386.95		22929
+NTPC		-0.16		253.25		5520823
+TATAMOTORS		-0.26		679.45		3667673
+ONGC		-0.52		190.0		2645017
+SBILIFE		-1.31		1411.35		316572
+NESTLEIND		0.27		24417.7		23015
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+M&M		-0.05		1542.75		883346
+NESTLEIND		0.27		24417.7		23015
