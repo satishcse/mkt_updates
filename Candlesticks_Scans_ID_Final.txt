@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+COALINDIA		-0.05		332.0		1070813
+ONGC		-0.08		190.85		737360
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PNCINFRA		-0.32		324.85		48552
-MANKIND		-0.1		1933.0		18187
-ERIS		0.14		947.8		9355
-GLAXO		0.06		1696.05		8362
-WHIRLPOOL		0.22		1579.0		2710
+
