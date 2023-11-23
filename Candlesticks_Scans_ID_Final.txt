@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.71		127.0		17147194
-RELIANCE		0.35		2396.5		2873640
-HDFCLIFE		-0.41		665.75		1384914
-TITAN		-0.43		3415.25		313702
-GRASIM		-0.16		1971.0		266087
-NESTLEIND		0.35		24436.8		23816
+TATASTEEL		0.67		126.95		17654567
+RELIANCE		0.38		2397.3		2878584
+HDFCLIFE		-0.37		666.05		1389377
+TITAN		-0.42		3415.3		314339
+GRASIM		-0.21		1970.05		266707
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GUJALKALI		-0.87		720.5		26880
+KSB		-1.16		3308.35		8895
