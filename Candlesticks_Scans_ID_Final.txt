@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAHLIFE		0.76		529.7		171263
+POLYCAB		-0.01		5312.65		78074
+JBCHEPHARM		-0.77		1489.95		10773
+JKCEMENT		-0.24		3498.8		8102
 SKFINDIA		0.29		4715.55		2691
