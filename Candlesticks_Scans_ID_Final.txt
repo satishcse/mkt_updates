@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIVISLAB		-1.44		3648.25		88986
-JBMA		-0.48		1280.0		9902
+DIVISLAB		-1.48		3646.9		89437
+JBMA		-0.48		1280.0		9910
+WHIRLPOOL		-0.79		1563.1		7351
