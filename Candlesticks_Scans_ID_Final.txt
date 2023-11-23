@@ -2,15 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.31		501.8		6301497
-ONGC		-0.05		190.9		5908617
-ULTRACEMCO		-1.75		8606.55		311113
+HINDALCO		0.33		501.9		6327880
+MARUTI		0.0		10494.95		421112
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NATCOPHARM		-1.21		789.9		471108
-ICICIGI		-0.67		1439.45		468160
-GRASIM		-0.78		1958.8		413732
-ENDURANCE		-0.52		1582.0		176341
-TATAELXSI		-0.03		8387.0		88429
+
