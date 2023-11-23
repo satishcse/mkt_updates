@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.23		793.7		2269173
+ADANIPORTS		0.21		793.55		2281969
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+BAYERCROP		-0.46		5286.05		4469
 PGHH		-0.08		17893.65		1996
