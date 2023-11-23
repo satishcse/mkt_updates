@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.75		127.05		24826696
-ADANIENT		0.28		2178.7		620206
-TECHM		-0.47		1209.65		514502
+TATASTEEL		0.71		127.0		24909687
+ADANIENT		0.18		2176.55		622465
+TECHM		-0.57		1208.5		516373
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CIPLA		-7.78		1172.6		6203987
-LT		-1.51		3035.8		1188189
-LAXMIMACH		-0.68		12970.0		2195
+LAXMIMACH		-0.68		12970		2195
