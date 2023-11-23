@@ -6,7 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.05		7124.55		178212
-JKLAKSHMI		-0.9		784.95		68070
-VMART		-0.07		1748.9		10588
+BAJFINANCE		-0.04		7125.55		179127
+TATAINVEST		-2.53		4074.45		146252
+JKLAKSHMI		-0.93		784.7		68780
+VMART		-0.01		1749.9		10592
+GALAXYSURF		-1.42		2783.75		6901
 WHIRLPOOL		-0.12		1573.55		4904
