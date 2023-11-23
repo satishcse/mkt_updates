@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.19		501.2		6119492
-ULTRACEMCO		-1.65		8615.4		286438
-APOLLOHOSP		-0.82		5486.9		216859
+HINDALCO		0.28		501.65		6146414
+ULTRACEMCO		-1.63		8616.8		287763
+APOLLOHOSP		-0.84		5485.75		217048
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GRASIM		-0.82		1957.95		396511
