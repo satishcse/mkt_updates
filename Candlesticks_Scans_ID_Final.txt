@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.18		680		5701611
+TATAMOTORS		-0.14		680.25		5733403
+BAJAJ-AUTO		3.15		5932.8		1096472
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PERSISTENT		-3.27		6378.6		540489
+RITES		0.21		472.4		470524
+POLICYBZR		-2.12		804.0		263751
