@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.45		190.15		1289433
+ONGC		-0.45		190.15		1294537
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HLEGLAS		-0.71		519.9		10251
+RAMCOCEM		0.05		973.4		69216
+HLEGLAS		-0.67		520.1		10272
