@@ -1,13 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		-0.47		190.1		1244355
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAJFINANCE		0.06		7132.5		181825
-TATAINVEST		-2.4		4079.9		148137
-JKLAKSHMI		-0.86		785.2		71812
-VMART		-0.02		1749.8		10636
-GALAXYSURF		-1.35		2785.95		8386
+
