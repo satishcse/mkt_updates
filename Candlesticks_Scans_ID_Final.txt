@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.52		126.75		8037509
-HDFCBANK		0.41		1518.75		3022590
-HCLTECH		-0.15		1327.65		446976
-ASIANPAINT		0.26		3141.1		254944
+TATASTEEL		0.59		126.85		8193003
+HDFCBANK		0.43		1519.05		3041846
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AMBER		-0.2		3262.75		35628
