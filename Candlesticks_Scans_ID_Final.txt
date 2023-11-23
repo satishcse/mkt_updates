@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.15		331.65		1142013
-ONGC		-0.39		190.25		833116
+COALINDIA		-0.23		331.4		1151839
+ONGC		-0.39		190.25		837023
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-3.89		2525.05		73266
-TORNTPHARM		-0.56		2099.8		58400
-TEAMLEASE		0.97		2620.0		7836
+ECLERX		-3.8		2527.35		73537
+TEAMLEASE		1.36		2630.05		8410
+JBMA		0.2		1288.8		5311
+ZFCVINDIA		0.42		15904.35		383
