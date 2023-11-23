@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PFC		0.17		320.5		1497002
-GPIL		0.44		666.35		51902
-PNCINFRA		-0.37		324.7		47761
+
