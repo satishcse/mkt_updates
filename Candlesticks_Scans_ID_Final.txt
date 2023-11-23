@@ -5,8 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-METROPOLIS		-0.22		1616.0		37846
-CHEMPLASTS		-0.21		449.45		27728
-JBCHEPHARM		-0.77		1489.85		11104
-JKCEMENT		-0.26		3498.15		8432
+
