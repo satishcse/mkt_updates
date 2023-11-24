@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.43		333		5928914
+COALINDIA		-0.43		333		5937382
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-3MINDIA		-1.2		30352.7		872
+CGPOWER		-6.35		431.05		4958663
+3MINDIA		-1.19		30354.7		873
