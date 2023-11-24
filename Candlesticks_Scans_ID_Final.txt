@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROBRAND		0.1		1351.55		12616
-EPIGRAL		0.1		914.5		9894
-PFIZER		-1.56		4065.95		7676
-BAJAJHLDNG		0.12		7432.75		6704
+PATANJALI		-1.45		1339.9		101724
+BAJAJHLDNG		0.21		7439.2		6734
