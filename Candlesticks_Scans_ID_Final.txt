@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.06		2397		907744
+RELIANCE		0.07		2397.15		915599
+M&M		0.34		1551.15		303086
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATUL		-0.4		6586		8844
+TEJASNET		0.33		824.5		79600
+ATUL		-0.34		6590.0		9427
+PGHL		0.37		5154.0		1075
