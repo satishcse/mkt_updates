@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.84		786.4		2530553
+ADANIPORTS		-0.79		786.85		2544390
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGO		-0.93		2581.9		206456
-RATNAMANI		-1.82		3507.85		20759
+RATNAMANI		-1.61		3515.35		20805
