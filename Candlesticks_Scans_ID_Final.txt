@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.09		2397.7		976178
-HINDUNILVR		-0.15		2516.0		220946
-BRITANNIA		-0.48		4683.25		17518
+RELIANCE		0.09		2397.7		983340
+HINDUNILVR		-0.15		2516.0		221033
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EPIGRAL		0.19		915.35		7543
-PFIZER		-1.31		4076.05		5729
+EPIGRAL		0.1		914.55		7548
+PFIZER		-1.19		4081.2		5746
