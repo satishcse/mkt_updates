@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.51		126.05		4083484
-POWERGRID		0.02		210.95		2104624
-INDUSINDBK		-0.38		1480.5		666018
+TATASTEEL		-0.51		126.05		4113548
+POWERGRID		0.02		210.95		2109979
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-0.16		5217.55		189309
-VINATIORGA		-0.06		1738.0		4587
-SANOFI		0.31		8009.95		3168
+BSOFT		-1.16		615.0		358478
+NAVINFLUOR		0.07		3710.8		43386
+BRIGADE		-0.74		744.7		28331
+SANOFI		0.24		8004.15		3173
+PGHL		0.5		5161.0		713
