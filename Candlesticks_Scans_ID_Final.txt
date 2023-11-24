@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.39		5902		87753
+BAJAJ-AUTO		-0.4		5901.55		90634
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAVELLS		-0.93		1289.35		87522
-MANKIND		-0.35		1927.2		32335
-PRINCEPIPE		0.28		678.6		24372
-HLEGLAS		-0.57		515.05		7230
-INDIGOPNTS		0.02		1472.55		4950
+BPCL		-0.51		409.2		1461182
+HAVELLS		-0.94		1289.2		88115
+MANKIND		-0.29		1928.3		32456
+APARINDS		-1.23		5612.65		31771
+HLEGLAS		-0.57		515.05		7454
 KIMS		0.3		1936.4		3947
-TEAMLEASE		0.28		2640.35		3679
