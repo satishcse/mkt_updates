@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.43		333		5958619
+COALINDIA		-0.45		332.95		5969544
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-0.63		424.95		430738
-3MINDIA		-1.19		30355.05		875
+BEML		0.5		2409.55		517244
