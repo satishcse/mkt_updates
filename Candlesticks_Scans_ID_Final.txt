@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.74		1532.6		7584171
-POWERGRID		-0.12		210.65		6463471
-SBIN		0.12		560.6		5865971
-WIPRO		-1.58		396.15		2870903
+HDFCBANK		0.73		1532.35		7641173
+POWERGRID		-0.14		210.6		6502621
+SBIN		0.13		560.7		5922133
+WIPRO		-1.59		396.1		2886114
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHREECEM		-1.05		25649		11826
+PATANJALI		-2.92		1319.8		271904
+SCHAEFFLER		-1.75		2793.0		70335
+SAPPHIRE		0.25		1406.3		63185
