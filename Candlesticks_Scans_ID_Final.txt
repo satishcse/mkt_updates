@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.09		211.1		3237895
-BAJAJFINSV		-0.24		1620.0		292334
-MARUTI		0.13		10502.0		179688
+POWERGRID		0.09		211.1		3249751
+BAJAJFINSV		-0.24		1620.0		292710
+MARUTI		0.03		10491.55		180511
 
 Bullish_Hammer_15m_N500								 
 ======================= 
