@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.13		2516.75		442847
+HINDUNILVR		-0.15		2516.2		444060
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ORIENTELEC		-0.55		215.35		114956
+
