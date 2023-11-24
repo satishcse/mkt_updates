@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.02		3123.65		44643
+ASIANPAINT		0.02		3123.5		45788
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHAMBLFERT		-0.47		309.5		411423
-INFY		-0.12		1447.45		272530
-SHYAMMETL		0.0		444.0		40103
-BBTC		0.49		1440.0		33381
+CHAMBLFERT		-0.5		309.4		415278
+INFY		-0.1		1447.75		275622
+KPRMILL		-0.33		885.0		86238
+SOBHA		0.19		891.95		42935
