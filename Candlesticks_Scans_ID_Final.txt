@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.93		255.1		5037639
-HINDALCO		1.78		510.9		3749006
-RELIANCE		0.11		2398.05		1910612
+NTPC		0.95		255.15		5045403
+HINDALCO		1.68		510.4		3781979
+RELIANCE		0.11		2398.1		1914600
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JBCHEPHARM		-0.97		1425		52566
+
