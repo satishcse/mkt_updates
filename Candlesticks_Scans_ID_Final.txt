@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.03		923.25		4506399
-SBIN		-0.04		559.75		4356070
-ONGC		-0.87		189.0		3926781
-NESTLEIND		-0.99		24151.0		26613
+ICICIBANK		0.03		923.3		4525123
+SBIN		0.0		559.95		4366626
+ONGC		-0.87		189.0		3932205
+NESTLEIND		-1.03		24143.2		26669
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AFFLE		1.47		1100.5		812083
+ROUTE		-0.73		1545.0		50657
