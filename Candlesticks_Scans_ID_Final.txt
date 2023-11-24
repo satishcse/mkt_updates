@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.06		923.55		3513410
+ICICIBANK		0.04		923.35		3518819
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+UNOMINDA		0.2		684.95		671467
+BRITANNIA		-0.86		4665.55		45594
+MASTEK		-1.28		2403.65		15565
