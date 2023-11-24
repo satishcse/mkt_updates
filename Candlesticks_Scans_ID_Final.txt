@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.01		922.95		4496633
-SBIN		0.01		560.0		4340556
-ONGC		-0.89		188.95		3918419
-WIPRO		-1.32		397.2		2196639
-NESTLEIND		-1.02		24144.1		26546
+ICICIBANK		0.03		923.25		4506399
+SBIN		-0.04		559.75		4356070
+ONGC		-0.87		189.0		3926781
+NESTLEIND		-0.99		24151.0		26613
 
 Bullish_Hammer_15m_N500								 
 ======================= 
