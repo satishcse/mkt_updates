@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.76		1207.9		203229
+SUNPHARMA		0.63		1206.35		207011
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BATAINDIA		-0.02		1605.7		23365
-ULTRACEMCO		0.09		8613.1		20359
+BALRAMCHIN		-2.65		457.85		738827
+ADANIENT		-0.4		2166.5		212657
+ICICIGI		-0.2		1436.1		54148
+BATAINDIA		-0.03		1605.45		26983
+ULTRACEMCO		0.14		8617.0		21110
+JKCEMENT		-0.03		3527.95		8188
