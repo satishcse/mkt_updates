@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.01		560.0		4393872
-ONGC		-0.87		189.0		3954974
-NESTLEIND		-1.03		24143.1		27230
+TATASTEEL		-0.63		125.9		11339541
+ICICIBANK		0.04		923.35		4562688
+ASIANPAINT		0.36		3134.1		605591
+TATACONSUM		-0.73		926.15		346622
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AFFLE		1.4		1099.75		813237
-VIPIND		-1.29		616.0		234301
-ROUTE		-0.76		1544.6		50851
-CRISIL		-0.56		4296.95		11970
+
