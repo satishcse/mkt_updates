@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.77		1208		238252
+SUNPHARMA		0.77		1208		246399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		0.02		7075.2		168668
-JKCEMENT		-0.03		3527.85		8336
+BAJFINANCE		0.11		7081.15		171448
+EICHERMOT		-0.17		3877.35		68056
+GODREJIND		-0.46		660.55		34128
+JKCEMENT		-0.03		3527.9		8340
