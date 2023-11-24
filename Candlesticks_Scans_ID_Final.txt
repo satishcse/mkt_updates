@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.59		437.75		4481053
-LTIM		-0.19		5461.15		99040
+ITC		-0.62		437.6		4490432
+LTIM		-0.17		5462.0		99116
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGO		-0.89		2582.9		218121
-PAGEIND		-0.59		37474.75		10395
+INDIGO		-0.89		2582.9		220301
+ERIS		-1.67		930.2		37967
+PAGEIND		-0.59		37474.75		10400
