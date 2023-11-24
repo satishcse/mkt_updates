@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.48		332.85		6006417
+ITC		-0.6		437.7		5523039
+TATACONSUM		-0.53		928.05		397614
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SCHAEFFLER		-1.31		2805.45		61197
+
