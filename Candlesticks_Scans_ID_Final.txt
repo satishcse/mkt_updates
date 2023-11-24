@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		2.45		1199.3		4575331
-SBIN		0.06		560.3		4552856
-ONGC		-0.89		188.95		4043177
-RELIANCE		0.14		2398.85		2667809
-MARUTI		0.39		10529.45		294014
-NESTLEIND		-1.05		24137.0		27895
+CIPLA		2.44		1199.25		4580621
+SBIN		0.03		560.1		4566180
+ONGC		-0.92		188.9		4050899
+RELIANCE		0.15		2399.1		2692151
+MARUTI		0.41		10531.9		295293
+NESTLEIND		-1.01		24146.05		27951
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CHALET		0.15		585.9		23057
