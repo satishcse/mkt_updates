@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.73		1207.5		253241
+SUNPHARMA		0.71		1207.3		257349
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-1.62		2087.9		374557
-BAJFINANCE		0.11		7081.75		177072
-DALBHARAT		-0.3		2178.4		30115
-NAUKRI		-0.45		4596.55		22510
-ZYDUSWELL		-0.33		1562.25		3168
+BSE		-1.57		2089.0		378306
+ICICIGI		0.06		1439.85		92460
+NAVINFLUOR		0.13		3713.0		39053
+DALBHARAT		-0.34		2177.5		30136
+NAUKRI		-0.33		4601.9		22851
+ROUTE		-0.37		1550.65		7279
+RATNAMANI		0.14		3577.95		5813
+ZYDUSWELL		-0.35		1562.0		3173
