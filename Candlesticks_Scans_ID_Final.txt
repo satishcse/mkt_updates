@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.24		2513.8		228108
-SBILIFE		-0.19		1408.2		111545
+HINDUNILVR		-0.27		2513.1		228327
+SBILIFE		-0.15		1408.85		111612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-0.56		1963.85		202813
-EPIGRAL		0.16		915.1		7750
+EPIGRAL		0.16		915.1		7760
