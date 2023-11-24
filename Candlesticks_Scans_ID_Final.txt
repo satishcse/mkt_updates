@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-0.75		3482.05		601055
+RELIANCE		0.18		2399.85		1175266
+INDUSINDBK		0.07		1487.2		969443
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEAMLEASE		-0.28		2625.75		5934
+PFIZER		-1.56		4065.95		7596
+TEAMLEASE		-0.25		2626.4		6029
