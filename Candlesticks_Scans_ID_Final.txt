@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.63		125.9		11339541
-ICICIBANK		0.04		923.35		4562688
-ASIANPAINT		0.36		3134.1		605591
-TATACONSUM		-0.73		926.15		346622
+TATASTEEL		-0.63		125.9		11352696
+ICICIBANK		0.05		923.5		4577990
+ONGC		-0.87		189.0		3983855
+RELIANCE		0.16		2399.45		2548383
+TATACONSUM		-0.77		925.85		346993
 
 Bullish_Hammer_15m_N500								 
 ======================= 
