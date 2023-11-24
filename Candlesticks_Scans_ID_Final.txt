@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.62		437.6		4534253
-BAJAJFINSV		-0.36		1618.1		419446
-LTIM		-0.15		5462.95		99504
+COALINDIA		-0.36		333.25		5150919
+HINDUNILVR		-0.08		2517.9		423349
+HEROMOTOCO		-0.67		3544.0		351076
+LTIM		-0.18		5461.35		99623
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PATANJALI		-1.51		1339.0		148445
-ERIS		-1.38		932.9		38202
+
