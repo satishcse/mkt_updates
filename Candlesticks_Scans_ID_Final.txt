@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.39		126.2		3853297
-POWERGRID		0.02		210.95		2001008
+TATASTEEL		-0.39		126.2		3876780
+POWERGRID		0.02		210.95		2011520
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBCHEPHARM		0.14		1440.9		19994
-SANOFI		0.21		8001.85		3004
-GILLETTE		-0.12		6358.6		1542
+OBEROIRLTY		-0.38		1399.65		134571
+SANOFI		0.25		8005.0		3016
