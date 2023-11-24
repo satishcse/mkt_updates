@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.83		254.85		5081303
-TATAMOTORS		-0.68		675.3		4341662
-HINDALCO		1.6		510.0		3816734
-RELIANCE		0.12		2398.45		1934260
+ICICIBANK		0.19		924.75		3387531
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-OLECTRA		0.3		1230.9		299002
+
