@@ -1,14 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.55		126.0		4153533
-POWERGRID		0.0		210.9		2128273
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		0.07		3710.8		43776
-CLEAN		0.29		1353.5		10894
+KPRMILL		-1.68		873.0		156133
 VINATIORGA		-0.09		1737.6		4682
-SANOFI		0.31		8010.0		3215
