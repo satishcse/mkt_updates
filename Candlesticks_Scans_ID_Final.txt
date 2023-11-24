@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.09		2397.7		996736
-HINDUNILVR		-0.21		2514.65		226396
-SBILIFE		-0.14		1409.0		110813
+HINDUNILVR		-0.27		2513.05		227883
+SBILIFE		-0.17		1408.5		111256
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ERIS		-1.17		934.95		17663
-WHIRLPOOL		-0.7		1560.45		3304
+EPIGRAL		0.16		915.1		7750
