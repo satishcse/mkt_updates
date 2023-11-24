@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.06		2397.05		941490
-BHARTIARTL		-0.19		974.75		677469
-M&M		0.35		1551.2		306673
+RELIANCE		0.08		2397.45		947197
+BHARTIARTL		-0.27		974.0		679267
+M&M		0.27		1550.05		307448
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.32		1202.6		457156
-TEJASNET		0.34		824.6		79927
-ATUL		-0.38		6586.95		9443
+HCLTECH		-1.06		1314.95		496621
+ATUL		-0.39		6586.2		9445
+PAGEIND		-0.23		37612.05		5392
