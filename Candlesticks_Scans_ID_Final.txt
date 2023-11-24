@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-0.95		3475		979057
+TCS		-0.91		3476.2		980876
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRASIM		-0.26		1951.75		74246
+HEG		-0.58		1573.9		42587
