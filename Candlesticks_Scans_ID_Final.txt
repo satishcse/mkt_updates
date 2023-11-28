@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		3.04		694.2		11592933
-POWERGRID		-0.33		209.75		8746938
-AXISBANK		0.95		1018.05		3875687
+TATAMOTORS		3.05		694.25		11602456
+POWERGRID		-0.33		209.75		8775846
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		-0.6		2214.0		321238
-CLEAN		-0.11		1342.75		51711
+RAINBOW		0.58		1102.95		104640
+CLEAN		-0.11		1342.8		51717
