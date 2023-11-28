@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.32		436.4		4691994
-HCLTECH		-0.71		1299.9		1099554
+ITC		-0.33		436.35		4697244
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		0.35		1553.9		24727
+CIEINDIA		-1.84		466		611367
+ZYDUSWELL		0.22		1552		24872
