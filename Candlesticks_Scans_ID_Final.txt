@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.1		210.25		3867986
-TITAN		0.94		3428.8		143787
+POWERGRID		-0.26		209.9		3910929
+TITAN		0.93		3428.7		144849
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		-0.59		2379.8		2076105
-MCDOWELL-N		-0.55		1036.75		147566
-CERA		-1.29		8340.25		5042
+
