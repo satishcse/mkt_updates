@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.32		926.45		2425838
-TITAN		0.95		3429.1		155273
+ICICIBANK		-0.28		926.8		2451557
+TITAN		0.93		3428.6		156734
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIAMART		-0.54		2585.05		31560
+APARINDS		-1.47		5525.1		83685
+SONATSOFTW		-1.9		1269.0		78114
+FIVESTAR		-1.96		770.85		62739
