@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.27		394.95		1304379
-HEROMOTOCO		1.76		3611.0		320542
+WIPRO		-0.27		394.95		1327869
+BAJAJ-AUTO		0.0		5930.1		179709
+GRASIM		0.65		1962.0		160272
 
 Bullish_Hammer_15m_N500								 
 ======================= 
