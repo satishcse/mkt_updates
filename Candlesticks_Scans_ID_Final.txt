@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.65		516.2		4519072
-AXISBANK		0.59		1014.45		2535407
+AXISBANK		0.6		1014.55		2543351
+TITAN		1.4		3444.45		407876
+GRASIM		0.63		1961.6		269596
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AJANTPHARM		-1.84		1921.95		22856
+HAL		1.63		2276.8		2491002
