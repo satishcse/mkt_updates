@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.21		928.85		221691
+TATACONSUM		0.18		928.6		223450
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LODHA		-0.72		885.0		1326094
+JUBLFOOD		-0.53		541.95		998084
+NATCOPHARM		-0.47		776.8		150243
+DIXON		0.07		5281.65		63078
