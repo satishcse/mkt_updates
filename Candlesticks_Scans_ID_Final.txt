@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.39		394.45		2130398
-JSWSTEEL		-0.2		780.5		471447
-ULTRACEMCO		1.89		8717.6		221795
-NESTLEIND		-0.61		23992.65		24646
+WIPRO		-0.39		394.45		2136090
+JSWSTEEL		-0.15		780.9		472203
+NESTLEIND		-0.63		23987.05		24705
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLAPOLLO		-2.2		1658.95		717421
-LALPATHLAB		-0.77		2666.75		131294
+APLAPOLLO		-2.19		1659.15		718518
