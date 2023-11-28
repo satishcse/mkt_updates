@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.01		1195.6		94742
+SUNPHARMA		0.04		1195.95		98988
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBCHEPHARM		-0.61		1411.55		9635
-CENTURYTEX		0.39		1186.0		8219
-SKFINDIA		0.19		4610.75		965
+TATACOMM		-1.63		1695.65		305561
+CDSL		0.39		1809.05		256125
+APLAPOLLO		-0.4		1689.5		176765
+JBCHEPHARM		-0.55		1412.35		9785
+JBMA		-0.67		1257.95		4319
