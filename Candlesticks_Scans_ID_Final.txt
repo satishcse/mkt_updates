@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.36		126.4		11527347
-INDUSINDBK		-0.05		1475.4		3251953
-KOTAKBANK		0.01		1744.25		2231810
-HEROMOTOCO		1.81		3612.75		497768
+TATASTEEL		0.32		126.35		11613535
+KOTAKBANK		0.0		1744.0		2244906
+HEROMOTOCO		1.8		3612.65		499336
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+UTIAMC		0.54		794.4		272532
