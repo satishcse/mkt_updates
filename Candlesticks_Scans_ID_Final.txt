@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.55		1014.05		2078946
-BAJAJ-AUTO		0.01		5930.65		173583
+AXISBANK		0.59		1014.4		2091601
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NH		1.09		1251.8		328363
+NH		1.08		1251.7		328886
+AMBER		-2.86		3170.55		45899
 ZFCVINDIA		-1.13		15719.95		1193
