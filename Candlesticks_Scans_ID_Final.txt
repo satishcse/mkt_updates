@@ -2,19 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.33		562.2		1482165
+ITC		-0.3		436.5		1513062
+WIPRO		-0.01		395.95		931510
+BAJFINANCE		0.73		7071.85		223220
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BDL		0.6		1166.15		575669
-MAZDOCK		0.18		2043.6		386153
-USHAMART		-1.05		330.0		108242
-PIDILITIND		-0.57		2489.8		77956
-PIIND		-1.29		3716.95		61354
-VAIBHAVGBL		0.13		419.45		61187
-ABB		-1.23		4210.1		38617
-INDIAMART		-0.43		2587.95		36017
-SOLARINDS		-1.77		6665.95		24609
-MAHLIFE		-1.02		518.65		21368
-INDIGOPNTS		0.34		1487.6		12085
+
