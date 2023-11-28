@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.59		1014.4		2148862
-GRASIM		0.65		1962.0		163836
+AXISBANK		0.56		1014.15		2158796
+WIPRO		-0.27		394.95		1382566
+ASIANPAINT		0.63		3155.8		285918
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJHLDNG		-0.94		7368.85		5900
+BAJAJHLDNG		-0.93		7369.5		5908
