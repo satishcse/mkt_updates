@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.39		394.45		2136090
-JSWSTEEL		-0.15		780.9		472203
-NESTLEIND		-0.63		23987.05		24705
+TATASTEEL		0.24		126.25		9792140
+ITC		-0.37		436.2		4640292
+HDFCLIFE		0.91		674.05		1215767
+HCLTECH		-0.73		1299.6		1088179
+TITAN		1.27		3440.0		455965
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-APLAPOLLO		-2.19		1659.15		718518
+
