@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.16		126.15		8032549
-HINDALCO		1.49		515.35		4384402
-JSWSTEEL		-0.1		781.25		396926
-TATACONSUM		0.33		929.95		393515
-TITAN		1.32		3441.85		386730
+TATASTEEL		0.12		126.1		8065996
+HINDALCO		1.51		515.45		4392245
+BHARTIARTL		0.3		976.05		2831392
+JSWSTEEL		-0.13		781.05		397691
+TATACONSUM		0.33		929.95		394361
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RAYMOND		-3.12		1597		400486
+
