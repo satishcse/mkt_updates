@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.59		1014.45		2203537
-ASIANPAINT		0.65		3156.55		290502
+AXISBANK		0.59		1014.4		2208477
+ASIANPAINT		0.63		3155.95		292047
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLAPOLLO		-1.81		1665.5		539521
-TEJASNET		-1.4		801.7		209132
-AJANTPHARM		-1.6		1926.55		20206
+TEJASNET		-1.4		801.7		209491
+METROBRAND		-3.58		1299.4		52688
