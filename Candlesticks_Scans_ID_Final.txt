@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		2.95		422.7		9765467
-NTPC		1.14		256.8		4248047
+BPCL		2.87		422.4		9772676
+NTPC		1.08		256.65		4251586
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-2.87		2515		89450
+FIVESTAR		-3.24		760.75		192703
+LALPATHLAB		-1.47		2647.95		173414
+BLUEDART		0.16		6945.0		26701
