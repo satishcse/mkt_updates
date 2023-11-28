@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		2.09		192.8		6295789
-HINDUNILVR		0.17		2519.45		1439998
+AXISBANK		1.23		1020.95		4599167
+HINDUNILVR		0.17		2519.45		1442413
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UTIAMC		0.24		792		278031
+CDSL		-0.35		1795.75		843606
+DATAPATTNS		-1.8		1944.0		219245
