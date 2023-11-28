@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.79		255.9		3252806
-TECHM		-0.61		1190.55		441010
-BRITANNIA		0.83		4682.5		67262
-NESTLEIND		-0.63		23986.2		24050
+TATASTEEL		0.08		126.05		9516426
+NTPC		0.77		255.85		3259167
+TECHM		-0.61		1190.55		442207
+BRITANNIA		0.82		4682.25		67371
+NESTLEIND		-0.58		23998.0		24185
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DATAPATTNS		-1.56		1948.8		198151
+
