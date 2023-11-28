@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,0.05,210.55,6179106
-HINDALCO,1.61,516.0,4306889
-SBILIFE,-0.97,1396.0,711597
-JSWSTEEL,-0.06,781.55,389841
+POWERGRID,0.07,210.6,6185717
+HINDALCO,1.61,516.0,4317827
+SBILIFE,-0.97,1396.05,712266
+JSWSTEEL,-0.08,781.45,390864
+DRREDDY,0.65,5682.65,137080
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ABBOTINDIA,-0.98,23810,2029
