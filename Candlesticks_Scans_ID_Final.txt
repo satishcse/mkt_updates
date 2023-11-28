@@ -1,13 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		0.75		126.9		16194436
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-STARHEALTH		-0.66		566.8		438810
-SONATSOFTW		-2.63		1259.6		292196
-POLYMED		-2.25		1496.05		90161
-CRAFTSMAN		-2.31		5005.0		35469
-ALKYLAMINE		-0.91		2135.0		20123
+ASTERDM		-1.17		333.7		886359
+STARHEALTH		-0.67		566.75		440546
+CRISIL		0.24		4316.4		20252
+ALKYLAMINE		-0.91		2134.95		20147
