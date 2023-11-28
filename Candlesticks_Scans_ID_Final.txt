@@ -2,17 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.03		1553.7		161657
-HCLTECH		-0.13		1307.45		126744
+M&M		0.01		1553.3		168295
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		0.26		1070.95		175730
-AUBANK		0.01		722.3		47729
-PERSISTENT		0.59		6427.8		40379
-PHOENIXLTD		-0.16		2359.95		29583
-SIEMENS		0.04		3630.0		24425
-CONCOR		0.32		751.0		19767
-LTIM		0.3		5489.0		16538
-SAFARI		0.08		4496.85		3417
+MAZDOCK		0.14		2042.8		198852
+ABBOTINDIA		-0.42		23944.85		693
