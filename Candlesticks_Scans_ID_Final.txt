@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.04		558.7		334168
+UPL		-0.11		558.35		336843
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LODHA		-0.73		884.9		1339059
-APLAPOLLO		-1.67		1668.0		380353
-DIXON		0.19		5287.95		63827
+APLAPOLLO		-1.66		1668.05		381505
+DIXON		0.17		5286.8		64054
