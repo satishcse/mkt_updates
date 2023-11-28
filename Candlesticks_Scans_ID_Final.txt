@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.67		1015.25		2497291
+AXISBANK		0.61		1014.7		2513830
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AIAENG		-0.33		3529.5		20264
-BAJAJHLDNG		-1.42		7332.95		8994
+AJANTPHARM		-1.83		1922.1		22745
