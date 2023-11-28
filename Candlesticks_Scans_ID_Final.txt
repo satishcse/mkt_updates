@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.11		2518		1434576
+ONGC		2.09		192.8		6295789
+HINDUNILVR		0.17		2519.45		1439998
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UTIAMC		0.23		791.9		277925
+UTIAMC		0.24		792		278031
