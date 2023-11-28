@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.68		1015.35		2469779
+AXISBANK		0.7		1015.55		2474448
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GESHIP		-1.33		816		134877
+GESHIP		-1.33		816		135066
