@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		2.08		1650.95		1306583
+BAJAJFINSV		2.04		1650.25		1307238
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CGCL		0.13		746.95		117136
-CRAFTSMAN		-2.15		5013.3		32160
+
