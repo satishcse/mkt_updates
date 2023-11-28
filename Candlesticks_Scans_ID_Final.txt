@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.42		562.7		2254065
-AXISBANK		0.63		1014.85		2133362
-GRASIM		0.62		1961.45		160409
+AXISBANK		0.59		1014.5		2140830
+GRASIM		0.65		1962.0		162581
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAYMOND		-2.81		1602.05		344938
+AJANTPHARM		-1.68		1925.15		19697
