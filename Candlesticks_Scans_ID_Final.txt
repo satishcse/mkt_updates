@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.07		210.6		6185717
-HINDALCO		1.61		516.0		4317827
-SBILIFE		-0.97		1396.05		712266
-JSWSTEEL		-0.08		781.45		390864
-DRREDDY		0.65		5682.65		137080
+TATASTEEL		0.2		126.2		7913179
+POWERGRID		0.07		210.6		6196923
+HINDALCO		1.61		515.95		4327666
+SBILIFE		-0.97		1396.05		713734
+JSWSTEEL		-0.08		781.4		391355
 
 Bullish_Hammer_15m_N500								 
 ======================= 
