@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.24		126.25		9866684
-ITC		-0.37		436.2		4663104
-HCLTECH		-0.7		1299.95		1094761
-TITAN		1.27		3440.0		458223
+ITC		-0.33		436.35		4672739
+HCLTECH		-0.71		1299.8		1095905
+TITAN		1.27		3440.0		458920
 
 Bullish_Hammer_15m_N500								 
 ======================= 
