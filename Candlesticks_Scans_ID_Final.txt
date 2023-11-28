@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CEATLTD		0.27		2104.55		77415
-MAPMYINDIA		0.38		2209.45		64718
-AMBER		-2.57		3179.95		42484
+AMBER		-2.7		3175.9		42499
