@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		2.03		1650		1297194
+BAJAJFINSV		1.97		1649.05		1301567
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SAREGAMA		-2.68		364.3		459169
