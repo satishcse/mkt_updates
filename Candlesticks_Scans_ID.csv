@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BPCL,3.0,422.9,9688297
-NTPC,1.08,256.65,4204999
-KOTAKBANK,0.02,1744.3,2270211
+BPCL,3.0,422.9,9693170
+POWERGRID,-0.29,209.85,9538162
+NTPC,1.06,256.6,4210167
+KOTAKBANK,0.03,1744.45,2277344
+ASIANPAINT,0.47,3150.75,456496
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+MEDPLUS,-1.47,795.35,38430
