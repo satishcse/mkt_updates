@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.26		209.9		3910929
-TITAN		0.93		3428.7		144849
+POWERGRID		-0.29		209.85		3935646
+TITAN		0.93		3428.7		146774
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RAYMOND		-2.05		1614.6		232313
