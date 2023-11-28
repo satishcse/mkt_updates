@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.18		1020.45		4764152
-HINDUNILVR		-0.01		2515.0		1471401
+AXISBANK		1.17		1020.25		4780465
+HINDUNILVR		-0.01		2514.95		1472487
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CDSL		0.06		1803.15		882174
-GMMPFAUDLR		-1.41		1514.5		152377
-GALAXYSURF		-0.35		2806.2		8508
+CDSL		0.1		1803.75		884010
+GALAXYSURF		-0.35		2806.2		8509
