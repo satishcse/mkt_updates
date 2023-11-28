@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		0.16		5286.5		63399
+APLAPOLLO		-1.66		1668.05		377826
+SUNTECK		0.71		494.3		223393
+NATCOPHARM		-0.21		778.8		152409
+DIXON		0.17		5287.0		63726
