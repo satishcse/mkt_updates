@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.29		1198.95		61271
+SUNPHARMA		0.28		1198.85		64604
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GICRE		-2.38		299.8		1569011
-TATACOMM		-1.68		1694.8		265187
-MUTHOOTFIN		0.29		1328.75		22440
-GUJALKALI		-0.22		716.7		5337
-KAYNES		0.85		2471.0		5257
+PEL		-0.16		889.5		186533
+BBTC		-3.38		1394.35		58103
+KAYNES		0.85		2471.0		5317
+SKFINDIA		0.16		4609.35		882
