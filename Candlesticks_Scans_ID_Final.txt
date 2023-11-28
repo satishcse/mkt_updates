@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.33		436.35		4672739
-HCLTECH		-0.71		1299.8		1095905
-TITAN		1.27		3440.0		458920
+ITC		-0.37		436.2		4678269
+HCLTECH		-0.73		1299.65		1097293
+TECHM		-0.52		1191.65		456336
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		0.39		1554.55		24578
+OLECTRA		-0.71		1208.0		267945
+ZYDUSWELL		0.52		1556.6		24711
