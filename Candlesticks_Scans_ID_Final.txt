@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		0.66		2192.3		22267
-JUBLINGREA		0.79		428.6		12264
-COROMANDEL		0.18		1126.25		8435
-LUXIND		0.28		1366.5		3280
+COROMANDEL		0.16		1126.1		8502
+LUXIND		0.38		1367.85		3327
+ZYDUSWELL		0.04		1553.0		830
