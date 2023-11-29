@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AUROPHARMA		-0.27		1013.4		231081
+BEML		-0.19		2431.0		26970
+ALKEM		0.52		4577.95		23651
