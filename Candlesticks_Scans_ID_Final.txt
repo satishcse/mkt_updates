@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.12		127		3606207
+TATASTEEL		0.08		126.95		3627375
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONATSOFTW		0.67		1262.05		54428
-KPRMILL		-0.78		847.65		54059
-NH		-0.06		1248.95		47219
-DCMSHRIRAM		0.17		950.55		13017
-JBMA		0.45		1270.0		3402
+SONATSOFTW		0.97		1265.8		56378
+KPRMILL		-0.76		847.85		54216
+NH		-0.08		1248.75		47554
+DCMSHRIRAM		0.22		951.05		13027
+AJANTPHARM		-0.09		1917.95		11896
+JBMA		0.45		1270.0		3517
