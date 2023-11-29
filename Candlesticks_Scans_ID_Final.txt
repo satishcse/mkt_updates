@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.67		127.7		19390116
-HINDALCO		0.11		516.15		5309165
+POWERGRID		0.33		210.9		8010728
+WIPRO		2.37		406.25		6747629
+ADANIENT		-0.15		2419.9		3991827
+TECHM		1.7		1222.9		1533973
+ASIANPAINT		0.44		3162.05		456698
+BAJAJ-AUTO		0.69		6039.6		329423
 
 Bullish_Hammer_15m_N500								 
 ======================= 
