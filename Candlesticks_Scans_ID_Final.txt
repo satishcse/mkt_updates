@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.49		1197.2		1008915
+TATASTEEL		0.67		127.7		17128356
+WIPRO		2.36		406.2		6357437
+HINDALCO		-0.14		514.9		4461933
+INFY		1.06		1457.95		2522622
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KAYNES		-0.66		2448.0		34890
-BAJAJHLDNG		-0.47		7286.35		11499
-PGHH		-1.17		17374.5		7085
+
