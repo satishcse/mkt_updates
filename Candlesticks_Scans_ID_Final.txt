@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.43		785.75		118037
+JSWSTEEL		0.42		785.6		123477
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		1.05		2449.0		1586956
-DMART		-0.03		3910.85		63693
-RADICO		-0.53		1471.9		16895
-SOLARINDS		-0.9		6606.65		10822
-FINEORG		0.33		4237.5		3611
-3MINDIA		-0.15		30379.9		348
+DALBHARAT		0.24		2211.5		29227
+GLAXO		0.23		1647.85		19532
+RADICO		-0.41		1473.7		17421
+SOLARINDS		-0.9		6606.95		11161
+FINEORG		0.34		4238.0		3651
+ATUL		0.41		6552.05		1402
