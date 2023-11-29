@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.02		210.15		1997979
-ASIANPAINT		0.45		3162.5		92799
+POWERGRID		-0.05		210.1		2023842
+ASIANPAINT		0.4		3161.05		94117
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+APARINDS		0.98		5502.7		34409
