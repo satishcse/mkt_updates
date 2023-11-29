@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.58		937.3		651771
-GRASIM		0.7		1989.7		565847
+TATACONSUM		0.61		937.5		652973
+GRASIM		0.7		1989.75		566103
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PGHH		-1.33		17346		5951
