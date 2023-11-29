@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-LT,0.43,3063.1,640476
-APOLLOHOSP,0.73,5406.1,120478
+LT,0.45,3063.85,642195
+APOLLOHOSP,0.77,5408.0,120842
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ADANIPOWER,-0.11,445.7,26927984
+ADANIENSOL,3.34,894.0,7858121
+TATAELXSI,0.66,8361.0,63433
