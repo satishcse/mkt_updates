@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.64		568.05		5100349
-HINDALCO		0.26		516.95		3784730
-BHARTIARTL		0.96		994.4		2736281
-HINDUNILVR		0.3		2518.0		512480
+POWERGRID		0.31		210.85		5183488
+SBIN		0.62		567.95		5147062
+HINDALCO		0.25		516.9		3796903
+BHARTIARTL		0.92		993.95		2762874
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SOBHA		-1.31		884		145477
