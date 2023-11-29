@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		0		210.2		2094044
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NH		-0.23		1246.85		42781
-HDFCAMC		-0.09		2895.6		27014
-JBMA		0.45		1270.0		2587
+JBMA		0.45		1270		2595
