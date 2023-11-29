@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.71		127.75		21563375
-SBIN		0.74		568.65		9784126
-LTIM		2.02		5589.85		338851
-NESTLEIND		-0.61		24070.0		59309
+TATASTEEL		0.75		127.8		21673583
+SBIN		0.76		568.75		9834183
+LTIM		2.02		5589.9		339541
+NESTLEIND		-0.63		24066.6		59582
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-THERMAX		-2.31		2515		227815
+USHAMART		-2.43		318.9		196531
+3MINDIA		-0.41		30297.95		1368
