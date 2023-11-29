@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.71		127.75		19330737
-HINDALCO		0.1		516.1		5302379
+TATASTEEL		0.67		127.7		19390116
+HINDALCO		0.11		516.15		5309165
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-VMART		-0.76		1777.85		15453
+
