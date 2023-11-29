@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+LTIM		1.82		5579		179691
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LODHA		-1.46		856.8		843008
-ACC		-0.13		1866.6		202393
-DALBHARAT		-0.92		2186.0		117764
+LODHA		-1.42		857.15		849533
