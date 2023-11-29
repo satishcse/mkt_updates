@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.01		192.0		8084517
-LT		1.15		3085.0		1676162
-BAJFINANCE		0.05		7130.95		637972
+TATASTEEL		0.75		127.8		21306364
+SBIN		0.79		568.9		9642055
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KSB		-1.19		3288		20143
+
