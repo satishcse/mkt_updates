@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.65		568.1		5313736
-POWERGRID		0.31		210.85		5240568
-BHARTIARTL		1.02		994.95		2816945
-KOTAKBANK		0.74		1755.1		1278315
+SBIN		0.58		567.75		5334883
+BHARTIARTL		0.92		993.95		2832618
+KOTAKBANK		0.73		1755.0		1294763
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.18		3820.0		180067
-ERIS		0.33		945.15		21439
+EICHERMOT		-0.18		3820		181027
+DALBHARAT		-1.05		2183		138475
