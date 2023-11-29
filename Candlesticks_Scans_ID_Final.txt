@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.75		127.8		12632652
-ITC		-0.07		434.95		5215808
-GRASIM		0.67		1989.15		534023
+HINDALCO		0.26		516.95		3752683
+SUNPHARMA		0.08		1192.35		737938
+HINDUNILVR		0.34		2519.05		485334
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-COCHINSHIP		0.87		1142.65		2085983
+
