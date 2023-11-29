@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.14		836.55		6609741
+ADANIPORTS		-0.14		836.55		6612214
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANYAVAR		-1.25		1389.0		278498
-PGHH		-1.25		17359.8		6738
+MANYAVAR		-0.96		1393.0		278829
+ALKYLAMINE		0.16		2139.15		12200
+PGHH		-1.25		17359.3		6741
