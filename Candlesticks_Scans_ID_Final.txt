@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.2		127.1		3551732
-ICICIBANK		0.32		928.45		1177096
+TATASTEEL		0.2		127.1		3578145
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-0.08		2895.95		29071
-JBMA		0.45		1270.0		3243
+SONATSOFTW		0.67		1262.1		53732
+NH		-0.08		1248.7		47110
+DCMSHRIRAM		0.26		951.4		12927
