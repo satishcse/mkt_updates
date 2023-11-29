@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COROMANDEL		0.16		1126.1		8502
-LUXIND		0.38		1367.85		3327
-ZYDUSWELL		0.04		1553.0		830
+AEGISCHEM		0.3		345.4		32351
+CENTURYTEX		0.94		1245.25		23160
+TATAINVEST		1.08		4085.85		20458
+RHIM		0.66		727.7		8952
+COROMANDEL		0.12		1125.55		8734
+HONAUT		0.11		36698.9		173
