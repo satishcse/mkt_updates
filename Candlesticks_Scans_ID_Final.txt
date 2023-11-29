@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		0.08		1169.0		46184
-DEEPAKNTR		0.88		2196.95		28395
-COROMANDEL		0.21		1126.65		9672
-MASTEK		0.96		2331.2		5244
+DEEPAKNTR		0.97		2199.0		30220
+COROMANDEL		0.28		1127.4		9677
+MASTEK		1.03		2332.9		5281
+HONAUT		0.11		36700.0		223
