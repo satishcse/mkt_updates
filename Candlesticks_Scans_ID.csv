@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,0.33,210.9,5214168
-SBIN,0.65,568.1,5203760
-BHARTIARTL,0.92,994.0,2780085
+SBIN,0.63,568.0,5230397
+POWERGRID,0.33,210.9,5227184
+BHARTIARTL,0.97,994.45,2811342
+KOTAKBANK,0.76,1755.55,1267111
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-ERIS,0.33,945.15,21317
+EICHERMOT,-0.19,3819.55,179084
+ERIS,0.33,945.15,21439
