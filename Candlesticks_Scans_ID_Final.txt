@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATAMOTORS		0.31		699.65		4575857
-BPCL		-0.48		422.45		2609279
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KPITTECH		-0.94		1475.85		315097
+SKFINDIA		-0.32		4536.2		4183
+PAGEIND		-0.36		37518.0		3252
