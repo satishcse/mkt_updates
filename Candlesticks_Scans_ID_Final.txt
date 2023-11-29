@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.41		3062.65		617314
+LT		0.41		3062.5		624829
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPOWER		-0.64		443.35		25789923
-ADANIENSOL		3.5		895.35		7536488
+ADANIPOWER		-0.81		442.6		25922919
+ADANIENSOL		3.25		893.2		7566285
