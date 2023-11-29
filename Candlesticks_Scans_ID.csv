@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-WIPRO,2.18,405.5,4316100
-UPL,0.67,567.35,907303
-CIPLA,0.66,1200.15,540084
+WIPRO,2.22,405.65,4320152
+ITC,-0.14,434.65,4254049
+UPL,0.66,567.25,907785
+CIPLA,0.65,1200.1,541983
+TITAN,-0.1,3439.0,323325
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BAJAJHLDNG,-0.11,7313,7684
