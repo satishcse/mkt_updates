@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,0,210.2,2117608
+TATASTEEL,0.2,127.1,3351042
+POWERGRID,0.0,210.2,2180741
+ICICIBANK,0.32,928.45,1135123
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+POLYCAB,-0.36,5181.15,113403
+SANOFI,-1.17,7930.5,2060
