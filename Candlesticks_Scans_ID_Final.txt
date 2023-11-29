@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.17		210.55		2753039
+POWERGRID		0.17		210.55		2769001
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.08		2013.8		197922
+LODHA		-0.62		864.1		443863
+PAGEIND		-0.19		37583.65		2160
