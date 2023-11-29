@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		2.13		1228.05		976164
-LT		0.41		3062.55		673807
+COALINDIA		-0.37		340.7		6985684
+TECHM		2.1		1227.65		976905
+LT		0.44		3063.3		675660
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SYRMA		-1.51		550.1		343894
+
