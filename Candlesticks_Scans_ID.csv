@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,1.39,1549.95,10338739
-AXISBANK,2.1,1042.6,4436688
-ONGC,-0.9,192.2,4028405
-SUNPHARMA,0.29,1194.75,891700
+HDFCBANK,1.4,1550.1,10362584
+AXISBANK,2.07,1042.3,4453790
+ONGC,-0.88,192.25,4038777
+SUNPHARMA,0.24,1194.25,893905
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SWSOLAR,-3.2,332.35,467626
