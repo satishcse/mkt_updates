@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		1.15		4767.5		70716
+BRITANNIA		1.13		4766.65		71448
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.27		2009.85		189428
-ALKEM		0.06		4556.75		54829
+BAJFINANCE		-0.09		7120.8		161864
