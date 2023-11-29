@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LODHA		-0.62		864.1		451845
-SHREECEM		0.08		26087.4		2910
+LODHA		-0.64		863.95		455448
+POLYCAB		-0.61		5167.9		153008
+HAVELLS		0.61		1289.05		138168
+SHREECEM		0.04		26078.05		2918
