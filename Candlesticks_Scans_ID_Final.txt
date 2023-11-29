@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.8		1556.1		15170607
-ONGC		-1.01		192.0		7862395
-LT		1.18		3086.1		1655322
-BAJFINANCE		0.04		7130.65		626932
+HDFCBANK		1.75		1555.45		15288121
+ONGC		-1.01		192.0		7910855
+LT		1.18		3085.9		1658604
+BAJFINANCE		0.03		7130.0		630297
 
 Bullish_Hammer_15m_N500								 
 ======================= 
