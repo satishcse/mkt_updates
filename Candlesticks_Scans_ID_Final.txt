@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.19		698.8		4325661
-ICICIBANK		0.38		929.0		1874704
+TATAMOTORS		0.21		698.95		4337852
+ICICIBANK		0.39		929.15		1882803
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LODHA		-0.94		861.3		533764
+ZEEL		-3.73		246.25		13823072
+LODHA		-0.9		861.7		534209
