@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.42		785.6		123477
+JSWSTEEL		0.4		785.45		125981
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		0.24		2211.5		29227
-GLAXO		0.23		1647.85		19532
-RADICO		-0.41		1473.7		17421
-SOLARINDS		-0.9		6606.95		11161
-FINEORG		0.34		4238.0		3651
-ATUL		0.41		6552.05		1402
+RADICO		-0.52		1472.05		18630
+SOLARINDS		-0.93		6604.65		11302
