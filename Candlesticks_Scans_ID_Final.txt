@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.58		2409.45		4066626
+NTPC		0.31		258.35		7072306
+ADANIENT		-0.61		2408.8		4071084
+INFY		1.06		1458.05		3176561
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-3.26		2312.05		166593
+BLUESTARCO		-1.21		986.9		77105
