@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.33		210.9		8010728
-WIPRO		2.37		406.25		6747629
-ADANIENT		-0.15		2419.9		3991827
-TECHM		1.7		1222.9		1533973
-ASIANPAINT		0.44		3162.05		456698
-BAJAJ-AUTO		0.69		6039.6		329423
+ADANIENT		-0.15		2419.75		3994910
+ASIANPAINT		0.47		3163.2		458047
+BAJAJ-AUTO		0.7		6039.95		330132
 
 Bullish_Hammer_15m_N500								 
 ======================= 
