@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.17		210.55		7188825
-NTPC		0.17		258.0		5894785
+POWERGRID		0.21		210.65		7205025
+NTPC		0.19		258.05		5920234
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAXO		-1.46		1619.95		101148
+GALAXYSURF		-0.57		2787.65		7981
