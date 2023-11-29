@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.67		127.7		21465676
-SBIN		0.72		568.5		9730279
-POWERGRID		0.43		211.1		9315679
-INFY		1.2		1460.0		3586444
-NESTLEIND		-0.58		24079.0		59003
+TATASTEEL		0.71		127.75		21563375
+SBIN		0.74		568.65		9784126
+LTIM		2.02		5589.85		338851
+NESTLEIND		-0.61		24070.0		59309
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGCL		-1.4		740.45		1096437
+THERMAX		-2.31		2515		227815
