@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.31		258.35		7072306
-ADANIENT		-0.61		2408.8		4071084
-INFY		1.06		1458.05		3176561
+TATASTEEL		0.67		127.7		20161239
+ONGC		-0.98		192.05		7252561
+GRASIM		1.14		1998.4		725418
+BAJFINANCE		0.04		7130.15		611374
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BLUESTARCO		-1.21		986.9		77105
+
