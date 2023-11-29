@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.42		1550.35		10375174
-AXISBANK		2.03		1041.9		4469579
-ONGC		-0.88		192.25		4063014
-NESTLEIND		-0.62		24069.5		34800
+HDFCBANK		1.4		1550.1		10383822
+AXISBANK		2.1		1042.6		4492313
+ONGC		-0.9		192.2		4073433
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SWSOLAR		-3.19		332.4		468408
+
