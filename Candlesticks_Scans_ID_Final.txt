@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.59		128.5		17568997
-RELIANCE		-0.73		2383.2		6022743
-LT		0.51		3099.45		917309
-GRASIM		0.06		2004.5		695202
+TATASTEEL		0.63		128.55		17636352
+RELIANCE		-0.71		2383.55		6042001
+LT		0.52		3099.8		924594
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-OFSS		0.28		4033.9		118532
+
