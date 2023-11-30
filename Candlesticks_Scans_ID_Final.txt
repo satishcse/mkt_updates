@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VMART		-0.55		1762.5		4320
+RELIANCE		-0.69		2384.2		2934532
+MAZDOCK		-0.77		1994.3		190976
+MTARTECH		0.64		2241.55		68251
+KIMS		0.44		1965.9		23945
 PGHH		-1.56		17011.1		4034
-SANOFI		0.01		8045.9		2368
+SANOFI		0.0		8045.45		2371
