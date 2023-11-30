@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		-1.36		2746.1		73919
-KEI		0.21		2806.9		35187
-PGHH		-1.6		17004.55		3912
+ADANIPOWER		-3.28		418.9		4310472
+INDUSINDBK		-0.8		1471.65		1476366
+LT		-0.48		3068.95		351884
+SOLARINDS		-0.63		6494.9		15003
