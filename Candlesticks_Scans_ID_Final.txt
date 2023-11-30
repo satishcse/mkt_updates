@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-1.25		2314.1		680061
-KEI		0.21		2807.05		35102
-PGHH		-1.77		16974.05		3831
-POWERINDIA		-0.04		4723.0		3573
+CAMS		-1.36		2746.1		73919
+KEI		0.21		2806.9		35187
+PGHH		-1.6		17004.55		3912
