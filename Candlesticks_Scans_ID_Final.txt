@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		-1.91		2558.65		22171
-PGHH		-1.76		16977.45		3780
+ADANIPOWER		-3.27		418.95		4232443
+PGHH		-1.74		16980.05		3804
+POWERINDIA		-0.04		4723.0		3573
