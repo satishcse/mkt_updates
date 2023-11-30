@@ -6,10 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-0.78		1994.05		187408
-MTARTECH		0.53		2239.0		64594
-AARTIDRUGS		-0.26		494.0		44517
-KIMS		0.43		1965.6		23792
-SOLARINDS		-0.46		6506.1		15234
-PGHH		-1.53		17016.5		3995
-SANOFI		-0.11		8036.2		2332
+VMART		-0.55		1762.5		4320
+PGHH		-1.56		17011.1		4034
+SANOFI		0.01		8045.9		2368
