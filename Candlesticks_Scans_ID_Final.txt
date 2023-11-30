@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		1.22		1216.9		2219469
+SUNPHARMA		1.18		1216.35		2230853
+ULTRACEMCO		2.81		8977.7		575945
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JBMA		-1.29		1240		17295
+
