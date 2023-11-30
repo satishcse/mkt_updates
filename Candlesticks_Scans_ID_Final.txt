@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.51		128.4		24768434
-SBIN		-0.51		565.7		13846352
-BHARTIARTL		1.46		1009.9		4593888
-INFY		-0.22		1456.35		3772302
-KOTAKBANK		-0.09		1751.8		3608135
-M&M		2.49		1659.45		3435479
+SBIN		-0.46		566.0		13917898
+BHARTIARTL		1.47		1010.0		4635240
+INFY		-0.25		1455.95		3781219
+KOTAKBANK		-0.11		1751.55		3623800
+M&M		2.47		1659.1		3440520
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BBTC		-1.93		1366.85		51688
+BBTC		-1.92		1366.95		51967
