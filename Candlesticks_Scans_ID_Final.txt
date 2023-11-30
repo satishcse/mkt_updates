@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.62		1549.5		10687671
-ITC		-0.24		436.15		6332197
-WIPRO		0.02		406.35		4047952
+ITC		-0.25		436.1		6349480
+RELIANCE		-0.66		2384.95		5646135
+UPL		-0.32		568.25		1182454
+JSWSTEEL		0.47		797.0		993905
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OFSS		0.43		4039.9		104718
+BOSCHLTD		-0.68		21515.65		7003
