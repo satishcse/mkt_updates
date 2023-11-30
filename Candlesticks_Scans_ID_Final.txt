@@ -1,22 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		-0.66		256.7		726663
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MFSL		-0.12		1013.15		28265
-CEATLTD		0.52		2110.55		19887
-SUVENPHAR		-0.26		653.65		12092
-AAVAS		0.24		1443.4		11164
-JUBLPHARMA		0.22		425.65		10986
-LTTS		0.47		4697.8		10330
-KAJARIACER		1.23		1323.0		7636
-CENTURYTEX		-0.2		1246.6		5382
-AJANTPHARM		0.56		1959.9		4036
-POWERINDIA		0.61		4753.45		1480
-GRINDWELL		0.61		2091.65		1395
-JBMA		0.53		1262.9		1184
-ABBOTINDIA		0.13		23567.7		1160
+GODREJPROP		-0.64		1828.15		60558
+NAVINFLUOR		-0.21		3696.15		5505
