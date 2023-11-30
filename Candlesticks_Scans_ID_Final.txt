@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		0.57		212.25		3477266
-NTPC		-0.66		256.7		2403388
-NIFTY		-0.24		20049.1		0
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FLUOROCHEM		-1.2		2875		15410
