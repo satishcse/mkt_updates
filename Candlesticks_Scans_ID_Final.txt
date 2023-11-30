@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		-0.17		10581.2		133145
-NESTLEIND		0.18		24111.45		17651
+MARUTI		-0.12		10586.3		133753
+NESTLEIND		0.22		24121.35		17689
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BIRLACORPN		-0.35		1363.95		25675
