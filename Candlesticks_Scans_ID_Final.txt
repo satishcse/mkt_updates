@@ -5,9 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PIDILITIND		-0.32		2495.65		48450
-CREDITACC		0.03		1692.35		28550
-KIMS		0.5		1966.95		22164
-ENDURANCE		-0.49		1630.15		3478
-HONAUT		0.22		36723.75		345
+
