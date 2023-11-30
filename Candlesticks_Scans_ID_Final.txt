@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-1.78		2353.95		1333084
+ADANIENT		-1.82		2353		1335953
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TECHM		-0.72		1212.95		679533
-GRASIM		0.09		2005.0		522577
+TECHM		-0.73		1212.8		680808
+GRASIM		0.09		2005.0		529433
