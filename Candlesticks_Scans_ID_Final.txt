@@ -1,16 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		0.57		212.25		3477266
+NTPC		-0.66		256.7		2403388
+NIFTY		-0.24		20049.1		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-COALINDIA		-0.41		340.95		2166468
-HAL		-1.0		2320.0		719625
-MAZDOCK		-0.68		1995.95		194311
-TEJASNET		-1.57		786.0		123186
-PHOENIXLTD		-2.49		2262.25		58625
-KIMS		0.38		1964.7		24052
-GRINFRA		-0.33		1048.0		9964
-PGHH		-1.44		17032.6		4268
+
