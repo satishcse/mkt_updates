@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.91		3119.85		740281
+ASIANPAINT		-0.91		3119.85		741480
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAGEIND		-0.68		37100		9456
+TIINDIA		-2.99		3350.05		135907
+PAGEIND		-0.68		37100.0		9719
