@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.46		2389.75		3410591
-BHARTIARTL		0.31		998.5		787973
+BHARTIARTL		0.26		998		804088
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POWERINDIA		-0.16		4717.15		4242
+
