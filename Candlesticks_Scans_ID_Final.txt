@@ -2,15 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.71		127.75		23092165
-SBIN		0.74		568.6		10299034
-UPL		1.15		570.05		1780095
+TATASTEEL		0.04		127.8		56017
+SBIN		0.2		569.75		28417
+UPL		-0.01		570.0		4767
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIENSOL		1.23		875.7		13627653
-ADANIGREEN		-1.05		1041.7		6654207
-LODHA		-2.16		850.7		2327814
-TRENT		0.17		2676.4		460234
-MAPMYINDIA		-1.99		2139.6		116638
+
