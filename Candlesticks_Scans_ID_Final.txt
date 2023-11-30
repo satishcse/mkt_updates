@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.29		341.35		3292207
-LTIM		0.34		5607.6		118254
+COALINDIA		-0.31		341.3		3293605
+LTIM		0.31		5606.1		118541
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAHLDNG		-1.23		995.45		53448
+SOLARINDS		-2.24		6390.0		89269
+CHOLAHLDNG		-1.24		995.3		53512
