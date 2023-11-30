@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		1.37		1218.7		2174370
+SUNPHARMA		1.21		1216.7		2192082
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COLPAL		-0.53		2196.65		397228
-ZYDUSWELL		0.1		1551.85		27579
+JBMA		-1.29		1240		17135
