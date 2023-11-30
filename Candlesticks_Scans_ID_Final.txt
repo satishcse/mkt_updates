@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.44		6042.95		68749
+BAJAJ-AUTO		-0.41		6045.1		69069
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CARBORUNIV		-1.67		1134.9		53580
+SOLARINDS		-0.56		6499.55		41174
