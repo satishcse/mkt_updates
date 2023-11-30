@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.24		436.15		6356221
-RELIANCE		-0.66		2384.85		5654239
-UPL		-0.34		568.1		1183641
-JSWSTEEL		0.45		796.8		995362
+ITC		-0.26		436.05		6382707
+UPL		-0.38		567.9		1189074
+JSWSTEEL		0.43		796.7		998073
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BOSCHLTD		-0.67		21518.7		7030
+
