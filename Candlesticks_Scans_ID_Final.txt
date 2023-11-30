@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.24		261.6		18833955
-ULTRACEMCO		3.17		9009.2		930235
+NTPC		1.24		261.6		19282597
+ULTRACEMCO		3.17		9009.2		945533
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GAEL		2.62		373.7		507735
-VMART		-1.59		1744.1		59174
+TATAMTRDVR		-1.18		474.4		57851296
+INDUSINDBK		-1.49		1461.4		36688277
+EIDPARRY		0.46		531.75		1687801
+GAEL		2.7		374.0		521040
