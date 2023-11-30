@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.04		406.4		4035612
-ADANIPORTS		-0.68		829.9		2649565
-ULTRACEMCO		2.0		8907.45		445757
+WIPRO		0.0		406.25		4041913
+ADANIPORTS		-0.67		829.95		2652517
+ULTRACEMCO		2.0		8907.5		446890
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AARTIDRUGS		-1.67		487.05		226724
