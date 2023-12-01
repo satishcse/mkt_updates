@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.86		129.0		8854337
-HDFCBANK		0.18		1561.6		5102048
-TATACONSUM		0.44		944.9		411845
+TATASTEEL		0.86		129.0		8888113
+ITC		2.63		447.25		8399852
+HDFCBANK		0.18		1561.55		5119975
+TATACONSUM		0.44		944.9		413509
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WESTLIFE		-0.32		896.95		26441
+WESTLIFE		-0.06		899.25		26919
