@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.45		944.95		910714
-CIPLA		-0.47		1206.65		828359
-BAJAJ-AUTO		-0.58		6054.95		358756
-DRREDDY		-0.17		5778.5		195706
+TATACONSUM		0.45		944.95		911419
+CIPLA		-0.51		1206.15		829700
+BAJAJ-AUTO		-0.61		6053.3		358951
+DRREDDY		-0.17		5778.5		195751
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FIVESTAR		-1.96		736.4		206760
+FIVESTAR		-1.91		736.8		207930
