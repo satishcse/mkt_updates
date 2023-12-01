@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.15		195.25		6377713
-NESTLEIND		-0.16		24198.25		31702
+ONGC		0.13		195.2		6417931
+WIPRO		-1.36		407.45		3526435
+NESTLEIND		-0.16		24198.55		31752
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WESTLIFE		-1.12		889.75		50150
+BALAMINES		0.09		2018.6		21616
