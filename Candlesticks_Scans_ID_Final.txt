@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		2.66		447.4		12040965
-TATAMOTORS		-0.21		704.95		6663726
-TATACONSUM		0.45		945.0		609577
+ITC		2.66		447.4		12052243
+TATAMOTORS		-0.21		704.95		6682019
+UPL		0.8		575.2		1226769
+TATACONSUM		0.45		944.95		610831
+BAJAJ-AUTO		-0.58		6055.05		342900
 
 Bullish_Hammer_15m_N500								 
 ======================= 
