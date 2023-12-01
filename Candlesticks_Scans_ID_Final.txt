@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.9		129.05		10404237
-HDFCBANK		0.3		1563.4		5845815
-BRITANNIA		0.92		4897.1		201889
+HDFCBANK		0.3		1563.45		5860559
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JBMA		0.57		1250		9050
+
