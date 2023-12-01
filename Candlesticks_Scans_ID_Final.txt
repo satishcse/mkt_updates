@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.7		2375		1034887
+ADANIENT		0.69		2374.85		1039833
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SCHAEFFLER		0.42		2850		15324
+
