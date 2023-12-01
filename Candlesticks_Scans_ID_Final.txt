@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		4.57		273.25		21573846
-ITC		2.56		446.95		12230214
-TATAMOTORS		-0.22		704.85		6912959
-TATACONSUM		0.44		944.85		664152
+NTPC		4.55		273.2		21585499
+ITC		2.55		446.9		12243215
+TATAMOTORS		-0.22		704.85		6918371
+TATACONSUM		0.43		944.8		664977
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELAXO		0.32		913		87548
+GPIL		-0.86		680.95		297701
+RELAXO		0.44		914.05		87635
