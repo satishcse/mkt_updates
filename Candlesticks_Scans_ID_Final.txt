@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.26		704.55		2826556
-APLLTD		0.43		749.0		128577
-DALBHARAT		0.65		2231.95		55563
-SHREECEM		-0.29		26664.0		4155
+SHREECEM		-0.23		26679.9		4162
