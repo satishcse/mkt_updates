@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.33		572.25		7247694
-HCLTECH		-0.22		1337.9		768457
-TCS		0.37		3500.65		579533
+TATASTEEL		0.74		128.85		13388965
+SBIN		1.34		572.3		7254760
+TCS		0.42		3502.15		583991
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-0.51		2358.9		84135
-JBCHEPHARM		1.31		1469.95		68887
-BATAINDIA		0.26		1622.0		54076
+PHOENIXLTD		-0.51		2358.9		84429
+JBCHEPHARM		1.32		1470.0		68950
+BATAINDIA		0.26		1622.0		54153
+SUNDRMFAST		0.08		1238.0		15186
