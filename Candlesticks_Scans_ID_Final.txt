@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		0.09		2360.7		548838
-POLYCAB		-0.39		5247.5		163243
-GALAXYSURF		-0.37		2837.75		3609
+APLAPOLLO		-0.61		1677.4		411005
+POLYCAB		-0.39		5247.1		163590
+ATUL		0.39		6624.75		7118
+GALAXYSURF		-0.38		2837.3		3613
