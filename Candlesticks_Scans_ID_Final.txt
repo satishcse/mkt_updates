@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.42		2387.45		5015843
-ADANIENT		0.41		2368.3		1361488
-TCS		0.53		3506.05		689611
+RELIANCE		0.43		2387.6		5025641
+ADANIENT		0.44		2369.0		1362750
+TCS		0.51		3505.5		691275
 
 Bullish_Hammer_15m_N500								 
 ======================= 
