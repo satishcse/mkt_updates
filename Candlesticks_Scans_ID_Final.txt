@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		0.97		2381.5		855936
+ADANIENT		0.95		2381		862671
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AUROPHARMA		0.16		1043.2		488159
+MPHASIS		-0.22		2349.5		60237
