@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		4.55		273.2		20818555
-LT		2.16		3176.35		1336408
+NTPC		4.48		273.0		20836145
+LT		2.15		3175.95		1338235
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDARMFIN		-4.48		3255.45		33258
+WELCORP		0.12		531.0		330728
+MPHASIS		-0.2		2350.0		89222
+SUNDARMFIN		-4.49		3255.05		33298
