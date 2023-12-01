@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		1.29		2031.25		746810
+GRASIM		0.98		2025.05		752880
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-9		1429.8		699937
+WHIRLPOOL		-9		1429.8		703459
