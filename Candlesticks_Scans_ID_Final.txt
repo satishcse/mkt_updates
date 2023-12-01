@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.44		944.9		907915
-CIPLA		-0.46		1206.7		823577
-TCS		0.52		3505.7		762585
-DRREDDY		-0.14		5779.95		195212
+TATACONSUM		0.44		944.9		908453
+CIPLA		-0.51		1206.1		826541
+TCS		0.52		3505.85		765392
+BAJAJ-AUTO		-0.55		6057.3		357641
+DRREDDY		-0.14		5779.95		195232
 
 Bullish_Hammer_15m_N500								 
 ======================= 
