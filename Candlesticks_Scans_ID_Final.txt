@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HINDALCO		0.38		517.6		786447
-JSWSTEEL		0.22		802.85		383612
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLLTD		0.15		746.95		135297
+COFORGE		-0.71		5719.9		51521
+BALAMINES		0.48		2026.4		7682
