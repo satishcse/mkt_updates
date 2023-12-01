@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.32		407.6		2740158
-UPL		0.59		574.0		1015417
-HCLTECH		-0.14		1339.0		657452
+WIPRO		-1.32		407.6		2754640
+UPL		0.59		574.0		1016598
+HCLTECH		-0.14		1339.0		658629
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AAVAS		-0.74		1429		141778
+
