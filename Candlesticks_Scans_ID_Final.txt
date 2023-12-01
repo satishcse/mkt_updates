@@ -1,17 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		1.01		261		21673126
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUZLON		1.01		40.0		811493651
-COLPAL		-1.06		2185.0		2350159
-EIDPARRY		1.34		536.4		1736256
-THERMAX		0.03		2520.0		1238252
-PATANJALI		0.03		1405.0		587959
-MANYAVAR		-1.79		1370.0		558856
-PRINCEPIPE		-0.29		684.05		354996
-FACT		-0.97		709.5		244546
+AMBUJACEM		0.15		439.9		766648
+POLYCAB		-0.38		5248.1		162409
+ERIS		-0.02		934.45		11212
+ATUL		0.41		6625.9		7111
+GALAXYSURF		-0.22		2842.0		3585
