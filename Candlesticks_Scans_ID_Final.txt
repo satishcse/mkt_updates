@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.26		571.85		7323241
-TCS		0.47		3504.05		595826
+SBIN		1.27		571.9		7332148
+TCS		0.45		3503.15		597372
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-0.36		2362.5		86515
-BATAINDIA		0.26		1622.0		54731
+PHOENIXLTD		-0.36		2362.55		86718
+BATAINDIA		0.26		1622.0		54826
