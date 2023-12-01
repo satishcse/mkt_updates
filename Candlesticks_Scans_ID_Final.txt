@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.6		574.1		1009782
+UPL		0.59		574.0		1013651
+HCLTECH		-0.19		1338.3		653228
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-WHIRLPOOL		-5.94		1477.85		279511
+
