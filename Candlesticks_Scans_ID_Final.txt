@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.34		572.3		7275705
-LT		2.34		3181.9		1360395
-TCS		0.42		3502.15		587418
+SBIN		1.25		571.8		7296890
+RELIANCE		0.47		2388.6		4632778
+TCS		0.47		3504.05		592077
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-0.35		2362.75		85772
+GILLETTE		-0.28		6347.4		3037
