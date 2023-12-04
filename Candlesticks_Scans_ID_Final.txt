@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.94		1585.55		13062170
-WIPRO		0.33		409.0		1965211
+HDFCLIFE		-0.32		680.0		1525336
+CIPLA		0.41		1210.6		900462
+BAJAJ-AUTO		1.46		6134.55		152219
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MOTILALOFS		-0.84		1180		84964
+
