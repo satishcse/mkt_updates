@@ -6,9 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LODHA		0.27		921.9		436647
-SRF		0.43		2422.95		154435
-LTTS		-1.17		4745.55		43270
-NESTLEIND		-0.36		24250.25		16143
-DCMSHRIRAM		-0.7		963.0		8201
-HONAUT		0.33		36801.4		471
+SRF		0.64		2428.0		157710
+SYNGENE		-0.23		745.0		96453
+LTTS		-1.14		4747.0		43326
+DCMSHRIRAM		-0.69		963.1		8299
