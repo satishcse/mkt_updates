@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.65		130.85		16252040
+TATASTEEL		0.73		130.95		16298660
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYMED		-0.42		1586.05		133288
+PAGEIND		-0.76		37505		10907
