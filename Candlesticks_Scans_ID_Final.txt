@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.73		276.3		16108770
-LT		4.02		3318.85		2654733
-JSWSTEEL		1.13		820.0		2306652
-HCLTECH		0.39		1341.85		1183612
+NTPC		2.64		276.05		16213279
+LT		4.02		3318.9		2663311
+JSWSTEEL		1.09		819.65		2320055
+HCLTECH		0.35		1341.4		1187914
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WESTLIFE		-2.89		868.25		150917
+WESTLIFE		-2.82		868.85		152044
