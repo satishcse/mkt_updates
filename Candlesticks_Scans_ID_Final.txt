@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CLEAN		-0.42		1438.75		108246
-LTTS		-1.17		4745.65		43604
-ATUL		-0.22		6637.2		7031
+LTTS		-1.15		4746.85		44407
+DCMSHRIRAM		-0.7		963.0		8462
