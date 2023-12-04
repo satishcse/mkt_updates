@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		3.92		3315.7		2775718
-HCLTECH		0.52		1343.65		1263677
-BAJAJFINSV		0.83		1699.95		1256040
+TATASTEEL		0.81		131.05		35670712
+BPCL		5.33		461.35		19160455
+BAJFINANCE		2.1		7411.85		979999
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ZENSARTECH		-0.03		534.9		453378
-BAYERCROP		-0.82		5330.0		5663
-HONAUT		-0.17		36618.0		2216
+
