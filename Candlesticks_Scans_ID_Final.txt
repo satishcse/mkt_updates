@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		2.52		449.05		5200577
-JSWSTEEL		0.57		815.45		352249
+BPCL		2.53		449.1		5218812
+JSWSTEEL		0.6		815.7		353546
+BAJAJ-AUTO		1.18		6117.5		96167
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CANFINHOME		0.79		819.95		464543
-SBILIFE		-0.34		1418.8		176396
+LUPIN		-1.8		1273.25		317306
+SBILIFE		-0.39		1418.1		177294
+TORNTPHARM		-0.29		2145.0		40118
