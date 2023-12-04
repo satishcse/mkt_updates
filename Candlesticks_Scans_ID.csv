@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.54,130.7,21064727
-KOTAKBANK,2.5,1794.3,2012022
-TECHM,0.17,1222.65,899052
-TITAN,0.18,3495.8,382642
+HDFCBANK,2.02,1586.85,13828253
+KOTAKBANK,2.49,1794.05,2014419
+TECHM,0.19,1222.85,900326
+TITAN,0.18,3495.85,383105
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TCS,-0.05,3509.85,736844
