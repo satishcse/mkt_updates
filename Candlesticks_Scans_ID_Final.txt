@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		3.89		3314.7		2763515
-HCLTECH		0.42		1342.35		1258432
+LT		3.92		3315.7		2775718
+HCLTECH		0.52		1343.65		1263677
+BAJAJFINSV		0.83		1699.95		1256040
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		0.31		2019.5		601358
-BAYERCROP		-0.82		5330.0		5637
+ZENSARTECH		-0.03		534.9		453378
+BAYERCROP		-0.82		5330.0		5663
+HONAUT		-0.17		36618.0		2216
