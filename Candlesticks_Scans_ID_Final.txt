@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.75		276.35		15910517
-AXISBANK		1.05		1116.3		11042448
-BHARTIARTL		1.89		1033.85		4319019
-LT		3.93		3316.05		2628212
-JSWSTEEL		1.23		820.75		2290361
+NTPC		2.7		276.2		15953561
+AXISBANK		1.08		1116.55		11069669
+LT		3.95		3316.7		2634397
+JSWSTEEL		1.23		820.75		2291565
 
 Bullish_Hammer_15m_N500								 
 ======================= 
