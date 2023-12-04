@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		2.47		1793.65		2020413
-TECHM		0.12		1222.0		903086
-TITAN		0.18		3495.9		384700
+KOTAKBANK		2.45		1793.3		2023401
+TECHM		0.1		1221.75		904944
+TITAN		0.18		3495.85		385433
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		-1.07		2713.8		99999
+VARROC		-0.34		569.65		564328
+LALPATHLAB		-1.06		2713.95		100165
