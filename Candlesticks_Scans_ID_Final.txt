@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.26		518.55		5233890
-TECHM		0.29		1224.05		1476016
+TECHM		0.29		1224.05		1479936
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CHALET		-1.02		578.65		209316
