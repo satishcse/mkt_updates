@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.14		2421.65		6665063
-WIPRO		0.0		407.65		4713620
-LT		3.99		3318.0		2745325
+RELIANCE		1.15		2421.95		6697415
+LT		3.9		3315.1		2756972
+HCLTECH		0.46		1342.85		1256862
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		0.28		2019.0		597601
-BAYERCROP		-0.84		5328.9		5626
+MAZDOCK		0.31		2019.5		599781
+ZENSARTECH		-0.07		534.7		447724
+BAYERCROP		-0.82		5330.0		5635
