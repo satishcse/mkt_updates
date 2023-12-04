@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.67		1031.6		4002076
-M&M		1.53		1650.45		1991155
-MARUTI		-0.43		10540.0		453824
+BHARTIARTL		1.52		1030.1		4007299
+M&M		1.53		1650.45		1993927
+MARUTI		-0.47		10535.95		454952
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-5.89		1332.6		624464
-TORNTPHARM		-1.56		2117.6		152560
-WESTLIFE		-2.4		872.65		125067
+LODHA		0.07		920.0		1116241
+WHIRLPOOL		-5.86		1333.0		629400
+TORNTPHARM		-1.55		2118.0		152616
+BAYERCROP		-0.49		5347.6		4789
