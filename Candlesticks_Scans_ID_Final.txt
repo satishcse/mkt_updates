@@ -1,11 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HINDUNILVR		1.21		2594.65		903930
+MARUTI		-0.81		10500.0		279268
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		0.2		1691.5		156672
-LALPATHLAB		-0.07		2741.2		60381
-AMBER		-0.91		3104.15		43657
+METROPOLIS		0.22		1691.85		156862
+SUPRAJIT		0.84		382.2		56157
+AMBER		-0.91		3104.15		43684
+PAGEIND		-0.79		37492.0		12658
