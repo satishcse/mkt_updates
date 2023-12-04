@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.13		2421.35		6613247
-LT		4.03		3319.25		2726817
+RELIANCE		1.12		2421.05		6635804
+LT		3.98		3317.7		2731012
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZENSARTECH		-0.05		534.8		423947
+ZENSARTECH		-0.06		534.75		424917
+BAYERCROP		-0.83		5329.6		5464
