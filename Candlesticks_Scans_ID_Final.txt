@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		2.05		7408		818512
+BAJFINANCE		2.02		7406.05		819950
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RATNAMANI		-1.57		3762.85		83150
-SKFINDIA		0.06		4597.8		9846
+STARHEALTH		0.27		561.9		169739
+SKFINDIA		0.0		4595.0		9847
