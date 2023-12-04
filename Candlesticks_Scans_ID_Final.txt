@@ -6,6 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COLPAL		0.31		2286.3		406312
-VTL		-2.15		404.85		263998
-MAPMYINDIA		0.38		2216.05		96400
+ANGELONE		-2.6		2976.0		679671
+COLPAL		0.4		2288.35		408444
+DMART		-0.54		3966.75		383677
+VTL		-2.11		405.0		269426
+AVANTIFEED		-0.28		394.95		169943
+MAPMYINDIA		0.46		2217.65		97449
