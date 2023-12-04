@@ -1,20 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+JSWSTEEL		0.55		815.25		348650
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.25		682.15		2106753
-RALLIS		-0.9		230.7		2059263
-MAZDOCK		0.03		2013.35		1233457
-ANGELONE		-0.38		3055.55		517392
-BEML		-0.52		2455.2		295159
-DRREDDY		-0.67		5749.4		278300
-MOTILALOFS		-0.93		1189.95		184355
-KFINTECH		1.14		535.15		177059
-TATAINVEST		-2.32		4139.2		169800
-GOCOLORS		0.06		1330.4		31112
-CRISIL		-1.28		4220.5		25548
-ZFCVINDIA		1.54		16145.2		6579
+DATAPATTNS		0.2		2056.65		55959
+LTIM		0.08		5581.5		47310
