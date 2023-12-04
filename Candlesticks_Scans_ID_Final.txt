@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.07		1221.4		915089
+TECHM		0.09		1221.7		916395
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VARROC		-0.17		570.6		577275
+VARROC		-0.06		571.25		578018
