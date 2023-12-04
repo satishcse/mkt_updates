@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.81		131.05		28842741
-WIPRO		0.07		407.95		3657090
-INDUSINDBK		2.35		1495.4		2354679
-ASIANPAINT		0.41		3186.55		631344
-MARUTI		-0.38		10545.0		441384
+TATASTEEL		0.85		131.1		28925691
+WIPRO		0.06		407.9		3675163
+INDUSINDBK		2.34		1495.2		2358422
+UPL		1.12		581.6		2114224
+MARUTI		-0.38		10545.0		442812
 
 Bullish_Hammer_15m_N500								 
 ======================= 
