@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SRF		0.64		2428.0		157710
-SYNGENE		-0.23		745.0		96453
-LTTS		-1.14		4747.0		43326
-DCMSHRIRAM		-0.69		963.1		8299
+CLEAN		-0.42		1438.75		108246
+LTTS		-1.17		4745.65		43604
+ATUL		-0.22		6637.2		7031
