@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		0.69		130.9		16111652
+SBILIFE		0.22		1426.8		444768
+GRASIM		1.36		2043.4		373785
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GPIL		1.41		689.95		183400
-WHIRLPOOL		-0.64		1407.0		141733
+TATAELXSI		-0.69		8365		38131
