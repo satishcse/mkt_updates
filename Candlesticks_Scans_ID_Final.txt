@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.14		212.6		20032506
-SBIN		3.49		591.7		18074332
-BPCL		5.47		461.95		16499420
-SUNPHARMA		-0.51		1225.0		898430
-BAJFINANCE		2.03		7406.4		795454
-ULTRACEMCO		2.58		9266.75		282142
+SBIN		3.52		591.85		18085882
+SUNPHARMA		-0.5		1225.05		902307
+BAJFINANCE		2.03		7406.75		796386
+ULTRACEMCO		2.58		9267.0		282965
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GALAXYSURF		-0.52		2797.95		7449
