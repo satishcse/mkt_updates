@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.46		130.6		20849139
-LTIM		-0.2		5565.65		86411
+BPCL		4.67		458.45		14077281
+TECHM		0.38		1225.2		892413
+TITAN		0.19		3496.05		376171
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GPIL		1.12		688		221107
+
