@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		2.69		449.8		5365635
-JSWSTEEL		0.59		815.6		369199
-BAJAJ-AUTO		1.17		6117.05		100570
+ONGC		2.62		199.65		6276249
+RELIANCE		1.03		2418.95		1822187
+HINDUNILVR		0.82		2584.7		559462
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ICICIPRULI		-0.08		558.35		177969
-AFFLE		-0.03		1135.1		107274
-DEEPAKNTR		-0.11		2211.75		51442
-ERIS		-1.21		915.05		29551
+
