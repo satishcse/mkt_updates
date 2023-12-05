@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-1.78		2057.1		598510
-INDIGO		-0.71		2800.35		184404
-UBL		-0.56		1692.5		117519
-LALPATHLAB		0.04		2692.3		74831
-ELGIEQUIP		-0.48		519.05		53120
+SHRIRAMFIN		-1.74		2057.95		602373
+LODHA		-0.38		909.55		365622
+INDIGO		-0.68		2800.95		187138
+MRF		-0.26		111216.15		2330
