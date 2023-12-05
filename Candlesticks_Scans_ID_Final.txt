@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		4.63		222.75		38230939
-SUNPHARMA		0.67		1239.4		829873
+POWERGRID		4.25		221.95		38973964
+MARUTI		1.14		10720.0		544010
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RHIM		-1.14		743.5		125591
-TATAINVEST		-1.39		4099.0		92907
+RHIM		-1.03		744.3		125949
