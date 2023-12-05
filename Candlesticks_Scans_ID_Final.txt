@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.23		130.7		5145335
+TATASTEEL		-0.27		130.65		5221862
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLAPOLLO		0.25		1622.75		223513
-KPITTECH		-0.27		1493.2		206981
-PFIZER		-0.17		4044.15		1565
+APLAPOLLO		0.25		1622.8		225424
+KPITTECH		-0.22		1494.0		210595
+LINDEINDIA		-1.05		5944.1		15497
+PFIZER		-0.16		4044.4		1567
