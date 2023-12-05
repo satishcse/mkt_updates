@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.2		1628.65		16194299
+HDFCBANK		1.14		1627.7		16233045
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-0.67		3291.3		641326
+KFINTECH		-1.78		527.25		63646
