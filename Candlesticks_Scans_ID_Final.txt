@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.06		518.95		5304731
-UPL		0.12		579.6		1513316
-APOLLOHOSP		-0.44		5597.85		646265
+APOLLOHOSP		-0.42		5598.75		647322
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HLEGLAS		-1.16		534.15		58937
+HLEGLAS		-1.22		533.8		58949
+RATNAMANI		0.02		3799.6		36661
