@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-1.45		1962.2		159795
-CHALET		-2.51		564.05		140503
-MAPMYINDIA		-0.97		2194.25		49613
+INDIGO		-0.69		2800.85		178591
+CHALET		-2.51		564.0		140690
+DATAPATTNS		-2.76		2030.0		84313
+MAPMYINDIA		-0.97		2194.25		49785
+CRAFTSMAN		-1.44		5042.95		15143
