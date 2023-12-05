@@ -1,21 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		0.17		454.8		4068559
+UPL		-0.19		577.8		1007771
+MARUTI		0.6		10663.0		258135
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IRCTC		-1.28		711.6		2008574
-FACT		-1.43		738.55		518792
-MAZDOCK		-0.25		2014.9		377731
-CEATLTD		-0.19		2188.95		353594
-UNOMINDA		-0.11		657.9		209314
-INDIGO		-0.65		2801.9		195790
-CHALET		-2.41		564.6		143797
-SUNTECK		-0.3		491.55		93272
-DATAPATTNS		-2.71		2031.15		85925
-GODREJIND		-0.03		647.45		75193
 INDIGOPNTS		0.21		1519.3		50374
-CRAFTSMAN		-1.44		5042.9		15449
 INGERRAND		-0.12		2978.15		10681
