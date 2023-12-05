@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.36		452.4		7793397
-HINDALCO		-0.02		519.15		5287458
-UPL		0.1		579.5		1495056
-EICHERMOT		-1.17		4131.45		802242
-APOLLOHOSP		-0.42		5599.05		644944
+EICHERMOT		-1.16		4132.0		803178
+APOLLOHOSP		-0.45		5597.5		645518
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HLEGLAS		-1.42		532.7		58731
+HLEGLAS		-1.39		532.9		58752
