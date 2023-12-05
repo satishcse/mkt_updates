@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.99		200.05		10549661
-DRREDDY		-0.14		5747.7		145206
+ONGC		-0.89		200.25		10571148
+DRREDDY		-0.19		5744.95		146429
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-0.68		2119.15		389101
-ALKEM		-0.29		4599.95		165754
-POLYPLEX		-2.1		1058.4		117183
+ALKEM		-0.29		4600.0		165991
+POLYPLEX		-2.1		1058.35		117359
