@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-1.45		2564.55		2461689
+HINDUNILVR		-1.43		2565.0		2465741
+CAMS		-0.15		2889.7		816224
