@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		13.86		1000.45		40526975
-HINDALCO		-0.14		518.5		5356589
-APOLLOHOSP		-0.43		5598.5		651307
+APOLLOHOSP		-0.43		5598.5		651616
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BORORENEW		-0.63		442.1		582532
-SOLARINDS		-1.71		5929.9		107722
-HLEGLAS		-1.41		532.8		59398
+ZYDUSWELL		-1.45		1545.95		33302
