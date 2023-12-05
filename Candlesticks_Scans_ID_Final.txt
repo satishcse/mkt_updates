@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.14		354.2		8520218
-HDFCLIFE		-0.04		674.65		2879950
-LT		-0.65		3292.0		967778
-LTIM		-1.52		5492.55		137640
+COALINDIA		-0.23		353.9		8534645
+HDFCLIFE		-0.04		674.65		2881560
+LT		-0.68		3291.0		970431
+LTIM		-1.55		5491.1		138021
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAFARI		-0.88		4340.9		21981
+SAFARI		-0.88		4341		22036
