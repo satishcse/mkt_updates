@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JINDALSTEL		-0.61		677.35		960013
-PIIND		-0.74		3836.05		83014
-PFIZER		-0.22		4042.0		2364
+
