@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.87		214.75		8786772
-NTPC		0.2		275.35		4265338
-HCLTECH		-1.51		1317.7		1536507
-TITAN		0.57		3508.3		172124
-HEROMOTOCO		0.57		3818.7		162875
+POWERGRID		0.87		214.75		8809226
+NTPC		0.22		275.4		4283674
+HCLTECH		-1.5		1317.85		1539396
+TITAN		0.62		3509.95		172659
+HEROMOTOCO		0.6		3819.95		163623
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KPITTECH		-0.62		1487.95		319407
