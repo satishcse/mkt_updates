@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.43		5598.25		649996
+ADANIPORTS		14.66		1007.5		40238737
+APOLLOHOSP		-0.4		5599.95		650437
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HLEGLAS		-1.33		533.2		59321
-RATNAMANI		0.02		3799.55		36997
+HLEGLAS		-1.46		532.5		59376
+RATNAMANI		-0.05		3796.95		36998
