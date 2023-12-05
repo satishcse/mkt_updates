@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.94		214.9		8837166
-NTPC		0.31		275.65		4295685
-TITAN		0.56		3508.0		172911
+POWERGRID		0.94		214.9		8871613
+NTPC		0.33		275.7		4305610
+TITAN		0.58		3508.8		173267
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GILLETTE		-0.3		6339.75		1691
+BEML		-0.98		2443.85		95536
+CRAFTSMAN		-0.99		5066.05		12467
