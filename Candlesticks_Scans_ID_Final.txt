@@ -5,4 +5,6 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+IIFL		0.59		636.15		53998
+KAYNES		-1.35		2446.55		9120
