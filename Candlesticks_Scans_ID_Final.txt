@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.27		130.65		4846984
+TATASTEEL		-0.23		130.7		4895095
+MARUTI		0.76		10680.0		86454
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LINDEINDIA		-1.1		5941.05		14472
-ROUTE		-0.34		1550.9		11640
+IIFL		-0.07		632.0		103230
+LTTS		-1.06		4697.95		65504
+OFSS		-1.28		4000.2		30287
+GUJALKALI		-0.5		741.85		24459
+LINDEINDIA		-1.04		5944.95		14677
+3MINDIA		-0.49		31200.0		549
