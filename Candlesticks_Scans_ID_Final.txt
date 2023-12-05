@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-0.85		3831.9		281143
-CUMMINSIND		-0.17		1950.55		179782
-LALPATHLAB		0.29		2698.9		63021
+SYNGENE		-1.86		731.5		666015
+PIIND		-0.81		3833.45		281337
+HEG		-2.32		1754.0		174068
+TATAINVEST		-1.24		4105.0		53493
