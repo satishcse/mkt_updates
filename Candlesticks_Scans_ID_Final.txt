@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-1.28		1445.6		2553160
-WIPRO		-0.87		403.9		2535569
-HCLTECH		-1.81		1313.75		2074679
-MARUTI		0.6		10662.55		263874
+INFY		-1.27		1445.8		2555985
+HCLTECH		-1.81		1313.7		2078259
+MARUTI		0.58		10661.4		264340
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAUKRI		0.03		4597.75		89750
+NAUKRI		-0.03		4595.0		90004
+SOLARINDS		-1.47		5944.6		66090
