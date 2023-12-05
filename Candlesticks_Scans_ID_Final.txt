@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.69		203.45		3712521
-LT		-0.15		3308.7		365719
+ONGC		0.72		203.5		3751048
+CIPLA		0.58		1223.6		184015
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.54		5592.35		245023
+APOLLOHOSP		-0.62		5587.45		249665
+DATAPATTNS		-1.65		2053.25		48691
