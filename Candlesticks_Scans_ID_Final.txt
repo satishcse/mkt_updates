@@ -1,15 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFCBANK		1.29		1630.2		15722554
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PIIND		-0.85		3832.0		281956
-TATACONSUM		0.03		946.9		238395
-HEG		-2.32		1754.0		174291
-LTIM		-1.07		5517.55		71645
-LALPATHLAB		0.3		2699.35		63840
-TATAINVEST		-1.24		4105.0		53619
-RELAXO		-0.28		914.9		52067
+
