@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.27		353.75		7528554
+TATAMOTORS		0.43		708.6		4875669
+HCLTECH		-1.74		1314.65		2173303
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-0.78		1062.1		503787
+PGHH		-1.17		17288.95		3147
