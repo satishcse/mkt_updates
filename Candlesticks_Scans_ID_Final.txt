@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		0.02		6003.65		369516
-JBCHEPHARM		-0.23		1468.05		14376
+INDIACEM		-1.04		251.4		1776394
+DIXON		-0.03		6000.15		370628
+JBCHEPHARM		-0.21		1468.3		14392
