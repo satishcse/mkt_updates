@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.17		1628.15		16275022
+HDFCBANK		1.22		1629		16318560
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.52		9269.0		245956
-KFINTECH		-1.79		527.2		63700
+KALYANKJIL		0.37		337.35		895741
+ULTRACEMCO		-0.51		9270.0		246760
+METROBRAND		-0.95		1368.25		25567
