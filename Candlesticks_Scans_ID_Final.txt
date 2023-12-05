@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-1.72		1314.9		2623313
+RELIANCE		0.62		2435.25		4171463
+HCLTECH		-1.74		1314.7		2628245
+BAJAJ-AUTO		-0.95		6142.6		333977
 
 Bullish_Hammer_15m_N500								 
 ======================= 
