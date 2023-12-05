@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIENT		14.96		2909.9		16665832
+HDFCLIFE		-0.62		670.75		3295266
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAPMYINDIA		-1.62		2179.95		75289
+
