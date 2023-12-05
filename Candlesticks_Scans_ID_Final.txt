@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.5		3505.9		127813
+ONGC		0.69		203.45		3712521
+LT		-0.15		3308.7		365719
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEG		-1.66		1765.8		113054
-TATAELXSI		-0.43		8367.05		22864
+APOLLOHOSP		-0.54		5592.35		245023
