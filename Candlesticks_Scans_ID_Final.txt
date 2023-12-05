@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.27		201.5		12377682
-APOLLOHOSP		-0.63		5587.1		662949
+ONGC		-0.3		201.45		12429241
+HINDALCO		-0.03		519.1		5437795
+APOLLOHOSP		-1.01		5565.65		678480
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ZYDUSWELL		-1.25		1549		34663
