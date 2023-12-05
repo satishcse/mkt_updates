@@ -2,18 +2,18 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		0.95		10700		580968
+MARUTI		1.16		10721.9		580993
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 EICHERMOT		-0.97		4140.0		1045865
-CAMS		-0.51		2879.0		973335
-KPITTECH		-1.42		1476.0		908686
-SOBHA		-1.33		955.35		792513
-ACI		0.71		610.0		519004
+CAMS		-0.68		2874.25		973437
+KPITTECH		-1.28		1478.15		909656
+SOBHA		-1.14		957.15		792553
+ACI		0.45		608.45		519164
 CHOLAHLDNG		-0.63		1059.0		296622
-CCL		-0.4		659.95		99186
+CCL		-0.75		657.65		99209
 POWERINDIA		-0.45		4790.1		59156
 GOCOLORS		-1.06		1336.0		42428
-PFIZER		-0.37		4036.0		10578
+PFIZER		-0.47		4031.9		10583
