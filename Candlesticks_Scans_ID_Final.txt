@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-0.07		1453		365721
+SBILIFE		-0.04		1453.35		368837
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SAPPHIRE		-0.17		1444.75		13005
+ZYDUSWELL		-0.22		1565.25		5760
+MANYAVAR		-0.14		1394.15		5655
