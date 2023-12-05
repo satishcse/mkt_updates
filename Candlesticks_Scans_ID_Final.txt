@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.19		131.25		22180765
-RELIANCE		0.5		2432.3		3569268
-BHARTIARTL		0.21		1035.05		1975824
-LTIM		-1.64		5485.95		126771
+TATASTEEL		0.19		131.25		22239399
+RELIANCE		0.45		2431.15		3575620
+BHARTIARTL		0.23		1035.3		1980164
+LTIM		-1.64		5486.0		127194
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 QUESS		0.21		493.6		216615
-TORNTPOWER		-0.73		960.25		210520
+TORNTPOWER		-0.67		960.85		210876
