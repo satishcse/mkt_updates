@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		3.64		220.65		29872374
+NTPC		3.4		284.15		13819077
+HINDALCO		-0.01		519.2		5275248
+UPL		0.09		579.4		1489393
+EICHERMOT		-1.1		4134.2		798709
+APOLLOHOSP		-0.41		5599.5		643881
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OLECTRA		-1.11		1192.5		336970
+HLEGLAS		-1.66		531.45		57945
