@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		4.56		222.6		40102176
-TCS		0.63		3534.5		1343828
-MARUTI		1.14		10720.05		563798
+TCS		0.63		3534.55		1354620
+MARUTI		1.14		10720.05		567427
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOBHA		-1.38		954.85		785556
-POWERINDIA		-0.53		4786.0		58182
+EICHERMOT		-1.04		4136.8		988534
+CAMS		-0.54		2878.4		963311
+SOBHA		-1.37		954.95		787646
+RHIM		-0.69		746.85		130726
+VINATIORGA		-0.21		1703.4		100356
+POWERINDIA		-0.66		4780.0		58693
