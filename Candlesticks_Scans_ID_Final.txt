@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.17		454.8		4068559
-UPL		-0.19		577.8		1007771
-MARUTI		0.6		10663.0		258135
+MARUTI		0.67		10670		260529
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		0.21		1519.3		50374
+NAUKRI		-0.02		4595.35		88133
 INGERRAND		-0.12		2978.15		10681
