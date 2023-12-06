@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		-1.07		787.35		72610
-UBL		0.18		1706.4		32071
-HONAUT		-0.09		36385.65		601
+PNBHOUSING		-1.0		787.95		73009
+HONAUT		-0.09		36385.65		602
