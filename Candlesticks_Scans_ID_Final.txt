@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-3.28		433.65		4334865
+PNBHOUSING		-1.07		787.35		72610
+UBL		0.18		1706.4		32071
+HONAUT		-0.09		36385.65		601
