@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.55		590.4		2951846
-HDFCLIFE		1.04		679.75		1308504
-DRREDDY		-0.75		5733.25		453041
+HDFCLIFE		1.0		679.5		1315293
+DRREDDY		-0.79		5730.75		462687
 
 Bullish_Hammer_15m_N500								 
 ======================= 
