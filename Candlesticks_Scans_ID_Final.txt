@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.23		131.9		10108965
-TATACONSUM		0.68		956.5		198388
+TATASTEEL		0.27		131.95		10189678
+TATACONSUM		0.58		955.6		203979
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-3MINDIA		-0.94		31100		1558
+SHRIRAMFIN		-0.78		2053.85		375966
+3MINDIA		-0.94		31100.0		1560
