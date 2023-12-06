@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.99		2462		3612414
-TITAN		0.1		3549		119149
+RELIANCE		0.97		2461.35		3616971
+TITAN		0.11		3549.05		119328
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INDIGO		0.31		2844.85		179762
+
