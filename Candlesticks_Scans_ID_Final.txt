@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.59		955.65		215325
+TATACONSUM		0.63		956		217163
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KIMS		-0.05		1990.0		160971
-POLYCAB		-0.4		5338.5		118036
+
