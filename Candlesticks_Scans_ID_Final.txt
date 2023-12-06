@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.14		588.05		2452283
-NESTLEIND		1.59		25000.05		46995
+UPL		1.09		587.75		2467626
+NESTLEIND		1.59		25000.0		47057
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GILLETTE		-1.66		6226.15		9264
+POWERINDIA		-0.07		4767.15		62929
