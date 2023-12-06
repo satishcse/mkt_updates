@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		2.07		1034.1		29019010
+ADANIPORTS		2.16		1034.95		29044387
+WIPRO		2.31		413.7		5286950
+HINDUNILVR		0.58		2578.0		442631
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHRIRAMFIN		-0.83		2052.75		394565
