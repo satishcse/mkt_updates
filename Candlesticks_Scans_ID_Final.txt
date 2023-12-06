@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-2		9143		182446
+ULTRACEMCO		-2.02		9141		182999
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ACI		-1.73		597.9		230499
-HDFCAMC		-0.55		3013.0		208103
-DIVISLAB		-0.03		3740.0		155431
-RAMCOCEM		-0.37		1019.95		116613
-ECLERX		-0.53		2578.75		17685
-POWERINDIA		0.46		4792.5		14267
-BOSCHLTD		-0.24		21600.9		7579
+HEROMOTOCO		-1.66		3743.5		315183
+ACI		-1.72		598.0		231918
+DIVISLAB		-0.08		3738.0		155766
+POWERINDIA		0.46		4792.5		14632
+BOSCHLTD		-0.27		21594.0		7591
