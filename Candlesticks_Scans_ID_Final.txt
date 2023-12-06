@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.08		607.75		14141296
-BPCL		-0.52		469.75		9085782
-TATAMOTORS		0.42		711.9		5210927
-HDFCLIFE		1.03		679.65		936896
-ULTRACEMCO		-1.99		9144.1		185755
+SBIN		-0.07		607.85		14159486
+BPCL		-0.52		469.75		9093117
+TATAMOTORS		0.41		711.85		5216144
+HDFCLIFE		1.0		679.5		938000
+ULTRACEMCO		-1.96		9146.5		186161
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONATSOFTW		-0.74		1452		153851
+SONATSOFTW		-0.75		1451.85		154001
