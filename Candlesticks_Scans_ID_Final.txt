@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.25		473.4		12948850
+BPCL		0.14		472.85		13123841
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-1.26		2991.5		392763
-CENTURYPLY		-1.27		682.55		82481
-VMART		-2.11		1807.05		42754
-GALAXYSURF		-1.15		2771.95		15028
+TEAMLEASE		-1.04		2497.95		11495
