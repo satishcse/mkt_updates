@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.7		1697.9		586655
-ULTRACEMCO		-0.82		9253.0		60766
+ULTRACEMCO		-0.78		9256.55		61470
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SHRIRAMFIN		-0.3		2063.75		213105
