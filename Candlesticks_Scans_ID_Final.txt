@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		-0.19		2344.95		139615
+DALBHARAT		-0.17		2345.25		140552
+PGHL		-1.05		5075.75		2200
