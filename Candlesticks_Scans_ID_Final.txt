@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.61		2578.95		453857
+HINDUNILVR		0.58		2578.15		455003
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRISIL		0.56		4255.7		10175
+CRISIL		0.57		4256.05		10186
