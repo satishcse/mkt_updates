@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-RELIANCE,1.04,2463.0,3583131
-TITAN,0.23,3553.45,117942
+RELIANCE,1.04,2463.0,3599632
+TITAN,0.18,3551.55,118153
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ACC,-1.79,2145.75,907774
+WELCORP,-0.88,556.25,397229
