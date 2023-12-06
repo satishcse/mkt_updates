@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPITTECH		-1.03		1462.9		132294
-PGHL		-0.53		5102.55		604
+PGHL		-0.52		5102.95		613
