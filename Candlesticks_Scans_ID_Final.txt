@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.93		412.15		6017675
+WIPRO		1.88		411.95		6032317
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HEG		-2.12		1713.0		171153
+RATNAMANI		-1.51		3751.55		11178
