@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-0.79		1449.45		211525
+SBILIFE		-0.8		1449.25		211889
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHL		-0.89		5083.95		2231
+HEROMOTOCO		-1.25		3759.2		226350
+PFIZER		-0.79		4000.0		59451
+PGHL		-0.91		5082.85		2234
