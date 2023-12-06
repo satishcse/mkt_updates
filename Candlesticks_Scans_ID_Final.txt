@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CANFINHOME		-4.34		800.5		908963
-GLAND		-0.54		1801.0		40221
-GLAXO		-0.37		1685.45		17682
-SFL		-0.79		1168.3		10801
-POLYMED		-0.95		1620.7		10310
+GLAND		-0.6		1800.0		40292
+GLAXO		-0.4		1685.0		17697
+SFL		-0.79		1168.35		10900
+PGHL		-0.7		5093.95		1160
