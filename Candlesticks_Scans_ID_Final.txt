@@ -1,12 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFCBANK		0.37		1629.7		13106033
+WIPRO		2.58		414.8		6792607
+BAJFINANCE		0.81		7409.0		538347
+SBILIFE		-0.87		1448.25		488632
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.56		3244.25		975381
-ICICIGI		-1.46		1445.0		182784
-LALPATHLAB		-0.86		2675.0		91629
-CERA		-0.53		8463.8		5678
+ICICIBANK		-1.08		1002.55		11028390
