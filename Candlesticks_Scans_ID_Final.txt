@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.84		411.8		6060807
+WIPRO		1.9		412.05		6073370
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-1.03		2048.7		448785
-HDFCAMC		-1.03		2998.55		239709
 CGCL		-1.3		743.75		64427
