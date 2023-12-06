@@ -2,10 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.09		608.8		16825694
-WIPRO		2.56		414.7		6811811
-BAJFINANCE		0.81		7409.4		538863
-SBILIFE		-0.87		1448.25		490162
+WIPRO		2.57		414.75		6837648
 
 Bullish_Hammer_15m_N500								 
 ======================= 
