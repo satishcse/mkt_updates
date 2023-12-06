@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-2.03		9139.95		179919
+ULTRACEMCO		-2.01		9142		180459
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		0.36		2970.15		12713352
-EICHERMOT		-2.02		4052.8		504525
-DIXON		-0.53		5999.0		154312
-SUPREMEIND		-1.35		4564.2		52312
+SUNPHARMA		-0.1		1238.3		1029484
+DIXON		-0.52		5999.8		154617
+ECLERX		-0.74		2573.35		17607
+GALAXYSURF		0.28		2811.9		6464
