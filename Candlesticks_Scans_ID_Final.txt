@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-1.98		9144.75		181245
+ULTRACEMCO		-2		9143.2		181538
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPOWER		-3.02		937		469955
+GRAPHITE		-1.04		516.45		458034
+DELHIVERY		-1.05		389.35		432534
+ECLERX		-0.65		2575.75		17671
