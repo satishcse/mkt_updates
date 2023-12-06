@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.78		9256.55		61470
+TATASTEEL		-0.46		131.0		6451107
+ULTRACEMCO		-0.84		9251.85		61746
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-0.3		2063.75		213105
+GILLETTE		-1.18		6256.35		6176
