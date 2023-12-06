@@ -1,14 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HCLTECH		1.4		1335.95		252009
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-OLECTRA		-0.46		1186.95		87390
-DALBHARAT		0.16		2353.0		50875
-GESHIP		-0.05		900.0		50059
-AFFLE		-0.39		1121.7		39354
-RHIM		-0.19		741.55		13077
-ENDURANCE		-0.94		1720.1		7409
+
