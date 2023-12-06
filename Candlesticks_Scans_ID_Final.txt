@@ -6,4 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHL		-0.52		5102.95		613
+BHARTIARTL		-0.17		1029.3		165800
+KPITTECH		-1.08		1462.15		157611
+NAZARA		0.36		789.3		14324
+INGERRAND		0.83		3067.1		4541
+PGHL		-0.48		5104.9		668
