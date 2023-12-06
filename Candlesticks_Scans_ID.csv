@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.23,131.9,13713150
-WIPRO,2.32,413.75,5433117
+ICICIBANK,-0.75,1005.9,7607419
+WIPRO,2.34,413.8,5436631
+M&M,0.66,1697.1,1063003
+TATACONSUM,0.54,955.15,274055
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BOSCHLTD,-0.05,21642.25,6817
