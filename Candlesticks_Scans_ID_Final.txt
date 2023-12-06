@@ -2,15 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.12		607.5		14175154
-BPCL		-0.52		469.75		9098850
-TATAMOTORS		0.4		711.8		5220625
-HDFCLIFE		0.97		679.3		938764
-ULTRACEMCO		-2.02		9141.2		186567
+SBIN		-0.14		607.4		14254543
+TATAMOTORS		0.4		711.8		5232635
+HDFCLIFE		0.96		679.2		941407
+ULTRACEMCO		-1.99		9143.8		187427
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBUJACEM		-1.14		503.25		10173052
-ACC		-2.71		2125.65		1335450
-SONATSOFTW		-0.74		1452.0		154077
+JKLAKSHMI		-0.7		870.85		199447
