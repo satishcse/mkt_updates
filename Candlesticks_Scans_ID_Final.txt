@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-2.01		9142		180459
+ULTRACEMCO		-2.02		9141.55		180801
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SUNPHARMA		-0.1		1238.3		1029484
-DIXON		-0.52		5999.8		154617
-ECLERX		-0.74		2573.35		17607
-GALAXYSURF		0.28		2811.9		6464
+
