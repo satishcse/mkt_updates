@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.67		2580.35		194300
-CIPLA		-0.01		1224.35		151441
-TATACONSUM		0.15		951.5		88285
+HINDUNILVR		0.65		2579.9		195748
+CIPLA		-0.05		1223.85		152050
+TATACONSUM		0.2		951.95		88798
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-0.37		1177.0		352218
-PRESTIGE		-3.55		1041.95		296456
-GLS		-0.84		630.25		16260
+BALRAMCHIN		-2.82		452.75		1539294
+INDIGO		0.86		2860.5		128168
+GLS		-0.82		630.4		16440
+KSB		-0.79		3386.9		4111
