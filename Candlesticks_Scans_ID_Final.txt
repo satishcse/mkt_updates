@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.06		607.9		16368794
-NTPC		-1.84		280.2		8436994
-HINDALCO		-0.43		518.4		3003020
-BHARTIARTL		-1.08		1019.95		2744505
-TATACONSUM		0.8		957.65		483874
+ADANIPORTS		1.65		1029.8		35999717
+SBIN		-0.07		607.85		16405247
+NTPC		-1.87		280.1		8482924
+ONGC		-1.16		199.7		8095129
 
 Bullish_Hammer_15m_N500								 
 ======================= 
