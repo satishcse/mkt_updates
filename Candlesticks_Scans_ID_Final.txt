@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.75		1005.9		7607419
-WIPRO		2.34		413.8		5436631
-M&M		0.66		1697.1		1063003
-TATACONSUM		0.54		955.15		274055
+ICICIBANK		-0.74		1005.95		7611550
+WIPRO		2.34		413.8		5446843
+M&M		0.65		1697.0		1065058
+BAJAJ-AUTO		-1.89		6024.0		457866
+TATACONSUM		0.54		955.15		274878
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BOSCHLTD		-0.05		21642.25		6817
+BOSCHLTD		-0.06		21640.6		6826
