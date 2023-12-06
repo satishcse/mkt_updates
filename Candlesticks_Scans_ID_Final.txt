@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		1.24		3356.65		983222
+LT		1.24		3356.5		984721
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		0.2		1974.9		228675
-LALPATHLAB		-0.87		2674.85		91133
+ASIANPAINT		0.5		3242.3		966148
+ASTRAL		0.2		1975.0		229024
+LALPATHLAB		-0.87		2674.8		91141
+POWERINDIA		-0.19		4761.85		66280
+THERMAX		-1.18		2643.15		52050
