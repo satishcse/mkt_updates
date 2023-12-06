@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.05		607.95		14111936
-HDFCLIFE		1.06		679.85		935326
+SBIN		-0.04		608.0		14126126
+HDFCLIFE		1.04		679.75		936164
+ULTRACEMCO		-1.96		9146.6		185392
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.71		3249.15		856179
+JKLAKSHMI		-0.68		870.95		199096
+SONATSOFTW		-0.74		1451.95		153805
