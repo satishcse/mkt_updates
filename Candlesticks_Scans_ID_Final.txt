@@ -5,4 +5,6 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ABB		-2.14		4742.8		224935
+FLUOROCHEM		-1.37		2848.35		164310
