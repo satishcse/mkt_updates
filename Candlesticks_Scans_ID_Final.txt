@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CDSL		-0.77		1886.0		100502
-MARUTI		0.29		10656.55		84265
-DCMSHRIRAM		-0.26		991.0		4690
+CHOLAFIN		-1.49		1137		181304
+UBL		-0.57		1704		8558
