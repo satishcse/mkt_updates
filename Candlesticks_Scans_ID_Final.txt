@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.4		350.75		1095780
+COALINDIA		-0.26		351.25		1153150
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		-1.07		2091.9		444835
+TORNTPHARM		0.08		2081.55		12756
