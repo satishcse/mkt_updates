@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.13		2457.8		3888074
-NESTLEIND		0.1		24994.3		57804
+RELIANCE		-0.07		2459.35		3933069
+NESTLEIND		0.12		24997.6		58396
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAM-INDIA		-2.08		442.25		1182739
-CYIENT		-3.58		1993.0		366588
-TRITURBINE		-1.64		416.0		221173
-MTARTECH		-0.78		2293.0		128430
+APOLLOTYRE		-1.87		453.8		3163393
+NAM-INDIA		-2.07		442.3		1187549
+MEDPLUS		-4.93		741.8		257191
