@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,0.18,1630.75,4007654
+HDFCBANK,0.16,1630.45,4017987
+HCLTECH,0.18,1331.95,571809
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+FLUOROCHEM,-0.29,2827.8,95204
