@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BHARTIARTL		-1.94		1004.6		7729311
+HINDUNILVR		-2.07		2514.4		1819947
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TIMKEN		-0.03		3171.8		10382
-SKFINDIA		-0.29		4608.9		4218
+
