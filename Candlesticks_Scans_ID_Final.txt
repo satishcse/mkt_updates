@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.29		130.15		25080364
-HDFCBANK		0.31		1632.9		6641281
-WIPRO		0.02		418.85		4123445
-TITAN		0.94		3580.1		503121
+WIPRO		0.0		418.75		4128386
+TITAN		0.94		3580.25		503832
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BIKAJI		-3.75		527		304015
-TATAELXSI		-0.94		8375		45057
+TATAELXSI		-0.91		8378		45220
