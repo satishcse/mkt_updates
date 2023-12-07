@@ -7,3 +7,4 @@ Bullish_Hammer_15m_N500
 ======================= 
 nsecode		per_chg		close		volume
 TIMKEN		-0.03		3171.8		10382
+SKFINDIA		-0.29		4608.9		4218
