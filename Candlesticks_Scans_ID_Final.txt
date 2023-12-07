@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.09		2458.85		4057574
-NESTLEIND		0.15		25006.0		59925
+RELIANCE		-0.13		2458		4070129
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 NAM-INDIA		-2.05		442.4		1225272
 KPITTECH		-0.24		1458.65		948499
-LATENTVIEW		-1.43		472.0		807530
-SHRIRAMFIN		-1.01		2034.95		780809
+LATENTVIEW		-1.43		472.0		808113
+SHRIRAMFIN		-1.01		2034.95		780854
 CHEMPLASTS		-1.15		477.8		165697
-ENDURANCE		-0.64		1679.9		109735
+ENDURANCE		-0.64		1679.9		109787
