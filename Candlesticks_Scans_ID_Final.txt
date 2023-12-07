@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.6		957.45		458748
+SBIN		0.23		609.85		6251377
+INFY		-0.46		1467.55		1953675
+JSWSTEEL		-0.21		823.0		780094
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ASIANPAINT		0.31		3262.5		649799
+
