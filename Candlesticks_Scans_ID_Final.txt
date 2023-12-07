@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.48		282.45		12098290
-COALINDIA		-0.92		348.9		4233938
-LT		-0.9		3361.9		1076122
-LTIM		-0.4		5617.5		110745
+COALINDIA		-0.94		348.85		4284867
+LT		-1.01		3358.0		1084525
+LTIM		-0.77		5596.55		114757
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAPMYINDIA		0.01		2215.55		66408
+
