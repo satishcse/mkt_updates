@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.06		418.5		4237302
-TCS		0.47		3621.1		1206340
+WIPRO		-0.04		418.6		4248397
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-0.62		2470.6		686615
-BIKAJI		-3.76		526.95		340774
+BSE		-0.62		2470.65		687149
+BIKAJI		-3.94		526.0		342382
+MEDPLUS		-4.22		747.35		188940
