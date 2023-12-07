@@ -6,8 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-2.35		2507.4		1475861
-CDSL		-0.4		1893.0		110973
-THERMAX		0.3		2694.9		11685
-DCMSHRIRAM		-0.28		990.8		7052
-KIMS		-0.27		1976.55		4947
+HINDUNILVR		-2.22		2510.65		1490185
+CDSL		-0.4		1893.0		112808
