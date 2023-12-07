@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BRIGADE		-0.66		841.4		181145
-MEDPLUS		-1.3		770.15		42854
-TEAMLEASE		-0.01		2494.95		5007
+BRIGADE		-0.66		841.4		181389
+MEDPLUS		-1.29		770.2		42956
