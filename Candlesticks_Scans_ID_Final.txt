@@ -2,8 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-2.09		1003		10563026
+BHARTIARTL		-2.09		1003.0		10568423
+RELIANCE		-0.33		2453.1		2236394
+LTIM		-0.26		5625.0		107410
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TRENT		-0.15		2863.45		596821
+BIKAJI		-2.08		536.15		126804
+ENDURANCE		0.39		1697.2		58208
