@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.19		1630.9		4761828
-RELIANCE		-0.27		2454.35		2057508
-DRREDDY		1.01		5788.0		511287
+HDFCBANK		0.16		1630.35		4770941
+RELIANCE		-0.28		2454.15		2061239
+M&M		-0.23		1698.55		1110192
+DRREDDY		1.01		5788.0		512177
+BAJFINANCE		-0.16		7415.55		313928
 
 Bullish_Hammer_15m_N500								 
 ======================= 
