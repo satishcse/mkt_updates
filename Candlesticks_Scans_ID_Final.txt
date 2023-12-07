@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-1.4		130.0		29730643
-HEROMOTOCO		0.36		3774.45		424689
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BIKAJI		-4.07		525.25		405892
-POLYPLEX		-1.26		1031.8		116137
+BIKAJI		-4.02		525.55		410216
+MTARTECH		-0.52		2298.95		116581
