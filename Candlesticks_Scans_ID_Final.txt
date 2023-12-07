@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-2.09		1003.0		10624733
-RELIANCE		-0.31		2453.35		2255987
+BHARTIARTL		-2.09		1003.0		10663009
+RELIANCE		-0.34		2452.8		2258291
+UPL		0.39		590.85		1020017
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-0.88		1323.75		177672
+WHIRLPOOL		-0.91		1323.4		178462
