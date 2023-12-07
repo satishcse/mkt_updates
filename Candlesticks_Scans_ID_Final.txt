@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.4		130		28275063
+TATASTEEL		-1.4		130		28572506
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHRIRAMFIN		-0.9		2037.3		678280
-RATNAMANI		-2.54		3645.4		126576
+
