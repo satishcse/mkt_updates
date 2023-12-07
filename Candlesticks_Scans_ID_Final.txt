@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.18		1630.8		4023253
+HDFCBANK		0.19		1630.85		4034040
+HCLTECH		0.17		1331.75		585232
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SBILIFE		0.36		1455.95		557124
-FLUOROCHEM		-0.39		2825.0		95304
+SBILIFE		0.33		1455.45		557464
+FLUOROCHEM		-0.39		2825.0		95404
