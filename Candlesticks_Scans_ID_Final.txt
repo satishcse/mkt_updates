@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-2.04		1003.6		7815671
+BHARTIARTL		-1.99		1004.05		7822696
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WELCORP		-2.9		538.8		214683
-BRIGADE		-0.37		843.8		106009
-MASTEK		-0.64		2371.85		5207
+OBEROIRLTY		0.36		1464.9		288332
