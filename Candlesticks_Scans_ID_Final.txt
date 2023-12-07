@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.61		131.05		8994315
-M&M		-0.38		1696.0		835417
-LT		-0.71		3368.25		555539
+M&M		-0.3		1697.25		837385
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRAFTSMAN		-0.4		5122.9		6702
+LUXIND		-0.03		1365.45		15149
