@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		0.44		2090.85		158819
+GRASIM		0.44		2091		159023
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-0.53		3775.95		16135
+INDIAMART		-1.25		2684.85		90993
