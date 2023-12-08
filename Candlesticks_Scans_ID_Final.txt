@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.56		994.4		4038061
-MARUTI		-0.76		10615.0		382994
+BHARTIARTL		-0.6		994.05		4051767
+MARUTI		-0.76		10615.1		384756
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+AMBUJACEM		-3.71		486.35		2335938
+TATACOMM		-1.33		1683.95		437184
 BAYERCROP		-0.84		5430.05		56159
-ATUL		-2.15		6727.95		27127
-SFL		-0.27		1152.75		22399
-KSB		-1.13		3426.95		18099
-AIAENG		-0.98		3729.15		16486
+DATAPATTNS		-1.26		1997.1		51734
+APARINDS		-1.64		5310.5		49406
+KSB		-1.14		3426.7		18127
