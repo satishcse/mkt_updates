@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.61		231.4		11865234
-TATACONSUM		-0.27		954.35		279041
-APOLLOHOSP		0.68		5498.35		265404
+POWERGRID		0.61		231.4		11998831
+TATACONSUM		-0.28		954.25		280214
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		-0.52		4093.9		294816
+DMART		-0.52		4094.0		295621
+LINDEINDIA		-0.12		5878.25		8805
