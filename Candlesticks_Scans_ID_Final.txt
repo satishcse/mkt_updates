@@ -5,10 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DMART		-1.04		4072.45		330372
-CAMS		-1.91		2757.3		224839
-IPCALAB		-1.62		1114.0		179578
-TANLA		-0.19		925.5		170086
-JUSTDIAL		-1.16		755.6		68832
-GODFRYPHLP		-1.04		2082.35		16601
+
