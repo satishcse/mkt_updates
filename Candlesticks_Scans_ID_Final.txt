@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COROMANDEL		-0.47		1234.75		96536
-MANKIND		-0.27		1986.85		37766
-ABBOTINDIA		-0.36		22989.25		2419
+BSE		-0.66		2447.9		255037
+TEAMLEASE		-0.58		2461.4		1953
