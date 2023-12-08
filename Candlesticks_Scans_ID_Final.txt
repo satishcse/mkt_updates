@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.05		999.5		1678821
+ICICIBANK		0.04		999.35		1692109
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRAFTSMAN		0.05		5161.65		4249
+DALBHARAT		-0.01		2358.4		27688
