@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.15		723.0		1077625
-SUNPHARMA		0.48		1245.2		175146
+TATAMOTORS		0.17		723.2		1084192
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+ACI		-0.38		609.8		46861
 SUNTECK		-0.01		495.0		33739
-ALKYLAMINE		-0.82		2349.8		11755
+ALKYLAMINE		-0.92		2347.5		11784
