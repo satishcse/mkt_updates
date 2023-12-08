@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.23		452.45		8756162
+ITC		-1.23		452.45		8791030
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.5		3235.5		469134
-PIIND		-0.69		3817.65		411522
+NAM-INDIA		-1.18		436.6		211664
+KPRMILL		-1.71		821.85		116993
+JBCHEPHARM		-2.72		1457.6		71746
+ECLERX		-2.96		2535.0		23744
+ABBOTINDIA		-1.0		22841.95		5622
+LAXMIMACH		-1.22		13598.9		1357
