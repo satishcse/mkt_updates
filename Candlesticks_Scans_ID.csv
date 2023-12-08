@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-INDUSINDBK,0.66,1514.7,373851
-TECHM,0.29,1226.8,237985
+INDUSINDBK,0.76,1516.15,375441
+TECHM,0.27,1226.6,240268
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-DALBHARAT,-0.19,2354.2,33077
-DIXON,0.16,5998.15,31549
+UBL,0.0,1725.0,42401
+DALBHARAT,-0.19,2354.2,34202
+BEML,-0.15,2468.0,33292
+PIIND,0.04,3845.7,18645
