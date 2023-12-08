@@ -2,16 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		0.56		5492.1		261568
-EICHERMOT		-0.86		4055.95		115557
+POWERGRID		0.67		231.55		11659657
+TATAMOTORS		-0.58		717.75		4032237
+TATACONSUM		-0.21		954.9		271011
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ITI		-0.73		297.9		6789365
-GLENMARK		-2.57		800.75		1424529
-GNFC		-1.39		723.6		420891
-MAPMYINDIA		-0.3		2208.5		39195
-METROPOLIS		-0.7		1657.0		37642
-POLYMED		-3.12		1614.75		25089
-VINATIORGA		0.12		1728.7		23547
+
