@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALRAMCHIN		-4.97		388.3		11388254
-INTELLECT		-0.54		741.85		179782
-ATUL		-1.99		6739.15		32614
+BALRAMCHIN		-4.74		389.25		11483526
+INTELLECT		-0.52		741.95		180892
+DCMSHRIRAM		-3.01		956.9		45702
+METROBRAND		-3.84		1296.0		43821
+ATUL		-1.9		6745.0		32845
