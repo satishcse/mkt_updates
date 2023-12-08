@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		0.25		199.4		1969631
+GRASIM		0.42		2090.45		156580
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ABB		0.71		4778.45		120447
-TORNTPHARM		-1.27		2073.85		75897
-BRITANNIA		-0.32		5000.0		53640
-MASTEK		-0.14		2366.75		7014
+
