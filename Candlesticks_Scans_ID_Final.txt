@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.35		675.9		980586
-BRITANNIA		-0.07		5012.6		100829
+HDFCLIFE		-0.38		675.7		983489
+BRITANNIA		-0.04		5013.85		101553
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPOWER		-3.7		966.7		377767
+BAJFINANCE		-1.31		7294.05		454620
+TORNTPOWER		-3.68		966.95		380166
+ABBOTINDIA		-0.59		22936.95		2836
