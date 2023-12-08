@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		-1.48		2323.8		78217
-SIEMENS		-0.42		3816.0		61053
-ALKYLAMINE		-2.12		2319.0		25287
+GRASIM		-0.35		2074.4		224269
+PIDILITIND		-1.0		2562.9		83963
+DALBHARAT		-1.47		2323.95		78826
+SIEMENS		-0.37		3818.0		61157
