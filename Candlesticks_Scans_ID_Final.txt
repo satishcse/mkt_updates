@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CDSL		-0.96		1868.95		221293
+ALKEM		-1.99		4792.0		128194
+ASTRAL		-1.33		1943.5		98171
