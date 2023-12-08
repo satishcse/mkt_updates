@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		0.78		4147.45		38161
-SCHAEFFLER		-0.31		3017.65		3206
-THERMAX		0.44		2710.25		2875
-GRINDWELL		-0.07		2197.95		2098
+KAYNES		-1.36		2339.5		17843
+THERMAX		0.48		2711.25		2884
