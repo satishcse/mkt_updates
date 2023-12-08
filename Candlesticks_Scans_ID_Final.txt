@@ -6,8 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-0.51		1071.55		94206
-INDIAMART		-0.81		2696.7		32842
-KAYNES		-1.34		2339.95		11107
-VMART		-0.25		1792.3		2489
-CERA		0.41		8540.0		193
+CERA		0.41		8540		193
