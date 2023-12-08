@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		0.25		2086.85		163574
+GRASIM		0.24		2086.8		164041
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACHEM		-0.44		1013.75		251995
+GLENMARK		-2.24		803.5		822080
