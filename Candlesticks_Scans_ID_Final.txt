@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-1.09		7310.95		671699
-ULTRACEMCO		0.17		9370.9		162759
+SBIN		-0.69		607.5		10799274
+RELIANCE		0.13		2460.3		2534112
+LT		1.53		3406.95		1475810
+ULTRACEMCO		0.15		9368.7		163176
 
 Bullish_Hammer_15m_N500								 
 ======================= 
