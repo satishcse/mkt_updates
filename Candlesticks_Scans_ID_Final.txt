@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.43		1003.25		5532778
+ICICIBANK		0.45		1003.5		5550845
+INFY		1.29		1484.75		2457592
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		-1.04		2561.95		82183
-LALPATHLAB		-0.98		2664.15		80749
+PIDILITIND		-1		2562.9		82262
