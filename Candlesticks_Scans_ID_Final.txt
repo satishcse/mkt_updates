@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BRITANNIA		-0.09		5011.45		100134
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CDSL		-0.96		1868.95		221293
-ALKEM		-1.99		4792.0		128194
-ASTRAL		-1.33		1943.5		98171
+EICHERMOT		-0.91		4053.85		89148
+SUNDARMFIN		-0.87		3328.9		6362
