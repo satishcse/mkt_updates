@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-THERMAX		0.48		2711.25		2929
+MARUTI		-0.31		10663.95		73703
+NAUKRI		-0.42		4785.3		18364
