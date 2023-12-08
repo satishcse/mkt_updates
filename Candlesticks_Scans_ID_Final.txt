@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BPCL		-1.13		469.35		3542152
-TORNTPHARM		-1.27		2073.85		74960
-GLAXO		0.66		1700.0		28630
-GODFRYPHLP		0.01		2104.5		7584
+ABB		0.71		4778.45		120447
+TORNTPHARM		-1.27		2073.85		75897
+BRITANNIA		-0.32		5000.0		53640
+MASTEK		-0.14		2366.75		7014
