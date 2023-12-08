@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.95		470.2		5615626
-BRITANNIA		-0.06		5012.9		104002
+BPCL		-0.95		470.2		5619140
+BRITANNIA		-0.06		5012.9		104506
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IPCALAB		-1.5		1115.35		145975
-GUJALKALI		-1.65		746.9		34041
+TORNTPOWER		-3.66		967.15		391524
+IPCALAB		-1.5		1115.4		145989
+ALKYLAMINE		-2.05		2320.6		24503
+VINATIORGA		0.06		1727.55		20936
+SANOFI		-0.41		8172.1		6479
 ABBOTINDIA		-0.54		22949.4		2883
