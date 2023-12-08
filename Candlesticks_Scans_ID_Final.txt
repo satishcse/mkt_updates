@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.5		420.35		1638162
-HCLTECH		1.72		1350.85		1513518
+WIPRO		0.48		420.25		1642770
+HCLTECH		1.73		1351.0		1515094
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AAVAS		0.96		1517.7		239580
-PIDILITIND		-0.35		2579.8		55489
-ASTRAL		-0.62		1957.35		52936
-KSB		-0.73		3440.85		7494
+AAVAS		1.0		1518.25		240077
+PIDILITIND		-0.35		2579.9		55595
+APARINDS		-0.75		5358.7		19819
 3MINDIA		-0.32		31394.35		251
