@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.36		1002.6		5502443
-TATACONSUM		-0.32		953.85		240653
+ICICIBANK		0.35		1002.5		5515266
+TATACONSUM		-0.3		954.0		241355
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+POLYMED		-3		1616.8		18525
