@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.76		1516.15		375441
-TECHM		0.27		1226.6		240268
+TECHM		0.22		1225.9		245917
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UBL		0.0		1725.0		42401
-DALBHARAT		-0.19		2354.2		34202
-BEML		-0.15		2468.0		33292
-PIIND		0.04		3845.7		18645
+IRCTC		0.07		758.3		1793728
+VARROC		0.78		547.9		83278
+BEML		-0.12		2468.75		33371
+DIXON		0.28		6005.0		32265
+BALKRISIND		0.21		2626.2		27225
