@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.04		999.35		1692109
+TATAMOTORS		0.21		723.45		934311
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		-0.01		2358.4		27688
+BAJFINANCE		-0.58		7348.3		157602
+DALBHARAT		0.04		2359.6		28089
+ULTRACEMCO		0.0		9354.85		25189
+THERMAX		0.35		2707.75		3507
