@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-1.28		1671.0		1371737
-CIPLA		-0.86		1212.3		1028344
+TATASTEEL		-1.04		128.65		26681936
+SUNPHARMA		-0.31		1235.4		1136947
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AAVAS		-1.04		1487.55		373773
+
