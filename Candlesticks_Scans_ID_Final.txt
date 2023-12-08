@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.07		1224.15		253660
-TATACONSUM		-0.09		956.0		114488
+TECHM		0.2		1225.65		255363
+TATACONSUM		-0.25		954.55		121607
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BEML		0.05		2473.0		35344
-CRAFTSMAN		-0.18		5149.55		5326
-GRINDWELL		-0.26		2193.75		4246
+DIXON		0.27		6004.35		33260
+CRAFTSMAN		-0.18		5149.55		5331
+ABBOTINDIA		-0.1		23050.05		1267
 GILLETTE		-0.27		6273.6		807
