@@ -6,8 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIPORTS		-1.09		1028.3		4185361
-TECHM		-0.1		1222.0		494687
-MANKIND		-0.19		1988.45		37718
-CLEAN		-0.5		1422.75		27611
-BAYERCROP		-0.48		5450.0		1664
+COROMANDEL		-0.47		1234.75		96536
+MANKIND		-0.27		1986.85		37766
+ABBOTINDIA		-0.36		22989.25		2419
