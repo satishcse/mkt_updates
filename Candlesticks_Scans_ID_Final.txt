@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.21		723.5		991555
+TATAMOTORS		0.21		723.5		998882
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAURUSLABS		0.63		392.5		923902
-PHOENIXLTD		-1.21		2231.15		46342
-ULTRACEMCO		0.02		9356.1		26043
-SAPPHIRE		-0.2		1434.2		9903
-THERMAX		0.54		2712.85		3586
+DEEPAKNTR		-0.36		2251.65		40242
+ULTRACEMCO		0.11		9364.75		27057
+PIIND		0.29		3855.0		16150
+THERMAX		0.54		2712.9		3591
+GRINDWELL		-0.22		2194.7		3124
