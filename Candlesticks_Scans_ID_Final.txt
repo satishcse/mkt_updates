@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LICI		-0.09		784.75		5169167
-DMART		-1.19		4066.4		328140
-SUNDARMFIN		-1.19		3318.05		8447
+LICI		-0.08		784.8		5204529
+DMART		-1.04		4072.55		329968
+IPCALAB		-1.57		1114.55		179570
+SKFINDIA		-0.95		4576.55		11164
