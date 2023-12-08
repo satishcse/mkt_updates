@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.2		1650.0		13566103
-EICHERMOT		-1.27		4039.2		202084
+HDFCBANK		1.19		1649.9		13593451
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+SAFARI		0.69		4071.75		36346
 LAXMIMACH		-1.48		13562.95		1556
