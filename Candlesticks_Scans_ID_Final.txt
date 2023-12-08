@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		-0.08		5012.05		105900
+BRITANNIA		-0.07		5012.45		107611
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPOWER		-3.66		967.15		393327
-ANGELONE		-2.1		3008.0		249569
-KAYNES		-2.13		2321.3		50183
-ALKYLAMINE		-2.03		2321.05		24539
-BOSCHLTD		-0.4		21580.1		6272
-ABBOTINDIA		-0.54		22949.95		2901
+TORNTPOWER		-3.67		967.05		395035
+ANGELONE		-2.07		3009.0		249912
+IPCALAB		-1.5		1115.35		149208
+BATAINDIA		-1.4		1635.85		79424
+SANOFI		-0.33		8179.25		6538
