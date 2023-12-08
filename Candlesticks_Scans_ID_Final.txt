@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.15		723		1096596
+BAJAJFINSV		0.34		1709.9		389125
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DEEPAKNTR		-0.35		2251.95		43888
-ALKYLAMINE		-0.81		2349.95		11823
-GRINDWELL		-0.22		2194.7		3217
+
