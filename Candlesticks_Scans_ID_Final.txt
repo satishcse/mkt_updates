@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.66		130.05		21513067
-M&M		-0.91		1653.3		1620194
+TATASTEEL		0.62		130.0		21607606
+ONGC		1.84		199.55		7606682
+M&M		-0.86		1654.2		1630405
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JUBLPHARMA		-3.41		456.5		204122
