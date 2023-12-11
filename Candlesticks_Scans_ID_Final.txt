@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.18		1024.75		1662966
-INFY		0.09		1492.5		804427
-INDUSINDBK		1.2		1527.0		745417
+ADANIPORTS		0.11		1024.05		1679965
+INFY		0.04		1491.75		829477
+INDUSINDBK		1.25		1527.85		752138
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		3.12		2123.65		1167758
+MAZDOCK		3.23		2125.8		1182243
+CIEINDIA		0.56		486.75		35959
+ISEC		-1.04		716.9		19567
