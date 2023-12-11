@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.49		995.3		3791300
-KOTAKBANK		0.5		1847.65		2321815
-CIPLA		-1.78		1197.35		825136
-SBILIFE		-0.02		1464.9		453061
+KOTAKBANK		0.47		1847.05		2347378
+CIPLA		-1.78		1197.45		830062
+SBILIFE		-0.02		1464.95		455371
 
 Bullish_Hammer_15m_N500								 
 ======================= 
