@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-1.84		1196.7		674983
+CIPLA		-1.85		1196.5		682843
+TCS		0.14		3631.8		525096
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VOLTAS		0.16		856.85		616837
-CENTURYTEX		-1.98		1279.05		94460
+MOTILALOFS		-1.05		1183.9		85125
