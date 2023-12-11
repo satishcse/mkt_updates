@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.91		596.4		2074936
+UPL		1.91		596.4		2083099
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JUBLPHARMA		-1.93		463.5		129954
-POLYMED		0.21		1585.95		49702
+
