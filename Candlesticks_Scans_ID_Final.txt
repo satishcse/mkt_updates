@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.08		671.8		866260
-HEROMOTOCO		-0.39		3701.2		136069
+TATASTEEL		0.27		129.55		9512303
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRISIL		-0.46		4215.65		8880
+CERA		-0.02		8460.8		2015
