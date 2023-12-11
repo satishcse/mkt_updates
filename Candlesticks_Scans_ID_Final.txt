@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.04		1491.7		1034023
-M&M		0.24		1672.5		547185
+LTIM		0.2		5720		102170
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INDIGO		0.18		2903.2		163303
