@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.07		1492.2		863361
-INDUSINDBK		1.26		1527.95		759877
+ITC		0.58		451.75		1384531
+INFY		0.02		1491.4		875375
+INDUSINDBK		1.27		1528.05		767338
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAZDOCK		3.24		2126.1		1195463
-GLAXO		-0.6		1680.0		17828
-ENDURANCE		-1.32		1648.45		17722
-CRAFTSMAN		0.0		5172.8		1927
+HOMEFIRST		-1.21		1023.8		78976
+GLAXO		-0.6		1680.0		18306
+ENDURANCE		-1.36		1647.7		17794
+BAJAJHLDNG		-1.98		7826.0		13278
+FLUOROCHEM		0.24		2850.0		12807
