@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		1.01		1377.9		983617
-SUNPHARMA		-0.47		1230.05		306979
+SUNPHARMA		-0.44		1230.35		308145
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-0.02		918.35		88972
-HEG		0.18		1723.0		37046
-PGHL		-0.3		4935.5		2222
+HEG		0.39		1726.65		37266
