@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.52		1848.0		1816771
-HCLTECH		1.0		1377.75		1077274
-BAJAJFINSV		-0.15		1707.6		454556
-SBILIFE		-0.33		1460.35		110583
+KOTAKBANK		0.57		1848.85		1822661
+HCLTECH		0.95		1377.1		1084014
+BAJAJFINSV		-0.15		1707.6		456841
+SBILIFE		-0.26		1461.45		112829
 
 Bullish_Hammer_15m_N500								 
 ======================= 
