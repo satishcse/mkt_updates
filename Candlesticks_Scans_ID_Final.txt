@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.47		451.25		4305978
-SBILIFE		-0.01		1465.1		446182
+ONGC		1.86		199.6		5795342
+KOTAKBANK		0.54		1848.45		2296024
+SBILIFE		0.04		1465.75		447872
+GRASIM		0.18		2073.8		125802
 
 Bullish_Hammer_15m_N500								 
 ======================= 
