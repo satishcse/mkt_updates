@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.22		615.5		8367025
-UPL		1.85		596.0		2102116
+SBIN		0.16		615.15		8401472
+UPL		1.79		595.7		2111022
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BPCL		-2.37		459.3		9926568
