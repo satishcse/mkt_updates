@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		0.54		3593.35		72329
-CRAFTSMAN		0.05		5175.2		1578
+PRAJIND		-2.48		531.55		1518076
+PATANJALI		0.71		1614.4		249741
+MAPMYINDIA		-0.27		2173.05		18535
+VINATIORGA		-0.25		1730.35		12399
+CRAFTSMAN		0.0		5172.45		1623
