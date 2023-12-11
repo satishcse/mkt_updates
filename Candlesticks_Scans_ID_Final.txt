@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.91		199.7		5886822
-KOTAKBANK		0.49		1847.45		2352994
-CIPLA		-1.78		1197.35		832880
-SBILIFE		-0.02		1464.9		456464
+ONGC		1.94		199.75		5899300
+KOTAKBANK		0.46		1846.95		2354934
+CIPLA		-1.78		1197.45		834954
+SBILIFE		-0.02		1464.9		457155
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CSBBANK		-0.41		399.5		306557
