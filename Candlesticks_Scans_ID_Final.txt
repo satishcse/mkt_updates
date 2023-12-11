@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EICHERMOT		-0.29		4043.25		29229
-UTIAMC		0.21		831.9		10978
+PATANJALI		0.78		1615.4		239063
+ISEC		-0.75		719.0		14355
+VINATIORGA		-0.38		1728.2		11633
+GRINDWELL		-0.47		2188.0		5581
+CRAFTSMAN		-0.03		5171.2		1549
