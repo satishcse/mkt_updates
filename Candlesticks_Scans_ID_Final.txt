@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-1.85		1196.5		651350
+INFY		-0.12		1489.4		2073649
+CIPLA		-1.82		1196.95		666435
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CENTURYTEX		-2		1278.8		94223
