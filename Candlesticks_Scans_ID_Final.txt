@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		0.35		2552.4		14121
+STARHEALTH		-1.57		553.65		228264
+ECLERX		0.44		2554.7		14176
