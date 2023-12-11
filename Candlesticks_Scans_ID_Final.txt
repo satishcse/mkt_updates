@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.73		2503.8		992823
+HINDUNILVR		-0.81		2501.95		1033252
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDALSAW		-0.44		433.0		680112
-MAHLIFE		0.59		532.95		158942
+JINDALSAW		-0.45		432.95		682888
+MAHLIFE		0.58		532.9		159030
+GRINFRA		-0.39		1225.95		31289
