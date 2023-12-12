@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		0		3233		449895
+ASIANPAINT		0		3233		450329
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KSB		-0.97		3413.75		20076
-BAYERCROP		-0.74		5432.95		2553
+ASTRAL		-0.53		1940.2		85900
+KSB		-0.97		3413.75		20079
