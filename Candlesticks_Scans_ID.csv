@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TCS,1.04,3680.65,1165456
-GRASIM,0.68,2098.15,370559
-LTIM,0.11,5776.9,215511
+POWERGRID,-0.04,230.85,7549513
+TCS,1.02,3679.95,1168737
+GRASIM,0.68,2098.15,370831
+LTIM,0.08,5775.4,215868
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-ABBOTINDIA,-0.64,22899.95,6088
+ABBOTINDIA,-0.64,22900.0,6102
 LAXMIMACH,-0.41,13441.35,516
