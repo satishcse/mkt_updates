@@ -2,12 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		1.35		5547.2		732548
-TATACONSUM		-0.11		949.4		507600
-BAJFINANCE		0.46		7326.15		410045
+DRREDDY		1.36		5548		734076
+TATACONSUM		-0.15		949		508509
+BAJFINANCE		0.46		7326		412453
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CIEINDIA		-2.37		480.95		428312
-ASAHIINDIA		-1.04		544.9		340880
+BHARATFORG		-0.11		1192.0		700214
+CIEINDIA		-2.33		481.1		431405
+ASAHIINDIA		-1.04		544.95		340901
+CGCL		0.01		764.05		194125
+ESCORTS		-1.33		3128.35		133359
+METROPOLIS		-0.98		1629.7		89787
