@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		-0.55		995.3		3723528
-HDFCLIFE		2.25		687.65		3604427
-SBILIFE		0.86		1473.1		512689
-TITAN		-0.97		3595.4		355566
+ONGC		-0.76		196.3		4806783
+BHARTIARTL		-0.55		995.35		3734931
+HDFCLIFE		2.2		687.3		3609332
+SBILIFE		0.82		1472.6		512998
+TITAN		-0.9		3597.9		356771
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		-1.83		2009.6		328865
-DATAPATTNS		-0.29		2024.3		60271
-SANOFI		-0.04		8150.0		12140
+GLENMARK		-1.51		806.7		577147
+SANOFI		-0.02		8151.65		12219
