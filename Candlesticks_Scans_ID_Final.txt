@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.86		196.1		6313839
+ONGC		-0.91		196		6330415
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SYNGENE		-1.0		705.5		710696
-ABBOTINDIA		-0.89		22841.9		6905
+SYNGENE		-0.56		708.65		725104
+ABBOTINDIA		-0.89		22841.9		6914
