@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.51		1239.65		447997
-TITAN		-0.92		3597.1		370367
+TECHM		0.47		1239.15		449511
+TITAN		-0.92		3597.0		371525
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LAXMIMACH		-0.5		13429.6		513
+LAXMIMACH		-0.41		13441.35		516
