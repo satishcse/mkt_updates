@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NESTLEIND		-0.19		24996.8		49256
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CYIENT		-1.49		1973.6		297320
-EPIGRAL		-0.8		918.65		41470
+GRASIM		0.0		2084.15		661037
+MEDPLUS		0.2		748.15		43613
