@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.72		455.7		6601327
-KOTAKBANK		-0.45		1835.7		1960252
-UPL		-0.31		600.55		1554812
+ITC		0.82		456.15		6627389
+NTPC		-0.87		284.8		3902093
+KOTAKBANK		-0.49		1835.1		1968550
+SUNPHARMA		-1.51		1222.7		1734058
+UPL		-0.32		600.45		1557260
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PAYTM		-5.47		620.7		10521899
+KSB		-1.55		3393.6		21202
