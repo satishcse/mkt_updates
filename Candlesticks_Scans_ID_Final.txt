@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.98		465.85		13208998
-HINDALCO		0.46		522.75		2488857
+TATACONSUM		0.37		954		290807
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SBICARD		-0.47		756.4		1754636
-GICRE		0.16		304.8		810180
-BALKRISIND		-1.09		2577.35		728816
-HOMEFIRST		-1.52		1020.55		350946
+RAYMOND		-0.6		1751.95		144703
+AIAENG		-0.67		3668.0		12320
+PGHH		-0.64		17086.0		1543
