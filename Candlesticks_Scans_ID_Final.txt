@@ -1,9 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		0.86		456.35		6568590
+KOTAKBANK		-0.44		1836.0		1944607
+UPL		-0.23		601.0		1548835
+BAJAJFINSV		0.08		1704.1		547392
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		-0.85		779.9		177399
+DIXON		0.19		6385		2310810
