@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.04		2502.75		631877
-SBILIFE		0.6		1469.35		551569
+ONGC		-0.81		196.2		6028138
+HINDUNILVR		-0.03		2502.8		633387
+SBILIFE		0.56		1468.8		551823
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHH		-0.87		17045.15		2117
+PRESTIGE		-3.92		1131.25		676151
+BAYERCROP		-0.74		5432.95		2408
+PGHH		-0.87		17046.2		2120
