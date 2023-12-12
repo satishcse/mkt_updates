@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-COALINDIA		-1		350.1		5650426
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GPIL		-1.07		682.75		412680
-INDIGO		0.02		2926.05		306339
+INDIGO		0.02		2926		307302
