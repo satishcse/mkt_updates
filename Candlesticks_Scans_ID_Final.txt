@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		0.53		2095		380677
+GRASIM		0.57		2095.85		380938
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLLTD		-1.01		758.45		64416
-ABBOTINDIA		-0.47		22938.85		6182
+ABBOTINDIA		-0.48		22936.4		6184
