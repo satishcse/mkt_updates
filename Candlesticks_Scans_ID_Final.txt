@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.22		230.45		7099219
-RELIANCE		-0.07		2457.65		1521796
-SBILIFE		0.73		1471.2		508680
-TITAN		-1.01		3594.0		351228
+POWERGRID		-0.24		230.4		7106494
+HDFCLIFE		2.3		687.95		3596206
+RELIANCE		-0.1		2456.85		1526651
+SBILIFE		0.78		1471.95		509968
+TITAN		-0.98		3594.75		352575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		-1.13		2532.75		83566
-GLAXO		-0.96		1663.75		27407
+SANOFI		-0.04		8150		12068
