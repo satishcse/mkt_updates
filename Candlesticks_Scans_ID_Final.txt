@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.81		196.2		4596184
-NTPC		-0.5		285.85		2408927
-TITAN		-0.92		3596.95		333337
+NTPC		-0.52		285.8		2443556
+EICHERMOT		-1.41		3968.95		622611
+TITAN		-0.87		3598.9		335455
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEG		-0.66		1732.7		122417
-NH		0.29		1173.6		92821
+HEG		-0.69		1732.15		122843
+ECLERX		-2.15		2518.2		28024
+CRISIL		-1.27		4185.1		9184
