@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.37		283.35		8410786
+NTPC		-1.27		283.65		8541142
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWENERGY		-2.36		445.0		1717578
-INTELLECT		-0.37		776.75		606052
-MPHASIS		-0.06		2431.7		267092
+COCHINSHIP		-1.94		1254.0		1354587
+SOBHA		-5.05		1016.2		617811
+INTELLECT		-0.4		776.5		608434
+MPHASIS		-0.07		2431.5		269042
+AMBER		-1.44		3089.55		145025
+MANYAVAR		-4.83		1365.0		140886
+MEDPLUS		-0.49		743.0		71933
