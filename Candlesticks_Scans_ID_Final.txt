@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		-0.09		4223.9		134721
-ECLERX		-3.95		2472.0		61597
-ABBOTINDIA		-1.12		22789.15		11961
+CUMMINSIND		-4.35		1914.2		813714
+INDIGO		-0.5		2911.0		405929
+JKCEMENT		-0.16		3834.7		151988
+ECLERX		-3.89		2473.45		61906
+LUXIND		-1.5		1356.5		31651
