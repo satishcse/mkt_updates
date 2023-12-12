@@ -2,15 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.91		196		6503351
+SBILIFE		0.56		1468.85		611392
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-1.51		2317.95		514864
-CUMMINSIND		-0.88		1983.6		510584
-MAZDOCK		-1.69		2082.0		472146
-GRASIM		0.3		2090.3		456381
-NAM-INDIA		0.66		441.45		298369
-ABB		-1.65		4708.05		135537
-JKCEMENT		0.07		3843.3		131713
+ASIANPAINT		-0.24		3225.2		509543
+TIINDIA		-4.33		3727.05		212874
