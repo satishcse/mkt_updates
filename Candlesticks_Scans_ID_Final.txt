@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		1.39		5549.7		722262
-BAJFINANCE		0.46		7326.35		390597
+DRREDDY		1.37		5548.3		725650
+BAJFINANCE		0.48		7327.55		393912
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGOPNTS		-0.21		1469.55		27562
+BALAMINES		-0.66		2252.35		54241
+INDIGOPNTS		-0.06		1471.7		28132
+3MINDIA		-1.5		31330.7		957
