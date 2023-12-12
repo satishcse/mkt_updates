@@ -1,15 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		-0.81		196.2		4815474
-BHARTIARTL		-0.58		995.05		3743336
-HDFCLIFE		2.2		687.3		3610090
-SBILIFE		0.86		1473.15		514060
-BAJAJ-AUTO		1.86		6252.45		484582
-TITAN		-0.95		3596.0		359151
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DATAPATTNS		-0.24		2025.25		60305
+AIAENG		-1.2		3648.7		14505
