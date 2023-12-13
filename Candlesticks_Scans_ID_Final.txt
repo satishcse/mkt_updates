@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.97		193.5		3840552
+POWERGRID		1.58		235		10770905
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SONATSOFTW		-4.35		722.0		768502
-SOBHA		-5.08		966.3		473331
-BRIGADE		-0.99		797.15		61599
-GRINFRA		-2.21		1168.05		25347
+
