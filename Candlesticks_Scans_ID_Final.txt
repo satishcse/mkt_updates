@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.02		193.4		3837286
+ONGC		-0.97		193.5		3840552
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOBHA		-5.0		967.1		471695
-ASTRAL		-1.39		1901.7		85810
-BRIGADE		-0.97		797.3		61202
+SONATSOFTW		-4.35		722.0		768502
+SOBHA		-5.08		966.3		473331
+BRIGADE		-0.99		797.15		61599
+GRINFRA		-2.21		1168.05		25347
