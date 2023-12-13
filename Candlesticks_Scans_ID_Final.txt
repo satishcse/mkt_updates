@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-1.44		1208.5		1529142
-DRREDDY		0.84		5586.95		455263
+TECHM		-1.52		1207.55		1532948
+DRREDDY		0.81		5584.95		456978
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-INTELLECT		-0.37		774.75		534475
+
