@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.21		448.5		6409048
+BPCL		0.18		448.35		6416065
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-1.67		9698.35		1010479
-SHREECEM		-1.14		28280.6		7767
+ULTRACEMCO		-1.66		9700.0		1011024
+ALKYLAMINE		-1.28		2247.2		17276
