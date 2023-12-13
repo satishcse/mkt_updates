@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.01		1634.45		9736272
-JSWSTEEL		-0.83		846.75		1394570
+HDFCBANK		0.01		1634.75		9755383
+ONGC		-0.87		193.7		6365668
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODFRYPHLP		-0.23		2103.85		40140
+GODFRYPHLP		-0.21		2104.4		40223
