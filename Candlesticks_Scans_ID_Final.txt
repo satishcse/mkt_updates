@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-1.07		1465.55		995568
+SBILIFE		-1.07		1465.55		996129
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		0.04		2964.55		42864
+KEI		0.04		2964.45		42930
+NAVINFLUOR		-0.44		3752.95		26410
