@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.72		194.0		3655944
-HEROMOTOCO		1.51		3803.8		428566
+AXISBANK		-1.08		1118.8		4162702
+ONGC		-0.74		193.95		3665948
+HDFCLIFE		-2.32		690.95		2603862
+HEROMOTOCO		1.51		3803.7		429166
 
 Bullish_Hammer_15m_N500								 
 ======================= 
