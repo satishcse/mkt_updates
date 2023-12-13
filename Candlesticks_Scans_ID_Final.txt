@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-2.38		1440.85		3216963
-HDFCLIFE		-2.1		692.5		2387118
+INFY		-2.45		1439.85		3234167
+HDFCLIFE		-2.14		692.2		2389663
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ECLERX		0.3		2485.25		42994
-GRINFRA		-1.85		1172.25		15190
+ECLERX		0.3		2485.25		43049
+LAXMIMACH		-0.41		13327.85		346
