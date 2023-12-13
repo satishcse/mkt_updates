@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-2.49		1439.35		3434846
-HDFCLIFE		-2.32		690.95		2471273
+HINDUNILVR		0.16		2506.7		360992
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLS		-1.47		312.45		6913820
-PERSISTENT		-1.08		6456.8		68272
-BALAMINES		-0.54		2220.65		24583
 LAXMIMACH		-0.4		13328.7		350
