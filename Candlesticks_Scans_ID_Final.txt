@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.09		447.15		12820730
-BAJAJFINSV		-1.19		1686.5		1117761
+TATASTEEL		1.04		131.45		22026656
+BPCL		-0.07		447.25		13006690
+BAJAJFINSV		-1.22		1685.9		1131690
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AMBER		-0.88		3059.55		70252
+FACT		-0.76		794.65		1294772
+FINEORG		-1.86		4389.1		17459
