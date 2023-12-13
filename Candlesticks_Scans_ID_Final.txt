@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-INDUSINDBK		0.51		1504.6		564864
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INFY		-2.21		1443.4		3032300
-PERSISTENT		-0.91		6467.8		61080
+INFY		-2.2		1443.65		3040114
+ACC		-0.57		2163.0		228380
