@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.78		344.8		2627534
+COALINDIA		-0.81		344.7		2633482
+SBILIFE		-1.05		1465.85		989242
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-0.49		3750.8		26138
+KEI		-0.22		2956.7		41944
+NAVINFLUOR		-0.49		3751.0		26139
+BIRLACORPN		-1.35		1404.8		25571
