@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		0.35		3354.2		529955
+KOTAKBANK		0.08		1825.85		1463353
+LT		0.38		3355.0		530340
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		0.05		756.65		238368
+ANGELONE		-2.51		2988.95		231971
