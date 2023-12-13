@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-2.51		1439.05		3363222
-HDFCLIFE		-2.15		692.15		2428465
+INFY		-2.5		1439.15		3379569
+HDFCLIFE		-2.21		691.7		2431765
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GMMPFAUDLR		-0.35		1470.25		59679
+MOTILALOFS		-0.02		1216.95		495439
+360ONE		0.47		647.45		100745
+GMMPFAUDLR		-0.37		1469.95		59816
+GODREJIND		-0.9		657.2		35932
 LAXMIMACH		-0.4		13328.7		350
