@@ -1,8 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFCLIFE		-1.23		698.65		4185524
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CRISIL		-2.46		4117.05		24316
