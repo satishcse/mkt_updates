@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.28		998.05		3152077
-DRREDDY		0.74		5581.35		525691
+TATASTEEL		0.65		130.95		17998778
+ONGC		-1.33		192.8		7965941
+DRREDDY		0.8		5584.9		527614
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CYIENT		0.17		1977.75		214099
+
