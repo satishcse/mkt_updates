@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-ULTRACEMCO,-1.81,9685.05,1064872
-TATACONSUM,0.11,949.75,264573
-BRITANNIA,-0.62,4872.85,57909
+ULTRACEMCO,-1.81,9684.85,1065394
+TATACONSUM,0.1,949.7,264779
+BRITANNIA,-0.67,4870.3,59183
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+NH,-0.41,1161.25,121586
