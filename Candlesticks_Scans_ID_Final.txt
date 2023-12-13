@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		2.31		289.95		11905864
-UPL		-0.31		595.85		1295123
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-3.62		3358.05		2416484
+PIIND		-3.66		3356.6		2431103
