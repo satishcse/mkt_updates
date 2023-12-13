@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.35		454.7		5202909
-AXISBANK		-1.26		1116.8		4808369
-LT		0.52		3359.7		579718
+ITC		0.38		454.8		5212951
+AXISBANK		-1.25		1116.9		4812624
+LT		0.53		3359.95		581142
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-3.61		3358.4		2449782
-RELAXO		0.06		909.45		26799
+PIIND		-3.61		3358.15		2454946
+RELAXO		0.05		909.4		26822
