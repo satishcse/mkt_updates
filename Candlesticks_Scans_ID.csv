@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBILIFE,-1.04,1466,2058992
-BRITANNIA,0.1,4908,94858
+SBILIFE,-1.04,1466.0,2060919
+BRITANNIA,0.07,4906.45,95167
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CREDITACC,-0.04,1762.8,47485
