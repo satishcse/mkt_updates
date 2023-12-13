@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-0.97		1467.05		2063645
-BRITANNIA		0.16		4910.95		95527
+TATASTEEL		0.61		130.9		17543060
+SBILIFE		-0.94		1467.5		2064461
+BRITANNIA		0.17		4911.4		95907
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CREDITACC		-0.04		1762.75		48955
+CREDITACC		0.09		1765		50645
