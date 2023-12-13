@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.82		235.55		17787919
-TECHM		-1.51		1207.65		1894611
+POWERGRID		1.86		235.65		17857804
+TECHM		-1.54		1207.3		1903399
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CONCOR		-1.08		846.4		1314355
-CREDITACC		-0.01		1763.3		46319
-RATNAMANI		-0.47		3437.4		41862
-LINDEINDIA		-0.82		5674.95		25979
+RATNAMANI		-0.46		3437.5		41918
