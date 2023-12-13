@@ -1,7 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TECHM		-1.39		1209.15		1522611
+DRREDDY		0.78		5583.3		451543
+TATACONSUM		0.43		952.8		332420
 
 Bullish_Hammer_15m_N500								 
 ======================= 
