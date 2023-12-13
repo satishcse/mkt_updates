@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,0,1634.6,9797394
+HDFCBANK,-0.03,1634.1,9818681
+ONGC,-0.87,193.7,6408362
+WIPRO,-0.85,418.6,2934904
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-GODFRYPHLP,-0.17,2105.25,40283
+KAYNES,-0.01,2447.0,55171
+GODFRYPHLP,-0.17,2105.2,40294
