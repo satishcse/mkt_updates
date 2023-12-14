@@ -6,10 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PCBL		0.67		256.5		431228
-SUNTV		0.12		684.95		119055
-AFFLE		1.5		1212.9		92615
-RAYMOND		0.29		1760.5		51292
-AVANTIFEED		-0.1		399.0		31480
-TTKPRESTIG		0.15		761.0		9304
-SAPPHIRE		0.21		1416.05		1716
+BLUEDART		0.7		7444.75		2566
