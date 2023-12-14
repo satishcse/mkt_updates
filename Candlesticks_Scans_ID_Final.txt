@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VEDL		-0.97		250.9		5383820
-SUNTV		0.13		685.0		103000
-JBCHEPHARM		-0.52		1444.35		11121
+PVRINOX		0.42		1760.0		20285
+JBCHEPHARM		-0.34		1446.95		11180
