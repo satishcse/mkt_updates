@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.07		132.8		20574274
-BRITANNIA		0.2		4929.1		56939
+TATASTEEL		1.03		132.75		20623229
+BRITANNIA		0.19		4928.75		57085
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		0.3		791		69878
+PNBHOUSING		0.22		790.4		70974
