@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		1.06		2905.65		830073
-INTELLECT		1.37		788.45		123919
+ADANIENT		1.15		2908.0		841093
+VOLTAS		0.06		852.9		222985
+MANYAVAR		-0.89		1363.95		106372
+SIEMENS		-0.25		3924.4		41029
+GILLETTE		-0.39		6212.5		1415
