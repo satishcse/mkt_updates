@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		1.75		9909.95		337152
-DRREDDY		0.27		5613.5		216073
-DIVISLAB		0.63		3679.2		163116
+ULTRACEMCO		1.73		9907.85		338904
+DRREDDY		0.19		5609.05		217495
+DIVISLAB		0.65		3679.6		163470
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AIAENG		-0.84		3647.95		14967
+
