@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.82		235		6877466
+POWERGRID		-0.87		234.9		7232500
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.25		6300.2		83874
-TEJASNET		0.74		826.3		68509
-DALBHARAT		-0.25		2370.35		57162
-MTARTECH		0.6		2268.0		27984
-BRITANNIA		-0.21		4909.0		27407
+BDL		-0.22		1380.6		105531
+TORNTPOWER		0.12		913.1		95205
