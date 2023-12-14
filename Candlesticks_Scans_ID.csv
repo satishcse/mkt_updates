@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-HDFCBANK,1.17,1649.9,9212744
-TITAN,-0.07,3599.7,317933
-BAJAJ-AUTO,0.01,6316.9,201654
+HDFCBANK,1.15,1649.6,9232864
+TITAN,-0.07,3599.95,318287
+BAJAJ-AUTO,0.03,6318.1,202003
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SUNDRMFAST,-0.37,1235.1,23496
