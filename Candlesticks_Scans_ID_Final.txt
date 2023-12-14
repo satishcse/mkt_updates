@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		2.7		1547.55		1937162
+INDUSINDBK		2.63		1546.55		1939994
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-METROBRAND		0.28		1337.4		56023
+
