@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.46		132.0		33408147
-NTPC		0.31		294.95		19095589
-SUNPHARMA		0.08		1234.05		1249586
-APOLLOHOSP		1.2		5491.75		393428
+TATASTEEL		0.46		132.0		33459699
+NTPC		0.32		295.0		19122728
+SUNPHARMA		0.1		1234.35		1258181
+APOLLOHOSP		1.23		5493.4		394501
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RATNAMANI		-1.46		3389		29070
+KAYNES		-0.26		2448.55		77863
