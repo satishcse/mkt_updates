@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		1.24		5493.9		389163
+NTPC		0.34		295.05		18913316
+HCLTECH		3.26		1413.85		3668556
+SUNPHARMA		0.15		1234.95		1214991
+APOLLOHOSP		1.24		5493.95		390228
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AIAENG		-1.38		3627.95		26518
