@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		3.25		7493.55		1292215
-SUNPHARMA		0.15		1235.0		1022029
-LTIM		3.78		5944.0		745674
-ULTRACEMCO		2.17		9950.0		497396
+BAJFINANCE		3.26		7494.25		1294324
+SUNPHARMA		0.21		1235.75		1024503
+LTIM		3.76		5942.7		746036
+ULTRACEMCO		2.17		9950.0		497896
+DIVISLAB		0.63		3679.2		286934
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+BIRLACORPN		0.78		1404.5		78820
 ANURAS		-0.59		1036.05		68229
-KSB		-0.07		3306.0		55011
-TIMKEN		0.22		3193.75		13077
+KSB		-0.05		3306.8		55114
