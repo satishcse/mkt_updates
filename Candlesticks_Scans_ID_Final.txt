@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-0.45		445.5		5669794
-LT		0.91		3430.65		2089915
+BPCL		-0.41		445.65		5701743
+LT		0.92		3430.95		2104222
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LINDEINDIA		-0.85		5620		42815
+
