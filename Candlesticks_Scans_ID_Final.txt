@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.34		295.05		16813028
-HINDALCO		1.2		539.25		4852504
+TATASTEEL		0.57		132.15		27809067
+NTPC		0.34		295.05		16822600
+HINDALCO		1.19		539.2		4856649
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYTEX		-0.62		1281.35		110346
+POLYCAB		-0.71		5637.8		245174
+CENTURYTEX		-0.62		1281.35		110347
 CGCL		-0.05		763.3		107623
