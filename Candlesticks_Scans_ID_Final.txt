@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.99		132.7		19861999
-BRITANNIA		0.29		4933.75		55825
+TATASTEEL		0.99		132.7		19898685
+COALINDIA		1.55		350.55		5103634
+BRITANNIA		0.23		4930.5		55949
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOBHA		2.75		1001.0		543593
-OLECTRA		-0.11		1258.2		333790
-3MINDIA		-1.1		31152.8		837
+SOBHA		2.75		1000.95		544583
+3MINDIA		-1.09		31154.75		838
