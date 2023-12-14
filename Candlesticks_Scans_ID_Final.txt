@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.86		685.2		4607872
-APOLLOHOSP		1.41		5503.45		411841
+HDFCLIFE		-1.88		685.1		4617091
+APOLLOHOSP		1.35		5500.25		412899
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RADICO		-2.05		1659.65		139214
+LUXIND		-1.64		1309.45		68828
