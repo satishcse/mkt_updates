@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		2.99		432.2		9722662
-LT		0.98		3433.0		1966482
-APOLLOHOSP		1.41		5503.5		429940
+NTPC		0.53		295.6		20855257
+SBIN		0.69		624.1		13476788
+INFY		3.5		1499.65		10291549
+LT		0.98		3433.05		1984037
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KSB		-1.38		3262.8		62279
+
