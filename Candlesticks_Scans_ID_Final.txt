@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.66		623.95		5865844
-COALINDIA		1.36		349.9		4425104
-BAJAJ-AUTO		0.06		6320.0		163962
+SBIN		0.65		623.85		5895991
+COALINDIA		1.32		349.75		4440864
+BAJAJ-AUTO		0.13		6324.0		166526
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.88		685.05		1800292
-ENDURANCE		-0.19		1695.8		10737
-GODFRYPHLP		0.05		2102.55		6512
+HDFCLIFE		-1.9		684.95		1864614
+PVRINOX		0.16		1755.45		168325
+ENDURANCE		-0.19		1695.7		10744
