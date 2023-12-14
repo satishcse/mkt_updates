@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.88		194.85		7856898
-EICHERMOT		1.49		4092.9		500507
+ONGC		0.91		194.9		7880426
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-0.22		35847.35		2316
+HONAUT		-0.17		35865.85		2605
