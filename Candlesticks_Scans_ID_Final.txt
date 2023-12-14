@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		2.36		1037.85		12167387
-ADANIPORTS		0.98		1073.95		6022311
+ICICIBANK		2.15		1035.65		12368131
+BPCL		-0.36		445.9		4763229
+INDUSINDBK		3.11		1553.8		2398094
+GRASIM		0.51		2094.55		359753
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BBTC		0.03		1370.85		39797
+
