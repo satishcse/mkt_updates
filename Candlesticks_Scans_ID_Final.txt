@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.05		460.45		13212178
-INFY		3.52		1499.95		11344554
-BPCL		-0.41		445.65		5920910
-TATACONSUM		-0.62		951.4		1856194
-DRREDDY		-0.36		5578.45		582912
+ITC		1.05		460.45		13274212
+TATACONSUM		-0.61		951.45		1863043
+DRREDDY		-0.46		5573.0		589125
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROBRAND		-1.5		1313.75		83434
-AJANTPHARM		-1.33		1876.95		42560
+JBCHEPHARM		-2.26		1419.05		86002
+METROBRAND		-1.44		1314.5		83865
+AJANTPHARM		-1.27		1877.95		42660
