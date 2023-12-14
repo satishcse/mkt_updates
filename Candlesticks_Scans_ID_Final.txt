@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.44		1654.35		12022818
-COALINDIA		1.0		348.65		8266791
-BAJAJFINSV		2.83		1732.25		1454006
-SUNPHARMA		0.15		1235.0		1075001
-GRASIM		0.46		2093.45		339418
+HDFCBANK		1.46		1654.7		12048106
+COALINDIA		0.98		348.6		8288857
+BAJAJFINSV		2.83		1732.3		1454761
+SUNPHARMA		0.15		1235.0		1079250
+GRASIM		0.46		2093.45		339674
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RAMCOCEM		-0.09		1047.85		158849
