@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PVRINOX		0.42		1760.0		20285
-JBCHEPHARM		-0.34		1446.95		11180
+PFC		0.41		423.55		5380102
+TANLA		3.98		1134.3		3647743
+BALAMINES		0.63		2249.9		12523
