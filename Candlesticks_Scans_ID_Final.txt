@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-1.84		232.6		16406317
+POWERGRID		-1.92		232.4		16621153
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKEM		0.09		4889.75		107820
-MGL		-0.83		1164.0		79533
-JBMA		-0.2		1396.9		19248
-ABBOTINDIA		-0.77		22605.8		5417
-SANOFI		0.04		8181.4		1182
+HAL		0.24		2776.55		530291
+ALKEM		0.1		4890.0		108111
+CREDITACC		0.3		1767.85		29358
+JBMA		-0.19		1397.0		19355
+SANOFI		0.05		8182.2		1184
+HONAUT		-0.16		35869.05		1156
