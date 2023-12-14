@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.79		624.75		5657260
-COALINDIA		1.41		350.05		4286662
-BAJAJ-AUTO		0.54		6350.0		153943
+SBIN		0.67		624.0		5691300
+COALINDIA		1.45		350.2		4333277
+BAJAJ-AUTO		0.38		6340.1		159340
 
 Bullish_Hammer_15m_N500								 
 ======================= 
