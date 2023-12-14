@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.08		1648.45		9519273
-BAJAJFINSV		2.6		1728.4		1128453
-TITAN		-0.29		3591.85		329900
-BAJAJ-AUTO		0.02		6317.5		206176
+HDFCBANK		1.05		1648.0		9544413
+BAJAJFINSV		2.56		1727.6		1129487
+TITAN		-0.31		3591.35		330539
+BAJAJ-AUTO		0.02		6317.2		206503
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-0.55		5647.15		196939
+POLYCAB		-0.57		5646.05		196986
