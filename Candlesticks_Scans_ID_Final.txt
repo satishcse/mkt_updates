@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		0.54		458.1		2704258
+DRREDDY		0.06		5601.95		156731
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYPLY		-1.03		758.85		92302
-ESCORTS		0.37		3137.8		43179
+CENTURYPLY		-1.03		758.85		92407
+ESCORTS		0.4		3138.75		43657
