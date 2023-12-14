@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.81		24841.4		39796
-GODFRYPHLP		0.05		2102.35		13443
+NESTLEIND		-0.82		24839.95		39959
