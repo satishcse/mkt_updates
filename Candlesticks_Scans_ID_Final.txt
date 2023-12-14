@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		1.12		460.75		13053775
-INFY		3.51		1499.9		11180166
+ITC		1.08		460.55		13138546
+INFY		3.51		1499.9		11251198
+DRREDDY		-0.34		5579.75		579851
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PRESTIGE		-0.9		1155.6		2385892
+METROBRAND		-1.75		1310.4		83237
+GODFRYPHLP		-0.66		2087.6		28855
