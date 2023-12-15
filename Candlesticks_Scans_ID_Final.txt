@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		4.06		1562.45		8808059
-INDUSINDBK		0.27		1555.85		1363465
-LT		0.45		3448.7		1035230
-ULTRACEMCO		-0.2		9943.45		177328
+INFY		4.06		1562.45		8825515
+INDUSINDBK		0.23		1555.2		1366478
+LT		0.45		3448.7		1036356
+ULTRACEMCO		-0.19		9944.6		177533
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIMKEN		-0.54		3184.65		10257
+LUPIN		-0.7		1247.6		346054
+TIMKEN		-0.54		3184.55		10306
