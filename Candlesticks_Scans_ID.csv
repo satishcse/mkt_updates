@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,0.78,297.7,14464428
-BAJAJFINSV,-0.18,1727.9,889199
-BAJFINANCE,0.22,7490.5,689907
+NTPC,0.8,297.75,14493645
+BAJAJFINSV,-0.15,1728.35,893043
+BAJFINANCE,0.19,7488.1,694612
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+SIEMENS,-0.52,3897.5,239283
