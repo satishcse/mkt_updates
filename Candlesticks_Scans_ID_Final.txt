@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.47		551.1		4591941
-RELIANCE		0.65		2480.05		2706074
-LT		0.44		3448.1		1018134
-LTIM		4.39		6205.05		1010837
+HINDALCO		1.42		550.8		4601677
+RELIANCE		0.64		2480.0		2711808
+LT		0.38		3446.05		1019681
+LTIM		4.39		6205.1		1013070
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CONCOR		-1.68		861		1112922
