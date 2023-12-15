@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+UPL		1.84		610.15		3151207
+SUNPHARMA		0.42		1236.45		2367040
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOTYRE		-0.26		449.7		2520072
-HAVELLS		-0.19		1331.1		283997
+SAFARI		-2.63		2146		38240
