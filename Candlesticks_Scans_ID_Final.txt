@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.64		457.15		4901878
-KOTAKBANK		0.17		1857.0		941290
-HEROMOTOCO		0.62		3907.7		466348
+ITC		-0.65		457.1		4913763
+KOTAKBANK		0.15		1856.7		946357
+HEROMOTOCO		0.61		3907.25		469947
+ULTRACEMCO		-0.14		9949.2		161500
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-1.09		2080.5		204787
+TORNTPHARM		-1.07		2080.9		205020
