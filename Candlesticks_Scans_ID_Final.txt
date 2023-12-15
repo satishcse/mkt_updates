@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONATSOFTW		-0.98		768.7		634220
-CUMMINSIND		-0.11		1944.95		114000
-ERIS		-1.09		854.95		35937
+SONATSOFTW		-0.96		768.85		635676
+BHARATFORG		-0.63		1193.55		214904
+CUMMINSIND		-0.05		1946.15		114125
+ERIS		-0.37		861.2		37321
