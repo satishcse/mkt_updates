@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.74		456.7		4126316
+ITC		-0.72		456.8		4141733
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GILLETTE		0.33		6137.05		2276
+AIAENG		0.11		3627.1		9600
+GILLETTE		0.32		6136.7		2277
