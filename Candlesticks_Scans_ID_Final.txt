@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.25		133.65		10465623
+TATASTEEL		1.4		133.85		10668697
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KFINTECH		-5.87		500.6		27540223
+KFINTECH		-5.62		501.9		27695373
