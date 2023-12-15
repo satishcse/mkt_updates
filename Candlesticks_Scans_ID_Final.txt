@@ -1,20 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		1.59		134.1		11861929
-LTIM		1.44		6030.0		145396
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SWANENERGY		0.09		501.8		1359038
-AMBUJACEM		-0.6		517.15		830786
-IRCTC		0.28		793.25		645706
-RITES		1.06		519.3		483284
-COCHINSHIP		1.47		1265.35		328475
-PHOENIXLTD		0.3		2368.4		52969
-CEATLTD		-0.42		2381.2		29725
-KPRMILL		-0.06		822.0		17292
-CRAFTSMAN		-0.53		5279.3		4041
-GODFRYPHLP		0.24		2092.8		3015
+
