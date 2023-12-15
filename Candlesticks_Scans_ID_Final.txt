@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		-0.54		10297.45		453917
-DRREDDY		-0.02		5572.45		242027
+POWERGRID		0.37		232.95		22489710
+DRREDDY		0.05		5575.95		242990
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TITAN		-0.05		3589.75		307007
+TITAN		-0.05		3589.75		307995
