@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		3.15		448.1		13020636
-RELIANCE		0.68		2480.9		2864879
-ULTRACEMCO		-0.18		9944.9		180214
+WIPRO		3.12		447.95		13040365
+RELIANCE		0.65		2480.05		2866852
+ULTRACEMCO		-0.18		9945.8		180282
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-1.1		2325.0		354027
-COROMANDEL		0.17		1243.95		193233
-MOTILALOFS		-3.21		1230.6		127592
+COROMANDEL		0.15		1243.65		193655
