@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.09		1032.75		4203760
-KOTAKBANK		0.11		1855.85		866405
-CIPLA		0.86		1215.0		432863
+NTPC		0.71		297.5		9407778
+ICICIBANK		-0.13		1032.35		4208682
+KOTAKBANK		0.08		1855.25		867635
+CIPLA		0.87		1215.15		433541
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATUL		0.27		6980.85		26569
+ATUL		0.32		6984.45		26607
+ERIS		-0.64		858.9		25033
+SAFARI		-1.58		2169.25		21691
