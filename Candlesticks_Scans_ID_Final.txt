@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.81		297.8		14420131
-UPL		1.95		610.85		2518760
-BAJAJFINSV		-0.14		1728.6		884523
-BAJFINANCE		0.2		7489.15		686462
+NTPC		0.76		297.65		14430800
+RELIANCE		1.15		2492.4		3693268
+UPL		1.91		610.6		2524477
+BAJAJFINSV		-0.21		1727.3		886680
+BAJFINANCE		0.21		7489.95		688176
 
 Bullish_Hammer_15m_N500								 
 ======================= 
