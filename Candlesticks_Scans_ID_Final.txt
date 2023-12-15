@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		2.94		447.15		14299929
-HCLTECH		4.97		1484.85		4896502
-RELIANCE		0.79		2483.55		3167259
+WIPRO		2.95		447.2		14347731
+HCLTECH		5.06		1486.2		4903577
+RELIANCE		0.8		2483.9		3177421
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+KPIL		-1.44		668		145647
