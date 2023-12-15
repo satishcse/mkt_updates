@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.14		1553.9		1818360
+INDUSINDBK		0.17		1554.35		1820432
+EICHERMOT		-0.35		4072.05		473205
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-0.6		35412.7		9074
+DALBHARAT		-1.67		2366.45		142420
