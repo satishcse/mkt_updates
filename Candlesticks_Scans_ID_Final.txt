@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		2.73		557.95		7377650
+HINDALCO		2.7		557.75		7454392
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TORNTPOWER		-2.15		893.05		614289
-MRF		-0.48		119980.0		3885
+
