@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-WIPRO,3.11,447.9,13108131
-RELIANCE,0.64,2480.0,2876255
-ULTRACEMCO,-0.22,9941.25,180593
+WIPRO,3.13,448.0,13121875
+RELIANCE,0.68,2480.9,2885051
+ULTRACEMCO,-0.22,9941.0,180660
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BSE,-1.1,2325,356649
