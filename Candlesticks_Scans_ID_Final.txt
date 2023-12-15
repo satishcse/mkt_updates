@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		2.95		447.2		14390741
-AXISBANK		-0.29		1117.2		6690355
-BHARTIARTL		-1.26		992.55		4458884
-M&M		0.55		1712.95		2100569
-LT		0.51		3450.7		1186698
-BAJAJFINSV		-0.35		1724.85		826710
+POWERGRID		0.97		234.35		25746255
+HDFCBANK		-0.04		1649.45		10297741
+M&M		0.5		1712.05		2107923
+NESTLEIND		-2.16		24257.25		95421
 
 Bullish_Hammer_15m_N500								 
 ======================= 
