@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-2.27		669.0		5111898
-HINDALCO		1.65		552.05		4523801
-RELIANCE		0.67		2480.55		2677079
+HDFCLIFE		-2.23		669.3		5113516
+HINDALCO		1.57		551.6		4535921
+RELIANCE		0.65		2480.05		2683715
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DMART		-1.15		4023.15		105292
+
