@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		3.33		136.4		59849762
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JINDALSTEL		-0.44		732.15		2135489
-JSL		0.73		552.0		1948025
-INDIGO		-1.73		2928.5		691050
-BOSCHLTD		-1.36		21761.0		15624
+
