@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.06		1649.1		10355392
-M&M		0.55		1712.85		2119227
-LT		0.5		3450.35		1202505
-BAJAJFINSV		-0.35		1724.85		838192
-ULTRACEMCO		-0.14		9949.45		214522
-NESTLEIND		-2.19		24250.1		95862
+HDFCBANK		-0.08		1648.8		10383769
+M&M		0.55		1712.9		2120513
+LT		0.46		3449.0		1203809
+BAJAJFINSV		-0.4		1724.0		839144
+ULTRACEMCO		-0.15		9948.6		214726
+NESTLEIND		-2.15		24259.6		96013
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GOCOLORS		0.19		1297.1		54832
