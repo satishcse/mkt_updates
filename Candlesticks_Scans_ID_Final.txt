@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.7		134.25		9005729
+TATASTEEL		1.67		134.2		9138172
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAPPSTMNDS		0.64		919.0		93560
-GODFRYPHLP		0.27		2093.4		2697
+HAPPSTMNDS		0.63		918.95		95580
+CRAFTSMAN		-0.67		5271.5		3619
