@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.34		232.9		22519363
-DRREDDY		0.0		5573.45		243934
+POWERGRID		0.34		232.9		22537473
+DRREDDY		-0.01		5573.05		244783
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TITAN		-0.04		3589.9		308398
+ICICIBANK		-0.57		1027.75		4984474
