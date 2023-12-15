@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		0.58		1560.7		711527
+INDUSINDBK		0.62		1561.3		717352
+APOLLOHOSP		0.17		5525.15		42240
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CARBORUNIV		0.03		1196		13688
+CARBORUNIV		0.1		1196.8		14021
