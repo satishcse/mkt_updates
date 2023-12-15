@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CDSL		-1.94		1909.45		510709
-TITAN		0.03		3592.45		229951
-MCX		0.11		3257.7		149956
-SAPPHIRE		-0.52		1409.1		7402
+BSE		-0.59		2336.95		255394
+BATAINDIA		0.22		1655.9		99440
+CRAFTSMAN		-1.18		5244.45		9048
+SAPPHIRE		-0.52		1409.1		7457
