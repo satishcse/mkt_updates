@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-INFY,4.06,1562.45,8785731
-INDUSINDBK,0.31,1556.45,1356145
-LT,0.44,3448.2,1032410
-ULTRACEMCO,-0.16,9947.0,175870
+INFY,4.06,1562.45,8808059
+INDUSINDBK,0.27,1555.85,1363465
+LT,0.45,3448.7,1035230
+ULTRACEMCO,-0.2,9943.45,177328
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TIMKEN,-0.54,3184.65,10257
