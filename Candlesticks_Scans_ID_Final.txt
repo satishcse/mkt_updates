@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.08		1032.85		4153884
-KOTAKBANK		0.16		1856.85		849513
+ICICIBANK		-0.12		1032.4		4166750
+KOTAKBANK		0.14		1856.45		853940
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		-0.92		2720		141246
+CAMS		-0.92		2720		141543
