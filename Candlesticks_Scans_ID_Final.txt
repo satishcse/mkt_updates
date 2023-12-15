@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CRAFTSMAN		-1.17		5244.85		8967
-SAPPHIRE		-0.52		1409.1		7366
+BAJAJ-AUTO		0.0		6335.0		147934
+IPCALAB		-0.83		1095.2		54845
+CRAFTSMAN		-1.18		5244.8		8977
+SAPPHIRE		-0.52		1409.1		7395
