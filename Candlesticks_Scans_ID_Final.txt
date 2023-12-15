@@ -1,13 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCBANK		-0.08		1648.8		7870688
-SBIN		-0.15		622.7		5124039
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GODREJPROP		-1.24		2035.95		437118
-CHOLAHLDNG		1.48		1066.65		90732
-ERIS		-1.23		853.75		33689
+
