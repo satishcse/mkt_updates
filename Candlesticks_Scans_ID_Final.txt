@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		2.57		557.05		7630995
+HINDALCO		2.59		557.15		7697406
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DELHIVERY		-3.4		356.8		2934350
-DIXON		0.05		6311.4		421862
-TATAINVEST		0.68		4299.5		201560
-SHOPERSTOP		-1.29		696.8		44109
+DIXON		0.06		6312.05		423645
+TATAINVEST		0.89		4308.65		202326
+SAFARI		-3.23		2132.9		54154
+SHOPERSTOP		-1.29		696.8		44120
+MRF		-0.51		119950.0		4290
