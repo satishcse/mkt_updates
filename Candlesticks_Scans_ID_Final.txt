@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.7		456.9		4156468
+ITC		-0.73		456.75		4168328
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAPPHIRE		-0.6		1408.0		8708
-KIMS		-0.01		1934.55		6731
+COLPAL		-0.03		2374.2		115421
+AIAENG		0.08		3625.85		9637
 GILLETTE		0.32		6136.45		2367
