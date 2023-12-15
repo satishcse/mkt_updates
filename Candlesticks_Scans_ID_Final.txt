@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		4.13		1563.45		8710784
-LT		0.43		3448.0		1027100
-ULTRACEMCO		-0.18		9945.7		175183
+INFY		4.08		1562.7		8721133
+AXISBANK		-0.5		1114.85		4467196
+LT		0.47		3449.4		1028401
+ULTRACEMCO		-0.19		9944.35		175437
 
 Bullish_Hammer_15m_N500								 
 ======================= 
