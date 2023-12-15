@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.67		457.0		4846878
-HEROMOTOCO		0.65		3908.9		465615
+ITC		-0.67		457		4871232
+HEROMOTOCO		0.63		3908		465985
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		-1.06		2081		204134
+TORNTPHARM		-1.08		2080.75		204424
