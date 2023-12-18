@@ -1,8 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		-1.46		451.5		11424171
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TTKPRESTIG		-0.8		745.0		663171
+JBMA		-0.84		1397.5		51410
