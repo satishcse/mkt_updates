@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.24		198.55		6352557
-KOTAKBANK		-0.04		1849.95		2797577
+ONGC		-1.27		198.5		6363505
+HINDALCO		1.48		565.5		3853538
+APOLLOHOSP		-0.94		5499.2		520599
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MARUTI		-0.35		10249.95		491354
