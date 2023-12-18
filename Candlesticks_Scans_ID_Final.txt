@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.47		451.45		11589501
-CIPLA		0.79		1216.6		1885049
-APOLLOHOSP		-0.93		5499.5		543432
-GRASIM		-0.83		2109.95		293233
+ITC		-1.47		451.45		11638736
+HCLTECH		0.89		1504.55		2865607
+CIPLA		0.79		1216.65		1893788
+APOLLOHOSP		-0.93		5499.7		545461
+GRASIM		-0.83		2109.95		294796
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SRF		0.09		2441.9		230382
