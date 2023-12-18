@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-2.42		231.6		22404147
-ITC		-1.5		451.35		10607076
-KOTAKBANK		-0.08		1849.1		2972918
-HEROMOTOCO		0.04		3898.2		684861
-ULTRACEMCO		-0.59		9970.1		201896
-NESTLEIND		-0.01		24364.2		54103
+ITC		-1.43		451.65		10562334
+KOTAKBANK		-0.09		1848.9		2976114
+HEROMOTOCO		0.06		3899.05		685530
+ULTRACEMCO		-0.55		9974.05		201777
+NESTLEIND		0.03		24374.0		53880
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHOPERSTOP		-1.89		684		35139
+ANURAS		-0.7		1033.4		62599
