@@ -2,16 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.61		303.25		12697775
-ITC		-1.46		451.5		11908409
-HCLTECH		0.85		1504.0		2951074
-APOLLOHOSP		-0.94		5499.2		553697
+ADANIPORTS		1.58		1095.6		6012489
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIANB		-2.9		440.75		2297555
-AUROPHARMA		-0.38		1022.45		1537896
-DRREDDY		0.14		5597.15		694893
-RHIM		0.26		762.8		189583
-BAJAJHLDNG		-0.75		7909.85		34415
+MAPMYINDIA		-2.14		2106.05		118067
