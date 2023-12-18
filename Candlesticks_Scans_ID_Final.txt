@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.07		136.55		45144916
-APOLLOHOSP		-0.94		5499.2		574198
+TATASTEEL		0.04		136.5		45272309
+APOLLOHOSP		-0.95		5498.5		575062
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VARROC		-0.26		529.8		545095
-GODREJIND		0.0		681.05		271018
-WHIRLPOOL		0.07		1348.0		193805
-MAPMYINDIA		-2.15		2105.7		136232
-MRF		-0.45		119542.55		4710
+EICHERMOT		0.61		4084.75		1039033
+HEG		-0.75		1804.55		516709
+WHIRLPOOL		0.06		1347.9		194023
+MAPMYINDIA		-2.13		2106.2		137259
+GLAXO		-1.55		1746.45		105874
