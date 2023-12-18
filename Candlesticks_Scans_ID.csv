@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,0.53,651.7,14792246
-CIPLA,0.62,1214.6,1784517
-TITAN,0.64,3623.7,748625
+SBIN,0.52,651.65,14815422
+CIPLA,0.69,1215.4,1786810
+TITAN,0.63,3623.35,749652
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+VIPIND,-1.49,620,1964132
