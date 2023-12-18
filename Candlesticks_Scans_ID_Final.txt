@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.46		451.5		11627653
-CIPLA		0.79		1216.6		1887057
-GRASIM		-0.84		2109.9		292509
+ITC		-1.47		451.45		11589501
+CIPLA		0.79		1216.6		1885049
+APOLLOHOSP		-0.93		5499.5		543432
+GRASIM		-0.83		2109.95		293233
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-EIDPARRY		1.34		558.95		1676562
+
