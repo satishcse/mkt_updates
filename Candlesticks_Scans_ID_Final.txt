@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.24		198.55		6370580
-HINDALCO		1.45		565.35		3858841
-APOLLOHOSP		-0.94		5498.9		520738
+ONGC		-1.27		198.5		6384915
+HINDALCO		1.45		565.35		3862814
+TCS		0.05		3862.85		2527383
+APOLLOHOSP		-0.94		5498.8		520805
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TVSMOTOR		-0.92		2000		610574
+TVSMOTOR		-0.93		1999.8		611978
+MARUTI		-0.34		10251.75		491907
