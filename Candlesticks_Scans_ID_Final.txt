@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.32		650.35		15003254
-SUNPHARMA		1.68		1256.5		1974900
-HDFCLIFE		-0.02		672.95		1664478
+SBIN		0.19		649.5		15054911
+SUNPHARMA		1.67		1256.35		1976561
+HDFCLIFE		-0.05		672.75		1666080
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIPIND		-1.56		619.55		1988136
+VIPIND		-1.5		619.9		1989221
