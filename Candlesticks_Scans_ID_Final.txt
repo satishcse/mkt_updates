@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		-1.27		4033.65		152757
+EICHERMOT		-1.28		4033.3		152887
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		-3		4015.05		338197
+SIEMENS		-2.95		4017		338563
