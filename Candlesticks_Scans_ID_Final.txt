@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.68		1118.9		6658155
+AXISBANK		0.81		1120.3		6701127
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAELXSI		-1.95		8909.9		141147
-CARBORUNIV		-1.95		1168.65		101146
+TATAELXSI		-2.02		8903.5		142622
