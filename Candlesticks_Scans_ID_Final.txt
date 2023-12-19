@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-1.07		1082.55		4810915
-BAJAJFINSV		-0.9		1709.05		796376
-TITAN		-0.13		3614.95		396521
+ADANIPORTS		-1.11		1082.15		4815576
+BAJAJFINSV		-0.9		1709.15		798743
+TITAN		-0.17		3613.6		397212
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MTARTECH		0.26		2323.35		278979
