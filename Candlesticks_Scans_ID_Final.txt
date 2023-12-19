@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		0.84		1120.7		6580377
-BPCL		0.5		449.5		5805161
+AXISBANK		0.79		1120.1		6630712
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-1.72		1907.95		448896
-SCHAEFFLER		-0.56		3052.9		25077
+BALKRISIND		-0.55		2510.85		172144
+CARBORUNIV		-2.0		1168.0		100447
