@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.03		201.05		11042095
-ASIANPAINT		-0.29		3322.3		377042
-MARUTI		-0.77		10239.95		333114
+ASIANPAINT		-0.31		3321.85		377571
+MARUTI		-0.78		10239.0		333915
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MFSL		-0.56		967.7		110971
+
