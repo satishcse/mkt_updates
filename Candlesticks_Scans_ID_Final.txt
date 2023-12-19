@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.24		992.65		1091276
+BHARTIARTL		0.25		992.75		1095258
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		0.12		2525.05		243491
+LALPATHLAB		0.26		2528.4		244058
+ERIS		-0.16		878.95		162111
