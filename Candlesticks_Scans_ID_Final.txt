@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CDSL		-0.42		1887.15		131232
-RADICO		-1.95		1533.25		96419
-VINATIORGA		-0.51		1713.2		11549
+NAZARA		-0.28		886.3		240609
+RADICO		-1.59		1538.85		101354
+TORNTPOWER		-0.19		929.05		91854
+ESCORTS		0.19		3140.6		40382
