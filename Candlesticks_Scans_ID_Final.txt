@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-0.88		1434.2		252769
-DRREDDY		0.39		5612.7		67466
+POWERGRID		0.11		232.1		2602011
+SBILIFE		-0.85		1434.6		255404
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		-0.68		2323.15		34303
-INDIGOPNTS		-0.65		1473.35		12874
+METROPOLIS		0.05		1620.0		401620
+DALBHARAT		-0.62		2324.75		34487
+SHREECEM		-0.36		28455.0		2789
