@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		2.93		977.5		3224752
-JSWSTEEL		0.16		856.25		816479
-BAJAJFINSV		-0.9		1709.1		809867
+TATACONSUM		2.8		976.3		3236225
+JSWSTEEL		0.15		856.2		818031
+BAJAJFINSV		-0.91		1708.9		813139
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		0.5		2328.85		282738
+MTARTECH		0.46		2328		283245
