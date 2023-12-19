@@ -6,9 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-1.75		3821.7		480685
-ASTRAL		-1.58		1910.7		415264
-RHIM		-0.35		759.8		143833
-GRINDWELL		-0.82		2171.7		15625
-INGERRAND		0.52		3198.1		10829
-CERA		-0.53		8150.0		10615
+HEROMOTOCO		-1.72		3822.85		483905
+CERA		-0.53		8150.0		10690
