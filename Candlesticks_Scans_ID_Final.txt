@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		1.06		2562.35		923824
-LT		0.47		3508.05		812307
-TITAN		-0.13		3614.95		232620
-DIVISLAB		0.14		3718.2		179285
+ITC		1.04		456.35		5552667
+M&M		-0.64		1699.8		1035250
+HINDUNILVR		1.05		2562.0		926465
+TITAN		-0.15		3614.15		233312
+DIVISLAB		0.16		3719.0		179428
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HCLTECH		-1.61		1480.1		1427313
