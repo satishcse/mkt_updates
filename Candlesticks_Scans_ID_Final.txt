@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.26		992.85		1113944
+WIPRO		-1.67		437.8		3704389
+AXISBANK		1.23		1125.0		2229176
+HEROMOTOCO		-1.64		3826.0		188289
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ERIS		-0.08		879.7		162446
-BAYERCROP		0.17		5446.0		1469
+ERIS		-0.17		878.9		162498
