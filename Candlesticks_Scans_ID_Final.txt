@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.78		200.55		7875771
-HDFCBANK		-0.3		1650.8		3824352
-TITAN		0.02		3620.2		138407
+ONGC		0.75		200.5		7917017
+ITC		1.12		456.7		3091794
+ADANIENT		-1.23		2944.0		859440
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ANGELONE		-2.1		3285.0		202722
+TORNTPHARM		0.36		2152.0		103430
+PFIZER		-0.97		4196.45		3973
