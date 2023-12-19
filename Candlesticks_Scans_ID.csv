@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-COALINDIA,1.75,353.75,5956684
-NTPC,1.27,307.05,5865963
-ITC,0.92,455.8,5357640
-ASIANPAINT,-0.21,3325.0,388370
-TITAN,-0.19,3612.55,221599
+NTPC,1.25,307.0,5874705
+ITC,0.92,455.8,5369900
+RELIANCE,1.8,2566.4,5014144
+ASIANPAINT,-0.18,3326.0,388613
+TITAN,-0.19,3612.9,223209
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+EPIGRAL,-0.09,923,22998
