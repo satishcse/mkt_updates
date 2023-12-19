@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.67		1699.4		1049611
-BAJFINANCE		0.12		7596.75		386167
-TITAN		-0.19		3612.6		241706
+M&M		-0.65		1699.75		1050679
+BAJFINANCE		0.11		7596.05		387720
+TITAN		-0.19		3612.8		242366
 
 Bullish_Hammer_15m_N500								 
 ======================= 
