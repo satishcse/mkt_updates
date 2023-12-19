@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-1.72		3822.7		488458
-INGERRAND		0.47		3196.55		11041
+HEROMOTOCO		-1.74		3822.1		490345
+RATNAMANI		-0.55		3407.9		29779
+INGERRAND		0.47		3196.55		11043
