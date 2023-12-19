@@ -2,14 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.48		352.8		5035773
-WIPRO		-1.74		437.5		3861588
-AXISBANK		0.65		1118.55		2563699
-BAJAJ-AUTO		-0.57		6429.0		140053
+TATASTEEL		-1.1		135.1		10699409
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HCLTECH		-1.38		1483.55		648698
-RHIM		-0.22		760.8		59523
-RATNAMANI		-0.36		3414.4		9851
+
