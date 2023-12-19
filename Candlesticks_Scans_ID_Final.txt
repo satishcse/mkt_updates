@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.97		456.05		5479156
-TITAN		-0.18		3613.05		227615
+DRREDDY		0.67		5628.65		108948
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RADICO		-2.93		1517.9		350550
