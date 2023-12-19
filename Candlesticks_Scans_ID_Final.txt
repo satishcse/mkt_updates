@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		0.23		992.5		1099135
+BHARTIARTL		0.19		992.1		1103099
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ERIS		-0.15		879.05		162141
+ERIS		-0.15		879.1		162201
+SUNDARMFIN		-1.26		3740.6		5438
