@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-1.61		438.1		6201771
-BAJAJFINSV		-0.91		1708.9		801053
-DIVISLAB		0.18		3719.85		212281
+TATACONSUM		2.97		977.9		3209964
+BAJAJFINSV		-0.85		1710.0		803888
+DIVISLAB		0.18		3719.85		212408
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		0.4		2326.45		280598
+MTARTECH		0.4		2326.5		280674
