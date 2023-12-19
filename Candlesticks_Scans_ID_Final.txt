@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.4		136.05		19497525
-HDFCLIFE		-0.08		671.7		3076473
-LT		0.51		3509.35		973964
-DIVISLAB		0.18		3719.75		211288
-ULTRACEMCO		0.29		9999.0		158571
+ADANIPORTS		-1.07		1082.55		4810915
+BAJAJFINSV		-0.9		1709.05		796376
+TITAN		-0.13		3614.95		396521
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JINDALSAW		1.21		438.5		1177610
-KEI		-0.71		3015.6		287661
+
