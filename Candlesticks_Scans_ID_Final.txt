@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.5		1702.3		1354654
-BAJAJFINSV		-0.85		1709.9		893344
-TITAN		-0.3		3608.6		453056
-HEROMOTOCO		-1.67		3824.9		408011
-NESTLEIND		4.38		25420.05		304492
+M&M		-0.49		1702.4		1356355
+BAJAJFINSV		-0.85		1710.0		894135
+TITAN		-0.29		3608.95		453711
+HEROMOTOCO		-1.68		3824.3		408717
+NESTLEIND		4.41		25428.4		305053
 
 Bullish_Hammer_15m_N500								 
 ======================= 
