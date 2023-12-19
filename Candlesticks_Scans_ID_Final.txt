@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.95		350.95		4132707
+COALINDIA		1.02		351.2		4160397
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		0.91		2545.0		170350
+LALPATHLAB		0.94		2545.75		173465
 BAYERCROP		0.22		5449.05		920
