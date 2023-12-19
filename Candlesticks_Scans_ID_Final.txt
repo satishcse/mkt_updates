@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.32		1841.0		1365264
-INDUSINDBK		0.94		1571.0		1035365
-MARUTI		-0.72		10244.95		381001
-DIVISLAB		0.19		3720.0		195683
+KOTAKBANK		-0.32		1840.95		1367222
+INDUSINDBK		1.0		1571.85		1042291
+MARUTI		-0.68		10249.55		381466
+DIVISLAB		0.22		3721.05		195803
 
 Bullish_Hammer_15m_N500								 
 ======================= 
