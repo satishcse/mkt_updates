@@ -1,12 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HEROMOTOCO		1.39		3875		169837
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		0.23		2793.8		445836
-CLEAN		-0.6		1506.0		48018
-OFSS		-0.5		4351.65		47591
+GAEL		-1.22		375.65		275559
+NH		-0.54		1186.75		70431
+OFSS		-0.52		4350.9		47643
 SUNDRMFAST		-0.02		1241.9		8919
