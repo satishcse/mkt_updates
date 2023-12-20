@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&M		-0.88		1684.45		1096623
-BSE		0.35		2408.85		837789
-INDIGO		-1.87		2928.75		485277
-ENDURANCE		-0.75		1768.3		39971
+BSE		0.31		2407.9		838670
+INDIGO		-1.87		2928.9		487094
