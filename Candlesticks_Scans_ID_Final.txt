@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		0.26		1311.25		295422
-INDIGO		-0.22		2978.0		90045
-CRISIL		0.06		4258.8		1118
-PGHH		-0.11		17329.55		672
+MCDOWELL-N		0.0		1086.2		108045
+HINDUNILVR		0.05		2561.95		79714
+CRISIL		0.07		4259.1		1124
+PGHH		-0.03		17342.85		676
