@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.79		569.3		948216
-DRREDDY		0.15		5646.1		76093
-GRASIM		-0.34		2111.1		59975
+DRREDDY		0.1		5643.15		76816
+GRASIM		-0.33		2111.25		60532
 
 Bullish_Hammer_15m_N500								 
 ======================= 
