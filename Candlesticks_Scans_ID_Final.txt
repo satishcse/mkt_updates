@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		1.44		3876.85		164087
+HEROMOTOCO		1.4		3875.25		164804
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		-3.07		429.45		735374
-FINCABLES		-1.45		1117.0		106124
+VIPIND		-1.01		606.0		401278
+CLEAN		-0.6		1505.95		46445
