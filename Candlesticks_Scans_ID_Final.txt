@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCDOWELL-N		0.03		1086.55		109347
-NESTLEIND		0.19		25538.85		30267
-PFIZER		-0.01		4239.9		792
-PGHH		-0.02		17344.85		681
+INDIGO		-0.16		2980.0		113548
+NESTLEIND		0.18		25534.65		30824
+BRIGADE		0.35		863.15		21897
+PGHH		-0.02		17345.0		686
