@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AIAENG		0.42		3551.5		2028
+BRIGADE		0.33		862.95		21568
+AIAENG		0.37		3550.0		2072
