@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAFARI		-0.37		2116.95		6457
+PATANJALI		-0.34		1593.9		60858
+POLYCAB		0.36		5630.95		23831
+SAFARI		-0.22		2120.05		6525
+BLUEDART		-0.07		7549.85		1297
