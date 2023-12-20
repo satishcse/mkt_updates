@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VTL		-2.98		392.6		200380
-CLEAN		-4.43		1448.0		165106
-ABBOTINDIA		-3.13		22185.3		21252
+VARROC		-0.9		528.4		1016839
+CHEMPLASTS		-0.33		480.05		182781
+NH		-2.04		1168.9		176992
+TEAMLEASE		-0.72		2852.7		124599
+HONAUT		0.67		35581.35		16284
