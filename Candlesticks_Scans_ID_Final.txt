@@ -2,13 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.76		569.15		2075448
-HEROMOTOCO		1.39		3874.9		167426
+HEROMOTOCO		1.4		3875.4		168332
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		-0.06		2311.75		100375
-PNBHOUSING		0.2		809.2		78839
-JBCHEPHARM		0.53		1475.95		46275
-JKCEMENT		-0.22		3925.3		19170
+SWSOLAR		-2.98		429.85		747162
+SHYAMMETL		-0.8		535.25		377392
+APLAPOLLO		-0.28		1594.75		199282
+CLEAN		-0.58		1506.2		47113
+JKCEMENT		-0.21		3926.0		19184
+RATNAMANI		0.73		3428.7		13625
