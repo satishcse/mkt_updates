@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NESTLEIND		0.22		25546		31718
-BRIGADE		0.34		863		22050
-CRISIL		0.02		4257		1224
+MAZDOCK		0.56		2151.85		134606
+NESTLEIND		0.08		25510.0		32592
+TEJASNET		0.79		833.9		24471
+CRISIL		0.06		4258.75		1236
+PGHH		0.06		17358.85		723
