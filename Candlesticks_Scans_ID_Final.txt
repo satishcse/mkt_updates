@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.55		131.95		24917881
+TATASTEEL		-2.58		131.9		24961706
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TTKPRESTIG		-1.34		749.45		76983
-MRF		-0.24		118498.0		2319
+COFORGE		-1.49		6180.2		307173
+KPIL		-2.36		652.65		219136
+TTKPRESTIG		-1.34		749.45		77017
+SKFINDIA		-1.85		4613.8		9662
+MRF		-0.16		118591.4		2350
