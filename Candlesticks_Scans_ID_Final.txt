@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.04		370.75		11921983
+COALINDIA		1.01		370.65		11938022
+AXISBANK		-0.62		1113.3		3331203
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOBHA		0.61		1005.25		101635
-MASTEK		-0.55		2773.95		34104
-GRINFRA		-0.83		1220.5		10274
+SOBHA		0.6		1005.2		102180
+OFSS		-0.36		4357.9		44765
+GRINFRA		-0.83		1220.5		10277
