@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIENT		0.28		2949.4		788238
-BORORENEW		0.38		439.1		128924
-NH		-0.28		1189.9		64364
+
