@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.63		1113.2		3769567
+AXISBANK		-0.62		1113.35		3781439
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		0.32		2408.1		841915
-VIPIND		-1.18		604.95		511830
-ENDURANCE		-0.55		1771.95		40455
+BSE		0.42		2410.45		843716
+ENDURANCE		-0.53		1772.25		40457
+ALKYLAMINE		0.05		2334.95		32055
+BBTC		-0.6		1337.65		29679
+ATUL		-0.69		7048.4		19758
 SANOFI		-0.89		7992.75		4683
