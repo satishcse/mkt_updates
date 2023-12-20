@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		0.12		5644.1		71058
+JSWSTEEL		0.34		861.6		252221
+DRREDDY		0.12		5644.45		71522
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAJESHEXPO		-2.46		375.45		1647793
-SANOFI		-0.6		8016.7		2620
+JSL		0.96		549.35		480916
 SHREECEM		0.15		28628.55		1704
