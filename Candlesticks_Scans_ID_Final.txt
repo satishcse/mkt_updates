@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		-0.68		1112.6		3799586
+AXISBANK		-0.64		1113.1		3809024
+APOLLOHOSP		0.41		5578.1		225486
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKFERT		-1.53		694.7		538791
-PRINCEPIPE		-0.88		731.3		145289
-SANOFI		-0.86		7995.25		4684
+BSE		0.53		2413.0		852760
+DEEPAKFERT		-1.53		694.7		539604
+PRINCEPIPE		-0.96		730.75		145378
+SANOFI		-0.86		7995.25		4691
