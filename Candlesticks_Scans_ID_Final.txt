@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		0.93		4077.1		232559
-DRREDDY		0.27		5652.55		91966
+EICHERMOT		0.89		4075.75		232728
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MASTEK		-0.33		2779.85		29903
+
