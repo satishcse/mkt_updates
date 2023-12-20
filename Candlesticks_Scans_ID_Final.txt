@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBIN		-0.12		654.6		10025387
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GAEL		-2.31		371.5		363074
+GAEL		-2.21		371.9		366138
+BALAMINES		-1.54		2375.55		55866
