@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+KOTAKBANK		-0.12		1844.3		2897066
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-0.95		2231.1		164376
-SHREECEM		-0.88		28333.6		7975
+CAMS		0.01		2677.7		748656
+SHREECEM		-0.89		28332.65		8026
