@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.64		670.3		300832
-TITAN		0.33		3622.5		88452
+HDFCLIFE		0.62		670.2		302304
+TITAN		0.35		3623.1		89156
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FORTIS		-0.94		396.15		347964
-LAXMIMACH		0.32		13598.8		323
+FORTIS		-0.96		396.05		363022
+ACC		-0.18		2198.7		235880
+LAXMIMACH		0.32		13597.7		324
