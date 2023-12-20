@@ -1,13 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-APOLLOHOSP		0.44		5579.95		226956
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		0.65		2415.9		857185
-PRINCEPIPE		-0.87		731.35		145986
-DIVISLAB		0.06		3726.0		128839
-ATUL		-0.67		7050.05		19959
+M&M		-0.86		1684.75		1125073
+AARTIIND		-0.29		607.15		1000679
+JINDALSTEL		-1.18		720.8		862925
+GNFC		0.02		738.85		448387
+PRINCEPIPE		-0.96		730.75		145999
+DIVISLAB		0.19		3731.1		129226
+COROMANDEL		-0.06		1234.8		55053
+CERA		0.01		8146.75		5065
