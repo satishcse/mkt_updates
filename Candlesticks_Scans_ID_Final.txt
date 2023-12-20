@@ -1,10 +1,17 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-AXISBANK		0.81		1120.3		6701127
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAELXSI		-2.02		8903.5		142622
+TATACONSUM		0.81		973.95		77202
+UTIAMC		2.42		892.0		23875
+CUMMINSIND		0.73		1991.05		17608
+BHARATFORG		0.24		1223.85		16674
+OFSS		0.3		4386.7		7077
+GODFRYPHLP		0.48		2112.5		842
+SCHAEFFLER		0.5		3064.8		812
+LAXMIMACH		0.66		13644.9		69
+3MINDIA		0.18		31525.0		49
