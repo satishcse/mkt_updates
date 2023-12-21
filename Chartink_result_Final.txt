@@ -10,7 +10,7 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		4.91		2590.8		840235
+LALPATHLAB		4.91		2590.8		840234
 HINDUNILVR		-0.17		2553.2		1945695
 
 Intraday_Volume_Shocker								 
