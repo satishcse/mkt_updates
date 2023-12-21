@@ -10,12 +10,15 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		4.77		2587.4		832473
-HINDUNILVR		-0.29		2550.05		1920037
+LALPATHLAB		5.04		2594		835200
+HINDUNILVR		-0.29		2550		1930902
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+VEDL		1.93		256.3		10690810
+IDFC		1.31		123.6		5636905
+ICICIPRULI		2.21		520.55		1657746
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -24,12 +27,12 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-CIPLA		-0.93		1224.65		1551057
-AXISBANK		-1.2		1096.9		10760371
+CIPLA		-0.99		1224.0		1562928
+AXISBANK		-1.14		1097.6		10799934
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-GRASIM		1.16		2087.45		436487
-INFY		0.09		1537.85		5210054
-CHOLAFIN		-0.71		1230.35		1769075
+GRASIM		1.06		2085.5		439751
+INFY		0.09		1537.85		5245653
+CHOLAFIN		-0.62		1231.45		1771598
