@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		1.19		305.55		8280033
-WIPRO		1.13		438.9		1926212
-SUNPHARMA		0.99		1245.75		840753
-EICHERMOT		0.64		3983.25		113155
+INFY		0.28		1540.25		2458256
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AUROPHARMA		-1.26		1078.35		1409415
-SFL		-0.75		1201.3		22644
+
