@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		1.6		5643.2		158800
+DRREDDY		1.65		5646		159219
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APLAPOLLO		-0.36		1580.0		231720
-HONAUT		-0.09		35135.9		9727
+APLAPOLLO		-0.31		1580.85		234867
+HONAUT		-0.08		35137.05		9728
