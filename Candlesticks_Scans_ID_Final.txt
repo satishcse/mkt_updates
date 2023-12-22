@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		3.16		3747.65		479310
-BAJAJFINSV		1.33		1689.0		478331
+BAJAJFINSV		1.28		1688.25		481469
+BAJAJ-AUTO		1.54		6342.25		109205
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATAINVEST		0.61		4196.8		38159
+
