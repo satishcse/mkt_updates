@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SOLARINDS		0.42		6586.8		11686
+GLS		-0.06		642.55		11052
+POWERINDIA		-0.22		5039.35		1310
