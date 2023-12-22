@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.02		232.4		4098441
+DIVISLAB		3.16		3747.65		479310
+BAJAJFINSV		1.33		1689.0		478331
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-0.37		2553.0		2894359
-INDIANB		0.16		413.5		2881313
-VIJAYA		-0.5		644.0		298424
 TATAINVEST		0.61		4196.8		38159
