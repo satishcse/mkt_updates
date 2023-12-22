@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		1.23		1687.4		459519
+BAJAJFINSV		1.24		1687.55		460931
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAPMYINDIA		-1.23		2015.65		36575
+
