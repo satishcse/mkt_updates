@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.32		1254.05		620449
-MARUTI		1.74		10186.8		175342
+TECHM		0.32		1254.1		622227
+MARUTI		1.75		10188.5		176635
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDARMFIN		-1.21		3521.7		18013
+CHOLAHLDNG		-0.42		1020.65		44493
+SUNDARMFIN		-1.16		3523.55		18018
