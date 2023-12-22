@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ALKEM		0.41		4929.9		17549
+CGCL		-0.32		772.7		9141
+PFIZER		0.14		4226.65		3270
