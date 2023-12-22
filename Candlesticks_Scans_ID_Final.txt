@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.04		232.45		4080916
-BAJAJFINSV		1.31		1688.7		471771
-ULTRACEMCO		0.01		9955.9		78770
+POWERGRID		0.02		232.4		4083720
+ULTRACEMCO		0.04		9958.1		79067
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-0.39		2552.5		2850810
-VIJAYA		-0.5		644.0		295309
-OBEROIRLTY		-0.1		1391.6		104278
-TATAINVEST		0.52		4193.3		37732
+VIJAYA		-0.5		644.0		297327
+TATAINVEST		0.61		4196.95		38026
