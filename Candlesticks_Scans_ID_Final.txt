@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKEM		-0.15		4902.45		30688
+ALKEM		-0.07		4906.65		30714
+ROSSARI		-0.19		786.05		13969
