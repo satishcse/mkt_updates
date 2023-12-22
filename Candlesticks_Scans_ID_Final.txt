@@ -6,9 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRASIM		-2.09		2041.95		986070
-BRIGADE		0.17		868.45		210971
-CHALET		0.83		655.0		154248
-VTL		0.17		391.05		129406
-RAYMOND		0.36		1720.1		102266
-FINEORG		0.36		4601.3		69953
+GRASIM		-1.99		2044.0		988233
+RAMCOCEM		-1.0		980.2		220921
+CHALET		0.72		654.3		154790
+VTL		0.5		392.35		129818
