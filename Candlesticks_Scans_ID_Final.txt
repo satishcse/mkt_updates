@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.2		203.05		4227004
-DRREDDY		1.73		5650.85		154470
+COALINDIA		2.88		365.75		8513923
+ONGC		0.17		203.0		4236105
+DRREDDY		1.7		5649.0		155376
 
 Bullish_Hammer_15m_N500								 
 ======================= 
