@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+LT		1.05		3460		418189
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAUKRI		0.02		5006.05		56133
-PFIZER		0.15		4226.95		3394
+NAUKRI		0.08		5009.3		56966
+ALKEM		0.41		4929.85		19609
+ZFCVINDIA		0.14		15541.45		1188
