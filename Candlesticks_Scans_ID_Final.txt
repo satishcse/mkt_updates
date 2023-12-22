@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.27		1253.5		623272
-MARUTI		1.78		10191.45		177048
+TATASTEEL		2.52		134.3		17041628
+TECHM		0.26		1253.4		625694
+MARUTI		1.83		10195.8		177447
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		0.09		1520.95		465514
-CHOLAHLDNG		-0.38		1021.1		44730
-SUNDARMFIN		-1.16		3523.6		18020
+SUNDARMFIN		-1.03		3528.15		18256
