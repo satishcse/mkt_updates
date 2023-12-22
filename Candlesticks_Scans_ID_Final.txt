@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.5		453.7		7480147
-HEROMOTOCO		1.56		3910.05		351609
+BAJAJFINSV		0.29		1671.75		847315
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MGL		0.03		1189.0		219804
-MFSL		-0.56		933.8		173531
-FINCABLES		-0.91		1044.2		111070
-COLPAL		-0.41		2384.9		54825
 BBTC		-0.82		1318.0		45586
+ROUTE		-0.15		1583.6		33092
