@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		2.44		134.2		17287882
-TECHM		0.22		1252.8		633120
+SUNPHARMA		1.05		1246.5		788203
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAHLDNG		-0.32		1021.7		45433
 SUNDARMFIN		-0.84		3534.8		18318
