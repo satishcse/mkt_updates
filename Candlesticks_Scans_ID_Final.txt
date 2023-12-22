@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+AXISBANK		0.16		1097.2		1587748
+EICHERMOT		0.47		3976.5		60667
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PFIZER		0.39		4237.35		2521
+3MINDIA		0.17		31412.75		250
