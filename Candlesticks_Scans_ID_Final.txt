@@ -6,4 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.15		7284.65		382107
+MCX		-0.72		3141.2		205719
+RHIM		-1.03		800.95		135917
