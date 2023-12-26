@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		1.7		2856.0		1596719
-TCS		-0.76		3794.85		957411
+POWERGRID		1.14		234.4		5116530
+AXISBANK		0.69		1095.8		4185482
+HINDUNILVR		0.23		2581.55		537374
 
 Bullish_Hammer_15m_N500								 
 ======================= 
