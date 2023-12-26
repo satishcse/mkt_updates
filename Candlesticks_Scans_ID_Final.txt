@@ -2,16 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.46		135.5		17483859
-POWERGRID		0.95		233.95		4880098
-ASIANPAINT		0.96		3373.25		362036
+POWERGRID		0.93		233.9		4882966
+ASIANPAINT		0.96		3373.25		362213
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-0.21		3214.8		399903
-MUTHOOTFIN		-1.7		1450.0		164143
-KAYNES		-4.76		2612.85		154407
-JUSTDIAL		0.1		788.1		57316
-KAJARIACER		-0.96		1369.85		24576
+MUTHOOTFIN		-1.66		1450.6		165245
+KAJARIACER		-0.95		1370.0		24579
 BLUEDART		-0.8		7283.8		4261
