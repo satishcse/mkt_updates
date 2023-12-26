@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.57		135.65		19217026
-POWERGRID		1.04		234.15		5064684
-ADANIENT		1.68		2855.55		1547531
-TCS		-0.68		3798.0		931364
+TATASTEEL		1.5		135.55		19239963
+POWERGRID		1.04		234.15		5066085
+ADANIENT		1.58		2852.65		1565957
+SUNPHARMA		0.42		1248.85		1099370
+TCS		-0.71		3796.75		932827
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OFSS		-0.65		4184.75		84741
+OFSS		-0.67		4183.85		84750
