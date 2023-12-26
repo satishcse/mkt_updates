@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-1.25		1543.4		4231259
-ITC		0.71		458.45		2407553
-HEROMOTOCO		3.14		4059.2		653183
+SBIN		0.55		640.25		4759292
+HDFCBANK		0.49		1679.0		4160492
+ITC		0.68		458.3		2417928
+TITAN		0.97		3662.5		285911
 
 Bullish_Hammer_15m_N500								 
 ======================= 
