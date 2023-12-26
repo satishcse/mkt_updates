@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.14		2579.1		314198
+HINDUNILVR		0.13		2579		315284
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VMART		-4.08		2018.55		36583
+BLUEDART		-0.47		7308.25		2923
