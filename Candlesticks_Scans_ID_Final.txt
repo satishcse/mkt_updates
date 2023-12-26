@@ -1,16 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HINDALCO		1.61		579.65		3806073
-BHARTIARTL		1.01		999.55		1963306
-ADANIPORTS		0.09		1028.45		1777438
-TCS		-0.8		3793.45		1116169
-APOLLOHOSP		1.68		5634.35		194661
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CIEINDIA		-1.49		471.0		464328
-ANGELONE		-0.75		3267.7		168525
-DATAPATTNS		-1.92		1925.15		77383
+
