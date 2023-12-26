@@ -5,4 +5,7 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJFINSV		-0.98		1655.65		638416
+GESHIP		-1.88		997.0		419233
+MTARTECH		-2.4		2182.9		330232
