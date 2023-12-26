@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCBANK		0.47		1678.75		4416828
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GESHIP		-1.62		999.7		396305
-MCX		-0.82		3138.0		203402
-RHIM		-1.11		800.3		135176
+BAJFINANCE		-0.15		7284.65		382107
