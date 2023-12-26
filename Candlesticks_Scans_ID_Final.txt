@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BHARTIARTL		0.93		998.8		1487986
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BLUEDART		-0.8		7283.9		3899
+GESHIP		-1.89		996.95		420737
