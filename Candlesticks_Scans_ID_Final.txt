@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		1.59		470.0		16920763
-JSWSTEEL		0.46		859.25		396383
-CIPLA		1.0		1248.0		374041
+CIPLA		1.02		1248.2		374568
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MGL		-0.15		1192.9		193405
+MGL		-0.18		1192.5		193851
+HOMEFIRST		-2.88		966.0		108491
+VMART		-4.06		2019.1		40049
