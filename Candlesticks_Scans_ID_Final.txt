@@ -1,16 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BAJAJ-AUTO		1.33		6457.1		101967
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GRASIM		-1.89		2046.2		1002033
-ULTRACEMCO		0.15		9969.0		226940
-VTL		0.58		392.65		133300
-CGCL		-0.64		770.2		110590
-RAYMOND		0.53		1722.9		109649
-FINEORG		0.33		4599.95		70876
-SKFINDIA		-0.05		4697.3		70480
-SAFARI		-1.36		2063.25		31050
+
