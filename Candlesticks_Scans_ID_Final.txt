@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		3.01		741.2		14273478
-TATACONSUM		1.95		1027.0		1680789
-TITAN		0.98		3692.5		630126
+TITAN		0.99		3693		633352
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROBRAND		-1.69		1276		83494
+JSWENERGY		-1.08		410.65		1852362
+LUXIND		-1.35		1312.95		68432
+RATNAMANI		-0.93		3388.0		37884
