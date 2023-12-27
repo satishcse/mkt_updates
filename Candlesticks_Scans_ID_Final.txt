@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		1.07		136.65		40543908
-INFY		0.71		1554.85		3008439
-SUNPHARMA		0.23		1250.35		1360885
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANYAVAR		-1.01		1268.95		56316
+PERSISTENT		0.1		7365.9		237282
+GOCOLORS		-0.75		1274.05		28209
