@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.33		137.0		36857171
-INFY		1.03		1559.85		2596481
-KOTAKBANK		0.52		1896.6		2226306
-BAJFINANCE		0.89		7226.35		895817
+KOTAKBANK		0.56		1897.4		2228621
+CIPLA		-0.18		1242.7		1853343
 
 Bullish_Hammer_15m_N500								 
 ======================= 
