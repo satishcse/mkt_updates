@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.02		1010.0		1543117
-JSWSTEEL		1.45		864.7		1023126
-LT		1.0		3524.9		517705
+BHARTIARTL		1.04		1010.2		1547076
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SYNGENE		-0.47		696.9		321101
-INDIAMART		0.49		2764.15		72127
-THERMAX		-0.66		3043.85		22036
-GOCOLORS		-0.58		1276.2		6384
+SYNGENE		-0.46		697.0		321418
+ANGELONE		0.11		3291.9		67094
+THERMAX		-0.69		3043.0		22051
+GOCOLORS		-0.55		1276.65		6387
