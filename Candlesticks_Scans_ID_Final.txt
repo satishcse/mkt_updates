@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-GRASIM		1.04		2091.15		289066
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-1.53		1353.45		1830816
-ENDURANCE		-0.19		1798.45		10805
-GILLETTE		0.33		6120.05		901
+COCHINSHIP		-1.43		1354.8		1833419
+ASTRAL		0.15		1924.95		127175
