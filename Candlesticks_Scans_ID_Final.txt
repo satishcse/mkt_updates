@@ -5,4 +5,9 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DEEPAKFERT		0.04		674.25		530024
+BSE		-2.0		2264.5		489973
+HAVELLS		-0.32		1357.4		317417
+TORNTPHARM		-0.68		2266.85		126823
+CREDITACC		-0.55		1604.45		108813
