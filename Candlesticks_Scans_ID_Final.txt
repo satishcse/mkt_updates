@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.51		234.55		9919733
-COALINDIA		-0.15		365.5		7723891
-TITAN		0.97		3692.1		652586
+POWERGRID		0.51		234.55		9960412
+COALINDIA		-0.08		365.75		7752075
+TITAN		1.0		3693.35		656156
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LINDEINDIA		-2		5574.95		69310
+SAFARI		-3.33		1996.25		116212
