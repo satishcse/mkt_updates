@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		0.28		2041.45		471628
-JUBLINGREA		0.01		502.9		265614
-BOSCHLTD		-0.45		21807.7		5512
+HCLTECH		0.42		1464.25		817577
+OBEROIRLTY		0.27		1404.5		410731
+SRF		-0.81		2470.85		222087
+UBL		-0.52		1700.1		70444
