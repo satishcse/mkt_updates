@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.78		1695.55		3714171
-ITC		0.0		456.45		1938936
-ADANIPORTS		-0.05		1028.2		1192827
+ITC		0.02		456.55		1951432
+ADANIPORTS		0.01		1028.9		1194977
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		0.11		1737.7		127006
-ATUL		0.03		7033.5		48636
+TATACOMM		0.12		1737.95		127079
