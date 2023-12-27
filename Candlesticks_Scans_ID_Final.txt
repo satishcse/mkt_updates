@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LTIM		0.84		6312.3		196106
+LTIM		0.84		6312		196358
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKYLAMINE		-0.56		2556.6		274509
-DATAPATTNS		-1.68		1893.15		93662
+ALKYLAMINE		-0.66		2553.85		275687
+DATAPATTNS		-1.65		1893.6		94911
