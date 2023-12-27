@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		1.7		1024.5		833294
-LTIM		0.88		6315.0		207028
+TATACONSUM		1.73		1024.8		842220
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		-0.5		3776.4		536593
-GUJALKALI		-1.6		776.75		158593
+TCS		-0.49		3777.1		539296
+LTTS		0.23		5209.2		37119
