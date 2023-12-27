@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AARTIDRUGS		1.41		500.9		1137527
-HAVELLS		-0.3		1357.65		319310
-TORNTPHARM		-0.6		2268.65		126955
+HAVELLS		-0.29		1357.85		321822
+TORNTPHARM		-0.61		2268.4		127005
