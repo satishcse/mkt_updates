@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.02		306.45		5436358
-HINDUNILVR		0.43		2595.8		450147
+NTPC		-1.1		306.2		5466647
+HINDUNILVR		0.43		2595.85		451691
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.63		4041.95		431128
-CAMS		-0.09		2655.0		250048
-GUJALKALI		-1.85		774.75		164327
-ASTRAL		-0.32		1915.85		155210
+HEROMOTOCO		-0.53		4046.0		432543
+CAMS		-0.09		2655.0		250320
+TORNTPHARM		-0.33		2274.7		87814
+NH		0.43		1189.95		56725
