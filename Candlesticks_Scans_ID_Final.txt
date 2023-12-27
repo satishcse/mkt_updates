@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.66		1016.4		3583048
+BHARTIARTL		1.58		1015.65		3588368
+HEROMOTOCO		-0.63		4042.0		538581
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KALYANKJIL		-2		336.45		1301271
+CUMMINSIND		-1.59		1994.9		188778
