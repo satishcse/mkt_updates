@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATAMOTORS		3.02		741.25		14067195
+INFY		1.61		1568.85		3892907
+BAJAJFINSV		1.6		1671.7		1081024
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MOTILALOFS		-3.46		1211.45		270990
-HONAUT		-1.26		35285.05		5580
+GESHIP		-1.78		978.9		415974
