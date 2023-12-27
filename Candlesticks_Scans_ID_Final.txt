@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.31		453.0		1991128
-BHARTIARTL		1.02		1010.05		1521655
-JSWSTEEL		1.45		864.65		1018664
-TATACONSUM		1.03		1017.75		597384
+BPCL		0.35		453.2		1992402
+BHARTIARTL		1.02		1010.0		1535195
+JSWSTEEL		1.44		864.6		1020797
+LT		1.0		3524.9		516428
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EMAMILTD		-0.31		501.05		192035
-INDIAMART		0.55		2765.95		71267
+SYNGENE		-0.48		696.85		319359
+GOCOLORS		-0.58		1276.25		6378
