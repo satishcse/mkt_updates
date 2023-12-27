@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.83		1018.15		3556028
+BHARTIARTL		1.66		1016.4		3583048
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KALYANKJIL		-2.01		336.4		1299184
+KALYANKJIL		-2		336.45		1301271
