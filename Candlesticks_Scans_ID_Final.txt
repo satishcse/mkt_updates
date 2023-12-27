@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.29		136.95		42764013
-INFY		0.99		1559.25		3275513
-SUNPHARMA		0.41		1252.65		1511135
-LT		0.84		3519.5		1013791
-BAJAJFINSV		1.04		1662.35		929929
-BRITANNIA		-1.17		5174.95		170078
+TATASTEEL		1.33		137.0		42815655
+ITC		-0.32		455.0		4708522
+SUNPHARMA		0.43		1252.85		1513982
+LT		0.84		3519.45		1015835
+BRITANNIA		-1.16		5175.0		170190
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SIEMENS		0.15		4010.35		316487
