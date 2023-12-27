@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.23		305.8		5711185
-HINDUNILVR		0.39		2594.85		468667
+NTPC		-1.26		305.7		5728961
+HINDUNILVR		0.4		2595.0		470058
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-2.05		1659.9		258472
-CUMMINSIND		-1.26		2001.7		134573
-DIXON		-0.21		6442.5		113619
-KIMS		0.04		1999.9		59322
-GODFRYPHLP		-0.87		2092.7		10670
+RECLTD		-1.9		411.05		5244231
+BSOFT		-0.65		729.9		581903
+METROPOLIS		-1.99		1660.95		260754
+HAVELLS		0.23		1364.95		229043
+DIXON		-0.16		6445.7		114417
+LTTS		0.04		5199.8		41859
