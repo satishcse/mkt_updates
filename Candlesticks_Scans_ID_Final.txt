@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.19		455.6		2010568
-ADANIPORTS		-0.01		1028.65		1202721
+LTIM		0.83		6311.4		194886
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATUL		0.02		7033.0		48657
-ENDURANCE		-0.34		1795.9		24806
+ALKYLAMINE		-0.5		2558		268048
