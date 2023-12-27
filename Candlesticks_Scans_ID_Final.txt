@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		0.07		3454.15		58083
-MOTILALOFS		-0.23		1252.0		27753
-APARINDS		-0.1		5616.35		8256
-SAPPHIRE		-0.15		1433.75		2952
+MOTILALOFS		-0.23		1252.0		27799
+SAPPHIRE		-0.16		1433.55		2958
