@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,-1.2,305.9,7970951
-TATACONSUM,1.57,1023.2,1255033
-BAJFINANCE,0.62,7207.0,1129301
-ASIANPAINT,0.15,3388.55,645179
-SBILIFE,1.62,1417.85,496750
+NTPC,-1.16,306.0,7987017
+TATACONSUM,1.64,1023.85,1256154
+ASIANPAINT,0.17,3389.15,645974
+SBILIFE,1.62,1417.9,497296
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+TORNTPOWER,-0.75,905.7,213255
