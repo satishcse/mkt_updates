@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.4		367.5		1299067
-SBIN		0.51		641.3		1176758
-HDFCBANK		0.15		1685.05		877273
+COALINDIA		0.29		367.1		1306523
+SBIN		0.52		641.35		1194152
+HDFCBANK		0.17		1685.25		885167
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MGL		0.03		1190.4		31890
-SFL		0.0		1214.85		4719
+IRCTC		0.44		873.6		877168
+CENTURYPLY		-0.46		796.05		24628
+CRISIL		-0.32		4377.05		2458
