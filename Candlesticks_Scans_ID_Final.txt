@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELAXO		0.22		897.45		19651
-PGHL		0.13		4957.8		880
+PGHL		0.13		4957.75		884
