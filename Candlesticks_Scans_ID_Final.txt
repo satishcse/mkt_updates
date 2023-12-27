@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.38		367.45		1255914
+COALINDIA		0.38		367.45		1275992
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CENTURYPLY		-0.46		796.0		24284
+CRAFTSMAN		-0.31		5363.4		2689
+CRISIL		-0.29		4378.6		2352
