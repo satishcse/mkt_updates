@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-M&M		1.55		1687.95		1598445
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MOTILALOFS		-3.43		1211.8		269304
+MOTILALOFS		-3.5		1210.95		270461
+HONAUT		-1.26		35285.0		5529
