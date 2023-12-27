@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.41		208.2		8260792
-SUNPHARMA		-0.02		1247.3		347611
+ONGC		0.46		208.3		8275493
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NATCOPHARM		0.22		806.1		284537
+
