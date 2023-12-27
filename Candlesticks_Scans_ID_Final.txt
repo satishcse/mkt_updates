@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.1		456.9		910246
-BHARTIARTL		0.9		1008.8		790825
+SBIN		1.07		644.9		2620116
+ITC		0.04		456.65		917463
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BHARATFORG		0.07		1227.85		252323
-SONATSOFTW		0.18		745.9		149538
-AFFLE		-0.08		1224.1		29245
-SANOFI		0.07		8018.9		886
+SONATSOFTW		0.28		746.65		154993
+SRF		-0.37		2481.95		92459
+AFFLE		-0.13		1223.45		29433
+SANOFI		0.11		8022.0		916
