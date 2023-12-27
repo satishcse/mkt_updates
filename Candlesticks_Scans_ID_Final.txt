@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.43		208.25		8423955
+ONGC		0.41		208.2		8444558
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNTV		-0.42		707.8		200695
+NLCINDIA		2.28		255.9		14616908
+SUNTV		-0.42		707.8		201044
+WESTLIFE		-0.59		817.25		31035
