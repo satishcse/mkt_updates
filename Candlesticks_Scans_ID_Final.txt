@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.59		1897.9		2235149
-CIPLA		-0.2		1242.5		1855296
+KOTAKBANK		0.54		1897.1		2243368
+CIPLA		-0.2		1242.45		1855743
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MEDANTA		-0.79		956		50073
+
