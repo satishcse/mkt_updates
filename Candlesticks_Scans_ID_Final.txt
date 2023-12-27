@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.46		208.3		8473726
-TATAMOTORS		2.43		737.05		6412072
+TATASTEEL		2.15		138.1		27734150
+COALINDIA		0.07		366.3		3318112
+BPCL		0.48		453.75		2088867
+ADANIPORTS		0.11		1029.9		1158792
+DRREDDY		0.67		5669.95		87284
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NLCINDIA		2.26		255.85		14727660
-TECHM		-0.11		1280.6		448241
-SUNTV		-0.42		707.8		202417
+
