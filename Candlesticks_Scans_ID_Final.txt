@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.28		305.65		6694386
-ITC		-0.39		454.65		3664920
+NTPC		-1.32		305.5		6700264
+ITC		-0.42		454.55		3674038
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONATSOFTW		-0.66		739.65		275391
-MAHLIFE		0.19		541.4		185254
-SUNDRMFAST		-1.23		1229.0		61778
+SONATSOFTW		-0.66		739.6		275587
 PGHL		-0.18		4942.75		3177
