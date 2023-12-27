@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		1.06		2091.5		290402
+HDFCLIFE		1.09		644.95		635239
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-1.41		1355.1		1838424
-ASTRAL		0.15		1924.95		127213
+ASTRAL		0.15		1924.95		127293
 GILLETTE		0.33		6120.0		911
