@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1		644.4		591283
+HDFCLIFE		0.99		644.3		593604
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUVENPHAR		-0.46		706.45		48643
+SUVENPHAR		-0.44		706.55		48688
