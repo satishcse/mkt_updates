@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.67		1016.5		3609092
+BHARTIARTL		1.67		1016.5		3615599
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BEML		-1.9		2825.2		209207
-WESTLIFE		-1.89		806.55		53982
+IIFL		-0.81		587.6		1422781
+BALAMINES		0.67		2632.0		615390
+BEML		-1.97		2823.1		209467
+CUMMINSIND		-1.58		1995.05		190218
