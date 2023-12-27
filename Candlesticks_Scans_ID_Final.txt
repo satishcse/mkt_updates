@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.26		367		1348800
+COALINDIA		0.46		367.75		1358913
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SONATSOFTW		0.6		749.0		115243
-SAFARI		-1.21		2040.0		14102
-TIMKEN		0.46		3224.5		4272
+MAZDOCK		-0.65		2273.05		811762
+INDIGO		0.26		2928.7		96958
+TITAN		-0.11		3652.55		60030
+TIMKEN		0.57		3228.05		4362
 CRISIL		-0.29		4378.4		2500
