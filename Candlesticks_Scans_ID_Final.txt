@@ -1,15 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		0.33		137.65		13510144
-WIPRO		-0.2		470.0		3283050
-GRASIM		-0.83		2107.1		200938
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.17		877.35		1872181
-IIFL		0.83		590.3		393615
-PERSISTENT		-0.03		7393.55		55245
+MAZDOCK		-1.29		2312.25		808336
 ATUL		-0.26		7007.5		22981
