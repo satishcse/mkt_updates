@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		2.07		373.15		6063356
-M&M		1.12		1706.9		703946
+COALINDIA		2.12		373.35		6089832
+M&M		1.09		1706.4		705365
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-0.6		1581.55		94550
-LUXIND		0.29		1316.45		16750
+JKLAKSHMI		-1.19		889.25		65818
+POLYMED		-2.12		1490.4		25966
