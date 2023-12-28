@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		2.48		4165		567575
+HEROMOTOCO		2.41		4162.2		569586
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SIEMENS		-0.63		3952.6		154501
-SUNDARMFIN		-1.05		3558.95		12703
+
