@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		1.04		1721.0		7479232
-DIVISLAB		-0.15		3878.3		218255
+HDFCBANK		1.04		1720.95		7504391
+DIVISLAB		-0.17		3877.65		218956
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APTUS		-0.31		324.85		118546
+INDIGO		-0.64		2908.9		275221
+APTUS		-0.29		324.9		118684
