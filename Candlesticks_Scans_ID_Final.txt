@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SBILIFE		0.62		1430.1		1077154
-DRREDDY		0.85		5763.2		433861
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAYNES		0.19		2588.8		91628
+JINDALSTEL		0.29		735.8		2054184
+ADANIENT		-0.69		2823.85		1262487
+BAJAJHLDNG		-1.34		7815.6		53790
+SUNDARMFIN		-2.02		3523.85		35745
