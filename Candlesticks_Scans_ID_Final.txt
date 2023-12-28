@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.19		649.8		6198352
-LT		-0.35		3531.65		783074
+AXISBANK		-0.17		1104.45		3307196
+LT		-0.32		3532.75		789564
+MARUTI		-0.63		10223.95		224283
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POWERINDIA		0.02		5255.95		5428
+
