@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.68		314.25		19123845
-BAJAJFINSV		0.14		1671.75		907370
+NTPC		2.71		314.35		19179945
+BAJAJFINSV		0.13		1671.6		911441
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-0.17		6276.65		185377
-SANOFI		-0.36		7969.65		6933
+KFINTECH		-1.27		496.75		447547
+RHIM		-1.8		793.4		173152
+SANOFI		-0.36		7970.25		6972
