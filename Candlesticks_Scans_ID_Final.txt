@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.62		235.5		2465134
+SUNPHARMA		0.54		1259.2		259283
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SOLARINDS		0.52		6790.5		21997
-AMBER		-0.48		3115.3		20301
-MASTEK		-0.86		2784.15		15574
+
