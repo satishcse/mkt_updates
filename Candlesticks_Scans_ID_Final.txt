@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		1.88		463.25		13024329
+BPCL		1.89		463.3		13031860
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKNTR		-1.06		2438.8		241887
-SANOFI		-0.24		7979.6		6268
+DEEPAKNTR		-1.06		2438.8		242222
+CRISIL		-0.79		4286.0		8338
+SANOFI		-0.24		7979.6		6270
