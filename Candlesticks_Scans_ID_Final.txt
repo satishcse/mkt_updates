@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.7		314.3		18898416
+NTPC		2.61		314.05		18998781
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HOMEFIRST		-2.0		941.5		172427
-SANOFI		-0.35		7971.0		6927
+HOMEFIRST		-2.0		941.45		172877
+GRINDWELL		-1.38		2224.6		54434
+POWERINDIA		-0.7		5217.8		17106
+SANOFI		-0.36		7969.65		6933
