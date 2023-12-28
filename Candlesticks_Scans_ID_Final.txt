@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.65		2603.65		4073146
-HINDUNILVR		0.87		2630.9		900264
-DRREDDY		0.9		5766.0		419524
+RELIANCE		0.55		2601.2		4095555
+DRREDDY		0.92		5767.0		423179
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DCMSHRIRAM		-0.72		1040.4		47540
