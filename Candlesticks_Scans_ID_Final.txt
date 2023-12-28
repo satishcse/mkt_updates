@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.97		207.55		14808812
-BAJAJFINSV		0.14		1671.75		940268
-MARUTI		-0.34		10253.8		440175
+ONGC		1.14		207.9		14897901
+UPL		0.33		585.1		1371861
+MARUTI		-0.44		10243.1		443036
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROBRAND		-1.38		1258.7		53169
-BAYERCROP		-1.69		5615.0		16526
-SANOFI		-0.24		7979.85		7450
-ABBOTINDIA		0.0		22570.7		7389
+JBCHEPHARM		-1.11		1606.65		84359
+BAYERCROP		-1.69		5615.0		16533
+SANOFI		-0.18		7984.45		7581
