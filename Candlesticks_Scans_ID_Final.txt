@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AARTIIND		-0.75		640.9		439450
-BAJFINANCE		0.51		7270.0		123467
-DEEPAKNTR		-0.36		2455.9		67052
-TEJASNET		0.46		870.0		55521
-JBMA		-0.2		1417.05		3168
+DEEPAKNTR		-0.29		2457.7		68765
+RHIM		0.56		812.5		16436
+GLS		-0.41		655.0		14109
+TTKPRESTIG		0.39		743.95		5300
