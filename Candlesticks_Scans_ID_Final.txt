@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FORTIS		0.44		401.95		136059
+BAJFINANCE		0.51		7269.4		121800
+MFSL		-0.03		955.45		66771
+DEEPAKNTR		-0.42		2454.5		65229
+ALKYLAMINE		-0.38		2513.1		33096
