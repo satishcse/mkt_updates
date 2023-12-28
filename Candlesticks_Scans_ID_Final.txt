@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+UPL		-0.03		583		547894
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MASTEK		-1.35		2770.4		18323
-GILLETTE		0.3		6129.45		1196
+GILLETTE		0.3		6129.35		1205
