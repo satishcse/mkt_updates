@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.66		235.6		2332504
+POWERGRID		0.66		235.6		2388909
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-STARHEALTH		-0.9		531.4		82724
+PIIND		-0.3		3452.45		25759
+AMBER		-0.5		3114.75		19875
