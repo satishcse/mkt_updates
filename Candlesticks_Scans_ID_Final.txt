@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.83		372.3		6246855
-M&M		1.03		1705.3		718103
+COALINDIA		1.89		372.5		6305059
+BPCL		1.41		461.1		4072321
+M&M		0.84		1702.2		724146
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JKLAKSHMI		-1.18		889.35		66437
+ABB		-0.69		4700.85		36297
