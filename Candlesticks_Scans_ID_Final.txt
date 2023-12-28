@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		2.32		4158.75		587604
+HEROMOTOCO		2.32		4158.7		589354
+MARUTI		-0.71		10215.3		191079
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHARDACROP		-1.5		448.0		505971
-BEML		-0.51		2853.0		135370
-DMART		0.12		4032.15		50774
-BALKRISIND		-0.82		2517.0		27922
+SHARDACROP		-1.5		448.0		507291
+KPITTECH		-0.24		1514.15		221355
+DMART		0.1		4031.55		50977
