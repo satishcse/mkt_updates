@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.44		459.1		6721101
-DRREDDY		0.5		5743.0		337629
+COALINDIA		3.05		376.75		12672062
+ITC		0.43		459.05		6780676
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		-0.47		797.95		296770
+NATCOPHARM		-0.47		798.0		299697
+SONATSOFTW		-0.85		733.85		170613
