@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.82		372.25		6328635
-BPCL		1.45		461.3		4089216
-M&M		0.86		1702.45		727897
+HEROMOTOCO		2.48		4165		567575
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INTELLECT		-1.25		823.95		158450
-PATANJALI		-0.62		1581.25		95779
-JKLAKSHMI		-1.19		889.3		66481
+SIEMENS		-0.63		3952.6		154501
+SUNDARMFIN		-1.05		3558.95		12703
