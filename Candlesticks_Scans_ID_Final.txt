@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.03		583.0		575008
-SUNPHARMA		0.6		1259.95		332871
+WIPRO		0.07		471.3		3023666
+GRASIM		-0.32		2118.0		176829
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JSL		0.29		560.9		852802
-HINDUNILVR		0.11		2611.15		227231
-ZYDUSWELL		0.91		1649.0		41329
+
