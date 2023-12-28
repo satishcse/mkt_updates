@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		0.6		2137.45		829297
+GRASIM		0.6		2137.45		839398
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATGL		-1.51		984.0		2177421
-DEEPAKNTR		-1.24		2434.35		344278
-KAJARIACER		-1.68		1325.7		139720
-MAPMYINDIA		-2.51		1970.05		122837
-TATAINVEST		-0.39		4243.7		49115
-CRAFTSMAN		0.32		5334.85		8829
+USHAMART		-1.62		297.85		430773
+DEEPAKNTR		-1.25		2434.0		346224
