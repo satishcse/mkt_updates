@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		2.02		463.9		13089272
-ITC		0.42		459.0		6624770
+ITC		0.44		459.1		6699324
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NATCOPHARM		-0.54		797.4		296464
+SOLARINDS		0.34		6778.5		51374
