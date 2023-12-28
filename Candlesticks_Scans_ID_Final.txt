@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+LTIM		0.05		6290.5		151061
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		-3.72		1699.45		1527257
-BEML		-1.04		2837.85		174247
+JKPAPER		-0.72		409.3		1655615
+BDL		-3.75		1698.9		1532644
+CARBORUNIV		-0.06		1109.3		81753
