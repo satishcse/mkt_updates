@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.62		138.05		17398705
-AXISBANK		-0.15		1104.7		3326798
-LT		-0.3		3533.25		794367
-MARUTI		-0.64		10222.7		225468
+TATASTEEL		0.55		137.95		17428806
+AXISBANK		-0.18		1104.35		3335897
+LT		-0.31		3533.05		796372
+MARUTI		-0.63		10223.5		225988
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-POLYMED		-2.56		1483.8		35238
-APLLTD		-0.95		762.15		21413
+
