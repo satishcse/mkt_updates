@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.12		582.5		564013
-SUNPHARMA		0.58		1259.7		328242
+UPL		-0.03		583.0		575008
+SUNPHARMA		0.6		1259.95		332871
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GILLETTE		0.54		6144.2		1495
+JSL		0.29		560.9		852802
+HINDUNILVR		0.11		2611.15		227231
+ZYDUSWELL		0.91		1649.0		41329
