@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.49		1258.6		282131
+COALINDIA		0.71		368.2		1860482
+SUNPHARMA		0.51		1258.8		287887
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHARDACROP		0.4		456.6		405996
-BAJFINANCE		0.42		7263.0		195024
-KSB		-0.39		3413.8		3199
+AUROPHARMA		-1.18		1057.0		360655
+DIVISLAB		-0.28		3873.25		123474
+NAUKRI		-0.2		5144.15		31436
+KEC		-0.18		589.0		24567
+ZFCVINDIA		-1.34		15256.45		1779
