@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.62		235.5		2283753
+POWERGRID		0.68		235.65		2307886
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIDILITIND		0.16		2703.3		54011
-MASTEK		-0.72		2788.0		15132
-ERIS		-0.07		912.0		13056
+PIIND		-0.28		3453.1		24193
+MASTEK		-0.81		2785.45		15168
