@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		2.42		4162.8		577238
+HEROMOTOCO		2.32		4158.75		587604
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BDL		-2.46		1721.7		1026167
+SHARDACROP		-1.5		448.0		505971
+BEML		-0.51		2853.0		135370
+DMART		0.12		4032.15		50774
+BALKRISIND		-0.82		2517.0		27922
