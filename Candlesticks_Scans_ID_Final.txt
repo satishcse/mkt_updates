@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.55		2601.2		4095555
-DRREDDY		0.92		5767.0		423179
+RELIANCE		0.62		2602.85		4104922
+HDFCLIFE		0.56		647.4		2150061
+DRREDDY		0.88		5764.6		424869
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DCMSHRIRAM		-0.72		1040.4		47540
+KAYNES		0.18		2588.5		90802
+DCMSHRIRAM		-0.72		1040.4		47569
