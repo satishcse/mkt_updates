@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.95		1719.45		7594686
-DIVISLAB		-0.13		3879.15		222842
+TATASTEEL		0.58		138.0		17191894
+SBIN		0.19		649.8		6160081
+LT		-0.28		3534.0		776755
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-APTUS		-0.25		325.05		120016
+
