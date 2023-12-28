@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		0.6		2137.45		839398
+GRASIM		0.48		2135		857969
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-USHAMART		-1.62		297.85		430773
-DEEPAKNTR		-1.25		2434.0		346224
+ALKYLAMINE		-3.29		2439.55		144541
