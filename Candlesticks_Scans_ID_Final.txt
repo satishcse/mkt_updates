@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.22		588.15		1450257
-GRASIM		-0.96		2119.35		373992
-LTIM		0.7		6297.05		172073
+UPL		-0.32		587.55		1454919
+GRASIM		-0.95		2119.7		376327
+LTIM		0.7		6297.0		172954
 
 Bullish_Hammer_15m_N500								 
 ======================= 
