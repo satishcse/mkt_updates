@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATACONSUM		3.24		1074.7		1386697
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HLEGLAS		-0.02		542		12117
+CHOLAHLDNG		-0.47		1007.35		11394
+KIMS		-1.0		1978.85		5764
