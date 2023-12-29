@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		0.99		2659.8		734215
-HEROMOTOCO		-0.37		4158.0		216884
+HINDUNILVR		0.97		2659.4		735209
+EICHERMOT		0.6		4116.6		387655
+HEROMOTOCO		-0.32		4159.75		217245
 
 Bullish_Hammer_15m_N500								 
 ======================= 
