@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ULTRACEMCO		-0.02		10424		116684
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-0.47		3403.0		286480
-ECLERX		-1.56		2593.35		45770
+ANGELONE		-0.41		3405.0		288390
+GMMPFAUDLR		-2.26		1602.6		173687
+ECLERX		-1.54		2593.7		45799
