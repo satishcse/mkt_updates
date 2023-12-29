@@ -2,8 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.12		139.7		40716397
-NTPC		-0.75		311.55		9722657
+TATASTEEL		1.05		139.6		41201453
+HDFCBANK		0.18		1708.3		10078748
+NTPC		-0.76		311.5		9822711
+COALINDIA		-1.17		376.5		7762937
+BAJFINANCE		0.9		7323.95		721215
+BAJAJFINSV		0.21		1684.8		543815
 
 Bullish_Hammer_15m_N500								 
 ======================= 
