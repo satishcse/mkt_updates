@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		3.17		1074		1504080
+TATACONSUM		3.12		1073.45		1513445
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYTEX		-0.74		1213.05		27899
-COROMANDEL		0.18		1241.95		27429
-NESTLEIND		-0.2		26197.15		23205
+NESTLEIND		-0.19		26200		23283
