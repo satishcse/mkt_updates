@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.17		1737.35		1372399
-ASIANPAINT		-0.13		3392.8		378643
-LTIM		0.64		6293.15		165373
+M&M		0.04		1735.1		1486676
+BAJFINANCE		0.81		7317.55		611847
+ASIANPAINT		-0.21		3390.05		381527
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GMMPFAUDLR		-1.87		1609		142740
+PNBHOUSING		0.18		779.2		161917
