@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		-0.98		2119.05		411692
-ULTRACEMCO		-0.09		10416.7		115322
+GRASIM		-0.93		2119.95		412681
+ULTRACEMCO		-0.14		10411.65		115547
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-0.59		1090.0		291779
-CENTURYPLY		0.03		770.0		133883
-ECLERX		-1.41		2597.2		45648
+ANGELONE		-0.76		3392.95		277339
+ECLERX		-1.5		2594.95		45669
