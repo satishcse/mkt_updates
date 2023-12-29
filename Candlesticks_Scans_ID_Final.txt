@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		-0.32		1258.05		843523
-HINDUNILVR		0.95		2658.9		740369
+SUNPHARMA		-0.32		1258.05		846955
+HINDUNILVR		0.93		2658.2		741515
+HEROMOTOCO		-0.32		4159.95		221233
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HAL		-0.34		2796.25		479679
