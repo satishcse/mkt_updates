@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.24		878.65		717407
-HINDUNILVR		0.96		2659.0		716223
-BAJAJ-AUTO		0.47		6734.7		169696
+JSWSTEEL		-0.26		878.55		718579
+HINDUNILVR		0.98		2659.65		717224
+BAJAJ-AUTO		0.53		6739.1		170253
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LINDEINDIA		-1.07		5644.45		12836
