@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		0.11		1736.35		1370894
-ADANIENT		1.04		2839.0		1152017
-LTIM		0.64		6293.2		165106
+M&M		0.17		1737.35		1372399
+ASIANPAINT		-0.13		3392.8		378643
+LTIM		0.64		6293.15		165373
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GMMPFAUDLR		-1.87		1609		142740
