@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.22		465.1		8509037
-TATACONSUM		3.48		1077.25		3542419
-LTIM		0.59		6290.25		162233
+ITC		0.19		465.0		8546133
+BHARTIARTL		-0.18		1034.85		2650430
+LTIM		0.64		6292.95		162642
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ABB		-0.19		4634		100732
