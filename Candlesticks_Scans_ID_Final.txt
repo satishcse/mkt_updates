@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		1.05		139.6		41564746
-NTPC		-0.89		311.1		10050640
-COALINDIA		-1.18		376.45		7793401
-LTIM		0.65		6294.0		201057
+UPL		-0.32		587.55		1871889
+LT		0.12		3522.25		754159
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JINDALSAW		0.65		411.2		690470
-GRINFRA		-1.13		1140.85		44825
+
