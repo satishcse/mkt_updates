@@ -5,4 +5,6 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MAPMYINDIA		-0.29		1939.65		219383
+RATNAMANI		-1.16		3324.25		34972
