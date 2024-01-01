@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		1.79		597.75		1744920
-HDFCLIFE		0.35		648.95		569564
+TATASTEEL		0.47		140.25		12354277
+RELIANCE		0.0		2585.0		895291
+TATACONSUM		-0.52		1081.1		585377
+HDFCLIFE		0.34		648.9		574769
+ULTRACEMCO		-0.52		10447.95		46760
 
 Bullish_Hammer_15m_N500								 
 ======================= 
