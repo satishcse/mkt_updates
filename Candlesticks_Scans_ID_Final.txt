@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.75		140.65		17622831
-TATAMOTORS		1.64		792.75		11128440
-COALINDIA		1.86		383.0		9826099
-HINDALCO		-0.15		613.95		2205979
-TCS		0.95		3829.6		711657
+TATASTEEL		0.64		140.5		17670347
+TATAMOTORS		1.64		792.75		11144478
+COALINDIA		1.94		383.3		9884699
+HINDALCO		-0.16		613.85		2209748
+TCS		0.89		3827.05		714825
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GOCOLORS		-2.03		1226.3		77358
