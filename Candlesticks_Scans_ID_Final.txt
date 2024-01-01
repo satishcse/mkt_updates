@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		2.16		1300.2		1122206
-HEROMOTOCO		-0.89		4102.55		284659
+TECHM		2.16		1300.2		1127014
+HEROMOTOCO		-0.86		4103.85		285206
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SFL		-0.21		1237.8		36167
