@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LTIM		-0.46		6266.25		36395
-NESTLEIND		0.77		26784.0		27124
+LTIM		-0.48		6264.45		36512
+NESTLEIND		0.75		26780.0		28298
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-1.32		2191.9		187777
-ROUTE		-0.22		1595.0		18605
+ROUTE		-0.22		1595.1		18627
