@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		0.0		10302.65		103323
-LTIM		-0.45		6266.45		35851
-NESTLEIND		0.81		26795.2		26971
+MARUTI		0.0		10302.05		103708
+LTIM		-0.48		6264.45		36032
+NESTLEIND		0.81		26794.95		27009
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZYDUSWELL		-0.67		1669.9		16113
-LINDEINDIA		0.31		5657.8		3307
+ZYDUSWELL		-0.55		1671.9		16137
+LINDEINDIA		0.28		5655.75		3313
