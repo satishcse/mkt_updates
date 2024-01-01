@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.47		140.25		15412501
-ITC		1.49		469.0		6409609
+TATASTEEL		0.47		140.25		15430429
+ICICIBANK		0.34		1000.0		4320523
+DRREDDY		0.66		5836.0		159186
 
 Bullish_Hammer_15m_N500								 
 ======================= 
