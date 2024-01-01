@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.77		465.65		1946854
-HCLTECH		-0.2		1463.1		158751
+ITC		0.76		465.6		1954440
+HCLTECH		-0.18		1463.4		158986
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPRMILL		-1.16		815.2		57859
-ENDURANCE		-0.87		1916.35		15591
+KPRMILL		-1.13		815.45		58061
+ENDURANCE		-0.87		1916.3		15671
