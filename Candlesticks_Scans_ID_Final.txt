@@ -2,13 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LTIM		-0.41		6269.3		37425
+ICICIBANK		-0.02		996.4		1022117
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-0.36		1764.0		133591
-CENTURYPLY		-1.85		757.65		64981
-SIEMENS		-0.15		4018.7		25565
-ZYDUSWELL		-0.6		1671.0		17544
-LINDEINDIA		0.33		5658.9		3778
+ENDURANCE		-0.89		1915.95		15184
