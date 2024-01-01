@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.64		140.5		16750579
-BAJAJFINSV		-0.38		1679.4		550135
+ICICIBANK		0.74		1004.0		5370437
+BAJAJFINSV		-0.39		1679.2		560037
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-1.09		6205.9		141896
+COFORGE		-1.07		6207.05		142833
