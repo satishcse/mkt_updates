@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.76		465.6		1933618
+ITC		0.77		465.65		1940717
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KPRMILL		-1.11		815.65		57094
-METROPOLIS		0.01		1678.35		41129
-ENDURANCE		-0.92		1915.5		15503
+KPRMILL		-1.12		815.55		57224
+ENDURANCE		-0.92		1915.5		15508
