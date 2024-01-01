@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.04		614.6		1432762
+HINDALCO		-0.02		614.7		1436499
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-0.02		1677.85		56485
-ABBOTINDIA		-0.4		22759.75		9058
+GLAND		-0.01		1924.3		55197
+TTKPRESTIG		0.2		742.8		15233
