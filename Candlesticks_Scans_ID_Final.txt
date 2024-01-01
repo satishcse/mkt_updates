@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.48		238.35		2535897
-HINDALCO		0.01		614.9		1521354
-DIVISLAB		0.06		3906.3		134581
-APOLLOHOSP		0.34		5723.55		45250
+POWERGRID		0.48		238.35		2553382
+UPL		1.9		598.4		1569993
+DIVISLAB		0.06		3906.2		134846
+APOLLOHOSP		0.32		5722.25		45312
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHOLAFIN		-1.92		1235.55		242582
-MARUTI		-0.44		10256.75		174938
-CRISIL		-1.32		4279.45		9414
+MARUTI		-0.44		10257.3		175493
+CRISIL		-1.32		4279.45		9416
