@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0		2585		910280
+COALINDIA		2.11		383.95		8201957
+ADANIENT		3.3		2943.1		2093366
+RELIANCE		-0.02		2584.5		918729
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-1.08		4095		224602
+HEROMOTOCO		-1.1		4094		225588
