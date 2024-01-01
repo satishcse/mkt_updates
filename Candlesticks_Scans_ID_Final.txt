@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.33		648.85		766648
+HDFCLIFE		0.35		648.95		781432
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NAZARA		0.49		860.85		114524
+HOMEFIRST		0.09		930.9		64718
