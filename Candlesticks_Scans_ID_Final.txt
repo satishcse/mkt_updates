@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.41		205.9		2592902
-HINDALCO		-0.05		614.55		1547021
-HEROMOTOCO		-0.02		4138.6		169175
-DRREDDY		0.7		5838.75		116970
+ONGC		0.44		205.95		2595607
+HINDALCO		-0.02		614.75		1549010
+HEROMOTOCO		-0.1		4135.4		169405
+DRREDDY		0.73		5840.0		117304
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+APLAPOLLO		0.55		1545.2		247137
