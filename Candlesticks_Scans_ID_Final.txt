@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.37		644.45		4459953
-ONGC		0.41		205.9		3140923
-BPCL		0.74		454.0		2520633
-APOLLOHOSP		0.42		5727.8		55731
+SBIN		0.37		644.4		4469952
+ONGC		0.44		205.95		3149499
+BPCL		0.74		454.0		2521712
+APOLLOHOSP		0.41		5727.7		55776
 
 Bullish_Hammer_15m_N500								 
 ======================= 
