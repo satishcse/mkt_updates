@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.19		2580.05		617509
+RELIANCE		-0.16		2580.9		618970
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANURAS		-0.39		1048		114961
-CUMMINSIND		-0.61		1952		109411
-APOLLOHOSP		0.37		5725		37890
+ANURAS		-0.39		1048.0		115130
+ULTRACEMCO		-0.53		10446.9		29604
+MASTEK		-1.12		2785.95		15852
