@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		2.02		383.6		8225575
-ADANIENT		3.06		2936.2		2115757
-RELIANCE		-0.02		2584.5		925423
+COALINDIA		1.94		383.3		8244033
+ADANIENT		3.06		2936.0		2125167
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-0.49		3498.55		137041
-RATNAMANI		-1.01		3329.35		21417
+EICHERMOT		-2.34		4046.5		512055
+RATNAMANI		-1.0		3329.65		21463
