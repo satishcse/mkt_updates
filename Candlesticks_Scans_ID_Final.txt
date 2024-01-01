@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.46		238.3		2564458
-DIVISLAB		0.02		3904.55		135016
-APOLLOHOSP		0.25		5718.55		45391
+ONGC		0.61		206.3		2557030
+HINDALCO		0.02		614.95		1530621
+M&M		-1.44		1704.45		652372
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAJAJ-AUTO		-0.66		6752.15		110207
-COROMANDEL		-0.55		1244.75		103887
-CRISIL		-1.32		4279.5		9436
+
