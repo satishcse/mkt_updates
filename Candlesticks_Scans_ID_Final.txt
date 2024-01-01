@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.5		140.3		10999203
-POWERGRID		0.51		238.4		2502174
-HINDALCO		-0.02		614.7		1506034
-BAJAJFINSV		-0.52		1677.1		210397
-DIVISLAB		0.11		3908.25		129967
-APOLLOHOSP		0.27		5719.75		44127
+POWERGRID		0.55		238.5		2506599
+BAJAJFINSV		-0.5		1677.35		210847
+DIVISLAB		0.11		3908.1		130119
+APOLLOHOSP		0.3		5721.1		44252
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CHOLAFIN		-1.93		1235.5		235759
+
