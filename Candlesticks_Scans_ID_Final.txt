@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.72		140.6		9902858
-RELIANCE		-0.17		2580.45		612578
+RELIANCE		-0.19		2580.05		617509
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		0.22		5716.45		35944
+ANURAS		-0.39		1048		114961
+CUMMINSIND		-0.61		1952		109411
+APOLLOHOSP		0.37		5725		37890
