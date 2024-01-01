@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,0.55,238.5,2506599
-BAJAJFINSV,-0.5,1677.35,210847
-DIVISLAB,0.11,3908.1,130119
-APOLLOHOSP,0.3,5721.1,44252
+POWERGRID,0.53,238.45,2510434
+BAJAJFINSV,-0.48,1677.75,211476
+DIVISLAB,0.08,3907.15,131266
+APOLLOHOSP,0.3,5721.0,44283
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+MARUTI,-0.5,10251.05,173753
