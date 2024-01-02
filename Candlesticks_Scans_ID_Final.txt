@@ -1,7 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-0.04		139.8		20613945
+BAJAJFINSV		0.45		1683.95		730663
+DRREDDY		1.89		5931.45		487646
 
 Bullish_Hammer_15m_N500								 
 ======================= 
