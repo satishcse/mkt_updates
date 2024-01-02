@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		1.64		7419.0		913762
-MARUTI		-0.77		10203.9		649069
+BAJFINANCE		1.64		7418.95		918181
+MARUTI		-0.81		10200.1		651707
+TITAN		0.75		3704.6		357798
 
 Bullish_Hammer_15m_N500								 
 ======================= 
