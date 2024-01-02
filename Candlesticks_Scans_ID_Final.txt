@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		2.94		1297.3		3027101
-MARUTI		-0.81		10199.95		709012
-APOLLOHOSP		-0.02		5749.15		152422
+SUNPHARMA		2.96		1297.55		3049642
+GRASIM		-1.27		2100.35		762827
+MARUTI		-0.81		10199.95		717166
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BRIGADE		-2.04		876.55		212368
+METROBRAND		-0.14		1243.3		71458
