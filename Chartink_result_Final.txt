@@ -2,8 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		per_chg		close		volume
-DRREDDY		1.97		5936.45		567101
-ITC		0.5		470.4		10359674
+DRREDDY		1.95		5935.05		568609
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -12,13 +11,17 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-ADANIPORTS		2.85		1077.75		6239566
-ICICIGI		-1.37		1417.5		479433
+ADANIPORTS		2.82		1077.35		6260242
+ICICIGI		-1.31		1418.4		482448
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-NIFTY		-0.37		21662.55		0
+GLENMARK		4.0		889.9		3957534
+MGL		0.92		1214.75		483941
+COROMANDEL		-1.58		1227.9		262757
+BANKNIFTY		-1.08		47715.05		0
+NIFTY		-0.37		21662.2		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -27,22 +30,22 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-AMBUJACEM		-0.67		530.7		2598571
-GMRINFRA		-0.68		79.8		28225853
-TCS		-0.7		3784.4		1309380
-JSWSTEEL		-0.79		870.65		1590286
-NTPC		-1.16		306.15		13308755
-SHREECEM		-1.25		28106.35		16444
-DLF		-1.33		713.95		2361771
-SAIL		-1.56		122.75		38214840
-WIPRO		-1.65		469.3		7026835
-BALKRISIND		-1.89		2527.55		302484
-MFSL		-2.23		933.9		546607
-BALRAMCHIN		-2.28		405.05		2676665
-KOTAKBANK		-2.33		1864.75		4968393
-ULTRACEMCO		-2.47		10205.15		333162
+GMRINFRA		-0.56		79.9		28334043
+TCS		-0.68		3785.25		1320640
+JSWSTEEL		-0.77		870.8		1597188
+AMBUJACEM		-0.8		530.0		2612437
+NTPC		-1.08		306.4		13350977
+SHREECEM		-1.25		28106.75		16489
+DLF		-1.34		713.9		2372232
+SAIL		-1.48		122.85		38291300
+WIPRO		-1.65		469.3		7043615
+BALKRISIND		-1.94		2526.2		304495
+BALRAMCHIN		-2.27		405.1		2684461
+KOTAKBANK		-2.33		1864.6		4991787
+MFSL		-2.34		932.85		547232
+ULTRACEMCO		-2.52		10199.95		334570
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-AUROPHARMA		1.09		1091.95		3332310
+AUROPHARMA		1.25		1093.65		3337499
