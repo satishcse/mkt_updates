@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.54		206.45		17274463
-TATACONSUM		1.53		1096.6		2202965
-EICHERMOT		-3.6		3893.0		1036842
-ASIANPAINT		-0.23		3388.4		431391
+ONGC		0.39		206.15		17413120
+TATACONSUM		1.62		1097.55		2209925
+EICHERMOT		-3.57		3894.0		1039922
+ASIANPAINT		-0.34		3384.45		432627
 
 Bullish_Hammer_15m_N500								 
 ======================= 
