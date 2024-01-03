@@ -1,11 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SUNPHARMA		2.74		1294.8		3169213
-MARUTI		-0.86		10195.0		775009
-APOLLOHOSP		-0.21		5738.1		165078
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+QUESS		0.87		511.25		129124
+TVSMOTOR		-0.06		1968.0		126202
+MARUTI		-0.79		10116.85		110672
+HAPPSTMNDS		-0.84		901.9		92087
+LALPATHLAB		-0.63		2628.05		52727
+360ONE		-0.87		671.0		35600
+CREDITACC		-0.57		1564.75		34121
