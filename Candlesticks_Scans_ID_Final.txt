@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.4		592.05		952361
-HDFCLIFE		-0.21		644.15		680444
+HDFCLIFE		-0.19		644.3		681917
+NESTLEIND		-0.83		26996.9		34967
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HDFCBANK		-1.43		1674.8		6544662
+POLYPLEX		-0.49		1105.55		130012
+CAMS		-0.23		2663.65		47043
