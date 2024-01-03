@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		1.06		1295.1		1305044
-APOLLOHOSP		0.1		5752.15		138440
+TATASTEEL		-1.97		136.85		29057108
+CIPLA		1.12		1295.85		1306868
+APOLLOHOSP		0.1		5752.15		138617
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TEJASNET		-1.03		853		99392
