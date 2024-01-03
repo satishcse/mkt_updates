@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-1.45		386.95		6626621
-HDFCLIFE		-0.15		644.5		682879
-NESTLEIND		-0.84		26995.0		35039
+ONGC		0.58		208.25		4725940
+HDFCLIFE		-0.15		644.55		683864
+NESTLEIND		-0.89		26982.1		35120
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ASAHIINDIA		-0.95		577.2		71266
+CAMS		-0.1		2666.95		47225
