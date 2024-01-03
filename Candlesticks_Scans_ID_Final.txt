@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.01		136.8		27866978
+TATASTEEL		-2.04		136.75		27910791
+ONGC		1.14		209.4		7136719
+LT		0.23		3446.05		856376
 
 Bullish_Hammer_15m_N500								 
 ======================= 
