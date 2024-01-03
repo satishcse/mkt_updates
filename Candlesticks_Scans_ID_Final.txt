@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-2.18		1500.9		3243757
-HEROMOTOCO		-2.03		4005.05		410907
-BAJAJFINSV		0.28		1691.0		379478
+INFY		-2.2		1500.65		3251617
+HEROMOTOCO		-2.05		4004.5		411144
+BAJAJFINSV		0.37		1692.5		380508
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-OFSS		-1.74		4389.05		63654
+
