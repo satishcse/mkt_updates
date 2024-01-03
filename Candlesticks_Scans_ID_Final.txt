@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-2.31		458.35		5800811
-ULTRACEMCO		-0.72		10131.2		95129
-BRITANNIA		0.06		5291.8		51164
-NESTLEIND		-0.91		26975.1		39192
+WIPRO		-2.31		458.35		5817563
+ULTRACEMCO		-0.73		10129.9		95621
+BRITANNIA		-0.02		5288.0		51373
+NESTLEIND		-1.04		26940.8		39389
 
 Bullish_Hammer_15m_N500								 
 ======================= 
