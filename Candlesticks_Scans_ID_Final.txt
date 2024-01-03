@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-2.86		1490.5		7433068
+INFY		-2.82		1491.1		7459114
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		-4.22		3930.0		944824
-JKPAPER		0.35		399.0		687491
-INDIAMART		-0.11		2705.05		151489
-BIRLACORPN		-2.71		1429.75		119143
-KIMS		0.03		1944.3		39898
-RELAXO		-0.42		898.9		36657
-ZFCVINDIA		-1.75		15962.6		34904
+TCS		-2.41		3692.0		1791079
+DEEPAKFERT		-0.62		687.95		486143
+BIRLACORPN		-2.7		1430.0		120500
+KIMS		0.27		1948.95		40207
+CRAFTSMAN		-1.75		5143.0		29389
+PAGEIND		-0.91		38833.95		11302
