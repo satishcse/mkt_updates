@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.22		1861.0		2693230
-CIPLA		1.14		1296.1		1287700
-APOLLOHOSP		0.13		5754.0		135394
-ULTRACEMCO		-0.39		10164.75		116549
+KOTAKBANK		-0.21		1861.1		2701593
+CIPLA		1.07		1295.3		1290513
+APOLLOHOSP		0.14		5754.6		136004
+ULTRACEMCO		-0.41		10162.6		116868
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TEJASNET		-0.97		853.5		91964
