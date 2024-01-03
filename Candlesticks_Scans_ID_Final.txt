@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INFY		-2.83		1490.95		7065933
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUMICHEM		-1.69		407.35		673241
-BRIGADE		-1.14		867.5		382447
-DATAPATTNS		-2.26		1855.95		135374
-BIRLACORPN		-2.85		1427.7		113377
+NESTLEIND		-2.12		26647		83006
