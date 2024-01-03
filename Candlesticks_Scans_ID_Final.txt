@@ -1,17 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+POWERGRID		-0.21		237.35		2915242
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ELGIEQUIP		-0.48		543.65		288846
-HEG		-1.24		1862.45		78114
-LTTS		-2.06		5076.95		43271
-SAFARI		-0.72		1854.7		19566
-APARINDS		-1.69		5927.0		19077
-JKCEMENT		0.12		3855.9		17495
 SHOPERSTOP		0.26		685.9		6283
-ATUL		0.17		7180.0		5942
-BOSCHLTD		-0.68		22181.9		2071
