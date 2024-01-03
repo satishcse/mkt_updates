@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.24		1860.5		2706551
-CIPLA		1.06		1295.1		1295818
-APOLLOHOSP		0.15		5755.0		136988
+TATAMOTORS		-0.3		782.05		6491658
+KOTAKBANK		-0.17		1861.95		2709875
+CIPLA		1.06		1295.15		1297955
+APOLLOHOSP		0.06		5750.0		137708
 
 Bullish_Hammer_15m_N500								 
 ======================= 
