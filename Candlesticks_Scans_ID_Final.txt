@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.1		2609.2		2747880
+RELIANCE		-0.11		2608.7		2751715
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ISEC		-1.16		711.6		64403
-NESTLEIND		-1.36		26854.0		45745
+ISEC		-1.14		711.75		64454
+NESTLEIND		-1.35		26856.45		45830
+MANYAVAR		-1.04		1262.5		34465
 TIMKEN		-1.48		3134.0		8338
