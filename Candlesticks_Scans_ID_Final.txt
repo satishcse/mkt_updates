@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.11		983.3		7043747
-HDFCLIFE		-0.23		644.0		678633
-BAJAJFINSV		0.34		1692.0		386430
-BAJAJ-AUTO		-0.54		6629.0		75963
+ICICIBANK		0.1		983.25		7115911
+HDFCLIFE		-0.21		644.15		679784
+BAJAJ-AUTO		-0.55		6628.1		76187
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		-0.24		2663.3		46760
+CAMS		-0.24		2663.3		46764
