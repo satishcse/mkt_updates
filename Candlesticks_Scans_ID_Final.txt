@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.56		208.2		4086014
+ONGC		0.6		208.3		4099831
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENSOL		12.22		1192.3		8254913
-TANLA		-1.72		1089.6		229890
-ATUL		0.17		7180.0		7217
+ATUL		0.17		7180		7217
