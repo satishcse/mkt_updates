@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENSOL		10.13		1170.05		7595654
-ADANIGREEN		4.09		1669.1		5012661
+ADANIENSOL		10.21		1170.95		7686254
+ADANIGREEN		4.08		1669.0		5090963
+TITAN		-0.65		3674.05		90339
+ATUL		-0.05		7163.95		6914
