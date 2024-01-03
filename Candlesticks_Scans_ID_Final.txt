@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-1.54		1446.85		1007166
-MARUTI		-0.96		10099.4		353026
-SBILIFE		-0.5		1430.4		209844
+MARUTI		-1.01		10095.0		355126
+SBILIFE		-0.53		1430.1		210895
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FINEORG		-1.11		4859.55		18746
+
