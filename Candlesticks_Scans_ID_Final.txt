@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.82		27000		27750
+ONGC		0.6		208.3		4061522
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENSOL		11.53		1184.9		8045539
-ADANIGREEN		5.37		1689.6		5299620
-CONCOR		-0.56		874.7		517147
+ADANIENSOL		12.36		1193.8		8141663
+ADANIPOWER		4.13		540.0		2578954
+MARUTI		-0.86		10110.0		183840
