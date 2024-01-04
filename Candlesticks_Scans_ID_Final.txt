@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.41		134.8		14758898
-HCLTECH		-0.61		1428.95		997444
+HCLTECH		-0.58		1429.35		1004732
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATGL		0.82		1108.35		4259141
-ADANIENSOL		-1.42		1166.4		1635982
+ATGL		0.81		1108.25		4275946
+ADANIENSOL		-1.41		1166.55		1644976
+ABBOTINDIA		-0.77		23425.1		3700
