@@ -1,11 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		-0.66		452.9		5722394
-TITAN		0.63		3716.45		328756
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BAYERCROP		0.08		5518		66637
+
