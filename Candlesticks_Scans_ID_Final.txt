@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		2.11		212.65		9320602
-HCLTECH		-0.67		1428.1		1022896
+ONGC		1.92		212.25		9421401
+HCLTECH		-0.64		1428.5		1024867
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATGL		1.16		1112.0		4316581
-ADANIPOWER		-0.28		543.0		1691709
-ADANIENSOL		-0.78		1174.0		1672435
-ZYDUSWELL		-0.96		1673.25		11488
+ATGL		1.11		1111.45		4331093
+ADANIPOWER		-0.28		543.0		1693327
+ADANIENSOL		-0.57		1176.4		1679695
