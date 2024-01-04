@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.34		1240		500627
+ASIANPAINT		0.5		3390.35		132832
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-UPL		-0.33		584.9		733848
-CIPLA		-0.72		1290.85		224084
-SUNDARMFIN		0.09		3614.9		1621
+
