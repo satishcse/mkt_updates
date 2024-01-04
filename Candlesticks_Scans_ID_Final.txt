@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.77		241.25		8549995
+HDFCLIFE		1.18		644.7		903492
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TCS		-0.92		3657.7		1451623
-NAVINFLUOR		-1.28		3818.3		82895
-SAPPHIRE		-0.15		1406.65		5384
+
