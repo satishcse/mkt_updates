@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.55		453.4		5535774
-TITAN		0.72		3719.65		322304
+WIPRO		-0.57		453.3		5544644
+TITAN		0.62		3716.05		322914
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VAIBHAVGBL		-1.02		427.8		1973936
-MAZDOCK		-1.0		2260.0		1560190
-MANKIND		-3.56		2078.9		356226
+MAZDOCK		-1		2260		1561539
