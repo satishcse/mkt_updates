@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.57		453.3		5620373
-TITAN		0.65		3717.0		327004
+HDFCBANK		0.65		1683.7		11230870
+WIPRO		-0.58		453.25		5633822
+TITAN		0.65		3717.05		327298
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ROUTE		-1.15		1660.95		97473
