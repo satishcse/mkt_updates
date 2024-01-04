@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		3.67		317.45		39223845
+NTPC		3.66		317.4		39440114
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRITURBINE		0.23		421.55		215970
+ADANIENT		-0.19		2997.35		2957883
+360ONE		-0.23		653.75		132219
+FLUOROCHEM		-1.85		3820.0		80718
