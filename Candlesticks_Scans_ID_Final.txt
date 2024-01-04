@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		3.22		214.95		25587390
-POWERGRID		2.34		242.6		15127102
-SBIN		-0.11		642.75		11260236
+ONGC		3.22		214.95		25687720
+SBIN		-0.11		642.75		11288343
+ADANIENT		0.5		3018.0		2508908
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CLEAN		-0.18		1567.65		78587
+GILLETTE		-0.68		6581.65		52199
