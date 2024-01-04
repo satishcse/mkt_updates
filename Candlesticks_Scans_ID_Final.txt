@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.62		480.2		7143914
-WIPRO		-0.36		454.25		5238909
+ITC		0.61		480.15		7161524
+WIPRO		-0.39		454.1		5248084
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HOMEFIRST		-1.27		943.2		86242
+
