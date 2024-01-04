@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.87		1503		2186105
-EICHERMOT		-0.58		3865		140858
+INFY		0.85		1502.6		2195545
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-3MINDIA		0.48		34400.7		2674
+SANOFI		-0.58		8316.25		1055
