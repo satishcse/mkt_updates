@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.32		987.2		17168669
-SBIN		0.1		644.1		9139624
-AXISBANK		2.79		1129.25		7460629
-UPL		-0.09		586.3		1945586
+ICICIBANK		0.29		986.9		17503943
+SBIN		0.03		643.65		9281145
+AXISBANK		2.68		1128.0		7586468
+UPL		-0.04		586.6		1958043
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SKFINDIA		-0.47		4529.95		7767
