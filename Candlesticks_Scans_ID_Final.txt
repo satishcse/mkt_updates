@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.2		986.0		12645389
-POWERGRID		1.92		241.6		9820541
-HDFCLIFE		1.22		645.0		1854523
+NTPC		4.51		320.0		27640733
+BAJAJFINSV		1.45		1701.95		1332700
+MARUTI		-0.69		10008.05		346230
+GRASIM		0.42		2080.85		204265
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DMART		-0.71		3904.4		277714
+
