@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		4.34		319.5		28064018
-GRASIM		0.24		2077.1		211522
+NTPC		4.46		319.85		28186365
+GRASIM		0.09		2074.0		218903
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HOMEFIRST		-0.76		948.05		69330
-TATAINVEST		0.3		4266.65		18754
-ABBOTINDIA		-1.54		23243.8		16047
+JUBLFOOD		-0.02		553.9		578336
+ULTRACEMCO		-0.81		10029.8		154919
+TEJASNET		0.01		852.9		123528
+HOMEFIRST		-0.76		948.05		69458
