@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.61		480.15		7161524
-WIPRO		-0.39		454.1		5248084
+ITC		0.6		480.1		7184420
+WIPRO		-0.42		454.0		5260946
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TIINDIA		-1.12		3502.2		163029
