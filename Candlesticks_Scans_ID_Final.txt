@@ -2,11 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.18		642.3		11497545
-ADANIENT		0.33		3012.8		2552771
-KOTAKBANK		-0.05		1865.0		2068267
+CIPLA		-0.02		1299.9		992975
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CLEAN		-0.04		1569.9		80507
+
