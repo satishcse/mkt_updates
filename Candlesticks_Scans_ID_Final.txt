@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.43		3388		135244
+ICICIBANK		-0.08		983.3		4599358
+ASIANPAINT		0.39		3386.85		137303
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AARTIIND		-0.1		651.8		854001
+UPL		-0.34		584.85		755866
+BAJAJ-AUTO		-1.12		6908.0		242061
+SKFINDIA		0.01		4551.6		2831
