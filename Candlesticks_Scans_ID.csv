@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-WIPRO,0.07,456.2,3002973
-INFY,0.69,1500.35,2286353
+WIPRO,0.08,456.25,3013508
+INFY,0.76,1501.35,2312562
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+ADANIPOWER,0.83,549.0,1491100
+PGHH,-0.11,17056.55,2287
+SANOFI,-0.6,8314.95,1111
