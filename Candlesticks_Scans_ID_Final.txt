@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.6		480.1		7276779
-WIPRO		-0.54		453.45		5325579
+TATASTEEL		-0.63		134.5		29403862
+POWERGRID		2.21		242.3		13187751
+UPL		0.03		587.05		2099348
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SFL		-0.55		1221.95		24896
+
