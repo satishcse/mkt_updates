@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.19		1297.65		1028716
+CIPLA		-0.32		1296.05		1038159
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SIEMENS		-0.02		4084.2		195478
+LUXIND		-0.67		1299.15		107460
