@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		0.37		2079.85		140132
+WIPRO		-0.02		455.8		3400356
+GRASIM		0.31		2078.7		140460
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAYNES		-2.83		2483.65		225463
-HONAUT		-0.32		36600.0		684
+KAYNES		-2.91		2481.65		227188
