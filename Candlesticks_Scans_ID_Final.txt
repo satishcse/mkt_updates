@@ -1,12 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		4.44		319.8		28270433
-GRASIM		0.16		2075.6		228491
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-PAYTM		-0.99		667.0		1869699
-ABBOTINDIA		-1.64		23218.85		16607
+
