@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		2.43		1125.25		6298443
-HDFCLIFE		1.28		645.35		1817026
+HDFCLIFE		1.23		645.05		1818390
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PERSISTENT		-0.37		7260.9		153331
-ULTRACEMCO		-0.84		10026.85		135586
-FLUOROCHEM		-1.34		3840.0		45189
+ULTRACEMCO		-0.81		10029.15		137664
