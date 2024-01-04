@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		3.63		317.3		36661329
+NTPC		3.61		317.25		36880843
+TITAN		0.85		3724.45		456792
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GILLETTE		-0.92		6566.3		52839
+ATUL		-1.18		7076.65		17437
