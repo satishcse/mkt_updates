@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.41		1114.1		3256322
+AXISBANK		1.45		1114.5		3291720
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VIJAYA		-0.97		655.9		40892
+VIJAYA		-0.96		655.95		40968
