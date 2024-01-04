@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.58		480		7096456
+ITC		0.67		480.45		7113926
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MANKIND		-3.57		2078.65		313167
+COLPAL		0.26		2500.0		181225
