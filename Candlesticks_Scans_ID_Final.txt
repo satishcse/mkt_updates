@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		3.15		214.8		25906322
-SBIN		-0.18		642.3		11402625
-ADANIENT		0.43		3015.85		2522281
+ONGC		3.15		214.8		25937265
+SBIN		-0.15		642.5		11427166
+ADANIENT		0.42		3015.7		2526786
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CLEAN		-0.04		1570.0		79833
-CARBORUNIV		-0.56		1113.8		60536
+CLEAN		-0.04		1570		80025
