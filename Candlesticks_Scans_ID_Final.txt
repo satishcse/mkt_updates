@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-AXISBANK		1.51		1115.15		3230178
+AXISBANK		1.41		1114.1		3256322
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POONAWALLA		1.59		437.95		1071647
-PRINCEPIPE		0.69		742.3		34233
-METROBRAND		-0.03		1267.45		16580
+VIJAYA		-0.97		655.9		40892
