@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.31		467.75		4293100
+ITC		-1.29		467.85		4304485
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARUTI		-0.82		9934.95		349676
-RHIM		-2.09		788.5		58140
+RHIM		-2.11		788.35		58197
+AJANTPHARM		-1.65		2198.3		34439
