@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.28		467.9		4329238
+ITC		-1.32		467.7		4348775
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NH		0.69		1225.8		603201
-RHIM		-2.11		788.35		58209
-AJANTPHARM		-1.62		2199.0		34448
-LAXMIMACH		0.35		14191.4		3916
+AJANTPHARM		-1.63		2198.6		34450
