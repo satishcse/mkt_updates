@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.35		2996.15		1216453
-SUNPHARMA		0.06		1300.95		1128854
-EICHERMOT		0.47		3895.3		337807
+ADANIENT		-0.39		2995.0		1216989
+SUNPHARMA		0.05		1300.9		1133302
+EICHERMOT		0.48		3895.75		338007
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-3MINDIA		-1.29		34249.95		3899
+
