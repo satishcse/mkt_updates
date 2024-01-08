@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.23		579.8		2648148
+HINDALCO		-1.29		579.45		2653368
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-1.66		3324.3		137511
+CHOLAFIN		-1.94		1233.45		658264
+INDIGOPNTS		-1.12		1481.9		27509
