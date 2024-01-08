@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.3		467.8		4007838
-DIVISLAB		-1.95		3936.5		278805
+ITC		-1.34		467.6		4034981
+DIVISLAB		-2.04		3933.0		279202
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		-0.18		5391.4		218289
+BALKRISIND		-1.02		2552.25		81141
