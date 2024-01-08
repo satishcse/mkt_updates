@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.61		455.85		7096558
+BPCL		0.58		455.75		7098299
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALAMINES		-2.41		2566.95		63575
 CRISIL		-1.02		4078.7		11789
