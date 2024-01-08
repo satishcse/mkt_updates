@@ -5,4 +5,6 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BALAMINES		-2.61		2561.7		63423
+CRISIL		-1.02		4078.6		11742
