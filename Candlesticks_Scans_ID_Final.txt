@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-4.98		1294.85		1445492
-SYRMA		-3.56		608.7		388106
-AJANTPHARM		-2.79		2172.7		42519
-BOSCHLTD		-0.87		22493.9		6967
+SYRMA		-3.56		608.75		389230
+ASTERDM		-2.18		408.35		187007
+AJANTPHARM		-2.82		2172.15		42585
+ABBOTINDIA		-0.65		23729.95		16774
+BOSCHLTD		-0.88		22491.5		6970
