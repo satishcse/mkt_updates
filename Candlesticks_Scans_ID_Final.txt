@@ -1,12 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		0.46		316.4		9366311
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-1.82		1807.55		946391
-SRF		-3.5		2393.85		476116
-BAJAJ-AUTO		0.03		6980.8		295358
+ASIANPAINT		-1.74		3297.0		522926
+BAJAJ-AUTO		0.09		6985.0		301491
+COROMANDEL		-3.62		1201.25		264496
+BRITANNIA		-1.82		5176.25		227734
+LTIM		-1.73		5844.75		186487
+FLUOROCHEM		-3.16		3511.15		144324
+KSB		-1.9		3469.8		20656
