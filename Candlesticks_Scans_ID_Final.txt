@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		-1.37		3309.5		408111
+ULTRACEMCO		-0.52		9963.5		132833
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BIRLACORPN		-0.01		1434.05		27574
