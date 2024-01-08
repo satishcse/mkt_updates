@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.34		788.3		6512523
-BHARTIARTL		0.4		1050.75		3871969
-ASIANPAINT		-1.66		3299.75		474637
+TATAMOTORS		-0.2		789.4		6658260
+BHARTIARTL		0.38		1050.6		3904835
+ASIANPAINT		-1.68		3299.2		484752
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GODREJPROP		-3.73		2160.6		743803
+BALKRISIND		-1.13		2549.35		120719
+PGHL		-0.48		5008.0		8213
