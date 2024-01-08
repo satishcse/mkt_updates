@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.32		467.7		3974256
-CIPLA		-0.73		1277.55		406957
+ITC		-1.34		467.6		3993191
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALKRISIND		-1.01		2552.45		80136
-GOCOLORS		-1.37		1213.65		21167
+POLYCAB		-0.35		5382.6		217668
+GOCOLORS		-1.37		1213.6		21390
