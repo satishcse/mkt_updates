@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BPCL		0.54		455.55		7104757
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NAVINFLUOR		-5.33		3619.0		405737
+TORNTPHARM		-0.99		2326.95		211434
+CRISIL		-1.02		4078.75		11944
