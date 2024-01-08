@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.26		468.0		5042700
-ADANIENT		-0.32		2997.0		1209649
-EICHERMOT		0.45		3894.6		337015
+ITC		-1.27		467.95		5101422
+ADANIENT		-0.36		2995.75		1215326
+EICHERMOT		0.43		3893.6		337737
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+3MINDIA		-1.29		34249.65		3898
