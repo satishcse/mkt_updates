@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.68		9948.4		137197
+ULTRACEMCO		-0.71		9945.3		137436
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+AJANTPHARM		-2.78		2173.0		39946
+GRINDWELL		-2.18		2280.3		11247
