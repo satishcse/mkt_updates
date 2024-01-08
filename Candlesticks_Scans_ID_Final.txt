@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.6		9956		134417
+ULTRACEMCO		-0.68		9947.55		135278
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BIRLACORPN		-0.02		1433.9		27908
+
