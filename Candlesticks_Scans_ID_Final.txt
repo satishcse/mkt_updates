@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-1.28		467.9		4917169
-BHARTIARTL		0.6		1052.85		3478131
-HDFCLIFE		0.02		646.85		1382741
-ADANIENT		-0.29		2998.0		1200409
-EICHERMOT		0.47		3895.15		334431
+ITC		-1.26		468.0		4958903
+BHARTIARTL		0.58		1052.7		3482745
+ADANIENT		-0.31		2997.35		1202281
+SUNPHARMA		0.05		1300.9		1095580
 
 Bullish_Hammer_15m_N500								 
 ======================= 
