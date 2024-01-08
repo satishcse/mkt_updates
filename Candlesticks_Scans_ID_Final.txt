@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		-1.27		467.95		4227254
+NESTLEIND		-1.14		2636.0		719958
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NAVINFLUOR		-5.33		3619.0		405737
-TORNTPHARM		-0.99		2326.95		211434
-CRISIL		-1.02		4078.75		11944
+
