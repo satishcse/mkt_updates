@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.83		632.2		7251693
-WIPRO		1.04		455.05		5438872
-TECHM		1.17		1243.35		631801
-NIFTY		0.87		21699.75		0
+SBIN		0.83		632.2		7262655
+WIPRO		1.04		455.05		5443239
+TECHM		1.2		1243.7		632595
+NIFTY		0.87		21699.95		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JBMA		1.09		1905.15		299773
+SKFINDIA		0.1		4629.1		14293
