@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		1.53		1470		1699537
+TATASTEEL		1.86		134.45		20698794
+KOTAKBANK		1.61		1855.55		2338580
+ADANIENT		1.98		3022.1		2193806
+NIFTY		0.92		21709.95		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CDSL		-0.2		1870.0		232617
-KEI		-1.96		3249.55		144332
+
