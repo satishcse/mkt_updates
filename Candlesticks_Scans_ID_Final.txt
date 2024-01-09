@@ -6,7 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRINCEPIPE		-0.54		729.65		110705
-FLUOROCHEM		-2.49		3428.75		93202
-THERMAX		-0.3		3189.85		41290
-SHREECEM		-0.11		27298.6		16606
+SRF		-3.58		2310.0		895254
+SFL		0.21		1207.1		179753
+HEG		-1.55		1809.55		126489
+PAGEIND		-3.21		36485.0		74572
+SUNDARMFIN		-2.16		3639.2		50000
+SAPPHIRE		-1.06		1384.8		30380
