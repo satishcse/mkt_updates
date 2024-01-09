@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.86		632.4		7198066
-TECHM		1.22		1244.0		628685
-NIFTY		0.89		21703.85		0
+SBIN		0.85		632.35		7224048
+TECHM		1.2		1243.75		630132
+NIFTY		0.87		21700.8		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
