@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.26		466.7		1772552
-BHARTIARTL		0.47		1053.95		834693
-HINDUNILVR		0.35		2587.25		373685
+ITC		0.23		466.55		1777862
+BHARTIARTL		0.43		1053.55		838082
+HINDUNILVR		0.34		2587.0		374418
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SAPPHIRE		-0.76		1389		13856
+UBL		-1.85		1828.35		212492
+CAMS		0.1		2767.1		70403
