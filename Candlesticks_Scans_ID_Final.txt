@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WELCORP		-3.66		539		494386
+WELCORP		-3.57		539.45		496135
+KEI		-2.34		3236.9		192608
+3MINDIA		0.47		34229.95		3362
