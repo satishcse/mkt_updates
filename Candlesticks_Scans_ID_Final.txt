@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.49		386.05		4528533
-BHARTIARTL		0.5		1054.3		894659
+COALINDIA		1.51		386.15		4532499
+BHARTIARTL		0.56		1054.95		896993
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNDARMFIN		-0.62		3696.4		30386
-HONAUT		-0.67		37091.95		1850
+SUNDARMFIN		-0.71		3693.0		30426
+HONAUT		-0.63		37103.95		1856
