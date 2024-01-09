@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		1.58		1854.95		1524482
-INFY		1.47		1545.25		1488529
+KOTAKBANK		1.5		1853.45		1532419
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALAMINES		-0.09		2570.35		35686
+BALAMINES		-0.14		2569.05		35804
+CERA		-0.01		7785.9		4113
