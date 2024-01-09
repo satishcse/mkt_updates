@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		1.28		385.25		2634330
-AXISBANK		0.88		1131.9		985650
-APOLLOHOSP		1.02		5739.95		42576
+ADANIPORTS		4.97		1226.95		6948604
+COALINDIA		1.26		385.2		3289050
+AXISBANK		0.8		1130.95		989553
+APOLLOHOSP		1.02		5739.95		42849
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-USHAMART		-1.94		297.65		766409
+ULTRACEMCO		0.0		9934.5		81182
+KEI		-0.63		3293.4		61203
