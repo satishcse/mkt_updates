@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		-0.8		5136.05		165458
+RELIANCE		0.18		2591.9		1897409
+BRITANNIA		-0.8		5136.05		165594
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+VARROC		-0.46		553.75		477218
