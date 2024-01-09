@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.2		466.45		1787719
-BHARTIARTL		0.44		1053.65		841724
-HINDUNILVR		0.35		2587.3		376024
+ITC		0.14		466.15		1803939
+BHARTIARTL		0.47		1053.95		848813
+HINDUNILVR		0.36		2587.5		378514
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		0.93		5900.0		140962
-SUPREMEIND		-1.91		4280.2		30342
+SUPREMEIND		-1.75		4287.15		30551
