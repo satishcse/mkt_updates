@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BALAMINES		-0.15		2568.7		36303
-INDIGOPNTS		0.17		1487.45		17995
+INDIGOPNTS		0.19		1487.7		18033
 ZFCVINDIA		0.17		16307.45		733
