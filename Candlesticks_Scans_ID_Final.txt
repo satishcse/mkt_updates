@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NTPC		0.6		318.35		4671588
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		0.12		543.85		3977049
-BALAMINES		-0.05		2571.2		36191
+BALAMINES		-0.05		2571.2		36212
 ZFCVINDIA		0.1		16296.15		732
