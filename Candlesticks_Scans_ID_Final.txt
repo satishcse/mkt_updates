@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-0.41		541.0		2899389
-BAJAJHLDNG		0.61		8094.9		19519
+DCMSHRIRAM		-0.4		1059.9		78463
+BAJAJHLDNG		0.61		8094.85		19564
+SUNDRMFAST		-0.02		1241.5		8277
