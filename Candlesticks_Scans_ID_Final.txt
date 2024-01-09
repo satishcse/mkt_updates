@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		1.33		133.75		8498590
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DCMSHRIRAM		-0.4		1059.9		78463
-BAJAJHLDNG		0.61		8094.85		19564
-SUNDRMFAST		-0.02		1241.5		8277
+SWANENERGY		-0.32		541.45		2981082
+BAJAJHLDNG		0.58		8092.45		19828
