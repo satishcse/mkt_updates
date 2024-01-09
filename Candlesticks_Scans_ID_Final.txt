@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		-0.55		5148.8		118964
+BAJFINANCE		0.38		7765.55		501215
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GODREJIND		-1.28		867.35		435877
-KEI		-1.22		3274.0		107315
-DCMSHRIRAM		-1.01		1053.5		99962
-SAFARI		0.59		1931.75		31589
+
