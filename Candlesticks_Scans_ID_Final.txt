@@ -1,12 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ITC		0.12		466.05		1824856
-BHARTIARTL		0.52		1054.5		854718
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SHRIRAMFIN		-0.37		2188.25		407969
-SUPREMEIND		-1.74		4287.65		30866
+
