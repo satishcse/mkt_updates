@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.21		217.5		6393422
-DRREDDY		0.44		5786.45		102363
+ONGC		-0.28		217.35		6452791
+DRREDDY		0.38		5783.35		102583
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKFERT		-0.16		668.95		177222
-INDIAMART		-0.11		2671.3		33872
+DEEPAKFERT		-0.17		668.85		177665
+HONAUT		-0.74		37064.25		1976
