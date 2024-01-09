@@ -1,19 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATACONSUM		0.88		1114.7		250805
+NESTLEIND		-0.48		2606.7		225367
+DRREDDY		-0.09		5756.15		45923
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ASTRAL		-1.69		1810.0		972175
-GLAXO		-1.15		2124.85		414647
-ENDURANCE		-0.42		2107.65		376239
-CHOLAHLDNG		-1.17		1027.85		329015
-LTIM		-1.84		5838.0		193809
-HEG		-1.73		1837.7		135421
-WHIRLPOOL		-0.22		1361.0		104734
-AAVAS		-0.59		1556.75		98792
-ALKYLAMINE		-3.53		2548.0		86312
-TATAELXSI		-0.67		8588.0		43027
-BIRLACORPN		-0.65		1424.95		38666
+
