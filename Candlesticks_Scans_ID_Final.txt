@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.99		633.2		7113946
-KOTAKBANK		1.57		1854.85		2342207
-SUNPHARMA		1.86		1329.6		1132085
-NIFTY		0.92		21710.2		0
+SBIN		0.95		632.95		7128699
+TECHM		1.25		1244.25		621178
+NIFTY		0.91		21709.25		0
 
 Bullish_Hammer_15m_N500								 
 ======================= 
