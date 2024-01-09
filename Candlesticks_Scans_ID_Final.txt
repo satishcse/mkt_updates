@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.09		217.75		6307313
-INFY		1.55		1546.35		1740767
+ONGC		-0.11		217.7		6328678
+BHARTIARTL		0.56		1054.95		931670
+DRREDDY		0.43		5786.2		101308
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONAUT		-0.78		37048		1925
+ENDURANCE		1.29		2118.95		651830
+INDIAMART		-0.15		2670.2		33546
+HONAUT		-0.77		37054.05		1937
