@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.16		217.6		6550546
+ONGC		-0.28		217.35		6562715
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKFERT		-0.15		669.0		178252
-KAJARIACER		-0.07		1370.95		107966
-HONAUT		-0.75		37060.0		2017
+DEEPAKFERT		-0.15		669.0		178380
+KAJARIACER		0.12		1373.6		108252
+MASTEK		0.81		2718.6		20156
