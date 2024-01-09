@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BHARTIARTL		1.34		1063.1		1805653
-DRREDDY		0.36		5781.9		132783
+BHARTIARTL		1.33		1063.05		1808255
+DRREDDY		0.37		5782.55		132975
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+APARINDS		-0.79		5903.2		93232
