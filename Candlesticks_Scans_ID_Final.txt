@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-2.88		210.4		12630027
-KOTAKBANK		-0.25		1822.0		6053977
-GRASIM		0.09		2066.0		243182
+GRASIM		0.05		2065		244717
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEAMLEASE		-1.22		3183.35		145006
+NESTLEIND		-0.74		2573.35		628814
