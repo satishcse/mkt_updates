@@ -10,19 +10,29 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-HCLTECH		2.29		1493.9		2702178
-VOLTAS		2.0		1013.3		2902445
-CIPLA		1.96		1314.6		1873905
-MFSL		-1.72		930.35		125605
+HCLTECH		2.36		1494.9		2707631
+CIPLA		2.02		1315.35		1874795
+VOLTAS		2.01		1013.35		2912317
+MFSL		-1.7		930.6		126084
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-0.08		5904.95		87898
+RECLTD		-3.04		415.75		7541387
+BPCL		-2.64		447.8		5105625
+IRCTC		-0.9		910.5		1749334
+BALRAMCHIN		-1.85		390.0		1234050
+MCDOWELL-N		2.34		1122.0		667674
+GNFC		-0.01		764.2		592568
+BAJAJFINSV		-1.33		1660.1		304601
+LTIM		-0.1		5903.75		88022
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+MCDOWELL-N		2.34		1122.0		683311
+BAJAJFINSV		-1.28		1660.85		311847
+UBL		-0.17		1811.7		108494
 
 Open_High								 
 ========= 
@@ -61,7 +71,7 @@ MANAPPURAM		-4.76		168.15		21434587
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-PAGEIND		1.33		36935.65		25379
-ICICIBANK		1.04		989.9		4072079
-INDUSINDBK		0.54		1633.9		539780
-HDFCLIFE		0.22		642.3		2252153
+PAGEIND		1.37		36953.15		25464
+ICICIBANK		1.04		989.95		4152956
+INDUSINDBK		0.57		1634.4		541751
+HDFCLIFE		0.23		642.4		2257276
