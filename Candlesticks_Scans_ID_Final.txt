@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.3		1624.95		819943
-NESTLEIND		-0.16		2588.5		341878
+HDFCBANK		0.16		1653.2		3263572
+M&M		-0.3		1624.95		820962
+NESTLEIND		-0.14		2588.85		342953
+ASIANPAINT		0.1		3270.9		279216
 
 Bullish_Hammer_15m_N500								 
 ======================= 
