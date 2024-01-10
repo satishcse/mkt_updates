@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCLIFE		1.33		649.45		1026618
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-0.51		3482.95		83052
+NAVINFLUOR		-0.52		3482.55		83526
+ECLERX		-0.32		2585.25		13754
