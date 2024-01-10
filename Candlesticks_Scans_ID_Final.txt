@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.29		1821.3		3768608
-AXISBANK		-1.0		1105.35		2230834
-EICHERMOT		-1.1		3828.0		320455
-TITAN		0.12		3698.6		231165
+KOTAKBANK		-0.36		1820.1		3770757
+AXISBANK		-1.07		1104.55		2235833
+EICHERMOT		-1.12		3827.0		321221
+TITAN		0.15		3699.45		231713
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-1.51		1278.0		693713
-HEG		-1.18		1791.5		135250
-ECLERX		-0.73		2574.75		18888
+VBL		-1.51		1278.0		694133
+HEG		-1.1		1792.95		137353
+ECLERX		-0.78		2573.35		18961
+SHREECEM		-1.46		26914.8		6882
