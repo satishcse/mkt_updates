@@ -2,15 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-3.47		308.65		8399258
-HINDALCO		-0.38		573.75		1499840
-TECHM		0.18		1237.85		407247
-EICHERMOT		-1.31		3819.7		396214
-BAJAJFINSV		-1.1		1663.9		364782
+HINDUNILVR		-0.18		2575		395102
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DIXON		-1.11		6286.0		103561
-PNBHOUSING		-0.96		780.4		101183
-BRITANNIA		-1.24		5059.0		96531
+
