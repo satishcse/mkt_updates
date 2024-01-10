@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.82		3526.95		828273
-BAJAJFINSV		-1.12		1663.65		341729
+LT		-0.88		3524.5		830210
+BAJAJFINSV		-1.17		1662.85		342162
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NAVINFLUOR		-0.88		3470.0		283668
-SUVENPHAR		-0.64		724.95		33215
+METROPOLIS		-2.98		1608.9		183200
