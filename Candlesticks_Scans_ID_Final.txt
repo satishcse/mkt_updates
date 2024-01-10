@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.6		132.85		4251200
-ADANIPORTS		1.05		1209.65		2218031
-NTPC		-1.64		314.5		1716417
-HEROMOTOCO		-0.05		4110.5		133951
-ULTRACEMCO		-0.22		9877.0		20726
+TATASTEEL		-0.6		132.85		4316236
+ADANIPORTS		1.09		1210.2		2259846
+NTPC		-1.7		314.3		1746409
+HEROMOTOCO		-0.11		4107.85		135797
+ULTRACEMCO		-0.3		9869.2		20925
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RADICO		0.12		1683		39034
+
