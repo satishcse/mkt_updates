@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGCL		-1.75		838		302838
-ENDURANCE		-2.17		2015		139398
-BLUEDART		-0.54		7326		3212
+CGCL		-1.75		838.0		302989
+TATAINVEST		0.47		4286.85		51538
