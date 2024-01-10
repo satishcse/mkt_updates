@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BAJAJFINSV		-1.06		1664.55		350105
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANURAS		-5.01		967.35		171470
+ANURAS		-4.98		967.65		173419
