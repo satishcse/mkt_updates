@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCDOWELL-N		0.62		1103.15		181006
-APARINDS		-1.42		5722.5		18974
-METROBRAND		0.1		1256.0		8770
-MASTEK		-0.32		2690.05		5281
+MCDOWELL-N		0.63		1103.25		182740
+KEI		0.91		3250.05		36829
+APARINDS		-1.41		5722.75		19341
+ERIS		-0.28		912.0		8481
+MASTEK		-0.29		2690.6		5306
