@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-3.44		308.75		8348649
-HINDALCO		-0.36		573.85		1494089
-TECHM		0.14		1237.35		403837
-EICHERMOT		-1.3		3819.95		394731
-BAJAJFINSV		-1.08		1664.35		362898
+NTPC		-3.47		308.65		8386040
+HINDALCO		-0.36		573.85		1497816
+TECHM		0.18		1237.85		406095
+EICHERMOT		-1.34		3818.65		395556
+BAJAJFINSV		-1.12		1663.6		364308
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TEAMLEASE		-0.81		3196.4		139940
-LALPATHLAB		0.18		2491.25		76568
+PNBHOUSING		-1.02		780		101162
+BRITANNIA		-1.24		5059		96371
