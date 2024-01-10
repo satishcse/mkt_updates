@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.52		3709.1		628431
-EICHERMOT		-1.28		3821.05		350098
+TCS		0.51		3708.8		632995
+EICHERMOT		-1.27		3821.15		350501
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLENMARK		-1.87		870.0		844469
-SPARC		-2.49		389.7		389024
-LALPATHLAB		0.35		2495.3		68069
-JKLAKSHMI		-0.49		838.05		42301
-WESTLIFE		-0.38		814.15		32586
+SPARC		-2.46		389.8		390908
+LALPATHLAB		0.39		2496.5		68721
+WESTLIFE		-0.38		814.15		34063
