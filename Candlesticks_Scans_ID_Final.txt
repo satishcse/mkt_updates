@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-2.35		211.55		7522594
-HEROMOTOCO		0.44		4130.65		233884
+ONGC		-2.4		211.45		7536121
+HEROMOTOCO		0.4		4129.05		234802
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KALYANKJIL		-0.99		378.5		1449695
-DALBHARAT		-1.48		2272.5		105170
-APOLLOHOSP		-0.53		5767.15		84651
-ASTRAL		-0.4		1814.9		68640
+ASTRAL		-0.4		1814.9		68836
