@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LTIM		0.7		5950.75		249246
-DRREDDY		0.7		5790.0		230613
+LTIM		0.69		5949.9		251321
+DRREDDY		0.67		5788.2		237122
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGCL		-1.64		838.95		300597
-ENDURANCE		-2.5		2008.2		136597
-TATAINVEST		0.16		4273.85		49821
-SAFARI		-1.5		1885.6		44192
+CGCL		-1.59		839.4		301818
+ENDURANCE		-2.49		2008.35		137271
+TATAINVEST		0.17		4274.2		50131
+SAFARI		-1.43		1887.1		44325
+HONAUT		-2.57		36839.9		3852
+BLUEDART		-0.66		7317.7		3102
