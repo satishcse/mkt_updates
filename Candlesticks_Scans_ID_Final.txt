@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		-2.01		3904.75		310895
-LTIM		0.73		5952.8		240604
-DRREDDY		0.7		5790.05		222128
+DIVISLAB		-2.12		3900.15		316334
+LTIM		0.71		5951.35		242197
+DRREDDY		0.7		5790.0		223118
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VBL		-2.32		1267.5		1388827
+KAJARIACER		-0.25		1371.05		270247
+TATAINVEST		0.19		4275.05		48488
