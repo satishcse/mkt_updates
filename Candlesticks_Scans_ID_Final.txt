@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.46		555.6		1393489
-HINDUNILVR		-0.3		2572.05		362172
-TITAN		0.16		3699.85		293671
+UPL		-0.44		555.7		1394954
+TITAN		0.16		3700.0		294076
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ZYDUSWELL		-0.71		1637.6		11256
