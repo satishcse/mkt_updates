@@ -1,16 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		0.66		1635.85		322694
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EXIDEIND		-0.93		324.2		517421
-JYOTHYLAB		-0.26		509.0		190529
-MEDANTA		-0.48		986.5		34152
-CEATLTD		-0.85		2434.0		34105
-CHOLAHLDNG		0.08		1021.65		18322
-SAFARI		-1.19		1891.65		13641
-ATUL		-0.12		6795.75		7945
+AUROPHARMA		-1.05		1107.8		430229
+JYOTHYLAB		-0.26		509.0		193785
+MEDANTA		-0.43		987.0		34235
+GUJALKALI		-0.87		773.9		28721
+CHOLAHLDNG		0.13		1022.15		18392
+ABBOTINDIA		-0.28		24164.05		2668
 ZFCVINDIA		-0.72		16187.6		289
