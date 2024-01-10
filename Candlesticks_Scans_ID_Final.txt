@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MAPMYINDIA		-0.63		1960.0		23781
-APARINDS		-1.44		5721.0		18524
-MASTEK		-0.46		2686.2		4647
-PGHH		-0.44		17099.95		187
+APARINDS		-1.47		5719.8		18594
+PGHH		-0.26		17130.4		189
