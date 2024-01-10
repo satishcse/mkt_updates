@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BAJAJFINSV		-1.05		1664.85		355258
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANURAS		-5.0		967.45		174926
-UBL		-0.31		1809.3		127238
 ZYDUSWELL		-0.72		1637.5		11554
