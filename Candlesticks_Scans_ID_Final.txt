@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.25		241.7		7552408
-AXISBANK		-1.09		1104.35		2641467
+AXISBANK		-1.04		1104.9		2653053
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+RELAXO		-0.13		893.85		37356
