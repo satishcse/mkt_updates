@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-0.27		5782		59360
+EICHERMOT		-1.34		3818.45		286436
+APOLLOHOSP		-0.41		5773.65		59768
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		-0.49		844.95		161095
-VINATIORGA		-0.76		1718.9		13005
+VINATIORGA		-0.75		1719.15		13036
