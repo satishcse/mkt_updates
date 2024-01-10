@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		-0.31		797.35		2968573
-NESTLEIND		-0.11		2589.75		348207
+ICICIBANK		1.19		991.45		3464648
+TATAMOTORS		-0.36		796.9		2996686
+LT		-0.34		3543.7		642183
+NESTLEIND		-0.12		2589.55		350753
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-0.58		537.7		1436411
-PVRINOX		-1.5		1539.05		364635
-MCX		-0.74		3054.95		163437
-GILLETTE		1.89		6930.05		17651
-MRF		-0.78		130665.55		2552
+MCX		-0.63		3058.3		164369
+GILLETTE		1.8		6923.5		20553
+VMART		-1.65		2122.25		7711
