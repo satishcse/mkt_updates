@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-2.91		210.35		12379605
-ITC		-0.61		461.7		4100014
+ONGC		-2.95		210.25		12404395
+ITC		-0.65		461.55		4107526
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+LUXIND		-0.86		1291.9		52920
