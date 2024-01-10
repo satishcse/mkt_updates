@@ -2,11 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.88		460.45		3537712
-TATACONSUM		-0.34		1107.85		566610
-HINDUNILVR		-0.38		2570.05		416892
+ITC		-0.81		460.8		3552966
+AXISBANK		-1.36		1101.35		3439435
+TATACONSUM		-0.37		1107.55		567803
+HINDUNILVR		-0.39		2569.6		427548
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BOSCHLTD		-0.75		22585		6978
+APLLTD		-0.7		798.0		53872
+BOSCHLTD		-0.75		22585.0		6978
+HONAUT		-1.66		37182.1		1663
