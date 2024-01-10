@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.32		1239.55		388495
-EICHERMOT		-1.32		3819.4		388373
-BAJAJFINSV		-1.04		1664.95		356570
+BPCL		-2.6		448.0		5698221
+TECHM		0.33		1239.7		389243
+EICHERMOT		-1.31		3819.6		388651
+BAJAJFINSV		-1.05		1664.8		357074
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ANURAS		-5.16		965.8		194744
