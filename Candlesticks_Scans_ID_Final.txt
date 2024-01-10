@@ -1,14 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		-3.42		308.8		9099047
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POLYCAB		0.44		4888.7		2250369
-SBILIFE		0.32		1453.95		2016921
-LT		-0.84		3526.25		976625
-GODREJIND		-2.43		827.4		289494
-LALPATHLAB		-0.07		2485.0		85851
+POLYCAB		0.54		4893.55		2265406
