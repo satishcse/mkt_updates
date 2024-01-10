@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-BPCL,-2.65,447.75,5717007
-TECHM,0.32,1239.6,390642
-EICHERMOT,-1.32,3819.5,389625
-BAJAJFINSV,-1.07,1664.5,357879
+BPCL,-2.64,447.8,5730893
+TECHM,0.16,1237.65,395088
+EICHERMOT,-1.31,3819.8,392234
+BAJAJFINSV,-1.15,1663.05,359404
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+DIVISLAB,-2.01,3904.4,182740
+TEAMLEASE,-0.81,3196.4,138998
