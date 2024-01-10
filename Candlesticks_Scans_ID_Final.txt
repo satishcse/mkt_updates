@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IBULHSGFIN		0.07		211.45		1980974
-ALKEM		0.01		5179.2		12214
-TORNTPHARM		-0.11		2335.3		9540
+ADANIPOWER		-0.23		538.5		150383
+BAJAJ-AUTO		0.3		7115.0		120754
+BRIGADE		1.26		957.1		102941
+METROBRAND		0.1		1256.0		8348
 PGHH		-0.44		17099.95		187
