@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		1.11		990.65		3997994
+ICICIBANK		1.04		989.95		4043044
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-1.49		1659.3		350823
-CONCOR		-1.63		871.55		203185
-METROPOLIS		-2.91		1610.2		153333
-INTELLECT		-1.74		809.25		133976
-TEAMLEASE		-0.75		3198.5		131000
+CONCOR		-1.62		871.6		203593
+OFSS		-0.61		4322.45		36560
