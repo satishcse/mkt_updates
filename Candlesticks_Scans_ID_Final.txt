@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-2.35		211.55		7583655
-ASIANPAINT		-0.07		3265.2		241193
-HEROMOTOCO		0.4		4128.85		239026
+ONGC		-2.38		211.5		7595097
+ASIANPAINT		-0.04		3266.1		241407
+HEROMOTOCO		0.41		4129.3		239308
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-0.66		3199.55		74275
+DALBHARAT		-1.18		2279.55		108433
+KEI		-0.7		3198.45		74364
+ALKYLAMINE		-1.99		2498.95		37244
