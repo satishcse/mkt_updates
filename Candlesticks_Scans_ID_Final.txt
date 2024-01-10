@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LT		-0.92		3523.4		823627
-BAJAJFINSV		-1.22		1661.95		339214
+LT		-0.86		3525.45		824708
+BAJAJFINSV		-1.2		1662.25		339549
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+NAVINFLUOR		-0.91		3468.95		283463
+BBTC		-1.09		1568.3		56096
