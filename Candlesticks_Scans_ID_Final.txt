@@ -5,13 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-DELHIVERY		-1.28		416.8		364039
-MAZDOCK		0.23		2304.9		232309
-LODHA		-1.02		1125.3		106450
-ANGELONE		1.33		3809.95		55535
-RAMCOCEM		0.3		977.05		32379
-MEDPLUS		0.32		743.95		14068
-DATAPATTNS		0.02		1978.45		10899
-ROSSARI		-0.54		797.85		8514
-INDIGOPNTS		0.18		1483.3		3213
+
