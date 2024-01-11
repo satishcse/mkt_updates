@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WELCORP		-1.29		544.6		209789
-MPHASIS		0.38		2569.0		109715
-RADICO		-1.49		1660.0		42816
+MPHASIS		0.38		2569.0		113415
+CYIENT		-2.5		2168.35		72110
