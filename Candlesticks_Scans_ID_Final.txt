@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.11		1657.75		5390055
+HDFCBANK		0.12		1658		5400682
+LT		-0.72		3520		520837
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-1.75		1175.8		1581594
+JBCHEPHARM		-0.67		1668.45		14534
