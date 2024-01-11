@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-INDUSINDBK		1.3		1661.55		351156
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TANLA		-0.98		1185.0		680888
-DRREDDY		-2.09		5666.0		242353
-HINDUNILVR		0.0		2577.3		133911
-LINDEINDIA		0.03		5553.35		4203
+DRREDDY		-2.07		5667.3		245916
+LINDEINDIA		-0.1		5545.85		4273
