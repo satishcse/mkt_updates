@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.71		135.05		7913803
-HEROMOTOCO		3.27		4273.25		869982
-NESTLEIND		-0.67		2560.7		245006
+HEROMOTOCO		3.33		4275.95		871028
+NESTLEIND		-0.67		2560.8		245621
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CENTURYTEX		-2.15		1552.9		135526
