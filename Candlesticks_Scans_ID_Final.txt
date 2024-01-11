@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		0.12		212.35		2955265
+TATAMOTORS		0.75		814.5		2842625
+NTPC		1.15		316.95		2427911
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-METROPOLIS		-0.04		1607.7		72835
-ASTRAL		0.22		1815.0		70752
-APARINDS		-1.97		5527.05		60853
-BRITANNIA		0.07		5090.05		24251
+
