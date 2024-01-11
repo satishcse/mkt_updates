@@ -2,13 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.33		3088		829098
-UPL		0.79		563		545088
-TATACONSUM		0.27		1117		290241
+HDFCLIFE		0.44		647.8		618393
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CDSL		-0.88		1845.0		199605
-ASTRAL		0.01		1811.15		122197
-ACC		-0.29		2300.0		53340
+
