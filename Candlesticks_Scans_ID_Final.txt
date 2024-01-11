@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.01		463.35		1710769
-DRREDDY		-1.88		5678.35		320948
+ITC		-0.05		463.05		1729148
+DRREDDY		-1.94		5675.0		321891
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		0.51		2022.5		368368
-ULTRACEMCO		-0.14		9763.0		123757
-ROSSARI		-1.05		793.8		19342
+ULTRACEMCO		-0.04		9771.9		124740
 HONAUT		0.17		36879.7		934
