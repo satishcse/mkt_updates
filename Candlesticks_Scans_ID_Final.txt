@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.11		3094.65		929560
-NESTLEIND		-0.78		2558.0		257254
+ADANIENT		-0.12		3094.4		930118
+HEROMOTOCO		3.33		4275.95		873010
+NESTLEIND		-0.85		2556.3		259073
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ALKYLAMINE		-0.52		2487.65		28094
-HONAUT		0.05		36835.35		2007
+ADANIPOWER		0.31		544.0		322973
+HONAUT		0.05		36834.55		2011
