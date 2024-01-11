@@ -2,16 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIENT		-0.17		3093.0		815837
-UPL		0.81		563.1		421875
+ADANIENT		-0.21		3091.75		817713
+UPL		0.82		563.2		429443
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATGL		-0.1		1067.9		368143
-PHOENIXLTD		-4.01		2468.9		361660
-ASTRAL		-0.04		1810.15		119806
-CEATLTD		0.68		2468.15		109195
-UBL		-0.49		1804.0		25730
-SUNDRMFAST		0.82		1272.75		23257
-SHREECEM		-0.66		26663.7		5884
+PRAJIND		0.2		539.75		121275
+ASTRAL		0.0		1810.9		120037
+CEATLTD		0.76		2470.15		109701
+UBL		-0.49		1804.1		25756
+SHREECEM		-0.6		26679.85		5950
