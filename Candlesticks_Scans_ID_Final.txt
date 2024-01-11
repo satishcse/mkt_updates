@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		3.48		4282.25		959948
+INFY		-1.16		1502.3		4682039
+HEROMOTOCO		3.58		4286.05		960346
+BHARTIARTL		0.62		1069.3		765415
+TECHM		1.12		1254.85		472377
+TITAN		0.21		3722.1		152985
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MEDPLUS		-0.46		738.2		51071
+CONCORDBIO		-3.06		1460.9		49115
