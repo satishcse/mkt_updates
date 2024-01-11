@@ -6,5 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DRREDDY		-2.07		5667.3		245916
-LINDEINDIA		-0.1		5545.85		4273
+DRREDDY		-2.06		5668		247176
