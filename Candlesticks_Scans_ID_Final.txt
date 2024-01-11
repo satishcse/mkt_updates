@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.34		452.05		1969258
-TECHM		1.04		1253.85		481585
-TITAN		0.17		3720.6		158201
-DIVISLAB		0.16		3908.75		99289
+WIPRO		-0.34		452.05		1971304
+TECHM		1.1		1254.55		482130
+TITAN		0.11		3718.5		159025
+DIVISLAB		0.11		3906.8		99554
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CONCORDBIO		-3.03		1461.35		51622
+
