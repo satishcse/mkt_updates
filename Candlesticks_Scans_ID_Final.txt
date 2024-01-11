@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		1.12		1254.85		476317
-TITAN		0.21		3722.25		155686
-DIVISLAB		0.15		3908.55		97973
+TECHM		1.14		1255.0		477303
+TITAN		0.2		3722.0		156116
+DIVISLAB		0.18		3909.5		98174
 
 Bullish_Hammer_15m_N500								 
 ======================= 
