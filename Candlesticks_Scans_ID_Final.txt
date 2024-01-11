@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		0.16		645.95		661605
+HDFCLIFE		0.29		646.85		701574
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		0.1		1725.0		512914
-SONATSOFTW		0.37		708.6		136736
+ICICIBANK		-0.37		989.4		1492553
+GODFRYPHLP		-0.97		2175.0		20536
