@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.66		1206.3		1927373
-ITC		0.06		463.6		1597048
-DRREDDY		-1.78		5684.15		316165
+ADANIPORTS		-0.65		1206.5		1929575
+ITC		0.03		463.45		1604394
+DRREDDY		-1.77		5685.0		316433
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ULTRACEMCO		-0.27		9749.6		116161
+ULTRACEMCO		-0.25		9751.9		116476
