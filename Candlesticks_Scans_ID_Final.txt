@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.42		1209.3		2453373
-LT		-0.72		3519.95		544488
+POWERGRID		0.52		240.4		13326540
+ADANIPORTS		-0.43		1209.1		2455675
+LT		-0.71		3520.5		545669
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		-0.77		776.95		81885
-JBCHEPHARM		-0.88		1664.9		15265
+TATACOMM		-1.03		1700.65		754765
+TEAMLEASE		0.94		3204.3		8286
+BAYERCROP		-1.83		5843.7		8155
