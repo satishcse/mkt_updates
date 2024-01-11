@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-INFY,-1.11,1503.0,5163524
-ITC,-0.04,463.1,2497312
+INFY,-1.11,1503.05,5183953
+ITC,-0.04,463.1,2503101
+SBILIFE,-0.78,1440.2,453945
+BAJAJFINSV,0.27,1676.35,451385
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+PVRINOX,-0.86,1535.95,285332
