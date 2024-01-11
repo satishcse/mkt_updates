@@ -1,16 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCBANK		-0.2		1652.65		1619173
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNCINFRA		1.45		373.4		565091
-ADANIENSOL		0.2		1172.6		212301
-TORNTPOWER		0.0		1021.8		42527
-ACC		0.15		2309.95		28543
-GODFRYPHLP		-0.64		2182.45		11382
-GRINFRA		-0.17		1128.15		7151
-GALAXYSURF		-0.33		2804.0		4256
+ACC		0.14		2309.9		28616
+SHREECEM		-0.39		26738.1		3336
