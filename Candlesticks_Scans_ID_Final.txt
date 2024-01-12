@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.74		240.15		5076445
-BAJFINANCE		-0.33		7644.2		368034
+WIPRO		4.16		466.85		12606338
+POWERGRID		-0.76		240.1		5119466
+AXISBANK		-0.26		1122.8		2249752
+CIPLA		-1.19		1309.9		898819
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JINDALSAW		-0.67		486.55		549871
-FACT		0.04		812.45		137471
-POLYPLEX		0.29		1125.2		70501
+
