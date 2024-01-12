@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LTIM		4.27		6214.4		644013
-BAJFINANCE		0.08		7676.1		523313
-TITAN		-0.81		3668.5		410854
+NTPC		-0.16		312.4		8355670
+LTIM		4.29		6215.45		645756
+BAJFINANCE		0.05		7673.8		526539
+TITAN		-0.78		3669.9		412428
 
 Bullish_Hammer_15m_N500								 
 ======================= 
