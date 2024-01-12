@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		7.36		1604.15		15491892
-TCS		3.88		3880.55		3738333
+INFY		7.52		1606.6		15600736
+TCS		3.87		3880.3		3756749
+SUNPHARMA		0.17		1318.45		586150
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANYAVAR		-1.44		1211.3		31032
-CRAFTSMAN		0.07		4990.0		10193
+BHARATFORG		-2.89		1237.9		679552
+MANYAVAR		-1.4		1211.75		31177
+CRAFTSMAN		0.04		4988.1		10207
