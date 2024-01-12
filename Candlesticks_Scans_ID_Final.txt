@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		4.82		1309.65		4820265
-M&M		-0.21		1625.15		2955783
+TECHM		4.72		1308.35		4880457
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GPIL		-1.21		769.5		233535
-BAJAJHLDNG		0.09		8048.0		8167
-BAYERCROP		-0.87		5799.95		4709
+GPIL		-1.18		769.7		235872
+MANYAVAR		-2.45		1198.8		139580
+RATNAMANI		-1.8		3334.55		39105
+BAYERCROP		-0.91		5797.45		4801
