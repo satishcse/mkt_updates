@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		7.61		1607.95		15768441
-ITC		0.18		463.5		2923040
+INFY		7.61		1607.85		15896448
+ITC		0.12		463.2		2948681
+KOTAKBANK		0.12		1825.0		861748
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-0.92		2235.1		209686
+GNFC		-1.11		768.5		275558
+BOSCHLTD		-0.18		23039.95		5785
