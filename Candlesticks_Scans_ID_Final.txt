@@ -6,8 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COCHINSHIP		-1.43		761.75		1438356
-METROPOLIS		-3.47		1550.0		155198
-TITAN		-0.81		3668.75		114982
-IPCALAB		-0.04		1143.85		84751
-MCX		-0.99		3130.95		75307
+METROPOLIS		-3.05		1556.7		160377
