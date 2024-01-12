@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.97		239.6		6278925
-SUNPHARMA		0.67		1325.05		891315
-TITAN		-0.88		3666.1		402128
+POWERGRID		-0.95		239.65		6300044
+SUNPHARMA		0.73		1325.9		894045
+TITAN		-0.83		3667.8		403105
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-APOLLOHOSP		-1.67		5771.7		144897
+APOLLOHOSP		-1.51		5781.0		145731
+LALPATHLAB		-2.19		2448.9		132483
 LUXIND		0.19		1296.35		29211
