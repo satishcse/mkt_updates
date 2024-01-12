@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-POWERGRID,-0.54,240.65,2381806
-GRASIM,0.36,2091.25,63178
+POWERGRID,-0.62,240.45,2703195
+GRASIM,0.35,2091.0,64007
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CRISIL,-0.38,4091.85,3109
