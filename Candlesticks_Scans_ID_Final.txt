@@ -6,7 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NH		0.66		1279.45		138031
-APARINDS		-2.92		5339.55		56221
-INGERRAND		-0.05		3154.6		1452
-BAYERCROP		-0.18		5840.0		573
+APARINDS		-2.93		5338.95		56511
