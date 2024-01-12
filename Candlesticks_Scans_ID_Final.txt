@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJFINSV		-1.01		1652.35		443755
-TITAN		-0.79		3669.35		225077
+TITAN		-0.79		3669.4		225604
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MCX		-2.57		3081.1		195085
-GODFRYPHLP		-0.53		2207.2		13944
-BAYERCROP		-0.4		5827.65		1737
+GODFRYPHLP		-0.44		2209.2		14158
+BAYERCROP		-0.33		5831.6		1738
