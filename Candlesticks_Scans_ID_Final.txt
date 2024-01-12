@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		3.87		465.55		14462835
-KOTAKBANK		0.63		1834.35		1452186
-SUNPHARMA		0.67		1325.05		877450
-TITAN		-0.79		3669.45		398342
+WIPRO		3.96		465.95		14502804
+KOTAKBANK		0.65		1834.7		1455806
+SUNPHARMA		0.68		1325.15		882394
+TITAN		-0.82		3668.25		399467
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-8.14		1475		1153497
+METROPOLIS		-8.01		1477		1181318
