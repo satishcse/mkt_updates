@@ -1,12 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HINDALCO		0.57		580.25		450323
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-3.52		1549.1		153558
-TITAN		-0.82		3668.35		114364
-LALPATHLAB		-0.82		2483.15		15415
+COCHINSHIP		-1.43		761.75		1438356
+METROPOLIS		-3.47		1550.0		155198
+TITAN		-0.81		3668.75		114982
+IPCALAB		-0.04		1143.85		84751
+MCX		-0.99		3130.95		75307
