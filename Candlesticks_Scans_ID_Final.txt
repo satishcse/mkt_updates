@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.76		240.1		5019383
-DIVISLAB		-0.93		3868.9		174867
+POWERGRID		-0.76		240.1		5031248
+DIVISLAB		-0.92		3869.35		174916
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TATAINVEST		-0.72		4448.2		120664
+
