@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.49		1640.9		8662886
-GUJALKALI		-1.55		778.95		53759
-ROSSARI		-0.73		790.5		42442
+HDFCBANK		-0.49		1641		8742709
