@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		4.27		3895.0		4712957
-BAJAJFINSV		-1.47		1644.65		708347
-GRASIM		0.3		2090.0		107994
+TCS		4.3		3896.25		4718000
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GPIL		-0.26		776.85		88825
