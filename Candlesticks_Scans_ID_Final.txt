@@ -2,10 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.55		2543.25		424962
-TITAN		-0.8		3668.95		205138
+CIPLA		-1.23		1309.35		704988
+NESTLEIND		-0.71		2539.0		432680
+BAJFINANCE		-0.29		7647.8		281951
+TITAN		-0.85		3667.1		206643
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+ABB		-1.39		4804.15		37464
+PAGEIND		-0.22		36737.85		12286
+CRAFTSMAN		0.18		4995.15		8728
+POWERINDIA		-0.44		5950.65		7324
 ZFCVINDIA		-0.06		15892.55		463
