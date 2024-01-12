@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.78		135.95		21605781
-POWERGRID		-0.76		240.1		5404136
-ULTRACEMCO		-0.78		9843.3		167303
+TCS		4.39		3899.4		4678805
+BAJAJFINSV		-1.46		1644.9		696162
+LTIM		3.93		6193.95		550468
+GRASIM		0.31		2090.1		106978
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MAZDOCK		-0.24		2289.25		242364
+
