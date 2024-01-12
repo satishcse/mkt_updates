@@ -1,19 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+JSWSTEEL		0.69		827.7		168225
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-KEI		1.18		3016.0		86406
-NAM-INDIA		0.71		503.8		66182
-IPCALAB		0.75		1152.95		41569
-TEJASNET		0.09		860.1		28377
-360ONE		-0.61		676.2		17093
-AMBER		-0.82		3494.0		8855
-POLYPLEX		0.44		1126.85		5767
-DATAPATTNS		0.6		1985.0		5342
-CARBORUNIV		0.73		1163.5		4333
-BIRLACORPN		0.48		1446.7		1302
-PGHL		0.4		5155.15		988
+
