@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		4.53		221.45		23091920
-NTPC		-0.19		312.3		8581725
-SUNPHARMA		0.67		1325.1		938322
-GRASIM		0.81		2100.65		176965
+ONGC		4.56		221.5		23139756
+NTPC		-0.21		312.25		8596701
+SUNPHARMA		0.67		1325.05		941288
+GRASIM		0.81		2100.6		177393
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DCMSHRIRAM		-1.32		1034.95		68570
