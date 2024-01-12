@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.14		463.3		2957861
-KOTAKBANK		0.14		1825.45		864308
+ITC		0.15		463.35		2974555
+HDFCBANK		0.05		1649.75		2838331
+KOTAKBANK		0.13		1825.25		871706
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BHARATFORG		-2.73		1239.9		687221
+
