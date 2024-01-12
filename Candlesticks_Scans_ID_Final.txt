@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.07		459.0		1537061
-CIPLA		-1.25		1309.05		738584
-TITAN		-1.02		3661.0		233707
+BPCL		-0.07		458.4		1546128
+CIPLA		-1.36		1307.6		744651
+TITAN		-1.12		3657.05		238068
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODFRYPHLP		-0.46		2208.8		14210
-BAYERCROP		-0.35		5830.5		1746
+BAYERCROP		-0.35		5830.6		1750
