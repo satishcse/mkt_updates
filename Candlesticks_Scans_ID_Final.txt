@@ -1,12 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BHARTIARTL		1.23		1075.9		2989164
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ROUTE		0.26		1650.0		156439
-POLYPLEX		-0.08		1121.0		90815
-GUJALKALI		-1.58		778.75		53688
+ROUTE		0.24		1649.65		156658
+CGCL		-0.02		846.9		128107
+GUJALKALI		-1.55		778.95		53757
