@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		7.53		1606.75		15679449
-ITC		0.16		463.4		2906258
+INFY		7.61		1607.9		15731025
+ITC		0.18		463.5		2912968
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GNFC		-1.33		766.8		273162
+TITAN		-1.1		3658.05		265177
+BSE		-1.1		2231.1		207982
+CRAFTSMAN		0.05		4988.95		10379
