@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.76		240.1		4377577
-HDFCBANK		0.02		1649.4		2942077
-KOTAKBANK		0.21		1826.75		894773
-LTIM		3.93		6194.25		499927
+POWERGRID		-0.76		240.1		4403746
+HDFCBANK		0.0		1648.95		2952106
+LTIM		3.87		6190.6		501660
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PIIND		-0.71		3460.8		125097
+PCBL		-0.79		263.05		843330
+CONCORDBIO		-1.88		1443.0		38038
