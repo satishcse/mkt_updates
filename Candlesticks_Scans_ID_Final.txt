@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		2.37		1339.1		4848042
-AXISBANK		-0.04		1119.9		3259890
-UPL		0.65		568.75		953211
+TECHM		2.4		1339.4		4849735
+UPL		0.68		568.95		954674
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+FLUOROCHEM		-1.32		3439.9		32719
