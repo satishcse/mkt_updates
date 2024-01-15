@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-RELIANCE		0.31		2749.9		866450
-ULTRACEMCO		0.66		9873.6		32584
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SYRMA		-0.37		611.7		88033
+SRF		-0.7		2327.55		63913
+SUVENPHAR		-2.74		698.5		53688
