@@ -1,12 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+LTIM		1.33		6319.7		640255
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEG		0.11		1838.9		233935
-LINDEINDIA		-0.11		5535.7		13452
-VMART		-0.37		2080.45		8563
-BAYERCROP		-0.07		5793.3		6090
+PNCINFRA		2.38		387.0		2904733
+JSL		-3.53		589.3		1616250
+RAMCOCEM		-0.98		983.95		649684
+HEG		0.21		1840.65		235224
+RAINBOW		-0.27		1279.7		207360
