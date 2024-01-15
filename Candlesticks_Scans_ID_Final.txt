@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.2		575.05		2040517
-LT		-0.44		3553.2		972753
-BRITANNIA		0.21		5161.9		101097
+HINDALCO		-1.21		575.0		2044541
+LT		-0.41		3554.0		976886
+BRITANNIA		0.13		5157.7		109477
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		0.44		3900.0		2009224
-GMMPFAUDLR		-1.31		1544.15		61570
+TCS		0.44		3899.9		2011568
