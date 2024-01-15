@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-1.21		1144.95		3137281
-UPL		0.66		568.85		914997
+TATACONSUM		-1.24		1144.6		3140792
+UPL		0.69		569.0		919122
+BAJAJFINSV		-0.84		1638.0		503623
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ALKYLAMINE		-1.49		2443.6		33127
+TEAMLEASE		0.3		3207.05		8179
