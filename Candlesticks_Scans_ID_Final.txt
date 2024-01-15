@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LTIM		1.28		6316.6		526998
+BPCL		0.2		459.15		3581360
+TATAMOTORS		-0.32		813.85		3082730
+JSWSTEEL		0.26		827.95		824764
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CGCL		-2.06		828.75		351632
-SAPPHIRE		-1.13		1426.85		89463
+
