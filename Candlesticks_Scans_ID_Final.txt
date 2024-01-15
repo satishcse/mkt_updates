@@ -2,9 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		0.2		459.15		3581360
-TATAMOTORS		-0.32		813.85		3082730
-JSWSTEEL		0.26		827.95		824764
+TATAMOTORS		-0.32		813.85		3089922
 
 Bullish_Hammer_15m_N500								 
 ======================= 
