@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		0.69		241.15		12015892
-COALINDIA		0.84		384.3		6888760
-TCS		0.49		3901.65		2676577
+SBIN		1.01		640.0		15815654
+HDFCLIFE		-3.64		614.4		11635528
+NESTLEIND		-0.04		2548.5		832187
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGCL		-2.89		821.7		544592
-ASAHIINDIA		-1.2		562.6		50730
-SKFINDIA		-0.83		4553.85		38956
+KAYNES		0.9		2760.0		179858
+UTIAMC		-1.36		887.75		120462
+MANKIND		-1.29		2186.35		91898
