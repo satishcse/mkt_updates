@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.67		637.85		9240983
-ITC		0.13		467.3		2657801
-BAJAJFINSV		-0.84		1638.0		455790
-EICHERMOT		-0.93		3834.95		185957
+SBIN		0.66		637.8		9255586
+ITC		0.06		467.0		2663319
+BAJAJFINSV		-0.84		1638.0		456703
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ASIANPAINT		-0.32		3267.45		247194
+
