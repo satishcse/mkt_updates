@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		0.7		1317.15		625958
+CIPLA		0.64		1316.4		628766
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-UTIAMC		-0.83		892.45		111918
+SANOFI		-1.68		8319.95		6924
