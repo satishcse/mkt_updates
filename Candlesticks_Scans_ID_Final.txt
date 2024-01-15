@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LTIM		1.3		6318.1		526441
+LTIM		1.28		6316.6		526998
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CGCL		-2.13		828.15		350133
-SAPPHIRE		-1.28		1424.75		88935
+CGCL		-2.06		828.75		351632
+SAPPHIRE		-1.13		1426.85		89463
