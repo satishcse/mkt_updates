@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-SBIN,0.99,639.9,13872147
+SBIN,1.0,639.95,13879810
+LT,-0.53,3549.8,1280112
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+CREDITACC,-1.93,1670.6,78263
