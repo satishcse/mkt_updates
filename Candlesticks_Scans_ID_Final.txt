@@ -1,12 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-COALINDIA		-0.83		381.15		7242692
-TECHM		4.65		1307.55		4915907
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GILLETTE		-1.75		6805.0		127367
-RATNAMANI		-1.86		3332.5		39644
+ICICIBANK		0.0		1003.5		476600
+GUJGASLTD		1.38		542.0		76542
+GRANULES		0.09		410.1		57949
+CONCOR		0.06		890.2		26218
+JINDALSTEL		0.29		738.05		22132
+TATACHEM		0.47		1117.45		12756
+JBMA		0.69		1892.25		5169
