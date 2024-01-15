@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TITAN		0.96		3761.85		299183
+TITAN		0.93		3760.8		299740
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		0.78		3913		1600751
-LTIM		0.4		6262		428865
+LTIM		0.44		6264.4		430816
