@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.29		2776.9		3089778
-JSWSTEEL		0.26		827.95		1009818
-HEROMOTOCO		-0.3		4369.9		400005
+RELIANCE		1.36		2778.75		3095750
+JSWSTEEL		0.26		827.95		1010843
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GILLETTE		-0.65		6757.45		41386
+GILLETTE		-0.61		6760		41442
