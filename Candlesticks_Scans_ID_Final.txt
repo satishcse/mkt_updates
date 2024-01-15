@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		0.98		3920.95		1526711
-HINDALCO		-1.21		575.0		1021749
-ULTRACEMCO		1.16		9922.55		56067
+HINDALCO		-1.21		575.0		1023903
+ULTRACEMCO		1.17		9922.8		56210
 
 Bullish_Hammer_15m_N500								 
 ======================= 
