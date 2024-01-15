@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.4		311.4		1936144
+NTPC		-0.34		311.6		1940488
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ROUTE		0		1648.6		88274
+MARICO		-0.35		531.05		175604
+ROUTE		0.01		1648.75		88316
