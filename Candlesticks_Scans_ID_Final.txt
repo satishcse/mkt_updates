@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.4		311.4		1922876
+NTPC		-0.35		311.55		1928087
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LTIM		1.11		6306.2		385720
-SUNDARMFIN		-0.19		3702.8		4436
+
