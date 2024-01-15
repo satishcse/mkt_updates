@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ADANIPORTS		-0.35		1202.9		2082374
+DIVISLAB		0.58		3906.55		250358
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ISEC		-1.18		759.15		162870
+MUTHOOTFIN		-0.67		1464.25		149130
 GALAXYSURF		-0.24		2844.85		16907
