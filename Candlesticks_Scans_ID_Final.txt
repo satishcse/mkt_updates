@@ -1,17 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		1.23		226.15		8062884
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSOFT		-0.31		784.3		1478560
-MPHASIS		0.13		2683.15		428336
-AUBANK		-1.17		779.15		375769
-LXCHEM		-0.55		280.45		195739
-IIFL		0.16		650.35		179713
-NAUKRI		-0.06		5305.05		85991
-SUNDARMFIN		0.15		3715.4		2186
-BAYERCROP		0.35		5817.8		1964
+ZOMATO		-3.3		134.95		19011314
+BSOFT		-0.24		784.8		1486092
+MPHASIS		0.15		2683.6		430107
+NAUKRI		-0.11		5302.6		86336
+BAYERCROP		0.34		5817.2		1967
