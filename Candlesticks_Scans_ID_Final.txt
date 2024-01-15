@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		2.36		1338.95		4183933
-ITC		0.18		467.55		2127952
-ULTRACEMCO		1.16		9921.85		58731
+TECHM		2.36		1338.95		4194811
+ULTRACEMCO		1.15		9921.05		59122
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DATAPATTNS		-1.19		1960		28585
+ADANIENT		-0.62		3084.95		550645
+SUVENPHAR		-2.79		698.15		71250
