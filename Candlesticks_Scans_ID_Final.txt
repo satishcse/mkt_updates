@@ -1,12 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCLIFE		-2.75		620.05		4543364
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BSOFT		-0.3		784.35		1509608
-COFORGE		1.41		6685.7		317687
-WELCORP		-0.78		526.2		118455
+
