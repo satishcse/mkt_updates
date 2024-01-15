@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		0.76		638.4		8999076
-ITC		0.25		467.85		2491591
-BAJAJFINSV		-0.84		1637.95		451237
+TATASTEEL		-0.04		135.25		10636058
+SBIN		0.69		638.0		9037263
+ITC		0.23		467.75		2570024
+BAJAJFINSV		-0.86		1637.75		452558
 
 Bullish_Hammer_15m_N500								 
 ======================= 
