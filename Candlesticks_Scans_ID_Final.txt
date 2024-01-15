@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.21		575.0		2057752
-LT		-0.44		3553.2		1024316
-SUNPHARMA		0.95		1338.5		529947
-LTIM		1.4		6324.3		515797
-BRITANNIA		0.31		5166.9		115073
+HINDALCO		-1.21		575.0		2061982
+LT		-0.39		3554.95		1030771
+SUNPHARMA		1.03		1339.55		535848
+LTIM		1.39		6323.6		516547
+BRITANNIA		0.33		5168.0		115213
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TCS		0.44		3900.0		2034666
-BAJAJFINSV		-0.92		1636.7		587438
+TCS		0.44		3900.0		2036556
+BAJFINANCE		-2.02		7505.95		469134
