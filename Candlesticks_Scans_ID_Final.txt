@@ -2,8 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		0.24		827.8		1004317
-HEROMOTOCO		-0.32		4369.2		395999
+BPCL		0.62		461.1		4215269
+JSWSTEEL		0.25		827.9		1004650
+HEROMOTOCO		-0.31		4369.45		396233
 
 Bullish_Hammer_15m_N500								 
 ======================= 
