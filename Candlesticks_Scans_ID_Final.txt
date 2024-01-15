@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		2.55		1341.4		4099631
-HINDALCO		-1.15		575.35		1035974
-TITAN		1.05		3765.0		291877
-ULTRACEMCO		1.2		9926.3		57114
+TECHM		2.37		1339.05		4112683
+ULTRACEMCO		1.16		9922.35		57432
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-0.82		3078.65		533323
+ADANIENT		-0.84		3078		535294
+SUNDARMFIN		-0.24		3701		4775
