@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SYRMA		-0.02		613.85		90606
-SUVENPHAR		-2.78		698.2		56767
-SFL		-0.99		1210.9		12772
-ZYDUSWELL		-0.49		1626.2		6883
+SYRMA		0.09		614.5		91144
+JUBLINGREA		-1.98		489.2		73858
+ZYDUSWELL		-0.45		1626.85		6887
