@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.56		383.25		2022475
-NTPC		-0.4		311.4		1935032
+NTPC		-0.4		311.4		1936144
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MARICO		-0.37		530.95		173468
-ROUTE		0.01		1648.75		88268
+ROUTE		0		1648.6		88274
