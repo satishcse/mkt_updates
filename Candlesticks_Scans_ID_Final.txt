@@ -2,13 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LTIM		1.33		6319.7		640255
+TATASTEEL		-0.22		135.0		33460525
+LTIM		1.28		6317.15		643018
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNCINFRA		2.38		387.0		2904733
-JSL		-3.53		589.3		1616250
-RAMCOCEM		-0.98		983.95		649684
-HEG		0.21		1840.65		235224
-RAINBOW		-0.27		1279.7		207360
+JUSTDIAL		2.39		894.0		2964098
+PNCINFRA		2.38		387.0		2914116
+JSL		-3.54		589.25		1619739
+KIMS		-0.62		1994.6		60526
+LUXIND		-0.16		1294.95		50144
+LINDEINDIA		-0.11		5535.95		13522
