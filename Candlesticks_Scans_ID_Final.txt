@@ -1,16 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-LTIM		3.01		6425		223741
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		0.43		7333.5		83720
-JBMA		-2.53		1831.8		48660
-PRINCEPIPE		0.35		724.95		20097
-CENTURYPLY		0.32		774.4		18224
-ABB		-0.25		4771.95		14493
-GUJALKALI		0.12		780.0		8195
+AMBER		-2.01		3567.0		20749
 SANOFI		-0.05		8458.1		739
