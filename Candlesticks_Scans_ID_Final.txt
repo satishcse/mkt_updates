@@ -1,13 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NESTLEIND		-0.06		2548.05		840729
-LTIM		1.33		6319.9		631718
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAMCOCEM		-0.97		984.05		576843
-GALAXYSURF		-1.26		2815.8		21155
-BAYERCROP		-0.08		5792.85		6067
+HEG		0.11		1838.9		233935
+LINDEINDIA		-0.11		5535.7		13452
+VMART		-0.37		2080.45		8563
+BAYERCROP		-0.07		5793.3		6090
