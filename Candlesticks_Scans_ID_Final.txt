@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.21		2774.6		3160064
+TATACONSUM		-0.87		1148.95		3799875
+LTIM		1.29		6317.6		588213
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GILLETTE		-0.35		6777.7		42232
-PGHL		0.01		5211.05		28927
+
