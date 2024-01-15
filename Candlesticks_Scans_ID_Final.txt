@@ -2,16 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		1.12		225.9		7823112
+ONGC		1.12		225.9		7845104
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSOFT		-0.28		784.5		1435202
-NAUKRI		0.02		5309.45		81861
-GESHIP		-0.43		956.5		68679
-MASTEK		-0.23		2860.9		41849
-HOMEFIRST		-0.95		965.6		31872
-RAMCOCEM		-0.91		984.6		31334
-SFL		-0.5		1216.85		9603
+MPHASIS		0.14		2683.3		415224
+AUBANK		-1.13		779.45		365927
+NAUKRI		-0.04		5306.15		82755
+GESHIP		-0.38		956.95		69419
+MASTEK		-0.19		2862.05		41936
+RAMCOCEM		-0.91		984.6		31362
+SFL		-0.42		1217.85		9656
+CRISIL		-0.12		4085.1		5897
 BAYERCROP		0.34		5816.95		1930
