@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HEROMOTOCO		-0.84		4346.55		321027
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRINCEPIPE		-1.07		714.7		74012
-GALAXYSURF		-0.31		2843.0		16828
+PRINCEPIPE		-1.03		715		74815
