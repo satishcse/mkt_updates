@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-1.23		574.9		1016423
-EICHERMOT		-1.08		3828.95		155981
-ULTRACEMCO		1.18		9924.25		54101
+TCS		0.98		3920.95		1526711
+HINDALCO		-1.21		575.0		1021749
+ULTRACEMCO		1.16		9922.55		56067
 
 Bullish_Hammer_15m_N500								 
 ======================= 
