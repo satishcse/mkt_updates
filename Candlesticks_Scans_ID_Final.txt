@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SUNPHARMA		0.57		1333.45		761771
+WIPRO		7.01		498.1		56169630
+TATASTEEL		-0.7		134.35		26175097
+SBIN		0.99		639.9		13778262
+ITC		0.12		467.25		4613904
+KOTAKBANK		0.75		1846.95		4176775
+TATAMOTORS		-0.42		813.05		3648544
+RELIANCE		1.18		2773.9		2740312
+TCS		0.28		3893.55		2295515
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-BSE		-0.18		2233.15		1041558
-GALAXYSURF		-0.37		2841.3		17479
+
