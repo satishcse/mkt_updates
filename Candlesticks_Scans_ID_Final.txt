@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-LTIM		2.88		6416.45		200467
+LTIM		3.05		6427.35		203547
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATGL		-0.45		1053.7		200571
-AMBER		-1.59		3582.0		18725
-DCMSHRIRAM		0.06		1037.65		9337
+ANGELONE		-0.06		3793.0		47828
+JBMA		-2.29		1836.3		44765
+TATAINVEST		-0.92		4383.85		21131
