@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0		1672.75		8105345
+HDFCBANK		-0.07		1671.7		8163294
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		-1.59		3937.85		240403
-TEJASNET		-0.82		850.3		133965
-AETHER		-1.37		869.7		58173
-SUNDARMFIN		-0.57		3619.5		14305
+TIINDIA		-1.66		3935.0		240529
+AETHER		-1.38		869.6		58306
