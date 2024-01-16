@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-LTIM		1.27		6315.95		644913
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-USHAMART		-3.95		307.8		883200
-RAINBOW		-0.15		1281.3		208466
-SAFARI		-1.02		1884.85		124803
+JINDALSAW		-0.48		512.55		505191
