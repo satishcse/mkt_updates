@@ -2,9 +2,16 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-NTPC,-1.76,311.7,9579396
-POWERGRID,-0.87,239.05,6906222
+NTPC,-1.76,311.7,9629923
+POWERGRID,-0.87,239.05,6951167
+LT,0.9,3575.1,1699188
+EICHERMOT,-0.94,3796.2,508003
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+QUESS,-2.06,508.6,269379
+LTTS,-1.85,5344.0,227661
+BRITANNIA,-1.01,5125.2,191657
+DATAPATTNS,-1.66,1925.8,100953
+ECLERX,-1.61,2752.8,54834
