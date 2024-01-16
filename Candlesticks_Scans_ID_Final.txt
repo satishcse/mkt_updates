@@ -2,13 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-0.28		3892.9		511785
+POWERGRID		-0.15		240.8		2135703
+TCS		-0.28		3892.85		515798
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-1.37		2447.0		107137
-FINCABLES		0.51		1073.5		54664
-KSB		-0.9		3393.7		12149
-SUNDARMFIN		-0.56		3619.65		6723
-GILLETTE		-1.13		6685.0		5005
+GILLETTE		-1.08		6689		5097
