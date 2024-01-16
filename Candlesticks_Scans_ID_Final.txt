@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		-0.04		233.4		25914549
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		-0.68		2830.7		237092
+CAMS		-0.44		2837.3		238219
 3MINDIA		-0.95		34185.05		1086
