@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.27		612.8		5189357
-TATAMOTORS		1.12		821.55		4809719
-ITC		0.28		468.9		3822196
-POWERGRID		-0.29		240.45		2610480
-CIPLA		-0.2		1310.5		201192
-APOLLOHOSP		0.66		5935.05		153207
+HDFCLIFE		-0.3		612.6		5205355
+TATAMOTORS		1.13		821.65		4822199
+ITC		0.28		468.9		3833654
+CIPLA		-0.25		1309.85		202265
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLENMARK		-1.98		892.45		568067
+CRISIL		-0.22		4081.7		4208
