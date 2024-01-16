@@ -1,11 +1,15 @@
 
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
-
+nsecode,per_chg,close,volume
+HDFCLIFE,-0.27,612.8,5189357
+TATAMOTORS,1.12,821.55,4809719
+ITC,0.28,468.9,3822196
+POWERGRID,-0.29,240.45,2610480
+CIPLA,-0.2,1310.5,201192
+APOLLOHOSP,0.66,5935.05,153207
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-OBEROIRLTY,-1.65,1544.25,254027
-GLAXO,-0.43,2249.4,121734
-SUNDARMFIN,-0.55,3619.95,8918
+GLENMARK,-1.98,892.45,568067
