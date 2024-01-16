@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TCS		-0.27		3893.3		502835
+TCS		-0.28		3892.95		508245
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KSB		-0.9		3393.65		12053
-GILLETTE		-1.15		6683.9		4969
-PFIZER		-0.89		4321.8		3224
+KSB		-0.94		3392.3		12145
+SUNDARMFIN		-0.56		3619.65		6718
+GILLETTE		-1.13		6685.0		4995
