@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CUMMINSIND		-1.04		2024.45		71656
-PGHH		-0.56		17172.0		1491
+CUMMINSIND		-1.01		2025		71752
+KAYNES		-0.3		2755		25998
+PGHH		-0.56		17172		1491
