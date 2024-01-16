@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.01		1010.0		9071660
-ITC		-0.28		466.3		6038547
+ICICIBANK		0.02		1010.05		9085480
+ITC		-0.24		466.5		6051569
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+PVRINOX		-0.48		1506.0		505330
+HOMEFIRST		-1.09		955.25		63481
+BIRLACORPN		-1.16		1435.95		43327
+GRINDWELL		-1.14		2274.5		28201
