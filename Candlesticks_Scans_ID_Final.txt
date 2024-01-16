@@ -6,4 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATACOMM		-0.31		1747.55		244456
+PFC		-0.6		407.05		4299663
+TATACOMM		-0.31		1747.5		245243
+MGL		-0.04		1260.0		92123
+KSB		-0.38		3411.3		10487
