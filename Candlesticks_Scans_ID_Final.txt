@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.3		612.6		5205355
-TATAMOTORS		1.13		821.65		4822199
-ITC		0.28		468.9		3833654
-CIPLA		-0.25		1309.85		202265
+HDFCLIFE		-0.4		612.0		5243765
+ITC		0.28		468.9		3874544
+BHARTIARTL		0.16		1104.15		1925479
+CIPLA		-0.3		1309.2		205557
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CRISIL		-0.22		4081.7		4208
+
