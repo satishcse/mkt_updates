@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		0.08		384.95		1377952
-SUNPHARMA		-0.82		1318.4		84855
+COALINDIA		0.04		384.8		1384448
+SUNPHARMA		-0.82		1318.5		86189
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GLAXO		-0.27		2253		59609
+GLENMARK		-1.34		898.25		294677
+PATANJALI		0.13		1638.05		114096
+GLAXO		-0.19		2254.8		59882
