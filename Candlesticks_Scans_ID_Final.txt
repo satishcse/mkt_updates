@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		0.96		10183.55		105992
+COALINDIA		0.07		384.9		1256328
+MARUTI		0.99		10186.9		106819
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		0.12		1638.0		106495
+GLENMARK		-1.31		898.55		232758
 SFL		-0.36		1214.8		6004
