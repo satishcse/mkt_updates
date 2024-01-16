@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.5		821.0		818526
-CIPLA		-0.5		1306.65		629826
-GRASIM		-0.39		2092.8		112465
+JSWSTEEL		-0.6		820.2		871748
+CIPLA		-0.89		1301.5		672376
+GRASIM		-0.45		2091.5		115037
 
 Bullish_Hammer_15m_N500								 
 ======================= 
