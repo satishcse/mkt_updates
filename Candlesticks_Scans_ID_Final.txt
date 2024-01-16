@@ -1,11 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SBIN		0.24		641.65		8363435
-NTPC		-1.7		311.9		5006054
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SBILIFE		-1		1415.75		1016174
+
