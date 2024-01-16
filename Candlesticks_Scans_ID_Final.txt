@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BRITANNIA		0.48		5202.45		25308
+BRITANNIA		0.44		5199.95		25639
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OBEROIRLTY		-0.99		1554.65		132868
+GODREJCP		-1.32		1119.05		348781
+OBEROIRLTY		-0.99		1554.6		133013
