@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-0.21		1632.1		566914
-UPL		-0.16		566.85		541928
-APOLLOHOSP		0.74		5940.0		140214
+M&M		-0.25		1631.5		581947
+UPL		-0.19		566.65		547547
+APOLLOHOSP		0.75		5940.7		140351
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		0.18		3036.0		1001146
-PHOENIXLTD		-1.66		2439.7		118947
-SFL		-0.87		1208.65		18308
+HAL		0.13		3034.55		1005666
+SFL		-0.87		1208.65		18318
