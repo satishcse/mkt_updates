@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		3.02		473.85		18822707
-TATACONSUM		-0.4		1146.15		1156822
-HINDUNILVR		0.26		2579.95		1100843
-TITAN		1.8		3826.5		1035698
+BPCL		2.87		473.15		18959766
+TATACONSUM		-0.27		1147.75		1162754
+TITAN		1.85		3828.35		1041973
+MARUTI		0.91		10178.6		450476
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+INFY		-1.05		1634.75		4959301
