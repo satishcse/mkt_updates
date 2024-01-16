@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BRITANNIA		0.05		5180		82731
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CUMMINSIND		-1.02		2024.95		73408
-AIAENG		-0.71		3682.3		13658
+ATUL		-0.97		6802.6		6524
