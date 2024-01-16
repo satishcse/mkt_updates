@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.86		235.5		29197457
-ICICIBANK		0.14		1011.3		8893124
-JSWSTEEL		1.44		837.0		1355163
+ONGC		0.92		235.65		29257795
+ICICIBANK		0.12		1011.05		8904794
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-GRINDWELL		-1.24		2272.3		27707
+
