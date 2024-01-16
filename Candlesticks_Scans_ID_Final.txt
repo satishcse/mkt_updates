@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-0.49		611.45		5347039
-ITC		0.12		468.15		3912380
-BHARTIARTL		-0.08		1101.5		1950625
-CIPLA		-0.35		1308.6		209064
+HDFCLIFE		-0.55		611.1		5371272
+ITC		0.14		468.25		3958954
+BHARTIARTL		-0.15		1100.75		1968602
+CIPLA		-0.32		1309.0		210389
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BAJAJ-AUTO		-0.38		7304.45		133032
