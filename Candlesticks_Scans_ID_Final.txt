@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		1.24		822.5		5160392
-BAJFINANCE		0.57		7520.4		646208
+BAJFINANCE		0.59		7521.9		648781
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATUL		-0.5		6835.5		5144
+CGPOWER		-0.93		453.5		459166
