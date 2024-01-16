@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.54		312.4		7341839
-CIPLA		-0.8		1302.65		719952
+NTPC		-1.62		312.15		7373542
+CIPLA		-0.82		1302.35		721177
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LALPATHLAB		-2.25		2428.8		88002
+INDIGOPNTS		-0.5		1497.95		789935
+LALPATHLAB		-2.28		2428.1		88506
