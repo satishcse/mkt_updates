@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		-0.87		239.05		7045765
+POWERGRID		-0.87		239.05		7105117
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-QUESS		-2.0		508.9		273543
-LTTS		-1.83		5344.95		231857
-BRITANNIA		-0.99		5126.1		193943
-POLYPLEX		-1.39		1096.2		94980
-CARBORUNIV		-2.24		1158.8		80830
+QUESS		-2.01		508.85		275273
+KAJARIACER		-0.66		1397.1		165672
+DATAPATTNS		-1.72		1924.7		103123
+POLYPLEX		-1.39		1096.2		95173
