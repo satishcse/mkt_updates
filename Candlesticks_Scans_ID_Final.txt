@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BRITANNIA		0.05		5180		82731
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATUL		-0.97		6802.6		6524
+BLUESTARCO		0.51		1067.8		263314
+GODREJPROP		-1.12		2285.45		211675
+TRENT		-1.23		3154.05		206417
