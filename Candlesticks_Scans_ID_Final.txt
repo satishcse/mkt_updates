@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-2.19		134.25		19562036
-HDFCLIFE		0.58		614.8		3492767
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JBCHEPHARM		-1.16		1639.65		41178
+TEAMLEASE		-0.24		3169.95		10247
