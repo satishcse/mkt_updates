@@ -1,11 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+UPL		-2.28		551.65		4374643
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		-8.22		1541.05		78571775
-PATANJALI		-1.89		1569.65		1106128
-AAVAS		-2.35		1531.95		535831
+HDFCBANK		-8.17		1542.0		78976352
+PATANJALI		-1.88		1569.85		1106568
+AAVAS		-2.36		1531.85		536205
+BBTC		-3.45		1591.85		159889
