@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-2.49		983.95		27883737
-ULTRACEMCO		-1.21		9848.65		143683
+ICICIBANK		-2.54		983.45		28048155
+M&M		-0.94		1605.05		1678318
+NESTLEIND		-0.49		2529.5		386437
+ULTRACEMCO		-1.29		9841.0		144470
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-EPIGRAL		-1.89		1003.0		35525
-ZYDUSWELL		-1.4		1620.35		11285
+JINDALSAW		0.16		520.0		3172310
+EPIGRAL		-1.9		1002.9		35870
