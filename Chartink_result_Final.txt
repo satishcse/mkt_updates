@@ -10,13 +10,14 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-ICICIGI		6.61		1465.05		4187282
-ITC		-0.7		469.0		7302055
-ULTRACEMCO		-1.29		9840.9		138273
+ICICIGI		6.69		1466.1		4191739
+ITC		-0.68		469.1		7309259
+ULTRACEMCO		-1.25		9844.95		138752
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SRF		-1.03		2333.95		119776
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -25,20 +26,20 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-PIIND		-0.72		3455.95		120191
-GRANULES		-1.37		422.1		913065
-DRREDDY		-1.39		5677.85		241579
-DABUR		-1.75		549.0		1180355
-JSWSTEEL		-2.04		815.35		829931
-PIDILITIND		-2.23		2733.1		435386
-FEDERALBNK		-3.04		145.15		33444521
-JINDALSTEL		-3.47		723.75		1983222
-SAIL		-4.22		114.5		39078690
+PIIND		-0.72		3456.25		120428
+GRANULES		-1.36		422.15		913613
+DRREDDY		-1.39		5678.25		241776
+DABUR		-1.81		548.7		1182365
+JSWSTEEL		-2.0		815.65		831626
+PIDILITIND		-2.23		2733.1		435853
+FEDERALBNK		-3.07		145.1		33482048
+JINDALSTEL		-3.53		723.25		1989392
+SAIL		-4.22		114.5		39112750
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-ICICIGI		6.61		1465.05		4187282
-LTTS		2.51		5483.9		693383
-BSOFT		1.94		795.8		1754151
-INFY		0.48		1639.3		6446728
+ICICIGI		6.69		1466.1		4191739
+LTTS		2.47		5482.1		694125
+BSOFT		2.02		796.4		1762788
+INFY		0.52		1640.0		6461977
