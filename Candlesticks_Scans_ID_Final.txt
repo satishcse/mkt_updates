@@ -1,7 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+WIPRO		-0.25		483.8		9658913
+POWERGRID		0.27		239.7		6880754
+TCS		0.48		3879.95		2155681
+CIPLA		-0.88		1290.85		1363095
 
 Bullish_Hammer_15m_N500								 
 ======================= 
