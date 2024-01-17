@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUROPHARMA		-2.33		1092.75		2203201
-CHOLAHLDNG		-0.51		1016.0		65413
-ZYDUSWELL		-1.83		1613.3		15509
+CHOLAHLDNG		-0.52		1015.95		65474
