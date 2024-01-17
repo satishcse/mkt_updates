@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.02		235.15		11417999
-WIPRO		-0.13		484.35		5575235
-COALINDIA		0.34		383.2		3990741
+BAJAJ-AUTO		-2.1		7141		325294
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AUBANK		-2.89		753.1		1958670
+ULTRACEMCO		-0.7		9900		73560
