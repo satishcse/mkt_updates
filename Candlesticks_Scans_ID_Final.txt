@@ -1,19 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ONGC		0.02		235.15		11417999
+WIPRO		-0.13		484.35		5575235
+COALINDIA		0.34		383.2		3990741
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IIFL		-2.3		646.0		913698
-GPIL		-2.46		757.8		349762
-BRITANNIA		-1.07		5122.0		202987
-AFFLE		-1.17		1289.0		163369
-BALKRISIND		-2.73		2606.05		145452
-DATAPATTNS		-1.7		1925.0		110445
-POLYPLEX		-1.4		1096.0		96511
-POWERINDIA		0.33		5920.0		63176
-ECLERX		-1.35		2760.0		60391
-SCHAEFFLER		-2.04		3319.75		35801
-ZYDUSWELL		0.33		1648.0		14519
+AUBANK		-2.89		753.1		1958670
