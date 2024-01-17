@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-1.76		625.7		29405777
-COALINDIA		-0.52		379.9		10791775
+SBIN		-1.74		625.85		29514850
+COALINDIA		-0.58		379.7		10807536
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DALBHARAT		-2.96		2191.55		336799
-VARROC		-2.44		541.3		150169
-CLEAN		-1.95		1475.1		110476
+SUVENPHAR		-3.49		670.05		131300
+CLEAN		-1.96		1475.05		110890
+CONCORDBIO		-3.12		1388.7		70218
