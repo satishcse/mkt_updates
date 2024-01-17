@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-2.0		134.5		18602998
+LT		0.54		3592.95		1091813
+HEROMOTOCO		0.49		4405.95		230134
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SUNDARMFIN		-1.16		3584.65		12075
-GILLETTE		-1.07		6535.0		3799
+
