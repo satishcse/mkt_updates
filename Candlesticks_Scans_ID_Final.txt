@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		0.79		1644.5		5663454
+INFY		0.81		1644.8		5675045
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ACC		-0.76		2276.9		175501
-SHREECEM		-1.95		26555.0		30286
+ACC		-0.85		2274.95		175615
+SHREECEM		-1.95		26555.0		30290
+LINDEINDIA		-1.14		5489.3		9427
