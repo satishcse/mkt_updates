@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-2.52		983.65		30490995
-COALINDIA		-0.47		380.1		8297949
-POWERGRID		0.21		239.55		7876842
-RELIANCE		-0.72		2729.4		4311964
+COALINDIA		-0.47		380.1		8301847
+RELIANCE		-0.7		2729.95		4317853
 
 Bullish_Hammer_15m_N500								 
 ======================= 
