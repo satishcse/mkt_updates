@@ -14,27 +14,29 @@ Intraday_Buy_PSAR
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-DELTACORP		-1.26		144.5		1593859
+DELTACORP		-1.09		144.75		1596327
+MUTHOOTFIN		-1.87		1390.55		337407
+INDIAMART		-2.15		2545.0		186805
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-DELTACORP		-1.26		144.5		1593859
+DELTACORP		-1.09		144.75		1596327
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-0.35		2553.9		560007
-SBICARD		-0.39		749.3		919276
-VOLTAS		-1.36		1038.4		1057205
-CONCOR		-1.37		838.5		1635833
-ASIANPAINT		-2.26		3169.15		1389823
-MPHASIS		-3.52		2534.5		436349
+SBICARD		-0.4		749.2		922217
+HINDUNILVR		-0.45		2551.45		564292
+CONCOR		-1.28		839.25		1641252
+VOLTAS		-1.47		1037.2		1059403
+ASIANPAINT		-2.35		3166.25		1391905
+MPHASIS		-3.61		2532.2		436415
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-OFSS		20.91		6149.85		2991708
-AARTIIND		5.15		613.05		8132478
-AXISBANK		1.84		1102.25		7041625
-BHARTIARTL		0.43		1089.9		2382421
+OFSS		20.72		6140.0		2995991
+AARTIIND		4.9		611.6		8141536
+AXISBANK		1.82		1102.05		7064754
+BHARTIARTL		0.42		1089.85		2388698
