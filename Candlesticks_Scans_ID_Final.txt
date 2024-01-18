@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HINDALCO		-0.83		555.6		3731827
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CHALET		-0.55		720.4		299874
+MAXHEALTH		-3.46		706.55		6861421
+JBCHEPHARM		-2.8		1597.7		112543
