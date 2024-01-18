@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.18		465.75		8688230
+ITC		-0.14		465.95		8772586
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-1.0		3299.9		449566
-KSB		-3.18		3260.3		65531
+JBCHEPHARM		-2.86		1596.8		109438
