@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.12		2719.9		2575517
-INDUSINDBK		-1.85		1613.5		1491932
-DRREDDY		-0.12		5642.9		173604
-ULTRACEMCO		0.1		9864.25		147269
+TATAMOTORS		0.89		812.7		6888141
+INDUSINDBK		-1.89		1612.9		1497798
+NESTLEIND		-0.93		2519.5		355707
+HEROMOTOCO		0.69		4400.9		314741
+DRREDDY		-0.13		5642.7		173876
 
 Bullish_Hammer_15m_N500								 
 ======================= 
