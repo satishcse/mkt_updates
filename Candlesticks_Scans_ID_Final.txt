@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.89		812.7		6888141
-INDUSINDBK		-1.89		1612.9		1497798
-NESTLEIND		-0.93		2519.5		355707
-HEROMOTOCO		0.69		4400.9		314741
-DRREDDY		-0.13		5642.7		173876
+TATAMOTORS		0.89		812.75		6896660
+INDUSINDBK		-1.95		1611.9		1500455
+NESTLEIND		-0.92		2519.75		356407
+HEROMOTOCO		0.67		4399.95		315339
+DRREDDY		-0.12		5643.0		175611
 
 Bullish_Hammer_15m_N500								 
 ======================= 
