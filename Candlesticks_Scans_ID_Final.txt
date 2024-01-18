@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-0.7		1564.8		2058877
-TCS		-0.05		3882.7		1260752
-BRITANNIA		-0.04		5059.5		357197
+HCLTECH		-0.75		1564.05		2062035
+TCS		-0.04		3883.05		1264105
+BRITANNIA		-0.03		5060.0		357633
 
 Bullish_Hammer_15m_N500								 
 ======================= 
