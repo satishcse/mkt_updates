@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HEROMOTOCO		0.55		4394.7		366435
+HCLTECH		-0.67		1565.35		2053498
+LT		1.03		3607.8		1303951
+TCS		0.01		3885.0		1257867
+BRITANNIA		0.14		5068.85		353968
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KSB		-2.44		3285.05		40554
+NAVINFLUOR		-1.61		3390.55		138288
