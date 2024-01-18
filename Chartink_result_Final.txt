@@ -14,27 +14,30 @@ Intraday_Buy_PSAR
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BANKNIFTY		0.08		46101.25		0
-NIFTY		-0.28		21510.8		0
+ONGC		0.19		232.5		11555052
+SBILIFE		0.18		1423.7		1700067
+MUTHOOTFIN		-1.62		1394.0		326616
+SIEMENS		-0.82		4073.25		111131
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+SBILIFE		0.18		1423.7		1700067
 
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-SBICARD		-0.2		750.7		906742
-HINDUNILVR		-0.32		2554.6		540226
-CONCOR		-0.71		844.1		1611049
-VOLTAS		-1.2		1040.05		1021089
-ASIANPAINT		-2.06		3175.55		1358481
-MPHASIS		-3.45		2536.3		432892
+SBICARD		-0.17		750.9		907373
+HINDUNILVR		-0.38		2553.05		541440
+CONCOR		-0.78		843.5		1618457
+VOLTAS		-1.16		1040.45		1026880
+ASIANPAINT		-2.06		3175.45		1361886
+MPHASIS		-3.31		2539.95		432991
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-OFSS		20.38		6123.0		2955098
-AARTIIND		5.03		612.4		8005368
-AXISBANK		2.02		1104.15		6921861
-BHARTIARTL		0.4		1089.55		2358628
+OFSS		20.58		6133.0		2957374
+AARTIIND		5.22		613.5		8010807
+AXISBANK		2.08		1104.85		6939289
+BHARTIARTL		0.41		1089.75		2362954
