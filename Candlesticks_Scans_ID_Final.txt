@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-0.78		1563.65		2065416
-TCS		-0.04		3883.2		1265292
-BRITANNIA		-0.04		5059.9		358133
+SBIN		0.45		628.8		9325105
+RELIANCE		-0.13		2719.7		3095209
+HCLTECH		-0.69		1565.05		2068972
+TCS		0.03		3885.8		1269721
+BRITANNIA		0.08		5065.85		359849
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-NAVINFLUOR		-1.54		3393		139789
+
