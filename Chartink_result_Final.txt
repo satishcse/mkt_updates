@@ -10,12 +10,14 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-CANFINHOME		2.34		782		731873
+CANFINHOME		2.29		781.6		733059
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-GUJGASLTD		-0.02		555.05		2345454
+HDFCBANK		-3.45		1484.5		54632766
+GUJGASLTD		0.0		555.15		2345725
+LUPIN		1.26		1417.4		645953
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -24,17 +26,17 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-SBICARD		-0.29		750.05		1124520
-HINDUNILVR		-0.6		2547.45		798876
-VOLTAS		-1.73		1034.45		1318234
-CONCOR		-1.78		835.05		1873277
-ASIANPAINT		-2.21		3170.75		1537164
-MPHASIS		-4.54		2507.7		526731
+SBICARD		-0.23		750.5		1128581
+HINDUNILVR		-0.63		2546.75		800533
+CONCOR		-1.72		835.5		1874841
+VOLTAS		-1.88		1032.95		1321231
+ASIANPAINT		-2.22		3170.45		1537904
+MPHASIS		-4.75		2502.2		528524
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-OFSS		23.02		6257.0		3342404
-AARTIIND		4.63		610.05		8506818
-AXISBANK		1.1		1094.25		8766038
-BHARTIARTL		0.43		1089.9		2848312
+OFSS		22.95		6253.5		3347179
+AARTIIND		4.64		610.1		8513928
+AXISBANK		1.15		1094.8		8780911
+BHARTIARTL		0.44		1090.0		2856333
