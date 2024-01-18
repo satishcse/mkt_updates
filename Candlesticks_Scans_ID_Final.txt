@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		-0.23		1572.2		2526829
-JSWSTEEL		-0.9		805.3		1683726
+HCLTECH		-0.32		1570.8		2535941
+JSWSTEEL		-0.96		804.85		1692696
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+JBCHEPHARM		-0.96		1628.05		86031
