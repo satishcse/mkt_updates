@@ -2,9 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.42		238.75		4427247
+POWERGRID		1.42		238.75		4430016
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-CANFINHOME		-1.99		778.35		1392744
+
