@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.06		471.8		1835421
-BAJAJFINSV		-0.7		1589.25		228696
-SUNPHARMA		-0.27		1332.05		151114
+ITC		0.01		471.55		1839060
+BAJAJFINSV		-0.66		1590.0		228752
+SUNPHARMA		-0.25		1332.25		151310
+GRASIM		-0.3		2075.05		52106
 
 Bullish_Hammer_15m_N500								 
 ======================= 
