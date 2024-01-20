@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.21		563.85		1197818
+HINDALCO		1.17		563.6		1200052
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAJARIACER		-0.69		1379.95		14523
+KAJARIACER		-0.7		1379.9		14524
