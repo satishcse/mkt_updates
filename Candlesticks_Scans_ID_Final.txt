@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.17		554.35		578922
-APOLLOHOSP		1.12		6162.7		180054
-GRASIM		-0.14		2078.2		65762
+UPL		0.14		554.2		580597
+APOLLOHOSP		1.12		6162.75		180209
+GRASIM		-0.19		2077.35		65872
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAYNES		-0.93		2708		12876
+HAVELLS		-0.07		1380.95		109435
