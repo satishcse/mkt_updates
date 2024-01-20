@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.15		626.8		3998302
-ITC		0.17		472.3		1747310
+SBIN		-0.35		625.55		4142593
+ITC		0.06		471.8		1756394
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-AFFLE		-1.27		1249.15		61474
-HOMEFIRST		-1.48		994.25		43735
-APARINDS		-0.16		5398.0		11758
+
