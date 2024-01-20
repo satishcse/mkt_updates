@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.08		241.85		10069233
-APOLLOHOSP		1.24		6170.0		179231
+TATASTEEL		0.48		134.9		11505621
+ONGC		-0.25		241.45		10092996
+APOLLOHOSP		1.16		6165.6		179388
+GRASIM		-0.1		2079.15		61921
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
+RAINBOW		-0.19		1260.7		14507
 GRINDWELL		-0.18		2290.95		6005
+SUNDARMFIN		-0.72		3562.05		4819
