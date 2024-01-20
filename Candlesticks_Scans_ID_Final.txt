@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		1.51		238.95		4483317
-CIPLA		-0.32		1323.7		209130
+POWERGRID		1.44		238.8		4489247
+CIPLA		-0.28		1324.25		209522
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEI		-2.39		3038.3		85116
+CANFINHOME		-1.61		781.4		1550485
+KEI		-2.44		3036.85		85538
 CRISIL		-1.02		4032.4		8432
