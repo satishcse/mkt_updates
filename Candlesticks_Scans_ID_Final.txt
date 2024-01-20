@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-1.29		1541		1773492
+INDUSINDBK		-1.24		1541.8		1777845
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SFL		-1.67		1149.0		19101
-SKFINDIA		0.0		4637.35		2635
+GRASIM		-0.32		2074.5		45289
+SFL		-1.68		1148.85		19138
+SKFINDIA		-0.01		4636.7		2637
