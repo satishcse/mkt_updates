@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		0.81		310.95		7502436
-ITC		-0.01		471.45		1866642
-HINDUNILVR		-3.14		2484.9		1612188
-BAJAJFINSV		-0.66		1590.0		234548
-SUNPHARMA		-0.34		1331.0		152065
-GRASIM		-0.29		2075.1		53326
+NTPC		0.81		310.95		7510954
+ITC		-0.03		471.35		1867783
+HINDUNILVR		-3.13		2485.0		1613693
+BAJAJFINSV		-0.69		1589.4		234857
+SUNPHARMA		-0.35		1330.9		152256
+GRASIM		-0.26		2075.85		53395
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-0.78		6052.6		119435
-MASTEK		-3.19		2819.85		29817
+DIXON		-0.81		6051.0		120074
+MASTEK		-3.19		2819.95		30392
