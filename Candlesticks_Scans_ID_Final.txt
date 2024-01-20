@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		0.14		554.2		580597
-APOLLOHOSP		1.12		6162.75		180209
-GRASIM		-0.19		2077.35		65872
+HDFCBANK		0.84		1483.05		9972780
+ADANIPORTS		0.48		1158.0		677262
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HAVELLS		-0.07		1380.95		109435
+
