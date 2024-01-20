@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.37		134.75		11055759
-ONGC		-0.1		241.8		9964230
-ICICIBANK		0.98		1009.0		5644625
-DRREDDY		-0.2		5657.0		36725
+TATASTEEL		0.37		134.75		11073517
+ONGC		-0.1		241.8		9969446
+HDFCBANK		0.91		1484.05		9500908
+ICICIBANK		1.06		1009.75		5687194
+DRREDDY		-0.17		5658.5		36740
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRINDWELL		-0.21		2290.15		5949
+GRINDWELL		-0.13		2291.95		5981
