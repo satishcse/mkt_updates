@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		0.8		1482.35		10110922
-ADANIPORTS		0.4		1157.05		697226
+HDFCBANK		0.81		1482.55		10126685
+ADANIPORTS		0.44		1157.55		697903
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+DALBHARAT		-0.46		2204.2		35342
