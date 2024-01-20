@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.45		134.85		11007818
-ONGC		-0.12		241.75		9956723
-ICICIBANK		1.06		1009.75		5613054
-DRREDDY		-0.22		5656.0		36663
+TATASTEEL		0.45		134.85		11029095
+ONGC		-0.12		241.75		9959386
+ICICIBANK		0.93		1008.5		5626305
+DRREDDY		-0.22		5656.0		36669
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-LAURUSLABS		-2.72		401		641490
+
