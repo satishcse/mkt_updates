@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.23		241.5		10156505
-UPL		0.23		554.65		575554
-APOLLOHOSP		1.17		6166.1		179610
-GRASIM		-0.11		2078.85		65390
+ONGC		-0.25		241.45		10164536
+UPL		0.26		554.85		577427
+APOLLOHOSP		1.2		6167.65		179796
+GRASIM		-0.1		2079.05		65674
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CENTURYTEX		-0.46		1394.45		72420
-METROBRAND		-1.77		1145.0		56435
 RAINBOW		-0.01		1262.95		14940
