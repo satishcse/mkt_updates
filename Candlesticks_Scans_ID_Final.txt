@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-UPL		-0.05		553.1		642645
+UPL		0		553.4		643704
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MANYAVAR		-0.21		1085.75		87975
-MASTEK		-4.0		2796.4		59283
+KAYNES		-1.65		2688.45		17051
