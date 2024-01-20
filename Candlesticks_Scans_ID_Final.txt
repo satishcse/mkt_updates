@@ -2,14 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.03		1154.45		2666403
+INDUSINDBK		-1.29		1541		1773492
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDALSAW		-0.18		505.0		1704854
-JYOTHYLAB		2.78		532.95		797773
-MANYAVAR		-2.54		1091.95		408239
-KEI		-0.68		3119.0		367405
-KPIL		1.35		729.65		180788
-VMART		-0.74		2072.0		13000
+SFL		-1.67		1149.0		19101
+SKFINDIA		0.0		4637.35		2635
