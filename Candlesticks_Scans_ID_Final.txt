@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.5		624.6		4550230
-ITC		0.05		471.75		1778692
+SBIN		-0.45		624.9		4664504
+ITC		0.06		471.8		1784525
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-COFORGE		-1.16		6341.0		66557
-SFL		-1.84		1146.95		20543
+M&M		-1.05		1638.1		323231
+COFORGE		-1.14		6341.95		66645
+SFL		-1.85		1146.9		20568
+KAYNES		-0.73		2713.4		10354
