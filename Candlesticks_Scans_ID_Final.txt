@@ -2,7 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-1.22		1542		1783543
+SBIN		-0.04		627.5		3866971
+ITC		0.28		472.8		1718603
+JSWSTEEL		-0.22		814.85		212358
 
 Bullish_Hammer_15m_N500								 
 ======================= 
