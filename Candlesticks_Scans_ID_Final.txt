@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		0.1		242.3		12991956
+ONGC		0.02		242.1		13088864
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GPIL		-1.17		737.05		290467
-DIVISLAB		-1.24		3648.0		100471
-DRREDDY		-0.5		5639.9		58498
-INGERRAND		-0.22		3083.95		5826
-GILLETTE		-0.21		6567.55		2767
+JKCEMENT		-0.7		4025.0		870871
+TCS		-2.02		3863.35		465321
+LT		-0.39		3631.9		415843
+GPIL		-0.91		739.0		291223
+PIIND		-0.55		3386.65		111759
+DIVISLAB		-1.02		3656.25		102515
+RAYMOND		0.0		1795.1		57366
+WESTLIFE		-0.81		837.85		31488
