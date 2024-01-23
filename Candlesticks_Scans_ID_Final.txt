@@ -6,8 +6,9 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KEC		0.46		619.8		321030
-ALKEM		-2.16		4773.3		165171
-BALAMINES		-3.71		2361.45		68440
-ALKYLAMINE		-3.21		2281.75		39885
-PAGEIND		-2.24		36634.85		15857
+BORORENEW		9.97		558.3		9112959
+MGL		-0.23		1311.9		721178
+BSE		-5.12		2126.45		666693
+FDC		-2.73		425.7		515108
+KEI		-0.3		3017.3		301696
+HEG		-3.26		1765.3		103207
