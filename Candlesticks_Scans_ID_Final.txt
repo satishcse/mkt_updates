@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-2.76		130.25		32626160
+TATASTEEL		-2.87		130.1		32977805
+ITC		-1.76		460.15		7972192
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+SWANENERGY		-3.77		581.15		5527717
