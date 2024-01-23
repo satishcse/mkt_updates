@@ -2,14 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		1.44		5716.8		242457
+DRREDDY		1.42		5715.5		242957
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAL		-2.27		2937.25		758755
-IIFL		0.22		642.95		414499
-BALKRISIND		-3.33		2674.15		195958
-KAJARIACER		-1.74		1355.9		80890
-GRINFRA		-1.15		1147.8		35655
-POWERINDIA		-4.08		5804.0		17299
+GRINFRA		-1.17		1147.5		35674
