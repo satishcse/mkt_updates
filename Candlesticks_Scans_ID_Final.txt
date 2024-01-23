@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-0.55		3614.5		691230
-MUTHOOTFIN		-2.28		1379.15		182571
-ATUL		-2.36		6335.0		23916
+PIIND		-1.91		3317.9		79319
 POLYMED		-0.75		1434.9		8757
