@@ -6,8 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWSOLAR		4.34		526.05		2670604
-GAEL		1.19		336.0		120100
-KSB		0.13		3268.45		7425
-CARBORUNIV		-0.51		1124.1		6103
-3MINDIA		0.57		34023.55		1159
+3MINDIA		0.7		34066.9		1228
