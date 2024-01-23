@@ -2,16 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		1.63		5727.35		235416
+DRREDDY		1.67		5729.25		235868
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RELIANCE		-2.06		2657.5		4799512
-AARTIIND		-2.63		652.5		1564421
-PIDILITIND		-4.67		2552.35		732701
-TATACOMM		-1.48		1714.35		354740
-ACC		-1.99		2244.5		155777
-KAJARIACER		-1.62		1357.6		79067
-CLEAN		-1.45		1459.65		55899
-GRINDWELL		-0.39		2261.45		8154
+RELIANCE		-2.05		2657.8		4808438
+PIDILITIND		-4.65		2553.0		733607
+TATACOMM		-1.35		1716.6		355767
+KAJARIACER		-1.74		1355.9		79342
+CLEAN		-1.47		1459.45		55923
