@@ -2,15 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		0.68		481.2		3238238
-HCLTECH		0.33		1549.15		1212261
+WIPRO		0.66		481.1		3241056
+HCLTECH		0.33		1549.1		1215323
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		-2.46		1442.5		26816937
-EICHERMOT		-0.06		3695.55		241235
-ERIS		-0.83		885.0		20165
-TTKPRESTIG		-1.35		757.1		19850
-MRF		-1.16		143672.34		11009
-BLUEDART		0.68		7035.25		6215
+AUBANK		-3.64		720.3		1038496
+ERIS		-0.81		885.25		20202
+TTKPRESTIG		-1.35		757.1		19855
+MRF		-1.11		143753.45		11040
