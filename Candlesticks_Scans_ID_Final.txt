@@ -6,9 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DIXON		-0.03		6017.5		95704
-GLAND		-0.61		1927.7		35006
-RADICO		-1.01		1588.8		32237
-TTKPRESTIG		-1.17		758.45		11072
-ERIS		-0.27		890.05		9934
-PAGEIND		-0.39		37326.45		6681
+NESTLEIND		-0.14		2476.6		153621
+TIMKEN		-2.59		3339.65		6561
