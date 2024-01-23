@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SFL		-1.55		1147.15		13238
+TATACOMM		-0.95		1723.55		297125
+INDIGOPNTS		-2.76		1420.15		40834
+SFL		-1.55		1147.15		13246
 POLYMED		-1.19		1428.5		10705
