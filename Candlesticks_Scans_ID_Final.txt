@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LICI		-3.8		901.25		3319223
-ALKYLAMINE		-2.45		2299.65		34544
+LICI		-3.71		902.1		3330250
+APARINDS		-2.46		5305.0		45934
+ALKYLAMINE		-2.29		2303.55		34592
