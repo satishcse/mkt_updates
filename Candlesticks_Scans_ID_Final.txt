@@ -1,14 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+WIPRO		0.72		481.4		3290466
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		-2.32		1444.5		27102481
-PRESTIGE		-4.43		1229.7		311685
-DIXON		-0.8		5971.3		144681
-ERIS		-0.8		885.3		20266
-TTKPRESTIG		-1.35		757.1		19897
-MRF		-1.18		143650.0		11087
+HDFCBANK		-2.29		1444.95		27185142
+PRESTIGE		-4.41		1229.9		313282
+DIXON		-0.73		5975.0		145024
+ERIS		-0.84		884.95		20301
