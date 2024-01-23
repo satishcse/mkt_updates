@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HCLTECH		0.39		1550		1191117
+HCLTECH		0.38		1549.85		1194198
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		-2.18		1501.85		2902958
-LTIM		-1.15		5591.5		290272
-ERIS		-0.85		884.85		19816
+MRF		-1.18		143650.0		10853
+BLUEDART		0.68		7035.25		6215
