@@ -5,7 +5,4 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RECLTD		-2.5		448.65		17810827
-BAJFINANCE		-1.73		7174.95		1080538
-MUTHOOTFIN		-2.83		1371.35		394680
+
