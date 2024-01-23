@@ -6,4 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		-4.14		5800		20895
+CLEAN		-1.65		1456.75		61777
+SCHAEFFLER		-3.15		3168.0		28707
+POWERINDIA		-4.14		5800.0		20965
