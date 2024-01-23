@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-4.01		2369.95		3043937
-FINEORG		-1.48		4473.3		16298
+HINDUNILVR		-4.01		2369.85		3049027
+SUNTECK		-1.95		443.65		1177775
+WHIRLPOOL		-2.46		1321.35		51110
+FINEORG		-1.44		4475.1		16313
