@@ -6,9 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWENERGY		-3.97		490.4		1455490
-SUNTECK		1.56		459.5		538301
-SOBHA		-6.61		1377.6		201529
-APLAPOLLO		-1.22		1521.2		136378
-HEG		-1.51		1797.1		46314
-CRISIL		-2.56		3936.15		9596
+SOBHA		-6.59		1377.95		202599
+APLAPOLLO		-1.18		1521.8		137454
+CRISIL		-2.52		3937.85		9618
