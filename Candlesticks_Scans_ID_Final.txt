@@ -2,9 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		-3.8		2375.05		2690842
+HINDUNILVR		-3.79		2375.4		2695610
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		-4.08		5804		18272
+SHYAMMETL		-3.56		671.95		1065043
+BALKRISIND		-3.58		2667.45		213045
+HEG		-2.03		1787.6		85562
