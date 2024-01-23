@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		-1.37		1600.05		1924781
+M&M		-1.36		1600.3		1927383
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TITAN		-1.58		3724.85		671461
-DALBHARAT		-3.43		2132.05		160204
+TITAN		-1.59		3724.5		672297
