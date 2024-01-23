@@ -6,7 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-4.01		2369.8		3059089
-WHIRLPOOL		-2.47		1321.3		51112
-GODFRYPHLP		0.03		2194.7		40735
-FINEORG		-1.43		4475.5		16326
+CREDITACC		-1.99		1634.15		210859
+WESTLIFE		-1.37		825.0		51004
