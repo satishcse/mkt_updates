@@ -6,10 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PCBL		-5.09		308.65		2807733
-OIL		-3.71		404.6		2076879
-ITI		-4.54		337.35		1779172
-ADANIENSOL		-2.85		1096.9		807941
-ADANIPOWER		-2.23		524.6		554364
-BIRLACORPN		-3.03		1414.35		40912
-INGERRAND		-1.29		3036.95		8228
+INGERRAND		-1.22		3039.35		8319
