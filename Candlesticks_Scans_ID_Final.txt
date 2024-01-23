@@ -1,10 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		-1.75		469.6		8546701
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PGHL		0.15		5231		11347
+GODREJIND		-2.08		818.4		351906
+CLEAN		-1.87		1453.5		85024
+SCHAEFFLER		-4.59		3120.95		41018
+PGHL		0.15		5231.0		11347
