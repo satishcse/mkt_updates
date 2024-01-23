@@ -1,9 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HINDALCO		-3.54		541.2		6521219
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRESTIGE		-13.76		1109.7		1092281
+BRIGADE		-5.63		922.3		187131
