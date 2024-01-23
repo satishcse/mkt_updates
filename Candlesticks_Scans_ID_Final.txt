@@ -5,4 +5,6 @@ Tweezer_top_15m_Nifty
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BALKRISIND		-0.99		2739.15		56668
+3MINDIA		0.73		34076.3		1067
