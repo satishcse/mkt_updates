@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		-0.37		133.45		15308694
-TATAMOTORS		-0.54		814.5		3748441
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LTIM		-1.16		5591.25		330792
-ALKYLAMINE		-2.16		2306.5		23967
+SOBHA		-8.97		1342.75		281084
+BOSCHLTD		-1.06		22778.45		20323
