@@ -1,15 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCLIFE		-3.59		586.15		5278287
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DLF		-4.79		739.85		17203073
-COALINDIA		-5.78		375.75		14606078
-GRANULES		-1.0		412.3		3173444
-GODREJPROP		-1.8		2267.6		2093763
-PEL		-4.36		856.7		1254992
-BRIGADE		-5.77		920.9		195046
+DLF		-4.83		739.5		17245069
+GRANULES		-0.95		412.5		3178114
+GODREJPROP		-1.76		2268.4		2127129
+SAREGAMA		-4.31		337.65		334149
+BRIGADE		-5.87		919.95		195939
+POLYMED		-1.98		1417.1		26910
