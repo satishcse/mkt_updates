@@ -6,7 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUNTECK		1.67		460.0		549915
-AVANTIFEED		-3.49		525.6		354631
-MASTEK		-3.09		2714.95		36355
-POWERINDIA		-3.34		5848.85		13103
+SUNTECK		1.6		459.7		550572
+NESTLEIND		-0.08		2478.0		185524
+INGERRAND		-1.89		3018.7		10658
