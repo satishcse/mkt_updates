@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PAYTM		-3.18		760.3		3095810
-SRF		-1.38		2258.0		146269
-POLYMED		-0.94		1432.15		8733
+PAYTM		-3.1		760.95		3103288
