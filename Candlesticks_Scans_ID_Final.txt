@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ASTRAL		-2.28		1781.15		1129949
-TEJASNET		-8.16		746.45		889244
-THERMAX		-0.62		3040.0		13797
+UNOMINDA		-2.08		675.0		237874
+UTIAMC		-2.0		838.8		108570
+NAVINFLUOR		-2.36		3361.25		108314
+AETHER		-2.21		850.85		60208
