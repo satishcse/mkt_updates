@@ -2,10 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-0.22		133.65		14065559
-SBIN		-1.3		623.2		8457688
-TATAMOTORS		-0.07		818.35		3496009
+TATASTEEL		-0.07		133.85		14223893
+TATAMOTORS		0.02		819.1		3504384
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+ADANIENT		-0.69		2967.4		691751
+KPITTECH		0.45		1531.3		571483
+PHOENIXLTD		-0.5		2480.85		308555
+HAPPSTMNDS		-1.97		867.0		288961
+MOTILALOFS		-0.98		1557.15		152111
+ATUL		-3.01		6293.0		29958
+ALKYLAMINE		-2.14		2307.05		23211
