@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		-1.14		579.45		4767774
-M&M		1.81		1624.05		2172497
-HINDUNILVR		2.44		2433.55		1228579
-JSWSTEEL		2.55		810.55		1217397
-UPL		2.13		546.5		1182160
+M&M		1.76		1623.25		2178427
+HINDUNILVR		2.39		2432.35		1230517
+JSWSTEEL		2.52		810.35		1218686
+UPL		2.13		546.5		1182644
 
 Bullish_Hammer_15m_N500								 
 ======================= 
