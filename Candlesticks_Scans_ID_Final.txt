@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-M&M		1.78		1623.6		2199741
-HINDUNILVR		2.31		2430.45		1243608
-UPL		2.09		546.3		1188100
+M&M		1.8		1623.85		2204413
+HINDUNILVR		2.3		2430.2		1247261
+UPL		2.1		546.35		1189332
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+CGCL		-1.43		941.95		259820
