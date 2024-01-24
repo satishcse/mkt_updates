@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		2.36		309.75		20757643
-BAJAJ-AUTO		1.23		7182.9		367313
-DIVISLAB		0.77		3643.15		349985
-ULTRACEMCO		1.52		9980.15		238592
+NTPC		2.21		309.3		20844374
+BAJAJ-AUTO		0.99		7166.0		369602
+DIVISLAB		0.74		3641.95		351044
+ULTRACEMCO		1.44		9973.05		239812
 
 Bullish_Hammer_15m_N500								 
 ======================= 
