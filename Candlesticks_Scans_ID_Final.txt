@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-POWERGRID		2.55		265.9		29483753
-LT		-2.32		3399.0		6029457
-HINDUNILVR		-0.36		2472.55		1692184
+POWERGRID		2.56		265.95		29536486
+HINDUNILVR		-0.34		2473.0		1697514
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-FACT		-3.12		835.6		1032652
-ULTRACEMCO		-2.34		9929.1		387679
-APOLLOHOSP		-0.99		6290.0		248893
-VINATIORGA		-0.68		1721.7		23802
+BORORENEW		-1.34		622.15		3749119
+FACT		-2.97		836.95		1033933
+KPITTECH		-1.86		1522.0		780913
+APOLLOHOSP		-0.99		6290.0		250423
+POWERINDIA		-3.88		5700.0		24241
