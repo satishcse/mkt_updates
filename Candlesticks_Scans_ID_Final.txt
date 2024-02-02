@@ -1,15 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-POWERGRID		2.51		265.8		29839902
-HINDUNILVR		-0.42		2471.2		1726788
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BORORENEW		-1.24		622.8		3781477
-PNCINFRA		-3.9		439.75		819064
-UTIAMC		-0.62		923.6		172238
-CENTURYPLY		0.62		790.0		151946
-VINATIORGA		-0.6		1723.0		24122
+ICICIBANK		-0.07		1024.4		14568709
+GRAPHITE		-1.71		552.5		1209525
+EICHERMOT		-2.74		3825.55		863378
+AMBER		-2.85		4425.05		175869
+VINATIORGA		-0.12		1718.8		26689
+3MINDIA		-2.7		32890.0		5264
