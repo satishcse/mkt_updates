@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.79		1422.6		963234
-NESTLEIND		-0.25		2456.45		755541
+CIPLA		-0.77		1422.85		972078
+NESTLEIND		-0.31		2455.0		762215
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CIEINDIA		-0.19		493.1		434887
-BRITANNIA		-2.29		5007.1		331442
-BLUEDART		-3.27		6132.0		129788
+360ONE		2.07		628.25		1280103
+BRITANNIA		-2.29		5007.1		333496
