@@ -2,11 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-0.77		1422.85		972078
-NESTLEIND		-0.31		2455.0		762215
+SUNPHARMA		1.44		1496.3		2227400
+LTIM		-0.44		5446.45		347793
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-360ONE		2.07		628.25		1280103
-BRITANNIA		-2.29		5007.1		333496
+BLS		-2.51		394.35		2104643
+DEEPAKFERT		-0.37		535.95		610041
+APLLTD		-0.7		978.95		220049
+ENDURANCE		-6.43		1979.25		216184
+SCHAEFFLER		-1.41		3071.8		77086
+PFIZER		-3.61		4596.85		30492
