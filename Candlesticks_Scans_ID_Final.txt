@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		2.43		141.2		29141026
-ITC		1.18		411.55		12147826
+TATASTEEL		2.43		141.2		29141124
+ITC		1.18		411.55		12147966
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKPAPER		-2.02		382.35		511890
-HEG		-0.21		1627.55		246534
+JKPAPER		-2.02		382.35		511952
+HEG		-0.21		1627.55		246556
 SUPREMEIND		-3.0		3796.8		114870
 LUXIND		-1.16		1188.25		48808
