@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-0.46		337.7		19729903
-BRITANNIA		-0.68		4916.95		343481
+INFY		-0.05		1700.85		3620355
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDALSAW		-2.48		501.7		621693
-AFFLE		-1.85		1161.3		199342
+MINDACORP		4.74		425.5		2063460
+HAL		-1.78		3024.0		1577670
+TRITURBINE		-0.03		460.7		295593
+BRIGADE		-2.08		994.45		96859
+MAPMYINDIA		-0.43		1860.4		51852
