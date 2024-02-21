@@ -55,8 +55,8 @@ LALPATHLAB		-2.22		2417.5		128571
 NAUKRI		-1.44		5239.95		124364
 UBL		-0.8		1716.0		67518
 MRF		0.29		149050.0		12525
-BANKNIFTY		-0.34		46933.9		0
-NIFTY		-0.76		22029.25		0
+BANKNIFTY		-0.16		47019.7		0
+NIFTY		-0.64		22055.05		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -65,7 +65,7 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-BANKNIFTY		-0.34		46933.9		0
+BANKNIFTY		-0.16		47019.7		0
 FEDERALBNK		-0.39		153.8		14374149
 PIDILITIND		-0.63		2728.3		247219
 INDIGO		-0.71		3092.65		481348
