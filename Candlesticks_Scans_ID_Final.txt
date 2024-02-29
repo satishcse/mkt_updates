@@ -1,10 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NTPC		0.26		334.15		4419669
-ASIANPAINT		0.87		2818.55		869356
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+GALAXYSURF		-0.88		2431.45		3266
