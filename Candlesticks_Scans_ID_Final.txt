@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		-0.57		1278.5		830475
+POWERGRID		0.14		279.95		13641655
+BHARTIARTL		-0.24		1126.05		3625856
+TECHM		-0.62		1277.9		832010
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-SBICARD		-1.44		718.95		833289
-BIRLACORPN		-2.74		1663.55		61295
-GALAXYSURF		-1.02		2428.0		4853
+
