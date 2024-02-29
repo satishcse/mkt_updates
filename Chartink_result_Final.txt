@@ -10,15 +10,19 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-TORNTPHARM		2.06		2666.85		365281
-BRITANNIA		1.76		4973.85		367694
-LAURUSLABS		0.51		407.1		3362257
+TORNTPHARM		2.19		2670.45		372649
+BRITANNIA		1.76		4973.9		372903
+LAURUSLABS		0.51		407.1		3372501
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BANKNIFTY		0.51		46197.2		0
-NIFTY		0.28		22012.55		0
+HDFCAMC		-1.82		3766.95		1018126
+SIEMENS		2.61		4696.4		263806
+LTTS		-0.36		5295.75		141810
+ABBOTINDIA		-0.99		28327.35		9778
+BANKNIFTY		0.53		46208.0		0
+NIFTY		0.31		22019.5		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -27,12 +31,12 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-COALINDIA		0.56		436.65		10507351
-CROMPTON		-0.29		290.9		4434241
-RAMCOCEM		-0.78		834.1		1093132
-APOLLOHOSP		-4.02		6106.6		1398629
+COALINDIA		0.67		437.1		10647431
+CROMPTON		-0.29		290.9		4462510
+RAMCOCEM		-0.63		835.35		1117793
+APOLLOHOSP		-3.94		6111.55		1408083
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-SUNTV		1.45		616.1		607648
+SUNTV		1.38		615.7		620409
