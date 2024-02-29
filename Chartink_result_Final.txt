@@ -10,15 +10,24 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-LAURUSLABS		0.04		405.2		2730360
+LAURUSLABS		0.05		405.25		2734532
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+IDEA		-1.1		13.5		648802821
+SAIL		0.16		121.95		24388354
+SBICARD		-1.67		717.25		1108786
+BHARATFORG		-1.35		1136.65		468523
+LTIM		-2.09		5297.15		329441
+DIXON		1.56		6645.0		267004
+BANKNIFTY		0.3		46101.75		0
+NIFTY		0.01		21953.4		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
-
+nsecode		per_chg		close		volume
+GLENMARK		1.08		921		838375
 
 Open_High								 
 ========= 
@@ -35,5 +44,5 @@ APOLLOHOSP		-3.73		6124.85		896730
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-SAIL		0.29		122.1		24108138
-SUNTV		0.26		608.9		425126
+SUNTV		0.18		608.4		426050
+SAIL		0.16		121.95		24388354
