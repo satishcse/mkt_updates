@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.51		1402.15		11623064
-LT		-0.01		3469.8		872341
-TECHM		-0.58		1278.35		807212
+HDFCBANK		-0.51		1402.25		11649034
+LT		-0.06		3468.05		873336
+TECHM		-0.61		1278.05		808484
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIGREEN		-1.81		1883.45		662786
+
