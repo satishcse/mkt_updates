@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HAPPSTMNDS		-1.2		838.9		48066
-APLAPOLLO		-0.35		1457.7		7342
+HAPPSTMNDS		-1.22		838.65		49414
+SUPRAJIT		0.12		429.55		14391
+APLAPOLLO		-0.25		1459.2		8547
