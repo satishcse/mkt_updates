@@ -10,12 +10,15 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-LAURUSLABS		-0.28		403.9		2348591
+LAURUSLABS		-0.38		403.5		2351135
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		per_chg		close		volume
-BANKNIFTY		0.14		46025.95		0
+POWERGRID		0.16		280.0		12425594
+PVRINOX		0.09		1366.15		278382
+JKCEMENT		0.97		4489.9		59476
+BOSCHLTD		0.16		28372.75		13129
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -24,18 +27,18 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-COALINDIA		0.39		435.9		7117132
-BIOCON		-0.06		270.9		2050420
-PVRINOX		-0.08		1363.85		275235
-BATAINDIA		-0.17		1404.0		254750
-MRF		-0.22		145710.05		5022
-FEDERALBNK		-0.27		149.9		6451953
-CROMPTON		-0.53		290.2		3161057
-RAMCOCEM		-0.92		832.95		335502
-APOLLOHOSP		-3.22		6157.55		454667
+COALINDIA		0.35		435.7		7127369
+PVRINOX		0.09		1366.15		278382
+BIOCON		-0.02		271.0		2052426
+FEDERALBNK		-0.23		149.95		6471214
+BATAINDIA		-0.24		1402.95		255374
+MRF		-0.29		145608.5		5041
+CROMPTON		-0.67		289.8		3170300
+RAMCOCEM		-1.0		832.25		335780
+APOLLOHOSP		-3.42		6144.55		459799
 
 Open_Low								 
 ======== 
 nsecode		per_chg		close		volume
-SAIL		0.94		122.9		18358374
-SUNTV		0.62		611.05		374909
+SAIL		0.9		122.85		18399904
+SUNTV		0.57		610.75		375148
