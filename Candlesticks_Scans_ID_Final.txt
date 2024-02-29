@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		0.72		2814.5		754974
+UPL		-0.65		472.8		2683749
+ASIANPAINT		0.73		2814.85		757034
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KSB		-6.39		3676.3		96040
-PGHH		-0.02		15750.0		2135
+TORNTPOWER		-3.98		1073.25		730192
+KSB		-6.39		3676.2		96412
+PGHH		0.0		15752.5		2140
