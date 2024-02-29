@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.28		141.15		14429137
-NTPC		0.42		334.7		5125827
-TATAMOTORS		-0.62		952.15		4697085
-LT		-0.14		3465.3		845015
-TITAN		0.58		3615.65		527320
+TATASTEEL		0.32		141.2		14471639
+ITC		0.21		409.15		5717550
+NTPC		0.44		334.75		5140394
+TATAMOTORS		-0.58		952.45		4723385
+LT		-0.1		3466.8		847411
+TITAN		0.62		3617.0		528571
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-JSL		-1.87		647.75		532283
+
