@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-COALINDIA,0.26,435.35,8045425
-BAJAJFINSV,0.55,1593.25,652798
-DRREDDY,0.33,6449.55,176460
+COALINDIA,0.23,435.2,8055837
+BAJAJFINSV,0.44,1591.45,655775
+DRREDDY,0.21,6441.65,177101
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+BHARATFORG,-1.23,1138.1,459828
+ASTERDM,-2.54,472.55,352980
