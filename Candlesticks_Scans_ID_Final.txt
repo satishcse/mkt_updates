@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.13		408.85		2975783
+ITC		0.04		408.45		2988480
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJFINANCE		-0.15		6488.9		243251
-PHOENIXLTD		-2.15		2724.3		171555
-VARROC		-1.75		488.7		98505
-GLAXO		-1.18		2128.75		22456
+CGCL		-1.38		958.1		35788
