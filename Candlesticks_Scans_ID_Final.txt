@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSL		-2.82		641.5		1169256
-WELCORP		-3.12		512.0		996356
-360ONE		0.57		720.35		627739
+JSL		-2.66		642.55		1184871
+WELCORP		-3.08		512.2		1018029
+360ONE		0.57		720.35		636689
+ASTERDM		-2.68		471.85		514836
