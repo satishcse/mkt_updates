@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.15		408.9		5620856
-NTPC		0.5		334.95		5012371
-DIVISLAB		-0.78		3490.9		331757
+TATAMOTORS		-0.33		954.9		4631779
+WIPRO		0.22		518.85		3176575
+LT		-0.11		3466.35		834165
+BAJAJFINSV		0.25		1588.45		548666
+TITAN		0.67		3618.85		517855
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-MEDANTA		-5.67		1360.45		286539
-AAVAS		-1.26		1455.9		80924
+
