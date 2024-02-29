@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INFY		-0.31		1666.0		3018470
-DRREDDY		-0.04		6425.4		186261
+INFY		-0.3		1666.25		3028518
+DRREDDY		-0.05		6424.9		187196
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WHIRLPOOL		-1.72		1262.85		133478
+BHARTIARTL		-1.66		1110		5818380
