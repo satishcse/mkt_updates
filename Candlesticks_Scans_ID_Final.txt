@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.15		408.9		3283010
-ADANIENT		0.25		3227.1		336790
+ITC		0.17		409.0		3302993
+ADANIENT		0.32		3229.15		337411
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GAEL		-1.62		385.4		245616
-EICHERMOT		-1.1		3821.25		141184
-CEATLTD		-1.12		2787.6		29951
-INDIGOPNTS		-1.05		1388.6		20683
-THERMAX		-1.58		3525.55		8930
+GAEL		-1.79		384.75		258112
+CEATLTD		-1.15		2786.75		30104
+THERMAX		-1.48		3529.4		8987
