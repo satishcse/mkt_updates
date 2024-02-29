@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		-0.75		3491.85		746343
+DIVISLAB		-0.76		3491.6		753117
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NH		-0.7		1354.7		434861
+TANLA		-2.82		978.75		522686
+NH		-0.7		1354.75		439164
