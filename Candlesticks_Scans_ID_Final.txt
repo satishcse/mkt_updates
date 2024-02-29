@@ -6,5 +6,6 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-WELCORP		-1.84		518.8		560427
-SANOFI		-2.46		8627.25		16264
+BAJFINANCE		-0.73		6451.35		812320
+WELCORP		-1.8		519.0		569038
+SANOFI		-2.46		8627.35		16346
