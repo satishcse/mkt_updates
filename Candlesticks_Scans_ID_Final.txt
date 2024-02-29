@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+DIVISLAB		-0.75		3491.85		746343
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NH		-0.82		1353.15		431882
-BAYERCROP		-1.4		5647.4		18938
+NH		-0.7		1354.7		434861
