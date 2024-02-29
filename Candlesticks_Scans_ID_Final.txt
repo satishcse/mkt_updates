@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DIVISLAB		-0.91		3486.3		328655
+ITC		0.18		409.05		5592315
+DIVISLAB		-0.92		3485.9		329760
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRESTIGE		-5.7		1159		636571
-AAVAS		-1.25		1456		77516
+RAINBOW		-3.73		1375.9		1264782
+MEDANTA		-5.55		1362.2		285662
+AAVAS		-1.19		1456.9		80442
