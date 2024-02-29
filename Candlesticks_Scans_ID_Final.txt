@@ -2,10 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.01		1046.35		5159680
-NESTLEIND		0.37		2580.3		222925
+ICICIBANK		0.04		1046.6		5166612
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODFRYPHLP		-3.28		2709.95		37572
+SFL		-1.06		1025.5		10141
