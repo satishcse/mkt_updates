@@ -10,11 +10,12 @@ BN_1Hr_OBV_DIV,,,,
 Intraday_Buy_PSAR,,,, 
 ================= 
 nsecode,per_chg,close,volume
-LAURUSLABS,-0.3,403.85,2356517
+LAURUSLABS,-0.37,403.55,2360243
 
 Intraday_Volume_Shocker,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+NIFTY,-0.04,21942.3,0
 
 High_Relative_Volume_Spurt_5m,,,, 
 ============================= 
@@ -23,18 +24,18 @@ High_Relative_Volume_Spurt_5m,,,,
 Open_High,,,, 
 ========= 
 nsecode,per_chg,close,volume
-COALINDIA,0.31,435.55,7179114
-PVRINOX,0.3,1369.0,291681
-BIOCON,0.15,271.45,2092179
-FEDERALBNK,-0.2,150.0,6549284
-BATAINDIA,-0.22,1403.2,258119
-MRF,-0.36,145500.0,5090
-CROMPTON,-0.6,290.0,3189621
-RAMCOCEM,-1.02,832.1,335995
-APOLLOHOSP,-3.68,6128.45,473570
+PVRINOX,0.38,1370.15,296917
+COALINDIA,0.3,435.5,7187391
+BIOCON,-0.02,271.0,2096256
+BATAINDIA,-0.3,1402.2,258216
+FEDERALBNK,-0.3,149.85,6555677
+MRF,-0.43,145402.95,5110
+CROMPTON,-0.6,290.0,3200478
+RAMCOCEM,-0.96,832.6,336501
+APOLLOHOSP,-3.81,6120.0,482095
 
 Open_Low,,,, 
 ======== 
 nsecode,per_chg,close,volume
-SAIL,0.99,122.95,18576238
-SUNTV,0.48,610.2,381784
+SAIL,0.94,122.9,18607689
+SUNTV,0.48,610.2,381861
