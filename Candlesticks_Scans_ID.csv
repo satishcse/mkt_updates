@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
 nsecode,per_chg,close,volume
-TATASTEEL,0.32,141.2,14344653
-TATAMOTORS,-0.37,954.5,4644959
-WIPRO,0.29,519.2,3184893
-LT,-0.14,3465.45,840535
-TITAN,0.6,3616.35,520358
+TATASTEEL,0.36,141.25,14369820
+NTPC,0.48,334.9,5084629
+TATAMOTORS,-0.46,953.6,4653545
+LT,-0.13,3465.8,842044
+TITAN,0.61,3616.55,522607
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
-
+nsecode,per_chg,close,volume
+EICHERMOT,-2.06,3784,369081
