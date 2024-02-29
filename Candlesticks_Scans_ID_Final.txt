@@ -1,13 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-AXISBANK		-0.34		1070.6		1757729
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDALSAW		-2.32		477.45		249996
-VARROC		-0.38		495.5		50464
-VMART		0.12		1923.0		1435
-ZFCVINDIA		-0.29		14532.7		116
+JUBLFOOD		-0.69		466.45		3475694
+JSWENERGY		-2.16		496.65		791881
+JINDALSAW		-2.31		477.5		253297
