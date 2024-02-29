@@ -6,8 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IRCTC		-0.81		916.6		1733239
-BAJFINANCE		-0.68		6454.4		814471
-INDIAMART		-1.69		2618.7		106504
-CONCORDBIO		-3.29		1423.2		25710
-SANOFI		-2.44		8629.3		16402
+BAJFINANCE		-0.56		6462.05		834182
+LTIM		-2.46		5276.65		369675
+INDIAMART		-1.65		2619.6		106612
+SANOFI		-2.41		8631.6		16459
