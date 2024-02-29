@@ -6,6 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.51		1402.15		21075296
-PRESTIGE		-5.87		1156.9		2558847
-360ONE		0.34		718.7		583807
+PRESTIGE		-4.43		1174.55		2723778
+JSL		-3.05		639.95		1125907
+360ONE		0.52		720.0		606364
+ASTERDM		-2.62		472.15		490540
+FINCABLES		-2.26		924.0		144746
