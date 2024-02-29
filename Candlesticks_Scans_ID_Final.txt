@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HDFCLIFE		-0.25		579.15		1039038
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-POWERINDIA		-0.6		5878.2		5765
+RELIANCE		0.3		2919.85		3654297
+CREDITACC		-0.79		1459.0		51305
