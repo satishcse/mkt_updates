@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-DRREDDY		-0.18		6416.65		142477
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AAVAS		-1.36		1454.4		72070
-ABBOTINDIA		-1.39		28211.65		4139
+AAVAS		-1.35		1454.65		72292
+ABBOTINDIA		-1.4		28208.3		4140
