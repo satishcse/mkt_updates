@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.06		408.55		3096433
+ITC		0.11		408.75		3120482
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-VARROC		-1.53		489.8		107068
-JBMA		-2.06		2131.0		32206
+PATANJALI		-1.64		1552.0		112302
+VARROC		-1.54		489.75		107164
+JBMA		-2.06		2131.0		32336
 LAXMIMACH		-0.69		14398.1		466
