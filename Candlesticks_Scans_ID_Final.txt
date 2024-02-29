@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JINDALSAW		-2.33		477.4		260111
-FDC		-0.45		443.35		28151
-GUJALKALI		-1.55		799.4		11693
+JINDALSAW		-2.35		477.3		262001
+FDC		-0.39		443.6		28161
