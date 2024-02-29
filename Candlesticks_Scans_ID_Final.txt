@@ -2,9 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		0.21		141.05		15781420
-ITC		0.12		408.8		6564197
+TATASTEEL		0.21		141.05		15807554
+ITC		0.1		408.7		6582865
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+VARROC		-2.25		486.2		227858
