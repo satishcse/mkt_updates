@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-NTPC		-1.76		351.95		13120919
+NTPC		-1.76		351.95		13120921
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 CGCL		-14.12		248.4		3797289
-BALAMINES		-3.2		2317.2		233301
+BALAMINES		-3.2		2317.2		233302
 TIINDIA		-0.73		3537.55		211155
 ENDURANCE		0.2		1798.4		122396
 SHOPERSTOP		-2.37		721.0		33067
