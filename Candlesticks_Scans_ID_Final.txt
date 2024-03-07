@@ -2,12 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		1.7		535.9		7819926
+HINDALCO		1.58		535.3		7888088
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		-1.46		3491.45		209443
-POLYMED		-0.66		1571.35		38410
-SKFINDIA		-1.08		4348.0		17114
-MRF		-1.17		144032.34		7177
+RITES		0.07		737.8		882736
+TIINDIA		-1.5		3490.0		210912
+METROPOLIS		-0.99		1632.55		86522
+POLYMED		-0.76		1569.75		39079
+BAJAJHLDNG		-0.76		8650.0		38545
+SKFINDIA		-1.08		4348.2		17272
