@@ -52,7 +52,7 @@ ACC		0.35		2648.0		216629
 ALKEM		-0.03		5142.7		151044
 ESCORTS		-0.17		2845.0		142557
 ABBOTINDIA		-0.31		27349.95		18245
-BANKNIFTY		-1.14		47289.6		0
+BANKNIFTY		-1.06		47327.85		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
