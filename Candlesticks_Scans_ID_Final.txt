@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		0.5		2901.9		6274637
-LT		1.55		3563.95		2418601
-GRASIM		1.86		2207.75		842954
-LTIM		1.21		5162.95		362143
+RELIANCE		0.54		2903.0		6307806
+LT		1.53		3563.25		2425799
+LTIM		1.25		5164.65		363760
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		1.01		2617.9		262220
-LUXIND		0.06		1114.4		32599
+ANGELONE		1.08		2619.75		263592
+LUXIND		0.09		1114.75		32915
+HONAUT		-1.29		37010.75		2665
