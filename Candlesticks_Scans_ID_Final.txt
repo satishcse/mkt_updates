@@ -1,17 +1,8 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-RELIANCE		0.47		2901.0		6476577
-LT		1.41		3559.05		2493984
-LTIM		1.14		5159.0		373309
-DIVISLAB		0.92		3459.7		278458
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-ADANIENT		0.67		3071.85		1169846
-ATGL		-0.12		935.0		901168
-LUXIND		0.09		1114.75		34609
-CERA		-2.33		6829.85		24355
-SANOFI		-2.12		7545.0		21231
+
