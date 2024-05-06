@@ -3,7 +3,7 @@ Sector_Performance
 ================== 
 nsecode		per_chg		close		volume
 CNXREALTY		2.76		989.2		0
-CNXIT		0.94		33217.1		0
+CNXIT		0.94		33217.15		0
 NIFTYFMCG		0.71		54660.15		0
 NIFTYHEALTHCARE		0.64		12117.45		0
 NIFTYPVTBANK		0.43		24398.45		0
