@@ -2,16 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		5.02		1624.3		21603972
+KOTAKBANK		5.02		1624.3		21604009
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ACI		-3.77		632.9		775496
+ACI		-3.77		632.9		775501
 SHYAMMETL		-4.05		589.65		755260
 NAVINFLUOR		0.15		3440.9		363085
 ACE		-2.9		1431.5		267955
-STARHEALTH		-1.13		550.95		251400
+STARHEALTH		-1.13		550.95		251443
 FACT		-2.7		691.55		192618
 SUMICHEM		-1.14		398.55		127443
 PRINCEPIPE		-0.55		628.0		93584
