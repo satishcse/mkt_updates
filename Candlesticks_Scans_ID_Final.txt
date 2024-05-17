@@ -1,10 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HINDALCO		0.35		655.65		5026005
+NESTLEIND		-0.82		2448.0		721019
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-M&MFIN		0.32		267.75		2599026
-USHAMART		-0.61		334.0		451698
+SYRMA		-1.08		394.0		725187
+JUSTDIAL		-0.97		974.9		212858
+METROPOLIS		-1.51		1839.65		191221
+BAJAJHLDNG		-1.36		8223.0		29421
