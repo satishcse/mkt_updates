@@ -2,13 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		0.35		655.65		5026005
-NESTLEIND		-0.82		2448.0		721019
+TATASTEEL		3.84		174.35		84819240
+CIPLA		2.72		1442.3		2938975
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SYRMA		-1.08		394.0		725187
-JUSTDIAL		-0.97		974.9		212858
-METROPOLIS		-1.51		1839.65		191221
-BAJAJHLDNG		-1.36		8223.0		29421
+HBLPOWER		-1.97		528.4		750666
+JUSTDIAL		-4.42		955.0		420562
+CEATLTD		-2.9		2369.0		294939
+MAHLIFE		-2.74		604.0		289853
+AMBER		-3.9		3808.2		193427
+NAVINFLUOR		-1.36		3383.3		152035
+POWERINDIA		-4.8		10832.1		94437
