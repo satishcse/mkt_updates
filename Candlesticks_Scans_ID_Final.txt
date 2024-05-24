@@ -1,16 +1,17 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NESTLEIND		0.2		2474.15		781663
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ARE&M		-2.3		1114.25		756913
-JBMA		-1.01		1901.9		297687
-ANGELONE		0.44		2617.6		250523
-JUBLINGREA		-0.43		515.3		181502
-WESTLIFE		-0.28		864.45		66859
-ROUTE		0.03		1438.0		25960
-HONAUT		0.59		53299.0		4436
+FORTIS		-1.48		462.0		2374708
+EIDPARRY		-3.19		626.15		714065
+NAUKRI		-1.68		6336.15		385497
+GPIL		-3.13		926.5		342426
+INTELLECT		-0.39		896.35		177986
+RAYMOND		-0.78		2226.45		132986
+ECLERX		-1.4		2244.25		63565
+HONAUT		-2.0		52300.0		3045
+3MINDIA		-0.43		30710.0		2086
