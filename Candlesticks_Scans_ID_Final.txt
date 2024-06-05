@@ -1,12 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-WIPRO		-0.99		439.7		8861081
-SBILIFE		-4.24		1332.55		3277041
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LODHA		-8.85		1306.75		1466618
-CRAFTSMAN		-2.74		4164.0		125333
+BAJAJHLDNG		1.46		8048.9		26432
