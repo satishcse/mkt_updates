@@ -1,9 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INDUSINDBK		-1.32		1481.1		3279777
+SHRIRAMFIN		3.66		2474.8		2100297
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BAJAJHLDNG		1.46		8048.9		26432
+MHRIL		0.76		398.6		191836
+SKFINDIA		0.19		6090.65		33650
+MRF		-1.43		126132.05		10281
