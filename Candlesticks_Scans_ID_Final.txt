@@ -2,12 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDUSINDBK		-1.32		1481.1		3279777
-SHRIRAMFIN		3.66		2474.8		2100297
+EICHERMOT		0.44		4782.75		301681
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MHRIL		0.76		398.6		191836
-SKFINDIA		0.19		6090.65		33650
-MRF		-1.43		126132.05		10281
+CGPOWER		-1.33		654.75		1557726
+POLICYBZR		0.13		1293.75		1159268
+ACE		0.42		1468.5		543142
+NAM-INDIA		-1.35		599.35		455953
+SOBHA		-1.04		2064.25		147825
+AJANTPHARM		-0.24		2414.8		68970
+MHRIL		-0.02		402.55		61441
