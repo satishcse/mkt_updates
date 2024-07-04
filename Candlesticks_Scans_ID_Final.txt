@@ -1,14 +1,17 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ITC		0.18		429.05		9126055
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JKPAPER		-5.19		600.85		5301420
-PRAJIND		-1.44		734.4		729498
-360ONE		-1.0		943.15		351385
-CAPLIPOINT		-1.41		1429.5		139139
-CENTURYPLY		-0.9		718.5		118712
-PAGEIND		-1.08		38395.45		24244
+CDSL		0.02		2320.05		1546925
+ADANIENSOL		-0.9		1025.85		825461
+AFFLE		-0.92		1353.4		379956
+MEDANTA		-0.08		1270.9		255783
+GPIL		0.12		1107.75		144536
+ASAHIINDIA		-1.61		688.5		127807
+GILLETTE		-0.84		7228.8		12169
+ZFCVINDIA		-0.05		15955.2		6905
