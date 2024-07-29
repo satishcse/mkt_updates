@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		-2.04		1231.25		3325998
+TATASTEEL		0.2		162.87		31754833
+TATAMOTORS		0.51		1124.0		11850624
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MTARTECH		-0.58		1876.75		113181
-BAYERCROP		-0.96		6628.0		39008
+ARE&M		-2.51		1638.3		797809
