@@ -1,11 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		0.2		162.87		31754833
-TATAMOTORS		0.51		1124.0		11850624
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ARE&M		-2.51		1638.3		797809
+SONATSOFTW		-9.87		664.15		4625858
+GESHIP		-1.81		1362.55		2378512
+ZENSARTECH		-2.08		776.85		1097180
+ACE		-2.37		1360.35		464171
+CENTURYPLY		-0.54		703.95		272149
+CENTURYTEX		-1.69		2295.95		140187
+BALAMINES		-1.36		2465.7		121989
