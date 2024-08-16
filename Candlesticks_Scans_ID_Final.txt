@@ -2,14 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJAJ-AUTO		1.29		9765.95		161634
+CIPLA		0.72		1575		909791
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DELHIVERY		-2.43		398.7		2145994
-SUNPHARMA		-0.1		1735.3		751572
-FIVESTAR		-2.97		704.8		439952
-SUVENPHAR		-2.03		972.55		419969
-MAXHEALTH		0.94		883.2		304437
-INDIAMART		-0.83		2777.25		137924
+OLECTRA		-1.9		1611.5		699479
