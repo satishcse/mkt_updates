@@ -1,14 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INFY		0.03		1872.7		1966904
+BAJFINANCE		0.2		6735.35		633111
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NATCOPHARM		-0.29		1457.75		695259
-TIMKEN		-1.02		3625.6		170377
-FLUOROCHEM		-1.78		3366.0		128403
-WESTLIFE		-0.01		805.65		59412
-GILLETTE		1.51		7975.0		15762
-3MINDIA		-0.71		35426.45		7488
+PRESTIGE		-1.78		1739.55		811801
+AMBER		-1.43		4179.8		199300
