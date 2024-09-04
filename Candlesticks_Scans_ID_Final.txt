@@ -1,17 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-AXISBANK		0.24		1191.6		7920246
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONASA		0.39		506.85		5137185
-BDL		1.26		1320.25		1764895
-HAPPSTMNDS		-0.15		809.9		304308
-COLPAL		0.16		3635.4		279293
-DATAPATTNS		-0.52		2737.1		240483
-JBCHEPHARM		-2.33		1924.65		223541
-APLLTD		-0.29		1066.85		82008
-POWERINDIA		-1.97		11645.9		20058
+IGL		-1.16		549.0		1625007
+CHENNPETRO		-1.07		972.95		412683
+JBCHEPHARM		0.0		1924.65		133918
