@@ -1,11 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATAMOTORS		-0.28		1035.8		6919238
+BHARTIARTL		2.28		1577.85		6163457
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IGL		-1.16		549.0		1625007
-CHENNPETRO		-1.07		972.95		412683
-JBCHEPHARM		0.0		1924.65		133918
+BLS		0.48		446.75		2300853
+ADANIGREEN		-0.86		1849.7		535158
+AFFLE		-0.35		1574.6		235168
