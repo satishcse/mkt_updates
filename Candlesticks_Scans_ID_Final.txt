@@ -1,14 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ONGC		0.74		294.65		11873758
-HCLTECH		0.1		1813.75		830317
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRITURBINE		-6.5		736.35		1204336
-DALBHARAT		-1.86		1822.0		159454
-LINDEINDIA		-2.85		8081.6		83892
-FINEORG		-0.36		5200.2		23974
+OIL		-3.32		595.0		7376182
+ACE		-1.32		1348.05		501864
+VGUARD		-1.02		463.2		362340
+CYIENT		-3.5		2059.2		307018
+MAHLIFE		-1.59		530.0		185604
+BBTC		-1.87		2694.45		69204
