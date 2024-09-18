@@ -3,7 +3,7 @@ Volume_Shocker_Daily
 ==================== 
 nsecode		per_chg		close		volume
 BSE		16.87		3896.15		15631728
-GRAPHITE		9.31		586.35		18143597
+GRAPHITE		9.31		586.35		18143601
 HEG		8.63		2290.5		3215492
 TORNTPOWER		8.59		1932.9		6172267
 ALKYLAMINE		6.74		2367.05		2201239
