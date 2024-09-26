@@ -1,15 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HCLTECH		0.38		1782.4		2240269
-BAJFINANCE		0.92		7623.9		1272033
-BRITANNIA		-0.37		6180.3		357145
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ANGELONE		-2.35		2539.0		503644
-COCHINSHIP		-2.87		1745.1		300669
-OLECTRA		-1.61		1670.15		264040
-CCL		-1.07		716.35		110183
+KALYANKJIL		-5.47		716.7		11069317
+MOTILALOFS		-1.22		754.8		674591
+ESCORTS		-0.53		4351.35		227760
