@@ -2,16 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		0.64		1417.2		1628495
+POWERGRID		0.2		330.7		5944215
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KALYANKJIL		-0.38		718.8		4158843
-BSOFT		-1.12		584.65		1766933
-MOTILALOFS		-1.64		772.8		846801
-JUBLPHARMA		0.81		1173.1		181011
-CHOLAHLDNG		-3.05		1889.8		162958
-TIINDIA		-1.38		4126.25		126378
-SHREECEM		-1.33		24641.8		34742
-MRF		-0.28		132214.45		3208
+ASAHIINDIA		-1.03		727.95		81963
