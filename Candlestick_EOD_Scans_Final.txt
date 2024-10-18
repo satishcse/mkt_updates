@@ -7,9 +7,9 @@ Bullish_Hammer_Daily_N50
 ======================== 
 nsecode		per_chg		close		volume
 BPCL		-0.06		342.5		7328694
-BHARTIARTL		0.39		1707.85		4154924
+BHARTIARTL		0.39		1707.85		4154915
 TECHM		-0.65		1687.9		3119646
-MARUTI		-0.32		12105.1		506873
+MARUTI		-0.32		12105.1		506871
 
 Bullish_Hammer_weekly_near_BB_N500								 
 ================================== 
