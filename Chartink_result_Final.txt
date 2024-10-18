@@ -72,11 +72,11 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-SUNTV		-0.67		759.95		465458
+SUNTV		-0.67		759.95		465506
 ICICIGI		-0.96		2020.95		508530
-CHAMBLFERT		-1.45		493.05		929354
+CHAMBLFERT		-1.45		493.05		930380
 LTIM		-6.3		5991.7		1019092
-MGL		-10.21		1582.25		5199584
+MGL		-10.21		1582.25		5199615
 MANAPPURAM		-13.57		153.27		80781248
 
 Open_Low								 
