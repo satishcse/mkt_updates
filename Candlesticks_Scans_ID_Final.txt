@@ -1,15 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBIN		2.33		849.2		26254561
+WIPRO		0.54		543.7		3431130
+SUNPHARMA		-0.29		1803.6		1658010
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PATANJALI		-1.09		1767.2		662484
-COFORGE		-0.15		7742.4		525626
-TORNTPOWER		-0.8		1828.15		352735
-LTTS		-0.87		5156.3		130738
-LTIM		-0.98		5795.15		130223
-DOMS		-0.5		2576.55		32191
-BAJAJHLDNG		-1.27		10223.3		29790
+JUBLPHARMA		-1.15		1238.1		337921
+KIRLOSENG		-1.72		1106.05		176868
