@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-COALINDIA		-0.59		421.55		7201852
+COALINDIA		-0.59		421.55		7201246
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INOXWIND		-2.15		204.78		4587537
-AMBER		-1.73		6047.75		212269
-NAVINFLUOR		-2.31		3461.4		53508
+INOXWIND		-2.15		204.78		4587809
+AMBER		-1.73		6047.75		212267
+NAVINFLUOR		-2.31		3461.4		53500
