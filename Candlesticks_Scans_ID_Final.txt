@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BPCL		-1.77		282.4		8273120
+TRENT		2.98		6652.8		833104
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-18.9		1145.7		9523600
-ITI		-4.36		279.44		4759938
-KAYNES		0.59		5810.15		457575
-AFFLE		-1.45		1550.6		152745
-FACT		-1.19		808.4		105849
-NAVINFLUOR		-2.26		3262.45		86698
+DEEPAKFERT		-0.25		1276.3		418710
+CRISIL		-1.89		5483.8		80409
+KPRMILL		-1.37		921.65		78587
+POLYMED		-0.27		2582.15		76748
+ASAHIINDIA		-1.43		645.9		66987
