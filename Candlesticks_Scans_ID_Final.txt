@@ -1,14 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TRENT		2.98		6652.8		833104
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DEEPAKFERT		-0.25		1276.3		418710
-CRISIL		-1.89		5483.8		80409
-KPRMILL		-1.37		921.65		78587
-POLYMED		-0.27		2582.15		76748
-ASAHIINDIA		-1.43		645.9		66987
+PAYTM		-0.89		892.95		16086434
+VBL		-2.48		601.1		10896519
+CGPOWER		0.91		736.7		5905652
+GICRE		4.09		394.35		1565095
+HSCL		0.33		490.05		844125
+CYIENT		2.45		1846.6		540737
+ARE&M		1.11		1241.85		471945
+NUVAMA		1.28		6568.0		169681
