@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TECHM		0.17		1748.85		1824072
-ASIANPAINT		-0.32		2471.0		1341631
+TECHM		0.2		1749.5		1824092
+ASIANPAINT		-0.39		2469.4		1341643
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SOLARINDS		-0.58		10480		576930
+SOLARINDS		-0.58		10479.55		576935
