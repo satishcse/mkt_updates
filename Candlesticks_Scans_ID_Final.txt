@@ -2,16 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.55		1855.4		8890942
-BEL		-0.25		313.7		8347467
+HDFCBANK		-0.53		1855.85		8891270
+BEL		-0.24		313.75		8351698
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HONASA		-3.1		265.3		3208567
-CHENNPETRO		-1.77		619.0		1045416
+HONASA		-2.92		265.8		3208768
+CHENNPETRO		-1.75		619.1		1045468
 CHALET		0.48		898.0		585896
-COLPAL		-1.02		2884.2		276086
+COLPAL		-0.93		2886.8		276131
 BALKRISIND		-1.1		2808.0		124863
 RADICO		-0.92		2341.0		75152
 ELGIEQUIP		-1.02		643.9		75142
