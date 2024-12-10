@@ -1,10 +1,16 @@
 
 Tweezer_top_15m_Nifty,,,, 
 ===================== 
-
+nsecode,per_chg,close,volume
+HDFCBANK,-0.1,1868.1,6662626
+HINDALCO,-0.3,668.9,3950799
+BAJAJ-AUTO,-0.71,9013.3,393941
+APOLLOHOSP,0.96,7263.0,333298
 
 Bullish_Hammer_15m_N500,,,, 
 ======================= 
 nsecode,per_chg,close,volume
-KFINTECH,-0.4,1266.35,743633
-ABREL,-0.76,2826.35,73454
+HONASA,-3.58,255.55,1696683
+BRIGADE,0.07,1280.05,421540
+CREDITACC,-2.33,916.6,154898
+KSB,-0.54,834.0,108618
