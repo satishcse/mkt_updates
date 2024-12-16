@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATACONSUM		0.84		929		1273500
+TATAMOTORS		-0.7		784.8		10013534
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CEATLTD		-0.15		3181		675409
-ANANDRATHI		-1.51		4274		35713
+JUBLPHARMA		-3.04		1080.5		1084731
+HAPPSTMNDS		-0.22		743.75		198478
+RKFORGE		-1.39		941.0		174299
+CCL		-0.12		769.35		168421
+ANANDRATHI		0.49		4289.0		55293
+BAJAJHLDNG		-0.29		11099.0		31257
+ASTRAZEN		0.08		6630.0		4435
