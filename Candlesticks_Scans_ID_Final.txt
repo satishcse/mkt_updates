@@ -6,9 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ATGL		-1.8		701.8		672236
-NH		-1.16		1280.5		228436
-JBMA		-3.77		1677.65		157929
-UTIAMC		-4.03		1312.0		141273
-GRINDWELL		-4.03		2125.75		61782
-SOLARINDS		-2.23		10322.65		37144
+IIFL		-1.64		419.65		1989586
