@@ -1,10 +1,18 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BAJAJFINSV		0.53		1576.4		464077
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PHOENIXLTD		-2.76		1588.95		327821
+CYIENT		-1.18		1776.85		401871
+CAMS		-2.06		5096.05		398747
+AEGISLOG		-1.08		811.45		357029
+ABSLAMC		-0.91		822.2		320875
+MFSL		-1.16		1109.8		286379
+DALBHARAT		-0.23		1812.0		222622
+SUNTV		-0.88		687.4		165485
+AJANTPHARM		-3.51		2873.75		141793
+NUVAMA		-2.92		7012.0		69617
+BBTC		-1.81		2193.85		45776
