@@ -2,13 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.98		771.15		15641493
-BPCL		1.41		286.8		6037032
-JSWSTEEL		-1.04		902.3		744601
+NTPC		-3.78		308.25		15941143
+TITAN		-1.34		3440.25		570107
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SBILIFE		-0.99		1463.15		1229811
-BRIGADE		-2.18		1221.65		461740
-ASTRAZEN		-2.91		6882.1		8364
+PPLPHARMA		-6.7		221.25		10003146
+KEC		-3.59		976.1		718190
+ACE		-4.04		1342.2		225138
+RAYMOND		-4.42		1601.05		224225
+NETWEB		-5.91		2599.25		221106
+KIRLOSBROS		-3.38		2060.45		137049
+PFIZER		-1.42		5254.45		12923
+HONAUT		-1.67		41449.0		4222
