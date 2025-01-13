@@ -2,7 +2,7 @@
 FII_Shareholding_Increased,,,, 
 ========================== 
 nsecode,per_chg,close,volume
-INDUSTOWER,0.03,320.5,13453799
+INDUSTOWER,0.03,320.5,13453836
 
 Fundamental_Tenchnical_Swing,,,, 
 ============================ 
@@ -11,17 +11,17 @@ Fundamental_Tenchnical_Swing,,,,
 Zero_Debt_Momentum,,,, 
 ================== 
 nsecode,per_chg,close,volume
-GICRE,-5.11,407.6,1911789
+GICRE,-5.11,407.6,1911824
 OBEROIRLTY,-5.4,2013.35,707209
-DCXINDIA,-6.12,342.1,963323
+DCXINDIA,-6.12,342.1,963454
 
 FIPA_above_all_SMAs,,,, 
 =================== 
 nsecode,per_chg,close,volume
-BIOCON,1.18,365.2,23776299
-TCS,0.6,4291.1,4003521
+BIOCON,1.18,365.2,23776300
+TCS,0.6,4291.1,4003525
 HCLTECH,-0.29,1989.4,5693915
-MARICO,-0.82,668.4,3161402
+MARICO,-0.82,668.4,3161422
 BAJFINANCE,-1.88,7150.95,664252
 VIJAYA,-3.04,1204.05,1083070
 
