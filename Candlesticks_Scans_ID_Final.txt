@@ -1,16 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SUNPHARMA		1.32		1786.55		1163991
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AADHARHFC		-0.43		395.5		419529
-VIJAYA		-1.61		1131.0		362624
-AFFLE		0.07		1602.4		74386
-APARINDS		-2.53		10042.5		55123
-LINDEINDIA		-1.66		5890.0		37952
-CRISIL		-1.38		5698.15		35566
-SANOFI		-1.45		5447.0		22274
-GRINFRA		1.28		1335.05		12941
+AEGISLOG		-3.63		801.0		1060267
+SIGNATURE		-0.8		1125.05		570143
+NETWEB		-4.71		2338.35		268703
+SCHAEFFLER		-1.35		3237.8		15107
