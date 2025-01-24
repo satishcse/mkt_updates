@@ -1,14 +1,18 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NTPC		0		323.65		7492600
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RKFORGE		-4.58		855.05		859292
-GRAPHITE		-0.64		488.45		383108
-APLLTD		-4.01		978.1		381462
-ENDURANCE		-0.52		2099.3		154908
-RHIM		-1.25		477.95		68185
-GRINFRA		-0.38		1280.4		15666
+ANGELONE		-3.99		2334.35		1348312
+TORNTPOWER		3.19		1469.7		1031287
+TORNTPHARM		-0.47		3248.4		391085
+GSPL		-2.34		350.8		323590
+SHYAMMETL		-2.64		775.75		311006
+ACE		-4.56		1236.15		147054
+KIRLOSENG		-3.75		887.35		116433
+JBMA		-2.21		1476.9		112358
+MASTEK		-4.24		2593.25		49540
