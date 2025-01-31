@@ -2,16 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		1.42		1253.05		9269094
+ITC		2.64		447.7		13541500
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANENERGY		-3.9		534.05		1558565
-TEJASNET		-2.27		866.0		1375159
-GRSE		-1.14		1519.85		922093
-MCX		-1.8		5599.3		366771
-CRAFTSMAN		-5.64		4061.85		290425
-GODREJIND		0.37		879.35		124984
-SKFINDIA		-0.64		3993.7		87906
-THERMAX		-2.07		3683.25		46652
+SUNPHARMA		0.79		1752.85		4273691
+BBTC		0.31		2113.0		51921
