@@ -1,16 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BAJAJ-AUTO		3.48		9155.6		418755
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GODIGIT		-0.57		296.0		675920
-ESCORTS		-4.78		3450.15		473087
-COROMANDEL		-1.11		1789.5		190134
-JUSTDIAL		-3.75		857.9		147737
-ABBOTINDIA		-1.07		25892.1		19350
-RATNAMANI		-0.64		2840.2		10483
-HONAUT		-2.68		39385.8		7425
+BLS		0.55		437.35		1927814
+CELLO		-0.26		653.0		695263
+HAPPSTMNDS		-1.02		707.5		217948
+KIRLOSBROS		-3.91		1838.35		111681
+GILLETTE		-2.63		8493.4		15763
+ASTRAZEN		0.51		7500.15		8334
