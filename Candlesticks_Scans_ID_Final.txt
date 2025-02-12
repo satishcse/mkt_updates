@@ -1,14 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ULTRACEMCO		1.58		11478.5		347204
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-7.8		5190.5		2365616
-KFINTECH		-10.32		1034.9		1267280
-KEC		-5.44		779.95		1138228
-ABREL		-4.49		2110.3		93773
-CEATLTD		-4.73		2725.0		52571
-ZFCVINDIA		-4.16		11250.0		21922
+SUVENPHAR		-3.35		1048.2		119060
