@@ -5,27 +5,23 @@ FII_Shareholding_Increased
 
 Fundamental_Tenchnical_Swing								 
 ============================ 
-nsecode		per_chg		close		volume
-GANESHHOUC		-1.18		1372		123278
+
 
 Zero_Debt_Momentum								 
 ================== 
 nsecode		per_chg		close		volume
-AEROFLEX		-3.37		214.8		1391043
+AEROFLEX		-6.66		200.73		2192895
 
 FIPA_above_all_SMAs								 
 =================== 
 nsecode		per_chg		close		volume
-MUTHOOTFIN		6.29		2320.1		4108514
-SBICARD		5.23		859.1		8034264
-BAJAJFINSV		3.0		1842.35		4068787
-BAJFINANCE		2.28		8401.0		1800038
-WELCORP		1.87		792.1		698515
-JSWSTEEL		1.46		970.4		1415143
-FSL		1.31		360.6		3033448
-INDIGO		0.43		4356.15		839061
-ZENSARTECH		0.41		864.9		1481883
-CASTROLIND		-0.24		206.65		11159359
+GODFRYPHLP		20.0		5999.5		2955629
+SBICARD		-0.1		859.0		4326235
+BAJFINANCE		-0.2		8392.3		863327
+BAJAJFINSV		-0.43		1841.3		1823775
+JSWSTEEL		-0.54		964.6		2690219
+BLUESTARCO		-1.56		1963.6		738076
+MUTHOOTFIN		-2.71		2254.9		1321131
 
 Outperforming_Nifty_1W_3M								 
 ========================= 
