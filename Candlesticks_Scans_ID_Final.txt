@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TECHM		0.37		1665.2		1055896
-BRITANNIA		0.52		4965.4		272142
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SPARC		-2.34		138.01		1711978
+CREDITACC		-7.36		892		1254057
+UNOMINDA		-1.78		850		1044423
