@@ -1,12 +1,21 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SHRIRAMFIN		0.73		585.1		9328602
+WIPRO		-2.22		306.35		8723412
+JSWSTEEL		0.08		981.9		1599138
+TRENT		-1.01		5048.2		912165
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NEWGEN		-3.52		991.55		233948
-EMCURE		-0.41		992.0		139633
-INOXINDIA		0.22		910.35		91277
-ERIS		0.14		1285.0		79413
+POONAWALLA		0.09		290.6		2513503
+SONACOMS		-2.03		507.45		1331629
+SYRMA		-4.84		425.7		949840
+NAUKRI		-1.78		7537.1		185814
+AKUMS		-2.87		496.7		183619
+RAYMOND		-1.18		1381.1		165407
+UTIAMC		-1.84		954.0		89499
+METROBRAND		-2.25		1138.4		20191
+PGHH		-1.77		13740.0		3530
