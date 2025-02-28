@@ -2,36 +2,30 @@
 FII_Shareholding_Increased								 
 ========================== 
 nsecode		per_chg		close		volume
-CHAMBLFERT		2.45		578.0		5029019
-INDUSTOWER		1.78		337.5		8675157
-PAGEIND		0.44		42114.8		35619
+ALKEM		0.73		4646.2		527521
 
 Fundamental_Tenchnical_Swing								 
 ============================ 
 nsecode		per_chg		close		volume
-ANANDRATHI		-0.78		4006		622859
+ANANDRATHI		0.05		4001.05		553861
 
 Zero_Debt_Momentum								 
 ================== 
-nsecode		per_chg		close		volume
-JINDRILL		-8.09		802.9		567410
+
 
 FIPA_above_all_SMAs								 
 =================== 
 nsecode		per_chg		close		volume
-SHRIRAMFIN		5.18		604.0		17098346
-CHOLAHLDNG		3.55		1624.1		861645
-BAJAJFINSV		2.4		1920.1		2878013
-SBICARD		2.18		859.0		2846872
-BAJFINANCE		2.03		8661.0		1837971
-NH		1.53		1488.0		1171115
-JSWSTEEL		1.38		972.0		2049667
-MANAPPURAM		0.89		206.76		39689122
-CASTROLIND		0.5		218.4		5889415
-INDIGO		0.34		4442.3		591509
-AVANTIFEED		-0.46		738.0		1345678
-ANANDRATHI		-0.78		4006.0		622859
-ASHOKLEY		-1.2		224.51		7282091
+FIVESTAR		3.03		753.1		1559270
+SHRIRAMFIN		1.73		617.3		23771834
+INDIGO		0.76		4477.3		2126279
+ANANDRATHI		0.05		4001.05		553861
+BAJFINANCE		-2.01		8530.3		1754581
+SBICARD		-2.1		838.8		2772042
+CASTROLIND		-2.67		212.63		7795408
+BAJAJFINSV		-2.77		1872.3		1797567
+NH		-3.12		1444.5		575318
+MANAPPURAM		-3.51		200.96		34821415
 
 Outperforming_Nifty_1W_3M								 
 ========================= 
