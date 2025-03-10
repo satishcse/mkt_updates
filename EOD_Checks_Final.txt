@@ -2,7 +2,7 @@
 Volume_Shocker_Daily								 
 ==================== 
 nsecode		per_chg		close		volume
-BSOFT		-5.69		409.75		2792668
+BSOFT		-5.69		409.75		2792685
 JMFINANCIL		-7.26		90.42		8258803
 
 BN_NR7								 
@@ -19,17 +19,16 @@ NCPR_KGS
 ======== 
 nsecode		per_chg		close		volume
 SBICARD		1.01		843.25		2287111
-ASIANPAINT		0.38		2278.6		1072211
-TATAMOTORS		-0.02		648.15		10308786
-JUBLFOOD		-0.25		601.3		1721049
+ASIANPAINT		0.38		2278.6		1072321
+TATAMOTORS		-0.02		648.15		10308870
+JUBLFOOD		-0.25		601.3		1721054
 SYNGENE		-0.29		677.65		397534
-SRF		-0.41		2923.2		863185
 M&M		-0.93		2702.6		2520923
 
 OBV_RSI_Buy_Daily								 
 ================= 
 nsecode		per_chg		close		volume
-JSWENERGY		2.78		505.35		9854468
+JSWENERGY		2.78		505.35		9854478
 
 Strong_Stocks_Daily								 
 =================== 

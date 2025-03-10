@@ -2,10 +2,10 @@
 FII_Shareholding_Increased								 
 ========================== 
 nsecode		per_chg		close		volume
-INFY		0.92		1701.45		7558782
-INDUSTOWER		0.86		330.2		4911215
+INFY		0.92		1701.45		7558946
+INDUSTOWER		0.86		330.2		4911225
 CHAMBLFERT		0.5		574.05		1426989
-SUNPHARMA		0.14		1611.5		1600552
+SUNPHARMA		0.14		1611.5		1600628
 
 Fundamental_Tenchnical_Swing								 
 ============================ 
@@ -30,7 +30,7 @@ INDIGO		-0.64		4627.55		534996
 SHRIRAMFIN		-0.83		625.6		4906136
 BLUESTARCO		-0.87		2082.55		644563
 SHYAMMETL		-0.97		816.2		825596
-MANAPPURAM		-1.46		205.34		7943686
+MANAPPURAM		-1.46		205.34		7943711
 CASTROLIND		-2.43		234.81		10705135
 
 Outperforming_Nifty_1W_3M								 
