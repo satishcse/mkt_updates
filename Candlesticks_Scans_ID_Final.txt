@@ -1,11 +1,18 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+LT		-0.15		3189		1414266
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HINDUNILVR		-1.08		2192.9		1526858
-AIAENG		0.41		3150.0		12947
-ABBOTINDIA		-2.3		29795.85		11288
+TEJASNET		-2.42		659.75		858914
+GODIGIT		-2.31		294.0		502448
+KPITTECH		-2.26		1206.0		482888
+BRITANNIA		-1.29		4730.0		284758
+CELLO		0.27		537.55		223891
+JUSTDIAL		-0.64		821.0		153708
+RHIM		-0.28		394.0		104679
+MAPMYINDIA		-2.28		1585.8		67746
+SHREECEM		-0.1		27503.25		17124
