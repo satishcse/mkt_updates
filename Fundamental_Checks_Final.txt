@@ -2,11 +2,11 @@
 FII_Shareholding_Increased								 
 ========================== 
 nsecode		per_chg		close		volume
-CAMS		2.6		3410.1		714926
+CAMS		2.6		3410.1		714951
 PAGEIND		0.24		40218.9		8234
 SUNPHARMA		0.18		1679.85		1666886
 INDHOTEL		0.15		750.45		2525318
-DIVISLAB		-0.94		5614.0		219552
+DIVISLAB		-0.82		5620.45		219553
 
 Fundamental_Tenchnical_Swing								 
 ============================ 
@@ -19,18 +19,18 @@ Zero_Debt_Momentum
 FIPA_above_all_SMAs								 
 =================== 
 nsecode		per_chg		close		volume
-AVANTIFEED		1.58		837.3		2101622
-MANAPPURAM		0.75		208.0		6672933
+AVANTIFEED		2.21		842.55		2101838
+MANAPPURAM		0.81		208.14		6674193
 ISEC		0.56		836.75		727098
-INDIGO		-0.73		4694.5		553789
-BAJFINANCE		-0.82		8415.0		1217272
+INDIGO		-0.6		4700.85		553790
+BAJFINANCE		-0.75		8420.45		1217343
 BLUESTARCO		-0.86		2029.0		520611
-JSWSTEEL		-0.91		1001.2		1218092
+JSWSTEEL		-0.91		1001.2		1218094
 WELCORP		-1.39		809.0		698948
-SHRIRAMFIN		-2.73		619.55		5273332
-CASTROLIND		-3.18		232.3		8011594
+SHRIRAMFIN		-2.73		619.55		5273338
+CASTROLIND		-3.68		231.08		8014036
 
 Outperforming_Nifty_1W_3M								 
 ========================= 
 nsecode		per_chg		close		volume
-NACLIND		16.08		92.38		13577382
+NACLIND		16.08		92.38		13577383
