@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCLIFE		1.71		640.55		2094678
-BRITANNIA		2.0		4768.3		242447
+AXISBANK		0.6		1051.5		4821962
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-KAJARIACER		1.15		880.25		231388
+GODREJAGRO		-0.8		760.95		446312
+SUNDARMFIN		-0.33		4746.85		87913
+SANOFI		-0.41		5600.0		8865
