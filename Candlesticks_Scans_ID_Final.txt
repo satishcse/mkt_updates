@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		1.57		753.85		9356756
+LT		0.61		3247.3		3209331
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GESHIP		0.47		864.45		392609
+PGEL		-1.29		948.45		896364
+BLUESTARCO		-1.85		2015.4		322370
+TATACOMM		-1.8		1565.0		244987
+APARINDS		-1.86		4902.5		81606
