@@ -8,6 +8,6 @@ Bullish_Hammer_15m_N500
 ======================= 
 nsecode		per_chg		close		volume
 PGEL		-1.29		948.45		896364
-BLUESTARCO		-1.85		2015.4		322370
+BLUESTARCO		-1.85		2015.4		322346
 TATACOMM		-1.8		1565.0		244987
-APARINDS		-1.86		4902.5		81606
+APARINDS		-1.86		4902.5		81545
