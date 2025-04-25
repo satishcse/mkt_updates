@@ -10,13 +10,17 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		per_chg		close		volume
-GODREJCP		-0.24		1264.8		1475075
-GLENMARK		-4.42		1358.1		646194
-IDEA		-5.93		7.46		1860675331
+GODREJCP		-0.21		1265.2		1477174
+GLENMARK		-4.51		1356.8		650326
+IDEA		-5.93		7.46		1862443594
 
 Intraday_Volume_Shocker								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TATACONSUM		-0.37		1157.0		1434614
+LICHSGFIN		-3.67		591.15		1260063
+LUPIN		-4.1		2017.9		664088
+DMART		-2.94		4366.5		534197
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -25,14 +29,14 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-SHREECEM		-0.39		30585.0		26553
-AUBANK		-1.42		671.4		3993165
-ESCORTS		-1.76		3328.5		239667
-TORNTPHARM		-2.6		3238.8		317813
-BANKINDIA		-2.88		115.16		10045935
-ALKEM		-3.01		5044.9		75444
-PNB		-3.65		98.95		31171062
-ACC		-6.43		1933.4		1234951
+SHREECEM		-0.5		30550.0		26632
+AUBANK		-1.21		672.8		4018355
+ESCORTS		-1.68		3331.4		240148
+TORNTPHARM		-2.62		3238.1		320255
+BANKINDIA		-2.82		115.23		10078625
+ALKEM		-2.96		5047.5		76032
+PNB		-3.65		98.95		31230582
+ACC		-6.43		1933.4		1236274
 
 Open_Low								 
 ======== 
