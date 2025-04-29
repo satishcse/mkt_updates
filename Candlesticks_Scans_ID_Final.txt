@@ -1,11 +1,18 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-TATASTEEL		2.32		142.07		26971589
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-NEWGEN		-2.82		1025.9		482727
-WOCKPHARMA		-0.44		1391.5		407399
+TEJASNET		-2.47		729.4		5953311
+ARE&M		0.51		989.5		357427
+PIDILITIND		-1.24		3005.0		254147
+VIJAYA		-2.09		1016.6		243728
+RAYMOND		-1.05		1496.4		165346
+PVRINOX		-1.92		964.05		152652
+ROUTE		-0.59		971.8		57679
+TATAINVEST		-0.8		6069.5		22708
+BASF		-0.4		4471.5		8912
+PTCIL		-1.01		13590.0		4183
