@@ -71,9 +71,9 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		per_chg		close		volume
-NESTLEIND		-0.77		2387.5		976110
-SHREECEM		-1.27		30015.0		25432
-DRREDDY		-1.89		1176.0		1663025
+NESTLEIND		-0.77		2387.5		976060
+SHREECEM		-1.23		30025.0		25432
+DRREDDY		-1.89		1176.0		1663018
 
 Open_Low								 
 ======== 
