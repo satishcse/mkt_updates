@@ -1,20 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TATASTEEL		-0.62		142.78		21875453
+INFY		-0.25		1507.6		4478653
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-IIFL		-4.2		344.35		1195800
-KFINTECH		-4.24		1041.7		1075762
-JWL		-4.89		340.15		1059196
-TRITURBINE		-4.16		504.55		893190
-PATANJALI		-1.21		1850.7		427894
-BEML		-4.11		3100.0		416409
-MCX		-4.45		5986.0		412309
-CREDITACC		-5.64		1104.3		393291
-NATCOPHARM		-3.03		830.0		366104
-PHOENIXLTD		-3.68		1498.2		347211
-CYIENT		-3.39		1164.0		335219
-PIIND		-1.36		3629.8		94993
+LALPATHLAB		-0.03		2774.4		167345
