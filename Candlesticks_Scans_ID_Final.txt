@@ -2,12 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-GRASIM		3.2		2824.8		1353533
+GRASIM		3.2		2824.8		1353535
 TITAN		1.37		3636.8		1227751
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 PIDILITIND		0.09		3111.5		686729
-GESHIP		-1.31		909.4		487900
+GESHIP		-1.31		909.4		487901
 POWERINDIA		-6.96		15570.0		232253
