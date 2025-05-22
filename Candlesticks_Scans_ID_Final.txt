@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.57		657.55		2701320
+ETERNAL		0.74		229.97		47166136
+TATACONSUM		0.91		1138.8		619421
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HCLTECH		-2.13		1659.9		2586263
-KAYNES		-0.56		6262.5		2048906
-INDIGO		-0.47		5562.5		433634
-MRF		-0.62		140265.0		9730
+KFINTECH		-0.75		1056.9		974109
+JSWSTEEL		-1.17		1000.9		875245
+ABREL		-2.66		2089.6		112343
+UBL		0.53		2031.2		99526
