@@ -2,12 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		-1.35		12445		434848
+HINDUNILVR		1.22		2359.2		844168
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEG		-2.51		480.2		816418
-JBMA		-1.47		710.9		366291
-IKS		-1.44		1557.2		88924
-HONAUT		-1.84		37080.0		3875
+AEGISLOG		-4.42		832.0		883090
+USHAMART		0.2		325.2		558661
+KIRLOSBROS		-1.32		1837.7		38945
