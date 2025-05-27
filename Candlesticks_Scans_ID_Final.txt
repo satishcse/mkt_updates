@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDUNILVR		1.22		2359.2		844168
+NTPC		-1.44		338.55		24933601
+BEL		0.22		385.4		16857365
+TCS		-1.09		3498.7		2467519
+LT		-0.24		3640.0		2013934
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AEGISLOG		-4.42		832.0		883090
-USHAMART		0.2		325.2		558661
-KIRLOSBROS		-1.32		1837.7		38945
+ADANIPOWER		-1.08		552.55		2768468
+DOMS		-4.04		2393.0		236122
