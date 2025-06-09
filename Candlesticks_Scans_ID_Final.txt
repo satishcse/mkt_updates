@@ -2,16 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ETERNAL		2.07		261.86		66234457
-BEL		-0.71		390.7		17366507
-ONGC		0.96		240.06		5985346
+SUNPHARMA		0.91		1694.4		2589656
+TECHM		0.51		1579.1		598108
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DATAPATTNS		-3.37		3064.3		1492426
-EIDPARRY		-0.51		969.45		169339
-JUBLPHARMA		-0.2		1140.0		116793
-LALPATHLAB		-0.38		2846.2		76490
-VTL		-0.54		485.4		62417
-BAYERCROP		-1.38		5498.0		17366
+CAMS		0.22		4271.3		443747
+IPCALAB		-0.12		1369.3		119187
+CRAFTSMAN		-0.93		5552.5		27702
