@@ -1,13 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-SUNPHARMA		0.91		1694.4		2589656
-TECHM		0.51		1579.1		598108
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CAMS		0.22		4271.3		443747
-IPCALAB		-0.12		1369.3		119187
-CRAFTSMAN		-0.93		5552.5		27702
+USHAMART		-2.68		308.45		599336
+NAVA		-1.39		521.5		319159
+GODREJIND		-2.54		1322.6		197820
+MAPMYINDIA		-0.39		1918.0		36709
