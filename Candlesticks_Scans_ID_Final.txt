@@ -1,13 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+HDFCBANK		-0.67		2001.5		6824503
+AXISBANK		-2.11		1199.2		6559872
+GRASIM		-0.58		2844.5		447868
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FIRSTCRY		-1.51		390.8		29230371
-AEGISLOG		-5.36		781.15		2271533
-HAVELLS		-0.46		1566.8		1884799
-RKFORGE		-1.74		668.55		939698
-OLECTRA		-2.07		1164.2		249364
+
