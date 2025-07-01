@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.67		2001.5		6824503
-AXISBANK		-2.11		1199.2		6559872
-GRASIM		-0.58		2844.5		447868
+POWERGRID		-0.63		298		12347385
+INFY		0.07		1603		4178449
+BAJAJ-AUTO		0.23		8395		363770
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+HSCL		-2.95		502.5		3054311
+KPIL		-1.89		1204.0		1144463
+SUPREMEIND		-0.16		4384.4		365168
+AFFLE		-1.67		1965.0		206282
+NEULANDLAB		-1.14		11863.0		17154
