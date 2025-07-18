@@ -2,7 +2,7 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-EICHERMOT		0.42		5650		391608
+EICHERMOT		0.42		5650		391603
 
 Bullish_Hammer_15m_N500								 
 ======================= 
@@ -10,4 +10,4 @@ nsecode		per_chg		close		volume
 SBILIFE		-1.44		1802.8		886192
 GODFRYPHLP		-1.25		9202.5		149560
 IKS		-0.38		1610.2		70571
-MRF		-1.27		150535.0		6481
+MRF		-1.27		150535.0		6478
