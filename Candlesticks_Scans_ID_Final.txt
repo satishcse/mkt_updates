@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HCLTECH		-1.19		1530.4		3368637
-ULTRACEMCO		0.63		12577.0		512516
-TRENT		0.02		5376.0		404840
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SUMICHEM		-3.55		584.65		737378
-WOCKPHARMA		-2.31		1733.0		426583
+RAYMONDLSL		-3.9		1153.0		154935
+ABREL		-0.65		2135.8		110181
