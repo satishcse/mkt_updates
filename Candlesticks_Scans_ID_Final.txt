@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		0.46		1472.5		8818218
+ITC		-0.25		414.95		12196187
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAYMONDLSL		-3.9		1153.0		154935
-ABREL		-0.65		2135.8		110181
+PERSISTENT		-1.89		5605.5		456892
+MASTEK		-4.08		2549.3		233810
+NEULANDLAB		-1.97		13717.0		37690
