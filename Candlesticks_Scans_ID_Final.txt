@@ -1,11 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BAJFINANCE		-1.61		887.75		5459501
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GRSE		-2.62		2602.4		1043129
-SHYAMMETL		-2.3		946.05		212466
-BAJAJHLDNG		-5.08		13785.0		131463
+DBREALTY		-1.57		176.99		677727
+WELCORP		-0.8		872.0		308939
+RHIM		-1.75		497.6		287404
+KEC		-1.02		819.6		262795
+APARINDS		-0.91		8351.5		159943
+SOLARINDS		-1.66		14455.0		83299
+TATACOMM		-1.26		1647.7		83144
