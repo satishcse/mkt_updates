@@ -15,10 +15,9 @@ ZYDUSLIFE		-0.94		978.6		1108790
 Zero_Debt_Momentum								 
 ================== 
 nsecode		per_chg		close		volume
-QPOWER		4.29		822.55		1133004
-ATHERENERG		0.11		417.7		1224907
-SBFC		-1.11		112.17		3008616
-IOLCP		-2.19		94.7		661264
+ATHERENERG		-0.3		430.2		1179714
+IOLCP		-1.01		90.91		628088
+SBFC		-2.65		105.25		1208588
 
 FIPA_above_all_SMAs								 
 =================== 
