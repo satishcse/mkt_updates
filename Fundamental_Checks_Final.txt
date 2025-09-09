@@ -22,7 +22,7 @@ PIDILITIND		-0.12		3100.1		307829
 ANGELONE		-0.21		2336.0		338579
 TVSMOTOR		-0.7		3566.3		675896
 BPCL		-0.79		313.95		6476251
-HDFCAMC		-1.05		5652.5		249298
+HDFCAMC		-1.05		5652.5		249296
 
 Fundamental_Tenchnical_Swing								 
 ============================ 
