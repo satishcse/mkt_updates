@@ -1,11 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+JIOFIN		0.68		310.05		10838910
+TCS		1.99		3110.0		2079428
+ADANIENT		1.24		2340.2		390495
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.09		965.15		13985539
-STARHEALTH		-2.57		440.0		371473
-SHREECEM		-0.95		30195.0		22879
+EIHOTEL		-1.61		401.15		329349
+UBL		-0.34		1798.5		199619
