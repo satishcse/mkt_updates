@@ -2,14 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JIOFIN		0.21		310.7		6146666
-M&M		-0.24		3595.7		1949947
-TITAN		-1.01		3584.2		495420
-ASIANPAINT		0.5		2555.9		423963
+HDFCBANK		-0.05		967.3		14345309
+NTPC		0.2		331.7		5256846
+HCLTECH		-0.03		1467.2		2110839
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AKUMS		-1.93		459.65		324826
-GNFC		-0.07		506.75		228329
-ULTRACEMCO		-0.69		12392.0		132660
+BERGEPAINT		-2.18		539.35		497659
+BALKRISIND		-0.95		2388.7		270641
+CRAFTSMAN		-1.19		6697.0		9297
