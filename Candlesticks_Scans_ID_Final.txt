@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HDFCBANK		-0.05		967.3		14345309
-NTPC		0.2		331.7		5256846
-HCLTECH		-0.03		1467.2		2110839
+INFY		0.19		1511.3		8923112
+TCS		1.09		3145.7		2573429
+HDFCLIFE		-0.37		774.35		1758601
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BERGEPAINT		-2.18		539.35		497659
-BALKRISIND		-0.95		2388.7		270641
-CRAFTSMAN		-1.19		6697.0		9297
+BERGEPAINT		-1.38		536.75		547566
