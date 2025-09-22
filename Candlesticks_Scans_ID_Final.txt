@@ -9,7 +9,6 @@ TCS		-3.01		3073.8		3634901
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SWANCORP		0.15		489.1		3206039
 HYUNDAI		-3.12		2721.7		1008077
 HAL		-2.19		4808.7		976357
 PVRINOX		-0.71		1108.0		272589
