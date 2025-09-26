@@ -2,17 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.49		856.95		6960066
+SBIN		-0.49		856.95		6960080
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PNBHOUSING		-4.81		864.1		1465766
+PNBHOUSING		-4.81		864.1		1466004
 GODREJCP		-2.13		1163.9		1224349
 HSCL		-2.12		452.5		929364
 HEROMOTOCO		-0.49		5328.0		689957
 PHOENIXLTD		-1.08		1545.9		477740
-PATANJALI		-1.83		589.0		450285
+PATANJALI		-1.83		589.0		450287
 RAMCOCEM		-2.57		1001.6		361301
 BRITANNIA		-0.31		5935.0		189383
 ROUTE		-3.61		799.5		182078
