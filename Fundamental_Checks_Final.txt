@@ -7,7 +7,8 @@ EICHERMOT		0.87		7047		679362
 Fundamental_Tenchnical_Swing								 
 ============================ 
 nsecode		per_chg		close		volume
-HEROMOTOCO		-0.49		5328		689962
+HEROMOTOCO		-0.49		5328.0		689962
+CEMPRO		-2.04		801.5		470250
 
 Zero_Debt_Momentum								 
 ================== 
