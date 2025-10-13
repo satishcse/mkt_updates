@@ -87,7 +87,7 @@ CNXMIDCAP		0.11		58762.35		0
 High_Relative_Volume_Spurt_5m								 
 ============================= 
 nsecode		per_chg		close		volume
-DALBHARAT		0.32		2234.8		250949
+DALBHARAT		0.33		2235		250957
 
 Open_High								 
 ========= 
