@@ -1,16 +1,19 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-BEL		-0.99		409.4		7858503
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CLEAN		-0.64		1065.4		363632
-WESTLIFE		-2.43		626.15		166890
-COHANCE		-2.14		885.4		120957
-VIJAYA		-0.94		971.85		78056
-LTTS		-2.86		4193.8		57145
-BASF		-1.19		4536.9		12024
-JSWHL		-1.87		16828.0		3003
+SUNTV		-1.4		562.95		472535
+DATAPATTNS		-2.24		2697.2		348462
+ARE&M		-0.83		991.95		341898
+ELGIEQUIP		-0.53		460.45		320250
+JUSTDIAL		-1.65		805.95		248146
+CARBORUNIV		-0.56		909.05		154156
+JKCEMENT		-3.33		6501.0		137859
+RAINBOW		-0.55		1322.5		92325
+FLUOROCHEM		-0.62		3615.8		78647
+LTTS		-0.44		4134.5		55336
+JSWHL		-0.17		16663.0		1389
