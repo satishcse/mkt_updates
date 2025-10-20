@@ -2,14 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATAMOTORS		0.77		399.65		10209749
-AXISBANK		2.01		1224.3		7317829
-NTPC		0.41		342.4		6749555
-JSWSTEEL		-1.51		1145.7		1174666
-INDIGO		1.47		5934.0		393230
+TATAMOTORS		0.77		399.65		10289671
+AXISBANK		1.99		1224.1		7358044
+NTPC		0.37		342.25		6829683
+SUNPHARMA		0.51		1687.7		1631097
+JSWSTEEL		-1.51		1145.7		1193535
+INDIGO		1.5		5935.5		395814
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HEG		-1.03		506.95		386632
-CHALET		-2.26		953.9		131707
+HEG		-0.95		507.4		389729
