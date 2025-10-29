@@ -1,11 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BAJFINANCE		-0.91		1062.95		5386803
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SRF		-2.03		3019.4		1370360
-BEML		-0.4		4420.3		171325
-FACT		-0.29		885.1		43778
+DATAPATTNS		-1.24		2753		101998
+LINDEINDIA		0.07		6069		7638
