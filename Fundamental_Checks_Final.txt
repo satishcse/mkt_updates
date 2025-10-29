@@ -22,7 +22,12 @@ HEROMOTOCO		-1.03		5551.5		432099
 
 Fundamental_Tenchnical_Swing								 
 ============================ 
-
+nsecode		per_chg		close		volume
+LTIM		1.39		5674.0		189897
+PERSISTENT		1.1		5891.1		307900
+CEMPRO		1.05		846.15		327175
+ZYDUSLIFE		0.16		1002.9		730755
+HEROMOTOCO		-1.03		5551.5		432099
 
 Zero_Debt_Momentum								 
 ================== 
