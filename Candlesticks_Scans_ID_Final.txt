@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		-3.95		1201.5		7923437
-MARUTI		0.45		16210.0		137629
+DRREDDY		-3.96		1201.4		7934759
+MARUTI		0.46		16212.0		138045
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIGO		-1.38		5733.0		599151
+TIINDIA		-2.38		3066.0		314921
 SUNDARMFIN		-1.54		4568.9		25274
