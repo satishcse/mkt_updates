@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-3.16		1531.2		2123871
+CIPLA		-3.02		1533.4		2238874
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-0.19		2442.6		1548390
-TVSMOTOR		-0.42		3484.3		1147337
+BSE		-0.19		2442.6		1552988
+MRF		-1.22		157955.0		2452
