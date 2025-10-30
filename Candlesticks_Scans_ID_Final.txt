@@ -1,16 +1,19 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+ICICIBANK		-0.4		1364.9		1084024
+BAJAJFINSV		-0.36		2129.3		55201
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIENT		-0.43		2526.4		209406
-SUPREMEIND		-0.76		3820.1		93524
-KAYNES		-1.0		6849.0		63168
-DIXON		-0.24		15475.0		34986
-POLYMED		-0.87		1951.3		15928
-LTTS		-0.2		4098.1		8566
-CRISIL		0.28		4968.4		4559
-HONAUT		-0.01		37390.0		261
+ADANIENT		-0.25		2531.0		213689
+HDFCAMC		-0.73		5358.5		130376
+GODFRYPHLP		-0.45		3142.8		39535
+TATAELXSI		-0.13		5531.5		35543
+DIXON		-0.23		15477.0		35360
+POLYMED		-0.88		1951.2		16020
+LTTS		-0.24		4096.6		8717
+CRISIL		0.19		4963.6		4614
+DOMS		-0.17		2526.7		2209
