@@ -1,14 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+LT		2.3		4049.2		1401253
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LICI		-0.72		902.25		174659
-ARE&M		0.1		1014.3		49535
-BLUESTARCO		-0.89		1947.7		20559
-CUMMINSIND		-0.57		4333.0		17499
-NUVAMA		-0.15		7346.5		14811
-SIEMENS		-0.2		3142.5		12486
+GODREJPROP		-1.01		2287.9		75179
+ARE&M		0.1		1014.3		49888
+PHOENIXLTD		-0.18		1704.8		30962
+SIEMENS		-0.16		3143.6		12555
