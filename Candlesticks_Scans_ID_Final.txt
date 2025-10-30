@@ -1,9 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+NESTLEIND		0.29		1276.7		113189
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-DMART		-0.77		4197		47419
+HYUNDAI		-0.75		2340.0		587605
+DMART		-0.72		4199.0		47774
+CENTURYPLY		-0.18		751.9		27716
