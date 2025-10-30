@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-INDIGO		-0.52		5782.5		180753
+INDIGO		-0.54		5781.5		181669
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+APARINDS		-1.81		9290.5		72216
+ACC		-0.55		1868.9		58613
