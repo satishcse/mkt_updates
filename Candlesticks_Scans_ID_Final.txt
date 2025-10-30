@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BAJFINANCE		-1.52		1046.75		2589149
-KOTAKBANK		-0.84		2132.4		1529862
-SUNPHARMA		-0.93		1700.0		1255640
-TATACONSUM		-0.59		1170.1		343601
+KOTAKBANK		-0.81		2133.0		1532474
+TATACONSUM		-0.59		1170.1		344055
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+MRF		-1.28		157850		2647
