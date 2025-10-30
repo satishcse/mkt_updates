@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BEL		0.74		410.2		5057696
-HINDALCO		-0.2		854.55		1235153
-HCLTECH		-0.57		1548.4		814069
-TRENT		-0.53		4755.3		109372
+BEL		0.69		410.0		5071445
+HINDALCO		-0.19		854.65		1236940
+HCLTECH		-0.52		1549.2		815646
+TRENT		-0.56		4754.0		109500
 
 Bullish_Hammer_15m_N500								 
 ======================= 
