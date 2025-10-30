@@ -2,10 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MARUTI		0.43		16208		136581
+MARUTI		0.43		16207		136800
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-360ONE		-0.59		1120.0		220478
-SCHNEIDER		-0.12		852.1		96941
+360ONE		-0.59		1120.0		221228
+SCHNEIDER		-0.1		852.3		96951
