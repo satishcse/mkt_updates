@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-RELIANCE		-0.59		1495.4		4119097
-SBILIFE		-0.62		1958.1		432267
-GRASIM		-0.13		2955.0		91115
+TCS		-0.58		3040.0		1349601
+SBILIFE		-0.65		1957.6		433738
+GRASIM		-0.12		2955.1		91305
 
 Bullish_Hammer_15m_N500								 
 ======================= 
