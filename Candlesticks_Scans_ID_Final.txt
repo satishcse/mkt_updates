@@ -2,16 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ADANIPORTS		-0.03		1454.3		333475
-MAXHEALTH		-1.2		1175.2		155767
-BAJAJFINSV		-0.38		2128.9		56606
+ADANIPORTS		-0.06		1454.0		335873
+MAXHEALTH		-1.24		1174.7		156959
+BAJAJFINSV		-0.46		2127.2		56707
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-0.94		4735.6		74009
-APARINDS		-1.4		9329.5		54259
-GESHIP		-0.31		1068.55		52353
-DIXON		-0.05		15504.0		37486
-AFFLE		0.05		1910.6		13293
-SUNDARMFIN		-0.41		4621.7		4024
+HCLTECH		-0.94		1542.7		221494
+AFFLE		0.0		1909.7		13304
+SUNDARMFIN		-0.4		4621.8		4045
+BAJAJHLDNG		-0.46		12561.0		3855
