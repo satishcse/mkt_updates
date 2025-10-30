@@ -6,7 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ADANIGREEN		-0.06		1111.9		4641310
-TATAELXSI		-0.18		5528.5		41552
-VIJAYA		-0.36		1003.55		28937
-KPRMILL		-1.5		1064.0		23977
+ADANIGREEN		-0.01		1112.5		4692909
+TATAELXSI		-0.18		5528.5		41727
+KPRMILL		-1.5		1064.0		24141
+CENTURYPLY		-0.06		752.8		22370
