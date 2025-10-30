@@ -1,9 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+INFY		-0.91		1496.7		1514649
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TATAINVEST		-0.62		807		338397
+BHARTIARTL		-1.57		2067.7		1346196
+TATAINVEST		-0.62		807.0		339002
