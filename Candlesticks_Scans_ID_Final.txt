@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.5		241.08		5124919
-TCS		-0.64		3038.1		1393883
-JSWSTEEL		-0.13		1206.3		686002
+WIPRO		-0.49		241.1		5126157
+TCS		-0.62		3038.7		1395279
+JSWSTEEL		-0.07		1207.0		686978
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-FLUOROCHEM		-0.47		3615		25872
+
