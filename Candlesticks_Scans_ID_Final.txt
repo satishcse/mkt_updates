@@ -2,9 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JIOFIN		0.06		309.95		7946090
-SHRIRAMFIN		0.11		739.25		6026493
+JIOFIN		0.05		309.9		8022670
+SHRIRAMFIN		0.11		739.25		6043254
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+TIINDIA		-2.63		3058.1		371475
+ACC		-1.19		1857.0		201517
+DATAPATTNS		-1.64		2707.8		153145
+GILLETTE		0.55		9113.0		34262
+ATUL		-1.32		5813.5		17915
