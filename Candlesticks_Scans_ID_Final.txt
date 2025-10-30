@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-HINDALCO		-0.15		855.0		1385222
-HCLTECH		-0.6		1548.0		859330
-ADANIPORTS		0.49		1462.0		679725
-TRENT		-0.7		4746.9		112050
+HINDALCO		-0.11		855.3		1389122
+HCLTECH		-0.57		1548.4		864157
+ADANIPORTS		0.47		1461.7		682246
+TRENT		-0.69		4747.5		112108
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ZFCVINDIA		-0.76		12924		2931
+BHARTIARTL		-1.69		2065.2		1751374
+ZFCVINDIA		-0.8		12919.0		2941
