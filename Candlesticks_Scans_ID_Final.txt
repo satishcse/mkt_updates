@@ -2,11 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-DRREDDY		-4.46		1195.1		4632411
-MAXHEALTH		-0.87		1179.1		226407
+NESTLEIND		0.31		1276.9		125273
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TIINDIA		-0.36		3129.4		95648
-MRF		-0.81		158600.0		1379
+TIINDIA		-0.31		3131.2		103911
