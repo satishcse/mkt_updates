@@ -6,6 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AEGISLOG		-1.93		770.2		146929
-DMART		-0.71		4199.2		47909
+DMART		-0.71		4199.2		48171
+SOBHA		-0.42		1552.8		38375
 CENTURYPLY		-0.21		751.7		27717
+SIEMENS		-0.37		3137.2		21318
