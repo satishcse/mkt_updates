@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBILIFE		-0.15		1967.4		650698
+SBILIFE		-0.17		1967		651425
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-RAYMONDLSL		-2.04		1188.6		169698
+RAYMONDLSL		-2.25		1186		170076
