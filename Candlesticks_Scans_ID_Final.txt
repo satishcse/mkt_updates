@@ -1,9 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+TCS		-0.58		3040		545194
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-MRF		-0.86		158530		1356
+ADANIENSOL		-1.51		952.9		447428
+EICHERMOT		-0.63		6908.5		92977
+MASTEK		-1.14		2151.1		19320
+MRF		-0.81		158600.0		1365
