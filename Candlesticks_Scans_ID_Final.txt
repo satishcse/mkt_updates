@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-2.79		1537		2616957
+CIPLA		-2.38		1543.5		2639313
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-0.16		2443.5		1561321
-ADANIENT		-0.54		2523.6		536601
-BAJAJFINSV		-1.41		2106.8		250416
-BAYERCROP		0.64		4885.8		23735
+TVSMOTOR		-0.34		3487		1154411
+SHREECEM		-1.61		28740		12809
