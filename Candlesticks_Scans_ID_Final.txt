@@ -6,7 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDUSINDBK		-0.64		802.3		981773
-CHOLAFIN		0.09		1712.0		125468
-SUPREMEIND		-0.83		3817.5		102655
-UTIAMC		-2.16		1249.2		44235
+SUPREMEIND		-0.83		3817.5		102736
+UTIAMC		-2.17		1249.1		44294
+KPRMILL		-1.5		1064.0		23328
+GLAXO		-0.86		2620.2		14818
+SHREECEM		-1.37		28810.0		5093
