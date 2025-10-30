@@ -1,13 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HCLTECH		-0.6		1548.0		884665
-ADANIPORTS		0.49		1462.0		688619
-TRENT		-0.68		4747.9		113963
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-0.69		1931.4		12166
-ZFCVINDIA		-0.75		12925.0		2945
+ZFCVINDIA		-0.75		12925		2945
