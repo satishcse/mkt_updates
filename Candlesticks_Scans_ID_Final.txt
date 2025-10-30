@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-CIPLA		-2.38		1543.5		2639313
+ETERNAL		-0.05		330.3		14881797
+POWERGRID		-1.32		291.45		6718642
+JIOFIN		0.08		310.0		6696924
+RELIANCE		-1.0		1489.2		5268800
+NTPC		-0.78		344.8		4232392
+HINDALCO		-0.04		855.9		2773514
+AXISBANK		-0.42		1243.6		2301655
+TATACONSUM		-0.55		1170.6		269340
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-TVSMOTOR		-0.34		3487		1154411
-SHREECEM		-1.61		28740		12809
+
