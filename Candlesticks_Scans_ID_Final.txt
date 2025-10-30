@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MAXHEALTH		-0.69		1181.3		901032
-BAJAJ-AUTO		-1.16		8929.0		194773
-MARUTI		0.5		16219.0		139132
+SBILIFE		-0.09		1968.6		641065
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-RELIANCE		-0.96		1489.7		6596261
-SUNDARMFIN		-1.54		4568.9		25274
+
