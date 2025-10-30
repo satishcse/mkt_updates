@@ -6,10 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BHEL		2.0		250.3		19206800
-BRIGADE		-0.6		1028.3		85306
-GODREJPROP		-0.98		2288.7		78471
-NATCOPHARM		-0.17		826.7		41303
-BLUESTARCO		-0.91		1947.3		21481
-GRASIM		-0.95		2930.7		21072
-SIEMENS		-0.15		3144.0		13015
+SCHAEFFLER		-0.4		3931.6		1692
