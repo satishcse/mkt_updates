@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		-0.74		2134.5		817741
-NESTLEIND		-0.16		1271.0		166278
-ULTRACEMCO		0.47		12055.0		51274
+KOTAKBANK		-0.73		2134.8		818597
+NESTLEIND		-0.17		1270.9		166422
+ULTRACEMCO		0.38		12045.0		51423
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BRIGADE		-1.4		1020		150793
+JSL		-3.66		774.3		372470
+BRIGADE		-1.23		1021.8		152014
