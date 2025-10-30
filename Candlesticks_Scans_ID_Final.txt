@@ -2,11 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-WIPRO		-0.43		241.23		4750877
-KOTAKBANK		-0.76		2134.1		826472
-NESTLEIND		-0.15		1271.1		168330
-ULTRACEMCO		0.33		12038.0		52189
+WIPRO		-0.46		241.17		4786264
+KOTAKBANK		-0.78		2133.8		832744
+NESTLEIND		-0.17		1270.8		169029
+ULTRACEMCO		0.33		12038.0		52446
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		per_chg		close		volume
+BRIGADE		-1.14		1022.75		155127
