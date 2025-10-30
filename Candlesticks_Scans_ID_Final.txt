@@ -2,10 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ICICIBANK		-0.29		1366.4		5002331
-BAJAJFINSV		-1.4		2107.0		208848
+ICICIBANK		-0.28		1366.6		5046111
+BAJAJFINSV		-1.4		2107.0		209556
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-SHREECEM		-1.47		28780		12029
+DALBHARAT		-1.26		2104		159939
+SHREECEM		-1.44		28790		12037
