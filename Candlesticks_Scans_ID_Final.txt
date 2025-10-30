@@ -6,6 +6,4 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-JSWSTEEL		-0.51		1201.7		865501
-BDL		-0.81		1513.4		263469
-TIINDIA		-1.27		3100.9		258733
+BDL		-0.84		1513		263692
