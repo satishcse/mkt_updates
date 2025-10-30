@@ -2,13 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-TATASTEEL		-1.11		183.14		3952855
+TATASTEEL		-1.23		182.91		4093855
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-PRESTIGE		0.17		1756.0		36754
-DEEPAKFERT		-1.08		1487.2		28914
-UTIAMC		-1.51		1257.5		26402
-AAVAS		-0.77		1652.4		24232
-METROPOLIS		-0.64		1932.4		3797
+JBMA		0.44		680.6		226834
+PRESTIGE		0.16		1755.9		36775
+METROPOLIS		-0.64		1932.4		3828
