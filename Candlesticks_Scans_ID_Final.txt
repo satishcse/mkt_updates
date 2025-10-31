@@ -2,10 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JIOFIN		0.02		309.8		8395921
-SHRIRAMFIN		-0.11		737.65		6332432
+ASIANPAINT		-0.5		2510.8		609119
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ACC		-1.06		1859.3		212796
+HDFCAMC		0.27		5379.0		466167
+MEDANTA		-4.45		1311.5		416125
+KAYNES		-1.4		6704.5		206346
+GILLETTE		-0.96		9016.5		160369
+ABB		-1.12		5220.0		146858
+KEI		-1.87		4032.0		146537
+EIDPARRY		-0.45		1072.4		127525
