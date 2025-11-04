@@ -2,15 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ASIANPAINT		-0.5		2510.8		609131
+ITC		-1.22		408.9		10085404
+HCLTECH		-0.93		1529.1		1666863
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		0.27		5379.0		466168
-MEDANTA		-4.45		1311.5		416125
-KAYNES		-1.4		6704.5		206346
-GILLETTE		-0.96		9016.5		160369
-ABB		-1.12		5220.0		146858
-KEI		-1.87		4032.0		146560
-EIDPARRY		-0.45		1072.4		127525
+NETWEB		-4.44		3630.3		2422207
+KFINTECH		-3.03		1069.4		660313
+SWANCORP		-3.56		455.0		601990
+NIACL		-0.42		182.22		533669
+ULTRACEMCO		-1.1		11819.0		199364
+CHOLAHLDNG		0.46		2014.8		152609
+ERIS		0.23		1601.0		43178
