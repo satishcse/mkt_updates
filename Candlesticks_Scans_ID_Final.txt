@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-0.3		251.45		7322983
-NTPC		-0.2		325.45		5184836
+ONGC		-0.28		251.5		7355167
+NTPC		-0.2		325.45		5212246
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-AKUMS		-3.18		438.95		253624
-PVRINOX		-2.19		1128.0		192210
-ZENTEC		0.2		1361.5		191138
-ESCORTS		-2.15		3551.0		73391
-GLAXO		-1.89		2539.0		57705
+AKUMS		-3.25		438.6		254839
+GLAXO		-1.89		2538.9		57804
