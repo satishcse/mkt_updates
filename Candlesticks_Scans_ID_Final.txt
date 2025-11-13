@@ -1,10 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-HINDALCO		1.09		793.75		5411475
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ENDURANCE		-0.92		2802.6		45579
+JSWSTEEL		-0.81		1181.8		976290
+JSL		-1.71		728.25		578463
+DATAPATTNS		1.29		2792.2		328396
+ABB		-1.09		4924.0		322415
+GODFRYPHLP		-0.44		3011.4		90753
+ESCORTS		-1.21		3570.4		54478
+BASF		-0.1		4493.5		6720
+MRF		-0.25		157775.0		3575
