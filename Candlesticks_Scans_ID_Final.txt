@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-NESTLEIND		1.1		1279		726451
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HYUNDAI		1.31		2421.1		572457
-NAVA		-2.02		535.85		314616
-JUBLPHARMA		-2.4		1108.0		96722
-SHYAMMETL		-1.28		836.7		66261
+HAL		-0.58		4716.6		798346
+DOMS		-0.97		2532.9		15857
