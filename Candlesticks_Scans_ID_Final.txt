@@ -2,9 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-KOTAKBANK		0.51		2080.4		629287
+ETERNAL		1.51		306.85		14488723
+LT		1.63		4062.0		2058237
+GRASIM		2.13		2744.0		444976
+TITAN		1.11		3897.7		364597
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-CREDITACC		-2.03		1361		43243
+DEEPAKNTR		-0.7		1569.5		189351
