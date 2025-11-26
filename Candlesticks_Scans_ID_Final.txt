@@ -1,10 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+KOTAKBANK		0.48		2079.9		620756
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
 ATUL		-0.62		5934.5		3017
-MRF		-0.29		154335.0		1216
