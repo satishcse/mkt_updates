@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.57		403.1		1330986
-COALINDIA		1.43		375.35		683654
-ASIANPAINT		0.57		2892.2		119353
+ITC		0.52		402.9		1345477
+COALINDIA		1.43		375.35		685812
+ASIANPAINT		0.49		2890.0		120025
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-HDFCAMC		-50		2668		135920
+HDFCAMC		-49.97		2670		137423
