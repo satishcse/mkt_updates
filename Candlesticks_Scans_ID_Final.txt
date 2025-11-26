@@ -1,7 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+SBILIFE		0.43		2039.7		114147
+APOLLOHOSP		0.27		7350.0		97006
 
 Bullish_Hammer_15m_N500								 
 ======================= 
