@@ -2,9 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		0.56		403.05		1186886
-KOTAKBANK		0.57		2081.8		420300
-MARUTI		0.88		16029.0		44612
+ITC		0.55		403.0		1203209
+KOTAKBANK		0.61		2082.5		423865
+MARUTI		0.85		16024.0		44898
 
 Bullish_Hammer_15m_N500								 
 ======================= 
