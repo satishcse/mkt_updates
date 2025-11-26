@@ -2,12 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-BEL		0.44		412.05		2172499
-ITC		0.49		402.75		1484511
-COALINDIA		1.35		375.05		709171
-ASIANPAINT		0.25		2883.0		127896
+NESTLEIND		1.12		1277.4		202814
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		per_chg		close		volume
-HDFCAMC		-50.01		2667.5		142009
+
