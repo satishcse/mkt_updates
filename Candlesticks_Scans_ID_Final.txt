@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-SBIN		-0.6		973.1		8808000
-COALINDIA		0.93		379.65		4216785
+SBIN		-0.6		973.1		8808031
+COALINDIA		0.93		379.65		4216795
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-TRENT		-0.81		4215.9		542846
+TRENT		-0.81		4215.9		542848
 NAVA		-0.98		516.9		419089
-DATAPATTNS		-1.4		2929.1		357380
+DATAPATTNS		-1.4		2929.1		357408
 KIRLOSENG		-0.6		1118.1		206005
 DEEPAKNTR		-1.05		1542.2		183224
-CEATLTD		-0.13		3841.9		84091
+CEATLTD		-0.17		3840.6		84094
