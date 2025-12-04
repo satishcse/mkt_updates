@@ -1,13 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-INDIGO		-1.67		5697.5		1179979
-EICHERMOT		-0.18		7112.5		448180
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LT		-1.05		4030.5		1490917
-CLEAN		-1.74		899.05		281119
-CERA		-1.66		5409.5		10239
+INDIANB		-1.25		802.6		2081606
+GLAND		-2.04		1734.9		133475
+SUNDARMFIN		-0.48		4667.7		44715
+PTCIL		-0.63		18260.0		33502
+KIRLOSBROS		-0.35		1633.3		27072
