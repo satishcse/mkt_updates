@@ -1,13 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+BAJFINANCE		-0.87		1017.5		5968330
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-INDIANB		-1.25		802.6		2081606
-GLAND		-2.04		1734.9		133475
-SUNDARMFIN		-0.48		4667.7		44715
-PTCIL		-0.63		18260.0		33502
-KIRLOSBROS		-0.35		1633.3		27072
+IKS		-0.68		1584		179974
