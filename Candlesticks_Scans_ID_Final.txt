@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ITC		-0.58		400.55		12320610
-APOLLOHOSP		1.26		7098.0		303080
+ONGC		-1.12		235.35		12333979
+TECHM		-0.19		1575.4		784979
+BAJAJFINSV		-0.77		2067.1		483406
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-METROPOLIS		-0.6		1910.9		29477
-HONAUT		0.15		33895.0		1333
+ELGIEQUIP		0.17		488.75		303871
+COHANCE		-1.03		530.3		264615
+KIRLOSENG		-0.72		1136.4		133586
