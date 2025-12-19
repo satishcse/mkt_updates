@@ -2,13 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-ONGC		-1.12		235.35		12334115
-TECHM		-0.19		1575.4		784979
-BAJAJFINSV		-0.77		2067.1		483406
+RELIANCE		1.33		1564.9		13935091
+TATACONSUM		0.94		1182.5		598047
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-ELGIEQUIP		0.17		488.75		303871
-COHANCE		-1.03		530.3		264615
-KIRLOSENG		-0.72		1136.4		133586
+TANLA		-5.18		535.0		824234
+ATGL		-2.07		569.9		760023
+SKFINDIA		-1.57		1739.0		134370
