@@ -1,13 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		per_chg		close		volume
-ETERNAL		-1.02		300.7		32088206
-EICHERMOT		6.51		7771.0		2286430
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-OFSS		-1.7		7217.5		74737
-MAPMYINDIA		-1.77		1275.4		72133
-CERA		-0.31		5271.1		6857
+BSE		-1.07		3143.2		2525871
+ANANTRAJ		-2.69		548.85		1892390
+SCHNEIDER		-0.74		788.95		839396
+FORCEMOT		-4.36		23840.0		117108
+EMCURE		-2.72		1458.1		100129
+NEULANDLAB		-1.74		12960.0		46323
