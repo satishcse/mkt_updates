@@ -1,14 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		per_chg		close		volume
+JIOFIN		-0.1		262.3		7407032
+AXISBANK		-0.08		1357.2		4513065
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-BSE		-1.07		3143.2		2525871
-ANANTRAJ		-2.69		548.85		1892370
-SCHNEIDER		-0.74		788.95		839396
-FORCEMOT		-4.36		23840.0		117108
-EMCURE		-2.72		1458.1		100129
-NEULANDLAB		-1.74		12960.0		46323
+LLOYDSME		-1.04		1175.7		346740
