@@ -2,10 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-JIOFIN		-0.1		262.3		7407032
-AXISBANK		-0.08		1357.2		4513065
+SBIN		0.45		1218.9		10417264
+HINDALCO		1.03		899.25		3909666
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-LLOYDSME		-1.04		1175.7		346740
+FIRSTCRY		-5.98		216.15		5742937
+DRREDDY		-0.35		1280.3		689997
+RRKABEL		-0.23		1418.9		126564
+GRAVITA		-2.03		1619.5		100877
+ZFCVINDIA		-2.34		15557.0		7294
