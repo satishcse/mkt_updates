@@ -23,7 +23,7 @@ Fundamental_Tenchnical_Swing
 ============================ 
 nsecode		per_chg		close		volume
 ABB		0.78		5881.5		178419
-TORNTPHARM		-1.12		4210.8		347895
+TORNTPHARM		-1.12		4210.8		347894
 
 Zero_Debt_Momentum								 
 ================== 
