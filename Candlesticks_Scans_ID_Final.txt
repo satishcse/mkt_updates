@@ -2,9 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		per_chg		close		volume
-MAXHEALTH		0.26		1086.4		2380492
+JIOFIN		0.65		256.9		8834568
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		per_chg		close		volume
-GICRE		-0.96		386.1		536108
+GMDCLTD		0.63		564.4		1626862
+GODFRYPHLP		-2.62		2091.7		1405555
+JWL		-2.32		277.45		839404
+GSPL		0.56		304.8		187718
+INOXINDIA		-0.36		1151.0		27160
