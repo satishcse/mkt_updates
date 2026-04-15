@@ -1,11 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		close		per_chg		volume
-ITC		298.65		-1.84		16522014
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-NAM-INDIA		915.45		-4.17		1300308
-LTTS		3356.1		-2.62		103678
+JYOTICNC		697.95		-0.14		2875840
+PFIZER		4899.0		0.97		15821
