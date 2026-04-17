@@ -1,8 +1,7 @@
 
 Nifty_1Hr_OBV_DIV								 
 ================= 
-nsecode		close		per_chg		volume
-BEL		456.8		2.04		11906510
+
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -10,24 +9,13 @@ BN_1Hr_OBV_DIV
 
 Intraday_Buy_PSAR								 
 ================= 
-nsecode		close		per_chg		volume
-SRF		2504.0		0.14		232722
-RELIANCE		1345.4		0.1		29867941
-BIOCON		350.55		0.06		2599205
+
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		close		per_chg		volume
-HINDALCO		1039.6		2.78		10839781
-VMM		117.87		0.44		7781699
-MANAPPURAM		267.9		-0.43		2711485
-INDIANB		938.6		-0.78		2466300
-VOLTAS		1407.0		0.34		1277644
-WAAREEENER		3451.7		0.75		1210925
-LUPIN		2329.4		-0.41		976334
-PERSISTENT		5510.5		0.4		607520
-APLAPOLLO		2042.8		0.06		518970
-SOLARINDS		14982.0		0.64		150204
+YESBANK		20.3		1.75		123783487
+CANBK		142.3		0.9		13225914
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -36,19 +24,21 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		close		per_chg		volume
-AUROPHARMA		1387.2		0.97		2228574
-AUBANK		984.5		0.35		2600160
-SUNPHARMA		1694.5		-0.12		4470685
-PPLPHARMA		147.89		-0.41		3600660
-TVSMOTOR		3765.6		-0.47		772233
-TMPV		355.9		-0.56		6765473
-APOLLOHOSP		7555.0		-1.14		394952
-TITAN		4456.9		-1.44		1263218
-ASTRAL		1576.5		-3.34		2322152
+ADANIGREEN		1128.2		0.83		5790857
+ADANIENT		2221.1		0.79		2366024
+ICICIGI		1890.9		0.22		413896
+HINDZINC		592.55		0.01		2952103
+MCX		2859.0		-0.11		3880606
+GAIL		158.0		-0.58		12675344
+SUNPHARMA		1676.6		-0.97		3086567
+UNOMINDA		1098.0		-1.03		970633
+MFSL		1674.4		-1.23		855921
+ASHOKLEY		174.51		-1.26		21470819
 
 Open_Low								 
 ======== 
 nsecode		close		per_chg		volume
-PGEL		558.7		3.87		6539932
-NUVAMA		1366.4		1.92		479201
-CHOLAFIN		1568.0		1.12		2757074
+HDFCAMC		2795.4		5.0		2239149
+VBL		472.3		2.58		11847431
+RELIANCE		1364.7		1.59		13672906
+ITC		306.95		1.17		34778791
