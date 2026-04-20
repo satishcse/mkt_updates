@@ -1,10 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		close		per_chg		volume
+ULTRACEMCO		11870		-0.13		332742
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-WELCORP		1077.15		0.0		587899
-ANTHEM		721.1		-0.3		230087
+INDIANB		928.5		-1.17		2501563
+NH		1800.0		-1.43		230607
+TEGA		1710.0		-1.61		25858
+GILLETTE		7856.0		-1.05		13780
