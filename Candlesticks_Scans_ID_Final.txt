@@ -2,16 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ULTRACEMCO		11879		-0.06		333886
+ONGC		283.1		-0.09		13192969
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-BHARTIARTL		1847.9		0.05		9109474
-IGL		166.15		-1.84		3644350
-INDIANB		929.0		-1.11		2507524
-ICICIAMC		3289.2		-1.49		378723
-NH		1803.1		-1.26		242900
-CYIENT		949.9		-1.29		189680
-TEGA		1711.1		-1.55		26007
-GILLETTE		7859.0		-1.01		14009
+GMDCLTD		690.35		-0.13		4779200
+KEI		4827.6		-1.09		406189
