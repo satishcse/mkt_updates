@@ -2,7 +2,7 @@
 Nifty_1Hr_OBV_DIV								 
 ================= 
 nsecode		close		per_chg		volume
-ETERNAL		259.35		1.75		28540309
+ETERNAL		259.17		1.68		28629950
 
 BN_1Hr_OBV_DIV								 
 ============== 
@@ -15,9 +15,14 @@ Intraday_Buy_PSAR
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		close		per_chg		volume
-IDEA		9.54		0.74		380650106
-SWIGGY		284.25		1.83		8566972
-ABCAPITAL		345.55		1.16		3846408
+IDEA		9.54		0.74		382887997
+NHPC		82.5		-0.72		12443041
+IRFC		103.49		0.46		9007006
+SWIGGY		284.3		1.84		8578496
+ABCAPITAL		345.5		1.14		3889312
+NUVAMA		1388.0		0.65		196487
+ALKEM		5701.5		1.05		122293
+NIFTY		24570.05		0.84		0
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
