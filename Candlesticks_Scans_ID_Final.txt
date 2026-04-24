@@ -1,14 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		close		per_chg		volume
-TITAN		4413.6		-0.96		946780
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-CHOICEIN		702.0		-2.13		1116530
-COROMANDEL		1991.5		-2.37		331716
-SIGNATURE		837.6		-2.15		219314
-APARINDS		11537.0		-2.54		92438
-TIMKEN		3514.9		-2.37		30529
+CHOICEIN		701.3		-2.23		1118580
+COROMANDEL		1991.8		-2.35		332471
+APARINDS		11535.5		-2.56		92635

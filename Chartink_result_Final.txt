@@ -10,13 +10,17 @@ BN_1Hr_OBV_DIV
 Intraday_Buy_PSAR								 
 ================= 
 nsecode		close		per_chg		volume
-COALINDIA		455.25		1.02		16242417
-PAGEIND		37695.0		-0.71		16910
+COALINDIA		455.2		1.01		16282972
+PAGEIND		37695.0		-0.71		16957
 
 Intraday_Volume_Shocker								 
 ======================= 
 nsecode		close		per_chg		volume
-KEI		4845.1		0.12		255320
+KAYNES		4258.0		-2.96		1171346
+MOTILALOFS		781.05		-1.24		672141
+MANKIND		2263.0		-1.3		283317
+SOLARINDS		15030.0		-4.55		280648
+KEI		4833.9		-0.12		257622
 
 High_Relative_Volume_Spurt_5m								 
 ============================= 
@@ -25,18 +29,18 @@ High_Relative_Volume_Spurt_5m
 Open_High								 
 ========= 
 nsecode		close		per_chg		volume
-ONGC		284.85		-0.49		11605885
-ITC		301.4		-1.28		16102952
-PATANJALI		462.9		-1.35		2595601
-INDUSINDBK		846.95		-1.56		1422299
-DMART		4444.1		-1.71		211433
-HINDUNILVR		2325.9		-1.71		1624903
-WIPRO		199.26		-1.73		38829134
-MUTHOOTFIN		3494.5		-1.88		533581
-VEDL		720.15		-2.1		18799833
-WAAREEENER		3305.0		-3.16		2933074
+ONGC		284.8		-0.51		11675493
+ITC		301.45		-1.26		16226438
+PATANJALI		462.5		-1.44		2605266
+DMART		4450.0		-1.57		212324
+INDUSINDBK		846.35		-1.63		1436116
+WIPRO		199.4		-1.66		38917193
+HINDUNILVR		2326.0		-1.71		1662235
+MUTHOOTFIN		3490.1		-2.0		536202
+VEDL		719.95		-2.13		18867367
+WAAREEENER		3306.5		-3.12		2938021
 
 Open_Low								 
 ======== 
 nsecode		close		per_chg		volume
-DRREDDY		1316.1		-1.12		5572959
+DRREDDY		1315.7		-1.15		5592052
