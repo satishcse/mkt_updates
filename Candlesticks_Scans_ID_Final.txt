@@ -1,11 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		close		per_chg		volume
+AXISBANK		1322.6		-3.17		10675036
+ADANIENT		2321.6		1.49		1457770
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-CHOICEIN		701.3		-2.23		1118580
-COROMANDEL		1991.8		-2.35		332471
-APARINDS		11535.5		-2.56		92635
+MEESHO		179.55		-0.63		5901694
+TMCV		420.55		-0.94		5744948
+HINDUNILVR		2329.8		0.11		1088634
+ENRIN		3189.4		-0.49		391342
+TRAVELFOOD		1283.9		-0.1		62246
