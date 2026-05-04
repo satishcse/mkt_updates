@@ -1,12 +1,10 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		close		per_chg		volume
+SUNPHARMA		1825.2		0.93		4090959
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-HINDALCO		1038.0		-2.74		4392857
-GVT&D		4466.2		-0.29		653778
-ABREL		1486.2		-4.14		244766
-GILLETTE		7953.5		-1.39		19991
+TITAGARH		769.95		0.2		794609
