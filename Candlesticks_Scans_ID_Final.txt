@@ -1,13 +1,14 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		close		per_chg		volume
-ONGC		280.4		0.43		6909722
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-SWANCORP		340.3		-3.61		702497
-GODFRYPHLP		2394.1		-1.27		600975
-CLEAN		862.85		-3.39		301317
-TRAVELFOOD		1213.9		-2.73		23215
+HINDCOPPER		565.6		-1.27		13099244
+EMCURE		1659.0		-1.13		154189
+BALKRISIND		2100.0		-3.75		127876
+AIAENG		3759.4		-3.74		28781
+BLUEDART		5164.5		-1.79		10367
+HONAUT		28560.0		-2.66		4865
