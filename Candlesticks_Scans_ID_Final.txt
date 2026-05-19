@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ONGC		297.65		-0.57		10427077
-NTPC		388.05		-1.82		7406315
+ASIANPAINT		2600.3		-0.52		677833
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-UNOMINDA		1065.1		-5.05		2537501
-HBLENGINE		747.8		-3.13		1138653
-BAYERCROP		4297.9		-1.19		19131
+UBL		1347.0		-0.55		128428
+UTIAMC		936.85		-1.08		102288
