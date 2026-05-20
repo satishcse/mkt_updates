@@ -2,10 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ASIANPAINT		2600.3		-0.52		677833
+BEL		413.4		-2.26		27636301
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		close		per_chg		volume
-RELIANCE		1323.0		-0.97		21538904
-TATACOMM		1642.6		-1.55		373142
+
