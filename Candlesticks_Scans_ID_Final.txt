@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-BEL		413.4		-2.26		27636301
+BEL		413.6		-2.21		27752833
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		close		per_chg		volume
+COFORGE		1402.3		-0.69		4834732
+TECHM		1439.6		-1.87		2203994
