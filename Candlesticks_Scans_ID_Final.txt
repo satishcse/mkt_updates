@@ -1,10 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		close		per_chg		volume
+JSWSTEEL		1290.0		0.35		894521
+ASIANPAINT		2657.3		0.66		786539
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-M&M		3084.0		-0.48		2388453
-BHARATFORG		1898.2		-0.03		613615
+BALKRISIND		2216.3		0.36		92967
+KPIL		1273.5		0.47		86107
+SPLPETRO		681.4		-1.52		50049
