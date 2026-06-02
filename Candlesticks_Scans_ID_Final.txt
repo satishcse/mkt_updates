@@ -1,14 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		close		per_chg		volume
-HDFCBANK		742.2		-0.32		47778606
-RELIANCE		1320.5		-0.05		10575704
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-ATHERENERG		938.55		-2.65		2556839
-DATAPATTNS		3845.0		-4.9		847246
-MGL		1070.0		-2.28		424719
-BRITANNIA		5166.5		-0.73		335852
+ABREL		1230.8		-1.58		117485
