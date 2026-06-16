@@ -2,11 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-TCS		2162.7		0.06		3276240
+HDFCLIFE		574.4		-1.17		2035064
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-ENRIN		3551.9		-1.52		313616
-DEEPAKNTR		1666.1		-0.23		83854
-ASAHIINDIA		894.4		1.22		41766
+SCHNEIDER		1181.8		-2.83		917430
+BAYERCROP		4238.9		-1.22		24703
