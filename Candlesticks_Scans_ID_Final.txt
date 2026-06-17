@@ -1,11 +1,9 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		close		per_chg		volume
-HDFCLIFE		574.35		-1.18		2042719
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-SCHNEIDER		1187.9		-2.33		922628
-BAYERCROP		4235.0		-1.31		24867
+LTTS		3450.8		-0.35		50809
