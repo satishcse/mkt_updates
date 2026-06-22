@@ -6,5 +6,7 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-VOLTAS		1353.5		0.75		3264603
-APOLLOTYRE		427.8		0.54		1097540
+VOLTAS		1353.2		0.73		3271709
+APOLLOTYRE		427.7		0.52		1103554
+NATCOPHARM		884.5		-0.51		337184
+LTTS		3336.0		0.14		76467
