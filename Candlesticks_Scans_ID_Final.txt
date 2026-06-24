@@ -1,15 +1,15 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		close		per_chg		volume
+DRREDDY		1329.6		2.17		3326470
+ADANIENT		3070.0		3.61		2510026
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-NIACL		194.49		-8.31		20740326
-POLICYBZR		1623.4		-2.72		1044461
-ANANDRATHI		1916.7		-0.05		459132
-AIIL		541.65		-1.51		327806
-AJANTPHARM		3183.7		-0.19		164550
-PTCIL		17533.0		-2.12		15393
-3MINDIA		33595.0		0.81		6584
+GVT&D		5053.5		-6.49		1200744
+ZENTEC		1850.6		-3.74		605714
+BERGEPAINT		530.2		-2.94		507872
+KEI		5421.0		-2.78		274005
+ALKEM		5432.5		0.31		120174
