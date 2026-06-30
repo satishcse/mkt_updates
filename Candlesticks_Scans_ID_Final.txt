@@ -2,16 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ETERNAL		259.5		1.7		34355823
+HDFCBANK		798.7		-0.03		45020144
+EICHERMOT		7095.5		-4.45		2439591
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-CANFINHOME		840.25		-5.19		933070
-SYNGENE		434.4		-0.48		794507
-OBEROIRLTY		1756.9		0.44		573440
-ECLERX		1344.5		-4.27		467239
-TIMKEN		3516.4		-3.76		269295
-CHALET		815.6		-0.41		204284
-LTTS		3127.9		-5.85		174463
-RKFORGE		560.0		-0.66		98577
+OFSS		10788		-0.8		258638
+BOSCHLTD		39875		-0.03		31910
