@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ITC		289.55		-0.26		12518705
+ITC		289.7		-0.21		12572477
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-ATGL		733.4		-0.08		1723015
-GMDCLTD		608.55		-0.34		1596251
-ALKEM		5500.0		-1.21		160351
-LINDEINDIA		7194.0		-0.25		8531
+ATGL		733.4		-0.08		1731710
+ALKEM		5499.5		-1.22		160959
