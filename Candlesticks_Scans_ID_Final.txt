@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ITC		289.7		-0.21		12572477
+ICICIBANK		1412.0		0.86		12564822
+DRREDDY		1373.6		2.07		1274424
+TITAN		4460.6		-0.46		531085
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-ATGL		733.4		-0.08		1731710
-ALKEM		5499.5		-1.22		160959
+ENRIN		3279.9		-7.6		1807261
+JKCEMENT		5500.0		-0.57		90552
