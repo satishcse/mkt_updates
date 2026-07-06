@@ -2,16 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ICICIBANK		1411.0		0.79		12709913
-DRREDDY		1374.8		2.16		1277576
-TITAN		4464.6		-0.37		533639
+SBIN		1038.3		-0.16		8656920
+RELIANCE		1322.0		1.38		7487099
+TMPV		347.25		0.92		4863304
+TRENT		3340.0		-0.02		787489
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-MAZDOCK		2545.0		-0.39		873265
-ELGIEQUIP		578.4		-2.63		324382
-CONCORDBIO		1278.4		-0.6		110940
-TIMKEN		3401.9		-2.64		49838
-TEGA		1642.7		-1.66		41400
-BBTC		1557.5		0.18		21927
+TATATECH		716.2		0.11		564709
+TIMKEN		3349.2		-1.53		30325
