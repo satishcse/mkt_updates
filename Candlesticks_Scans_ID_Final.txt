@@ -2,11 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-SBIN		1038.2		-0.17		8681451
-RELIANCE		1321.9		1.37		7526430
-TRENT		3338.5		-0.06		790583
+ITC		288.4		0.05		18233349
+DRREDDY		1358.1		-0.72		1023452
+INDIGO		5399.5		-0.17		501563
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-TIMKEN		3345.9		-1.63		30472
+ADANIENT		3107.7		-3.08		2057020
+NETWEB		4238.0		-3.93		804089
+RRKABEL		2193.0		-4.45		354969
+KPIL		1352.7		-2.01		83050
+CRISIL		3933.9		-0.86		55008
+PAGEIND		41865.0		-1.52		39705
+BBTC		1530.0		-1.28		23247
