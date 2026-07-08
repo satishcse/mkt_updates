@@ -2,10 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-SUNPHARMA		1887.9		-0.81		2758065
-CIPLA		1431.6		-1.39		1129739
+SUNPHARMA		1888.3		-0.79		2773688
+CIPLA		1430.9		-1.44		1147250
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-POLYMED		1621.7		-2.87		105101
+TRITURBINE		613.9		-3.56		854287
+ANURAS		1257.4		-1.09		417489
+POLYMED		1622.6		-2.82		105718
