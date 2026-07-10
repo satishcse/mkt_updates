@@ -2,12 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-HINDALCO		968		0.47		5582823
+HINDALCO		968.05		0.48		5645932
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-LENSKART		543.6		-0.43		11992128
-SCHNEIDER		1412.9		-4.87		442230
-PAGEIND		39335.0		-3.15		45982
-BAYERCROP		4137.0		0.41		20109
+DIXON		13424.0		-0.39		1683484
+APOLLOTYRE		440.1		0.1		486206
+SCHNEIDER		1413.4		-4.83		446103
+PAGEIND		39330.0		-3.16		46173
+BAYERCROP		4136.7		0.4		20141
