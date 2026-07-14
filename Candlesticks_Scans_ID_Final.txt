@@ -2,10 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-SHRIRAMFIN		1048.4		0.41		3177256
+LT		3845.6		-2.11		2379310
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-CHENNPETRO		1161.0		-1.67		2039513
-ELECON		501.45		-1.78		566288
+RELIANCE		1295.6		-0.1		13365486
+LODHA		1147.85		-4.24		2338838
+JYOTICNC		787.65		0.35		1427601
+OLECTRA		1377.6		-1.68		274178
+DOMS		2297.6		-2.62		66766
