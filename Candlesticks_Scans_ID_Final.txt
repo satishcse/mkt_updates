@@ -2,12 +2,9 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-LT		3845.3		-2.12		2391265
+TMPV		333.0		-0.11		6659328
+DRREDDY		1229.1		-1.37		1632623
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		close		per_chg		volume
-RELIANCE		1295.5		-0.11		13432695
-JYOTICNC		787.1		0.28		1432156
-OLECTRA		1377.8		-1.67		276392
-PIRAMALFIN		2153.4		-0.89		212165
+
