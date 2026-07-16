@@ -1,10 +1,11 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		close		per_chg		volume
+BAJFINANCE		1037.9		1.63		9013363
+DRREDDY		1225.7		-0.31		1916381
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-RELIANCE		1295.4		-0.01		14873670
-PFIZER		4707.4		0.06		24526
+BATAINDIA		677.9		-0.22		101824
