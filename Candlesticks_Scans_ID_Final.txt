@@ -2,8 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-TATACONSUM		1106.8		1.73		2338125
+MAXHEALTH		1103.2		-1.02		1101624
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		close		per_chg		volume
+RELIANCE		1269.8		-0.8		9088429
+PVRINOX		1117.8		-0.48		933839
+CAPLIPOINT		2591.9		-1.13		104458
