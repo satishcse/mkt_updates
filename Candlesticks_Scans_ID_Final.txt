@@ -1,8 +1,13 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		close		per_chg		volume
+LT		3938.8		0.19		2101130
+EICHERMOT		7916.5		1.77		1483787
+INDIGO		5230.5		-0.87		539286
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		close		per_chg		volume
+ZYDUSWELL		566.7		-2.2		116438
+AIAENG		4556.0		-1.88		46634
