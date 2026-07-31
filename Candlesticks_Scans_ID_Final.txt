@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ITC		280.8		-1.49		16312246
-POWERGRID		284.4		-0.46		7618918
-LT		3939.7		0.05		1731771
+ITC		280.65		-1.54		16539731
+POWERGRID		284.2		-0.53		7728194
+LT		3939.7		0.05		1741086
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-CRAFTSMAN		9839		-2.07		101580
+CRAFTSMAN		9860.5		-1.86		102453
