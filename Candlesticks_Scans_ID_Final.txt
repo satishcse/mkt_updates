@@ -3,14 +3,14 @@ Tweezer_top_15m_Nifty
 ===================== 
 nsecode		close		per_chg		volume
 RELIANCE		1321		3.2		19625150
-JSWSTEEL		1306		-1.8		2259790
-EICHERMOT		7935		-0.64		369101
-BAJAJ-AUTO		11586		-1.81		245832
+JSWSTEEL		1306		-1.8		2259826
+EICHERMOT		7935		-0.64		369103
+BAJAJ-AUTO		11586		-1.81		245840
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
 MUTHOOTFIN		2891.3		-0.02		1262518
 KFINTECH		928.65		-2.12		588681
-RADICO		4464.0		-1.89		419375
-TBOTEK		1624.6		-2.57		102996
+RADICO		4464.0		-1.89		419401
+TBOTEK		1625.0		-2.55		105789
