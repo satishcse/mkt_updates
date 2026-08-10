@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-WIPRO		185.11		-1.29		5140432
+WIPRO		185.11		-1.29		5168758
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-DRREDDY		1159.0		-1.11		1754034
-ASTERDM		867.6		-0.24		1003489
-NEULANDLAB		22271.0		-2.56		87322
-CRAFTSMAN		10287.5		-1.86		30212
+DRREDDY		1159.0		-1.11		1754085
+ASTERDM		867.55		-0.25		1006451
