@@ -2,14 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ITC		278.7		-1.4		12685547
-WIPRO		183.9		-0.86		9105791
-APOLLOHOSP		8741.5		-1.91		557938
+ITC		276.5		-0.9		12518283
+KOTAKBANK		392.65		-0.06		10277120
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-JUBLFOOD		488.5		-1.31		2647929
-LODHA		1204.0		-0.74		791003
-UNOMINDA		1275.0		-1.01		496265
-360ONE		1155.0		-1.75		474909
+NESTLEIND		1498.8		0.38		1934602
+CHOLAHLDNG		1571.4		-2.43		201759
