@@ -2,14 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ITC		276.5		-0.9		12519884
-KOTAKBANK		392.65		-0.06		10277120
+COALINDIA		407.75		-0.38		4387972
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-NESTLEIND		1498.8		0.38		1934602
-AEGISLOG		1264.8		-2.53		831763
-CHOLAHLDNG		1572.5		-2.37		204246
-ACUTAAS		3150.7		-2.94		157010
-GODREJIND		1232.8		-4.42		114682
+HINDALCO		1043.5		-3.25		4904267
+ADANIGREEN		1318.9		-1.01		1661815
+ITI		281.35		-0.76		260964
+CEMPRO		1236.0		-2.04		223192
+OFSS		11395.0		-2.43		116299
+POWERINDIA		35270.0		-1.48		58667
+DOMS		2236.0		-0.27		16170
