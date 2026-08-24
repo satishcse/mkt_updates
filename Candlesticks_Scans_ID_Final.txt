@@ -2,11 +2,17 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ICICIBANK		1418		0.43		4723800
+JSWSTEEL		1316		1.72		3726149
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-360ONE		1197.9		-0.42		486009
-TIINDIA		2885.9		-1.51		225155
-AFFLE		1716.8		-0.73		71704
+EIDPARRY		817.6		2.55		5674151
+BAJFINANCE		1078.9		-1.47		4256012
+M&M		3410.1		-0.06		1158649
+HYUNDAI		2209.2		-0.43		501239
+GRSE		2595.5		-0.23		494044
+BAJAJFINSV		2004.0		-1.4		455873
+ANANDRATHI		2168.3		-0.9		142767
+VIJAYA		1479.0		-1.69		135158
+TIMKEN		3080.0		-1.73		33262
