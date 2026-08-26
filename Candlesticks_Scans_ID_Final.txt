@@ -7,5 +7,6 @@ COALINDIA		403.5		-0.12		5216068
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-HBLENGINE		684.7		-1.43		463013
-KIRLOSENG		2035.0		0.28		139346
+NETWEB		5286.0		0.24		2767097
+CHENNPETRO		1377.1		-1.72		787900
+KIRLOSENG		2035.0		0.28		139624
