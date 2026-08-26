@@ -2,12 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-HDFCBANK		724.0		-0.69		17323257
-HINDALCO		1046.6		-1.12		3630325
+COALINDIA		403.5		-0.12		5216068
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-LENSKART		652.0		-1.17		6363007
-ATHERENERG		1441.6		-0.79		1140899
-ENRIN		3390.0		-2.75		407219
+HBLENGINE		684.7		-1.43		463013
+KIRLOSENG		2035.0		0.28		139346
