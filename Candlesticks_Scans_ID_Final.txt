@@ -2,11 +2,16 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-COALINDIA		403.5		-0.12		5216068
+HDFCLIFE		549.9		-0.56		2470159
+MAXHEALTH		1007.0		0.2		1469370
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-NETWEB		5286.0		0.24		2767097
-CHENNPETRO		1377.1		-1.72		787900
-KIRLOSENG		2035.0		0.28		139624
+ATHERENERG		1480.5		-0.94		2773849
+CDSL		1410.8		-1.62		1550279
+ACMESOLAR		386.7		-2.34		1511915
+CARTRADE		3073.1		-2.2		666977
+RKFORGE		715.75		-2.22		569739
+PHOENIXLTD		1917.4		-0.35		468022
+BRITANNIA		5286.0		-0.45		221488
