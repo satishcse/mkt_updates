@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-BAJAJ-AUTO		11997		0.73		319833
+BAJAJ-AUTO		11997		0.73		319835
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-ADANIPORTS		1650.1		-3.36		4471704
+ADANIPORTS		1650.1		-3.36		4528702
+ADANIGREEN		1262.9		-3.67		2089576
 ICICIPRULI		502.0		-0.79		2070971
-ADANIGREEN		1262.9		-3.67		2015286
 DIVISLAB		9194.5		-0.48		533283
-DATAPATTNS		4527.0		-2.11		402442
+ACUTAAS		3154.7		-3.87		485784
