@@ -1,11 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		close		per_chg		volume
+SHRIRAMFIN		1044.2		-0.27		6148170
+TATACONSUM		1015.0		0.3		1012149
+INDIGO		4979.0		-0.82		773814
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-SCI		289		0.52		4483237
-GODFRYPHLP		2032		-2.23		229119
-BAJAJHLDNG		11100		-1.86		32123
+NEULANDLAB		22895		-0.28		30760
