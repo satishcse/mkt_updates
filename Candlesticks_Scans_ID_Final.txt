@@ -2,15 +2,14 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-TECHM		1558.6		-2.4		1918965
+TECHM		1558.6		-2.4		1921875
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-HAVELLS		1149.1		-0.42		886642
-CAMS		741.0		-1.04		443352
+HAVELLS		1149.1		-0.42		886747
+CAMS		741.0		-1.04		444362
+EIDPARRY		777.6		-0.48		296474
 SRF		2538.0		-0.35		210066
-TECHNOE		962.5		-1.74		128736
-RADICO		4456.0		-0.85		108196
-JUBLINGREA		675.65		-0.68		102512
-INDIAMART		1708.0		-1.07		52197
+TECHNOE		963.85		-1.6		129433
+RADICO		4456.0		-0.85		109730
