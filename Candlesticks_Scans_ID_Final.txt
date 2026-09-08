@@ -2,14 +2,12 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-TECHM		1558.6		-2.4		1921875
+SBIN		1008.0		0.21		7016464
+COALINDIA		419.2		0.08		5349187
+TITAN		4987.0		-0.16		407630
+ASIANPAINT		2482.0		-0.76		325232
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-HAVELLS		1149.1		-0.42		886747
-CAMS		741.0		-1.04		444362
-EIDPARRY		777.6		-0.48		296474
-SRF		2538.0		-0.35		210066
-TECHNOE		963.85		-1.6		129433
-RADICO		4456.0		-0.85		109730
+AAVAS		1292.9		-1.02		41276
