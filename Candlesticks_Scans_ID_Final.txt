@@ -5,9 +5,9 @@ nsecode		close		per_chg		volume
 SBIN		1008.0		0.21		7016464
 COALINDIA		419.2		0.08		5349187
 TITAN		4987.0		-0.16		407630
-ASIANPAINT		2482.0		-0.76		325232
+ASIANPAINT		2482.0		-0.76		325402
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-AAVAS		1292.9		-1.02		41276
+AAVAS		1292.9		-1.02		41583
