@@ -2,11 +2,11 @@
 Volume_Shocker_Daily								 
 ==================== 
 nsecode		close		per_chg		volume
-TATACHEM		734.9		19.99		1819577
-FSL		287.5		16.11		33745098
-TATAINVEST		715.8		9.97		24439234
-SONATSOFTW		281.15		5.76		6761033
-SOLARINDS		19225.0		-13.75		1299130
+TATACHEM		734.9		19.99		1820831
+FSL		288.05		16.34		33786682
+TATAINVEST		716.7		10.11		24456912
+SONATSOFTW		281.15		5.76		6765500
+SOLARINDS		19225.0		-13.75		1299249
 
 BN_NR7								 
 ====== 
@@ -20,7 +20,7 @@ NCPR_KGS
 ======== 
 nsecode		close		per_chg		volume
 ALKEM		5208.0		2.37		246295
-SONACOMS		785.4		-0.33		1611273
+SONACOMS		785.4		-0.33		1611596
 
 OBV_RSI_Buy_Daily								 
 ================= 
@@ -29,11 +29,12 @@ OBV_RSI_Buy_Daily
 Strong_Stocks_Daily								 
 =================== 
 nsecode		close		per_chg		volume
-ACMESOLAR		419.75		4.34		5197526
-AEGISVOPAK		301.75		2.25		4372314
+ACMESOLAR		419.65		4.31		5219911
+AEGISVOPAK		302.4		2.47		4389593
 KALYANKJIL		606.0		0.81		8475371
-ABDL		635.05		0.4		514824
-ANTHEM		943.2		0.24		593214
+LLOYDSME		1807.8		0.46		581930
+ABDL		635.0		0.4		519062
+ANTHEM		943.65		0.29		595335
 
 Bullish_Harami_N100								 
 =================== 
