@@ -6,5 +6,8 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-TCS		2183		-3.02		2697700
-TATAELXSI		3373		-1.95		182806
+TCS		2183.0		-3.02		2697700
+TATATECH		748.35		-1.44		933429
+TATAELXSI		3373.0		-1.95		182806
+IKS		1753.0		-1.68		127570
+3MINDIA		31960.0		1.17		27509
