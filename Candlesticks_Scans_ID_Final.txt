@@ -1,14 +1,12 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		close		per_chg		volume
-ITC		264.8		-0.82		7074745
-LT		3877.0		-0.71		1331910
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-CGPOWER		903.9		-0.67		2253948
-CARTRADE		2909.0		-0.31		194484
-VIJAYA		1512.6		-2.8		145910
-NEULANDLAB		22565.0		-0.2		26198
+COFORGE		1781.0		-1.22		1469692
+ADANIENT		2988.6		-0.28		855206
+BDL		1161.0		-0.6		643803
+OFSS		10840.0		-1.36		173421
