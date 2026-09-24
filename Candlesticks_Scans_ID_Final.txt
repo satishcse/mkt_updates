@@ -1,13 +1,17 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		close		per_chg		volume
+ETERNAL		337.1		-1.62		14902628
+CIPLA		1399.0		1.16		1561947
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-COFORGE		1781.0		-1.22		1469692
-ADANIENT		2988.6		-0.28		855206
-BDL		1161.0		-0.6		644349
-GRAVITA		1559.2		-0.36		355220
-OFSS		10840.0		-1.36		173421
+BDL		1157.9		-0.27		2010962
+ADANIENSOL		1337.1		-3.11		1828263
+CDSL		1326.5		-1.82		1229965
+GLENMARK		2443.0		-1.29		451140
+ZENTEC		1644.7		-1.65		166324
+POWERINDIA		30750.0		-1.28		65075
+CRISIL		4499.0		-2.32		13655
