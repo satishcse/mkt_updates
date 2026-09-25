@@ -2,16 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ETERNAL		337.1		-1.62		14902628
-CIPLA		1399.0		1.16		1561947
+HDFCLIFE		528.7		0.34		4243215
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-BDL		1157.9		-0.27		2011080
-ADANIENSOL		1337.1		-3.11		1828836
-CDSL		1326.5		-1.82		1229965
-PVRINOX		1255.1		-4.74		665632
-GLENMARK		2443.0		-1.29		452003
-POWERINDIA		30750.0		-1.28		65075
-CRISIL		4502.0		-2.25		14004
+FORTIS		836.0		-4.71		2424955
+ANANDRATHI		2124.4		-1.98		415504
+GALLANTT		545.0		-0.05		55804
