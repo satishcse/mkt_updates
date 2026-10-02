@@ -6,6 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-SYRMA		1717.1		-3.69		1851555
-DELHIVERY		400.0		-2.37		1364514
-GODFRYPHLP		1851.0		-2.16		254743
+DELHIVERY		400.0		-2.37		1371538
+GODFRYPHLP		1849.7		-2.23		256983
