@@ -2,15 +2,15 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-JIOFIN		211.51		-0.47		15936406
+JIOFIN		211.51		-0.47		15941902
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
 KAYNES		3394.8		-0.12		706084
-ENRIN		3342.6		0.26		601569
-JYOTICNC		1030.0		-0.2		371698
-DIXON		12748.0		0.38		209397
+ENRIN		3342.6		0.26		601679
+JYOTICNC		1029.8		-0.22		379974
+ABREL		1082.8		-1.61		306836
+DIXON		12748.0		0.38		209425
 SRF		2454.7		-1.27		202973
-TORNTPOWER		1232.9		-0.8		187644
-TBOTEK		1658.0		-0.81		48784
+TORNTPOWER		1232.3		-0.85		189240
