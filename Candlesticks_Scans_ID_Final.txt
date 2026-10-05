@@ -1,10 +1,16 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-
+nsecode		close		per_chg		volume
+JIOFIN		211.51		-0.47		15936406
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-DELHIVERY		400.0		-2.37		1371538
-GODFRYPHLP		1849.7		-2.23		256983
+KAYNES		3394.8		-0.12		706084
+ENRIN		3342.6		0.26		601569
+JYOTICNC		1030.0		-0.2		371698
+DIXON		12748.0		0.38		209397
+SRF		2454.7		-1.27		202973
+TORNTPOWER		1232.9		-0.8		187644
+TBOTEK		1658.0		-0.81		48784
