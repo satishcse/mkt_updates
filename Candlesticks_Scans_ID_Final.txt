@@ -2,13 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ONGC		221.99		-0.99		13911682
+ONGC		221.99		-0.99		13911923
 GRASIM		2914.9		-1.82		208289
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-INDIGO		5020		-0.6		1609971
-HAL		4758		-1.2		511865
-BRITANNIA		4791		-1.9		246143
-MANKIND		2500		0.0		239713
+INDIGO		5020		-0.6		1609972
+HAL		4758		-1.2		511893
+BRITANNIA		4791		-1.9		246164
+MANKIND		2500		0.0		239788
