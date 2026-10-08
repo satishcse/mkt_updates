@@ -1,14 +1,19 @@
 
 Tweezer_top_15m_Nifty								 
 ===================== 
-nsecode		close		per_chg		volume
-ONGC		221.99		-0.99		13911923
-GRASIM		2914.9		-1.82		208289
+
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-INDIGO		5020		-0.6		1609972
-HAL		4758		-1.2		511893
-BRITANNIA		4791		-1.9		246164
-MANKIND		2500		0.0		239788
+BHARTIARTL		1795.0		-2.12		6428792
+HCLTECH		1186.2		0.1		2307155
+TECHM		1490.6		-0.03		1535635
+LUPIN		1947.0		-3.27		577906
+NAVA		544.85		-4.49		563808
+ACE		1177.2		-5.82		386323
+SCHNEIDER		1191.9		-5.12		282988
+CUMMINSIND		4739.2		-2.73		220708
+BAJAJ-AUTO		9686.0		-2.0		195860
+VIJAYA		1424.8		-2.57		85023
+CRISIL		4407.0		-2.26		12677
