@@ -2,41 +2,41 @@
 FII_Shareholding_Increased								 
 ========================== 
 nsecode		close		per_chg		volume
-ANANDRATHI		2235.0		0.54		1074494
+ANANDRATHI		2235.0		0.54		1074515
 WIPRO		189.84		-0.3		27379374
 
 Fundamental_Tenchnical_Swing								 
 ============================ 
 nsecode		close		per_chg		volume
-SKYGOLD		1051.6		0.82		1893825
-LTTS		3909.3		-1.15		596807
-SHRINGARMS		282.95		-5.05		787594
+SKYGOLD		1053.2		0.97		1896177
+LTTS		3903.2		-1.3		597208
+SHRINGARMS		282.85		-5.08		828782
 
 Zero_Debt_Momentum								 
 ================== 
 nsecode		close		per_chg		volume
-GNA		512.45		-3.3		1256047
-GOODLUCK		545.0		-3.5		579070
+GNA		511.85		-3.42		1268761
+GOODLUCK		543.0		-3.85		655226
 
 FIPA_above_all_SMAs								 
 =================== 
 nsecode		close		per_chg		volume
-CHENNPETRO		1468.4		1.01		6373730
-FSL		292.2		0.97		3078727
+FSL		293.05		1.26		3134588
+CHENNPETRO		1469.6		1.09		6392504
 TCS		2525.6		0.75		6813279
-ANANDRATHI		2235.0		0.54		1074494
+ANANDRATHI		2235.0		0.54		1074515
 MPHASIS		2495.0		-0.18		1082782
 COFORGE		1905.0		-0.2		3528326
 PERSISTENT		5711.0		-0.51		1168002
-INDHOTEL		777.0		-0.68		11553765
-LTTS		3909.3		-1.15		596807
-HBLENGINE		768.6		-2.02		2041696
-TECHM		1789.4		-2.17		3408570
+INDHOTEL		777.0		-0.68		11553915
+LTTS		3903.2		-1.3		597208
+HBLENGINE		769.45		-1.91		2050106
+TECHM		1789.4		-2.17		3408573
 
 Outperforming_Nifty_1W_3M								 
 ========================= 
 nsecode		close		per_chg		volume
-SSWL		468.75		19.99		19898861
-SHREERAMA		59.14		9.91		728845
-PASHUPATI		104.27		4.99		2551853
-KROSS		305.4		3.68		8389147
+SSWL		468.75		19.99		19899205
+SHREERAMA		59.09		9.81		730719
+PASHUPATI		104.4		5.13		2569093
+KROSS		305.25		3.63		8400711
