@@ -2,11 +2,13 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-NTPC		302.35		-0.21		7415526
+LT		3639.9		0.04		1974602
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-BALRAMCHIN		656.35		-3.61		962253
-POLYMED		1448.1		-1.5		193142
-APARINDS		14735.0		-2.56		143869
+TMCV		396.4		-4.31		7998253
+TECHM		1789.4		-2.17		3408570
+360ONE		993.1		-5.15		2008525
+MANKIND		2207.9		-2.98		677154
+DIXON		11170.0		-3.66		348504
