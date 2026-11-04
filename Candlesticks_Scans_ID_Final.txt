@@ -6,8 +6,5 @@ Tweezer_top_15m_Nifty
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-ZENSARTECH		532.55		-2.02		770931
-MUTHOOTFIN		2524.6		0.39		761993
-MPHASIS		2520.0		-1.7		566613
-APLAPOLLO		2150.0		-0.63		379206
-TIINDIA		2190.0		0.5		336830
+TMCV		402.0		-0.54		7514917
+TATACONSUM		1065.7		-0.68		1641445
