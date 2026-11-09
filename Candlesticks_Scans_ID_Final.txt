@@ -7,4 +7,5 @@ TATASTEEL		184.85		-2.81		48451512
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-SYRMA		1457.8		-3.14		951697
+SYRMA		1457.8		-3.14		951925
+FACT		749.3		-0.48		27239
