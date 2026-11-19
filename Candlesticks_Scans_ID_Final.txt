@@ -2,8 +2,10 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-ONGC		224.95		-0.02		5992724
+ONGC		224.95		-0.02		5995161
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-
+nsecode		close		per_chg		volume
+PFOCUS		268.35		-2.68		3828170
+SHYAMMETL		1292.9		-1.84		643083
