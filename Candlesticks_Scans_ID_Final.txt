@@ -2,15 +2,8 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-NTPC		320.3		-0.47		8917623
-SBILIFE		1788.0		-1.49		649848
+ONGC		224.95		-0.02		5992724
 
 Bullish_Hammer_15m_N500								 
 ======================= 
-nsecode		close		per_chg		volume
-HINDZINC		527.0		-4.18		5699241
-TVSMOTOR		4370.0		-2.15		1142970
-NATCOPHARM		820.05		-0.35		1109468
-BDL		1012.7		-1.4		814824
-SBICARD		562.3		-2.12		813126
-INDIACEM		311.3		-3.17		505274
+
