@@ -2,11 +2,11 @@
 Tweezer_top_15m_Nifty								 
 ===================== 
 nsecode		close		per_chg		volume
-COALINDIA		384.65		0.69		8861021
-APOLLOHOSP		9290.0		0.36		599513
+COALINDIA		384.65		0.69		8895713
+APOLLOHOSP		9290.0		0.36		599514
 
 Bullish_Hammer_15m_N500								 
 ======================= 
 nsecode		close		per_chg		volume
-ADANIENSOL		1407.0		-4.29		2491653
-CHOLAFIN		1864.8		1.85		1972154
+ADANIENSOL		1407.0		-4.29		2491924
+CHOLAFIN		1864.8		1.85		1972778
